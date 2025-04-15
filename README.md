@@ -1,2 +1,3 @@
-# cobblemon-realms-wiki
-The official wiki for the Cobblemon Realms modpack
+# HOME
+
+[🌍 Return to language selection](https://app.gitbook.com/s/MoNV72ip5YoBD0RvKQwp/)
