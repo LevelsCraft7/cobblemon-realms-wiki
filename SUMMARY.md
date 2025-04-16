@@ -1,10 +1,8 @@
 # Table of contents
 
-* [README](README.md)
-
 ## 🌍 Welcome
 
-* [Welcome](index.md)
+* [Welcome](README.md)
 * [FAQ](faq.md)
 * [Contribute](contributing.md)
 
