@@ -10,7 +10,7 @@ We recommend using CurseForge:
 2. Search for "[Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)".
 3. Click install and launch the modpack.
 
-> Make sure Java 21 is installed. Server RAM recommendation: **6-8GB** minimum
+> Make sure Java 21 is installed.
 
 ## 🎮  How to Open a Minecraft Server to Play with Friends
 
@@ -38,7 +38,7 @@ Open the file `user_jvm_args.txt` and edit the memory values:
 
 - `Xmx` = Max RAM
 - `Xms` = Min RAM\
-  ➡️ _Don’t allocate all your RAM! Leave at least 2-4GB for your system._
+   ➡️ _Don’t allocate all your RAM! Leave at least 2-4GB for your system._
 
 ---
 
@@ -48,7 +48,7 @@ Open the file `user_jvm_args.txt` and edit the memory values:
 2. Run the `run.bat` file (double-click it)
 3. It will stop and create a file called `eula.txt`
 4. Open it and change:\
-  `eula=false` → `eula=true`
+   `eula=false` → `eula=true`
 5. Save and close
 
 ---
@@ -84,6 +84,8 @@ If you don’t want to deal with technical setup, I recommend using a hosting se
 
 ---
 
+🎁 **SPECIAL OFFER**
+
 🎁\*\* SPECIAL OFFER\*\*
 **25% off** your first server with the code:\
 🧡 `OurStory`
@@ -93,22 +95,9 @@ https://bisecthosting.com/ourstory
 
 This supports the project and helps me keep developing new updates :heart:
 
----
-
-**🛑 Other Host Options:**
-You can also use services like:
-
-- **Apex Hosting**
-- **Shockbyte**
-- **GTXGaming**
-- **OMGSERV**
-- … or any provider that supports:
-  - **NeoForge**
-  - **Custom modpacks**
-  - **Java 21**
-
 📬 **Need Help?**
 Ask in the support or modpack discussion channels!\
+I may not reply instantly, but the community is here too :speech_balloon:\
 I may not reply instantly, but the community is here too :speech_balloon:
 
 🔥 Have fun with your friends and enjoy your Pokémon journey together on **Cobblemon Realms**!

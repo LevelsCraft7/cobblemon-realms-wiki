@@ -41,9 +41,10 @@ need to generate the chunks on the fly.
   /chunky cancel
 
 4. Advanced Settings:
-  - Some configurations can be modified in the mod’s config files.
-  - Adjust parameters like generation speed or maximum chunk count.
-  - Refer to the config file (usually located in your server’s config folder) for detailed options.
+
+- Some configurations can be modified in the mod’s config files.
+- Adjust parameters like generation speed or maximum chunk count.
+- Refer to the config file (usually located in your server’s config folder) for detailed options.
 
 ## Tips & Best Practices:
 
