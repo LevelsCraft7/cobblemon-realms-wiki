@@ -1,19 +1,19 @@
-# Pokémon and Spawns
+# Apparitions et Pokémon
 
-Cobblemon Realms uses custom spawn logic and configurations.
+Cobblemon Realms utilisent des configurations et des logiques de spawn personnalisées.
 
-## 📍 Biome-based spawns
+## 📍 Apparitions basées sur le biome
 
-Different Pokémon appear depending on the biome and time of day:
+Différents Pokémon apparaissent en fonction du biome et de l'heure de la journée :
 
-- Forest → Grass-type Pokémon
-- Oceans → Water-types
-- Deserts → Fire-types
+- Forêt → Pokémon de type herbe
+- Océans → Types d'eau
+- Déserts → Types de feu
 
-## 🕓 Spawn intervals
+## 🕓 Intervalles d'apparition
 
-Spawns are configured to be dynamic and feel natural. Some rare Pokémon may only spawn during specific times or conditions.
+Les spawn sont configurés pour être dynamiques et se sentent naturels. Certains Pokémon rares ne peuvent apparaître que pendant des périodes ou des conditions spécifiques.
 
-## 🗺️ Using `/checkspawns`
+## 🗺️ Utilisation de `/checkspawns`
 
-This command allows you to see which Pokémon can spawn in your current biome.
+Cette commande vous permet de voir quel Pokémon peut apparaître dans votre biome actuel.
