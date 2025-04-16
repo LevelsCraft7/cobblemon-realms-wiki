@@ -2,7 +2,7 @@
 
 [🌍 Return to language selection](https://app.gitbook.com/s/MoNV72ip5YoBD0RvKQwp/)
 
-Cobblemon Realms is a carefully crafted modpack that blends the magic of Minecraft exploration with the Pokémon universe.
+Cobblemon Realms is a carefully crafted modpack that blends the magic of Minecraft exploration with the Pokémon/Cobblemon universe.
 
 This wiki is your central hub for everything related to the modpack: installation, gameplay progression, Pokémon behavior, multiplayer, and more.
 
