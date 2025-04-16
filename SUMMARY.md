@@ -1,6 +1,6 @@
 # Table of contents
 
-## 🌍 Welcome
+## 🌍 Home
 
 * [Welcome](README.md)
 * [FAQ](faq.md)
