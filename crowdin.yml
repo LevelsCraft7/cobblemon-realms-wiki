@@ -7,4 +7,4 @@ files:
   - source: '**/*.md'
     ignore:
       - 'fr/**'
-    translation: 'fr/%original_path%/%original_file_name%'
+    translation: 'fr/%locale%/%original_path%/%original_file_name%'
