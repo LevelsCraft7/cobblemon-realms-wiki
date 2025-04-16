@@ -81,8 +81,8 @@ If you don’t want to deal with technical setup, I recommend using a hosting se
 
 ---
 
-🎁** SPECIAL OFFER**
-**25% off** your first server with the code:  
+🎁 **SPECIAL OFFER**
+Get **25% off** for your first server with the code:  
 🧡 `OurStory`
 
 **👉 Affiliate Link:**
