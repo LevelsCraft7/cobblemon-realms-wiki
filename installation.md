@@ -10,7 +10,7 @@ We recommend using CurseForge:
 2. Search for "[Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)".
 3. Click install and launch the modpack.
 
-> Make sure Java 21 is installed. Server RAM recommendation: **6-8GB** minimum
+> Make sure Java 21 is installed!
 
 
 ## 🎮  How to Open a Minecraft Server to Play with Friends
