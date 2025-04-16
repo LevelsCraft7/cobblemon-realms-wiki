@@ -1,6 +1,6 @@
 # Summary
 
-## 🌍 Bienvenue
+## 🌍 Accueil
 
 - [Bienvenue](index.md)
 - [FAQ](faq.md)
