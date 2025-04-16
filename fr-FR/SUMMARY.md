@@ -2,7 +2,7 @@
 
 ## 🌍 Accueil
 
-- [Bienvenue](index.md)
+- [Bienvenue](README.md)
 - [FAQ](faq.md)
 - [Contribuer](contributing.md)
 
