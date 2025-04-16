@@ -104,16 +104,7 @@ You can also use services like:
   - **Java 21**
 
 
-## 💡 FAQ
 
-**Q: Can I play singleplayer and invite friends later?**  
-Yes! You can **turn your world into a server** later by copying the world save to your server folder.
-
-**Q: Can I use aternos/minehut/free hosts?**  
-Not recommended for big modpacks like Cobblemon Realms. Too many limitations.
-
-**Q: Does the modpack require special setup?**  
-Yes: **Java 21** and **enough RAM** (at least 6-8GB allocated to the server). That's why a good host helps!
 
 
 
