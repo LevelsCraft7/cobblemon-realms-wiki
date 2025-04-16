@@ -13,9 +13,9 @@
 
 ## 🎮 Gameplay
 
-- [Pokémon & Apparitions](pokemon-spawns.md)
+- [Pokémon & Apparitions](pokemon-and-spawns.md)
 - [Quêtes](quests.md)
-- [Serveurs Multijoueurs](multiplayer.md)
+- [Serveurs Multijoueurs](multiplayer-servers.md)
 
 ## 🧩 Guides de Mods
 
