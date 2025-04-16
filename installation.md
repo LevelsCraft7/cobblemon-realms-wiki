@@ -10,13 +10,8 @@ We recommend using CurseForge:
 2. Search for "[Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)".
 3. Click install and launch the modpack.
 
-## 🌐 Multiplayer (Server Setup)
-
-1. Download the server version of the pack from the [CurseForge project](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/all?page=1&pageSize=20).
-2. Unzip the server files.
-3. Start the server with the included `start.bat`.
-
 > Make sure Java 21 is installed. Server RAM recommendation: **6-8GB** minimum
+
 
 ## 🎮  How to Open a Minecraft Server to Play with Friends
 *For Cobblemon Realms & Our Story Modpacks*
@@ -109,8 +104,7 @@ You can also use services like:
   - **Java 21**
 
 
-
-**## 💡 FAQ**
+## 💡 FAQ
 
 **Q: Can I play singleplayer and invite friends later?**  
 Yes! You can **turn your world into a server** later by copying the world save to your server folder.
@@ -121,13 +115,13 @@ Not recommended for big modpacks like Cobblemon Realms. Too many limitations.
 **Q: Does the modpack require special setup?**  
 Yes: **Java 21** and **enough RAM** (at least 6-8GB allocated to the server). That's why a good host helps!
 
----
+
 
 📬 **Need Help?**
 Ask in the support or modpack discussion channels!  
 I may not reply instantly, but the community is here too :speech_balloon:
 
----
+
 
 🔥 Have fun with your friends and enjoy your Pokémon journey together on **Cobblemon Realms**!
 Let’s make it an unforgettable adventure! 🧭✨
