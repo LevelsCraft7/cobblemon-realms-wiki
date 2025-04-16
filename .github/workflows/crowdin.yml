@@ -2,21 +2,24 @@ name: Crowdin Sync
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
+    paths:
+      - '**.md'
+      - 'crowdin.yml'
   workflow_dispatch:
 
 jobs:
-  sync-with-crowdin:
+  crowdin:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
-      - name: Upload sources to Crowdin and download translations
-        uses: crowdin/github-action@v1.8.1
+      - name: Crowdin GitHub Action
+        uses: crowdin/github-action@v1
         with:
           upload_sources: true
-          upload_translations: false
+          upload_translations: true
           download_translations: true
           push_translations: true
           config: 'crowdin.yml'
