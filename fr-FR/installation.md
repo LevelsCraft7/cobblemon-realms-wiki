@@ -99,6 +99,7 @@ This supports the project and helps me keep developing new updates :heart:
 Ask in the support or modpack discussion channels!\
 I may not reply instantly, but the community is here too :speech_balloon:\
 I may not reply instantly, but the community is here too :speech_balloon:\
+I may not reply instantly, but the community is here too :speech_balloon:\
 I may not reply instantly, but the community is here too :speech_balloon:
 
 🔥 Have fun with your friends and enjoy your Pokémon journey together on **Cobblemon Realms**!
