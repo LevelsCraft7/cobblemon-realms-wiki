@@ -3,6 +3,6 @@ api_token_env: CROWDIN_PERSONAL_TOKEN
 
 files:
   - source: "/**/*.md"
-    translation: "/fr/%original_path%/%original_file_name%"
+    translation: "/%locale%/%original_path%/%original_file_name%"
     ignore:
       - "/fr/**"
