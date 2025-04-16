@@ -1,5 +1,6 @@
-# Summary
+# Table of contents
 
+* [Back to home page](README.md)
 * [Home](index.md)
 * [Getting Started](getting-started.md)
 * [Installation](installation.md)
