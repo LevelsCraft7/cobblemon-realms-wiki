@@ -82,6 +82,7 @@ If you don’t want to deal with technical setup, I recommend using a hosting se
 ---
 
 🎁 **SPECIAL OFFER**
+
 Get **25% off** for your first server with the code:  
 🧡 `OurStory`
 
@@ -89,23 +90,6 @@ Get **25% off** for your first server with the code:
 https://bisecthosting.com/ourstory
 
 This supports the project and helps me keep developing new updates :heart:
-
----
-
-**🛑 Other Host Options:**
-You can also use services like:
-- **Apex Hosting**
-- **Shockbyte**
-- **GTXGaming**
-- **OMGSERV**
-- … or any provider that supports:
-  - **NeoForge**
-  - **Custom modpacks**
-  - **Java 21**
-
-
-
-
 
 
 📬 **Need Help?**
