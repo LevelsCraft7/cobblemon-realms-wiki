@@ -1,5 +1,7 @@
 # Getting Started
 
+[🌍 Return to language selection](https://app.gitbook.com/s/MoNV72ip5YoBD0RvKQwp/)
+
 Welcome to Cobblemon Realms! Here’s what to do when launching the modpack for the first time:
 
 ## 1. Choose your starter Pokémon
