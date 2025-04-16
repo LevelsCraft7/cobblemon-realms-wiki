@@ -71,7 +71,7 @@ Open the file `user_jvm_args.txt` and edit the memory values:
 
 ---
 
-**## 🌐 OPTION 2 – Use a Game Server Host (Recommended)**
+## 🌐 OPTION 2 – Use a Game Server Host (Recommended)
 
 If you don’t want to deal with technical setup, I recommend using a hosting service!
 
