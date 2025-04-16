@@ -1,12 +1,13 @@
-# Table of contents
+# Summary
 
-* [Back to home page](README.md)
-* [Home](index.md)
-* [Getting Started](getting-started.md)
-* [Installation](installation.md)
-* [Multiplayer Servers](multiplayer-servers.md)
-* [Pokémon and Spawns](pokemon-and-spawns.md)
-* [Quests](quests.md)
-* [FAQ](faq.md)
-* [Contributing](contributing.md)
-* [Mods Guides](mods-guides/README.md)
+- [Getting Started](getting-started.md)
+- [Pokémon & Spawns](pokemon-spawns.md)
+- [Quests](quests.md)
+- [Multiplayer Servers](multiplayer.md)
+- [Installation Guide](installation.md)
+- [FAQ](faq.md)
+- [Contribute](contribute.md)
+
+## 🧩 Mods Guides
+
+- [Chunky](mods-guides/chunky.md)
