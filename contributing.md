@@ -10,7 +10,7 @@ We welcome contributions from the community!
 
 ## 🌐 Translations
 
-This wiki is translated using [Crowdin]([https://crowdin.com/](https://crowdin.com/project/cobblemon-realms-wiki)). You can help translate it into French or other languages via our Crowdin project.
+This wiki is translated using [Crowdin](https://crowdin.com/project/cobblemon-realms-wiki). You can help translate it into French or other languages via our Crowdin project.
 
 ## 🔧 Developers & writers
 
