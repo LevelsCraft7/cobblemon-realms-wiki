@@ -1,34 +1,25 @@
 # Plus d'évolutions de Évoli
 
-The **Extra Eeveelutions** datapack adds several new variants of Eevee, each with unique abilities, stats, and evolution methods. Below is the detailed information about each new Eeveelution added by this datapack, including their stats, spawn locations, evolution methods, and more.
+Le **datapack Extra Eeveelutions** ajoute plusieurs nouvelles variantes d’Évoli, chacune avec des capacités uniques, des statistiques et des méthodes d’évolution spécifiques. Voici les informations détaillées sur chaque nouvelle Évolition ajoutée par ce datapack, y compris leurs statistiques, lieux d’apparition, méthodes d’évolution, et plus encore.
 
 ---
 
-## New Eeveelutions
+## Nouvelles Évolitions
 
 ### 1. **Spectreon**
 
-- **HP:** 65
+- **PV :** 65  
+- **ATK :** 65  
+- **DEF :** 60  
+- **ATK SPÉ :** 130  
+- **DEF SPÉ :** 95  
+- **VIT :** 110  
+- **Talent :** Farceur  
+- **Talent caché :** Corps Condamné  
+- **Lieux d’apparition :** Biomes magiques (Ultra Rare), Vallée des âmes (Rare)  
+- **Méthode d’évolution :** Amitié élevée dans une Vallée des âmes  
 
-- **ATK:** 65
-
-- **DEF:** 60
-
-- **SpATK:** 130
-
-- **SpDEF:** 95
-
-- **SPD:** 110
-
-- **Ability:** Prankster
-
-- **Hidden Ability:** Perish Body
-
-- **Spawn Locations:** Magical Biomes (Ultra Rare), Soul Sand Valley (Rare)
-
-- **Evolution Method:** High friendship in a Soul Sand Valley
-
-**Lore:** Spectreon tends to lurk in dark forests, awaiting the day their trainer will return. Most of them are unaware that they have passed away and will lurk forever.
+**Lore :** Spectreon hante les forêts sombres, espérant le retour de son dresseur. La plupart ignorent qu'ils sont déjà morts, errant pour l'éternité.
 
 ![image](https://github.com/user-attachments/assets/28254552-80eb-497a-8dd4-935b7fd4f358)
 
@@ -36,27 +27,18 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 
 ### 2. **Acideon**
 
-- **HP:** 95
+- **PV :** 95  
+- **ATK :** 65  
+- **DEF :** 65  
+- **ATK SPÉ :** 130  
+- **DEF SPÉ :** 110  
+- **VIT :** 60  
+- **Talent :** Point Poison, Suintement  
+- **Talent caché :** Corrosion  
+- **Lieux d’apparition :** Biomes marécageux  
+- **Méthode d’évolution :** Niveau 24, dans la même équipe qu’un Grotadmorv  
 
-- **ATK:** 65
-
-- **DEF:** 65
-
-- **SpATK:** 130
-
-- **SpDEF:** 110
-
-- **SPD:** 60
-
-- **Ability:** Poison Point, Liquid Ooze
-
-- **Hidden Ability:** Corrosion
-
-- **Spawn Locations:** Swamp Biomes
-
-- **Evolution Method:** Level 24, in the same party as a Muk
-
-**Lore:** The orb at the end of Acideon's tail is so poisonous that even lightly touching it can cause lifelong damage.
+**Lore :** L’orbe au bout de la queue d’Acideon est si toxique qu’un simple contact peut provoquer des séquelles à vie.
 
 ![image](https://github.com/user-attachments/assets/337c2728-f144-493c-9702-82530f0aecc7)
 
@@ -64,27 +46,18 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 
 ### 3. **Champeon**
 
-- **HP:** 65
+- **PV :** 65  
+- **ATK :** 130  
+- **DEF :** 110  
+- **ATK SPÉ :** 65  
+- **DEF SPÉ :** 60  
+- **VIT :** 95  
+- **Talent :** Fourrure Froide, Acharné  
+- **Talent caché :** Querelleur  
+- **Lieux d’apparition :** Savane balayée par le vent  
+- **Méthode d’évolution :** Niveau 36, en tenant un Bandeau  
 
-- **ATK:** 130
-
-- **DEF:** 110
-
-- **SpATK:** 65
-
-- **SpDEF:** 60
-
-- **SPD:** 95
-
-- **Ability:** Fur Coat, Defiant
-
-- **Hidden Ability:** Scrappy
-
-- **Spawn Locations:** Windswept Savanna
-
-- **Evolution Method:** Level 36, Holding a Focus Band
-
-**Lore:** When Eevee becomes inspired by a fighter's spirit, it starts training for many years, eventually becoming a Champeon.
+**Lore :** Lorsque Évoli est inspiré par l’esprit d’un combattant, il commence à s’entraîner pendant des années, jusqu’à devenir Champeon.
 
 ![image](https://github.com/user-attachments/assets/63f7d08d-292f-41d9-9398-7ba3b5b818d0)
 
@@ -92,27 +65,18 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 
 ### 4. **Aereon**
 
-- **HP:** 65
+- **PV :** 65  
+- **ATK :** 110  
+- **DEF :** 95  
+- **ATK SPÉ :** 65  
+- **DEF SPÉ :** 60  
+- **VIT :** 130  
+- **Talent :** Délestage, Agitation  
+- **Talent caché :** Simple  
+- **Lieux d’apparition :** Prairies et Collines venteuses  
+- **Méthode d’évolution :** Tenir une Charge de vent dans une Colline venteuse  
 
-- **ATK:** 110
-
-- **DEF:** 95
-
-- **SpATK:** 65
-
-- **SpDEF:** 60
-
-- **SPD:** 130
-
-- **Ability:** Unburden, Hustle
-
-- **Hidden Ability:** Simple
-
-- **Spawn Locations:** Meadow and Windswept Hills Biomes
-
-- **Evolution Method:** Holding a Wind Charge in a Windswept Hills biome
-
-**Lore:** Aereon likes to swim amongst the clouds with other Flying-type Pokémon. It can turn into clouds as a defense mechanism.
+**Lore :** Aereon aime nager dans les nuages avec d’autres Pokémon volants. Il peut se transformer en nuage pour se défendre.
 
 ![image](https://github.com/user-attachments/assets/c737dfec-c903-4e66-a411-98cf66c5261b)
 
@@ -120,27 +84,18 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 
 ### 5. **Minereon**
 
-- **HP:** 95
+- **PV :** 95  
+- **ATK :** 110  
+- **DEF :** 130  
+- **ATK SPÉ :** 60  
+- **DEF SPÉ :** 65  
+- **VIT :** 65  
+- **Talent :** Force Sable, Fermeté  
+- **Talent caché :** Regard Vif  
+- **Lieux d’apparition :** Tout biome souterrain (hors Profondeurs ou biomes abyssaux)  
+- **Méthode d’évolution :** Tenir une pioche dans une grotte de pierre goutte  
 
-- **ATK:** 110
-
-- **DEF:** 130
-
-- **SpATK:** 60
-
-- **SpDEF:** 65
-
-- **SPD:** 65
-
-- **Ability:** Sand Force, Sturdy
-
-- **Hidden Ability:** Keen Eye
-
-- **Spawn Locations:** Any underground biome (Not Deep Dark or Abyss-like Biomes)
-
-- **Evolution Method:** Holding a Pickaxe, in a Dripstone Cave
-
-**Lore:** Minereon uses the spike at the end of its tail to mine ores and gemstones, while its metal-like ear tips help clear excess rock.
+**Lore :** Minereon utilise la pointe de sa queue pour extraire des minerais et ses oreilles métalliques pour dégager la roche.
 
 ![image](https://github.com/user-attachments/assets/b57a2fc4-6e2b-4978-b53d-8b1170c31254)
 
@@ -148,27 +103,18 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 
 ### 6. **Hiveon**
 
-- **HP:** 65
+- **PV :** 65  
+- **ATK :** 130  
+- **DEF :** 95  
+- **ATK SPÉ :** 60  
+- **DEF SPÉ :** 65  
+- **VIT :** 110  
+- **Talent :** Œil composé, Essaim  
+- **Talent caché :** Pression  
+- **Lieux d’apparition :** Près des nids d’abeilles  
+- **Méthode d’évolution :** Tenir une ruche avec un Dardargnan dans l’équipe  
 
-- **ATK:** 130
-
-- **DEF:** 95
-
-- **SpATK:** 60
-
-- **SpDEF:** 65
-
-- **SPD:** 110
-
-- **Ability:** Compound Eyes, Swarm
-
-- **Hidden Ability:** Pressure
-
-- **Spawn Locations:** Near Bee Nests
-
-- **Evolution Method:** Holding a Beehive with a Beedrill in the party
-
-**Lore:** Hiveon likes to camp out in trees with their beehive-like tails hanging from the leaves, attracting unsuspecting Bewear to inject with poison.
+**Lore :** Hiveon campe dans les arbres avec sa queue-ruche suspendue, attirant les Chelours imprudents à empoisonner.
 
 ![image](https://github.com/user-attachments/assets/407859e4-dc98-4e62-9581-b6367afb7be6)
 
@@ -176,27 +122,18 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 
 ### 7. **Automeon**
 
-- **HP:** 65
+- **PV :** 65  
+- **ATK :** 110  
+- **DEF :** 130  
+- **ATK SPÉ :** 65  
+- **DEF SPÉ :** 65  
+- **VIT :** 60  
+- **Talent :** Armurbaston, Corps Sain  
+- **Talent caché :** Analyste  
+- **Lieux d’apparition :** Près des torches en redstone et blocs de fer  
+- **Méthode d’évolution :** Utiliser un bloc de redstone tout en tenant un levier  
 
-- **ATK:** 110
-
-- **DEF:** 130
-
-- **SpATK:** 65
-
-- **SpDEF:** 65
-
-- **SPD:** 60
-
-- **Ability:** Battle Armor, Clear Body
-
-- **Hidden Ability:** Analytic
-
-- **Spawn Locations:** Near Redstone Torches and Iron Blocks
-
-- **Evolution Method:** Using a Redstone Block on it, while it holds a Lever
-
-**Lore:** When an Automeon takes a fatal blow, its eyes flicker in a sporadic pattern, but no one has deciphered what it means.
+**Lore :** Quand Automeon subit un coup fatal, ses yeux clignotent de manière étrange. Le code reste à décrypter.
 
 ![image](https://github.com/user-attachments/assets/f1b97202-919b-40b9-b210-ca63ee6cea93)
 
@@ -204,27 +141,18 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 
 ### 8. **Wyveon**
 
-- **HP:** 65
+- **PV :** 65  
+- **ATK :** 110  
+- **DEF :** 95  
+- **ATK SPÉ :** 130  
+- **DEF SPÉ :** 65  
+- **VIT :** 60  
+- **Talent :** Rivalité, Envelocape  
+- **Talent caché :** Tête de Roc  
+- **Lieux d’apparition :** Biomes montagneux non enneigés  
+- **Méthode d’évolution :** Amitié élevée dans l’End  
 
-- **ATK:** 110
-
-- **DEF:** 95
-
-- **SpATK:** 130
-
-- **SpDEF:** 65
-
-- **SPD:** 60
-
-- **Ability:** Rivalry, Overcoat
-
-- **Hidden Ability:** Rock Head
-
-- **Spawn Locations:** Any Tall Mountain Biomes that are not Snowy
-
-- **Evolution Method:** High Friendship in The End
-
-**Lore:** Wyveon brings different evolutionary stones to ruins, attempting to summon a mythical Eevee that has harnessed every element.
+**Lore :** Wyveon amène des pierres évolutives dans des ruines, espérant invoquer un Évoli mythique maîtrisant tous les éléments.
 
 ![image](https://github.com/user-attachments/assets/45559d11-a328-4fa5-aef0-f15c016869ca)
 
@@ -232,27 +160,18 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 
 ### 9. **Dungeon**
 
-- **HP:** 65
+- **PV :** 65  
+- **ATK :** 110  
+- **DEF :** 130  
+- **ATK SPÉ :** 95  
+- **DEF SPÉ :** 65  
+- **VIT :** 60  
+- **Talent :** Piège Arena, Tempo Perso  
+- **Talent caché :** Brise Moule  
+- **Lieux d’apparition :** Biomes de badlands (Ultra Rare), Profondeurs sombres / Biomes abyssaux (Rare)  
+- **Méthode d’évolution :** Tenir une lanterne dans le Deep Dark  
 
-- **ATK:** 110
-
-- **DEF:** 130
-
-- **SpATK:** 95
-
-- **SpDEF:** 65
-
-- **SPD:** 60
-
-- **Ability:** Arena Trap, Own Tempo
-
-- **Hidden Ability:** Mold Breaker
-
-- **Spawn Locations:** Badlands Biomes (Ultra Rare), Deep Dark Biomes/Abyss-like Biomes (Rare)
-
-- **Evolution Method:** Holding a Lantern, in the Deep Dark
-
-**Lore:** Dungeon uses its lantern to guide trainers back to the entrance of caves when they are lost.
+**Lore :** Dungeon utilise sa lanterne pour guider les dresseurs perdus vers la sortie des grottes.
 
 ![image](https://github.com/user-attachments/assets/aa4b42a5-17a9-4245-a5dc-00055967e137)
 
@@ -260,27 +179,18 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 
 ### 10. **Eeveeon**
 
-- **HP:** 85
+- **PV :** 85  
+- **ATK :** 105  
+- **DEF :** 85  
+- **ATK SPÉ :** 100  
+- **DEF SPÉ :** 95  
+- **VIT :** 110  
+- **Talent :** Adaptabilité, Anticipation  
+- **Talent caché :** Normalise  
+- **Lieux d’apparition :** Partout dans l’Overworld  
+- **Méthode d’évolution :** Amitié maximale, tout en connaissant Ultimapoing  
 
-- **ATK:** 105
-
-- **DEF:** 85
-
-- **SpATK:** 100
-
-- **SpDEF:** 95
-
-- **SPD:** 110
-
-- **Ability:** Adaptability, Anticipation
-
-- **Hidden Ability:** Normalize
-
-- **Spawn Locations:** Anywhere in the Overworld
-
-- **Evolution Method:** Maxed-out Friendship, While it knows the move Last Resort
-
-**Lore:** Eeveeon is closely tied to a mythical Eevee variant capable of using every type. Wyveon respects Eeveeon and tends to gift special stones and access to territories to make peace.
+**Lore :** Eeveeon est lié à un Évoli mythique pouvant maîtriser tous les types. Wyveon le respecte et lui offre pierres et territoires.
 
 ![image](https://github.com/user-attachments/assets/1bf0b5d1-c683-40b4-b435-1da498d09cb4)
 
@@ -288,42 +198,33 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 
 ### 11. **Evereon**
 
-- **HP:** 98
+- **PV :** 98  
+- **ATK :** 115  
+- **DEF :** 90  
+- **ATK SPÉ :** 115  
+- **DEF SPÉ :** 90  
+- **VIT :** 92  
+- **Talent :** Protéen, Libéro  
+- **Talent caché :** Force Pure  
+- **Lieux d’apparition :** Aucun  
+- **Méthode d’évolution :** Battre les 18 Évolitions, avec Évoli portant le coup final à chaque fois  
 
-- **ATK:** 115
-
-- **DEF:** 90
-
-- **SpATK:** 115
-
-- **SpDEF:** 90
-
-- **SPD:** 92
-
-- **Ability:** Protean, Libero
-
-- **Hidden Ability:** Pure Power
-
-- **Spawn Locations:** None
-
-- **Evolution Method:** Defeat all 18 Eeveelutions, with Eevee landing the final hit
-
-**Lore:** Evereon, known through mythos, has recently reappeared in modern-day society. Only a very strong Eevee, capable of defeating all 18 Eeveelutions, can evolve into Evereon.
+**Lore :** Evereon, connu dans les mythes, est récemment réapparu. Seul un Évoli puissant, ayant vaincu toutes les Évolitions, peut évoluer ainsi.
 
 ![image](https://github.com/user-attachments/assets/d5f3c80b-f0a6-4c72-94c8-eecc6e79447c)
 
 ---
 
-## FAQs
+## FAQ
 
-### Q: Does Eevee evolve into Evereon by fighting only wild Eeveelutions, or can Trainer Battles be used? Does Eevee have to fight them, or can I use any Pokémon?
+### Q : Est-ce qu’Évoli doit affronter uniquement les Évolitions sauvages pour devenir Evereon ? Les combats contre dresseurs comptent-ils ? Peut-on utiliser d’autres Pokémon ?
 
-A: Some players report that Trainer Battles work while others say they don’t. I’ve tested it myself and it didn’t work, but there might be a setup issue. I recommend trying both methods. Note that Eevee must land the finishing blow on all 18 Eeveelutions from the base mod and addon.
+R : Certains joueurs affirment que les combats contre dresseurs fonctionnent, d'autres non. Mes tests personnels n'ont pas marché, mais cela peut venir d’un souci de configuration. Je recommande de tester les deux méthodes. Notez qu’Évoli doit asséner le coup final à chacune des 18 Évolitions du mod de base et de l’addon.
 
-### Q: I can’t see the Eeveelutions in the Pokédex?
+### Q : Pourquoi je ne vois pas les Évolitions dans le Pokédex ?
 
-A: They have their own dedicated section in the Regions.
+R : Elles ont leur propre section dédiée dans les Régions.
 
-### Q: What flying-type move can Eevee learn?
+### Q : Quel est le mouvement de type Vol qu’Évoli peut apprendre ?
 
-A: In the datapack, I added Mirror Move, which Eevee can learn at Level 20.
+R : Dans le datapack, j’ai ajouté Miroir Magik, qu’Évoli apprend au niveau 20.
