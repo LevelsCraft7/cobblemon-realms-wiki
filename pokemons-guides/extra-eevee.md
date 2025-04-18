@@ -20,6 +20,7 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 - **Evolution Method:** High friendship in a Soul Sand Valley
 
 **Lore:** Spectreon tends to lurk in dark forests, awaiting the day their trainer will return. Most of them are unaware that they have passed away and will lurk forever.
+![image](https://github.com/user-attachments/assets/28254552-80eb-497a-8dd4-935b7fd4f358)
 
 ---
 
@@ -37,6 +38,7 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 - **Evolution Method:** Level 24, in the same party as a Muk
 
 **Lore:** The orb at the end of Acideon's tail is so poisonous that even lightly touching it can cause lifelong damage.
+![image](https://github.com/user-attachments/assets/337c2728-f144-493c-9702-82530f0aecc7)
 
 ---
 
@@ -54,6 +56,7 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 - **Evolution Method:** Level 36, Holding a Focus Band
 
 **Lore:** When Eevee becomes inspired by a fighter's spirit, it starts training for many years, eventually becoming a Champeon.
+![image](https://github.com/user-attachments/assets/63f7d08d-292f-41d9-9398-7ba3b5b818d0)
 
 ---
 
@@ -71,6 +74,7 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 - **Evolution Method:** Holding a Wind Charge in a Windswept Hills biome
 
 **Lore:** Aereon likes to swim amongst the clouds with other Flying-type Pokémon. It can turn into clouds as a defense mechanism.
+![image](https://github.com/user-attachments/assets/c737dfec-c903-4e66-a411-98cf66c5261b)
 
 ---
 
@@ -88,6 +92,7 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 - **Evolution Method:** Holding a Pickaxe, in a Dripstone Cave
 
 **Lore:** Minereon uses the spike at the end of its tail to mine ores and gemstones, while its metal-like ear tips help clear excess rock.
+![image](https://github.com/user-attachments/assets/b57a2fc4-6e2b-4978-b53d-8b1170c31254)
 
 ---
 
@@ -105,6 +110,7 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 - **Evolution Method:** Holding a Beehive with a Beedrill in the party
 
 **Lore:** Hiveon likes to camp out in trees with their beehive-like tails hanging from the leaves, attracting unsuspecting Bewear to inject with poison.
+![image](https://github.com/user-attachments/assets/407859e4-dc98-4e62-9581-b6367afb7be6)
 
 ---
 
@@ -122,6 +128,7 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 - **Evolution Method:** Using a Redstone Block on it, while it holds a Lever
 
 **Lore:** When an Automeon takes a fatal blow, its eyes flicker in a sporadic pattern, but no one has deciphered what it means.
+![image](https://github.com/user-attachments/assets/f1b97202-919b-40b9-b210-ca63ee6cea93)
 
 ---
 
@@ -139,6 +146,7 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 - **Evolution Method:** High Friendship in The End
 
 **Lore:** Wyveon brings different evolutionary stones to ruins, attempting to summon a mythical Eevee that has harnessed every element.
+![image](https://github.com/user-attachments/assets/45559d11-a328-4fa5-aef0-f15c016869ca)
 
 ---
 
@@ -156,6 +164,7 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 - **Evolution Method:** Holding a Lantern, in the Deep Dark
 
 **Lore:** Dungeon uses its lantern to guide trainers back to the entrance of caves when they are lost.
+![image](https://github.com/user-attachments/assets/aa4b42a5-17a9-4245-a5dc-00055967e137)
 
 ---
 
@@ -173,6 +182,7 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 - **Evolution Method:** Maxed-out Friendship, While it knows the move Last Resort
 
 **Lore:** Eeveeon is closely tied to a mythical Eevee variant capable of using every type. Wyveon respects Eeveeon and tends to gift special stones and access to territories to make peace.
+![image](https://github.com/user-attachments/assets/1bf0b5d1-c683-40b4-b435-1da498d09cb4)
 
 ---
 
@@ -190,6 +200,7 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 - **Evolution Method:** Defeat all 18 Eeveelutions, with Eevee landing the final hit
 
 **Lore:** Evereon, known through mythos, has recently reappeared in modern-day society. Only a very strong Eevee, capable of defeating all 18 Eeveelutions, can evolve into Evereon.
+![image](https://github.com/user-attachments/assets/d5f3c80b-f0a6-4c72-94c8-eecc6e79447c)
 
 ---
 
