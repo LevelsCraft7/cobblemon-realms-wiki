@@ -14,6 +14,6 @@ This wiki is translated using [Crowdin](https://crowdin.com/project/cobblemon-re
 
 ## 🔧 Developers & writers
 
-All pages are synced between GitBook ↔ GitHub ↔ Crowdin. You can edit files directly on GitHub, or suggest edits via GitBook.
+All pages are synced between GitBook ↔ GitHub ↔ Crowdin.
 
 > Thank you for helping improve Cobblemon Realms!

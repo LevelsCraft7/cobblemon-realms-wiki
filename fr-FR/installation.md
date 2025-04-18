@@ -32,7 +32,7 @@ Vous pouvez utiliser le **Server Pack officiel** que je fournis à chaque mise �
 
 ### 📦 Guide d’installation pas-à-pas (inclus dans le Server Pack)
 
-**🛠️ Étape 1 : Configurer la RAM (facultatif mais recommandé)**  
+**🛠️ Étape 1 : Configurer la RAM (facultatif mais recommandé)**\
 Ouvrez le fichier `user_jvm_args.txt` et modifiez les valeurs de mémoire :
 `-Xmx8G -Xms8G`
 
@@ -58,7 +58,7 @@ Ouvrez le fichier `user_jvm_args.txt` et modifiez les valeurs de mémoire :
 - Lancez de nouveau `run.bat`
 - Le serveur va démarrer entièrement
 - Attendez que le monde soit généré
-- C’est prêt !
+- You’re good to go!
 
 🌍 Vous pouvez maintenant :
 
@@ -74,31 +74,32 @@ Si vous ne voulez pas vous embêter avec la configuration, je recommande d’uti
 
 🟢 Je suis partenaire avec **Bisect Hosting**, et vous pouvez installer **Cobblemon Realms en un clic** via leur panneau.
 
-✅ **Avantages :**
+✅ **What you get:**
 
 - Java 21 préinstallé
 - Modpack déjà prêt à l’emploi
 - Serveur toujours en ligne
-- Interface facile à utiliser
+- Easy management panel
 - Meilleure connexion pour les joueurs dans le monde entier
 
 ---
 
 🎁 **OFFRE SPÉCIALE**
 
-**25% de réduction** sur votre premier serveur avec le code :  
+**25% de réduction** sur votre premier serveur avec le code :\
 🧡 `OurStory`
 
-👉 **Lien affilié :**  
+👉 **Lien affilié :**\
 https://bisecthosting.com/ourstory
 
 Cela soutient le projet et m’aide à continuer les mises à jour ❤️
 
-📬 **Besoin d’aide ?**  
+📬 **Besoin d’aide ?**\
 Posez vos questions sur les salons de support ou de discussion du modpack !\
-Je ne répondrai peut-être pas immédiatement, mais la communauté est là aussi :speech_balloon:
+Je ne répondrai peut-être pas immédiatement, mais la communauté est là aussi :speech_balloon:\
+I may not reply instantly, but the community is here too :speech_balloon:
 
-🔥 Amusez-vous entre amis et profitez de votre aventure Pokémon sur **Cobblemon Realms** !  
-Faisons-en une aventure inoubliable 🧭✨
+🔥 Amusez-vous entre amis et profitez de votre aventure Pokémon sur **Cobblemon Realms** !
+Faisons-en une aventure inoubliable 🧭✨ 🧭✨
 
 _Je ne propose pas de support direct pour l’hébergement maison / la redirection de ports — mais de nombreux tutos sont disponibles en ligne !_

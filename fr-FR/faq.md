@@ -1,4 +1,4 @@
-# 💡 Questions Fréquemment Posées
+# 💡 Frequently Asked Questions
 
 ## ❓ "Mon jeu plante au lancement du modpack"
 
