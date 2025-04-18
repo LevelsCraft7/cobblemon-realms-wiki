@@ -1,19 +1,19 @@
-# Contributing to the Wiki
+# Contribuer au Wiki
 
-We welcome contributions from the community!
+Nous accueillons avec plaisir les contributions de la communauté !
 
-## ✍️ How to contribute
+## ✍️ Comment contribuer
 
-- Fix typos or add explanations
-- Create guides for specific mods
-- Translate pages into other languages
+- Corriger des fautes ou ajouter des explications
+- Créer des guides pour des mods spécifiques
+- Traduire des pages dans d'autres langues
 
-## 🌐 Translations
+## 🌐 Traductions
 
-This wiki is translated using [Crowdin](https://crowdin.com/project/cobblemon-realms-wiki). You can help translate it into French or other languages via our Crowdin project.
+Ce wiki est traduit grâce à [Crowdin](https://crowdin.com/project/cobblemon-realms-wiki). Vous pouvez nous aider à le traduire en français ou dans d'autres langues via notre projet Crowdin.
 
-## 🔧 Developers & writers
+## 🔧 Développeurs & rédacteurs
 
-All pages are synced between GitBook ↔ GitHub ↔ Crowdin. You can edit files directly on GitHub, or suggest edits via GitBook.
+Toutes les pages sont synchronisées entre GitBook ↔ GitHub ↔ Crowdin. Vous pouvez modifier les fichiers directement sur GitHub, ou proposer des modifications via GitBook.
 
-> Thank you for helping improve Cobblemon Realms!
+> Merci de contribuer à l'amélioration de Cobblemon Realms !
