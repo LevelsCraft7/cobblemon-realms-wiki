@@ -14,6 +14,6 @@ Ce wiki est traduit grâce à [Crowdin](https://crowdin.com/project/cobblemon-re
 
 ## 🔧 Développeurs & rédacteurs
 
-Toutes les pages sont synchronisées entre GitBook ↔ GitHub ↔ Crowdin. Vous pouvez modifier les fichiers directement sur GitHub, ou proposer des modifications via GitBook.
+Toutes les pages sont synchronisées entre GitBook ↔ GitHub ↔ Crowdin.
 
 > Merci de contribuer à l'amélioration de Cobblemon Realms !
