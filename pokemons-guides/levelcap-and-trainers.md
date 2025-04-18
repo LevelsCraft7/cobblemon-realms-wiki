@@ -30,4 +30,5 @@ Regularly check the advancements tab in-game for clues about your next objective
 
 ## ℹ️ More Information
 For additional details, please refer to the official Radical Cobblemon Trainers documentation:
-https://srcmc.gitlab.io/rct/docs/0.13/
+[https://srcmc.gitlab.io/rct/docs/0.13/](https://srcmc.gitlab.io/rct/docs/0.13/
+)
