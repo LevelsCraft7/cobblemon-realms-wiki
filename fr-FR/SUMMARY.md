@@ -1,22 +1,24 @@
-# Table of contents
+# Table des matières
 
 ## 🌍 Accueil
 
-- [Bienvenue](README.md)
-- [FAQ](faq.md)
-- [Contribuer](contributing.md)
+* [Bienvenue](README.md)
+* [FAQ](faq.md)
+* [Contribuer](contributing.md)
 
-## 🚀 Bien démarrer
+## 🚀 Commencer
 
-- [Premiers Pas](getting-started.md)
-- [Guide d'Installation](installation.md)
+* [Premiers Pas](getting-started.md)
+* [Guide d'Installation](installation.md)
 
 ## 🎮 Gameplay
 
-- [Pokémon & Apparitions](pokemon-and-spawns.md)
-- [Quêtes](quests.md)
-- [Serveurs Multijoueurs](multiplayer-servers.md)
+* [Pokémon & Apparitions](pokemon-and-spawns.md)
+  * [Limite de Niveau & Entraîneurs](pokemons-guides/levelcap-and-trainers.md)
+  * [Évolutions supplémentaires d'Eevee](pokemons-guides/extra-eevee.md)
+* [Serveurs Multijoueurs](multiplayer-servers.md)
+* [Quêtes](quests.md)
 
-## 🧩 Guides de Mods
+## 🧩 Guides des Mods
 
-- [Chunky pour la Pré-Génération de Monde](mods-guides/chunky.md)
+* [Chunky pour la Pré-Génération du Monde](mods-guides/chunky.md)
