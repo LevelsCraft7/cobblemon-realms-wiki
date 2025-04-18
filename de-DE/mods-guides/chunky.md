@@ -7,6 +7,8 @@ was hilft, Lag zu reduzieren und die Gesamtleistung während der Erkundung zu ve
 Durch das Vorab-Generieren von Chunks wird dein Server weniger Verzögerungen erfahren,\
 insbesondere während intensiver Spielsitzungen oder bei intensiver Erkundung.\
 Durch das Vorab-Generieren von Chunks wird dein Server weniger Verzögerungen erfahren,\
+insbesondere während intensiver Spielsitzungen oder bei intensiver Erkundung.\
+Durch das Vorab-Generieren von Chunks wird dein Server weniger Verzögerungen erfahren,\
 insbesondere während intensiver Spielsitzungen oder bei intensiver Erkundung.
 
 ## Funktionen
@@ -20,6 +22,7 @@ insbesondere während intensiver Spielsitzungen oder bei intensiver Erkundung.
 
 Chunky generiert Terrain in Chunks, bevor Spieler diese Bereiche besuchen.\
 Chunky generiert Terrain in Chunks, bevor Spieler diese Bereiche besuchen.\
+Chunky generiert Terrain in Chunks, bevor Spieler diese Bereiche besuchen.\
 Dieser Prozess schafft eine "vorab generierte" Welt, in der Terrain, Strukturen und Ressourcen\
 bereits geladen sind, was bedeutet, dass der Server keine Chunks in Echtzeit generieren muss,\
 wenn Spieler neue Zonen betreten.
@@ -30,6 +33,9 @@ wenn Spieler neue Zonen betreten.
   Verwende den Befehl:\
   `/chunky radius <radius>`\
   Dies startet die Vorab-Generierung von Chunks im angegebenen Radius vom Spawn-Punkt.\
+  Beispiel:\
+  `/chunky start`\
+  Dieser Befehl startet die Generierung aller Chunks innerhalb des zuvor festgelegten Radius.\
   Beispiel:\
   `/chunky start`\
   Dieser Befehl startet die Generierung aller Chunks innerhalb des zuvor festgelegten Radius.\
@@ -60,6 +66,7 @@ wenn Spieler neue Zonen betreten.
 - Für große Karten plane die Vorab-Generierungsaufgaben während Wartungsfenstern.
 - Verwende regelmäßig den Befehl `/chunky status`, um den Fortschritt zu überwachen und eine Überlastung des Servers zu vermeiden.
 - Automatisiere den Prozess beim Serverstart, wenn möglich, mit einem Skript, das `/chunky start` enthält.\
+  Dies kann über ein Startskript oder ein Server-Plugin erfolgen, das Automatisierung unterstützt.\
   Dies kann über ein Startskript oder ein Server-Plugin erfolgen, das Automatisierung unterstützt.\
   Dies kann über ein Startskript oder ein Server-Plugin erfolgen, das Automatisierung unterstützt.
 
