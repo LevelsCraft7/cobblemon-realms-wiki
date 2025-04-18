@@ -1,70 +1,70 @@
-# Chunky Pregenerator Tutorial
+# Tutorial de Chunky Pregenerator
 
-## Introduction:
+## Introducción
 
-Chunky Pregenerator is a mod designed to pre-generate chunks in your Minecraft world,
-helping to reduce lag and improve overall performance when exploring new areas.
-By pre-generating chunks, your server will experience fewer delays during gameplay,
-especially in high-traffic or exploration-intensive sessions.
+Chunky Pregenerator es un mod diseñado para pre-generar trozos en tu mundo de Minecraft,  
+lo que ayuda a reducir el retraso y mejorar el rendimiento general durante la exploración.  
+Al generar los trozos con antelación, tu servidor experimentará menos lentitud,  
+especialmente durante sesiones de alta actividad o exploración intensa.
 
-## Features:
+## Características
 
-- Pre-generates chunks over a specified area or radius.
-- Can be run manually or automatically on server startup.
-- Helps reduce in-game lag and improve overall server performance.
-- Configurable settings for chunk generation speed and radius.
+- Pre-genera trozos en un área o radio especificado.
+- Puede ejecutarse manualmente o automáticamente al iniciar el servidor.
+- Reduce el retraso en el juego y mejora el rendimiento del servidor.
+- Ajustes configurables para la velocidad de generación y el radio.
 
-## How It Works:
+## Cómo Funciona
 
-Chunky works by generating terrain in chunks before players visit those areas.
-This process creates a “pregen” world where the terrain, structures, and resources
-are already loaded, meaning that when a player enters an area, the server doesn’t
-need to generate the chunks on the fly.
+Chunky genera el terreno en trozos antes de que los jugadores visiten esas áreas.  
+Este proceso crea un mundo "pre-generado" donde el terreno, las estructuras y los recursos  
+ya están cargados, lo que significa que el servidor no tiene que generar trozos sobre la marcha  
+cuando los jugadores entran en nuevas zonas.
 
-## Commands & Usage:
+## Comandos y Uso
 
-1. Basic Command:
-  Use the command:
-  /chunky pregen <radius>
-  This will start pre-generating chunks within the specified radius from the spawn.
-  Example:
-  /chunky pregen 100
-  This command pre-generates all chunks in a 100-block radius.
+1. **Comando Básico:**  
+   Usa el comando:  
+   `/chunky radius <radio>`  
+   Esto comenzará a pre-generar los trozos en el radio especificado desde el punto de aparición.  
+   Ejemplo:  
+   `/chunky start`  
+   Este comando comienza a generar todos los trozos dentro del radio previamente configurado.
 
-2. Checking Status:
-  You can check the status of the pre-generation process with:
-  /chunky status
-  This command displays the progress and performance metrics.
+2. **Ver Estado:**  
+   Para monitorear el progreso de la pre-generación:  
+   `/chunky status`  
+   Esto mostrará el progreso actual y los detalles de rendimiento.
 
-3. Cancelling Pre-Generation:
-  If needed, you can cancel the pre-generation process with:
-  /chunky cancel
+3. **Cancelar Generación:**  
+   Si es necesario, puedes cancelar el proceso de pre-generación con:  
+   `/chunky cancel`
 
-4. Advanced Settings:
+4. **Configuración Avanzada:**
 
-- Some configurations can be modified in the mod’s config files.
-- Adjust parameters like generation speed or maximum chunk count.
-- Refer to the config file (usually located in your server’s config folder) for detailed options.
+- Algunos ajustes pueden modificarse en los archivos de configuración del mod.
+- Modifica la velocidad de generación o el número máximo de trozos generados.
+- Consulta el archivo de configuración (generalmente encontrado en la carpeta `config` del servidor)  
+  para opciones más detalladas.
 
-## Tips & Best Practices:
+## Consejos y Mejores Prácticas
 
-- Pre-generation is recommended during off-peak hours or before the server is open to players.
-- Start with a small radius to test performance impact, then gradually increase.
-- For larger maps, consider scheduling pre-generation tasks during maintenance periods.
-- Use the /chunky status command regularly to monitor progress and ensure the process
-  is not overloading your server.
-- If possible, automate the pre-generation process on server startup with a script that
-  runs the /chunky pregen command for a defined radius. This can be done by adding the
-  command to your startup scripts or using a server plugin that supports command automation.
+- Se recomienda ejecutar la pre-generación durante horas de baja actividad o antes de abrir el servidor a los jugadores.
+- Comienza con un radio pequeño para probar el impacto en el rendimiento y luego aumenta gradualmente.
+- Para mapas grandes, programa las tareas de pre-generación durante las ventanas de mantenimiento.
+- Usa regularmente el comando `/chunky status` para monitorear el progreso y evitar sobrecargar el servidor.
+- Si es posible, automatiza el proceso al inicio del servidor con un script que contenga `/chunky start`.  
+  Esto se puede hacer mediante un script de inicio o un plugin del servidor que soporte automatización.
 
-## Additional Resources:
+## Recursos Adicionales
 
-- CurseForge: https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge
-- Chunky Wiki (How-To’s): https://github.com/pop4959/Chunky/wiki/How-To%27s
-- Chunky Wiki (Pregeneration): https://github.com/pop4959/Chunky/wiki/Pregeneration
+- CurseForge: https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge  
+- Wiki de Chunky (Guías): https://github.com/pop4959/Chunky/wiki/How-To%27s  
+- Wiki de Chunky (Pre-generación): https://github.com/pop4959/Chunky/wiki/Pregeneration  
 
-## Conclusion:
+## Conclusión
 
-Using Chunky Pregenerator effectively can greatly enhance the performance of your server
-by reducing lag when players explore new areas. Experiment with different radii and settings
-to find the optimal balance for your world. Enjoy smoother gameplay and a more stable server!
+Usar Chunky Pregenerator de manera efectiva puede mejorar enormemente el rendimiento de tu servidor  
+reduciendo el retraso en la exploración. Experimenta con diferentes radios y configuraciones  
+para encontrar el equilibrio adecuado para tu mundo.  
+¡Disfruta de una jugabilidad más fluida y un servidor más estable!
