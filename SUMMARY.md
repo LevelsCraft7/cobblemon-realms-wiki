@@ -14,9 +14,10 @@
 ## 🎮 Gameplay
 
 * [Pokémon & Spawns](pokemon-and-spawns.md)
-* [Quests](quests.md)
+  * [Level Cap & Trainers](levelcap-and-trainers.md)
+  * [Extra Eevee Evolutions](extra-eevee.md)
 * [Multiplayer Servers](multiplayer-servers.md)
-
+* [Quests](quests.md)
 ## 🧩 Mods Guides
 
 * [Chunky for World Pre-Gen](mods-guides/chunky.md)
