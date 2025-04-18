@@ -5,6 +5,8 @@
 Chunky Pregenerator es un mod diseñado para pre-generar trozos en tu mundo de Minecraft,\
 lo que ayuda a reducir el retraso y mejorar el rendimiento general durante la exploración.\
 Al generar los trozos con antelación, tu servidor experimentará menos lentitud,\
+especialmente durante sesiones de alta actividad o exploración intensa.\
+Al generar los trozos con antelación, tu servidor experimentará menos lentitud,\
 especialmente durante sesiones de alta actividad o exploración intensa.
 
 ## Características
@@ -17,6 +19,7 @@ especialmente durante sesiones de alta actividad o exploración intensa.
 ## Cómo Funciona
 
 Chunky genera el terreno en trozos antes de que los jugadores visiten esas áreas.\
+Chunky genera el terreno en trozos antes de que los jugadores visiten esas áreas.\
 Este proceso crea un mundo "pre-generado" donde el terreno, las estructuras y los recursos\
 ya están cargados, lo que significa que el servidor no tiene que generar trozos sobre la marcha\
 cuando los jugadores entran en nuevas zonas.
@@ -27,6 +30,9 @@ cuando los jugadores entran en nuevas zonas.
   Usa el comando:\
   `/chunky radius <radio>`\
   Esto comenzará a pre-generar los trozos en el radio especificado desde el punto de aparición.\
+  Ejemplo:\
+  `/chunky start`\
+  Este comando comienza a generar todos los trozos dentro del radio previamente configurado.\
   Ejemplo:\
   `/chunky start`\
   Este comando comienza a generar todos los trozos dentro del radio previamente configurado.
@@ -54,6 +60,7 @@ cuando los jugadores entran en nuevas zonas.
 - Para mapas grandes, programa las tareas de pre-generación durante las ventanas de mantenimiento.
 - Usa regularmente el comando `/chunky status` para monitorear el progreso y evitar sobrecargar el servidor.
 - Si es posible, automatiza el proceso al inicio del servidor con un script que contenga `/chunky start`.\
+  Esto se puede hacer mediante un script de inicio o un plugin del servidor que soporte automatización.\
   Esto se puede hacer mediante un script de inicio o un plugin del servidor que soporte automatización.
 
 ## Recursos Adicionales
@@ -67,4 +74,5 @@ cuando los jugadores entran en nuevas zonas.
 Usar Chunky Pregenerator de manera efectiva puede mejorar enormemente el rendimiento de tu servidor\
 reduciendo el retraso en la exploración. Experimenta con diferentes radios y configuraciones\
 para encontrar el equilibrio adecuado para tu mundo.\
+¡Disfruta de una jugabilidad más fluida y un servidor más estable!\
 ¡Disfruta de una jugabilidad más fluida y un servidor más estable!
