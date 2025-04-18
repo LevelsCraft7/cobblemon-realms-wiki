@@ -14,8 +14,8 @@
 ## 🎮 Gameplay
 
 * [Pokémon & Spawns](pokemon-and-spawns.md)
-  * [Level Cap & Trainers](levelcap-and-trainers.md)
-  * [Extra Eevee Evolutions](extra-eevee.md)
+  * [Level Cap & Trainers](pokemons-guides/levelcap-and-trainers.md)
+  * [Extra Eevee Evolutions](pokemons-guides/extra-eevee.md)
 * [Multiplayer Servers](multiplayer-servers.md)
 * [Quests](quests.md)
 ## 🧩 Mods Guides
