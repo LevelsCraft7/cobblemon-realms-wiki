@@ -14,7 +14,7 @@
 ## 🎮 Gameplay
 
 - [Pokémon & Apparitions](pokemon-and-spawns.md)
-  - [Limite de Niveau & Entraîneurs](pokemons-guides/levelcap-and-trainers.md)
+  - [Limite de Niveau & Dresseurs](pokemons-guides/levelcap-and-trainers.md)
   - [Évolutions supplémentaires d'Eevee](pokemons-guides/extra-eevee.md)
 - [Serveurs Multijoueurs](multiplayer-servers.md)
 - [Quêtes](quests.md)
