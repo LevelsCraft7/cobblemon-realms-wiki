@@ -1,22 +1,22 @@
-# Table of contents
+# Tabla de Contenidos
 
-## 🌍 Home
+## 🌍 Inicio
 
-- [Welcome](README.md)
-- [FAQ](faq.md)
-- [Contribute](contributing.md)
+- [Bienvenida](README.md)
+- [Preguntas Frecuentes](faq.md)
+- [Contribuir](contributing.md)
 
-## 🚀 Getting Started
+## 🚀 Empezando
 
-- [Getting Started](getting-started.md)
-- [Installation Guide](installation.md)
+- [Comenzando](getting-started.md)
+- [Guía de Instalación](installation.md)
 
-## 🎮 Gameplay
+## 🎮 Jugabilidad
 
-- [Pokémon & Spawns](pokemon-and-spawns.md)
-- [Quests](quests.md)
-- [Multiplayer Servers](multiplayer-servers.md)
+- [Pokémon y Spawns](pokemon-and-spawns.md)
+- [Misiones](quests.md)
+- [Servidores Multijugador](multiplayer-servers.md)
 
-## 🧩 Mods Guides
+## 🧩 Guías de Mods
 
-- [Chunky for World Pre-Gen](mods-guides/chunky.md)
+- [Chunky para Pre-generación del Mundo](mods-guides/chunky.md)
