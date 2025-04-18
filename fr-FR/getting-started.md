@@ -1,25 +1,25 @@
 # Pour commencer
 
-[🌍 Return to language selection](https://app.gitbook.com/o/OxqthcidTBoux86jZcUE/s/MoNV72ip5YoBD0RvKQwp/)
+[🌍 Retour à la sélection de la langue](https://app.gitbook.com/o/OxqthcidTBoux86jZcUE/s/MoNV72ip5YoBD0RvKQwp/)
 
-Bienvenue sur Cobblemon Realms ! Voici ce qu'il faut faire lorsque l'on lance le modpack pour la première fois :
+Bienvenue sur Cobblemon Realms ! Voici ce qu'il faut faire lors de votre première connexion au modpack :
 
-## 1. Choose your starter Pokémon
+## 1. Choisissez votre Pokémon de départ
 
-You’ll be prompted to select a starter — choose wisely!
+Vous serez invité à choisir un starter — choisissez-le avec soin !
 
-## 2. Explore the world
+## 2. Explorez le monde
 
-Look around, discover biomes, and begin building your base.
+Regardez autour de vous, découvrez les biomes, et commencez à construire votre base.
 
-## 3. Train and catch Pokémon
+## 3. Entraînez et capturez des Pokémon
 
-Use Poké Balls, explore different spawn areas, and build your team.
+Utilisez des Poké Balls, explorez différentes zones d’apparition et formez votre équipe.
 
-## 4. Follow quests and objectives
+## 4. Suivez les quêtes et objectifs
 
-We’ve added unique questlines to help you progress naturally through the modpack.
+Nous avons ajouté des lignes de quêtes uniques pour vous aider à progresser naturellement dans le modpack.
 
 ***
 
-🧠 Tip: If you ever feel lost, the [`FAQ`](faq.md) and [`Quests`](quests.md) pages are your friends.
+🧠 Astuce : Si vous êtes perdu, les pages [`FAQ`](faq.md) et [`Quêtes`](quests.md) sont là pour vous aider.
