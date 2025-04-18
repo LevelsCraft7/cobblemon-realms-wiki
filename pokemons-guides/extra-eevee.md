@@ -20,7 +20,8 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 - **Evolution Method:** High friendship in a Soul Sand Valley
 
 **Lore:** Spectreon tends to lurk in dark forests, awaiting the day their trainer will return. Most of them are unaware that they have passed away and will lurk forever.
-![image](https://github.com/user-attachments/assets/28254552-80eb-497a-8dd4-935b7fd4f358)
+
+![image](https://github.com/user-attachments/assets/28254552-80eb-497a-8dd4-935b7fd4f358 | width=100)
 
 ---
 
