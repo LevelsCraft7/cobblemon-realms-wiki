@@ -1,16 +1,16 @@
-# Multiplayer Servers
+# Serveurs Multijoueur
 
-Want to play Cobblemon Realms with friends or a community?
+Envie de jouer à Cobblemon Realms avec des amis ou une communauté ?
 
-## 🧑‍🤝‍🧑 Join an existing server
+## 🧑‍🤝‍🧑 Rejoindre un serveur existant
 
-Look for featured or partner servers directly in the modpack’s main menu.
+Vous pouvez trouver des serveurs mis en avant ou partenaires directement depuis le menu principal du modpack.
 
-## 🌐 Host your own server
+## 🌐 Héberger votre propre serveur
 
-Follow the [installation guide](installation.md#🌐-multiplayer-server-setup), then share your IP.
+Suivez le [guide d’installation](installation.md#🌐-multiplayer-server-setup), puis partagez votre adresse IP.
 
-## 🔐 Tips
+## 🔐 Conseils
 
-- Use a whitelist to manage access
-- Pre-generate your world to reduce lag
+- Utilisez une whitelist pour contrôler les accès
+- Pré-générez votre monde pour réduire les lags
