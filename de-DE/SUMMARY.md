@@ -25,4 +25,4 @@
 
 ## ⚙️ Settings
 
-- [Disable Cave-Only Hostile Mobs](settings/cavesonly.md)
+- [Einschränkung feindlicher Mobs auf Höhlen deaktivieren](settings/cavesonly.md)
