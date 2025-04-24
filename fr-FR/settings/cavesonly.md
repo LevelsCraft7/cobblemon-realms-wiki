@@ -1,12 +1,12 @@
 # 🛡️ Désactiver la restriction des mobs hostiles aux grottes
 
-In the **Cobblemon Realms** modpack, hostile mobs are restricted to caves thanks to the **In Control!** mod.\
-If you want to completely disable hostile mob restrictions, simply remove this mod.
+Dans le modpack **Cobblemon Realms**, les mobs hostiles sont limités aux grottes grâce au mod **In Control!**.  
+Si vous souhaitez désactiver complètement cette restriction, il suffit de retirer ce mod.
 
-## 🔧 Steps
+## 🔧 Étapes
 
-1. Open the `mods` folder in your Cobblemon Realms installation.
-2. Delete the `InControl` mod file (typically named `InControl-*.jar`).
-3. Restart the game.
+1. Ouvrez le dossier `mods` dans votre installation de Cobblemon Realms.  
+2. Supprimez le fichier du mod `InControl` (généralement nommé `InControl-*.jar`).  
+3. Redémarrez le jeu.
 
-After removing the mod, hostile mobs will no longer be restricted to caves and will spawn according to Minecraft’s default behavior.
+Une fois le mod supprimé, les mobs hostiles ne seront plus limités aux grottes et apparaîtront selon le comportement par défaut de Minecraft.
