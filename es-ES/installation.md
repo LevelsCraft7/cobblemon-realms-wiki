@@ -1,107 +1,104 @@
 # Guía de instalación
 
-This guide explains how to install Cobblemon Realms for both solo and multiplayer play.
+Esta guía explica cómo instalar Cobblemon Realms tanto para jugar en solitario como para el multijugador.
 
-## 🖥️ Singleplayer (Client Installation)
+## 🖥️ Un jugador (Instalación del cliente)
 
-We recommend using CurseForge:
+Recomendamos utilizar CurseForge:
 
-1. Open the CurseForge [app](https://www.curseforge.com/download/app).
-2. Search for "[Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)".
-3. Click install and launch the modpack.
+1. Abre CurseForge [app](https://www.curseforge.com/download/app).
+2. Busca "[Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)".
+3. Click en instalar e inicia el modpack.
 
-> Make sure Java 21 is installed!
+> ¡Asegúrate de que Java 21 está instalado!
 
-## 🎮  How to Open a Minecraft Server to Play with Friends
+## 🎮 Cómo Abrir un Servidor de Minecraft para Jugar con Amigos
 
 _For Cobblemon Realms & Our Story Modpacks_
 
-## 🖥️ OPTION 1 – Host the server on your own PC _(Free but needs a good setup)_
+## 🖥️ OPTION 1 – Hostea el servidor en tu propio PC _(Gratis, pero necesita una buena configuración)_
 
-You can use the **official Server Pack** I provide with each update of the modpack!
+¡Puedes usar el **paquete oficial del servidor** que proporciono con cada actualización del modpack!
 
-⚠️ **Requirements:**
+⚠️ **Requerimientos:**
 
-- At least **8GB of free RAM** (16GB total is ideal)
-- **Java 21** (required for Cobblemon Realms!)
-- A stable internet connection
-- Basic understanding of running `.bat` files
-- Port forwarding if your friends play from outside your home network
+- Al menos **8GB de RAM libre** (16GB total es lo ideal)
+- **Java 21** (¡requerido para Cobblemon Realms!)
+- Una conexión estable a Internet
+- Comprensión básica para la ejecución de archivos `.bat`
+- Redireccionamiento de puertos si tus amigos juegan fuera de casa
 
 ---
 
-### 📦 Step-by-step Setup Guide (included in the Server Pack)
+### 📦 Guía de configuración paso a paso (incluido en el paquete del servidor)
 
-**🛠️ Step 1: Configure RAM (Optional, but recommended)**
-Open the file `user_jvm_args.txt` and edit the memory values:
+**🛠️ Paso 1: Configurar RAM (Opcional, pero recomendado)**
+Abre el archivo `user_jvm_args.txt` y edita los valores de memoria:
 -Xmx8G -Xms8G
 
-- `Xmx` = Max RAM
-- `Xms` = Min RAM\
-   ➡️ _Don’t allocate all your RAM! Leave at least 2-4GB for your system._
+- `Xmx` = RAM máxima
+- `Xms` = RAM mínima\
+   ➡️ ¡No utilices toda tu RAM! Deja al menos entre 2-4GB para tu sistema
 
 ---
 
-**📜 Step 2: First Server Launch & Accepting the EULA**
+**📜 Paso 2: Primera ejecución del servidor y aceptación del EULA**
 
-1. Extract the server pack `.zip` to a folder (ex: `CobblemonServer`)
-2. Run the `run.bat` file (double-click it)
-3. It will stop and create a file called `eula.txt`
-4. Open it and change:\
+1. Extrae el paquete del servidor `.zip` a una carpeta (ej: `CobblemonServer`)
+2. Ejecuta el archivo `run.bat` (haz doble clic en él)
+3. Se detendrá y creará un archivo llamado `eula.txt`
+4. Abrelo y cambia:\
    `eula=false` → `eula=true`
-5. Save and close
+5. Guarda y cierra
 
 ---
 
-🔄 **Step 3: Launch the Server Again**
+🔄 **Paso 3: Ejecuta el Servidor Otra Vez**
 
-- Run `run.bat` again
-- The server will now fully start
-- Wait for the world to generate
-- You’re good to go!
+- Ejecuta `run.bat` de nuevo
+- Ahora el servidor se iniciará por completo
+- Espera a que el mundo genere
+- ¡Y está listo!
 
-🌍 You can now:
+🌍 Ahora puedes:
 
-- **Play locally** by connecting to `localhost`
-- **Invite friends** on the same Wi-Fi via your local IP
-- Or **configure port forwarding** for online friends
-
----
-
-## 🌐 OPTION 2 – Use a Game Server Host (Recommended)
-
-If you don’t want to deal with technical setup, I recommend using a hosting service!
-
-🟢 I'm partnered with **Bisect Hosting**, and you can install **Cobblemon Realms in 1 click** via their panel.
-
-✅ **What you get:**
-
-- Java 21 ready
-- Modpack pre-installed
-- Server always online
-- Easy management panel
-- Better connection for players across the world
+- **Jugar localmente** conectándote a `localhost`
+- **Invitar a amigos** en el mismo Wi-Fi a través de tu IP local
+- O **configurar el redireccionamiento de puertos** para amigos en línea
 
 ---
 
-🎁 **SPECIAL OFFER**
+## 🌐 OPCIÓN 2 – Utiliza un Servicio de Hosting para tu Servidor (Recomendado)
 
-Get **25% off** for your first server with the code:\
+Si no quieres lidiar con la configuración técnica, ¡recomiendo utilizar un servicio de hosting!
+
+🟢 Estoy asociado con **Bisect Hosting**, y puedes instalar **Cobblemon Realms en 1 click** a través de su panel.
+
+✅ **Lo que obtienes:**
+
+- Java 21 listo
+- Modpack preinstalado
+- Servidor siempre en línea
+- Panel de gestión sencillo
+- Mejor conexión para jugadores de todo el mundo
+
+---
+
+🎁 **OFERTA ESPECIAL**
+
+Obtén **25% de descuento** para tu primer servidor con el código:\
 🧡 `OurStory`
 
-**👉 Affiliate Link:**
+**👉 Link de Afiliado:**
 https://bisecthosting.com/ourstory
 
-This supports the project and helps me keep developing new updates :heart:
+Esto apoya el proyecto y me ayuda a seguir desarrollando nuevas actualizaciones :heart:
 
-📬 **Need Help?**
-Ask in the support or modpack discussion channels!\
-I may not reply instantly, but the community is here too :speech_balloon:\
-I may not reply instantly, but the community is here too :speech_balloon:\
-I may not reply instantly, but the community is here too :speech_balloon:\
-I may not reply instantly, but the community is here too :speech_balloon:
+📬 **¿Necesitas ayuda?**
+¡Pregunta en los canales de discusión o soporte del modpack!\
+Puede que no responda al instante, pero la comunidad está aquí también :speech_balloon:
 
-🔥 Have fun with your friends and enjoy your Pokémon journey together on **Cobblemon Realms**!
-Let’s make it an unforgettable adventure! 🧭✨
+🔥 ¡Diviértete con tus amigos y disfruta de tu viaje de Pokémon juntos en **Cobblemon Realms**!
+¡Hagámoslo una aventura inolvidable! 🧭✨
 
-:electric_plug: _I don’t offer direct support for home hosting/port forwarding — but many tutorials exist online!_
+:electric_plug: _No ofrezco soporte directo para el redireccionamiento de puertos y el hosting en casa — ¡pero existen muchos tutoriales en línea!_

@@ -1,3 +1,3 @@
-Here you’ll find detailed guides and explanations for some of the most important mods used in Cobblemon Realms.
+Aquí encontrarás guías detalladas y explicaciones para algunos de los mods más importantes usados en Cobblemon Realms.
 
-Coming soon!
+¡Próximamente!

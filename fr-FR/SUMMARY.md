@@ -22,3 +22,7 @@
 ## 🧩 Guides des Mods
 
 - [Chunky pour la Pré-Génération du Monde](mods-guides/chunky.md)
+
+## ⚙️ Settings
+
+- [Disable Cave-Only Hostile Mobs](settings/cavesonly.md)

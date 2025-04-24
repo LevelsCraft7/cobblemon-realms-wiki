@@ -22,3 +22,7 @@
 ## 🧩 Mod-Anleitungen
 
 - [Chunky zur Welt-Vorabgenerierung](mods-guides/chunky.md)
+
+## ⚙️ Settings
+
+- [Disable Cave-Only Hostile Mobs](settings/cavesonly.md)
