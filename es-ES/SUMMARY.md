@@ -25,4 +25,4 @@
 
 ## ⚙️ Settings
 
-- [Disable Cave-Only Hostile Mobs](settings/cavesonly.md)
+- [Desactivar la restricción de mobs hostiles a las cuevas](settings/cavesonly.md)
