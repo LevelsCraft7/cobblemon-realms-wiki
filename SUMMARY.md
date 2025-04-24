@@ -22,3 +22,7 @@
 ## 🧩 Mod Guides
 
 * [Chunky for World Pregeneration](mods-guides/chunky.md)
+
+## ⚙️ Settings
+
+* [Disable Cave-Only Hostile Mobs](settings/cavesonly.md)
