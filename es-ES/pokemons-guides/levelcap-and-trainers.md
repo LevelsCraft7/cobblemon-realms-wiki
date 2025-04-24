@@ -1,39 +1,39 @@
-## 📊 Pokémon Level Cap
+## 📊 Límite de nivel de Pokemon
 
-Your Pokémon cannot exceed the level cap shown on your Trainer Card. (LVL 50 at the start)
-Once a Pokémon reaches this cap, it stops gaining experience until you progress further.
-Trainers will refuse to battle you if any Pokémon in your party are above the level cap.
-To increase your level cap, defeat the Key Trainers listed on your Trainer Card.
-Track your progress using in-game advancements and your Trainer Card.
+Tu Pokemon no puede exceder el límite de nivel mostrado en tu Tarjeta de Entrenador. (LVL 50 al comienzo)
+Una vez que un Pokémon alcanza este límite, deja de ganar experiencia hasta que avances más.
+Los entrenadores se negarán a luchar contra ti si cualquier Pokémon en tu grupo está por encima del límite de nivel.
+Para aumentar el límite de nivel, derrota a los Entrenadores Claves listados en tu Tarjeta de Entrenador.
+Registra tu progreso usando los avances del juego y tu Tarjeta de Entrenador.
 
-## 🔍 Finding Key Trainers
+## 🔍 Encontrando Entrenadores Clave
 
-Key Trainers spawn in specific biomes—consult your Trainer Card for their locations.
-Having a Pokémon at the level cap in your party increases the spawn rate of Key Trainers.
-Defeating new trainers reduces the likelihood of previously defeated ones respawning.
-Your Trainer Card will glow and display a tracking arrow when a Key Trainer is nearby.
+Los entrenadores clave aparecen en biomas específicos—consulta tu Tarjeta de Entrenador para ver sus ubicaciones.
+Tener un Pokemon en el límite de nivel de tu grupo incrementa la tasa de aparición de Entrenadores Clave.
+Derrotar nuevos entrenadores reduce la probabilidad de que reaparezcan los previamente derrotados.
+Tu Tarjeta de Entrenador brillará y mostrará una flecha de seguimiento cuando un Entrenador de Clave esté cerca.
 
-## 🏆 Unlocking Gym Leaders
+## 🏆 Desbloqueando Líderes de Gimnasio
 
-To unlock Gym Leaders, you must defeat a certain number of trainers.
-The mod’s advancements tab provides hints and guidance on how to progress toward unlocking them.
+Para desbloquear Líderes de Gimnasio, debes derrotar a un cierto número de entrenadores.
+La pestaña de avances del mod proporciona consejos y orientación sobre cómo avanzar para desbloquearlos.
 
-## 🤝 Trainer Association
+## 🤝 Asociación de Entrenadores
 
-Occasionally, a villager known as the Trainer Association may spawn.
-This NPC offers you a choice between different battle series:
-Brilliant Diamond / Shining Pearl (Difficulty: 2.5/5)
-Radical Red (Difficulty: 4.5/5)
-And more...
-Your Trainer Card will display an arrow above it when the Trainer Association NPC is nearby, helping you locate them easily.
+Ocasionalmente, puede aparecer un aldeano conocido como Asociación de Entrenadores.
+Este NPC te ofrece una elección entre diferentes series de batalla:
+Diamante brillante / Perla brillante (Dificultad: 2,5/5)
+Rojo Radical (Dificultad: 4,5/5)
+Y más...
+Tu Tarjeta de Entrenador mostrará una flecha sobre ella cuando el NPC de la Asociación de Entrenadores esté cerca, ayudándote a localizarlos más fácilmente.
 
-## 💡 Tips
+## 💡 Consejos
 
-Train multiple Pokémon to avoid reaching the level cap too quickly.
-Engage in battles with trainers early to maintain steady progression and avoid being held back later.
-Regularly check the advancements tab in-game for clues about your next objective.
+Entrena múltiples Pokemon para evitar alcanzar el límite de nivel demasiado rápido.
+Batalla con entrenadores desde temprano para mantener una progresión constante y evitar estancarte en el futuro.
+Revisa regularmente la pestaña de avances en el juego en busca de pistas sobre tu próximo objetivo.
 
-## ℹ️ More Information
+## ℹ️ Más Información
 
 For additional details, please refer to the official Radical Cobblemon Trainers documentation:
 https://srcmc.gitlab.io/rct/docs/0.13/

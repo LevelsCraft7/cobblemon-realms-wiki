@@ -6,7 +6,7 @@
 - [Preguntas Frecuentes](faq.md)
 - [Contribuir](contributing.md)
 
-## 🚀 Getting Started
+## 🚀 Empezando
 
 - [Primeros Pasos](getting-started.md)
 - [Guía de Instalación](installation.md)
@@ -22,3 +22,7 @@
 ## 🧩 Guías de Mods
 
 - [Chunky para la Pre-generación del Mundo](mods-guides/chunky.md)
+
+## ⚙️ Settings
+
+- [Disable Cave-Only Hostile Mobs](settings/cavesonly.md)

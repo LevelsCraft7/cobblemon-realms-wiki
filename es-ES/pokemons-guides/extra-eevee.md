@@ -1,10 +1,10 @@
-# Extra Eeveelutions
+# Extra Eeveeluciones
 
-The **Extra Eeveelutions** datapack adds several new variants of Eevee, each with unique abilities, stats, and evolution methods. Below is the detailed information about each new Eeveelution added by this datapack, including their stats, spawn locations, evolution methods, and more.
+El datapack **Extra Eeveeluciones** añade variantes nuevas de Eevee, cada una con habilidades únicas, estadísticas y métodos de evolución. A continuación se muestra la información detallada sobre cada nueva Eeveelucion añadida por este datapack, incluyendo sus estadísticas, ubicaciones de spawn, métodos de evolución y más.
 
 ---
 
-## New Eeveelutions
+## Nuevas Eeveeluciones
 
 ### 1. **Spectreon**
 
@@ -24,11 +24,11 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 
 - **Hidden Ability:** Perish Body
 
-- **Spawn Locations:** Magical Biomes (Ultra Rare), Soul Sand Valley (Rare)
+- **Lugares de Spawn:** Biomas Mágicos (Ultra raro), Valle de Arena de Alma (Raro)
 
-- **Evolution Method:** High friendship in a Soul Sand Valley
+- **Método de Evolución:** Alta amistad en un Valle de Arena de Alma
 
-**Lore:** Spectreon tends to lurk in dark forests, awaiting the day their trainer will return. Most of them are unaware that they have passed away and will lurk forever.
+**Lore:** El Spectreón tiende a acechar en bosques oscuros, esperando el día que regrese su entrenador. La mayoría de ellos no son conscientes de que han fallecido y acecharán para siempre.
 
 ![image](https://github.com/user-attachments/assets/28254552-80eb-497a-8dd4-935b7fd4f358)
 
@@ -52,11 +52,11 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 
 - **Hidden Ability:** Corrosion
 
-- **Spawn Locations:** Swamp Biomes
+- **Lugares de Spawn:** Biomas de Pantano
 
-- **Evolution Method:** Level 24, in the same party as a Muk
+- **Método de Evolución:** Nivel 24, en el mismo equipo que un Muk
 
-**Lore:** The orb at the end of Acideon's tail is so poisonous that even lightly touching it can cause lifelong damage.
+**Lore:** El orbe al final de la cola de Acideon es tan venenosa que incluso tocarla ligeramente puede causar daños permanentes.
 
 ![image](https://github.com/user-attachments/assets/337c2728-f144-493c-9702-82530f0aecc7)
 
@@ -80,11 +80,11 @@ The **Extra Eeveelutions** datapack adds several new variants of Eevee, each wit
 
 - **Hidden Ability:** Scrappy
 
-- **Spawn Locations:** Windswept Savanna
+- **Lugares de Spawn:** Savanna de barrido de viento
 
-- **Evolution Method:** Level 36, Holding a Focus Band
+- **Método de Evolución:** Nivel 36, sosteniendo una Banda de Enfoque
 
-**Lore:** When Eevee becomes inspired by a fighter's spirit, it starts training for many years, eventually becoming a Champeon.
+**Lore:** Cuando Eevee se inspira en el espíritu de un luchador, comienza a entrenarse durante muchos años, convirtiéndose eventualmente en un Champeon.
 
 ![image](https://github.com/user-attachments/assets/63f7d08d-292f-41d9-9398-7ba3b5b818d0)
 

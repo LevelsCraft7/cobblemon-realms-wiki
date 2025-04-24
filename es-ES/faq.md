@@ -1,27 +1,27 @@
 # FAQ
 
-## ❓ "My game crashes when I launch the modpack"
+## ❓ "Mi juego crashea cuando inicio el modpack"
 
-- Make sure you’re using **Java 21+**
-- Allocate at least **8GB RAM** in your launcher
+- Asegúrate de que estás usando **Java 21** o superior
+- Asigna al menos **8GB de RAM** en tu launcher
 
-## ❓ "I can’t find any Pokémon!"
+## ❓ "¡No puedo encontrar ningún Pokémon!"
 
-- Explore new biomes
-- Use `/checkspawns` to verify what appears in your area
+- Explora nuevos biomas
+- Usa `/checkspawns` para verificar qué aparece en tu área
 
-## ❓ "Can I add more mods?"
+## ❓ "¿Puedo añadir más mods?"
 
-- Yes, but be cautious: some mods may break balance or compatibility.
+- Sí, pero se cuidadoso: algunos mods pueden romper el equilibrio o la compatibilidad.
 
-## ❓ "Can I play singleplayer and invite friends later?"
+## ❓ "¿Puedo jugar un solo jugador e invitar amigos despues?"
 
-- Yes! You can **turn your world into a server** later by copying the world save to your server folder.
+- ¡Sí! Puedes **convertir tu mundo en un servidor** más adelante copiando el archivo del mundo en la carpeta de tu servidor.
 
-## ❓ "Can I use aternos/minehut/free hosts?"
+## ❓ "¿Puedo usar aternos/minehut/hosts gratis?"
 
-- Not recommended for big modpacks like Cobblemon Realms. Too many limitations.
+- No es recomendado para modpacks grandes como Cobblemon Realms. Demasiadas limitaciones.
 
-## ❓ "Does the modpack require special setup?"
+## ❓ "¿Necesita el modpack alguna una configuración especial?"
 
-- Yes: **Java 21** and **enough RAM** (at least 6-8GB allocated to the server). That's why a good host helps!
+- Sí: **Java 21** y **suficiente RAM** (al menos 6-8GB asignados al servidor). ¡Por eso un buen host es de gran ayuda!

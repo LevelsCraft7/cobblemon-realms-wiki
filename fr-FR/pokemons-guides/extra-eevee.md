@@ -6,7 +6,7 @@ Le **datapack Extra Eeveelutions** ajoute plusieurs nouvelles variantes d’Évo
 
 ## New Eeveelutions
 
-### 1. **Spectreon**
+### **Spectreon**
 
 - **PV :** 65
 
