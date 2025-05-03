@@ -1,38 +1,166 @@
-## 📊 Limite de Niveau des Pokémon
+# 🧗 Vue d'ensemble de la progression du Dresseur
 
-Vos Pokémon ne peuvent pas dépasser la limite de niveau indiquée sur votre Carte de Dresseur (LVL 50 au départ). Une fois cette limite atteinte, le Pokémon ne gagne plus d’expérience tant que vous n’avez pas progressé davantage.
-Les dresseurs refuseront de vous affronter si un Pokémon de votre équipe dépasse la limite de niveau.
-Pour augmenter cette limite, vous devez vaincre les Dresseurs Clés listés sur votre Carte de Dresseur.
-Suivez votre progression grâce aux avancements en jeu et à votre Carte de Dresseur.
+Cobblemon Realms propose un système de progression structuré basé sur les **Cartes de Dresseur**, les **Dresseurs Clés**, et les **Séries de Dresseurs**.  
+Ce système encourage l'exploration, la stratégie et une montée en puissance progressive à travers des défis de plus en plus complexes.
 
-## 🔍 Trouver les Dresseurs Clés
+---
 
-Les Dresseurs Clés apparaissent dans des biomes spécifiques — consultez votre Carte de Dresseur pour connaître leurs emplacements.
-Avoir un Pokémon ayant atteint la limite de niveau dans votre équipe augmente le taux d’apparition des Dresseurs Clés.
-Battre de nouveaux dresseurs réduit les chances que ceux déjà vaincus réapparaissent.
-Votre Carte de Dresseur brillera et affichera une flèche de suivi lorsqu’un Dresseur Clé est à proximité.
+## 📊 Système de Cap de Niveau
 
-## 🏆 Unlocking Gym Leaders
+Chaque joueur possède un **cap de niveau personnel**, qui commence à **niveau 50** (ou plus si votre premier Dresseur Clé est plus fort).
 
-Pour débloquer les Champions d’Arène, vous devez vaincre un certain nombre de dresseurs.
-L’onglet des avancements du mod fournit des indices et des conseils sur la manière de progresser vers leur déblocage.
+### ⚙️ Effets du Cap de Niveau
+
+- 🛑 Les Pokémon à votre cap de niveau ou au-dessus **ne gagnent plus d'expérience**.
+- 🚫 Les dresseurs **refuseront de vous affronter** si un Pokémon de votre équipe dépasse votre cap.
+- 🎯 La **difficulté des dresseurs proches** s'adapte à votre équipe, mais ne dépassera jamais votre cap.
+
+### 🧭 Comment augmenter votre cap
+
+Pour augmenter votre cap, vous devez vaincre des **Dresseurs Clés** dans un ordre précis.  
+Utilisez votre **Carte de Dresseur** et l’onglet **Avancements** pour suivre votre progression et vos objectifs à venir.
+
+---
+
+## 🔍 Dresseurs Clés & Suivi
+
+Les Dresseurs Clés sont essentiels pour progresser — les vaincre permet d'augmenter votre cap de niveau et de débloquer du contenu plus avancé.
+
+- 🌍 **Apparition** : Ils apparaissent dans des biomes spécifiques indiqués sur votre Carte de Dresseur.
+- 🧭 **Système de suivi** :
+  - La carte **brille** lorsqu’un Dresseur Clé est actif.
+  - Une **flèche holographique** indique sa position.
+  - Si le dresseur est dans une autre dimension, la flèche **tourne aléatoirement**.
+- 🔄 **Ordre obligatoire** : Vous devez les vaincre dans le bon ordre, selon leur série.
+- 🎯 **Apparition accélérée** : Avoir un Pokémon au cap de niveau dans votre équipe augmente leur taux d’apparition.
+- 🧠 **Réapparition réduite** : Les Dresseurs Clés déjà vaincus ont moins de chances de réapparaître.
+
+---
+
+## 🏆 Débloquer les Champions d’Arène
+
+Les Champions d’Arène et autres défis supérieurs sont débloqués en battant des Dresseurs Clés.
+
+- 🥇 Vaincre un **nombre requis** de Dresseurs Clés d'une série débloque son Champion.
+- 🧩 Certains défis avancés (Ligue, Boss d'équipe) demandent de **compléter plusieurs séries** ou d’en vaincre entièrement une.
+- 📈 Suivez votre parcours avec la **Carte de Dresseur** et l’onglet **Avancements**.
+
+La progression est **non linéaire** — explorez, affrontez et débloquez à votre rythme !
+
+---
 
 ## 🤝 Association des Dresseurs
 
-De temps à autre, un villageois appelé « Association des Dresseurs » peut apparaître.
-This NPC offers you a choice between different battle series:
-Brilliant Diamond / Shining Pearl (Difficulty: 2.5/5)
-Radical Red (Difficulty: 4.5/5)
-And more...
-Votre Carte de Dresseur affichera une flèche au-dessus lorsqu’un PNJ de l’Association est proche, pour vous aider à le repérer facilement.
+L’**Association des Dresseurs** est un PNJ villageois spécial qui permet aux joueurs de démarrer leur première série de défis.
 
-## 💡 Astuces
+- 🧭 Elle **apparaît à proximité** d’un joueur qui :
+  - A une **Carte de Dresseur** (en main ou dans l’inventaire), **et**
+  - **N’a commencé aucune série de dresseur**.
 
-Entraînez plusieurs Pokémon pour éviter d’atteindre trop vite la limite de niveau.
-Affrontez les dresseurs dès que possible pour maintenir une progression régulière et ne pas être bloqué plus tard.
-Consultez régulièrement l’onglet des avancements en jeu pour obtenir des indices sur votre prochain objectif.
+- 🗺️ Lorsqu’elle est proche, votre Carte de Dresseur :
+  - **Brillera**, et  
+  - Affichera une **flèche directionnelle** pointant vers l’Association.
 
-## ℹ️ Plus d’informations
+Ce PNJ vous permet d’accéder à de nombreuses **séries de dresseurs**, avec leurs propres thèmes, niveaux de difficulté et chemins de progression.
 
-Pour plus de détails, consultez la documentation officielle des Radical Cobblemon Trainers :\
-[https://srcmc.gitlab.io/rct/docs/0.13/](https://srcmc.gitlab.io/rct/docs/0.13/)
+---
+
+### 📋 Séries de Dresseurs disponibles
+
+#### 🟢 Séries indépendantes
+
+Aucune condition requise.
+
+1. **Pokémon Adventures** *(5/10)*  
+   Affrontez les héros du manga Pokémon Adventures.  
+   Séries à embranchements avec personnages déblocables.  
+   Combats optionnels : Black, White, Blake et Whitley (v1.7+).
+
+2. **Défi des Arènes de Sinnoh** *(4/10)*  
+   Combats doubles contre les Champions de Sinnoh.
+
+3. **Team Aqua** *(4/10)*  
+   Combattez la Team Aqua dans l’Overworld.
+
+4. **Team Magma** *(4/10)*  
+   Affrontez la Team Magma dans le Nether.
+
+5. **Défi des Arènes d’Unys** *(5/10)*  
+   Vainquez les Champions de la région d’Unys.
+
+6. **Défi des Arènes de Hoenn** *(3/10)*  
+   Battez les Champions de Hoenn.
+
+7. **Défi des Arènes de Kalos** *(6/10)*  
+   Équipes de niveau 90+ avec Méga-Évolutions.  
+   (Les Pokémon arrivent déjà méga-évolués pour des raisons techniques.)
+
+---
+
+#### 🔒 Séries avec prérequis
+
+8. **Team Plasma** *(5/10)*  
+   ➤ Requiert : *Défi d’Unys*
+
+9. **Défi de la Ligue d’Unys** *(5/10)*  
+   ➤ Requiert : *Défi d’Unys*
+
+10. **Défi de la Ligue de Hoenn** *(6/10)*  
+    ➤ Requiert : *Défi de Hoenn*
+
+11. **Défi de la Ligue de Kalos** *(6/10)*  
+    ➤ Requiert : *Défi de Kalos*
+
+12. **Sept Sages de la Team Plasma** *(6/10)*  
+    ➤ Requiert : *Team Plasma & Ligue d’Unys*
+
+13. **Défi Unys (NB2)** *(6/10)*  
+    ➤ Requiert : *Défi + Ligue d’Unys*
+
+14. **Neo Team Plasma** *(6/10)*  
+    ➤ Requiert : *Sept Sages de la Team Plasma*  
+    Équipes compétitives avec EV/IV max.
+
+---
+
+## 📈 Graphique de progression
+
+Vous pouvez visualiser votre avancée via un **graphe de progression des séries**.
+
+### 🛠️ Commande à utiliser
+
+`/rctmod player get progress <pseudo> graph include_defeated include_optionals`
+
+
+Ce graphe montre :
+- ✔️ Séries terminées
+- 🟡 Séries optionnelles
+- 🔒 Séries verrouillées
+- 🔁 Dépendances entre séries
+
+Un outil idéal pour planifier votre prochaine étape !
+
+---
+
+### 🎯 Avancements
+
+Chaque série inclut ses propres **avancements** (certains sont cachés).  
+Ils vous aident à suivre votre parcours, débloquer des récompenses, et savoir quoi faire ensuite.
+
+Consultez régulièrement l’onglet **Avancements** en jeu.
+
+---
+
+## 💡 Conseils de progression
+
+- 🧠 Entraînez une **équipe variée** pour ne pas bloquer au cap de niveau.  
+- 🎯 **Affrontez des Dresseurs** dès que possible pour débloquer du contenu.  
+- 📖 Utilisez souvent votre **Carte de Dresseur** et l’onglet **Avancements** — ce sont vos meilleurs outils.
+
+---
+
+## ℹ️ En savoir plus
+
+Consultez la documentation officielle du mod *Radical Cobblemon Trainers* :
+
+🔗 [https://srcmc.gitlab.io/rct/docs/0.13/](https://srcmc.gitlab.io/rct/docs/0.13/)
