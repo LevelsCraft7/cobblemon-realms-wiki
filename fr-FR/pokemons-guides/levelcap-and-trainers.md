@@ -17,6 +17,7 @@ Chaque joueur possède un **cap de niveau personnel**, qui commence à **niveau 
 ### 🧭 Comment augmenter votre cap
 
 Pour augmenter votre cap, vous devez vaincre des **Dresseurs Clés** dans un ordre précis.\
+Utilisez votre **Carte de Dresseur** et l’onglet **Avancements** pour suivre votre progression et vos objectifs à venir.\
 Utilisez votre **Carte de Dresseur** et l’onglet **Avancements** pour suivre votre progression et vos objectifs à venir.
 
 ---
@@ -72,6 +73,8 @@ Aucune condition requise.
 1. **Pokémon Adventures** _(5/10)_\
   Affrontez les héros du manga Pokémon Adventures.\
   Séries à embranchements avec personnages déblocables.\
+  Combats optionnels : Black, White, Blake et Whitley (v1.7+).\
+  Séries à embranchements avec personnages déblocables.\
   Combats optionnels : Black, White, Blake et Whitley (v1.7+).
 
 2. **Défi des Arènes de Sinnoh** _(4/10)_\
@@ -91,6 +94,7 @@ Aucune condition requise.
 
 7. **Défi des Arènes de Kalos** _(6/10)_\
   Équipes de niveau 90+ avec Méga-Évolutions.\
+  (Les Pokémon arrivent déjà méga-évolués pour des raisons techniques.)\
   (Les Pokémon arrivent déjà méga-évolués pour des raisons techniques.)
 
 ---
@@ -145,6 +149,7 @@ Useful for planning your next moves and long-term goals.
 ### 🎯 Avancements
 
 Chaque série inclut ses propres **avancements** (certains sont cachés).\
+Ils vous aident à suivre votre parcours, débloquer des récompenses, et savoir quoi faire ensuite.\
 Ils vous aident à suivre votre parcours, débloquer des récompenses, et savoir quoi faire ensuite.
 
 Consultez régulièrement l’onglet **Avancements** en jeu.
