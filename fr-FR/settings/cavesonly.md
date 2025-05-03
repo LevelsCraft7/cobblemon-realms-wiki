@@ -1,6 +1,7 @@
 # 🛡️ Désactiver la restriction des mobs hostiles aux grottes
 
 Dans le modpack **Cobblemon Realms**, les mobs hostiles sont limités aux grottes grâce au mod **In Control!**.\
+Si vous souhaitez désactiver complètement cette restriction, il suffit de retirer ce mod.\
 Si vous souhaitez désactiver complètement cette restriction, il suffit de retirer ce mod.
 
 ## 🔧 Étapes
