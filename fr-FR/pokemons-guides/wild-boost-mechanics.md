@@ -1,89 +1,91 @@
 # 📊 Mécanismes améliorés des Pokémon sauvages
 
-Some mods extend the Cobblemon experience by introducing mechanics that reward players for their interactions with wild Pokémon — specifically **KOs** and **captures**. These mechanics track player activity and dynamically influence future spawns.
+Certains mods enrichissent l’expérience Cobblemon en introduisant des mécaniques qui récompensent les joueurs pour leurs interactions avec les Pokémon sauvages — en particulier les **K.O.** et les **captures**.  
+Ces systèmes suivent vos actions et influencent dynamiquement les futures apparitions de Pokémon.
 
 ---
 
-## 🧮 How Tracking Works
+## 🧮 Suivi des actions
 
-Every player has two sets of stats tracked separately:
+Chaque joueur possède deux ensembles de statistiques distinctes :
 
-- **KO Count & Streak**: Number of times a player has knocked out a specific Pokémon species, and how many times in a row they've done so.
-- **Capture Count & Streak**: Number of captures per species, and how many times in a row a species was caught.
+- **Compteur de K.O. et série** : Nombre total de K.O. sur une espèce donnée, et nombre de fois consécutives où cette espèce a été mise K.O.
+- **Compteur de captures et série** : Nombre de captures d’une espèce, et nombre de fois consécutives où elle a été capturée.
 
-For each action:
+Fonctionnement :
 
-- If you **KO or catch** a Pokémon of the same species as your last one, your **streak continues** and the count increases.
-- If you switch species, the **streak resets** to 1 and starts again for the new one.
-- KO and capture stats are **tracked independently**, allowing precise tracking of both activities.
+- Si vous **mettez K.O. ou capturez** un Pokémon de la même espèce que le précédent, votre **série continue** et le compteur augmente.
+- Si vous changez d’espèce, la **série est réinitialisée** à 1 pour la nouvelle espèce.
+- Les données de K.O. et de captures sont **suivies séparément**, permettant un suivi précis de chaque action.
 
-These values are stored in your player data and can influence future wild Pokémon encounters.
-
----
-
-## 🔥 Effects on Wild Spawns
-
-Your accumulated data directly affects the characteristics of wild Pokémon that spawn around you (typically within a 64-block radius). These effects include **hidden abilities**, **shiny rates**, and **guaranteed perfect IVs**.
+Ces données sont enregistrées dans votre profil joueur et peuvent influencer les apparitions futures de Pokémon sauvages autour de vous.
 
 ---
 
-### 🎯 Hidden Ability Chance
+## 🔥 Effets sur les apparitions
 
-The chance for a wild Pokémon to spawn with its **hidden ability** increases if:
-
-- You were the **last player to KO** that species.
-- Or you’ve KO’d **at least 99 Pokémon** of that species.
-
-➡️ Default example: a **20% chance** (1 in 5) to spawn with a hidden ability if either condition is met.
+Les données que vous accumulez affectent directement les caractéristiques des Pokémon sauvages qui apparaissent autour de vous (généralement dans un rayon de 64 blocs).  
+Ces effets incluent les **talents cachés**, les **taux de shiny**, et les **IV parfaits garantis**.
 
 ---
 
-### ✨ Shiny Rate Boost
+### 🎯 Chance d’avoir un Talent Caché
 
-Shiny Pokémon spawn rates are enhanced based on your **KO streaks**:
+La probabilité qu’un Pokémon sauvage apparaisse avec son **talent caché** augmente si :
 
-| KO Streak                            | Shiny Spawn Rate |
-| ------------------------------------ | ---------------- |
-| None / <100 | 1 / 8196         |
-| 100+                                 | 2 / 8196         |
-| 300+                                 | 3 / 8196         |
-| 500+                                 | 4 / 8196         |
+- Vous êtes le **dernier joueur** à avoir mis K.O. cette espèce.
+- Ou vous avez mis K.O. **au moins 99 Pokémon** de cette espèce.
 
-➡️ Maintaining long KO streaks on a species gives you **better odds** for shiny encounters.
+➡️ Par défaut : **20 % de chance** (1 sur 5) que le talent caché apparaisse si une des conditions est remplie.
 
 ---
 
-### 🧬 Guaranteed Perfect IVs
+### ✨ Augmentation du taux de Shiny
 
-The number of **perfect IVs** a wild Pokémon spawns with depends on your **capture streak**:
+Les taux d’apparition de Pokémon shiny augmentent selon votre **série de K.O.** :
 
-| Capture Streak | Guaranteed Perfect IVs |
-| -------------- | ---------------------- |
-| 5+             | 1                      |
-| 10+            | 2                      |
-| 20+            | 3                      |
-| 30+            | 4                      |
+| Série de K.O.          | Taux de Shiny     |
+|------------------------|------------------|
+| Aucune / <100          | 1 / 8196         |
+| 100+                   | 2 / 8196         |
+| 300+                   | 3 / 8196         |
+| 500+                   | 4 / 8196         |
 
-➡️ The more you capture the same Pokémon in a row, the better the IV quality of future spawns.
-
----
-
-## 🧠 How Points Are Calculated
-
-Behind the scenes, actions like **KOs, captures**, and **streaks** earn you **points** that are used to evaluate spawn effects:
-
-- **KO streaks and capture streaks** award the most impactful points.
-- Each booster module (Hidden Ability, Shiny, IVs) uses a separate scoring system based on these actions.
-
-The more consistent you are with a particular species, the more likely you’ll influence its future spawns.
+➡️ Garder une longue série de K.O. sur une espèce augmente vos **chances de rencontrer un shiny**.
 
 ---
 
-## ✅ Summary
+### 🧬 IV Parfaits Garantis
 
-- Keep knocking out or catching the same species to build **streaks**.
-- These streaks directly improve your chances of seeing **rare, powerful, or shiny Pokémon**.
-- Effects only apply to wild Pokémon spawning **near you**.
-- All data is tied to your **individual player profile**.
+Le nombre d’**IV parfaits garantis** pour un Pokémon sauvage dépend de votre **série de captures** :
 
-Take advantage of these mechanics to **farm specific traits** or **hunt rare Pokémon** more effectively!
+| Série de Captures | IV Parfaits Garantis |
+|-------------------|----------------------|
+| 5+                | 1                    |
+| 10+               | 2                    |
+| 20+               | 3                    |
+| 30+               | 4                    |
+
+➡️ Plus vous capturez la même espèce à la suite, meilleure sera la qualité des IV des prochaines apparitions.
+
+---
+
+## 🧠 Comment les points sont calculés
+
+En arrière-plan, vos actions (K.O., captures, séries) vous font gagner des **points**, utilisés pour évaluer les effets sur les apparitions :
+
+- Les **séries de K.O. et de captures** rapportent les points les plus influents.
+- Chaque système de bonus (talent caché, shiny, IV) utilise une méthode de calcul différente basée sur ces points.
+
+Plus vous êtes **cohérent avec une espèce**, plus vous aurez d’impact sur ses prochaines apparitions.
+
+---
+
+## ✅ Résumé
+
+- Enchaînez les K.O. ou captures d’une même espèce pour créer des **séries**.
+- Ces séries augmentent vos chances d’avoir des **Pokémon rares, puissants ou shiny**.
+- Les effets ne s’appliquent qu’aux Pokémon sauvages **proches de vous**.
+- Toutes les données sont liées à votre **profil joueur individuel**.
+
+Utilisez ces mécaniques pour **chasser efficacement** ou **optimiser les caractéristiques** des Pokémon que vous ciblez !
