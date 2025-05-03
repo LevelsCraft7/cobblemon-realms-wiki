@@ -74,7 +74,7 @@ No prerequisites required.
 1. **Pokémon Adventures** *(5/10)*  
    Fight heroes from the Pokémon Adventures manga.  
    Features branching paths and unlockable characters.  
-   Optional battles include Black, White, Blake, and Whitley (v1.7+).
+   Optional battles include Black, White, Blake, and Whitley.
 
 2. **Sinnoh Gym Challenge** *(4/10)*  
    Double battles against Sinnoh’s Gym Leaders.
@@ -118,8 +118,9 @@ No prerequisites required.
     ➤ Requires: *Unova Gym Challenge & Unova League Challenge*
 
 14. **Neo Team Plasma** *(6/10)*  
-    ➤ Requires: *Team Plasma’s Seven Sages*  
-    Includes fully EV/IV-trained teams with competitive movesets.
+    ➤ Requires: *Team Plasma’s Seven Sages*
+      
+Includes fully EV/IV-trained teams with competitive movesets.
 
 ---
 
