@@ -96,6 +96,7 @@ Esto apoya el proyecto y me ayuda a seguir desarrollando nuevas actualizaciones 
 
 📬 **¿Necesitas ayuda?**
 ¡Pregunta en los canales de discusión o soporte del modpack!\
+Puede que no responda al instante, pero la comunidad está aquí también :speech_balloon:\
 Puede que no responda al instante, pero la comunidad está aquí también :speech_balloon:
 
 🔥 ¡Diviértete con tus amigos y disfruta de tu viaje de Pokémon juntos en **Cobblemon Realms**!

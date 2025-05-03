@@ -6,7 +6,7 @@ Le **datapack Extra Eeveelutions** ajoute plusieurs nouvelles variantes d’Évo
 
 ## New Eeveelutions
 
-### **Spectreon**
+### 2. **Acideon**
 
 - **PV :** 65
 
@@ -34,7 +34,7 @@ Le **datapack Extra Eeveelutions** ajoute plusieurs nouvelles variantes d’Évo
 
 ---
 
-### 2. **Acideon**
+### 3. **Champeon**
 
 - **PV :** 95
 
@@ -62,7 +62,7 @@ Le **datapack Extra Eeveelutions** ajoute plusieurs nouvelles variantes d’Évo
 
 ---
 
-### 3. **Champeon**
+### 6. **Hiveon**
 
 - **PV :** 65
 
@@ -146,7 +146,7 @@ Le **datapack Extra Eeveelutions** ajoute plusieurs nouvelles variantes d’Évo
 
 ---
 
-### 6. **Hiveon**
+### 8. **Wyveon**
 
 - **PV :** 65
 
@@ -202,7 +202,7 @@ Le **datapack Extra Eeveelutions** ajoute plusieurs nouvelles variantes d’Évo
 
 ---
 
-### 8. **Wyveon**
+### 10. **Eeveeon**
 
 - **PV :** 65
 
@@ -258,7 +258,7 @@ Le **datapack Extra Eeveelutions** ajoute plusieurs nouvelles variantes d’Évo
 
 ---
 
-### 10. **Eeveeon**
+### 11. **Evereon**
 
 - **PV :** 85
 
