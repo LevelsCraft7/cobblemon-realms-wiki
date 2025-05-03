@@ -2,6 +2,7 @@
 
 In the **Cobblemon Realms** modpack, hostile mobs are restricted to caves thanks to the **In Control!** mod.\
 If you want to completely disable hostile mob restrictions, simply remove this mod.\
+If you want to completely disable hostile mob restrictions, simply remove this mod.\
 If you want to completely disable hostile mob restrictions, simply remove this mod.
 
 ## 🔧 Steps
