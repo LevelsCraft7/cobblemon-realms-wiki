@@ -2,27 +2,28 @@
 
 ## 🌍 Einführung
 
-- [Willkommen](README.md)
-- [Häufig gestellte Fragen](faq.md)
-- [Mitwirken](contributing.md)
+* [Willkommen](README.md)
+* [Häufig gestellte Fragen](faq.md)
+* [Mitwirken](contributing.md)
 
 ## 🚀 Erste Schritte
 
-- [Erste Schritte](getting-started.md)
-- [Installationsanleitung](installation.md)
+* [Erste Schritte](getting-started.md)
+* [Installationsanleitung](installation.md)
 
 ## 🎮 Gameplay
 
-- [Pokémon und Spawns](pokemon-and-spawns.md)
-  - [Levelgrenze und Trainer](pokemons-guides/levelcap-and-trainers.md)
-  - [Zusätzliche Evoli-Entwicklungen](pokemons-guides/extra-eevee.md)
-- [Multiplayer-Server](multiplayer-servers.md)
-- [Quests](quests.md)
+* [Pokémon und Spawns](pokemon-and-spawns.md)
+  * [Levelgrenze und Trainer](pokemons-guides/levelcap-and-trainers.md)
+  * [Zusätzliche Evoli-Entwicklungen](pokemons-guides/extra-eevee.md)
+  * [Mechaniken zur Spawn-Verbesserung](pokemons-guides/wild-boost-mechanics.md)
+* [Mehrspieler-Server](multiplayer-servers.md)
+* [Quests](quests.md)
 
-## 🧩 Mod-Anleitungen
+## 🧩 Mod-Guides
 
-- [Chunky zur Welt-Vorabgenerierung](mods-guides/chunky.md)
+* [Chunky für Welt-Vorberechnung](mods-guides/chunky.md)
 
-## ⚙️ Settings
+## ⚙️ Einstellungen
 
-- [Einschränkung feindlicher Mobs auf Höhlen deaktivieren](settings/cavesonly.md)
+* [Höhlenexklusive feindliche Mobs deaktivieren](settings/cavesonly.md)
