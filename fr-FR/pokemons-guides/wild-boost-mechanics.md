@@ -4,7 +4,7 @@ Some mods extend the Cobblemon experience by introducing mechanics that reward p
 
 ---
 
-## 🧮 How Tracking Works
+## 🧮 Comment fonctionne le suivi ?
 
 Every player has two sets of stats tracked separately:
 

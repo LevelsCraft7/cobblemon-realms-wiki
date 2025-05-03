@@ -44,7 +44,7 @@ Ouvrez le fichier `user_jvm_args.txt` et modifiez les valeurs de mémoire :
 
 **📜 Étape 2 : Premier lancement et acceptation de l’EULA**
 
-1. Extrayez le `.zip` du ServerPack dans un dossier (ex : \\\\\`Cobblemon Server')
+1. Extrayez le `.zip` du ServerPack dans un dossier (ex : \\\\\\`Cobblemon Server')
 2. Double-cliquez sur le fichier `run.bat`
 3. Cela va créer un fichier `eula.txt` et s’arrêter
 4. Ouvrez ce fichier et changez :\
@@ -103,6 +103,6 @@ I may not reply instantly, but the community is here too :speech_balloon:\
 I may not reply instantly, but the community is here too :speech_balloon:
 
 🔥 Amusez-vous entre amis et profitez de votre aventure Pokémon sur **Cobblemon Realms** !
-Faisons-en une aventure inoubliable 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨
+Faisons-en une aventure inoubliable 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨
 
 _Je ne propose pas de support direct pour l’hébergement maison / la redirection de ports — mais de nombreux tutos sont disponibles en ligne !_
