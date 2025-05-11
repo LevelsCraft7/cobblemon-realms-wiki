@@ -36,15 +36,20 @@ Les Dresseurs Clés sont essentiels pour progresser — les vaincre permet d'aug
 
 ---
 
-## 🏆 Unlocking Gym Leaders
+## 🏆 Débloquer les Champions d’Arène et Dresseurs Majeurs
 
-Les Champions d’Arène et autres défis supérieurs sont débloqués en battant des Dresseurs Clés.
+Les Champions d’Arène, Rivaux, membres du Conseil 4, boss de la Team Rocket et autres grands défis de dresseurs se débloquent en progressant via des victoires clés et des mécaniques spéciales.
 
-- 🥇 Vaincre un **nombre requis** de Dresseurs Clés d'une série débloque son Champion.
-- 🧩 Certains défis avancés (Ligue, Boss d'équipe) demandent de **compléter plusieurs séries** ou d’en vaincre entièrement une.
-- 📈 Suivez votre parcours avec la **Carte de Dresseur** et l’onglet **Avancements**.
+- 🥇 Vaincre un **nombre requis** de Dresseurs Clés d’une même série permet d’accéder à ses adversaires de plus haut niveau.
+- 💠 Certains dresseurs (comme Pierre ou les leaders de la Team Rocket) nécessitent un **Objet Signature** (ex : Pierre Dure) pour être invoqués.
+- 🧱 Utilisez un **Générateur de Dresseur** — que l’on peut fabriquer ou trouver dans les villages Pokémon près des arènes — puis faites un clic droit dessus avec l’objet requis. Le dresseur apparaîtra après quelques secondes !
+- 🧩 Les défis avancés (Ligues, Teams, Boss spéciaux) peuvent exiger plusieurs victoires ou des séries complètes.
+- 📈 Suivez votre progression via la **Carte de Dresseur** et l’onglet **Avancements** pour des indices et des étapes importantes.
 
-La progression est **non linéaire** — explorez, affrontez et débloquez à votre rythme !
+Votre progression est **non-linéaire** — débloquez, invoquez et combattez à votre propre rythme selon votre aventure !
+
+![gymitem](https://github.com/user-attachments/assets/83860a89-0467-4f04-b741-602bb7e55275)
+
 
 ---
 
