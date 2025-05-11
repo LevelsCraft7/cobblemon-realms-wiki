@@ -36,15 +36,19 @@ Key Trainers are essential to your progression — defeating them unlocks level 
 
 ---
 
-## 🏆 Unlocking Gym Leaders
+## 🏆 Unlocking Gym Leaders & Major Trainers
 
-Gym Leaders and higher challenges are unlocked by progressing through Key Trainer victories.
+Gym Leaders, Rivals, Elite 4, Team Rocket bosses, and other major Trainer challenges are unlocked by progressing through key Trainer victories and interacting with special mechanics.
 
-- 🥇 Defeat a **required number** of Key Trainers from a series to unlock its Gym Leader.
-- 🧩 Some advanced challenges (League, Team Bosses) require **multiple completions** or defeating entire chains.
-- 📈 Use the **Trainer Card** and **Advancements tab** to monitor your path.
+- 🥇 Defeat a **required number** of Key Trainers from a given series to unlock access to its higher-tier opponents.
+- 💠 Some trainers (like Brock or Team Rocket leaders) require a **Signature Item** (e.g., Hard Stone) to be summoned.
+- 🧱 Use a **Trainer Spawner** — crafted or found in Pokémon villages near battle arenas — and right-click it with the required item. The trainer will appear after a few seconds!
+- 🧩 Advanced challenges (Leagues, Teams, Special Bosses) may demand multiple completions or full chain victories.
+- 📈 Track your journey using the **Trainer Card** and the **Advancements tab** for clues and milestones.
 
-Progress is **non-linear** — discover, battle, and unlock in the order that suits your journey!
+Your progression is **non-linear** — unlock, summon, and battle in the way that fits your adventure!
+
+![gymitem](https://github.com/user-attachments/assets/83860a89-0467-4f04-b741-602bb7e55275)
 
 ---
 
