@@ -15,7 +15,6 @@
 
 * [Pokémon and Spawns](pokemon-and-spawns.md)
   * [Level Cap and Trainers](pokemons-guides/levelcap-and-trainers.md)
-  * [Additional Eevee Evolutions](pokemons-guides/extra-eevee.md)
   * [Wild Boost Mechanics](pokemons-guides/wild-boost-mechanics.md)
 * [Multiplayer Servers](multiplayer-servers.md)
 * [Quests](quests.md)
@@ -29,6 +28,7 @@
 * [Crystal Onix](pokemons-exclusives/crystal-onix.md)
 * [Kubfu Evolutions](pokemons-exclusives/kubfu-evolutions.md)
 * [Meltan Charged Form](pokemons-exclusives/meltan-charged.md)
+* [Additional Eevee Evolutions](pokemons-exclusives/extra-eevee.md)
 * [Rotom Appliance Forms](pokemons-exclusives/rotom-forms.md)
 * [Furfrou Trims](pokemons-exclusives/furfrou-trims.md)
 
