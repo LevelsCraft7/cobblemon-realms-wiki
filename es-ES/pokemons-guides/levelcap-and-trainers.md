@@ -17,6 +17,7 @@ Each player has their own **personal level cap**, starting at **level 50** (unle
 ### 🧭 Increasing Your Cap
 
 To raise your level cap, you must defeat **Key Trainers** in a defined order.\
+Check your **Trainer Card** and **Advancements tab** to follow your progress and upcoming milestones.\
 Check your **Trainer Card** and **Advancements tab** to follow your progress and upcoming milestones.
 
 ---
@@ -40,11 +41,15 @@ Key Trainers are essential to your progression — defeating them unlocks level 
 
 Gym Leaders and higher challenges are unlocked by progressing through Key Trainer victories.
 
-- Para desbloquear Líderes de Gimnasio, debes derrotar a un cierto número de entrenadores.
+- 🥇 Defeat a **required number** of Key Trainers from a given series to unlock access to its higher-tier opponents.
+- 💠 Some trainers (like Brock or Team Rocket leaders) require a **Signature Item** (e.g., Hard Stone) to be summoned.
+- 🧱 Use a **Trainer Spawner** — crafted or found in Pokémon villages near battle arenas — and right-click it with the required item. The trainer will appear after a few seconds!
 - 🧩 Some advanced challenges (League, Team Bosses) require **multiple completions** or defeating entire chains.
 - 📈 Use the **Trainer Card** and **Advancements tab** to monitor your path.
 
 Progress is **non-linear** — discover, battle, and unlock in the order that suits your journey!
+
+![gymitem](https://github.com/user-attachments/assets/83860a89-0467-4f04-b741-602bb7e55275)
 
 ---
 
@@ -72,6 +77,8 @@ No prerequisites required.
 1. **Pokémon Adventures** _(5/10)_\
   Fight heroes from the Pokémon Adventures manga.\
   Features branching paths and unlockable characters.\
+  Optional battles include Black, White, Blake, and Whitley.\
+  Features branching paths and unlockable characters.\
   Optional battles include Black, White, Blake, and Whitley.
 
 2. **Sinnoh Gym Challenge** _(4/10)_\
@@ -91,6 +98,7 @@ No prerequisites required.
 
 7. **Kalos Gym Challenge** _(6/10)_\
   Battle level 90+ teams with Mega Pokémon.\
+  (Due to technical limits, they arrive pre-mega-evolved.)\
   (Due to technical limits, they arrive pre-mega-evolved.)
 
 ---
@@ -144,6 +152,7 @@ Useful for planning your next moves and long-term goals.
 ### 🎯 Advancements
 
 Each trainer series includes its own set of **advancements** (some hidden).\
+They help track your journey, offer rewards, and guide you to your next milestone.\
 They help track your journey, offer rewards, and guide you to your next milestone.
 
 Check the **Advancements tab** in-game regularly for updates.
