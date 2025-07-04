@@ -81,6 +81,8 @@ No prerequisites required.
   Features branching paths and unlockable characters.\
   Optional battles include Black, White, Blake, and Whitley.\
   Features branching paths and unlockable characters.\
+  Optional battles include Black, White, Blake, and Whitley.\
+  Features branching paths and unlockable characters.\
   Optional battles include Black, White, Blake, and Whitley.
 
 2. **Sinnoh Gym Challenge** _(4/10)_\
@@ -100,6 +102,7 @@ No prerequisites required.
 
 7. **Kalos Gym Challenge** _(6/10)_\
   Battle level 90+ teams with Mega Pokémon.\
+  (Due to technical limits, they arrive pre-mega-evolved.)\
   (Due to technical limits, they arrive pre-mega-evolved.)\
   (Due to technical limits, they arrive pre-mega-evolved.)\
   (Due to technical limits, they arrive pre-mega-evolved.)
