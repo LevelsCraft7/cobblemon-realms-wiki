@@ -17,6 +17,8 @@ especialmente durante sesiones de alta actividad o exploración intensa.\
 Al generar los trozos con antelación, tu servidor experimentará menos lentitud,\
 especialmente durante sesiones de alta actividad o exploración intensa.\
 Al generar los trozos con antelación, tu servidor experimentará menos lentitud,\
+especialmente durante sesiones de alta actividad o exploración intensa.\
+Al generar los trozos con antelación, tu servidor experimentará menos lentitud,\
 especialmente durante sesiones de alta actividad o exploración intensa.
 
 ## Características
@@ -72,6 +74,7 @@ cuando los jugadores entran en nuevas zonas.
 - Para mapas grandes, programa las tareas de pre-generación durante las ventanas de mantenimiento.
 - Usa regularmente el comando `/chunky status` para monitorear el progreso y evitar sobrecargar el servidor.
 - Si es posible, automatiza el proceso al inicio del servidor con un script que contenga `/chunky start`.\
+  Esto se puede hacer mediante un script de inicio o un plugin del servidor que soporte automatización.\
   Esto se puede hacer mediante un script de inicio o un plugin del servidor que soporte automatización.\
   Esto se puede hacer mediante un script de inicio o un plugin del servidor que soporte automatización.\
   Esto se puede hacer mediante un script de inicio o un plugin del servidor que soporte automatización.\

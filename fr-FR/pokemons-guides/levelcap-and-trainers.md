@@ -79,6 +79,8 @@ Aucune condition requise.
   Séries à embranchements avec personnages déblocables.\
   Combats optionnels : Black, White, Blake et Whitley (v1.7+).\
   Séries à embranchements avec personnages déblocables.\
+  Combats optionnels : Black, White, Blake et Whitley (v1.7+).\
+  Séries à embranchements avec personnages déblocables.\
   Combats optionnels : Black, White, Blake et Whitley (v1.7+).
 
 2. **Défi des Arènes de Sinnoh** _(4/10)_\
@@ -98,6 +100,7 @@ Aucune condition requise.
 
 7. **Défi des Arènes de Kalos** _(6/10)_\
   Équipes de niveau 90+ avec Méga-Évolutions.\
+  (Les Pokémon arrivent déjà méga-évolués pour des raisons techniques.)\
   (Les Pokémon arrivent déjà méga-évolués pour des raisons techniques.)\
   (Les Pokémon arrivent déjà méga-évolués pour des raisons techniques.)
 
