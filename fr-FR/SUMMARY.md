@@ -24,7 +24,7 @@
 * [Formes Exclusives de Mewtwo](pokemons-exclusives/mewtwo-exclusive-forms.md)
 * [Lugia Obscur](pokemons-exclusives/shadow-lugia.md)
 * [Fusions de Necrozma](pokemons-exclusives/necrozma-fusions.md)
-* [Ursaluna Pleine Lune](pokemons-exclusives/bloodmoon-ursaluna.md)
+* [Ursaluna Pleine Lune(Bloodmoon)](pokemons-exclusives/bloodmoon-ursaluna.md)
 * [Onix de Cristal](pokemons-exclusives/crystal-onix.md)
 * [Évolutions de Kubfu](pokemons-exclusives/kubfu-evolutions.md)
 * [Forme Chargée de Meltan](pokemons-exclusives/meltan-charged.md)
