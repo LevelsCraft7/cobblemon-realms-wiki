@@ -20,6 +20,9 @@ A defensive Psychic/Steel variant of Mewtwo.
 - Right-click Mewtwo with the *Binding Armor*.
 - Reversible using the same item.
 
+![24812b718e60a78d79113eca63c598d3](https://github.com/user-attachments/assets/9001fa9e-6e54-4278-8bc9-c3d79dc5b324)
+
+
 ### 📝 Notes
 - Can Mega Evolve into regular Mega Mewtwo X/Y.
 
@@ -37,9 +40,12 @@ An offensive Psychic/Dark variant of Mewtwo.
 
 ### 🧪 How to Obtain
 - Craft a **Shadow Energy**:
-  - Smithing Table: *Snout Armor Trim Template + Dark Gem + Mega Stone Crystal*
+  - Smithing Table: *Snout Armor Trim Template + Dark Gem + Mega Crystal (from Mega Showdown)*
 - Right-click Mewtwo with the *Shadow Energy*.
 - Reversible using the same item.
+
+![a32da406246bd71b4000f1a22aaef405](https://github.com/user-attachments/assets/33f2c457-b6f3-4cbf-a2a9-69de954cc842)
+
 
 ---
 
@@ -56,6 +62,9 @@ The Mega X evolution of Shadow Mewtwo.
   - Craft: *Dark Gem + Mewtwonite X + Dark Gem*.
 - Equip to Shadow Mewtwo to transform.
 
+![c726a8645e89b4778bac5e04edc05be3](https://github.com/user-attachments/assets/3708ba00-b99a-44ae-bd26-fc9e2b8476bd)
+
+
 ---
 
 ## 🌑 Shadow Mewtwo Mega Y
@@ -71,6 +80,9 @@ The Mega Y evolution of Shadow Mewtwo.
 - Hold a **Shadow Mewtwonite Y**:
   - Craft: *Dark Gem + Mewtwonite Y + Dark Gem*.
 - Equip to Shadow Mewtwo to transform.
+
+![07ebe523c471fc9eb4ec71d864b6be3b](https://github.com/user-attachments/assets/9903b267-0dd5-4d22-b277-cf8cf40f7393)
+
 
 ---
 
