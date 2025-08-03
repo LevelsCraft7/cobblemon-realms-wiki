@@ -62,7 +62,7 @@ Le nombre d’**IV parfaits garantis** pour un Pokémon sauvage dépend de votre
 | 5+             | 1                    |
 | 10+            | 2                    |
 | 20+            | 3                    |
-| 30+            | 4                    |
+| 30+            |                      |
 
 ➡️ Plus vous capturez la même espèce à la suite, meilleure sera la qualité des IV des prochaines apparitions.
 
@@ -75,7 +75,7 @@ En arrière-plan, vos actions (K.O., captures, séries) vous font gagner des **p
 - Les **séries de K.O. et de captures** rapportent les points les plus influents.
 - Chaque système de bonus (talent caché, shiny, IV) utilise une méthode de calcul différente basée sur ces points.
 
-The more consistent you are with a particular species, the more likely you’ll influence its future spawns.
+Plus vous êtes cohérent avec une espèce particulière, plus vous avez de chances d'influencer ses futures reproductions.
 
 ---
 
