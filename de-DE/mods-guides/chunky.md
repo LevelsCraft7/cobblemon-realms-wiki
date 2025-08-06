@@ -19,6 +19,8 @@ insbesondere während intensiver Spielsitzungen oder bei intensiver Erkundung.\
 Durch das Vorab-Generieren von Chunks wird dein Server weniger Verzögerungen erfahren,\
 insbesondere während intensiver Spielsitzungen oder bei intensiver Erkundung.\
 Durch das Vorab-Generieren von Chunks wird dein Server weniger Verzögerungen erfahren,\
+insbesondere während intensiver Spielsitzungen oder bei intensiver Erkundung.\
+Durch das Vorab-Generieren von Chunks wird dein Server weniger Verzögerungen erfahren,\
 insbesondere während intensiver Spielsitzungen oder bei intensiver Erkundung.
 
 ## Funktionen
@@ -71,6 +73,9 @@ wenn Spieler neue Zonen betreten.
   Dieser Befehl startet die Generierung aller Chunks innerhalb des zuvor festgelegten Radius.\
   Beispiel:\
   `/chunky start`\
+  Dieser Befehl startet die Generierung aller Chunks innerhalb des zuvor festgelegten Radius.\
+  Beispiel:\
+  `/chunky start`\
   Dieser Befehl startet die Generierung aller Chunks innerhalb des zuvor festgelegten Radius.
 
 2. **Status prüfen:**\
@@ -96,6 +101,7 @@ wenn Spieler neue Zonen betreten.
 - Für große Karten plane die Vorab-Generierungsaufgaben während Wartungsfenstern.
 - Verwende regelmäßig den Befehl `/chunky status`, um den Fortschritt zu überwachen und eine Überlastung des Servers zu vermeiden.
 - Automatisiere den Prozess beim Serverstart, wenn möglich, mit einem Skript, das `/chunky start` enthält.\
+  Dies kann über ein Startskript oder ein Server-Plugin erfolgen, das Automatisierung unterstützt.\
   Dies kann über ein Startskript oder ein Server-Plugin erfolgen, das Automatisierung unterstützt.\
   Dies kann über ein Startskript oder ein Server-Plugin erfolgen, das Automatisierung unterstützt.\
   Dies kann über ein Startskript oder ein Server-Plugin erfolgen, das Automatisierung unterstützt.\
