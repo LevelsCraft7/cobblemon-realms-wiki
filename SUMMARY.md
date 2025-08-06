@@ -39,3 +39,4 @@
 ## ⚙️ Settings
 
 * [Disable Cave-Only Hostile Mobs](settings/cavesonly.md)
+* [Optimize Solo Performance](settings/optimize-solo-performance.md)
