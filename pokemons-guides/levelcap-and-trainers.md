@@ -1,171 +1,140 @@
 # 🧗 Trainer Progression Overview
 
-Cobblemon Realms introduces a structured progression system based on **Trainer Cards**, **Key Trainers**, and **Trainer Series**. This system encourages exploration, tactical planning, and steady advancement through increasingly difficult challenges.
+In **Cobblemon Realms**, trainer battles aren’t just random encounters — they’re part of a **structured progression system** driven by **Trainer Cards**, **Key Trainers**, and **Trainer Series**.  
+This system encourages **exploration**, **tactical planning**, and a steady climb through increasingly difficult challenges.
 
 ---
 
 ## 📊 Level Cap System
 
-Each player has their own **personal level cap**, starting at **level 50** (unless your first Key Trainer is of a higher level).
+Each player has a **personal level cap**, starting at **level 25** in this modpack (default in the base mod is lower).
 
 ### ⚙️ Effects of the Level Cap
+- 🛑 Pokémon **at or above** your cap **cannot gain experience**.
+- 🚫 Trainers will **refuse to battle** if any Pokémon in your party is over the cap.
+- 🎯 The **strength of nearby trainers** scales to your team but **never exceeds your cap**.
 
-- 🛑 Pokémon at or above your level cap **cannot gain experience**.
-- 🚫 Trainers will **refuse to battle** you if any Pokémon in your party exceeds your current cap.
-- 🎯 The **difficulty of nearby trainers** scales to your team, but never surpasses your level cap.
-
-### 🧭 Increasing Your Cap
-
-To raise your level cap, you must defeat **Key Trainers** in a defined order.  
-Check your **Trainer Card** and **Advancements tab** to follow your progress and upcoming milestones.
+### 🧭 Raising Your Cap
+To increase your level cap:
+- Defeat **Key Trainers** in the specific order defined by the progression system.
+- Your **Trainer Card** shows your next Key Trainer and provides hints on where to find them.
+- The **Advancements tab** offers additional milestones and clues.
 
 ---
 
 ## 🔍 Key Trainers & Tracking
 
-Key Trainers are essential to your progression — defeating them unlocks level cap increases and access to higher-tier content.
+Key Trainers are the main progression checkpoints — defeating them raises your level cap and unlocks tougher challenges.
 
-- 🌍 **Spawn Locations**: Found in specific biomes shown on your Trainer Card.
-- 🧭 **Tracking System**:
-  - The card **glows** when a Key Trainer is active.
-  - A **holographic arrow** points to the trainer's location.
-  - If the trainer is in another dimension, the arrow **spins randomly**.
-- 🔄 **Order Matters**: Key Trainers must be defeated in the correct sequence.
-- 🎯 **Spawn Boost**: Having a Pokémon at your cap increases Key Trainer spawn rate.
-- 🧠 **Persistence**: Trainers you've already beaten are less likely to respawn.
+### 🧭 Tracking System Behavior
+- **At the start of the game**, once you obtain a **Trainer Card** but **have no active trainer series**, a **holographic arrow** will appear.  
+  → This arrow **always points toward the Trainer Association NPC** so you can start your first series.
+- After you select a series, **the arrow disappears** — there is **no arrow toward Key Trainers** themselves.
+- From this point, you must **use the Trainer Card information** to locate your Key Trainers:
+  - **Biome names**
+  - **Special conditions**
+  - **Sometimes required items** to summon them
+
+### 🌍 Finding Key Trainers in Cobblemon Realms
+In **Cobblemon Realms**, extra tools are provided through the quest system:
+- Each quest category lists **all trainers in a series**.
+- You can **exchange Realms Coins** to instantly spawn a trainer you need to fight **directly on you**.
+  - Trainers can be spawned infinitely this way.
+  - **Cooldown:** once defeated, a trainer cannot be fought again until **one Minecraft day** (≈ 20 minutes IRL) has passed.
+- Quests have an **Info Button**:
+  - Allows you to **activate a series remotely**  
+    *(You can only have one active series at a time — activating a new one resets progress on the current series unless it’s completed).*
+  - Provides a link to a **progression graph** showing the trainer order and their **average levels**.
+  - Points to relevant **Advancements** so you can track series order directly in Minecraft.
 
 ---
 
 ## 🏆 Unlocking Gym Leaders & Major Trainers
 
-Gym Leaders, Rivals, Elite 4, Team Rocket bosses, and other major Trainer challenges are unlocked by progressing through key Trainer victories and interacting with special mechanics.
+Advancing isn’t just about cap increases — it also opens the door to **Gym Leaders, Rivals, Elite Four, villain teams**, and other major challenges.
 
-- 🥇 Defeat a **required number** of Key Trainers from a given series to unlock access to its higher-tier opponents.
-- 💠 Some trainers (like Brock or Team Rocket leaders) require a **Signature Item** (e.g., Hard Stone) to be summoned.
-- 🧱 Use a **Trainer Spawner** — crafted or found in Pokémon villages near battle arenas — and right-click it with the required item. The trainer will appear after a few seconds!
-- 🧩 Advanced challenges (Leagues, Teams, Special Bosses) may demand multiple completions or full chain victories.
-- 📈 Track your journey using the **Trainer Card** and the **Advancements tab** for clues and milestones.
+**Unlock conditions:**
+- 🥇 Beat the required **Key Trainers** in a series to unlock its high-tier opponents.
+- 💠 Some require **special items** (e.g., *Hard Stone*) to summon.
+- 🧱 Use a **Trainer Spawner** (found in villages or arenas) and right-click it with the item to spawn the trainer after a short delay.
+- 🧩 Advanced content (Leagues, Elite Four, team bosses) may require multiple series completions.
 
-Your progression is **non-linear** — unlock, summon, and battle in the way that fits your adventure!
-
-![gymitem](https://github.com/user-attachments/assets/83860a89-0467-4f04-b741-602bb7e55275)
+> **Tip:** Your progression is **non-linear** — you can focus on one path or mix multiple series.
 
 ---
 
 ## 🤝 Trainer Association
 
-The **Trainer Association** is a special villager NPC that appears to guide players into their first challenge series.
+The **Trainer Association** is a special NPC that helps you start a new series.
 
-- 🧭 It will **spawn near a player** who:
-  - Has a **Trainer Card** (either in hand or inventory), **and**
-  - **Has no current trainer series** in progress.
-  
-- 🗺️ When nearby, your Trainer Card will:
-  - **Glow**, and  
-  - Display a **guiding arrow** pointing toward the Trainer Association.
-
-This NPC offers access to a wide range of **trainer series**, each with its own theme, progression tree, and difficulty level. It’s your gateway to structured challenges in Cobblemon Realms.
-
+- **Spawns near a player** who:
+  - Has a **Trainer Card** in inventory, **and**
+  - Has **no active trainer series** in progress.
+- When close to it, your Trainer Card will:
+  - **Glow**
+  - Show an **arrow** pointing toward the NPC
+- The NPC offers a **menu of series**, each with unique themes, progression paths, and difficulty.
 
 ---
 
-### 📋 Available Trainer Series
+## 📋 Available Trainer Series
 
-#### 🟢 Standalone Series
+Your modpack includes all base Radical Trainers content **plus** the extra series from **More Radical Trainers**.
 
-No prerequisites required.
+### 🟢 Standalone Series (no prerequisites)
+1. **Pokémon Adventures** — Heroes from the manga, with branching paths.
+2. **Sinnoh Gym Challenge** — Double battles against Sinnoh Gym Leaders.
+3. **Team Aqua** — Appears in the Overworld.
+4. **Team Magma** — Appears in the Nether.
+5. **Unova Gym Challenge** — Full roster of Unova Gyms.
+6. **Hoenn Gym Challenge** — Hoenn Gym Leaders.
+7. **Kalos Gym Challenge** — Level 90+ teams with Mega Evolutions.
+8. **Paldea Gym Challenge** — Newest generation gyms.
 
-1. **Pokémon Adventures** *(5/10)*  
-   Fight heroes from the Pokémon Adventures manga.  
-   Features branching paths and unlockable characters.  
-   Optional battles include Black, White, Blake, and Whitley.
+### 🔒 Series with Prerequisites
+9. **Team Plasma** — Requires *Unova Gym Challenge*.
+10. **Unova League Challenge** — Requires *Unova Gym Challenge*.
+11. **Hoenn League Challenge** — Requires *Hoenn Gym Challenge*.
+12. **Kalos League Challenge** — Requires *Kalos Gym Challenge*.
+13. **Team Plasma’s Seven Sages** — Requires *Team Plasma* + *Unova League Challenge*.
+14. **Unova (B2W2) Challenge** — Requires *Unova Gym Challenge* + *Unova League Challenge*.
+15. **Neo Team Plasma** — Requires *Team Plasma’s Seven Sages*.
+16. **Paldea Elite Four & Champion** — Requires *Paldea Gym Challenge*.
+17. **Starfall Street (Team Star)** — Requires *Paldea Gym Challenge*.
 
-2. **Sinnoh Gym Challenge** *(4/10)*  
-   Double battles against Sinnoh’s Gym Leaders.
-
-3. **Team Aqua** *(4/10)*  
-   Combat Team Aqua across the Overworld.
-
-4. **Team Magma** *(4/10)*  
-   Encounter Team Magma in the Nether.
-
-5. **Unova Gym Challenge** *(5/10)*  
-   Face the full roster of Unova’s Gym Leaders.
-
-6. **Hoenn Gym Challenge** *(3/10)*  
-   Take on the Gym Leaders of the Hoenn region.
-
-7. **Kalos Gym Challenge** *(6/10)*  
-   Battle level 90+ teams with Mega Pokémon.  
-   (Due to technical limits, they arrive pre-mega-evolved.)
-
----
-
-#### 🔒 Series with Prerequisites
-
-8. **Team Plasma** *(5/10)*  
-   ➤ Requires: *Unova Gym Challenge*
-
-9. **Unova League Challenge** *(5/10)*  
-   ➤ Requires: *Unova Gym Challenge*
-
-10. **Hoenn League Challenge** *(6/10)*  
-    ➤ Requires: *Hoenn Gym Challenge*
-
-11. **Kalos League Challenge** *(6/10)*  
-    ➤ Requires: *Kalos Gym Challenge*
-
-12. **Team Plasma's Seven Sages** *(6/10)*  
-    ➤ Requires: *Team Plasma & Unova League Challenge*
-
-13. **Unova (B2W2) Challenge** *(6/10)*  
-    ➤ Requires: *Unova Gym Challenge & Unova League Challenge*
-
-14. **Neo Team Plasma** *(6/10)*  
-    ➤ Requires: *Team Plasma’s Seven Sages*
-      
-Includes fully EV/IV-trained teams with competitive movesets.
+💡 All advanced trainers use **fully EV/IV-trained teams** with competitive movesets.
 
 ---
 
 ## 📈 Progression Graph
 
-To visualize your current progress, generate a personal **series progression graph**.
-
-### 🛠️ Command to Use
-
-`/rctmod player get progress <username> graph include_defeated include_optionals`
-
-
-This graph displays:
-- ✔️ Completed series
+Visualize your journey with:
+/rctmod player get progress <username> graph include_defeated include_optionals
+Shows:
+- ✔ Completed series
 - 🟡 Optional paths
-- 🔒 Locked series
+- 🔒 Locked content
 - 🔁 All dependencies
-
-Useful for planning your next moves and long-term goals.
 
 ---
 
 ### 🎯 Advancements
 
-Each trainer series includes its own set of **advancements** (some hidden).  
-They help track your journey, offer rewards, and guide you to your next milestone.
-
-Check the **Advancements tab** in-game regularly for updates.
+- Each series has its own **advancements**, sometimes hidden.
+- They serve as both **progress trackers** and **clue systems**.
+- Rewards may include items, coins, or unlock conditions.
 
 ---
 
-## 💡 Tips for Progression
-
-- 🧠 Train a **rotating team** to avoid stalling at the level cap.  
-- 🎯 **Prioritize Trainer battles** early to unlock Gym Leaders and new series sooner.  
-- 📖 Use the **Trainer Card** and **Advancements tab** often — they are your best tools.
+## 💡 Tips for Success
+- 🧠 Rotate your team to avoid hitting the cap with only one Pokémon.
+- 🎯 Prioritize trainer battles early to unlock gyms and series.
+- 🗺 Check your Trainer Card often — especially for biome and dimension hints.
+- 📖 Keep an eye on the Advancements tab for hidden objectives.
 
 ---
 
 ## ℹ️ Learn More
+- **Official Radical Trainers Docs**: [srcmc.gitlab.io/rct/docs/0.13](https://srcmc.gitlab.io/rct/docs/0.13/)  
+- **More Radical Trainers (Datapack)**: [Modrinth page](https://modrinth.com/datapack/more-radical-trainers)
 
-For additional information and official documentation on the Radical Cobblemon Trainers mod:
-
-🔗 [https://srcmc.gitlab.io/rct/docs/0.13/](https://srcmc.gitlab.io/rct/docs/0.13/)
