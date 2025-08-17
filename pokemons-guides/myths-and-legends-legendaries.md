@@ -1249,7 +1249,7 @@ Biomes / Tags:
 
 ### Tapu Koko
 
-![Tapu Koko](https://play.pokemonshowdown.com/sprites/ani/tapu-koko.gif)
+![Tapu Koko](https://www.pokepedia.fr/images/0/05/Sprite_0785_HOME.png)
 
 Item: Koko Totem
 
@@ -1295,7 +1295,7 @@ Biomes / Tags:
 
 ### Tapu Lele
 
-![Tapu Lele](https://play.pokemonshowdown.com/sprites/ani/tapu-lele.gif)
+![Tapu Lele](https://www.pokepedia.fr/images/e/ea/Sprite_0786_HOME.png)
 
 Item: Lele Totem
 
@@ -1341,7 +1341,7 @@ Biomes / Tags:
 
 ### Tapu Bulu
 
-![Tapu Bulu](https://play.pokemonshowdown.com/sprites/ani/tapu-bulu.gif)
+![Tapu Bulu](https://www.pokepedia.fr/images/1/1e/Sprite_0787_HOME.png)
 
 Item: Bulu Totem
 
@@ -1387,7 +1387,7 @@ Biomes / Tags:
 
 ### Tapu Fini
 
-![Tapu Fini](https://play.pokemonshowdown.com/sprites/ani/tapu-fini.gif)
+![Tapu Fini](https://www.pokepedia.fr/images/e/e3/Sprite_0788_HOME.png)
 
 Item: Fini Totem
 
