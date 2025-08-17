@@ -11,8 +11,8 @@ Jump to a region:
 - [Generation 5 [Unova]](#generation-5-unova)
 - [Generation 6 [Kalos]](#generation-6-kalos)
 - [Generation 7 [Alola]](#generation-7-alola)
-- [Generation 8 [Galar/Hisui]](#generation-8-galarhisui)
-- [Generation 9 [Paldea/Kitakami]](#generation-9-paldeakitakami)
+- [Generation 8 [Galar]](#generation-8-galarhisui)
+- [Generation 9 [Paldea]](#generation-9-paldeakitakami)
 
 ---
 
