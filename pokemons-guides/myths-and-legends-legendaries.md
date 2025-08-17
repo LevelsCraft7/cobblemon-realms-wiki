@@ -1,9 +1,28 @@
 # 🗿 Myths & Legends — Legendary Items & Biomes
+<a id="top"></a>
+# 🧭 Quick Navigation
+
+Jump to a region:
+
+- [Generation 1 [Kanto]](#generation-1-kanto)
+- [Generation 2 [Johto]](#generation-2-johto)
+- [Generation 3 [Hoenn]](#generation-3-hoenn)
+- [Generation 4 [Sinnoh]](#generation-4-sinnoh)
+- [Generation 5 [Unova]](#generation-5-unova)
+- [Generation 6 [Kalos]](#generation-6-kalos)
+- [Generation 7 [Alola]](#generation-7-alola)
+- [Generation 8 [Galar/Hisui]](#generation-8-galarhisui)
+- [Generation 9 [Paldea/Kitakami]](#generation-9-paldeakitakami)
+
+---
 
 Each entry shows the required summoning item, any special conditions, and all valid biomes/tags.
 
 
 # Generation 1 [Kanto]
+
+[↑ Back to top](#top)
+
 
 ## Articuno
 
@@ -104,6 +123,9 @@ Biomes / Tags:
 
 
 # Generation 2 [Johto]
+
+[↑ Back to top](#top)
+
 
 ## Raikou
 
@@ -232,6 +254,9 @@ Biomes / Tags:
 
 
 # Generation 3 [Hoenn]
+
+[↑ Back to top](#top)
+
 
 ## Regirock
 
@@ -468,6 +493,9 @@ Biomes / Tags:
 
 
 # Generation 4 [Sinnoh]
+
+[↑ Back to top](#top)
+
 
 ## Mesprit
 
@@ -711,6 +739,9 @@ Biomes / Tags:
 
 
 # Generation 5 [Unova]
+
+[↑ Back to top](#top)
+
 
 ## Victini
 
@@ -1061,6 +1092,9 @@ Biomes / Tags:
 
 # Generation 6 [Kalos]
 
+[↑ Back to top](#top)
+
+
 ## Xerneas
 
 ![Xerneas](https://play.pokemonshowdown.com/sprites/ani/xerneas.gif)
@@ -1190,6 +1224,9 @@ Biomes / Tags:
 
 
 # Generation 7 [Alola]
+
+[↑ Back to top](#top)
+
 
 ## Type: Null
 
@@ -1572,6 +1609,9 @@ Biomes / Tags:
 
 # Generation 8 [Galar/Hisui]
 
+[↑ Back to top](#top)
+
+
 ## Zacian
 
 ![Zacian](https://play.pokemonshowdown.com/sprites/ani/zacian.gif)
@@ -1798,6 +1838,9 @@ Biomes / Tags:
 
 
 # Generation 9 [Paldea/Kitakami]
+
+[↑ Back to top](#top)
+
 
 ## Koraidon
 
