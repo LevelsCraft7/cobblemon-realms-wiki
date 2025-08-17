@@ -24,7 +24,7 @@ Each entry shows the required summoning item, any special conditions, and all va
 [↑ Back to top](#top)
 
 
-## Articuno
+### Articuno
 
 ![Articuno](https://play.pokemonshowdown.com/sprites/ani/articuno.gif)
 
@@ -49,7 +49,7 @@ Biomes / Tags:
 
 ---
 
-## Zapdos
+### Zapdos
 
 ![Zapdos](https://play.pokemonshowdown.com/sprites/ani/zapdos.gif)
 
@@ -66,7 +66,7 @@ Biomes / Tags:
 
 ---
 
-## Moltres
+### Moltres
 
 ![Moltres](https://play.pokemonshowdown.com/sprites/ani/moltres.gif)
 
@@ -84,7 +84,7 @@ Biomes / Tags:
 
 ---
 
-## Mewtwo
+### Mewtwo
 
 ![Mewtwo](https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif)
 
@@ -103,7 +103,7 @@ Biomes / Tags:
 
 ---
 
-## Mew
+### Mew
 
 ![Mew](https://play.pokemonshowdown.com/sprites/ani/mew.gif)
 
@@ -127,7 +127,7 @@ Biomes / Tags:
 [↑ Back to top](#top)
 
 
-## Raikou
+### Raikou
 
 ![Raikou](https://play.pokemonshowdown.com/sprites/ani/raikou.gif)
 
@@ -146,7 +146,7 @@ Biomes / Tags:
 
 ---
 
-## Entei
+### Entei
 
 ![Entei](https://play.pokemonshowdown.com/sprites/ani/entei.gif)
 
@@ -168,7 +168,7 @@ Biomes / Tags:
 
 ---
 
-## Suicune
+### Suicune
 
 ![Suicune](https://play.pokemonshowdown.com/sprites/ani/suicune.gif)
 
@@ -185,7 +185,7 @@ Biomes / Tags:
 
 ---
 
-## Lugia
+### Lugia
 
 ![Lugia](https://play.pokemonshowdown.com/sprites/ani/lugia.gif)
 
@@ -204,7 +204,7 @@ Biomes / Tags:
 
 ---
 
-## Ho-Oh
+### Ho-Oh
 
 ![Ho-Oh](https://play.pokemonshowdown.com/sprites/ani/ho-oh.gif)
 
@@ -223,7 +223,7 @@ Biomes / Tags:
 
 ---
 
-## Celebi
+### Celebi
 
 ![Celebi](https://play.pokemonshowdown.com/sprites/ani/celebi.gif)
 
@@ -258,7 +258,7 @@ Biomes / Tags:
 [↑ Back to top](#top)
 
 
-## Regirock
+### Regirock
 
 ![Regirock](https://play.pokemonshowdown.com/sprites/ani/regirock.gif)
 
@@ -295,7 +295,7 @@ Biomes / Tags:
 
 ---
 
-## Regice
+### Regice
 
 ![Regice](https://play.pokemonshowdown.com/sprites/ani/regice.gif)
 
@@ -338,7 +338,7 @@ Biomes / Tags:
 
 ---
 
-## Registeel
+### Registeel
 
 ![Registeel](https://play.pokemonshowdown.com/sprites/ani/registeel.gif)
 
@@ -354,7 +354,7 @@ Biomes / Tags:
 
 ---
 
-## Latias
+### Latias
 
 ![Latias](https://play.pokemonshowdown.com/sprites/ani/latias.gif)
 
@@ -373,7 +373,7 @@ Biomes / Tags:
 
 ---
 
-## Latios
+### Latios
 
 ![Latios](https://play.pokemonshowdown.com/sprites/ani/latios.gif)
 
@@ -392,7 +392,7 @@ Biomes / Tags:
 
 ---
 
-## Kyogre
+### Kyogre
 
 ![Kyogre](https://play.pokemonshowdown.com/sprites/ani/kyogre.gif)
 
@@ -411,7 +411,7 @@ Biomes / Tags:
 
 ---
 
-## Groudon
+### Groudon
 
 ![Groudon](https://play.pokemonshowdown.com/sprites/ani/groudon.gif)
 
@@ -431,7 +431,7 @@ Biomes / Tags:
 
 ---
 
-## Rayquaza
+### Rayquaza
 
 ![Rayquaza](https://play.pokemonshowdown.com/sprites/ani/rayquaza.gif)
 
@@ -455,7 +455,7 @@ Biomes / Tags:
 
 ---
 
-## Jirachi
+### Jirachi
 
 ![Jirachi](https://play.pokemonshowdown.com/sprites/ani/jirachi.gif)
 
@@ -472,7 +472,7 @@ Biomes / Tags:
 
 ---
 
-## Deoxys
+### Deoxys
 
 ![Deoxys](https://play.pokemonshowdown.com/sprites/ani/deoxys.gif)
 
@@ -497,7 +497,7 @@ Biomes / Tags:
 [↑ Back to top](#top)
 
 
-## Mesprit
+### Mesprit
 
 ![Mesprit](https://play.pokemonshowdown.com/sprites/ani/mesprit.gif)
 
@@ -524,7 +524,7 @@ Biomes / Tags:
 
 ---
 
-## Azelf
+### Azelf
 
 ![Azelf](https://play.pokemonshowdown.com/sprites/ani/azelf.gif)
 
@@ -551,7 +551,7 @@ Biomes / Tags:
 
 ---
 
-## Dialga
+### Dialga
 
 ![Dialga](https://play.pokemonshowdown.com/sprites/ani/dialga.gif)
 
@@ -569,7 +569,7 @@ Biomes / Tags:
 
 ---
 
-## Palkia
+### Palkia
 
 ![Palkia](https://play.pokemonshowdown.com/sprites/ani/palkia.gif)
 
@@ -589,7 +589,7 @@ Biomes / Tags:
 
 ---
 
-## Heatran
+### Heatran
 
 ![Heatran](https://play.pokemonshowdown.com/sprites/ani/heatran.gif)
 
@@ -605,7 +605,7 @@ Biomes / Tags:
 
 ---
 
-## Regigigas
+### Regigigas
 
 ![Regigigas](https://play.pokemonshowdown.com/sprites/ani/regigigas.gif)
 
@@ -628,7 +628,7 @@ Biomes / Tags:
 
 ---
 
-## Giratina
+### Giratina
 
 ![Giratina](https://play.pokemonshowdown.com/sprites/ani/giratina.gif)
 
@@ -646,7 +646,7 @@ Biomes / Tags:
 
 ---
 
-## Cresselia
+### Cresselia
 
 ![Cresselia](https://play.pokemonshowdown.com/sprites/ani/cresselia.gif)
 
@@ -664,7 +664,7 @@ Biomes / Tags:
 
 ---
 
-## Darkrai
+### Darkrai
 
 ![Darkrai](https://play.pokemonshowdown.com/sprites/ani/darkrai.gif)
 
@@ -682,7 +682,7 @@ Biomes / Tags:
 
 ---
 
-## Shaymin
+### Shaymin
 
 ![Shaymin](https://play.pokemonshowdown.com/sprites/ani/shaymin.gif)
 
@@ -706,7 +706,7 @@ Biomes / Tags:
 
 ---
 
-## Arceus
+### Arceus
 
 ![Arceus](https://play.pokemonshowdown.com/sprites/ani/arceus.gif)
 
@@ -743,7 +743,7 @@ Biomes / Tags:
 [↑ Back to top](#top)
 
 
-## Victini
+### Victini
 
 ![Victini](https://play.pokemonshowdown.com/sprites/ani/victini.gif)
 
@@ -762,7 +762,7 @@ Biomes / Tags:
 
 ---
 
-## Cobalion
+### Cobalion
 
 ![Cobalion](https://play.pokemonshowdown.com/sprites/ani/cobalion.gif)
 
@@ -804,7 +804,7 @@ Biomes / Tags:
 
 ---
 
-## Terrakion
+### Terrakion
 
 ![Terrakion](https://play.pokemonshowdown.com/sprites/ani/terrakion.gif)
 
@@ -846,7 +846,7 @@ Biomes / Tags:
 
 ---
 
-## Virizion
+### Virizion
 
 ![Virizion](https://play.pokemonshowdown.com/sprites/ani/virizion.gif)
 
@@ -888,7 +888,7 @@ Biomes / Tags:
 
 ---
 
-## Tornadus
+### Tornadus
 
 ![Tornadus](https://play.pokemonshowdown.com/sprites/ani/tornadus.gif)
 
@@ -904,7 +904,7 @@ Biomes / Tags:
 
 ---
 
-## Thundurus
+### Thundurus
 
 ![Thundurus](https://play.pokemonshowdown.com/sprites/ani/thundurus.gif)
 
@@ -920,7 +920,7 @@ Biomes / Tags:
 
 ---
 
-## Reshiram
+### Reshiram
 
 ![Reshiram](https://play.pokemonshowdown.com/sprites/ani/reshiram.gif)
 
@@ -937,7 +937,7 @@ Biomes / Tags:
 
 ---
 
-## Zekrom
+### Zekrom
 
 ![Zekrom](https://play.pokemonshowdown.com/sprites/ani/zekrom.gif)
 
@@ -954,7 +954,7 @@ Biomes / Tags:
 
 ---
 
-## Landorus
+### Landorus
 
 ![Landorus](https://play.pokemonshowdown.com/sprites/ani/landorus.gif)
 
@@ -970,7 +970,7 @@ Biomes / Tags:
 
 ---
 
-## Kyurem
+### Kyurem
 
 ![Kyurem](https://play.pokemonshowdown.com/sprites/ani/kyurem.gif)
 
@@ -989,7 +989,7 @@ Biomes / Tags:
 
 ---
 
-## Keldeo
+### Keldeo
 
 ![Keldeo](https://play.pokemonshowdown.com/sprites/ani/keldeo.gif)
 
@@ -1031,7 +1031,7 @@ Biomes / Tags:
 
 ---
 
-## Meloetta
+### Meloetta
 
 ![Meloetta](https://play.pokemonshowdown.com/sprites/ani/meloetta.gif)
 
@@ -1070,7 +1070,7 @@ Biomes / Tags:
 
 ---
 
-## Genesect
+### Genesect
 
 ![Genesect](https://play.pokemonshowdown.com/sprites/ani/genesect.gif)
 
@@ -1095,7 +1095,7 @@ Biomes / Tags:
 [↑ Back to top](#top)
 
 
-## Xerneas
+### Xerneas
 
 ![Xerneas](https://play.pokemonshowdown.com/sprites/ani/xerneas.gif)
 
@@ -1114,7 +1114,7 @@ Biomes / Tags:
 
 ---
 
-## Yveltal
+### Yveltal
 
 ![Yveltal](https://play.pokemonshowdown.com/sprites/ani/yveltal.gif)
 
@@ -1131,7 +1131,7 @@ Biomes / Tags:
 
 ---
 
-## Zygarde
+### Zygarde
 
 ![Zygarde](https://play.pokemonshowdown.com/sprites/ani/zygarde.gif)
 
@@ -1153,7 +1153,7 @@ Biomes / Tags:
 
 ---
 
-## Diancie
+### Diancie
 
 ![Diancie](https://play.pokemonshowdown.com/sprites/ani/diancie.gif)
 
@@ -1181,7 +1181,7 @@ Biomes / Tags:
 
 ---
 
-## Hoopa
+### Hoopa
 
 ![Hoopa](https://play.pokemonshowdown.com/sprites/ani/hoopa.gif)
 
@@ -1199,7 +1199,7 @@ Biomes / Tags:
 
 ---
 
-## Volcanion
+### Volcanion
 
 ![Volcanion](https://play.pokemonshowdown.com/sprites/ani/volcanion.gif)
 
@@ -1228,7 +1228,7 @@ Biomes / Tags:
 [↑ Back to top](#top)
 
 
-## Type: Null
+### Type: Null
 
 ![Type: Null](https://play.pokemonshowdown.com/sprites/ani/type-null.gif)
 
@@ -1247,7 +1247,7 @@ Biomes / Tags:
 
 ---
 
-## Tapu Koko
+### Tapu Koko
 
 ![Tapu Koko](https://play.pokemonshowdown.com/sprites/ani/tapu-koko.gif)
 
@@ -1293,7 +1293,7 @@ Biomes / Tags:
 
 ---
 
-## Tapu Lele
+### Tapu Lele
 
 ![Tapu Lele](https://play.pokemonshowdown.com/sprites/ani/tapu-lele.gif)
 
@@ -1339,7 +1339,7 @@ Biomes / Tags:
 
 ---
 
-## Tapu Bulu
+### Tapu Bulu
 
 ![Tapu Bulu](https://play.pokemonshowdown.com/sprites/ani/tapu-bulu.gif)
 
@@ -1385,7 +1385,7 @@ Biomes / Tags:
 
 ---
 
-## Tapu Fini
+### Tapu Fini
 
 ![Tapu Fini](https://play.pokemonshowdown.com/sprites/ani/tapu-fini.gif)
 
@@ -1431,7 +1431,7 @@ Biomes / Tags:
 
 ---
 
-## Cosmog
+### Cosmog
 
 ![Cosmog](https://play.pokemonshowdown.com/sprites/ani/cosmog.gif)
 
@@ -1475,7 +1475,7 @@ Biomes / Tags:
 
 ---
 
-## Solgaleo
+### Solgaleo
 
 ![Solgaleo](https://play.pokemonshowdown.com/sprites/ani/solgaleo.gif)
 
@@ -1491,7 +1491,7 @@ Biomes / Tags:
 
 ---
 
-## Lunala
+### Lunala
 
 ![Lunala](https://play.pokemonshowdown.com/sprites/ani/lunala.gif)
 
@@ -1507,7 +1507,7 @@ Biomes / Tags:
 
 ---
 
-## Necrozma
+### Necrozma
 
 ![Necrozma](https://play.pokemonshowdown.com/sprites/ani/necrozma.gif)
 
@@ -1526,7 +1526,7 @@ Biomes / Tags:
 
 ---
 
-## Magearna
+### Magearna
 
 ![Magearna](https://play.pokemonshowdown.com/sprites/ani/magearna.gif)
 
@@ -1545,7 +1545,7 @@ Biomes / Tags:
 
 ---
 
-## Marshadow
+### Marshadow
 
 ![Marshadow](https://play.pokemonshowdown.com/sprites/ani/marshadow.gif)
 
@@ -1563,7 +1563,7 @@ Biomes / Tags:
 
 ---
 
-## Zeraora
+### Zeraora
 
 ![Zeraora](https://play.pokemonshowdown.com/sprites/ani/zeraora.gif)
 
@@ -1590,7 +1590,7 @@ Biomes / Tags:
 
 ---
 
-## Meltan
+### Meltan
 
 ![Meltan](https://play.pokemonshowdown.com/sprites/ani/meltan.gif)
 
@@ -1612,7 +1612,7 @@ Biomes / Tags:
 [↑ Back to top](#top)
 
 
-## Zacian
+### Zacian
 
 ![Zacian](https://play.pokemonshowdown.com/sprites/ani/zacian.gif)
 
@@ -1630,7 +1630,7 @@ Biomes / Tags:
 
 ---
 
-## Zamazenta
+### Zamazenta
 
 ![Zamazenta](https://play.pokemonshowdown.com/sprites/ani/zamazenta.gif)
 
@@ -1648,7 +1648,7 @@ Biomes / Tags:
 
 ---
 
-## Eternatus
+### Eternatus
 
 ![Eternatus](https://play.pokemonshowdown.com/sprites/ani/eternatus.gif)
 
@@ -1675,7 +1675,7 @@ Biomes / Tags:
 
 ---
 
-## Kubfu
+### Kubfu
 
 ![Kubfu](https://play.pokemonshowdown.com/sprites/ani/kubfu.gif)
 
@@ -1711,7 +1711,7 @@ Biomes / Tags:
 
 ---
 
-## Zarude
+### Zarude
 
 ![Zarude](https://play.pokemonshowdown.com/sprites/ani/zarude.gif)
 
@@ -1739,7 +1739,7 @@ Biomes / Tags:
 
 ---
 
-## Regieleki
+### Regieleki
 
 ![Regieleki](https://play.pokemonshowdown.com/sprites/ani/regieleki.gif)
 
@@ -1753,7 +1753,7 @@ Biomes / Tags:
 
 ---
 
-## Regidrago
+### Regidrago
 
 ![Regidrago](https://play.pokemonshowdown.com/sprites/ani/regidrago.gif)
 
@@ -1772,7 +1772,7 @@ Biomes / Tags:
 
 ---
 
-## Glastrier
+### Glastrier
 
 ![Glastrier](https://play.pokemonshowdown.com/sprites/ani/glastrier.gif)
 
@@ -1788,7 +1788,7 @@ Biomes / Tags:
 
 ---
 
-## Spectrier
+### Spectrier
 
 ![Spectrier](https://play.pokemonshowdown.com/sprites/ani/spectrier.gif)
 
@@ -1805,7 +1805,7 @@ Biomes / Tags:
 
 ---
 
-## Calyrex
+### Calyrex
 
 ![Calyrex](https://play.pokemonshowdown.com/sprites/ani/calyrex.gif)
 
@@ -1820,7 +1820,7 @@ Biomes / Tags:
 
 ---
 
-## Enamorus
+### Enamorus
 
 ![Enamorus](https://play.pokemonshowdown.com/sprites/ani/enamorus.gif)
 
@@ -1842,7 +1842,7 @@ Biomes / Tags:
 [↑ Back to top](#top)
 
 
-## Koraidon
+### Koraidon
 
 ![Koraidon](https://play.pokemonshowdown.com/sprites/ani/koraidon.gif)
 
@@ -1862,7 +1862,7 @@ Biomes / Tags:
 
 ---
 
-## Miraidon
+### Miraidon
 
 ![Miraidon](https://play.pokemonshowdown.com/sprites/ani/miraidon.gif)
 
@@ -1878,7 +1878,7 @@ Biomes / Tags:
 
 ---
 
-## Ogerpon
+### Ogerpon
 
 ![Ogerpon](https://play.pokemonshowdown.com/sprites/ani/ogerpon.gif)
 
@@ -1894,7 +1894,7 @@ Biomes / Tags:
 
 ---
 
-## Pecharunt
+### Pecharunt
 
 ![Pecharunt](https://play.pokemonshowdown.com/sprites/ani/pecharunt.gif)
 
@@ -1912,7 +1912,7 @@ Biomes / Tags:
 
 ---
 
-## Terapagos
+### Terapagos
 
 ![Terapagos](https://play.pokemonshowdown.com/sprites/ani/terapagos.gif)
 
