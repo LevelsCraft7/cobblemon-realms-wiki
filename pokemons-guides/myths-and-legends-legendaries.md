@@ -1844,7 +1844,7 @@ Biomes / Tags:
 
 ### Koraidon
 
-![Koraidon](https://play.pokemonshowdown.com/sprites/ani/koraidon.gif)
+![Koraidon](https://play.pokemonshowdown.com/sprites/home/koraidon.png)
 
 Item: Scarlet Book
 
@@ -1864,7 +1864,7 @@ Biomes / Tags:
 
 ### Miraidon
 
-![Miraidon](https://play.pokemonshowdown.com/sprites/ani/miraidon.gif)
+![Miraidon](https://play.pokemonshowdown.com/sprites/home/miraidon.png)
 
 Item: Violet Book
 
@@ -1880,7 +1880,7 @@ Biomes / Tags:
 
 ### Ogerpon
 
-![Ogerpon](https://play.pokemonshowdown.com/sprites/ani/ogerpon.gif)
+![Ogerpon](https://play.pokemonshowdown.com/sprites/home/ogerpon.png)
 
 Item: Teal Mask
 
@@ -1896,7 +1896,7 @@ Biomes / Tags:
 
 ### Pecharunt
 
-![Pecharunt](https://play.pokemonshowdown.com/sprites/ani/pecharunt.gif)
+![Pecharunt](https://play.pokemonshowdown.com/sprites/home/pecharunt.png)
 
 Item: Mythical Pecha Berry
 
@@ -1914,7 +1914,7 @@ Biomes / Tags:
 
 ### Terapagos
 
-![Terapagos](https://play.pokemonshowdown.com/sprites/ani/terapagos.gif)
+![Terapagos](https://play.pokemonshowdown.com/sprites/home/terapagos.png)
 
 Item: Prismatic Shell
 
