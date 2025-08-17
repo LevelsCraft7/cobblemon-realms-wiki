@@ -19,6 +19,10 @@
 * [Serveurs Multijoueurs](multiplayer-servers.md)
 * [Quêtes](quests.md)
 
+## 🗿 Myths & Legends
+
+* [Items Legendaire et leurs Biomes](pokemons-guides/myths-and-legends-legendaries.md)
+
 ## 🐲 Formes Exclusives de Pokémon
 
 * [Formes Exclusives de Mewtwo](pokemons-exclusives/mewtwo-exclusive-forms.md)
