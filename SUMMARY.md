@@ -39,6 +39,7 @@
 ## 🧩 Mod Guides
 
 * [Chunky for World Pregeneration](mods-guides/chunky.md)
+* [Luggage](mods-guides/luggage.md)
 
 ## ⚙️ Settings
 
