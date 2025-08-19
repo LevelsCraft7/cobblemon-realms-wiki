@@ -1,16 +1,28 @@
 # 🗿 Mythes & Légendes — Objets et Biomes Légendaires
+
 <a id="top"></a>
 
-Chaque fiche indique l’objet requis, les conditions particulières et tous les biomes/tags valides.
+# 🧭 Navigation rapide
 
+Aller à une région :
+
+- [Génération 1 [Kanto]](#generation-1-kanto)
+- [Génération 2 [Johto]](#generation-2-johto)
+- [Génération 3 [Hoenn]](#generation-3-hoenn)
+- [Génération 4 [Sinnoh]](#generation-4-sinnoh)
+- [Génération 5 [Unys]](#generation-5-unys)
+- [Génération 6 [Kalos]](#generation-6-kalos)
+- [Génération 7 [Alola]](#generation-7-alola)
+- [Génération 8 [Galar/Hisui]](#generation-8-galar-hisui)
+- [Génération 9 [Paldea/Kitakami]](#generation-9-paldea-kitakami)
+
+---
+
+Chaque fiche indique l’objet requis, les conditions particulières et tous les biomes/tags valides.
 
 # Génération 1 [Kanto]
 
 [↑ Retour en haut](#top)
-
-
-
-
 
 ### Articuno
 
@@ -19,9 +31,11 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 Objet : Tidal Bell
 
 Conditions requises :
+
 - 3 Ice Stones In Inventory
 
 Biomes / Tags :
+
 - Frozen Ocean [minecraft:frozen_ocean]
 - Frozen Peaks [minecraft:frozen_peaks]
 - Frozen River [minecraft:frozen_river]
@@ -44,9 +58,11 @@ Biomes / Tags :
 Objet : Tidal Bell
 
 Conditions requises :
+
 - 3 Thunder Stones In Inventory
 
 Biomes / Tags :
+
 - Plains [minecraft:plains]
 - Savanna [minecraft:savanna]
 - Is Mountain [#cobblemon:is_mountain]
@@ -61,9 +77,11 @@ Biomes / Tags :
 Objet : Tidal Bell
 
 Conditions requises :
+
 - 3 Fire Stones In Inventory
 
 Biomes / Tags :
+
 - Badlands [minecraft:badlands]
 - Windswept Hills [minecraft:windswept_hills]
 - Is Sky [#cobblemon:is_sky]
@@ -79,8 +97,11 @@ Biomes / Tags :
 Objet : Dr Fujis Diary
 
 Conditions requises :
-- Aucune
+
+- None
+
 Biomes / Tags :
+
 - Dark Forest [minecraft:dark_forest]
 - Deep Dark [minecraft:deep_dark]
 - Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]
@@ -97,8 +118,11 @@ Biomes / Tags :
 Objet : Old Sea Map
 
 Conditions requises :
-- Aucune
+
+- None
+
 Biomes / Tags :
+
 - Bamboo Jungle [minecraft:bamboo_jungle]
 - Jungle [minecraft:jungle]
 - Is Bamboo [#cobblemon:is_bamboo]
@@ -107,14 +131,9 @@ Biomes / Tags :
 
 ---
 
-
 # Génération 2 [Johto]
 
 [↑ Retour en haut](#top)
-
-
-
-
 
 ### Raikou
 
@@ -123,9 +142,11 @@ Biomes / Tags :
 Objet : Clear Bell
 
 Conditions requises :
+
 - 3 Thunder Stones In Inventory
 
 Biomes / Tags :
+
 - Plains [minecraft:plains]
 - Savanna [minecraft:savanna]
 - Savanna Plateau [minecraft:savanna_plateau]
@@ -142,9 +163,11 @@ Biomes / Tags :
 Objet : Clear Bell
 
 Conditions requises :
+
 - 3 Fire Stones In Inventory
 
 Biomes / Tags :
+
 - Badlands [minecraft:badlands]
 - Eroded Badlands [minecraft:eroded_badlands]
 - Nether Wastes [minecraft:nether_wastes]
@@ -164,9 +187,11 @@ Biomes / Tags :
 Objet : Clear Bell
 
 Conditions requises :
+
 - 3 Water Stones In Inventory
 
 Biomes / Tags :
+
 - Frozen River [minecraft:frozen_river]
 - River [minecraft:river]
 - Is Cold Ocean [#cobblemon:is_cold_ocean]
@@ -181,8 +206,11 @@ Biomes / Tags :
 Objet : Tidal Bell/Silver Wing
 
 Conditions requises :
-- Aucune
+
+- None
+
 Biomes / Tags :
+
 - Deep Ocean [minecraft:deep_ocean]
 - Ocean [minecraft:ocean]
 - Is Deep Ocean [#minecraft:is_deep_ocean]
@@ -199,8 +227,11 @@ Biomes / Tags :
 Objet : Clear Bell/Rainbow Wing
 
 Conditions requises :
-- Aucune
+
+- None
+
 Biomes / Tags :
+
 - Flower Forest [minecraft:flower_forest]
 - Meadow [minecraft:meadow]
 - Sunflower Plains [minecraft:sunflower_plains]
@@ -217,8 +248,11 @@ Biomes / Tags :
 Objet : Gs Ball
 
 Conditions requises :
-- Aucune
+
+- None
+
 Biomes / Tags :
+
 - Birch Forest [minecraft:birch_forest]
 - Cherry Grove [minecraft:cherry_grove]
 - Dark Forest [minecraft:dark_forest]
@@ -238,25 +272,22 @@ Biomes / Tags :
 
 ---
 
-
 # Génération 3 [Hoenn]
 
 [↑ Retour en haut](#top)
-
-
-
-
 
 ### Regirock
 
 ![Regirock](https://play.pokemonshowdown.com/sprites/ani/regirock.gif)
 
-Objet : Stone Tablet/Ancient Tablet
+Objet : Steel Tablet/Ancient Tablet
 
 Conditions requises :
+
 - Max Y-Level: 63
 
 Biomes / Tags :
+
 - Desert [minecraft:desert]
 - Ancient Sands [terralith:ancient_sands]
 - Ashen Savanna [terralith:ashen_savanna]
@@ -291,8 +322,11 @@ Biomes / Tags :
 Objet : Ice Tablet/Ancient Tablet
 
 Conditions requises :
-- Aucune
+
+- None
+
 Biomes / Tags :
+
 - Frozen River [minecraft:frozen_river]
 - Jagged Peaks [minecraft:jagged_peaks]
 - Snowy Beach [minecraft:snowy_beach]
@@ -330,12 +364,14 @@ Biomes / Tags :
 
 ![Registeel](https://play.pokemonshowdown.com/sprites/ani/registeel.gif)
 
-Objet : Steel Tablet/Ancient Tablet
+Objet : Stone Tablet/Ancient Tablet
 
 Conditions requises :
+
 - Needed Nearby Blocks: Iron Block
 
 Biomes / Tags :
+
 - Deep Dark [minecraft:deep_dark]
 - Village [#minecraft:village]
 - Is Deep Dark [#cobblemon:is_deep_dark]
@@ -349,8 +385,11 @@ Biomes / Tags :
 Objet : Eon Ticket
 
 Conditions requises :
-- Aucune
+
+- None
+
 Biomes / Tags :
+
 - Birch Forest [minecraft:birch_forest]
 - Flower Forest [minecraft:flower_forest]
 - Mirage Isles [terralith:mirage_isles]
@@ -367,8 +406,11 @@ Biomes / Tags :
 Objet : Eon Ticket
 
 Conditions requises :
-- Aucune
+
+- None
+
 Biomes / Tags :
+
 - Mountain Edge [minecraft:mountain_edge]
 - Plains [minecraft:plains]
 - Mirage Isles [terralith:mirage_isles]
@@ -385,8 +427,11 @@ Biomes / Tags :
 Objet : Blue Orb
 
 Conditions requises :
-- Aucune
+
+- None
+
 Biomes / Tags :
+
 - Deep Cold Ocean [minecraft:deep_cold_ocean]
 - Deep Frozen Ocean [minecraft:deep_frozen_ocean]
 - Deep Ocean [minecraft:deep_ocean]
@@ -403,8 +448,11 @@ Biomes / Tags :
 Objet : Red Orb
 
 Conditions requises :
-- Aucune
+
+- None
+
 Biomes / Tags :
+
 - Badlands [minecraft:badlands]
 - Desert [minecraft:desert]
 - Eroded Badlands [minecraft:eroded_badlands]
@@ -422,8 +470,11 @@ Biomes / Tags :
 Objet : Jade Orb
 
 Conditions requises :
-- Aucune
+
+- None
+
 Biomes / Tags :
+
 - End Highlands [minecraft:end_highlands]
 - Skylands Autumn [terralith:skylands_autumn]
 - Skylands Spring [terralith:skylands_spring]
@@ -445,8 +496,12 @@ Biomes / Tags :
 Objet : Bonus Disk
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Mushroom Fields [minecraft:mushroom_fields]
 - Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]
 - Is Magical [#cobblemon:is_magical]
@@ -461,8 +516,12 @@ Biomes / Tags :
 Objet : Aurora Ticket
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - End Barrens [minecraft:end_barrens]
 - End Highlands [minecraft:end_highlands]
 - End Midlands [minecraft:end_midlands]
@@ -472,14 +531,9 @@ Biomes / Tags :
 
 ---
 
-
 # Génération 4 [Sinnoh]
 
 [↑ Retour en haut](#top)
-
-
-
-
 
 ### Mesprit
 
@@ -488,8 +542,12 @@ Biomes / Tags :
 Objet : Mesprit Plume
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Mangrove Swamp [minecraft:mangrove_swamp]
 - Swamp [minecraft:swamp]
 - Ice Marsh [terralith:ice_marsh]
@@ -514,8 +572,12 @@ Biomes / Tags :
 Objet : Azelf Fang
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Mangrove Swamp [minecraft:mangrove_swamp]
 - Swamp [minecraft:swamp]
 - Ice Marsh [terralith:ice_marsh]
@@ -540,8 +602,12 @@ Biomes / Tags :
 Objet : Adamant Orb
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Mountain Edge [minecraft:mountain_edge]
 - Stony Peaks [minecraft:stony_peaks]
 - Is Highlands [#cobblemon:is_highlands]
@@ -557,8 +623,12 @@ Biomes / Tags :
 Objet : Lustrous Orb
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - End Barrens [minecraft:end_barrens]
 - End Highlands [minecraft:end_highlands]
 - End Midlands [minecraft:end_midlands]
@@ -576,8 +646,12 @@ Biomes / Tags :
 Objet : Magma Stone
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Basalt Deltas [minecraft:basalt_deltas]
 - Crimson Forest [minecraft:crimson_forest]
 - Nether Wastes [minecraft:nether_wastes]
@@ -591,8 +665,12 @@ Biomes / Tags :
 Objet : Ancient Tablet
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Savanna Plateau [minecraft:savanna_plateau]
 - Ashen Savanna [terralith:ashen_savanna]
 - Fractured Savanna [terralith:fractured_savanna]
@@ -613,8 +691,12 @@ Biomes / Tags :
 Objet : Griseous Orb
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Soul Sand Valley [minecraft:soul_sand_valley]
 - The End [minecraft:the_end]
 - Is Nether [#cobblemon:is_nether]
@@ -630,11 +712,14 @@ Biomes / Tags :
 Objet : Lunar Feather
 
 Conditions requises :
+
 - Moon Phase: Waning Gibbous
 - Sky Must Not Be Blocked (Fluids Will Not Block)
 - Time: Night
 
+Aucune
 Biomes / Tags :
+
 - Mushroom Field Shore [minecraft:mushroom_field_shore]
 - Mushroom Fields [minecraft:mushroom_fields]
 - Snowy Tundra [minecraft:snowy_tundra]
@@ -648,8 +733,11 @@ Biomes / Tags :
 Objet : Member Card
 
 Conditions requises :
-- Aucune
+
+- None
+
 Biomes / Tags :
+
 - Dark Forest [minecraft:dark_forest]
 - Swamp [minecraft:swamp]
 - Is Dark [#cobblemon:is_dark]
@@ -665,8 +753,11 @@ Biomes / Tags :
 Objet : Oaks Letter
 
 Conditions requises :
-- Aucune
+
+- None
+
 Biomes / Tags :
+
 - Flower Forest [minecraft:flower_forest]
 - Meadow [minecraft:meadow]
 - Sunflower Plains [minecraft:sunflower_plains]
@@ -688,8 +779,11 @@ Biomes / Tags :
 Objet : Azure Flute
 
 Conditions requises :
-- Aucune
+
+- None
+
 Biomes / Tags :
+
 - Dark Forest [minecraft:dark_forest]
 - End Barrens [minecraft:end_barrens]
 - End Highlands [minecraft:end_highlands]
@@ -711,14 +805,9 @@ Biomes / Tags :
 
 ---
 
-
 # Génération 5 [Unys]
 
 [↑ Retour en haut](#top)
-
-
-
-
 
 ### Victini
 
@@ -727,8 +816,12 @@ Biomes / Tags :
 Objet : Liberty Pass
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Badlands [minecraft:badlands]
 - Eroded Badlands [minecraft:eroded_badlands]
 - Savanna [minecraft:savanna]
@@ -745,8 +838,12 @@ Biomes / Tags :
 Objet : Ironwill Sword
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Blooming Valley [terralith:blooming_valley]
 - Forested Highlands [terralith:forested_highlands]
 - Lavender Valley [terralith:lavender_valley]
@@ -786,8 +883,12 @@ Biomes / Tags :
 Objet : Cavern Shield
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Blooming Valley [terralith:blooming_valley]
 - Forested Highlands [terralith:forested_highlands]
 - Lavender Valley [terralith:lavender_valley]
@@ -827,8 +928,12 @@ Biomes / Tags :
 Objet : Grassland Blade
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Blooming Valley [terralith:blooming_valley]
 - Forested Highlands [terralith:forested_highlands]
 - Lavender Valley [terralith:lavender_valley]
@@ -868,9 +973,11 @@ Biomes / Tags :
 Objet : Reveal Glass
 
 Conditions requises :
+
 - Must Be Thundering (Rain Does Not Count)
 
 Biomes / Tags :
+
 - Bamboo Jungle [minecraft:bamboo_jungle]
 - Jungle [minecraft:jungle]
 - Jungle Edge [minecraft:jungle_edge]
@@ -884,9 +991,12 @@ Biomes / Tags :
 Objet : Reveal Glass
 
 Conditions requises :
+
 - Must Be Thundering (Rain Does Not Count)
 
+Aucune
 Biomes / Tags :
+
 - Badlands [minecraft:badlands]
 - Mountains [minecraft:mountains]
 - Plains [minecraft:plains]
@@ -900,10 +1010,13 @@ Biomes / Tags :
 Objet : Light Stone
 
 Conditions requises :
+
 - Min Light Level: 8
 - Max Light Level: 15
 
+Aucune
 Biomes / Tags :
+
 - Desert [minecraft:desert]
 - Savanna [minecraft:savanna]
 - Sunflower Plains [minecraft:sunflower_plains]
@@ -917,10 +1030,13 @@ Biomes / Tags :
 Objet : Dark Stone
 
 Conditions requises :
+
 - Min Light Level: 0
 - Max Light Level: 7
 
+Aucune
 Biomes / Tags :
+
 - Dark Forest [minecraft:dark_forest]
 - Roofed Forest [minecraft:roofed_forest]
 - Swamp [minecraft:swamp]
@@ -934,9 +1050,12 @@ Biomes / Tags :
 Objet : Reveal Glass
 
 Conditions requises :
+
 - Must Be Thundering (Rain Does Not Count)
 
+Aucune
 Biomes / Tags :
+
 - Desert [minecraft:desert]
 - Savanna [minecraft:savanna]
 - Sunflower Plains [minecraft:sunflower_plains]
@@ -950,8 +1069,12 @@ Biomes / Tags :
 Objet : Dna Splicer
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Frozen Peaks [minecraft:frozen_peaks]
 - Snowy Slopes [minecraft:snowy_slopes]
 - Snowy Taiga [minecraft:snowy_taiga]
@@ -968,8 +1091,12 @@ Biomes / Tags :
 Objet : Sacred Sword
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Blooming Valley [terralith:blooming_valley]
 - Forested Highlands [terralith:forested_highlands]
 - Lavender Valley [terralith:lavender_valley]
@@ -1009,8 +1136,12 @@ Biomes / Tags :
 Objet : Meloetta Headset
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Cherry Grove [minecraft:cherry_grove]
 - Flower Forest [minecraft:flower_forest]
 - Meadow [minecraft:meadow]
@@ -1047,9 +1178,12 @@ Biomes / Tags :
 Objet : Genesect Drive
 
 Conditions requises :
+
 - Needed Nearby Blocks: Iron Block
 
+Aucune
 Biomes / Tags :
+
 - End Barrens [minecraft:end_barrens]
 - End Highlands [minecraft:end_highlands]
 - End Midlands [minecraft:end_midlands]
@@ -1059,14 +1193,9 @@ Biomes / Tags :
 
 ---
 
-
 # Génération 6 [Kalos]
 
 [↑ Retour en haut](#top)
-
-
-
-
 
 ### Xerneas
 
@@ -1075,8 +1204,12 @@ Biomes / Tags :
 Objet : Sapling Of Life
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Flower Forest [minecraft:flower_forest]
 - Forest [minecraft:forest]
 - Meadow [minecraft:meadow]
@@ -1093,8 +1226,12 @@ Biomes / Tags :
 Objet : Cocoon Of Destruction
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Dark Forest [minecraft:dark_forest]
 - Swamp [minecraft:swamp]
 - Is Spooky [#cobblemon:is_spooky]
@@ -1109,10 +1246,13 @@ Biomes / Tags :
 Objet : Zygarde Cells/Zygarde Cores
 
 Conditions requises :
+
 - 95 Zygarde Cells In Inventory
 - 5 Zygarde Cores In Inventory
 
+Aucune
 Biomes / Tags :
+
 - Birch Forest [minecraft:birch_forest]
 - Forest [minecraft:forest]
 - Jungle [minecraft:jungle]
@@ -1131,10 +1271,13 @@ Biomes / Tags :
 Objet : Diancies Crown
 
 Conditions requises :
+
 - Max Y-Level: 10
 - Min Y-Level: -64
 
+Aucune
 Biomes / Tags :
+
 - Dripstone Caves [minecraft:dripstone_caves]
 - Lush Caves [minecraft:lush_caves]
 - Cave/andesite Caves [terralith:cave/andesite_caves]
@@ -1159,8 +1302,12 @@ Biomes / Tags :
 Objet : Hoopa Ring/Prism Bottle
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - End Barrens [minecraft:end_barrens]
 - End Highlands [minecraft:end_highlands]
 - End Midlands [minecraft:end_midlands]
@@ -1176,8 +1323,12 @@ Biomes / Tags :
 Objet : Steam Valve
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Cave/mantle Caves [terralith:cave/mantle_caves]
 - Volcanic Crater [terralith:volcanic_crater]
 - Volcanic Peaks [terralith:volcanic_peaks]
@@ -1191,14 +1342,9 @@ Biomes / Tags :
 
 ---
 
-
 # Génération 7 [Alola]
 
 [↑ Retour en haut](#top)
-
-
-
-
 
 ### Type: Null
 
@@ -1207,8 +1353,12 @@ Biomes / Tags :
 Objet : Type Null Mask
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - End Barrens [minecraft:end_barrens]
 - End Highlands [minecraft:end_highlands]
 - End Midlands [minecraft:end_midlands]
@@ -1225,8 +1375,11 @@ Biomes / Tags :
 Objet : Koko Totem
 
 Conditions requises :
-- Aucune
+
+- None
+
 Biomes / Tags :
+
 - Stony Shore [minecraft:stony_shore]
 - Basalt Cliffs [terralith:basalt_cliffs]
 - Cave/underground Jungle [terralith:cave/underground_jungle]
@@ -1270,8 +1423,12 @@ Biomes / Tags :
 Objet : Lele Totem
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Stony Shore [minecraft:stony_shore]
 - Basalt Cliffs [terralith:basalt_cliffs]
 - Cave/underground Jungle [terralith:cave/underground_jungle]
@@ -1315,8 +1472,12 @@ Biomes / Tags :
 Objet : Bulu Totem
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Stony Shore [minecraft:stony_shore]
 - Basalt Cliffs [terralith:basalt_cliffs]
 - Cave/underground Jungle [terralith:cave/underground_jungle]
@@ -1360,8 +1521,12 @@ Biomes / Tags :
 Objet : Fini Totem
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Stony Shore [minecraft:stony_shore]
 - Basalt Cliffs [terralith:basalt_cliffs]
 - Cave/underground Jungle [terralith:cave/underground_jungle]
@@ -1405,8 +1570,12 @@ Biomes / Tags :
 Objet : Lillies Bag
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Cherry Grove [minecraft:cherry_grove]
 - End Barrens [minecraft:end_barrens]
 - End Highlands [minecraft:end_highlands]
@@ -1448,9 +1617,12 @@ Biomes / Tags :
 Objet : Sun Flute
 
 Conditions requises :
+
 - Time: Day
 
+Aucune
 Biomes / Tags :
+
 - Desert [minecraft:desert]
 - Badlands Desert [wythers:badlands_desert]
 - Is Plateau [#cobblemon:is_plateau]
@@ -1464,9 +1636,12 @@ Biomes / Tags :
 Objet : Moon Flute
 
 Conditions requises :
+
 - Time: Night
 
+Aucune
 Biomes / Tags :
+
 - Dark Forest [minecraft:dark_forest]
 - Warped Desert [byg:warped_desert]
 - Is Hills [#cobblemon:is_hills]
@@ -1480,9 +1655,12 @@ Biomes / Tags :
 Objet : Necro Prism
 
 Conditions requises :
+
 - 3 Shiny Stones In Inventory
 
+Aucune
 Biomes / Tags :
+
 - End Barrens [minecraft:end_barrens]
 - End Highlands [minecraft:end_highlands]
 - End Midlands [minecraft:end_midlands]
@@ -1499,9 +1677,12 @@ Biomes / Tags :
 Objet : Antique Pokeball/Soul Heart
 
 Conditions requises :
+
 - Needed Nearby Blocks: Iron Block
 
+Aucune
 Biomes / Tags :
+
 - End Barrens [minecraft:end_barrens]
 - End Highlands [minecraft:end_highlands]
 - End Midlands [minecraft:end_midlands]
@@ -1518,8 +1699,12 @@ Biomes / Tags :
 Objet : Marshadow Hood
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Dark Forest [minecraft:dark_forest]
 - Swamp [minecraft:swamp]
 - Is Dark [#cobblemon:is_dark]
@@ -1535,8 +1720,12 @@ Biomes / Tags :
 Objet : Zeraoras Thunderclaw
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Arid Highlands [terralith:arid_highlands]
 - Ashen Savanna [terralith:ashen_savanna]
 - Brushland [terralith:brushland]
@@ -1561,23 +1750,21 @@ Biomes / Tags :
 Objet : Mystery Box
 
 Conditions requises :
+
 - Needed Nearby Blocks: Iron Block
 
+Aucune
 Biomes / Tags :
+
 - Mountains [minecraft:mountains]
 - Snowy Taiga [minecraft:snowy_taiga]
 - Taiga [minecraft:taiga]
 
 ---
 
-
 # Génération 8 [Galar/Hisui]
 
 [↑ Retour en haut](#top)
-
-
-
-
 
 ### Zacian
 
@@ -1586,8 +1773,12 @@ Biomes / Tags :
 Objet : Rusted Sword
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Flower Forest [minecraft:flower_forest]
 - Meadow [minecraft:meadow]
 - Is Forest [#cobblemon:is_forest]
@@ -1603,8 +1794,12 @@ Biomes / Tags :
 Objet : Rusted Shield
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Taiga [minecraft:taiga]
 - Windswept Forest [minecraft:windswept_forest]
 - Is Highlands [#cobblemon:is_highlands]
@@ -1620,8 +1815,12 @@ Biomes / Tags :
 Objet : Eternatus Core
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - End Barrens [minecraft:end_barrens]
 - End Highlands [minecraft:end_highlands]
 - End Midlands [minecraft:end_midlands]
@@ -1646,8 +1845,12 @@ Biomes / Tags :
 Objet : Kubfus Band
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Cave/underground Jungle [terralith:cave/underground_jungle]
 - Bamboo Jungle Canyon [wythers:bamboo_jungle_canyon]
 - Bamboo Jungle Highlands [wythers:bamboo_jungle_highlands]
@@ -1681,8 +1884,12 @@ Biomes / Tags :
 Objet : Zarudes Cape
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Cave/underground Jungle [terralith:cave/underground_jungle]
 - Dripleaf Swamp [wythers:dripleaf_swamp]
 - Eucalyptus Deanei Forest [wythers:eucalyptus_deanei_forest]
@@ -1708,8 +1915,12 @@ Biomes / Tags :
 Objet : Plasma Tablet/Ancient Tablet
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Is Deep Dark [#cobblemon:is_deep_dark]
 
 ---
@@ -1721,8 +1932,12 @@ Biomes / Tags :
 Objet : Scaly Tablet/Ancient Tablet
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - End Barrens [minecraft:end_barrens]
 - End Highlands [minecraft:end_highlands]
 - End Midlands [minecraft:end_midlands]
@@ -1739,8 +1954,12 @@ Biomes / Tags :
 Objet : Iceroot Carrot
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Is Mountain [#cobblemon:is_mountain]
 - Is Snowy Forest [#cobblemon:is_snowy_forest]
 - Is Taiga [#cobblemon:is_taiga]
@@ -1754,8 +1973,12 @@ Biomes / Tags :
 Objet : Shaderoot Carrot
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Is Dark Forest [#cobblemon:is_dark_forest]
 - Is Forest [#cobblemon:is_forest]
 - Is Plains [#cobblemon:is_plains]
@@ -1770,8 +1993,12 @@ Biomes / Tags :
 Objet : Reins Of Unity
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Flower Forest [minecraft:flower_forest]
 - Is Autumn [#cobblemon:is_autumn]
 
@@ -1784,23 +2011,21 @@ Biomes / Tags :
 Objet : Reveal Glass
 
 Conditions requises :
+
 - Must Be Thundering (Rain Does Not Count)
 
+Aucune
 Biomes / Tags :
+
 - Cherry Grove [minecraft:cherry_grove]
 - Flower Forest [minecraft:flower_forest]
 - Meadow [minecraft:meadow]
 
 ---
 
-
 # Génération 9 [Paldea/Kitakami]
 
 [↑ Retour en haut](#top)
-
-
-
-
 
 ### Koraidon
 
@@ -1809,8 +2034,12 @@ Biomes / Tags :
 Objet : Scarlet Book
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Badlands [minecraft:badlands]
 - Eroded Badlands [minecraft:eroded_badlands]
 - Savanna [minecraft:savanna]
@@ -1828,8 +2057,12 @@ Biomes / Tags :
 Objet : Violet Book
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Deep Dark [minecraft:deep_dark]
 - Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]
 - Is Deep Dark [#cobblemon:is_deep_dark]
@@ -1843,9 +2076,12 @@ Biomes / Tags :
 Objet : Teal Mask
 
 Conditions requises :
+
 - Moon Phase: Waning Gibbous
 
+Aucune
 Biomes / Tags :
+
 - Is Bamboo [#cobblemon:is_bamboo]
 - Is Floral [#cobblemon:is_floral]
 - Is Jungle [#cobblemon:is_jungle]
@@ -1859,8 +2095,12 @@ Biomes / Tags :
 Objet : Mythical Pecha Berry
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Dark Forest [minecraft:dark_forest]
 - Pillager Outpost [minecraft:pillager_outpost]
 - Swamp [minecraft:swamp]
@@ -1876,8 +2116,12 @@ Biomes / Tags :
 Objet : Prismatic Shell
 
 Conditions requises :
-- Aucune
+
+- None
+
+Aucune
 Biomes / Tags :
+
 - Is Jungle [#cobblemon:is_jungle]
 - Is Magical [#cobblemon:is_magical]
 - Is Mountain [#cobblemon:is_mountain]

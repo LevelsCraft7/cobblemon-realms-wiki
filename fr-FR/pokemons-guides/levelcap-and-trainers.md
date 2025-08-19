@@ -1,6 +1,6 @@
 # 🧗 Aperçu de la progression des dresseurs
 
-Dans **Cobblemon Realms**, les combats contre des dresseurs ne sont pas de simples rencontres aléatoires — ils font partie d’un **système de progression structuré** basé sur les **Cartes de Dresseur**, les **Dresseurs Clés** et les **Séries de Dresseurs**.  
+Dans **Cobblemon Realms**, les combats contre des dresseurs ne sont pas de simples rencontres aléatoires — ils font partie d’un **système de progression structuré** basé sur les **Cartes de Dresseur**, les **Dresseurs Clés** et les **Séries de Dresseurs**.\
 Ce système encourage **l’exploration**, la **planification tactique** et une progression régulière vers des défis de plus en plus difficiles.
 
 ---
@@ -10,12 +10,15 @@ Ce système encourage **l’exploration**, la **planification tactique** et une 
 Chaque joueur possède un **niveau maximum personnel**, commençant à **25** dans ce modpack (par défaut, il est plus bas dans le mod original).
 
 ### ⚙️ Effets du niveau maximum
+
 - 🛑 Les Pokémon **ayant atteint ou dépassé** votre niveau maximum **ne peuvent plus gagner d’expérience**.
 - 🚫 Les dresseurs **refuseront de se battre** si un Pokémon de votre équipe dépasse ce niveau.
 - 🎯 La **puissance des dresseurs proches** s’adapte à votre équipe mais **ne dépasse jamais votre niveau maximum**.
 
-### 🧭 Augmenter votre niveau maximum
+### 🧭 Comment augmenter votre cap
+
 Pour augmenter votre niveau maximum :
+
 - Vainquez les **Dresseurs Clés** dans l’ordre précis défini par le système de progression.
 - Votre **Carte de Dresseur** affiche votre prochain Dresseur Clé et fournit des indices sur l’endroit où le trouver.
 - L’onglet **Avancements** propose des étapes supplémentaires et des indices.
@@ -27,7 +30,8 @@ Pour augmenter votre niveau maximum :
 Les Dresseurs Clés sont les points de progression principaux — les vaincre augmente votre niveau maximum et débloque des défis plus difficiles.
 
 ### 🧭 Fonctionnement du suivi
-- **Au début du jeu**, lorsque vous obtenez une **Carte de Dresseur** mais que **vous n’avez aucune série de dresseurs active**, une **flèche holographique** apparaît.  
+
+- **Au début du jeu**, lorsque vous obtenez une **Carte de Dresseur** mais que **vous n’avez aucune série de dresseurs active**, une **flèche holographique** apparaît.\
   → Cette flèche **pointe toujours vers le PNJ de l’Association des Dresseurs** pour que vous puissiez commencer votre première série.
 - Après avoir choisi une série, **la flèche disparaît** — il **n’y a pas de flèche vers les Dresseurs Clés** eux-mêmes.
 - À partir de là, vous devez **utiliser les informations de votre Carte de Dresseur** pour localiser les Dresseurs Clés :
@@ -36,14 +40,16 @@ Les Dresseurs Clés sont les points de progression principaux — les vaincre au
   - **Parfois, objets requis** pour les invoquer
 
 ### 🌍 Trouver les Dresseurs Clés dans Cobblemon Realms
+
 Dans **Cobblemon Realms**, des outils supplémentaires sont disponibles via le système de quêtes :
+
 - Chaque catégorie de quêtes répertorie **tous les dresseurs d’une série**.
 - Vous pouvez **échanger des Realms Coins** pour faire apparaître instantanément sur vous le dresseur que vous devez affronter.
   - Les dresseurs peuvent être générés à l’infini de cette manière.
   - **Temps de recharge :** une fois vaincu, un dresseur ne peut pas être réaffronté avant **un jour Minecraft** (≈ 20 minutes IRL).
 - Les quêtes disposent d’un **bouton Info** :
-  - Permet **d’activer une série à distance**  
-    *(Une seule série active à la fois — en activer une autre réinitialise la progression de l’actuelle sauf si elle est terminée).*
+  - Permet **d’activer une série à distance**\
+    _(Une seule série active à la fois — en activer une autre réinitialise la progression de l’actuelle sauf si elle est terminée)._
   - Fournit un lien vers un **graphique de progression** montrant l’ordre des dresseurs et leur **niveau moyen**.
   - Renvoie vers les **Avancements** correspondants pour suivre l’ordre directement dans Minecraft.
 
@@ -51,11 +57,12 @@ Dans **Cobblemon Realms**, des outils supplémentaires sont disponibles via le s
 
 ## 🏆 Débloquer les Champions d’Arène & Dresseurs Majeurs
 
-La progression ne se limite pas à l’augmentation du niveau maximum — elle ouvre aussi l’accès aux **Champions d’Arène, Rivaux, Conseil 4, équipes de méchants**, et autres combats importants.
+Advancing isn’t just about cap increases — it also opens the door to **Gym Leaders, Rivals, Elite Four, villain teams**, and other major challenges.
 
 **Conditions de déblocage :**
+
 - 🥇 Vaincre les **Dresseurs Clés** requis d’une série pour débloquer ses adversaires de haut niveau.
-- 💠 Certains nécessitent des **objets spéciaux** (ex. *Pierre Dure*) pour être invoqués.
+- 💠 Certains nécessitent des **objets spéciaux** (ex. _Pierre Dure_) pour être invoqués.
 - 🧱 Utilisez un **Générateur de Dresseurs** (trouvé dans des villages ou arènes) et faites un clic droit avec l’objet requis pour invoquer le dresseur après un court délai.
 - 🧩 Les contenus avancés (Ligues, Conseil 4, chefs d’équipes) peuvent demander plusieurs séries terminées.
 
@@ -68,7 +75,7 @@ La progression ne se limite pas à l’augmentation du niveau maximum — elle o
 L’**Association des Dresseurs** est un PNJ spécial qui vous aide à commencer une nouvelle série.
 
 - **Apparaît près d’un joueur** qui :
-  - Possède une **Carte de Dresseur** dans son inventaire, **et**
+  - Has a **Trainer Card** (either in hand or inventory), **and**
   - N’a **aucune série de dresseurs active**.
 - Lorsqu’il est proche, votre Carte de Dresseur :
   - **Brille**
@@ -82,25 +89,29 @@ L’**Association des Dresseurs** est un PNJ spécial qui vous aide à commencer
 Votre modpack inclut le contenu de base de Radical Trainers **ainsi que** les séries supplémentaires de **More Radical Trainers**.
 
 ### 🟢 Séries indépendantes (aucun prérequis)
+
 1. **Pokémon Adventures** — Héros du manga, avec embranchements.
 2. **Défi des Arènes de Sinnoh** — Doubles combats contre les champions de Sinnoh.
 3. **Team Aqua** — Apparaît dans l’Overworld.
 4. **Team Magma** — Apparaît dans le Nether.
-5. **Défi des Arènes d’Unys** — Tous les champions d’Unys.
+5. **Unova Gym Challenge** _(5/10)_\
+  Face the full roster of Unova’s Gym Leaders.
 6. **Défi des Arènes de Hoenn** — Champions de Hoenn.
 7. **Défi des Arènes de Kalos** — Équipes niveau 90+ avec Méga-Évolutions.
 8. **Défi des Arènes de Paldea** — Arènes de la génération la plus récente.
 
 ### 🔒 Séries avec prérequis
-9. **Team Plasma** — Nécessite *Défi des Arènes d’Unys*.
-10. **Défi de la Ligue d’Unys** — Nécessite *Défi des Arènes d’Unys*.
-11. **Défi de la Ligue de Hoenn** — Nécessite *Défi des Arènes de Hoenn*.
-12. **Défi de la Ligue de Kalos** — Nécessite *Défi des Arènes de Kalos*.
-13. **Sept Sages de la Team Plasma** — Nécessite *Team Plasma* + *Ligue d’Unys*.
-14. **Défi Unys (N2B2)** — Nécessite *Défi des Arènes d’Unys* + *Ligue d’Unys*.
-15. **Neo Team Plasma** — Nécessite *Sept Sages de la Team Plasma*.
-16. **Conseil 4 & Maître de Paldea** — Nécessite *Défi des Arènes de Paldea*.
-17. **Starfall Street (Team Star)** — Nécessite *Défi des Arènes de Paldea*.
+
+9. **Team Plasma** — Nécessite _Défi des Arènes d’Unys_.
+10. **Défi de la Ligue d’Unys** — Nécessite _Défi des Arènes d’Unys_.
+11. **Défi de la Ligue de Hoenn** — Nécessite _Défi des Arènes de Hoenn_.
+12. **Défi de la Ligue de Kalos** — Nécessite _Défi des Arènes de Kalos_.
+13. **Sept Sages de la Team Plasma** — Nécessite _Team Plasma_ + _Ligue d’Unys_.
+14. **Unova (B2W2) Challenge** _(6/10)_\
+  ➤ Requires: _Unova Gym Challenge & Unova League Challenge_
+15. **Neo Team Plasma** — Nécessite _Sept Sages de la Team Plasma_.
+16. **Conseil 4 & Maître de Paldea** — Nécessite _Défi des Arènes de Paldea_.
+17. **Starfall Street (Team Star)** — Nécessite _Défi des Arènes de Paldea_.
 
 💡 Tous les dresseurs avancés utilisent des équipes **entièrement entraînées EV/IV** avec des sets de capacités compétitifs.
 
@@ -111,6 +122,7 @@ Votre modpack inclut le contenu de base de Radical Trainers **ainsi que** les s�
 Visualisez votre progression avec :
 /rctmod player get progress <pseudo> graph include_defeated include_optionals
 Affiche :
+
 - ✔ Séries terminées
 - 🟡 Chemins optionnels
 - 🔒 Contenu verrouillé
@@ -127,6 +139,7 @@ Affiche :
 ---
 
 ## 💡 Conseils pour réussir
+
 - 🧠 Faites tourner votre équipe pour éviter de bloquer l’XP avec un seul Pokémon.
 - 🎯 Priorisez les combats de dresseurs dès le début pour débloquer rapidement les arènes et séries.
 - 🗺 Consultez souvent votre Carte de Dresseur — en particulier pour les indices de biome et de dimension.
@@ -135,5 +148,7 @@ Affiche :
 ---
 
 ## ℹ️ En savoir plus
-- **Documentation officielle Radical Trainers** : [srcmc.gitlab.io/rct/docs/0.13](https://srcmc.gitlab.io/rct/docs/0.13/)  
+
+- **Documentation officielle Radical Trainers** : [srcmc.gitlab.io/rct/docs/0.13](https://srcmc.gitlab.io/rct/docs/0.13/)
 - **More Radical Trainers (Datapack)** : [Page Modrinth](https://modrinth.com/datapack/more-radical-trainers)
+
