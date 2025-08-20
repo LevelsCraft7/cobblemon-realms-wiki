@@ -22,6 +22,8 @@ A defensive Psychic/Steel variant of Mewtwo.
 - Right-click Mewtwo with the _Binding Armor_.
 - Reversible using the same item.
 
+![24812b718e60a78d79113eca63c598d3](https://github.com/user-attachments/assets/9001fa9e-6e54-4278-8bc9-c3d79dc5b324)
+
 ### 📝 Notes
 
 - Can Mega Evolve into regular Mega Mewtwo X/Y.
@@ -46,6 +48,8 @@ An offensive Psychic/Dark variant of Mewtwo.
 - Right-click Mewtwo with the _Shadow Energy_.
 - Reversible using the same item.
 
+![a32da406246bd71b4000f1a22aaef405](https://github.com/user-attachments/assets/33f2c457-b6f3-4cbf-a2a9-69de954cc842)
+
 ---
 
 ## 🔥 Shadow Mewtwo Mega X
@@ -62,6 +66,8 @@ The Mega X evolution of Shadow Mewtwo.
 - Hold a **Shadow Mewtwonite X**:
   - Craft: _Dark Gem + Mewtwonite X + Dark Gem_.
 - Equip to Shadow Mewtwo to transform.
+
+![c726a8645e89b4778bac5e04edc05be3](https://github.com/user-attachments/assets/3708ba00-b99a-44ae-bd26-fc9e2b8476bd)
 
 ---
 
@@ -80,6 +86,8 @@ The Mega Y evolution of Shadow Mewtwo.
 - Hold a **Shadow Mewtwonite Y**:
   - Craft: _Dark Gem + Mewtwonite Y + Dark Gem_.
 - Equip to Shadow Mewtwo to transform.
+
+![07ebe523c471fc9eb4ec71d864b6be3b](https://github.com/user-attachments/assets/9903b267-0dd5-4d22-b277-cf8cf40f7393)
 
 ---
 
