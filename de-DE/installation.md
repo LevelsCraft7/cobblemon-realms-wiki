@@ -22,11 +22,11 @@ You can use the **official Server Pack** I provide with each update of the modpa
 
 ⚠️ **Requirements:**
 
-- At least **8GB of free RAM** (16GB total is ideal)
-- **Java 21** (required for Cobblemon Realms!)
-- A stable internet connection
-- Basic understanding of running `.bat` files
-- Port forwarding if your friends play from outside your home network
+ - At least **8GB of free RAM** (16GB total is ideal)
+ - **Java 21** (required for Cobblemon Realms!)
+ - A stable internet connection
+ - Basic understanding of running `.bat` files
+ - Port forwarding if your friends play from outside your home network
 
 ---
 
@@ -36,8 +36,8 @@ You can use the **official Server Pack** I provide with each update of the modpa
 Open the file `user_jvm_args.txt` and edit the memory values:
 -Xmx8G -Xms8G
 
-- `Xmx` = Max RAM
-- `Xms` = Min RAM\
+ - `Xmx` = Max RAM
+ - `Xms` = Min RAM\
    ➡️ _Don’t allocate all your RAM! Leave at least 2-4GB for your system._
 
 ---
@@ -55,16 +55,16 @@ Open the file `user_jvm_args.txt` and edit the memory values:
 
 🔄 **Step 3: Launch the Server Again**
 
-- Run `run.bat` again
-- The server will now fully start
-- Wait for the world to generate
-- You’re good to go!
+ - Run `run.bat` again
+ - The server will now fully start
+ - Wait for the world to generate
+ - You’re good to go!
 
 🌍 You can now:
 
-- **Play locally** by connecting to `localhost`
-- **Invite friends** on the same Wi-Fi via your local IP
-- Or **configure port forwarding** for online friends
+ - **Play locally** by connecting to `localhost`
+ - **Invite friends** on the same Wi-Fi via your local IP
+ - Or **configure port forwarding** for online friends
 
 ---
 
@@ -76,11 +76,11 @@ If you don’t want to deal with technical setup, I recommend using a hosting se
 
 ✅ **What you get:**
 
-- Java 21 ready
-- Modpack pre-installed
-- Server always online
-- Easy management panel
-- Better connection for players across the world
+ - Java 21 ready
+ - Modpack pre-installed
+ - Server always online
+ - Easy management panel
+ - Better connection for players across the world
 
 ---
 

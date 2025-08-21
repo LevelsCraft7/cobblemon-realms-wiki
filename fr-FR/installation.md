@@ -22,11 +22,11 @@ Vous pouvez utiliser le **Server Pack officiel** que je fournis à chaque mise �
 
 ⚠️ **Pré-requis :**
 
-- Au moins **8 Go de RAM libre** (16 Go au total recommandé)
-- **Java 21** (obligatoire pour Cobblemon Realms !)
-- Une connexion internet stable
-- Quelques notions de base sur l’utilisation de fichiers `.bat`
-- Redirection de ports si vos amis se connectent depuis l’extérieur de votre réseau
+ - Au moins **8 Go de RAM libre** (16 Go au total recommandé)
+ - **Java 21** (obligatoire pour Cobblemon Realms !)
+ - Une connexion internet stable
+ - Quelques notions de base sur l’utilisation de fichiers `.bat`
+ - Redirection de ports si vos amis se connectent depuis l’extérieur de votre réseau
 
 ---
 
@@ -36,15 +36,15 @@ Vous pouvez utiliser le **Server Pack officiel** que je fournis à chaque mise �
 Ouvrez le fichier `user_jvm_args.txt` et modifiez les valeurs de mémoire :
 `-Xmx8G -Xms8G`
 
-- `Xmx` = RAM maximale
-- `Xms` = RAM minimale\
+ - `Xmx` = RAM maximale
+ - `Xms` = RAM minimale\
    ➡️ _Ne donnez pas toute votre RAM ! Laissez 2 à 4 Go pour le système._
 
 ---
 
 **📜 Étape 2 : Premier lancement et acceptation de l’EULA**
 
-1. Extrayez le `.zip` du ServerPack dans un dossier (ex : \\\\\\\\`Cobblemon Server')
+1. Extrayez le `.zip` du ServerPack dans un dossier (ex : \\\\\\\\\`Cobblemon Server')
 2. Double-cliquez sur le fichier `run.bat`
 3. Cela va créer un fichier `eula.txt` et s’arrêter
 4. Ouvrez ce fichier et changez :\
@@ -55,16 +55,16 @@ Ouvrez le fichier `user_jvm_args.txt` et modifiez les valeurs de mémoire :
 
 🔄 **Étape 3 : Relancer le serveur**
 
-- Lancez de nouveau `run.bat`
-- Le serveur va démarrer entièrement
-- Attendez que le monde soit généré
-- You’re good to go!
+ - Lancez de nouveau `run.bat`
+ - Le serveur va démarrer entièrement
+ - Attendez que le monde soit généré
+ - You’re good to go!
 
 🌍 Vous pouvez maintenant :
 
-- **Jouer en local** en vous connectant à `localhost`
-- **Inviter des amis** sur le même Wi-Fi via votre IP locale
-- Ou **configurer une redirection de ports** pour jouer avec des amis à distance
+ - **Jouer en local** en vous connectant à `localhost`
+ - **Inviter des amis** sur le même Wi-Fi via votre IP locale
+ - Ou **configurer une redirection de ports** pour jouer avec des amis à distance
 
 ---
 
@@ -76,11 +76,11 @@ Si vous ne voulez pas vous embêter avec la configuration, je recommande d’uti
 
 ✅ **What you get:**
 
-- Java 21 préinstallé
-- Modpack déjà prêt à l’emploi
-- Serveur toujours en ligne
-- Easy management panel
-- Meilleure connexion pour les joueurs dans le monde entier
+ - Java 21 préinstallé
+ - Modpack déjà prêt à l’emploi
+ - Serveur toujours en ligne
+ - Easy management panel
+ - Meilleure connexion pour les joueurs dans le monde entier
 
 ---
 
@@ -103,6 +103,6 @@ I may not reply instantly, but the community is here too :speech_balloon:\
 I may not reply instantly, but the community is here too :speech_balloon:
 
 🔥 Amusez-vous entre amis et profitez de votre aventure Pokémon sur **Cobblemon Realms** !
-Faisons-en une aventure inoubliable 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨
+Faisons-en une aventure inoubliable 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨ 🧭✨
 
 _Je ne propose pas de support direct pour l’hébergement maison / la redirection de ports — mais de nombreux tutos sont disponibles en ligne !_
