@@ -8,7 +8,7 @@
 - Allocate at least **8 GB of RAM** in your launcher (10–12 GB is recommended).
 - Avoid having other heavy applications open while launching the game.
 - On solo, apply our **recommended JVM flags** for better stability.  
-  ➤ [See: Solo Optimization Guide](../settings/solo-performance.md)
+  ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)
 
 ---
 
