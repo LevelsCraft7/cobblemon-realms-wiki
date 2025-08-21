@@ -8,6 +8,7 @@
 - Sí, pero se cuidadoso: algunos mods pueden romper el equilibrio o la compatibilidad.
 - Avoid having other heavy applications open while launching the game.
 - On solo, apply our **recommended JVM flags** for better stability.\
+  ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)\
   ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)
 
 ---
@@ -42,6 +43,7 @@
 ## ❓ "¿Puedo usar aternos/minehut/hosts gratis?"
 
 - ❌ Not recommended.\
+  ❌ Not recommended.\
   These platforms **lack power and customization** for large modpacks.
 - Choose a host with at least **4GB RAM**, Java 21, and FTP access.
 - We recommend **BisectHosting** — optimized for this modpack.

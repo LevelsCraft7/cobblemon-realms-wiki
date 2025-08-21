@@ -15,10 +15,12 @@ The **Luggage** mod brings back the iconic walking chest from OpenBlocks for mod
 - **Pick up as an item (data is preserved)**\
   **Shift + Right‑click** Luggage to convert it back into an item.\
   Its **contents, charged state, and custom name** are saved on the item.\
+  Its **contents, charged state, and custom name** are saved on the item.\
   Its **contents, charged state, and custom name** are saved on the item.
 
 - **Charged Luggage = more space**\
   If **struck by lightning**, Luggage becomes **charged** and its inventory size **doubles**.\
+  This state is also reflected by a different texture.\
   This state is also reflected by a different texture.\
   This state is also reflected by a different texture.
 
@@ -26,13 +28,16 @@ The **Luggage** mod brings back the iconic walking chest from OpenBlocks for mod
 
 ## 🎮 Controls (Whistles)
 
-- **Call Whistle** — press the **\\\`** key\
+- **Call Whistle** — press the **\\`** key\
+    Calls **all** Luggages you own to your position (they must be in **loaded chunks**).\
+    After calling, there is a **10‑second cooldown** during which Luggage won’t collect items.   **Call Whistle** — press the **\\\`** key\
   Calls **all** Luggages you own to your position (they must be in **loaded chunks**).\
   After calling, there is a **10‑second cooldown** during which Luggage won’t collect items.\
   After calling, there is a **10‑second cooldown** during which Luggage won’t collect items.
 
-- **Wait Whistle** — **Alt + \\\`**\
+- **Wait Whistle** — **Alt + \\\\`**\
   Toggles **wait** for your nearby Luggages (within 8 blocks).\
+  While waiting, they visibly “sweat”.\
   While waiting, they visibly “sweat”.\
   While waiting, they visibly “sweat”. Press again to release them.
 
