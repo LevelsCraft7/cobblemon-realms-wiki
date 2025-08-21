@@ -18,7 +18,7 @@
 - Some Pokémon only appear **at night**, **in caves**, or during **specific weather**.
 - Use `/checkspawns` in-game to see nearby Pokémon chances.
 
-📚 For detailed info, check the [Pokémon Spawns Guide](../gameplay/pokemon-and-spawns.md)
+📚 For detailed info, check the [Pokémon Spawns Guide](../pokemon-and-spawns.md)
 
 ---
 
@@ -56,7 +56,7 @@
 - Avoid Java 8, Java 17, or other outdated runtimes — they will crash.
 - Dedicated GPU is strongly recommended for shader performance.
 
-📌 [Follow our Installation Guide](../getting-started/installation.md)
+📌 [Follow our Installation Guide](../installation.md)
 
 ---
 
@@ -90,7 +90,7 @@
   - Gym Leaders
   - Trainer Association
 
-📘 [Read: Level Cap and Trainers Guide](../gameplay/pokemons-guides/levelcap-and-trainers.md)
+📘 [Read: Level Cap and Trainers Guide](../pokemons-guides/levelcap-and-trainers.md)
 
 ---
 
