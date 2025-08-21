@@ -22,11 +22,11 @@ _For Cobblemon Realms & Our Story Modpacks_
 
 ⚠️ **Requerimientos:**
 
-- Al menos **8GB de RAM libre** (16GB total es lo ideal)
-- **Java 21** (¡requerido para Cobblemon Realms!)
-- Una conexión estable a Internet
-- Comprensión básica para la ejecución de archivos `.bat`
-- Redireccionamiento de puertos si tus amigos juegan fuera de casa
+ - Al menos **8GB de RAM libre** (16GB total es lo ideal)
+ - **Java 21** (¡requerido para Cobblemon Realms!)
+ - Una conexión estable a Internet
+ - Comprensión básica para la ejecución de archivos `.bat`
+ - Redireccionamiento de puertos si tus amigos juegan fuera de casa
 
 ---
 
@@ -36,8 +36,8 @@ _For Cobblemon Realms & Our Story Modpacks_
 Abre el archivo `user_jvm_args.txt` y edita los valores de memoria:
 -Xmx8G -Xms8G
 
-- `Xmx` = RAM máxima
-- `Xms` = RAM mínima\
+ - `Xmx` = RAM máxima
+ - `Xms` = RAM mínima\
    ➡️ ¡No utilices toda tu RAM! Deja al menos entre 2-4GB para tu sistema
 
 ---
@@ -55,16 +55,16 @@ Abre el archivo `user_jvm_args.txt` y edita los valores de memoria:
 
 🔄 **Paso 3: Ejecuta el Servidor Otra Vez**
 
-- Ejecuta `run.bat` de nuevo
-- Ahora el servidor se iniciará por completo
-- Espera a que el mundo genere
-- ¡Y está listo!
+ - Ejecuta `run.bat` de nuevo
+ - Ahora el servidor se iniciará por completo
+ - Espera a que el mundo genere
+ - ¡Y está listo!
 
 🌍 Ahora puedes:
 
-- **Jugar localmente** conectándote a `localhost`
-- **Invitar a amigos** en el mismo Wi-Fi a través de tu IP local
-- O **configurar el redireccionamiento de puertos** para amigos en línea
+ - **Jugar localmente** conectándote a `localhost`
+ - **Invitar a amigos** en el mismo Wi-Fi a través de tu IP local
+ - O **configurar el redireccionamiento de puertos** para amigos en línea
 
 ---
 
@@ -76,11 +76,11 @@ Si no quieres lidiar con la configuración técnica, ¡recomiendo utilizar un se
 
 ✅ **Lo que obtienes:**
 
-- Java 21 listo
-- Modpack preinstalado
-- Servidor siempre en línea
-- Panel de gestión sencillo
-- Mejor conexión para jugadores de todo el mundo
+ - Java 21 listo
+ - Modpack preinstalado
+ - Servidor siempre en línea
+ - Panel de gestión sencillo
+ - Mejor conexión para jugadores de todo el mundo
 
 ---
 

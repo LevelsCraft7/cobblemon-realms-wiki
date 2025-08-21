@@ -21,6 +21,8 @@ especialmente durante sesiones de alta actividad o exploración intensa.\
 Al generar los trozos con antelación, tu servidor experimentará menos lentitud,\
 especialmente durante sesiones de alta actividad o exploración intensa.\
 Al generar los trozos con antelación, tu servidor experimentará menos lentitud,\
+especialmente durante sesiones de alta actividad o exploración intensa.\
+Al generar los trozos con antelación, tu servidor experimentará menos lentitud,\
 especialmente durante sesiones de alta actividad o exploración intensa.
 
 ## Características
@@ -40,27 +42,27 @@ cuando los jugadores entran en nuevas zonas.
 ## Comandos y Uso
 
 1. **Comando Básico:**\
-  Usa el comando:\
-  `/chunky radius <radius>`\
-  Esto comenzará a pre-generar los trozos en el radio especificado desde el punto de aparición.\
-  Ejemplo:\
-  `/chunky start`\
-  Este comando comienza a generar todos los trozos dentro del radio previamente configurado.\
-  Ejemplo:\
-  `/chunky start`\
-  Este comando comienza a generar todos los trozos dentro del radio previamente configurado.\
-  Ejemplo:\
-  `/chunky start`\
-  Este comando comienza a generar todos los trozos dentro del radio previamente configurado.
+   Usa el comando:\
+   `/chunky radius <radius>`\
+   Esto comenzará a pre-generar los trozos en el radio especificado desde el punto de aparición.\
+   Ejemplo:\
+   `/chunky start`\
+   Este comando comienza a generar todos los trozos dentro del radio previamente configurado.\
+   Ejemplo:\
+   `/chunky start`\
+   Este comando comienza a generar todos los trozos dentro del radio previamente configurado.\
+   Ejemplo:\
+   `/chunky start`\
+   Este comando comienza a generar todos los trozos dentro del radio previamente configurado.
 
 2. **Ver Estado:**\
-  Para monitorear el progreso de la pre-generación:\
-  `/chunky status`\
-  Esto mostrará el progreso actual y los detalles de rendimiento.
+   Para monitorear el progreso de la pre-generación:\
+   `/chunky status`\
+   Esto mostrará el progreso actual y los detalles de rendimiento.
 
 3. **Cancelar Generación:**\
-  Si es necesario, puedes cancelar el proceso de pre-generación con:\
-  `/chunky cancel`
+   Si es necesario, puedes cancelar el proceso de pre-generación con:\
+   `/chunky cancel`
 
 4. **Configuración Avanzada:**
 
@@ -76,6 +78,7 @@ cuando los jugadores entran en nuevas zonas.
 - Para mapas grandes, programa las tareas de pre-generación durante las ventanas de mantenimiento.
 - Usa regularmente el comando `/chunky status` para monitorear el progreso y evitar sobrecargar el servidor.
 - Si es posible, automatiza el proceso al inicio del servidor con un script que contenga `/chunky start`.\
+  Esto se puede hacer mediante un script de inicio o un plugin del servidor que soporte automatización.\
   Esto se puede hacer mediante un script de inicio o un plugin del servidor que soporte automatización.\
   Esto se puede hacer mediante un script de inicio o un plugin del servidor que soporte automatización.\
   Esto se puede hacer mediante un script de inicio o un plugin del servidor que soporte automatización.\

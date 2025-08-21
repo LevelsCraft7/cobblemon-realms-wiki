@@ -1,6 +1,7 @@
 # 🧗 Überblick über den Trainer-Fortschritt
 
 In **Cobblemon Realms** sind Trainerkämpfe nicht nur zufällige Begegnungen — sie sind Teil eines **strukturierten Fortschrittssystems**, das auf **Trainerkarten**, **Schlüsseltrainern** und **Trainer-Serien** basiert.\
+Dieses System fördert **Erkundung**, **taktische Planung** und einen stetigen Aufstieg zu immer schwierigeren Herausforderungen.\
 Dieses System fördert **Erkundung**, **taktische Planung** und einen stetigen Aufstieg zu immer schwierigeren Herausforderungen.
 
 ---
@@ -32,6 +33,7 @@ Schlüsseltrainer sind die wichtigsten Fortschrittspunkte — wenn du sie besieg
 ### 🧭 Verhalten des Trackingsystems
 
 - **Zu Beginn des Spiels**, wenn du eine **Trainerkarte** erhalten hast, aber **keine aktive Trainerserie**, erscheint ein **holografischer Pfeil**.\
+  → Dieser Pfeil **zeigt immer auf den NPC der Trainer-Vereinigung**, damit du deine erste Serie starten kannst.\
   → Dieser Pfeil **zeigt immer auf den NPC der Trainer-Vereinigung**, damit du deine erste Serie starten kannst.
 - Nachdem du eine Serie ausgewählt hast, **verschwindet der Pfeil** — es gibt **keinen Pfeil zu den Schlüsseltrainern** selbst.
 - Ab diesem Moment musst du die **Informationen auf deiner Trainerkarte** nutzen, um die Schlüsseltrainer zu finden:
@@ -95,7 +97,7 @@ Dein Modpack enthält alle Inhalte von Radical Trainers **plus** die zusätzlich
 3. **Team Aqua** — Erscheint in der Oberwelt.
 4. **Team Magma** — Erscheint im Nether.
 5. **Unova Gym Challenge** _(5/10)_\
-  Face the full roster of Unova’s Gym Leaders.
+   Face the full roster of Unova’s Gym Leaders.
 6. **Hoenn-Arenaherausforderung** — Arenaleiter von Hoenn.
 7. **Kalos-Arenaherausforderung** — Level 90+ Teams mit Mega-Entwicklungen.
 8. **Paldea-Arenaherausforderung** — Arenen der neuesten Generation.

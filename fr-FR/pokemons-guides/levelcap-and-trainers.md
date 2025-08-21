@@ -1,6 +1,7 @@
 # 🧗 Aperçu de la progression des dresseurs
 
 Dans **Cobblemon Realms**, les combats contre des dresseurs ne sont pas de simples rencontres aléatoires — ils font partie d’un **système de progression structuré** basé sur les **Cartes de Dresseur**, les **Dresseurs Clés** et les **Séries de Dresseurs**.\
+Ce système encourage **l’exploration**, la **planification tactique** et une progression régulière vers des défis de plus en plus difficiles.\
 Ce système encourage **l’exploration**, la **planification tactique** et une progression régulière vers des défis de plus en plus difficiles.
 
 ---
@@ -32,6 +33,7 @@ Les Dresseurs Clés sont les points de progression principaux — les vaincre au
 ### 🧭 Fonctionnement du suivi
 
 - **Au début du jeu**, lorsque vous obtenez une **Carte de Dresseur** mais que **vous n’avez aucune série de dresseurs active**, une **flèche holographique** apparaît.\
+  → Cette flèche **pointe toujours vers le PNJ de l’Association des Dresseurs** pour que vous puissiez commencer votre première série.\
   → Cette flèche **pointe toujours vers le PNJ de l’Association des Dresseurs** pour que vous puissiez commencer votre première série.
 - Après avoir choisi une série, **la flèche disparaît** — il **n’y a pas de flèche vers les Dresseurs Clés** eux-mêmes.
 - À partir de là, vous devez **utiliser les informations de votre Carte de Dresseur** pour localiser les Dresseurs Clés :
@@ -95,7 +97,7 @@ Votre modpack inclut le contenu de base de Radical Trainers **ainsi que** les s�
 3. **Team Aqua** — Apparaît dans l’Overworld.
 4. **Team Magma** — Apparaît dans le Nether.
 5. **Unova Gym Challenge** _(5/10)_\
-  Face the full roster of Unova’s Gym Leaders.
+   Face the full roster of Unova’s Gym Leaders.
 6. **Défi des Arènes de Hoenn** — Champions de Hoenn.
 7. **Défi des Arènes de Kalos** — Équipes niveau 90+ avec Méga-Évolutions.
 8. **Défi des Arènes de Paldea** — Arènes de la génération la plus récente.
@@ -108,7 +110,7 @@ Votre modpack inclut le contenu de base de Radical Trainers **ainsi que** les s�
 12. **Défi de la Ligue de Kalos** — Nécessite _Défi des Arènes de Kalos_.
 13. **Sept Sages de la Team Plasma** — Nécessite _Team Plasma_ + _Ligue d’Unys_.
 14. **Unova (B2W2) Challenge** _(6/10)_\
-  ➤ Requires: _Unova Gym Challenge & Unova League Challenge_
+    ➤ Requires: _Unova Gym Challenge & Unova League Challenge_
 15. **Neo Team Plasma** — Nécessite _Sept Sages de la Team Plasma_.
 16. **Conseil 4 & Maître de Paldea** — Nécessite _Défi des Arènes de Paldea_.
 17. **Starfall Street (Team Star)** — Nécessite _Défi des Arènes de Paldea_.

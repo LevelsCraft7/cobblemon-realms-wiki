@@ -1,6 +1,7 @@
 # 🧗 Resumen de la progresión de entrenadores
 
 En **Cobblemon Realms**, las batallas contra entrenadores no son simples encuentros aleatorios — forman parte de un **sistema de progresión estructurado** basado en **Tarjetas de Entrenador**, **Entrenadores Clave** y **Series de Entrenadores**.\
+Este sistema fomenta la **exploración**, la **planificación táctica** y un avance constante hacia desafíos cada vez más difíciles.\
 Este sistema fomenta la **exploración**, la **planificación táctica** y un avance constante hacia desafíos cada vez más difíciles.
 
 ---
@@ -32,6 +33,7 @@ Los Entrenadores Clave son los principales puntos de control de progresión — 
 ### 🧭 Comportamiento del sistema de seguimiento
 
 - **Al inicio del juego**, cuando obtienes una **Tarjeta de Entrenador** pero **no tienes ninguna serie activa**, aparecerá una **flecha holográfica**.\
+  → Esta flecha **siempre apunta hacia el NPC de la Asociación de Entrenadores** para que puedas comenzar tu primera serie.\
   → Esta flecha **siempre apunta hacia el NPC de la Asociación de Entrenadores** para que puedas comenzar tu primera serie.
 - Después de seleccionar una serie, **la flecha desaparece** — **no hay flecha hacia los Entrenadores Clave**.
 - A partir de ese momento, debes **usar la información de tu Tarjeta de Entrenador** para localizar a los Entrenadores Clave:
@@ -95,7 +97,7 @@ Tu modpack incluye todo el contenido base de Radical Trainers **más** las serie
 3. **Team Aqua** — Aparece en el Overworld.
 4. **Team Magma** — Aparece en el Nether.
 5. **Unova Gym Challenge** _(5/10)_\
-  Face the full roster of Unova’s Gym Leaders.
+   Face the full roster of Unova’s Gym Leaders.
 6. **Desafío de Gimnasios de Hoenn** — Líderes de Hoenn.
 7. **Desafío de Gimnasios de Kalos** — Equipos de nivel 90+ con Mega Evoluciones.
 8. **Desafío de Gimnasios de Paldea** — Gimnasios de la generación más reciente.
