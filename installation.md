@@ -1,104 +1,80 @@
-# Installation Guide
+# 🧰 Installation Guide
 
-This guide explains how to install Cobblemon Realms for both solo and multiplayer play.
-
-## 🖥️ Singleplayer (Client Installation)
-
-We recommend using CurseForge:
-
-1. Open the CurseForge [app](https://www.curseforge.com/download/app).
-2. Search for "[Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)".
-3. Click install and launch the modpack.
-
-> Make sure Java 21 is installed!
-
-
-## 🎮  How to Open a Minecraft Server to Play with Friends
-*For Cobblemon Realms & Our Story Modpacks*
-
-## 🖥️ OPTION 1 – Host the server on your own PC *(Free but needs a good setup)*
-
-You can use the **official Server Pack** I provide with each update of the modpack!
-
-⚠️ **Requirements:**
-- At least **8GB of free RAM** (16GB total is ideal)
-- **Java 21** (required for Cobblemon Realms!)
-- A stable internet connection
-- Basic understanding of running `.bat` files
-- Port forwarding if your friends play from outside your home network
+Welcome to **Cobblemon Realms**! This guide will help you set up your game in the best possible way—whether you’re playing solo or with friends.
 
 ---
 
-### 📦 Step-by-step Setup Guide (included in the Server Pack)
+## 🖥️ Playing in Singleplayer
 
-**🛠️ Step 1: Configure RAM (Optional, but recommended)**
-Open the file `user_jvm_args.txt` and edit the memory values:
--Xmx8G -Xms8G
+To enjoy the modpack in solo mode:
 
+1. Install the [CurseForge App](https://download.curseforge.com/).
+2. Open the app and search for "**Cobblemon Realms**" in the Minecraft section.
+3. Click **Install**, then wait for it to download.
+4. Once installed, press **Play** to launch the game with all required mods.
 
-- `Xmx` = Max RAM  
-- `Xms` = Min RAM  
-➡️ *Don’t allocate all your RAM! Leave at least 2-4GB for your system.*
-
----
-
-**📜 Step 2: First Server Launch & Accepting the EULA**  
-1. Extract the server pack `.zip` to a folder (ex: `CobblemonServer`)  
-2. Run the `run.bat` file (double-click it)  
-3. It will stop and create a file called `eula.txt`  
-4. Open it and change:  
-   `eula=false` → `eula=true`  
-5. Save and close
+💡 **Recommended settings**:
+- Allocate at least **8 GB of RAM** (via CurseForge settings).
+- Use **Java 21** for best compatibility and performance.
+- Make sure your GPU drivers and Minecraft are up to date.
 
 ---
 
-🔄 **Step 3: Launch the Server Again**
-- Run `run.bat` again  
-- The server will now fully start  
-- Wait for the world to generate  
-- You’re good to go!
+## 🎮 Hosting a Multiplayer Server
 
-🌍 You can now:
-- **Play locally** by connecting to `localhost`
-- **Invite friends** on the same Wi-Fi via your local IP
-- Or **configure port forwarding** for online friends
+Want to team up with friends or host a community server? Here’s how to do it manually.
 
+### ⚙️ Minimum Requirements
+
+| Requirement       | Recommended Value                     |
+|-------------------|----------------------------------------|
+| RAM               | 8 GB free (16 GB total recommended)    |
+| Java Version      | Java 21 (essential for mod compatibility) |
+| Internet          | Stable connection                      |
+| Knowledge         | Able to run `.bat` or `.sh` scripts, port forwarding (optional for LAN) |
+
+### 🔧 Setup Steps
+
+1. Go to the modpack’s [CurseForge page](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms).
+2. Download the **Server Pack** from the **Files** section.
+3. Extract the ZIP to an empty folder.
+4. Ensure you have **Java 21** installed and set as default.
+5. Launch the server:
+   - On **Windows**: double-click `run.bat`.
+   - On **Mac/Linux**: use the `run.sh` script.
+6. Once the server finishes loading, connect via **localhost** or share your IP with friends.
+
+📌 **Don't forget**:
+- Change `eula.txt` to `eula=true` if launching for the first time.
+- Adjust `server.properties` to your liking.
+- Always **backup your world** before making large changes or updates.
+
+🔧 **Troubleshooting**:
+- If the server crashes, check that you’re using **Java 21** and have enough RAM.
+- Consult our [FAQ page](../faq.md) for more help.
 
 ---
 
-## 🌐 OPTION 2 – Use a Game Server Host (Recommended)
+## 🎁 Quick & Easy Hosting: BisectHosting
 
-If you don’t want to deal with technical setup, I recommend using a hosting service!
+Don’t want the hassle of manual setup or port forwarding?  
+Use our **official partner**: [**BisectHosting**](https://bisecthosting.com/CobblemonRealms)
 
-🟢 I'm partnered with **Bisect Hosting**, and you can install **Cobblemon Realms in 1 click** via their panel.
+🟢 One-click Cobblemon Realms server setup  
+🟢 Great performance and global support  
+🟢 Automatic backups, DDoS protection, modpack updates
 
-✅ **What you get:**
-- Java 21 ready  
-- Modpack pre-installed  
-- Server always online  
-- Easy management panel  
-- Better connection for players across the world
+🎉 Use promo code `REALMS` to get **25% OFF** your first month!
 
 ---
 
-🎁 **SPECIAL OFFER**
+## ❗️Important Notes
 
-Get **25% off** for your first server with the code:  
-🧡 `OurStory`
+- CurseForge appends your JVM flags to its own defaults. Be sure to use the **latest Java version (21)** and tweak your settings for optimal performance.
+- If you're playing on lower-end hardware, see our [performance tips](../faq.md#performance).
+- I don't provide direct help with home hosting, but you’ll find many guides and tutorials online.
 
-**👉 Affiliate Link:**
-https://bisecthosting.com/ourstory
+---
 
-This supports the project and helps me keep developing new updates :heart:
-
-
-📬 **Need Help?**
-Ask in the support or modpack discussion channels!  
-I may not reply instantly, but the community is here too :speech_balloon:
-
-
-
-🔥 Have fun with your friends and enjoy your Pokémon journey together on **Cobblemon Realms**!
-Let’s make it an unforgettable adventure! 🧭✨
-
-:electric_plug: *I don’t offer direct support for home hosting/port forwarding — but many tutorials exist online!*
+🔥 Enjoy your Pokémon journey — alone or with friends — in **Cobblemon Realms**!  
+Explore, catch, build, and become the ultimate trainer! 🧭✨
