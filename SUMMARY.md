@@ -16,6 +16,7 @@
 * [Pokémon and Spawns](pokemon-and-spawns.md)
   * [Level Cap and Trainers](pokemons-guides/levelcap-and-trainers.md)
   * [Wild Boost Mechanics](pokemons-guides/wild-boost-mechanics.md)
+  * [Pokemon Workers Guide](pokemons-guides/cobbleworkers-guide.md)
 * [Multiplayer Servers](multiplayer-servers.md)
 * [Quests](quests.md)
 
