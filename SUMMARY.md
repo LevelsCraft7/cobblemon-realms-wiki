@@ -37,6 +37,7 @@
 * [Additional Eevee Evolutions](pokemons-exclusives/extra-eevee.md)
 * [Rotom Appliance Forms](pokemons-exclusives/rotom-forms.md)
 * [Furfrou Trims](pokemons-exclusives/furfrou-trims.md)
+* [Therian Forms](pokemons-exclusives/therian-forms.md)
 
 ## 🧩 Mod Guides
 
