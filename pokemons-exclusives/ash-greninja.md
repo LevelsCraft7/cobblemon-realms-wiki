@@ -35,7 +35,7 @@ Use a **Smithing Table** with:
 - 💧 **Water Gem**  
 - 💠 **Mega Stone Crystal**
 
-![568d300840db869d50073313c786e2a13ded2386](https://github.com/user-attachments/assets/2ae3b855-aed0-4cf5-94f1-96237130b0bf)
+![](https://github.com/user-attachments/assets/2ae3b855-aed0-4cf5-94f1-96237130b0bf)
 
 
 ---
