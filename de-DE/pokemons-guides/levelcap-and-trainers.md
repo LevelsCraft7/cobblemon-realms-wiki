@@ -2,6 +2,7 @@
 
 In **Cobblemon Realms** sind Trainerkämpfe nicht nur zufällige Begegnungen — sie sind Teil eines **strukturierten Fortschrittssystems**, das auf **Trainerkarten**, **Schlüsseltrainern** und **Trainer-Serien** basiert.\
 Dieses System fördert **Erkundung**, **taktische Planung** und einen stetigen Aufstieg zu immer schwierigeren Herausforderungen.\
+Dieses System fördert **Erkundung**, **taktische Planung** und einen stetigen Aufstieg zu immer schwierigeren Herausforderungen.\
 Dieses System fördert **Erkundung**, **taktische Planung** und einen stetigen Aufstieg zu immer schwierigeren Herausforderungen.
 
 ---
@@ -33,6 +34,7 @@ Schlüsseltrainer sind die wichtigsten Fortschrittspunkte — wenn du sie besieg
 ### 🧭 Verhalten des Trackingsystems
 
 - **Zu Beginn des Spiels**, wenn du eine **Trainerkarte** erhalten hast, aber **keine aktive Trainerserie**, erscheint ein **holografischer Pfeil**.\
+  → Dieser Pfeil **zeigt immer auf den NPC der Trainer-Vereinigung**, damit du deine erste Serie starten kannst.\
   → Dieser Pfeil **zeigt immer auf den NPC der Trainer-Vereinigung**, damit du deine erste Serie starten kannst.\
   → Dieser Pfeil **zeigt immer auf den NPC der Trainer-Vereinigung**, damit du deine erste Serie starten kannst.
 - Nachdem du eine Serie ausgewählt hast, **verschwindet der Pfeil** — es gibt **keinen Pfeil zu den Schlüsseltrainern** selbst.
