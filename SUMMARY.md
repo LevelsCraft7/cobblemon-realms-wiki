@@ -17,7 +17,7 @@
   * [Level Cap and Trainers](pokemons-guides/levelcap-and-trainers.md)
   * [Wild Boost Mechanics](pokemons-guides/wild-boost-mechanics.md)
   * [Pokemon Workers Guide](pokemons-guides/cobbleworkers-guide.md)
-  * [Biome Tags Reference](pokemon-guides/biome-tags-reference.md)
+  * [Biome Tags Reference](pokemons-guides/biome-tags-reference.md)
 * [Multiplayer Servers](multiplayer-servers.md)
 
 ## 🗿 Myths & Legends
