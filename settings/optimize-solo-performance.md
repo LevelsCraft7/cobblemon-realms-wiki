@@ -6,9 +6,7 @@ If you experience **rollbacks, freezes, or poor performance** when playing Cobbl
 
 ## 💡 Recommended JVM Arguments
 
--Xms8G -Xmx10G -XX:+UnlockExperimentalVMOptions -XX:+UseZGC -XX:+ZGenerational
--XX:+AlwaysPreTouch -XX:+DisableExplicitGC -Djava.awt.headless=true
--XX:+UseCompressedOops -Dfile.encoding=UTF-8
+-Xms8G -Xmx10G -XX:+UnlockExperimentalVMOptions -XX:+UseZGC -XX:+ZGenerational -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -Djava.awt.headless=true -XX:+UseCompressedOops -Dfile.encoding=UTF-8
 
 
 These values are designed for **Java 21** and use **ZGC with Generational GC**, an advanced garbage collector built for low latency.  
@@ -26,7 +24,7 @@ They help:
 3. Go to **Game Specific → Minecraft**.
 4. Scroll to **Java Settings**.
 5. **Disable** “Use System Memory Settings”.
-6. Set the **Memory slider** to at least **8–10 GB**.
+6. Set the **Memory slider** to at least **8–10 GB** max !
 7. In **Additional Java Arguments**, paste the flags exactly as shown above (separated by spaces).
 8. Save and **restart the modpack**.
 
