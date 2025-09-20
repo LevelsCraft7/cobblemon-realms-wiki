@@ -16,8 +16,9 @@
 - [Pokémon et Apparitions](pokemon-and-spawns.md)
   - [Cap de Niveau et Dresseurs](pokemons-guides/levelcap-and-trainers.md)
   - [Mécaniques d’Amélioration des Apparitions](pokemons-guides/wild-boost-mechanics.md)
+  - [Pokemon Workers Guide](pokemons-guides/cobbleworkers-guide.md)
+  - [Biome Tags Reference](pokemons-guides/biome-tags-reference.md)
 - [Serveurs Multijoueurs](multiplayer-servers.md)
-- [Quêtes](quests.md)
 
 ## 🗿 Myths & Legends
 
@@ -30,11 +31,13 @@
 - [Fusions de Necrozma](pokemons-exclusives/necrozma-fusions.md)
 - [Ursaluna Pleine Lune (Bloodmoon)](pokemons-exclusives/bloodmoon-ursaluna.md)
 - [Onix de Cristal](pokemons-exclusives/crystal-onix.md)
-- [Évolutions de Kubfu](pokemons-exclusives/kubfu-evolutions.md)
+- [Onix de Cristal](pokemons-exclusives/crystal-onix.md)
 - [Forme Chargée de Meltan](pokemons-exclusives/meltan-charged.md)
 - [Évolutions supplémentaires d’Évoli](pokemons-exclusives/extra-eevee.md)
 - [Formes Appareil de Rotom](pokemons-exclusives/rotom-forms.md)
 - [Coupe de Furfrou](pokemons-exclusives/furfrou-trims.md)
+- [Évolutions de Kubfu](pokemons-exclusives/kubfu-evolutions.md)
+- [Therian Forms](pokemons-exclusives/therian-forms.md)
 
 ## 🧩 Guides des Mods
 

@@ -2,6 +2,7 @@
 
 Dans **Cobblemon Realms**, les combats contre des dresseurs ne sont pas de simples rencontres aléatoires — ils font partie d’un **système de progression structuré** basé sur les **Cartes de Dresseur**, les **Dresseurs Clés** et les **Séries de Dresseurs**.\
 Ce système encourage **l’exploration**, la **planification tactique** et une progression régulière vers des défis de plus en plus difficiles.\
+Ce système encourage **l’exploration**, la **planification tactique** et une progression régulière vers des défis de plus en plus difficiles.\
 Ce système encourage **l’exploration**, la **planification tactique** et une progression régulière vers des défis de plus en plus difficiles.
 
 ---

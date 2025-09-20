@@ -9,6 +9,8 @@ notamment pendant les sessions à forte activité ou d’exploration intense.\\
 En générant les chunks à l’avance, votre serveur rencontrera moins de ralentissements,
 notamment pendant les sessions à forte activité ou d’exploration intense.\
 En générant les chunks à l’avance, votre serveur rencontrera moins de ralentissements,
+notamment pendant les sessions à forte activité ou d’exploration intense.\
+En générant les chunks à l’avance, votre serveur rencontrera moins de ralentissements,
 notamment pendant les sessions à forte activité ou d’exploration intense.
 
 ## Fonctionnalités :
@@ -49,6 +51,9 @@ le serveur n’a pas à générer les chunks à la volée.
    Cette commande pré-génère tous les chunks dans un rayon de détérminés de blocs juste avant.\\
    Exemple :\
    `/chunky start`\
+   Cette commande pré-génère tous les chunks dans un rayon de détérminés de blocs juste avant.\\
+   Exemple :\
+   `/chunky start`\
    Cette commande pré-génère tous les chunks dans un rayon de détérminés de blocs juste avant.\
 
 2. **Vérifier l’état :**\
@@ -75,6 +80,7 @@ le serveur n’a pas à générer les chunks à la volée.
 - Utilisez régulièrement la commande `/chunky status` pour surveiller la progression et éviter la surcharge du serveur.
 - Si possible, automatisez le processus au démarrage du serveur avec un script contenant la commande `/chunky start`.\
   Cela peut se faire via un script de démarrage ou un plugin serveur supportant l’automatisation.\\
+  Cela peut se faire via un script de démarrage ou un plugin serveur supportant l’automatisation.\
   Cela peut se faire via un script de démarrage ou un plugin serveur supportant l’automatisation.\
   Cela peut se faire via un script de démarrage ou un plugin serveur supportant l’automatisation.
 
