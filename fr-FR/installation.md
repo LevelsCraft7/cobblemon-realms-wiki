@@ -64,7 +64,7 @@ Want to team up with friends or host a community server? Here’s how to do it m
 ## 🎁 Quick & Easy Hosting: BisectHosting
 
 Don’t want the hassle of manual setup or port forwarding?\
-Use our **official partner**: [**BisectHosting**](https://bisecthosting.com/CobblemonRealms)
+🟢 Je suis partenaire avec **Bisect Hosting**, et vous pouvez installer **Cobblemon Realms en un clic** via leur panneau.
 
 🟢 One-click Cobblemon Realms server setup\
 🟢 Great performance and global support\
@@ -83,4 +83,5 @@ Use our **official partner**: [**BisectHosting**](https://bisecthosting.com/Cobb
 ---
 
 🔥 Amusez-vous entre amis et profitez de votre aventure Pokémon sur **Cobblemon Realms** !\
+Explore, catch, build, and become the ultimate trainer!\
 Explore, catch, build, and become the ultimate trainer! 🧭✨

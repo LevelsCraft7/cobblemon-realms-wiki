@@ -7,6 +7,7 @@ Si vous souhaitez désactiver complètement cette restriction, il suffit de reti
 Si vous souhaitez désactiver complètement cette restriction, il suffit de retirer ce mod.\
 Si vous souhaitez désactiver complètement cette restriction, il suffit de retirer ce mod.\
 Si vous souhaitez désactiver complètement cette restriction, il suffit de retirer ce mod.\
+Si vous souhaitez désactiver complètement cette restriction, il suffit de retirer ce mod.\
 Si vous souhaitez désactiver complètement cette restriction, il suffit de retirer ce mod.
 
 ## 🔧 Étapes

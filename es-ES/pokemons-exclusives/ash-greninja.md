@@ -1,6 +1,7 @@
 # 🌊 Ash Greninja (Battle Bond Form)
 
 Ash Greninja is a special alternate form of Greninja, recognizable by the **dark pattern on its head**.\
+Unlike normal evolutions, this form requires a mix of **friendship**, a **special cap item**, and the **Water Shuriken**.\
 Unlike normal evolutions, this form requires a mix of **friendship**, a **special cap item**, and the **Water Shuriken**.
 
 ---
@@ -8,6 +9,7 @@ Unlike normal evolutions, this form requires a mix of **friendship**, a **specia
 ## 🧑‍🤝‍🧑 Step 1 — Build Friendship
 
 Before unlocking the form, you must raise Greninja’s **friendship level** with its trainer.\
+Make sure to battle together, walk, and avoid fainting to increase its bond.\
 Make sure to battle together, walk, and avoid fainting to increase its bond.
 
 ---
@@ -18,6 +20,7 @@ Once Greninja’s friendship is high enough, use the item:
 
 - **Ash Cap** (`mega_showdown:ash_cap`)
 
+➡️ Right-click Greninja while holding the Ash Cap.\
 ➡️ Right-click Greninja while holding the Ash Cap.\
 This unlocks the **Battle Bond ability**, preparing Greninja for its transformation.
 

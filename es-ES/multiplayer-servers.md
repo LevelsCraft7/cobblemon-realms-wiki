@@ -28,6 +28,7 @@ Want full control? Hosting your own server is a great option for small groups or
 ## 🚀 Quick Hosting with BisectHosting
 
 No setup headaches — just play!\
+No setup headaches — just play!\
 **[BisectHosting](https://bisecthosting.com/CobblemonRealms)** is our official partner.
 
 - One-click Cobblemon Realms setup

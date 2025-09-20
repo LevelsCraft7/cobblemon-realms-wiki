@@ -3,6 +3,7 @@
 En **Cobblemon Realms**, las batallas contra entrenadores no son simples encuentros aleatorios — forman parte de un **sistema de progresión estructurado** basado en **Tarjetas de Entrenador**, **Entrenadores Clave** y **Series de Entrenadores**.\
 Este sistema fomenta la **exploración**, la **planificación táctica** y un avance constante hacia desafíos cada vez más difíciles.\
 Este sistema fomenta la **exploración**, la **planificación táctica** y un avance constante hacia desafíos cada vez más difíciles.\
+Este sistema fomenta la **exploración**, la **planificación táctica** y un avance constante hacia desafíos cada vez más difíciles.\
 Este sistema fomenta la **exploración**, la **planificación táctica** y un avance constante hacia desafíos cada vez más difíciles.
 
 ---
@@ -34,6 +35,9 @@ Los Entrenadores Clave son los principales puntos de control de progresión — 
 ### 🧭 Comportamiento del sistema de seguimiento
 
 - **Al inicio del juego**, cuando obtienes una **Tarjeta de Entrenador** pero **no tienes ninguna serie activa**, aparecerá una **flecha holográfica**.\
+  → Esta flecha **siempre apunta hacia el NPC de la Asociación de Entrenadores** para que puedas comenzar tu primera serie.\
+  → Esta flecha **siempre apunta hacia el NPC de la Asociación de Entrenadores** para que puedas comenzar tu primera serie.\
+  **Al inicio del juego**, cuando obtienes una **Tarjeta de Entrenador** pero **no tienes ninguna serie activa**, aparecerá una **flecha holográfica**.\
   → Esta flecha **siempre apunta hacia el NPC de la Asociación de Entrenadores** para que puedas comenzar tu primera serie.\
   → Esta flecha **siempre apunta hacia el NPC de la Asociación de Entrenadores** para que puedas comenzar tu primera serie.\
   → Esta flecha **siempre apunta hacia el NPC de la Asociación de Entrenadores** para que puedas comenzar tu primera serie.
