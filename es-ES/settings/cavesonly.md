@@ -8,6 +8,7 @@ If you want to completely disable hostile mob restrictions, simply remove this m
 If you want to completely disable hostile mob restrictions, simply remove this mod.\
 If you want to completely disable hostile mob restrictions, simply remove this mod.\
 If you want to completely disable hostile mob restrictions, simply remove this mod.\
+If you want to completely disable hostile mob restrictions, simply remove this mod.  
 If you want to completely disable hostile mob restrictions, simply remove this mod.
 
 ## 🔧 Steps

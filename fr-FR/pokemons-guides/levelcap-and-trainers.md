@@ -2,7 +2,7 @@
 
 Dans **Cobblemon Realms**, les combats contre des dresseurs ne sont pas de simples rencontres aléatoires — ils font partie d’un **système de progression structuré** basé sur les **Cartes de Dresseur**, les **Dresseurs Clés** et les **Séries de Dresseurs**.\
 Ce système encourage **l’exploration**, la **planification tactique** et une progression régulière vers des défis de plus en plus difficiles.\
-Ce système encourage **l’exploration**, la **planification tactique** et une progression régulière vers des défis de plus en plus difficiles.\
+Ce système encourage **l’exploration**, la **planification tactique** et une progression régulière vers des défis de plus en plus difficiles.  
 Ce système encourage **l’exploration**, la **planification tactique** et une progression régulière vers des défis de plus en plus difficiles.
 
 ---
@@ -34,7 +34,7 @@ Les Dresseurs Clés sont les points de progression principaux — les vaincre au
 ### 🧭 Fonctionnement du suivi
 
 - **Au début du jeu**, lorsque vous obtenez une **Carte de Dresseur** mais que **vous n’avez aucune série de dresseurs active**, une **flèche holographique** apparaît.\
-  → Cette flèche **pointe toujours vers le PNJ de l’Association des Dresseurs** pour que vous puissiez commencer votre première série.\
+  → Cette flèche **pointe toujours vers le PNJ de l’Association des Dresseurs** pour que vous puissiez commencer votre première série.  
   → Cette flèche **pointe toujours vers le PNJ de l’Association des Dresseurs** pour que vous puissiez commencer votre première série.
 - Après avoir choisi une série, **la flèche disparaît** — il **n’y a pas de flèche vers les Dresseurs Clés** eux-mêmes.
 - À partir de là, vous devez **utiliser les informations de votre Carte de Dresseur** pour localiser les Dresseurs Clés :
