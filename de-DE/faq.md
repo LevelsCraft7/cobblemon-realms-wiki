@@ -10,6 +10,7 @@
 - On solo, apply our **recommended JVM flags** for better stability.\
   ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)\
   ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)  
+  ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)  
   ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)
 
 ---
