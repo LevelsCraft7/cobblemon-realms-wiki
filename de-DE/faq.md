@@ -9,6 +9,7 @@
 - Avoid having other heavy applications open while launching the game.
 - On solo, apply our **recommended JVM flags** for better stability.\
   ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)\
+  ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)  
   ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)
 
 ---
@@ -42,7 +43,8 @@
 
 ## ❓ "Can I use aternos/minehut/free hosts?"
 
-- ❌ Not recommended.\
+- ❌ Not recommended.  
+  ❌ Not recommended.\
   ❌ Not recommended.\
   These platforms **lack power and customization** for large modpacks.
 - Yes: **Java 21** and **enough RAM** (at least 6-8GB allocated to the server).

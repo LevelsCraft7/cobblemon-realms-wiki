@@ -25,6 +25,8 @@ insbesondere während intensiver Spielsitzungen oder bei intensiver Erkundung.\
 Durch das Vorab-Generieren von Chunks wird dein Server weniger Verzögerungen erfahren,\
 insbesondere während intensiver Spielsitzungen oder bei intensiver Erkundung.\
 Durch das Vorab-Generieren von Chunks wird dein Server weniger Verzögerungen erfahren,\
+insbesondere während intensiver Spielsitzungen oder bei intensiver Erkundung.  
+Durch das Vorab-Generieren von Chunks wird dein Server weniger Verzögerungen erfahren,  
 insbesondere während intensiver Spielsitzungen oder bei intensiver Erkundung.
 
 ## Funktionen
@@ -41,7 +43,7 @@ Chunky generiert Terrain in Chunks, bevor Spieler diese Bereiche besuchen.\
 Chunky generiert Terrain in Chunks, bevor Spieler diese Bereiche besuchen.\
 Dieser Prozess schafft eine "vorab generierte" Welt, in der Terrain, Strukturen und Ressourcen\
 bereits geladen sind, was bedeutet, dass der Server keine Chunks in Echtzeit generieren muss,\
-wenn Spieler neue Zonen betreten.\
+wenn Spieler neue Zonen betreten.  
 Chunky generiert Terrain in Chunks, bevor Spieler diese Bereiche besuchen.\
 Chunky generiert Terrain in Chunks, bevor Spieler diese Bereiche besuchen.\
 Dieser Prozess schafft eine "vorab generierte" Welt, in der Terrain, Strukturen und Ressourcen\
@@ -86,6 +88,9 @@ wenn Spieler neue Zonen betreten.
    Dieser Befehl startet die Generierung aller Chunks innerhalb des zuvor festgelegten Radius.\
    Beispiel:\
    `/chunky start`\
+   Dieser Befehl startet die Generierung aller Chunks innerhalb des zuvor festgelegten Radius.  
+   Beispiel:  
+   `/chunky start`  
    Dieser Befehl startet die Generierung aller Chunks innerhalb des zuvor festgelegten Radius.
 
 2. **Status prüfen:**\
@@ -121,6 +126,7 @@ wenn Spieler neue Zonen betreten.
   Dies kann über ein Startskript oder ein Server-Plugin erfolgen, das Automatisierung unterstützt.\
   Dies kann über ein Startskript oder ein Server-Plugin erfolgen, das Automatisierung unterstützt.\
   Dies kann über ein Startskript oder ein Server-Plugin erfolgen, das Automatisierung unterstützt.\
+  Dies kann über ein Startskript oder ein Server-Plugin erfolgen, das Automatisierung unterstützt.  
   Dies kann über ein Startskript oder ein Server-Plugin erfolgen, das Automatisierung unterstützt.
 
 ## Zusätzliche Ressourcen
@@ -134,5 +140,5 @@ wenn Spieler neue Zonen betreten.
 Die effektive Nutzung von Chunky Pregenerator kann die Leistung deines Servers erheblich verbessern,\
 indem sie Lag während der Erkundung reduziert. Experimentiere mit verschiedenen Radien und Einstellungen,\
 um das richtige Gleichgewicht für deine Welt zu finden.\
-Genieße ein flüssigeres Spielerlebnis und einen stabileren Server!\
+Genieße ein flüssigeres Spielerlebnis und einen stabileren Server!  
 Genieße ein flüssigeres Spielerlebnis und einen stabileren Server!
