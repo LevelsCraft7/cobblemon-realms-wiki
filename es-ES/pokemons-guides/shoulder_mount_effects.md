@@ -1,4 +1,4 @@
-# Efectos de Hombro de los Pokémon
+# Efectos de Hombro de los Pokémon (5.0)
 
 Esta página muestra **todos los Pokémon que otorgan efectos cuando están en tu hombro** en el modpack Cobblemon Realms.
 
