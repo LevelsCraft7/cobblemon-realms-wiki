@@ -62,6 +62,9 @@ le serveur n’a pas à générer les chunks à la volée.
    Cette commande pré-génère tous les chunks dans un rayon de détérminés de blocs juste avant.\  
    Exemple :\
    `/chunky start`\
+   Cette commande pré-génère tous les chunks dans un rayon de détérminés de blocs juste avant.\  
+   Exemple :\
+   `/chunky start`\
    Cette commande pré-génère tous les chunks dans un rayon de détérminés de blocs juste avant.\
 
 2. **Vérifier l’état :**\

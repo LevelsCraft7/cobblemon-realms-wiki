@@ -17,6 +17,7 @@
   - [Cap de Niveau et Dresseurs](pokemons-guides/levelcap-and-trainers.md)
   - [Mécaniques d’Amélioration des Apparitions](pokemons-guides/wild-boost-mechanics.md)
   - [Pokemon Workers Guide](pokemons-guides/cobbleworkers-guide.md)
+  - [Pokemon Shoulder Mount](pokemons-guides/shoulder_mount_effects.md)
   - [Biome Tags Reference](pokemons-guides/biome-tags-reference.md)
 - [Serveurs Multijoueurs](multiplayer-servers.md)
 
