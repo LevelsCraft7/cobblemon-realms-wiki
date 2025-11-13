@@ -1,16 +1,16 @@
-# Shoulder Mount Effects (v5.0)
+# Effets des Pokémon sur l’Épaule
 
-This page lists **all Pokémon that grant effects while sitting on your shoulder** in the Cobblemon Realms modpack.
+Cette page répertorie **tous les Pokémon qui appliquent des effets lorsque vous les portez sur votre épaule** dans le modpack Cobblemon Realms.
 
-When a Pokémon is placed on your shoulder, it can apply **continuous potion effects** to your character.  
-These effects are defined via datapack JSON files in the `shoulder_mount_effects` directory.
+Lorsqu’un Pokémon est placé sur votre épaule, il peut appliquer des **effets de potion continus** à votre personnage.
+Ces effets sont définis via les fichiers JSON du datapack dans le dossier `shoulder_mount_Effets`.
 
-- Effects are applied **as long as the Pokémon stays on your shoulder**.
-- If multiple effects are listed, they are all active at the same time.
-- The **amplifier** roughly corresponds to the vanilla potion level (0 = level I, 1 = level II, etc.).
-- Some effects have been intentionally **nerfed or removed** for balance reasons (for example, Levitation has been fully removed to avoid softlocks).
+- Les effets sont actifs **tant que le Pokémon reste sur votre épaule**.
+- Si plusieurs effets existent, ils s’appliquent simultanément.
+- L’**amplificateur** correspond au niveau de l’effet (0 = niveau I, 1 = niveau II, etc.).
+- Certains effets ont été **nerfés ou supprimés** pour des raisons d’équilibrage.
 
-Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
+Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alphabétique.
 
 ---
 
@@ -18,11 +18,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Alcremie](https://play.pokemonshowdown.com/sprites/ani/alcremie.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect       | Amplifier |
-| ------------ | --------- |
-| `saturation` | `1`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `saturation` | `1` |
 
 ---
 
@@ -30,11 +30,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Anorith](https://play.pokemonshowdown.com/sprites/ani/anorith.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect          | Amplifier |
-| --------------- | --------- |
-| `conduit_power` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `conduit_power` | `0` |
 
 ---
 
@@ -42,12 +42,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Archen](https://play.pokemonshowdown.com/sprites/ani/archen.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `slow_falling` | `0`       |
-| `resistance`   | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `slow_falling` | `0` |
+| `resistance` | `0` |
 
 ---
 
@@ -55,12 +55,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Beldum](https://play.pokemonshowdown.com/sprites/ani/beldum.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect       | Amplifier |
-| ------------ | --------- |
-| `resistance` | `1`       |
-| `slowness`   | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `resistance` | `1` |
+| `slowness` | `0` |
 
 ---
 
@@ -68,11 +68,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Bellossom](https://play.pokemonshowdown.com/sprites/ani/bellossom.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `regeneration` | `1`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `regeneration` | `1` |
 
 ---
 
@@ -80,11 +80,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Budew](https://play.pokemonshowdown.com/sprites/ani/budew.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `regeneration` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `regeneration` | `0` |
 
 ---
 
@@ -92,12 +92,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Bulbasaur](https://play.pokemonshowdown.com/sprites/ani/bulbasaur.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `regeneration` | `0`       |
-| `health_boost` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `regeneration` | `0` |
+| `health_boost` | `0` |
 
 ---
 
@@ -105,11 +105,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Caterpie](https://play.pokemonshowdown.com/sprites/ani/caterpie.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect    | Amplifier |
-| --------- | --------- |
-| `weaving` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `weaving` | `0` |
 
 ---
 
@@ -117,12 +117,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Charcadet](https://play.pokemonshowdown.com/sprites/ani/charcadet.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `fire_resistance` | `0`       |
-| `strength`        | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `fire_resistance` | `0` |
+| `strength` | `0` |
 
 ---
 
@@ -130,12 +130,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Charmander](https://play.pokemonshowdown.com/sprites/ani/charmander.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `fire_resistance` | `0`       |
-| `night_vision`    | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `fire_resistance` | `0` |
+| `night_vision` | `0` |
 
 ---
 
@@ -143,11 +143,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Chatot](https://play.pokemonshowdown.com/sprites/ani/chatot.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `slow_falling` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `slow_falling` | `0` |
 
 ---
 
@@ -155,13 +155,13 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Chikorita](https://play.pokemonshowdown.com/sprites/ani/chikorita.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `regeneration` | `0`       |
-| `health_boost` | `0`       |
-| `weakness`     | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `regeneration` | `0` |
+| `health_boost` | `0` |
+| `weakness` | `0` |
 
 ---
 
@@ -169,12 +169,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Chimchar](https://play.pokemonshowdown.com/sprites/ani/chimchar.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `fire_resistance` | `0`       |
-| `speed`           | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `fire_resistance` | `0` |
+| `speed` | `0` |
 
 ---
 
@@ -182,11 +182,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Chingling](https://play.pokemonshowdown.com/sprites/ani/chingling.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect | Amplifier |
-| ------ | --------- |
-| `luck` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `luck` | `0` |
 
 ---
 
@@ -194,11 +194,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Cleffa](https://play.pokemonshowdown.com/sprites/ani/cleffa.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect | Amplifier |
-| ------ | --------- |
-| `luck` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `luck` | `0` |
 
 ---
 
@@ -206,12 +206,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Combee](https://play.pokemonshowdown.com/sprites/ani/combee.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `slow_falling` | `0`       |
-| `oozing`       | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `slow_falling` | `0` |
+| `oozing` | `0` |
 
 ---
 
@@ -219,11 +219,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Comfey](https://play.pokemonshowdown.com/sprites/ani/comfey.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `regeneration` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `regeneration` | `0` |
 
 ---
 
@@ -231,12 +231,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Cutiefly](https://play.pokemonshowdown.com/sprites/ani/cutiefly.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `slow_falling` | `0`       |
-| `slowness`     | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `slow_falling` | `0` |
+| `slowness` | `0` |
 
 ---
 
@@ -244,12 +244,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Cyndaquil](https://play.pokemonshowdown.com/sprites/ani/cyndaquil.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `fire_resistance` | `0`       |
-| `strength`        | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `fire_resistance` | `0` |
+| `strength` | `0` |
 
 ---
 
@@ -257,12 +257,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Dreepy](https://play.pokemonshowdown.com/sprites/ani/dreepy.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `speed`        | `0`       |
-| `invisibility` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `speed` | `0` |
+| `invisibility` | `0` |
 
 ---
 
@@ -270,12 +270,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Eevee](https://play.pokemonshowdown.com/sprites/ani/eevee.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect                | Amplifier |
-| --------------------- | --------- |
-| `luck`                | `0`       |
-| `hero_of_the_village` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `luck` | `0` |
+| `hero_of_the_village` | `0` |
 
 ---
 
@@ -283,11 +283,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Elgyem](https://play.pokemonshowdown.com/sprites/ani/elgyem.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect       | Amplifier |
-| ------------ | --------- |
-| `levitation` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `levitation` | `0` |
 
 ---
 
@@ -295,12 +295,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Fennekin](https://play.pokemonshowdown.com/sprites/ani/fennekin.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `fire_resistance` | `0`       |
-| `speed`           | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `fire_resistance` | `0` |
+| `speed` | `0` |
 
 ---
 
@@ -308,11 +308,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Flabebe](https://play.pokemonshowdown.com/sprites/ani/flabebe.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `regeneration` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `regeneration` | `0` |
 
 ---
 
@@ -320,11 +320,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Fletchling](https://play.pokemonshowdown.com/sprites/ani/fletchling.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `slow_falling` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `slow_falling` | `0` |
 
 ---
 
@@ -332,12 +332,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Flittle](https://play.pokemonshowdown.com/sprites/ani/flittle.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect           | Amplifier |
-| ---------------- | --------- |
-| `speed`          | `1`       |
-| `mining_fatigue` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `speed` | `1` |
+| `mining_fatigue` | `0` |
 
 ---
 
@@ -345,11 +345,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Fomantis](https://play.pokemonshowdown.com/sprites/ani/fomantis.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect     | Amplifier |
-| ---------- | --------- |
-| `strength` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `strength` | `0` |
 
 ---
 
@@ -357,12 +357,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Froakie](https://play.pokemonshowdown.com/sprites/ani/froakie.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `water_breathing` | `0`       |
-| `strength`        | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `water_breathing` | `0` |
+| `strength` | `0` |
 
 ---
 
@@ -370,12 +370,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Gimmighoul](https://play.pokemonshowdown.com/sprites/ani/gimmighoul.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect       | Amplifier |
-| ------------ | --------- |
-| `luck`       | `0`       |
-| `resistance` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `luck` | `0` |
+| `resistance` | `0` |
 
 ---
 
@@ -383,11 +383,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Glimmet](https://play.pokemonshowdown.com/sprites/ani/glimmet.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect       | Amplifier |
-| ------------ | --------- |
-| `levitation` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `levitation` | `0` |
 
 ---
 
@@ -395,11 +395,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Igglybuff](https://play.pokemonshowdown.com/sprites/ani/igglybuff.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `slow_falling` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `slow_falling` | `0` |
 
 ---
 
@@ -407,12 +407,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Joltik](https://play.pokemonshowdown.com/sprites/ani/joltik.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect    | Amplifier |
-| --------- | --------- |
-| `haste`   | `0`       |
-| `weaving` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `haste` | `0` |
+| `weaving` | `0` |
 
 ---
 
@@ -420,11 +420,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Kricketot](https://play.pokemonshowdown.com/sprites/ani/kricketot.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect     | Amplifier |
-| ---------- | --------- |
-| `infested` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `infested` | `0` |
 
 ---
 
@@ -432,12 +432,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Larvitar](https://play.pokemonshowdown.com/sprites/ani/larvitar.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect     | Amplifier |
-| ---------- | --------- |
-| `strength` | `1`       |
-| `slowness` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `strength` | `1` |
+| `slowness` | `0` |
 
 ---
 
@@ -445,12 +445,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Litten](https://play.pokemonshowdown.com/sprites/ani/litten.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `fire_resistance` | `0`       |
-| `speed`           | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `fire_resistance` | `0` |
+| `speed` | `0` |
 
 ---
 
@@ -458,11 +458,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Litwick](https://play.pokemonshowdown.com/sprites/ani/litwick.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `night_vision` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `night_vision` | `0` |
 
 ---
 
@@ -470,16 +470,16 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Lucario](https://play.pokemonshowdown.com/sprites/ani/lucario.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect       | Amplifier |
-| ------------ | --------- |
-| `glowing`    | `0`       |
-| `speed`      | `1`       |
-| `strength`   | `1`       |
-| `jump_boost` | `0`       |
-| `resistance` | `0`       |
-| `hunger`     | `1`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `glowing` | `0` |
+| `speed` | `1` |
+| `strength` | `1` |
+| `jump_boost` | `0` |
+| `resistance` | `0` |
+| `hunger` | `1` |
 
 ---
 
@@ -487,17 +487,17 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Lucario Party](https://play.pokemonshowdown.com/sprites/ani/lucario_party.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect       | Amplifier |
-| ------------ | --------- |
-| `glowing`    | `0`       |
-| `speed`      | `1`       |
-| `strength`   | `1`       |
-| `jump_boost` | `1`       |
-| `resistance` | `1`       |
-| `absorption` | `1`       |
-| `hunger`     | `2`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `glowing` | `0` |
+| `speed` | `1` |
+| `strength` | `1` |
+| `jump_boost` | `1` |
+| `resistance` | `1` |
+| `absorption` | `1` |
+| `hunger` | `2` |
 
 ---
 
@@ -505,11 +505,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Meowth](https://play.pokemonshowdown.com/sprites/ani/meowth.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect | Amplifier |
-| ------ | --------- |
-| `luck` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `luck` | `0` |
 
 ---
 
@@ -517,14 +517,14 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Mew](https://play.pokemonshowdown.com/sprites/ani/mew.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `absorption`   | `4`       |
-| `regeneration` | `2`       |
-| `glowing`      | `0`       |
-| `levitation`   | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `absorption` | `4` |
+| `regeneration` | `2` |
+| `glowing` | `0` |
+| `levitation` | `0` |
 
 ---
 
@@ -532,11 +532,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Milcery](https://play.pokemonshowdown.com/sprites/ani/milcery.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect       | Amplifier |
-| ------------ | --------- |
-| `saturation` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `saturation` | `0` |
 
 ---
 
@@ -544,14 +544,14 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Mimikyu](https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect     | Amplifier |
-| ---------- | --------- |
-| `bad_omen` | `4`       |
-| `unluck`   | `0`       |
-| `wither`   | `0`       |
-| `darkness` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `bad_omen` | `4` |
+| `unluck` | `0` |
+| `wither` | `0` |
+| `darkness` | `0` |
 
 ---
 
@@ -559,11 +559,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Minun](https://play.pokemonshowdown.com/sprites/ani/minun.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect  | Amplifier |
-| ------- | --------- |
-| `speed` | `1`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `speed` | `1` |
 
 ---
 
@@ -571,12 +571,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Morelull](https://play.pokemonshowdown.com/sprites/ani/morelull.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `night_vision` | `0`       |
-| `regeneration` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `night_vision` | `0` |
+| `regeneration` | `0` |
 
 ---
 
@@ -584,12 +584,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Mudkip](https://play.pokemonshowdown.com/sprites/ani/mudkip.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `water_breathing` | `0`       |
-| `resistance`      | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `water_breathing` | `0` |
+| `resistance` | `0` |
 
 ---
 
@@ -597,11 +597,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Murkrow](https://play.pokemonshowdown.com/sprites/ani/murkrow.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `slow_falling` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `slow_falling` | `0` |
 
 ---
 
@@ -609,12 +609,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Oshawott](https://play.pokemonshowdown.com/sprites/ani/oshawott.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `water_breathing` | `0`       |
-| `haste`           | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `water_breathing` | `0` |
+| `haste` | `0` |
 
 ---
 
@@ -622,11 +622,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Pachirisu](https://play.pokemonshowdown.com/sprites/ani/pachirisu.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect  | Amplifier |
-| ------- | --------- |
-| `speed` | `1`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `speed` | `1` |
 
 ---
 
@@ -634,11 +634,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Petilil](https://play.pokemonshowdown.com/sprites/ani/petilil.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `regeneration` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `regeneration` | `0` |
 
 ---
 
@@ -646,11 +646,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Pichu](https://play.pokemonshowdown.com/sprites/ani/pichu.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect  | Amplifier |
-| ------- | --------- |
-| `speed` | `1`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `speed` | `1` |
 
 ---
 
@@ -658,11 +658,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Pidgey](https://play.pokemonshowdown.com/sprites/ani/pidgey.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `slow_falling` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `slow_falling` | `0` |
 
 ---
 
@@ -670,11 +670,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Pidove](https://play.pokemonshowdown.com/sprites/ani/pidove.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `slow_falling` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `slow_falling` | `0` |
 
 ---
 
@@ -682,12 +682,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Pikachu](https://play.pokemonshowdown.com/sprites/ani/pikachu.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect  | Amplifier |
-| ------- | --------- |
-| `speed` | `1`       |
-| `haste` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `speed` | `1` |
+| `haste` | `0` |
 
 ---
 
@@ -695,12 +695,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Piplup](https://play.pokemonshowdown.com/sprites/ani/piplup.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `water_breathing` | `0`       |
-| `dolphins_grace`  | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `water_breathing` | `0` |
+| `dolphins_grace` | `0` |
 
 ---
 
@@ -708,11 +708,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Plusle](https://play.pokemonshowdown.com/sprites/ani/plusle.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect  | Amplifier |
-| ------- | --------- |
-| `speed` | `1`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `speed` | `1` |
 
 ---
 
@@ -720,12 +720,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Popplio](https://play.pokemonshowdown.com/sprites/ani/popplio.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `dolphins_grace`  | `0`       |
-| `water_breathing` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `dolphins_grace` | `0` |
+| `water_breathing` | `0` |
 
 ---
 
@@ -733,11 +733,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Ralts](https://play.pokemonshowdown.com/sprites/ani/ralts.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `regeneration` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `regeneration` | `0` |
 
 ---
 
@@ -745,14 +745,14 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Riolu](https://play.pokemonshowdown.com/sprites/ani/riolu.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect     | Amplifier |
-| ---------- | --------- |
-| `glowing`  | `0`       |
-| `speed`    | `0`       |
-| `strength` | `0`       |
-| `hunger`   | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `glowing` | `0` |
+| `speed` | `0` |
+| `strength` | `0` |
+| `hunger` | `0` |
 
 ---
 
@@ -760,12 +760,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Roggenrola](https://play.pokemonshowdown.com/sprites/ani/roggenrola.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect       | Amplifier |
-| ------------ | --------- |
-| `haste`      | `0`       |
-| `resistance` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `haste` | `0` |
+| `resistance` | `0` |
 
 ---
 
@@ -773,11 +773,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Rookidee](https://play.pokemonshowdown.com/sprites/ani/rookidee.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `slow_falling` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `slow_falling` | `0` |
 
 ---
 
@@ -785,12 +785,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Rowlet](https://play.pokemonshowdown.com/sprites/ani/rowlet.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `slow_falling` | `0`       |
-| `night_vision` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `slow_falling` | `0` |
+| `night_vision` | `0` |
 
 ---
 
@@ -798,11 +798,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Sableye](https://play.pokemonshowdown.com/sprites/ani/sableye.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `night_vision` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `night_vision` | `0` |
 
 ---
 
@@ -810,11 +810,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Scatterbug](https://play.pokemonshowdown.com/sprites/ani/scatterbug.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect    | Amplifier |
-| --------- | --------- |
-| `weaving` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `weaving` | `0` |
 
 ---
 
@@ -822,11 +822,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Shinx](https://play.pokemonshowdown.com/sprites/ani/shinx.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect  | Amplifier |
-| ------- | --------- |
-| `speed` | `1`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `speed` | `1` |
 
 ---
 
@@ -834,11 +834,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Shroodle](https://play.pokemonshowdown.com/sprites/ani/shroodle.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect   | Amplifier |
-| -------- | --------- |
-| `oozing` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `oozing` | `0` |
 
 ---
 
@@ -846,11 +846,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Sizzlipede](https://play.pokemonshowdown.com/sprites/ani/sizzlipede.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `fire_resistance` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `fire_resistance` | `0` |
 
 ---
 
@@ -858,11 +858,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Skrelp](https://play.pokemonshowdown.com/sprites/ani/skrelp.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `water_breathing` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `water_breathing` | `0` |
 
 ---
 
@@ -870,11 +870,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Smoochum](https://play.pokemonshowdown.com/sprites/ani/smoochum.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect | Amplifier |
-| ------ | --------- |
-| `luck` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `luck` | `0` |
 
 ---
 
@@ -882,12 +882,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Snivy](https://play.pokemonshowdown.com/sprites/ani/snivy.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `regeneration` | `0`       |
-| `saturation`   | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `regeneration` | `0` |
+| `saturation` | `0` |
 
 ---
 
@@ -895,11 +895,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Spearow](https://play.pokemonshowdown.com/sprites/ani/spearow.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `slow_falling` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `slow_falling` | `0` |
 
 ---
 
@@ -907,12 +907,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Sprigatito](https://play.pokemonshowdown.com/sprites/ani/sprigatito.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `health_boost` | `0`       |
-| `jump_boost`   | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `health_boost` | `0` |
+| `jump_boost` | `0` |
 
 ---
 
@@ -920,11 +920,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Squawkabilly](https://play.pokemonshowdown.com/sprites/ani/squawkabilly.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `slow_falling` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `slow_falling` | `0` |
 
 ---
 
@@ -932,12 +932,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Squirtle](https://play.pokemonshowdown.com/sprites/ani/squirtle.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `water_breathing` | `0`       |
-| `resistance`      | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `water_breathing` | `0` |
+| `resistance` | `0` |
 
 ---
 
@@ -945,11 +945,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Starly](https://play.pokemonshowdown.com/sprites/ani/starly.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `slow_falling` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `slow_falling` | `0` |
 
 ---
 
@@ -957,11 +957,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Taillow](https://play.pokemonshowdown.com/sprites/ani/taillow.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `slow_falling` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `slow_falling` | `0` |
 
 ---
 
@@ -969,12 +969,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Tatsugiri](https://play.pokemonshowdown.com/sprites/ani/tatsugiri.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `water_breathing` | `0`       |
-| `saturation`      | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `water_breathing` | `0` |
+| `saturation` | `0` |
 
 ---
 
@@ -982,13 +982,13 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Tepig](https://play.pokemonshowdown.com/sprites/ani/tepig.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `fire_resistance` | `0`       |
-| `strength`        | `0`       |
-| `hunger`          | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `fire_resistance` | `0` |
+| `strength` | `0` |
+| `hunger` | `0` |
 
 ---
 
@@ -996,12 +996,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Torchic](https://play.pokemonshowdown.com/sprites/ani/torchic.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `fire_resistance` | `0`       |
-| `speed`           | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `fire_resistance` | `0` |
+| `speed` | `0` |
 
 ---
 
@@ -1009,12 +1009,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Totodile](https://play.pokemonshowdown.com/sprites/ani/totodile.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `water_breathing` | `0`       |
-| `strength`        | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `water_breathing` | `0` |
+| `strength` | `0` |
 
 ---
 
@@ -1022,12 +1022,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Treecko](https://play.pokemonshowdown.com/sprites/ani/treecko.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `regeneration` | `0`       |
-| `saturation`   | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `regeneration` | `0` |
+| `saturation` | `0` |
 
 ---
 
@@ -1035,12 +1035,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Turtwig](https://play.pokemonshowdown.com/sprites/ani/turtwig.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `regeneration` | `0`       |
-| `resistance`   | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `regeneration` | `0` |
+| `resistance` | `0` |
 
 ---
 
@@ -1048,12 +1048,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Tyrogue](https://play.pokemonshowdown.com/sprites/ani/tyrogue.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect       | Amplifier |
-| ------------ | --------- |
-| `strength`   | `0`       |
-| `resistance` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `strength` | `0` |
+| `resistance` | `0` |
 
 ---
 
@@ -1061,11 +1061,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Weedle](https://play.pokemonshowdown.com/sprites/ani/weedle.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect    | Amplifier |
-| --------- | --------- |
-| `weaving` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `weaving` | `0` |
 
 ---
 
@@ -1073,11 +1073,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Wooper](https://play.pokemonshowdown.com/sprites/ani/wooper.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect            | Amplifier |
-| ----------------- | --------- |
-| `water_breathing` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `water_breathing` | `0` |
 
 ---
 
@@ -1085,11 +1085,11 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Zigzagoon](https://play.pokemonshowdown.com/sprites/ani/zigzagoon.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect  | Amplifier |
-| ------- | --------- |
-| `haste` | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `haste` | `0` |
 
 ---
 
@@ -1097,12 +1097,12 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Zorua](https://play.pokemonshowdown.com/sprites/ani/zorua.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `invisibility` | `0`       |
-| `speed`        | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `invisibility` | `0` |
+| `speed` | `0` |
 
 ---
 
@@ -1110,10 +1110,10 @@ Below you will find a **Pokémon-by-Pokémon overview**, sorted alphabetically.
 
 ![Zubat](https://play.pokemonshowdown.com/sprites/ani/zubat.gif)
 
-**Shoulder effects:**
+**Effets accordés:**
 
-| Effect         | Amplifier |
-| -------------- | --------- |
-| `slow_falling` | `0`       |
-| `blindness`    | `0`       |
+| Effet | Amplification |
+| ------ | ---------- |
+| `slow_falling` | `0` |
+| `blindness` | `0` |
 
