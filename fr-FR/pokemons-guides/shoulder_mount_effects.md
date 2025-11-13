@@ -1,4 +1,4 @@
-# Effets des Pokémon sur l’Épaule
+# Effets des Pokémon sur l’Épaule (5.0)
 
 Cette page répertorie **tous les Pokémon qui appliquent des effets lorsque vous les portez sur votre épaule** dans le modpack Cobblemon Realms.
 
