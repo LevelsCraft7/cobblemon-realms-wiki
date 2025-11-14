@@ -1,12 +1,12 @@
 # Inhaltsverzeichnis
 
-## 🌍 Einführung
+## 🌍 Introduction
 
 - [Willkommen](README.md)
 - [Häufige Fragen](faq.md)
 - [Mitwirken](contributing.md)
 
-## 🚀 Erste Schritte
+## 🚀 Getting Started
 
 - [Erste Schritte](getting-started.md)
 - [Installationsanleitung](installation.md)
@@ -25,7 +25,7 @@
 
 - [Legendäre Gegenstände & Biome](pokemons-guides/myths-and-legends-legendaries.md)
 
-## 🐲 Exklusive Pokémon‑Formen
+## 🐲 Pokémon Exclusive Forms
 
 - [Exklusive Formen von Mewtwo](pokemons-exclusives/mewtwo-exclusive-forms.md)
 - [Schatten‑Lugia](pokemons-exclusives/shadow-lugia.md)
@@ -40,12 +40,12 @@
 - [Kubfu‑Evolutions](pokemons-exclusives/kubfu-evolutions.md)
 - [Quests](quests.md)
 
-## 🧩 Mod‑Guides
+## 🧩 Mod Guides
 
 - [Chunky für Welt‑Vorberechnung](mods-guides/chunky.md)
 - [Luggage](mods-guides/luggage.md)
 
-## ⚙️ Einstellungen
+## ⚙️ Settings
 
 - [Höhlenexklusive feindliche Mobs deaktivieren](settings/cavesonly.md)
 - [Optimize Solo Performance](settings/optimize-solo-performance.md)
