@@ -1,6 +1,6 @@
-# Table des matières
+# Table of Contents
 
-## 🌍 Accueil
+## 🌍 Introduction
 
 - [Bienvenue](README.md)
 - [Foire aux Questions](faq.md)
@@ -25,7 +25,7 @@
 
 - [Items Legendaire et leurs Biomes](pokemons-guides/myths-and-legends-legendaries.md)
 
-## 🐲 Formes Exclusives de Pokémon
+## 🐲 Pokémon Exclusive Forms
 
 - [Formes Exclusives de Mewtwo](pokemons-exclusives/mewtwo-exclusive-forms.md)
 - [Lugia Obscur](pokemons-exclusives/shadow-lugia.md)
@@ -40,12 +40,12 @@
 - [Évolutions de Kubfu](pokemons-exclusives/kubfu-evolutions.md)
 - [Therian Forms](pokemons-exclusives/therian-forms.md)
 
-## 🧩 Guides des Mods
+## 🧩 Mod Guides
 
 - [Chunky pour la Pré‑génération du Monde](mods-guides/chunky.md)
 - [Luggage](mods-guides/luggage.md)
 
-## ⚙️ Paramètres
+## ⚙️ Settings
 
 - [Désactiver les Mobs Hostiles en Caverne](settings/cavesonly.md)
 - [Optimize Solo Performance](settings/optimize-solo-performance.md)
