@@ -2,7 +2,7 @@
 
 Diese Seite listet **alle Pokémon auf, die Effekte verleihen, wenn sie auf deiner Schulter sitzen** im Cobblemon Realms Modpack.
 
-Ein Pokémon auf deiner Schulter kann **dauerhafte Trankeffekte** auf deinen Charakter anwenden.
+Ein Pokémon auf deiner Schulter kann **dauerhafte Trankeffekte** auf deinen Charakter anwenden.  
 Diese Effekte stammen aus JSON Dateien im Datapack Ordner `shoulder_mount_effects`.
 
 - Effekte bleiben aktiv, **solange das Pokémon auf deiner Schulter sitzt**.
@@ -20,9 +20,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `saturation` | `1` |
+| Effect       | Amplifier |
+| ------------ | --------- |
+| `saturation` | `1`       |
 
 ---
 
@@ -32,9 +32,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `conduit_power` | `0` |
+| Effect          | Amplifier |
+| --------------- | --------- |
+| `conduit_power` | `0`       |
 
 ---
 
@@ -44,10 +44,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `slow_falling` | `0` |
-| `resistance` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `slow_falling` | `0`       |
+| `resistance`   | `0`       |
 
 ---
 
@@ -57,10 +57,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `resistance` | `1` |
-| `slowness` | `0` |
+| Effect       | Amplifier |
+| ------------ | --------- |
+| `resistance` | `1`       |
+| `slowness`   | `0`       |
 
 ---
 
@@ -70,9 +70,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `regeneration` | `1` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `regeneration` | `1`       |
 
 ---
 
@@ -82,9 +82,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `regeneration` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `regeneration` | `0`       |
 
 ---
 
@@ -94,10 +94,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `regeneration` | `0` |
-| `health_boost` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `regeneration` | `0`       |
+| `health_boost` | `0`       |
 
 ---
 
@@ -107,9 +107,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `weaving` | `0` |
+| Effect    | Amplifier |
+| --------- | --------- |
+| `weaving` | `0`       |
 
 ---
 
@@ -119,10 +119,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
-| `strength` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `fire_resistance` | `0`       |
+| `strength`        | `0`       |
 
 ---
 
@@ -132,10 +132,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
-| `night_vision` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `fire_resistance` | `0`       |
+| `night_vision`    | `0`       |
 
 ---
 
@@ -145,9 +145,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `slow_falling` | `0`       |
 
 ---
 
@@ -157,11 +157,11 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `regeneration` | `0` |
-| `health_boost` | `0` |
-| `weakness` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `regeneration` | `0`       |
+| `health_boost` | `0`       |
+| `weakness`     | `0`       |
 
 ---
 
@@ -171,10 +171,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
-| `speed` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `fire_resistance` | `0`       |
+| `speed`           | `0`       |
 
 ---
 
@@ -185,8 +185,8 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 **Shoulder effects:**
 
 | Effect | Amplifier |
-| ------ | ---------- |
-| `luck` | `0` |
+| ------ | --------- |
+| `luck` | `0`       |
 
 ---
 
@@ -197,8 +197,8 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 **Shoulder effects:**
 
 | Effect | Amplifier |
-| ------ | ---------- |
-| `luck` | `0` |
+| ------ | --------- |
+| `luck` | `0`       |
 
 ---
 
@@ -208,10 +208,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `slow_falling` | `0` |
-| `oozing` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `slow_falling` | `0`       |
+| `oozing`       | `0`       |
 
 ---
 
@@ -221,9 +221,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `regeneration` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `regeneration` | `0`       |
 
 ---
 
@@ -233,10 +233,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `slow_falling` | `0` |
-| `slowness` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `slow_falling` | `0`       |
+| `slowness`     | `0`       |
 
 ---
 
@@ -246,10 +246,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
-| `strength` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `fire_resistance` | `0`       |
+| `strength`        | `0`       |
 
 ---
 
@@ -259,10 +259,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `speed` | `0` |
-| `invisibility` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `speed`        | `0`       |
+| `invisibility` | `0`       |
 
 ---
 
@@ -272,10 +272,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `luck` | `0` |
-| `hero_of_the_village` | `0` |
+| Effect                | Amplifier |
+| --------------------- | --------- |
+| `luck`                | `0`       |
+| `hero_of_the_village` | `0`       |
 
 ---
 
@@ -285,9 +285,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `levitation` | `0` |
+| Effect       | Amplifier |
+| ------------ | --------- |
+| `levitation` | `0`       |
 
 ---
 
@@ -297,10 +297,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
-| `speed` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `fire_resistance` | `0`       |
+| `speed`           | `0`       |
 
 ---
 
@@ -310,9 +310,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `regeneration` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `regeneration` | `0`       |
 
 ---
 
@@ -322,9 +322,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `slow_falling` | `0`       |
 
 ---
 
@@ -334,10 +334,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `speed` | `1` |
-| `mining_fatigue` | `0` |
+| Effect           | Amplifier |
+| ---------------- | --------- |
+| `speed`          | `1`       |
+| `mining_fatigue` | `0`       |
 
 ---
 
@@ -347,9 +347,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `strength` | `0` |
+| Effect     | Amplifier |
+| ---------- | --------- |
+| `strength` | `0`       |
 
 ---
 
@@ -359,10 +359,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `water_breathing` | `0` |
-| `strength` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `water_breathing` | `0`       |
+| `strength`        | `0`       |
 
 ---
 
@@ -372,10 +372,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `luck` | `0` |
-| `resistance` | `0` |
+| Effect       | Amplifier |
+| ------------ | --------- |
+| `luck`       | `0`       |
+| `resistance` | `0`       |
 
 ---
 
@@ -385,9 +385,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `levitation` | `0` |
+| Effect       | Amplifier |
+| ------------ | --------- |
+| `levitation` | `0`       |
 
 ---
 
@@ -397,9 +397,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `slow_falling` | `0`       |
 
 ---
 
@@ -409,10 +409,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `haste` | `0` |
-| `weaving` | `0` |
+| Effect    | Amplifier |
+| --------- | --------- |
+| `haste`   | `0`       |
+| `weaving` | `0`       |
 
 ---
 
@@ -422,9 +422,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `infested` | `0` |
+| Effect     | Amplifier |
+| ---------- | --------- |
+| `infested` | `0`       |
 
 ---
 
@@ -434,10 +434,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `strength` | `1` |
-| `slowness` | `0` |
+| Effect     | Amplifier |
+| ---------- | --------- |
+| `strength` | `1`       |
+| `slowness` | `0`       |
 
 ---
 
@@ -447,10 +447,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
-| `speed` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `fire_resistance` | `0`       |
+| `speed`           | `0`       |
 
 ---
 
@@ -460,9 +460,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `night_vision` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `night_vision` | `0`       |
 
 ---
 
@@ -472,14 +472,14 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `glowing` | `0` |
-| `speed` | `1` |
-| `strength` | `1` |
-| `jump_boost` | `0` |
-| `resistance` | `0` |
-| `hunger` | `1` |
+| Effect       | Amplifier |
+| ------------ | --------- |
+| `glowing`    | `0`       |
+| `speed`      | `1`       |
+| `strength`   | `1`       |
+| `jump_boost` | `0`       |
+| `resistance` | `0`       |
+| `hunger`     | `1`       |
 
 ---
 
@@ -489,15 +489,15 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `glowing` | `0` |
-| `speed` | `1` |
-| `strength` | `1` |
-| `jump_boost` | `1` |
-| `resistance` | `1` |
-| `absorption` | `1` |
-| `hunger` | `2` |
+| Effect       | Amplifier |
+| ------------ | --------- |
+| `glowing`    | `0`       |
+| `speed`      | `1`       |
+| `strength`   | `1`       |
+| `jump_boost` | `1`       |
+| `resistance` | `1`       |
+| `absorption` | `1`       |
+| `hunger`     | `2`       |
 
 ---
 
@@ -508,8 +508,8 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 **Shoulder effects:**
 
 | Effect | Amplifier |
-| ------ | ---------- |
-| `luck` | `0` |
+| ------ | --------- |
+| `luck` | `0`       |
 
 ---
 
@@ -519,12 +519,12 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `absorption` | `4` |
-| `regeneration` | `2` |
-| `glowing` | `0` |
-| `levitation` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `absorption`   | `4`       |
+| `regeneration` | `2`       |
+| `glowing`      | `0`       |
+| `levitation`   | `0`       |
 
 ---
 
@@ -534,9 +534,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `saturation` | `0` |
+| Effect       | Amplifier |
+| ------------ | --------- |
+| `saturation` | `0`       |
 
 ---
 
@@ -546,12 +546,12 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `bad_omen` | `4` |
-| `unluck` | `0` |
-| `wither` | `0` |
-| `darkness` | `0` |
+| Effect     | Amplifier |
+| ---------- | --------- |
+| `bad_omen` | `4`       |
+| `unluck`   | `0`       |
+| `wither`   | `0`       |
+| `darkness` | `0`       |
 
 ---
 
@@ -561,9 +561,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `speed` | `1` |
+| Effect  | Amplifier |
+| ------- | --------- |
+| `speed` | `1`       |
 
 ---
 
@@ -573,10 +573,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `night_vision` | `0` |
-| `regeneration` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `night_vision` | `0`       |
+| `regeneration` | `0`       |
 
 ---
 
@@ -586,10 +586,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `water_breathing` | `0` |
-| `resistance` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `water_breathing` | `0`       |
+| `resistance`      | `0`       |
 
 ---
 
@@ -599,9 +599,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `slow_falling` | `0`       |
 
 ---
 
@@ -611,10 +611,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `water_breathing` | `0` |
-| `haste` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `water_breathing` | `0`       |
+| `haste`           | `0`       |
 
 ---
 
@@ -624,9 +624,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `speed` | `1` |
+| Effect  | Amplifier |
+| ------- | --------- |
+| `speed` | `1`       |
 
 ---
 
@@ -636,9 +636,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `regeneration` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `regeneration` | `0`       |
 
 ---
 
@@ -648,9 +648,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `speed` | `1` |
+| Effect  | Amplifier |
+| ------- | --------- |
+| `speed` | `1`       |
 
 ---
 
@@ -660,9 +660,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `slow_falling` | `0`       |
 
 ---
 
@@ -672,9 +672,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `slow_falling` | `0`       |
 
 ---
 
@@ -684,10 +684,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `speed` | `1` |
-| `haste` | `0` |
+| Effect  | Amplifier |
+| ------- | --------- |
+| `speed` | `1`       |
+| `haste` | `0`       |
 
 ---
 
@@ -697,10 +697,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `water_breathing` | `0` |
-| `dolphins_grace` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `water_breathing` | `0`       |
+| `dolphins_grace`  | `0`       |
 
 ---
 
@@ -710,9 +710,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `speed` | `1` |
+| Effect  | Amplifier |
+| ------- | --------- |
+| `speed` | `1`       |
 
 ---
 
@@ -722,10 +722,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `dolphins_grace` | `0` |
-| `water_breathing` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `dolphins_grace`  | `0`       |
+| `water_breathing` | `0`       |
 
 ---
 
@@ -735,9 +735,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `regeneration` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `regeneration` | `0`       |
 
 ---
 
@@ -747,12 +747,12 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `glowing` | `0` |
-| `speed` | `0` |
-| `strength` | `0` |
-| `hunger` | `0` |
+| Effect     | Amplifier |
+| ---------- | --------- |
+| `glowing`  | `0`       |
+| `speed`    | `0`       |
+| `strength` | `0`       |
+| `hunger`   | `0`       |
 
 ---
 
@@ -762,10 +762,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `haste` | `0` |
-| `resistance` | `0` |
+| Effect       | Amplifier |
+| ------------ | --------- |
+| `haste`      | `0`       |
+| `resistance` | `0`       |
 
 ---
 
@@ -775,9 +775,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `slow_falling` | `0`       |
 
 ---
 
@@ -787,10 +787,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `slow_falling` | `0` |
-| `night_vision` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `slow_falling` | `0`       |
+| `night_vision` | `0`       |
 
 ---
 
@@ -800,9 +800,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `night_vision` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `night_vision` | `0`       |
 
 ---
 
@@ -812,9 +812,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `weaving` | `0` |
+| Effect    | Amplifier |
+| --------- | --------- |
+| `weaving` | `0`       |
 
 ---
 
@@ -824,9 +824,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `speed` | `1` |
+| Effect  | Amplifier |
+| ------- | --------- |
+| `speed` | `1`       |
 
 ---
 
@@ -836,9 +836,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `oozing` | `0` |
+| Effect   | Amplifier |
+| -------- | --------- |
+| `oozing` | `0`       |
 
 ---
 
@@ -848,9 +848,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `fire_resistance` | `0`       |
 
 ---
 
@@ -860,9 +860,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `water_breathing` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `water_breathing` | `0`       |
 
 ---
 
@@ -873,8 +873,8 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 **Shoulder effects:**
 
 | Effect | Amplifier |
-| ------ | ---------- |
-| `luck` | `0` |
+| ------ | --------- |
+| `luck` | `0`       |
 
 ---
 
@@ -884,10 +884,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `regeneration` | `0` |
-| `saturation` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `regeneration` | `0`       |
+| `saturation`   | `0`       |
 
 ---
 
@@ -897,9 +897,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `slow_falling` | `0`       |
 
 ---
 
@@ -909,10 +909,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `health_boost` | `0` |
-| `jump_boost` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `health_boost` | `0`       |
+| `jump_boost`   | `0`       |
 
 ---
 
@@ -922,9 +922,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `slow_falling` | `0`       |
 
 ---
 
@@ -934,10 +934,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `water_breathing` | `0` |
-| `resistance` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `water_breathing` | `0`       |
+| `resistance`      | `0`       |
 
 ---
 
@@ -947,9 +947,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `slow_falling` | `0`       |
 
 ---
 
@@ -959,9 +959,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `slow_falling` | `0`       |
 
 ---
 
@@ -971,10 +971,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `water_breathing` | `0` |
-| `saturation` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `water_breathing` | `0`       |
+| `saturation`      | `0`       |
 
 ---
 
@@ -984,11 +984,11 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
-| `strength` | `0` |
-| `hunger` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `fire_resistance` | `0`       |
+| `strength`        | `0`       |
+| `hunger`          | `0`       |
 
 ---
 
@@ -998,10 +998,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
-| `speed` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `fire_resistance` | `0`       |
+| `speed`           | `0`       |
 
 ---
 
@@ -1011,10 +1011,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `water_breathing` | `0` |
-| `strength` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `water_breathing` | `0`       |
+| `strength`        | `0`       |
 
 ---
 
@@ -1024,10 +1024,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `regeneration` | `0` |
-| `saturation` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `regeneration` | `0`       |
+| `saturation`   | `0`       |
 
 ---
 
@@ -1037,10 +1037,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `regeneration` | `0` |
-| `resistance` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `regeneration` | `0`       |
+| `resistance`   | `0`       |
 
 ---
 
@@ -1050,10 +1050,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `strength` | `0` |
-| `resistance` | `0` |
+| Effect       | Amplifier |
+| ------------ | --------- |
+| `strength`   | `0`       |
+| `resistance` | `0`       |
 
 ---
 
@@ -1063,9 +1063,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `weaving` | `0` |
+| Effect    | Amplifier |
+| --------- | --------- |
+| `weaving` | `0`       |
 
 ---
 
@@ -1075,9 +1075,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `water_breathing` | `0` |
+| Effect            | Amplifier |
+| ----------------- | --------- |
+| `water_breathing` | `0`       |
 
 ---
 
@@ -1087,9 +1087,9 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `haste` | `0` |
+| Effect  | Amplifier |
+| ------- | --------- |
+| `haste` | `0`       |
 
 ---
 
@@ -1099,10 +1099,10 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `invisibility` | `0` |
-| `speed` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `invisibility` | `0`       |
+| `speed`        | `0`       |
 
 ---
 
@@ -1112,8 +1112,8 @@ Unten findest du eine **alphabetische Liste aller Pokémon**.
 
 **Shoulder effects:**
 
-| Effect | Amplifier |
-| ------ | ---------- |
-| `slow_falling` | `0` |
-| `blindness` | `0` |
+| Effect         | Amplifier |
+| -------------- | --------- |
+| `slow_falling` | `0`       |
+| `blindness`    | `0`       |
 

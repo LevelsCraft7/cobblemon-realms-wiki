@@ -34,13 +34,13 @@ The **Luggage** mod brings back the iconic walking chest from OpenBlocks for mod
 ## 🎮 Controls (Whistles)
 
 - **Call Whistle** — press the **\\`** key\
-          Calls **all** Luggages you own to your position (they must be in **loaded chunks**).\
-          After calling, there is a **10‑second cooldown** during which Luggage won’t collect items.   **Call Whistle** — press the **\\\`** key\
+            Calls **all** Luggages you own to your position (they must be in **loaded chunks**).\
+            After calling, there is a **10‑second cooldown** during which Luggage won’t collect items.   **Call Whistle** — press the **\\\`** key\
   Calls **all** Luggages you own to your position (they must be in **loaded chunks**).\
   After calling, there is a **10‑second cooldown** during which Luggage won’t collect items.\
   After calling, there is a **10‑second cooldown** during which Luggage won’t collect items.
 
-- **Wait Whistle** — **Alt + \\\\\\\`**\
+- **Wait Whistle** — **Alt + \\\\\\\\`**\
   Toggles **wait** for your nearby Luggages (within 8 blocks).\
   While waiting, they visibly “sweat”.\
   While waiting, they visibly “sweat”.\

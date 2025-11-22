@@ -2,7 +2,7 @@
 
 Cette page répertorie **tous les Pokémon qui appliquent des effets lorsque vous les portez sur votre épaule** dans le modpack Cobblemon Realms.
 
-Lorsqu’un Pokémon est placé sur votre épaule, il peut appliquer des **effets de potion continus** à votre personnage.
+Lorsqu’un Pokémon est placé sur votre épaule, il peut appliquer des **effets de potion continus** à votre personnage.  
 Ces effets sont définis via les fichiers JSON du datapack dans le dossier `shoulder_mount_Effets`.
 
 - Les effets sont actifs **tant que le Pokémon reste sur votre épaule**.
@@ -20,9 +20,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `saturation` | `1` |
+| Effet        | Amplification |
+| ------------ | ------------- |
+| `saturation` | `1`           |
 
 ---
 
@@ -32,9 +32,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `conduit_power` | `0` |
+| Effet           | Amplification |
+| --------------- | ------------- |
+| `conduit_power` | `0`           |
 
 ---
 
@@ -44,10 +44,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `slow_falling` | `0` |
-| `resistance` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `slow_falling` | `0`           |
+| `resistance`   | `0`           |
 
 ---
 
@@ -57,10 +57,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `resistance` | `1` |
-| `slowness` | `0` |
+| Effet        | Amplification |
+| ------------ | ------------- |
+| `resistance` | `1`           |
+| `slowness`   | `0`           |
 
 ---
 
@@ -70,9 +70,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `regeneration` | `1` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `regeneration` | `1`           |
 
 ---
 
@@ -82,9 +82,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `regeneration` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `regeneration` | `0`           |
 
 ---
 
@@ -94,10 +94,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `regeneration` | `0` |
-| `health_boost` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `regeneration` | `0`           |
+| `health_boost` | `0`           |
 
 ---
 
@@ -107,9 +107,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `weaving` | `0` |
+| Effet     | Amplification |
+| --------- | ------------- |
+| `weaving` | `0`           |
 
 ---
 
@@ -119,10 +119,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
-| `strength` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `fire_resistance` | `0`           |
+| `strength`        | `0`           |
 
 ---
 
@@ -132,10 +132,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
-| `night_vision` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `fire_resistance` | `0`           |
+| `night_vision`    | `0`           |
 
 ---
 
@@ -145,9 +145,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `slow_falling` | `0`           |
 
 ---
 
@@ -157,11 +157,11 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `regeneration` | `0` |
-| `health_boost` | `0` |
-| `weakness` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `regeneration` | `0`           |
+| `health_boost` | `0`           |
+| `weakness`     | `0`           |
 
 ---
 
@@ -171,10 +171,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
-| `speed` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `fire_resistance` | `0`           |
+| `speed`           | `0`           |
 
 ---
 
@@ -184,9 +184,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `luck` | `0` |
+| Effet  | Amplification |
+| ------ | ------------- |
+| `luck` | `0`           |
 
 ---
 
@@ -196,9 +196,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `luck` | `0` |
+| Effet  | Amplification |
+| ------ | ------------- |
+| `luck` | `0`           |
 
 ---
 
@@ -208,10 +208,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `slow_falling` | `0` |
-| `oozing` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `slow_falling` | `0`           |
+| `oozing`       | `0`           |
 
 ---
 
@@ -221,9 +221,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `regeneration` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `regeneration` | `0`           |
 
 ---
 
@@ -233,10 +233,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `slow_falling` | `0` |
-| `slowness` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `slow_falling` | `0`           |
+| `slowness`     | `0`           |
 
 ---
 
@@ -246,10 +246,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
-| `strength` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `fire_resistance` | `0`           |
+| `strength`        | `0`           |
 
 ---
 
@@ -259,10 +259,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `speed` | `0` |
-| `invisibility` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `speed`        | `0`           |
+| `invisibility` | `0`           |
 
 ---
 
@@ -272,10 +272,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `luck` | `0` |
-| `hero_of_the_village` | `0` |
+| Effet                 | Amplification |
+| --------------------- | ------------- |
+| `luck`                | `0`           |
+| `hero_of_the_village` | `0`           |
 
 ---
 
@@ -285,9 +285,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `levitation` | `0` |
+| Effet        | Amplification |
+| ------------ | ------------- |
+| `levitation` | `0`           |
 
 ---
 
@@ -297,10 +297,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
-| `speed` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `fire_resistance` | `0`           |
+| `speed`           | `0`           |
 
 ---
 
@@ -310,9 +310,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `regeneration` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `regeneration` | `0`           |
 
 ---
 
@@ -322,9 +322,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `slow_falling` | `0`           |
 
 ---
 
@@ -334,10 +334,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `speed` | `1` |
-| `mining_fatigue` | `0` |
+| Effet            | Amplification |
+| ---------------- | ------------- |
+| `speed`          | `1`           |
+| `mining_fatigue` | `0`           |
 
 ---
 
@@ -347,9 +347,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `strength` | `0` |
+| Effet      | Amplification |
+| ---------- | ------------- |
+| `strength` | `0`           |
 
 ---
 
@@ -359,10 +359,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `water_breathing` | `0` |
-| `strength` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `water_breathing` | `0`           |
+| `strength`        | `0`           |
 
 ---
 
@@ -372,10 +372,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `luck` | `0` |
-| `resistance` | `0` |
+| Effet        | Amplification |
+| ------------ | ------------- |
+| `luck`       | `0`           |
+| `resistance` | `0`           |
 
 ---
 
@@ -385,9 +385,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `levitation` | `0` |
+| Effet        | Amplification |
+| ------------ | ------------- |
+| `levitation` | `0`           |
 
 ---
 
@@ -397,9 +397,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `slow_falling` | `0`           |
 
 ---
 
@@ -409,10 +409,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `haste` | `0` |
-| `weaving` | `0` |
+| Effet     | Amplification |
+| --------- | ------------- |
+| `haste`   | `0`           |
+| `weaving` | `0`           |
 
 ---
 
@@ -422,9 +422,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `infested` | `0` |
+| Effet      | Amplification |
+| ---------- | ------------- |
+| `infested` | `0`           |
 
 ---
 
@@ -434,10 +434,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `strength` | `1` |
-| `slowness` | `0` |
+| Effet      | Amplification |
+| ---------- | ------------- |
+| `strength` | `1`           |
+| `slowness` | `0`           |
 
 ---
 
@@ -447,10 +447,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
-| `speed` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `fire_resistance` | `0`           |
+| `speed`           | `0`           |
 
 ---
 
@@ -460,9 +460,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `night_vision` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `night_vision` | `0`           |
 
 ---
 
@@ -472,14 +472,14 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `glowing` | `0` |
-| `speed` | `1` |
-| `strength` | `1` |
-| `jump_boost` | `0` |
-| `resistance` | `0` |
-| `hunger` | `1` |
+| Effet        | Amplification |
+| ------------ | ------------- |
+| `glowing`    | `0`           |
+| `speed`      | `1`           |
+| `strength`   | `1`           |
+| `jump_boost` | `0`           |
+| `resistance` | `0`           |
+| `hunger`     | `1`           |
 
 ---
 
@@ -489,15 +489,15 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `glowing` | `0` |
-| `speed` | `1` |
-| `strength` | `1` |
-| `jump_boost` | `1` |
-| `resistance` | `1` |
-| `absorption` | `1` |
-| `hunger` | `2` |
+| Effet        | Amplification |
+| ------------ | ------------- |
+| `glowing`    | `0`           |
+| `speed`      | `1`           |
+| `strength`   | `1`           |
+| `jump_boost` | `1`           |
+| `resistance` | `1`           |
+| `absorption` | `1`           |
+| `hunger`     | `2`           |
 
 ---
 
@@ -507,9 +507,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `luck` | `0` |
+| Effet  | Amplification |
+| ------ | ------------- |
+| `luck` | `0`           |
 
 ---
 
@@ -519,12 +519,12 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `absorption` | `4` |
-| `regeneration` | `2` |
-| `glowing` | `0` |
-| `levitation` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `absorption`   | `4`           |
+| `regeneration` | `2`           |
+| `glowing`      | `0`           |
+| `levitation`   | `0`           |
 
 ---
 
@@ -534,9 +534,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `saturation` | `0` |
+| Effet        | Amplification |
+| ------------ | ------------- |
+| `saturation` | `0`           |
 
 ---
 
@@ -546,12 +546,12 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `bad_omen` | `4` |
-| `unluck` | `0` |
-| `wither` | `0` |
-| `darkness` | `0` |
+| Effet      | Amplification |
+| ---------- | ------------- |
+| `bad_omen` | `4`           |
+| `unluck`   | `0`           |
+| `wither`   | `0`           |
+| `darkness` | `0`           |
 
 ---
 
@@ -561,9 +561,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `speed` | `1` |
+| Effet   | Amplification |
+| ------- | ------------- |
+| `speed` | `1`           |
 
 ---
 
@@ -573,10 +573,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `night_vision` | `0` |
-| `regeneration` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `night_vision` | `0`           |
+| `regeneration` | `0`           |
 
 ---
 
@@ -586,10 +586,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `water_breathing` | `0` |
-| `resistance` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `water_breathing` | `0`           |
+| `resistance`      | `0`           |
 
 ---
 
@@ -599,9 +599,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `slow_falling` | `0`           |
 
 ---
 
@@ -611,10 +611,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `water_breathing` | `0` |
-| `haste` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `water_breathing` | `0`           |
+| `haste`           | `0`           |
 
 ---
 
@@ -624,9 +624,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `speed` | `1` |
+| Effet   | Amplification |
+| ------- | ------------- |
+| `speed` | `1`           |
 
 ---
 
@@ -636,9 +636,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `regeneration` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `regeneration` | `0`           |
 
 ---
 
@@ -648,9 +648,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `speed` | `1` |
+| Effet   | Amplification |
+| ------- | ------------- |
+| `speed` | `1`           |
 
 ---
 
@@ -660,9 +660,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `slow_falling` | `0`           |
 
 ---
 
@@ -672,9 +672,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `slow_falling` | `0`           |
 
 ---
 
@@ -684,10 +684,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `speed` | `1` |
-| `haste` | `0` |
+| Effet   | Amplification |
+| ------- | ------------- |
+| `speed` | `1`           |
+| `haste` | `0`           |
 
 ---
 
@@ -697,10 +697,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `water_breathing` | `0` |
-| `dolphins_grace` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `water_breathing` | `0`           |
+| `dolphins_grace`  | `0`           |
 
 ---
 
@@ -710,9 +710,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `speed` | `1` |
+| Effet   | Amplification |
+| ------- | ------------- |
+| `speed` | `1`           |
 
 ---
 
@@ -722,10 +722,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `dolphins_grace` | `0` |
-| `water_breathing` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `dolphins_grace`  | `0`           |
+| `water_breathing` | `0`           |
 
 ---
 
@@ -735,9 +735,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `regeneration` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `regeneration` | `0`           |
 
 ---
 
@@ -747,12 +747,12 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `glowing` | `0` |
-| `speed` | `0` |
-| `strength` | `0` |
-| `hunger` | `0` |
+| Effet      | Amplification |
+| ---------- | ------------- |
+| `glowing`  | `0`           |
+| `speed`    | `0`           |
+| `strength` | `0`           |
+| `hunger`   | `0`           |
 
 ---
 
@@ -762,10 +762,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `haste` | `0` |
-| `resistance` | `0` |
+| Effet        | Amplification |
+| ------------ | ------------- |
+| `haste`      | `0`           |
+| `resistance` | `0`           |
 
 ---
 
@@ -775,9 +775,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `slow_falling` | `0`           |
 
 ---
 
@@ -787,10 +787,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `slow_falling` | `0` |
-| `night_vision` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `slow_falling` | `0`           |
+| `night_vision` | `0`           |
 
 ---
 
@@ -800,9 +800,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `night_vision` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `night_vision` | `0`           |
 
 ---
 
@@ -812,9 +812,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `weaving` | `0` |
+| Effet     | Amplification |
+| --------- | ------------- |
+| `weaving` | `0`           |
 
 ---
 
@@ -824,9 +824,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `speed` | `1` |
+| Effet   | Amplification |
+| ------- | ------------- |
+| `speed` | `1`           |
 
 ---
 
@@ -836,9 +836,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `oozing` | `0` |
+| Effet    | Amplification |
+| -------- | ------------- |
+| `oozing` | `0`           |
 
 ---
 
@@ -848,9 +848,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `fire_resistance` | `0`           |
 
 ---
 
@@ -860,9 +860,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `water_breathing` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `water_breathing` | `0`           |
 
 ---
 
@@ -872,9 +872,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `luck` | `0` |
+| Effet  | Amplification |
+| ------ | ------------- |
+| `luck` | `0`           |
 
 ---
 
@@ -884,10 +884,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `regeneration` | `0` |
-| `saturation` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `regeneration` | `0`           |
+| `saturation`   | `0`           |
 
 ---
 
@@ -897,9 +897,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `slow_falling` | `0`           |
 
 ---
 
@@ -909,10 +909,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `health_boost` | `0` |
-| `jump_boost` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `health_boost` | `0`           |
+| `jump_boost`   | `0`           |
 
 ---
 
@@ -922,9 +922,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `slow_falling` | `0`           |
 
 ---
 
@@ -934,10 +934,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `water_breathing` | `0` |
-| `resistance` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `water_breathing` | `0`           |
+| `resistance`      | `0`           |
 
 ---
 
@@ -947,9 +947,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `slow_falling` | `0`           |
 
 ---
 
@@ -959,9 +959,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `slow_falling` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `slow_falling` | `0`           |
 
 ---
 
@@ -971,10 +971,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `water_breathing` | `0` |
-| `saturation` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `water_breathing` | `0`           |
+| `saturation`      | `0`           |
 
 ---
 
@@ -984,11 +984,11 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
-| `strength` | `0` |
-| `hunger` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `fire_resistance` | `0`           |
+| `strength`        | `0`           |
+| `hunger`          | `0`           |
 
 ---
 
@@ -998,10 +998,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `fire_resistance` | `0` |
-| `speed` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `fire_resistance` | `0`           |
+| `speed`           | `0`           |
 
 ---
 
@@ -1011,10 +1011,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `water_breathing` | `0` |
-| `strength` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `water_breathing` | `0`           |
+| `strength`        | `0`           |
 
 ---
 
@@ -1024,10 +1024,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `regeneration` | `0` |
-| `saturation` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `regeneration` | `0`           |
+| `saturation`   | `0`           |
 
 ---
 
@@ -1037,10 +1037,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `regeneration` | `0` |
-| `resistance` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `regeneration` | `0`           |
+| `resistance`   | `0`           |
 
 ---
 
@@ -1050,10 +1050,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `strength` | `0` |
-| `resistance` | `0` |
+| Effet        | Amplification |
+| ------------ | ------------- |
+| `strength`   | `0`           |
+| `resistance` | `0`           |
 
 ---
 
@@ -1063,9 +1063,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `weaving` | `0` |
+| Effet     | Amplification |
+| --------- | ------------- |
+| `weaving` | `0`           |
 
 ---
 
@@ -1075,9 +1075,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `water_breathing` | `0` |
+| Effet             | Amplification |
+| ----------------- | ------------- |
+| `water_breathing` | `0`           |
 
 ---
 
@@ -1087,9 +1087,9 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `haste` | `0` |
+| Effet   | Amplification |
+| ------- | ------------- |
+| `haste` | `0`           |
 
 ---
 
@@ -1099,10 +1099,10 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `invisibility` | `0` |
-| `speed` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `invisibility` | `0`           |
+| `speed`        | `0`           |
 
 ---
 
@@ -1112,8 +1112,8 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 **Effets accordés:**
 
-| Effet | Amplification |
-| ------ | ---------- |
-| `slow_falling` | `0` |
-| `blindness` | `0` |
+| Effet          | Amplification |
+| -------------- | ------------- |
+| `slow_falling` | `0`           |
+| `blindness`    | `0`           |
 
