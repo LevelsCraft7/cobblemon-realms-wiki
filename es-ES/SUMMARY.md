@@ -1,17 +1,17 @@
 # Tabla de Contenidos
 
-## 🌍 Introduction
+## 🌍 Introducción
 
 - [Bienvenido](README.md)
 - [Preguntas Frecuentes](faq.md)
 - [Contribuciones](contributing.md)
 
-## 🚀 Getting Started
+## 🚀 Primeros Pasos
 
 - [Primeros Pasos](getting-started.md)
 - [Guía de Instalación](installation.md)
 
-## 🎮 Gameplay
+## 🎮 Jugabilidad
 
 - [Pokémon y Apariciones](pokemon-and-spawns.md)
   - [Límite de Nivel y Entrenadores](pokemons-guides/levelcap-and-trainers.md)
@@ -25,7 +25,7 @@
 
 - [Objetos legendarios y biomas](pokemons-guides/myths-and-legends-legendaries.md)
 
-## 🐲 Pokémon Exclusive Forms
+## 🐲 Formas Exclusivas de Pokémon
 
 - [Formas Exclusivas de Mewtwo](pokemons-exclusives/mewtwo-exclusive-forms.md)
 - [Lugia Oscuro](pokemons-exclusives/shadow-lugia.md)
@@ -40,13 +40,12 @@
 - [Evoluciones de Kubfu](pokemons-exclusives/kubfu-evolutions.md)
 - [Therian Forms](pokemons-exclusives/therian-forms.md)
 
-## 🧩 Mod Guides
-
+## 🧩 Guías de Mods
 
 - [Chunky para la Pre‑generación del Mundo](mods-guides/chunky.md)
 - [Luggage](mods-guides/luggage.md)
 
-## ⚙️ Settings
+## ⚙️ Configuración
 
 - [Desactivar Mobs Hostiles Solo en Cuevas](settings/cavesonly.md)
 - [Optimize Solo Performance](settings/optimize-solo-performance.md)
