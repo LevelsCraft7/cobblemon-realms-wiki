@@ -14,11 +14,12 @@
 ## 🎮 Gameplay
 
 * [Pokémon and Spawns](pokemon-and-spawns.md)
-  * [Level Cap and Trainers](pokemons-guides/levelcap-and-trainers.md)
-  * [Wild Boost Mechanics](pokemons-guides/wild-boost-mechanics.md)
-  * [Pokemon Workers Guide](pokemons-guides/cobbleworkers-guide.md)
-  * [Pokemon Shoulder Mount](pokemons-guides/shoulder_mount_effects.md)
-  * [Biome Tags Reference](pokemons-guides/biome-tags-reference.md)
+* [Level Cap and Trainers](pokemons-guides/levelcap-and-trainers.md)
+* [Wild Boost Mechanics](pokemons-guides/wild-boost-mechanics.md)
+* [Pokemon Workers Guide](pokemons-guides/cobbleworkers-guide.md)
+* [Riding System (Mounts)](pokemons-guides/riding-system.md)
+* [Pokemon Shoulder Mount](pokemons-guides/shoulder_mount_effects.md)
+* [Biome Tags Reference](pokemons-guides/biome-tags-reference.md)
 * [Multiplayer Servers](multiplayer-servers.md)
 
 ## 🗿 Myths & Legends
