@@ -14,11 +14,12 @@
 ## 🎮 Jugabilidad
 
 - [Pokémon y Apariciones](pokemon-and-spawns.md)
-  - [Límite de Nivel y Entrenadores](pokemons-guides/levelcap-and-trainers.md)
-  - [Evoluciones Adicionales de Eevee](pokemons-guides/extra-eevee.md)
-  - [Pokemon Workers Guide](pokemons-guides/cobbleworkers-guide.md)
-  - [Pokemon Shoulder Mount](pokemons-guides/shoulder_mount_effects.md)
-  - [Biome Tags Reference](pokemons-guides/biome-tags-reference.md)
+- [Límite de Nivel y Entrenadores](pokemons-guides/levelcap-and-trainers.md)
+- [Evoluciones Adicionales de Eevee](pokemons-guides/extra-eevee.md)
+- [Pokemon Workers Guide](pokemons-guides/cobbleworkers-guide.md)
+- [Sistema de Monturas](pokemons-guides/riding-system.md)
+- [Pokemon Shoulder Mount](pokemons-guides/shoulder_mount_effects.md)
+- [Biome Tags Reference](pokemons-guides/biome-tags-reference.md)
 - [Servidores Multijugador](multiplayer-servers.md)
 
 ## 🗿 Myths & Legends
