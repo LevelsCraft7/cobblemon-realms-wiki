@@ -14,6 +14,7 @@
   ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)  
   ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)  
   ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)  
+  ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)  
   ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)
 
 ---
