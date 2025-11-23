@@ -17,7 +17,7 @@
 - [Levelgrenze und Trainer](pokemons-guides/levelcap-and-trainers.md)
 - [Mechaniken zur Spawn‑Verbesserung](pokemons-guides/wild-boost-mechanics.md)
 - [Pokemon Workers Guide](pokemons-guides/cobbleworkers-guide.md)
-- [Quests](quests.md)
+- [Reitsystem (Monturen)](pokemons-guides/riding-system.md)
 - [Pokemon Shoulder Mount](pokemons-guides/shoulder_mount_effects.md)
 - [Biome Tags Reference](pokemons-guides/biome-tags-reference.md)
 - [Mehrspieler‑Server](multiplayer-servers.md)
