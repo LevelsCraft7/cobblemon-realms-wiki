@@ -7,42 +7,45 @@ Cette page liste chaque Eeveelution personnalisée, avec ses statistiques, lieux
 
 ## FAQs
 
-### Q : Evoli évolue-t-il en Evereon uniquement en combattant des Eeveelutions sauvages, ou les combats contre des Dresseurs comptent-ils ? Evoli doit-il porter le coup final, ou n’importe quel Pokémon ?  
+### Evoli doit-il porter le coup final, ou n’importe quel Pokémon ? Q : Evoli évolue-t-il en Evereon uniquement en combattant des Eeveelutions sauvages, ou les combats contre des Dresseurs comptent-ils ?
+
 **R :** Certains joueurs rapportent que les combats contre des Dresseurs fonctionnent, d’autres non. Dans mes tests, cela n’a pas fonctionné, mais cela peut dépendre de la configuration. Vous pouvez essayer les deux méthodes.  
 Evoli doit porter le **coup final** sur les **18 Eeveelutions** du mod de base et de cet addon.
 
-### Q : Je ne vois pas les Eeveelutions dans le Pokédex.  
+### Q : Je ne vois pas les Eeveelutions dans le Pokédex.
+
 **R :** Elles ont leur propre section dans l’onglet **Regions**.
 
-### Q : Quelle attaque de type Vol Evoli peut-il apprendre ?  
+### Q : Quelle attaque de type Vol Evoli peut-il apprendre ?
+
 **R :** Dans ce datapack, Evoli peut apprendre **Miroi-Tir (Mirror Move)** au **niveau 20**.
 
 ---
 
 ## Spectreon
 
-**Type :** Spectre  
+**Type :** Spectre
 
 **Statistiques**
 
-| Stat  | Valeur |
-| ----- | ----- |
-| PV    | 65    |
-| ATQ   | 65    |
-| DEF   | 60    |
-| ATQ. SPÉ | 130 |
-| DEF. SPÉ | 95  |
-| VIT   | 110   |
+| Stat                     | Valeur                        |
+| ------------------------ | ----------------------------- |
+| HP                       | **DEF:** 65   |
+| ATQ                      | **HP:** 65    |
+| DEF                      | **SpDEF:** 60 |
+| SPÉ ATQ. | **DEF:** 130  |
+| DEF. SPÉ | **SpDEF:** 95 |
+| SPD                      | **ATK:** 110  |
 
 **Talents**
 
-- **Talent :** Farceur  
-- **Talent Caché :** Corps Condamné  
+- **Talent :** Farceur
+- **Talent Caché :** Corps Condamné
 
 **Lieux d’apparition**
 
-- Magical biomes *(Ultra Rare)*  
-- Soul Sand Valley *(Rare)*  
+- **Spawn Locations:** Magical Biomes (Ultra Rare), Soul Sand Valley (Rare)
+- ![image](https://github.com/user-attachments/assets/28254552-80eb-497a-8dd4-935b7fd4f358)
 
 **Méthode d’évolution**
 
@@ -55,62 +58,60 @@ Evoli doit porter le **coup final** sur les **18 Eeveelutions** du mod de base e
 
 #### Attaques par niveau
 
-- N.1 : Morsure, Râle, Larmes-Faux, Écran Fumée, Coup d’Main, Jet de Sable  
-- N.5 : Châtiment  
-- N.8 : Hypnose  
-- N.12 : Ball’Ombre  
-- N.14 : Malveillance  
-- N.17 : Ombre Nocturne  
-- N.18 : Machination  
-- N.22 : Hantise  
-- N.26 : Lien du Destin  
-- N.30 : Choc Mental  
-- N.34 : Dévorêve  
-- N.37 : Permuforce  
-- N.40 : Amnésie  
-- N.43 : Souci  
-- N.50 : Cauchemar  
-- N.54 : Larcin  
-- N.57 : Éco-Sphère  
-- N.60 : Feu Follet  
-- N.67 : Souffle Glacé  
-- N.73 : Mainmise  
-- N.76 : Tourmente  
-- N.80 : Reflet  
+- Lv. 1  Bite, Growl, Fake Tears, Smokescreen, Helping Hand, Sand Attack
+- Lv. 5  Hex
+- Lv. N.8 : Hypnose
+- Lv. N.12 : Ball’Ombre
+- Lv. 14 Bitter Malice
+- Lv. N.17 : Ombre Nocturne
+- Lv. 18 Nasty Plot
+- Lv. 22 Phantom Force
+- Lv. 26 Destiny Bond
+- Lv. 30 Confusion
+- Lv. 34 Dream Eater
+- Lv. 37 Ally Switch
+- Lv. 40 Amnesia
+- Lv. 43 Worry Seed
+- Lv. 50 Nightmare
+- Lv. 54 Thief
+- Lv. 57 Energy Ball
+- Lv. 60 Will-O-Wisp
+- Lv. N.67 : Souffle Glacé
+- Lv. 73 Quash
+- Lv. 76 Torment
+- Lv. 80 Double Team
 
 #### CT
 
-Repos, Plénitude, Charme, Onde Folie, Vole-Vie, Nœud Herbe, Vampigraine, Possessif, Salle de Magie, Mur Lumière, Abri, Échange, Ronflement, Force Ajoutée, Provoc, Téra-Explosion, Psykoud’Boul, Esprit Frappeur  
+Repos, Plénitude, Charme, Onde Folie, Vole-Vie, Nœud Herbe, Vampigraine, Possessif, Salle de Magie, Mur Lumière, Abri, Échange, Ronflement, Force Ajoutée, Provoc, Téra-Explosion, Psykoud’Boul, Esprit Frappeur
 
-![Spectreon](https://github.com/user-attachments/assets/28254552-80eb-497a-8dd4-935b7fd4f358)
+![image](https://github.com/user-attachments/assets/b57a2fc4-6e2b-4978-b53d-8b1170c31254)
 
 ---
 
-
-
 ## Acideon
 
-**Type :** Poison  
+**Type :** Poison
 
 **Statistiques**
 
-| Stat  | Valeur |
-| ----- | ----- |
-| PV    | 95    |
-| ATQ   | 65    |
-| DEF   | 65    |
-| ATQ. SPÉ | 130 |
-| DEF. SPÉ | 110 |
-| VIT   | 60    |
+| Stat                     | Valeur                         |
+| ------------------------ | ------------------------------ |
+| HP                       | **DEF:** 95    |
+| ATQ                      | **HP:** 65     |
+| DEF                      | **HP:** 65     |
+| SPÉ ATQ. | **SpATK:** 130 |
+| DEF. SPÉ | **SPD:** 110   |
+| SPD                      | **SpATK:** 60  |
 
 **Talents**
 
-- **Talents :** Point Poison, Suintement  
-- **Talent Caché :** Corrosion  
+- **Talents :** Point Poison, Suintement
+- **Talent Caché :** Corrosion
 
 **Lieux d’apparition**
 
-- Swamp biomes  
+- Swamp biomes
 
 **Méthode d’évolution**
 
@@ -122,57 +123,57 @@ Repos, Plénitude, Charme, Onde Folie, Vole-Vie, Nœud Herbe, Vampigraine, Posse
 
 #### Attaques par niveau
 
-- N.1 : Morsure, Râle, Larmes-Faux, Écran Fumée, Coup d’Main, Jet de Sable, Armure  
-- N.4 : Dard-Venin  
-- N.7 : Sabotage  
-- N.9 : Grincement  
-- N.12 : Acide  
-- N.15 : Mâchouille  
-- N.19 : Bombe Acide  
-- N.23 : Gaz Toxik  
-- N.27 : Purification  
-- N.29 : Partage Force  
-- N.32 : Griffe Acier  
-- N.34 : Toxik  
-- N.38 : Bomb-Beurk  
-- N.42 : Dard Mortel  
-- N.46 : Lilliput  
-- N.50 : Armure Acide  
-- N.53 : Queue-Poison  
-- N.58 : Bâillement  
-- N.60 : Croix Poison  
+- Lv. 1  Bite, Growl, Fake Tears, Smokescreen, Helping Hand, Sand Attack, Harden
+- Lv. 4  Poison Sting
+- Lv. 7  Knock Off
+- Lv. N.9 : Grincement
+- Lv. N.12 : Acide
+- Lv. 15 Crunch
+- Lv. N.19 : Bombe Acide
+- Lv. N.23 : Gaz Toxik
+- Lv. 27 Clear Smog
+- Lv. 29 Pain Split
+- Lv. 32 Metal Claw
+- Lv. 34 Toxic
+- Lv. N.38 : Bomb-Beurk
+- Lv. 42 Gunk Shot
+- Lv. 46 Minimize
+- Lv. N.50 : Armure Acide
+- Lv. 53 Poison Tail
+- Lv. 58 Yawn
+- Lv. N.60 : Croix Poison
 
 #### CT
 
-Repos, Plénitude, Charme, Onde Folie, Venoshock, Reflet, Détricanon, Vampigraine, Possessif, Bombe Fange, Picots, Pics Toxik, Ultralaser, Abri, Représailles, Force Ajoutée, Direct Toxik, Téra-Explosion, Ball’Ombre, Distorsion  
+Repos, Plénitude, Charme, Onde Folie, Venoshock, Reflet, Détricanon, Vampigraine, Possessif, Bombe Fange, Picots, Pics Toxik, Ultralaser, Abri, Représailles, Force Ajoutée, Direct Toxik, Téra-Explosion, Ball’Ombre, Distorsion
 
-![Acideon](https://github.com/user-attachments/assets/337c2728-f144-493c-9702-82530f0aecc7)
+![image](https://github.com/user-attachments/assets/337c2728-f144-493c-9702-82530f0aecc7)
 
 ---
 
 ## Champeon
 
-**Type :** Combat  
+**Type :** Combat
 
 **Statistiques**
 
-| Stat  | Valeur |
-| ----- | ----- |
-| PV    | 65    |
-| ATQ   | 130   |
-| DEF   | 110   |
-| ATQ. SPÉ | 65  |
-| DEF. SPÉ | 60  |
-| VIT   | 95    |
+| Stat                     | Valeur                        |
+| ------------------------ | ----------------------------- |
+| HP                       | **SpATK:** 65 |
+| ATQ                      | **SPD:** 130  |
+| DEF                      | **SPD:** 110  |
+| SPÉ ATQ. | **ATK:** 65   |
+| DEF. SPÉ | **SPD:** 60   |
+| SPD                      | **HP:** 95    |
 
 **Talents**
 
-- **Talents :** Pelage Épais, Acharné  
-- **Talent Caché :** Querelleur  
+- **Talents :** Pelage Épais, Acharné
+- **Talent Caché :** Querelleur
 
 **Lieux d’apparition**
 
-- Windswept Savanna  
+- Windswept Savanna
 
 **Méthode d’évolution**
 
@@ -184,63 +185,61 @@ Repos, Plénitude, Charme, Onde Folie, Venoshock, Reflet, Détricanon, Vampigrai
 
 #### Attaques par niveau
 
-- N.1 : Assurance, Râle, Mimi-Queue, Coup d’Main, Jet de Sable, Poing Feu, Poing Glace, Poing Éclair  
-- N.5 : Onde Vide  
-- N.8 : Mach Punch  
-- N.12 : Garde Rapide  
-- N.14 : Agilité  
-- N.17 : Vampipoing  
-- N.18 : Pisto-Poing  
-- N.22 : Abri  
-- N.26 : Riposte  
-- N.30 : Feinte  
-- N.34 : Poursuite  
-- N.37 : Méga-Poing  
-- N.40 : Uppercut Céleste  
-- N.43 : Frustration  
-- N.50 : Berceuse  
-- N.54 : Dégommage  
-- N.57 : Lame de Roc  
-- N.60 : Casse-Brique  
-- N.67 : Close Combat  
-- N.73 : Gonflette  
-- N.76 : Tourmente  
-- N.80 : Détection  
+- Lv. 1  Assurance, Growl, Tail Whip, Helping Hand, Sand Attack, Fire Punch, Ice Punch, Thunder Punch
+- Lv. 5  Vacuum Wave
+- Lv. N.8 : Mach Punch
+- Lv. N.12 : Garde Rapide
+- Lv. N.14 : Agilité
+- Lv. 17 Drain Punch
+- Lv. 18 Bullet Punch
+- Lv. 22 Protect
+- Lv. 26 Counter
+- Lv. N.30 : Feinte
+- Lv. 34 Pursuit
+- Lv. 37 Mega Punch
+- Lv. 40 Sky Uppercut
+- Lv. N.43 : Frustration
+- Lv. 50 Round
+- Lv. 54 Fling
+- Lv. N.57 : Lame de Roc
+- Lv. 60 Brick Break
+- Lv. N.67 : Close Combat
+- Lv. 73 Bulk Up
+- Lv. 76 Torment
+- Lv. 80 Detect
 
 #### CT
 
-Plaquage, Mur de Fer, Clonage, Rafale Poing, Poing Focus, Poing de Force, Pied Sauté, Poing-Karate, Balayage, Balayette, Vendetta, Triple Pied, Coup-Croix, Dark Lariat, Tricherie, Baston, Demi-Tour  
+Body Press, Iron Defense, Substitute, Arm Thrust, Focus Punch, Force Palm, High Jump Kick, Karate Chop, Low Kick, Low Sweep, Mat Block, Revenge, Rolling Kick, Triple Kick, Cross Chop, Darkest Lariat, Foul Play, Beat Up, Parting Shot
 
-![Champeon](https://github.com/user-attachments/assets/63f7d08d-292f-41d9-9398-7ba3b5b818d0)
+![image](https://github.com/user-attachments/assets/63f7d08d-292f-41d9-9398-7ba3b5b818d0)
 
 ---
 
+## **Aereon**
 
-
-## Aereon
-
-**Type :** Vol  
+**Type :** Vol
 
 **Statistiques**
 
-| Stat  | Valeur |
-| ----- | ----- |
-| PV    | 65    |
-| ATQ   | 110   |
-| DEF   | 95    |
-| ATQ. SPÉ | 65  |
-| DEF. SPÉ | 60  |
-| VIT   | 130   |
+| Stat                     | Valeur                        |
+| ------------------------ | ----------------------------- |
+| HP                       | **SpDEF:** 65 |
+| ATQ                      | **ATK:** 110  |
+| DEF                      | **SPD:** 95   |
+| SPÉ ATQ. | **SpDEF:** 65 |
+| DEF. SPÉ | **SpATK:** 60 |
+| SPD                      | **DEF:** 130  |
 
 **Talents**
 
-- **Talents :** Délestage, Agitation  
-- **Talent Caché :** Simple  
+- **Talents :** Délestage, Agitation
+- **Talent Caché :** Simple
 
 **Lieux d’apparition**
 
-- Meadow biomes  
-- Windswept Hills  
+- Meadow biomes
+- Windswept Hills
 
 **Méthode d’évolution**
 
@@ -253,63 +252,63 @@ Plaquage, Mur de Fer, Clonage, Rafale Poing, Poing Focus, Poing de Force, Pied S
 
 #### Attaques par niveau
 
-- N.1 : Tornade, Râle, Mimi-Queue, Coup d’Main, Jet de Sable  
-- N.5 : Regard Noir  
-- N.8 : Lame d’Air  
-- N.12 : Morsure  
-- N.14 : Agilité  
-- N.17 : Danse Pluie  
-- N.18 : Lame d’Air / Vent Violent  
-- N.22 : Vent Arrière  
-- N.24 : Anti-Brume  
-- N.26 : Acrobatie  
-- N.30 : Ébullition  
-- N.34 : Tonnerre  
-- N.37 : Poudreuse, Blizzard  
-- N.40 : Laser Glace  
-- N.43 : Aéropique  
-- N.50 : Cyclone  
-- N.54 : Reflet  
-- N.57 : Atterrissage  
-- N.60 : Vol  
-- N.64 : Éclair Gelé  
-- N.67 : Canicule  
-- N.73 : Lance-Soleil  
-- N.76 : Danse Plume  
-- N.80 : Chute Libre  
+- Lv. 1  Gust, Growl, Tail Whip, Helping Hand, Sand Attack
+- Lv. 5.
+- Lv. N.8 : Lame d’Air
+- Lv. 12 Bite
+- Lv. N.14 : Agilité
+- Lv. N.17 : Danse Pluie
+- Lv. 18 Air Slash
+- Lv. 22 Tailwind
+- Lv. 24 Defog
+- Lv. N.26 : Acrobatie
+- Lv. N.30 : Ébullition
+- Lv. 34 Thunder
+- Lv. N.37 : Poudreuse, Blizzard
+- Lv. 40 Ice Beam
+- Lv. N.43 : Aéropique
+- Lv. 50 Whirlwind
+- Lv. 54 Double Team
+- Lv. 57 Roost
+- Lv. N.60 : Vol
+- Lv. 64 Freeze Shock
+- Lv. 67 Heat Wave
+- Lv. 73 Solar Beam
+- Lv. N.76 : Danse Plume
+- Lv. 80 Sky Drop
 
 #### CT
 
-Ouragan, Danse-Lames, Dégommage, Rapace, Cru-Aile, Piqué, Rebond, Éclats Glace, Nuzzle, Étincelle, Surchauffe, Zénith, Cage-Éclair, Grêle, Voile Aurore, Brume  
+Ouragan, Danse-Lames, Dégommage, Rapace, Cru-Aile, Piqué, Rebond, Éclats Glace, Nuzzle, Étincelle, Surchauffe, Zénith, Cage-Éclair, Grêle, Voile Aurore, Brume
 
-![Aereon](https://github.com/user-attachments/assets/c737dfec-c903-4e66-a411-98cf66c5261b)
+![image](https://github.com/user-attachments/assets/c737dfec-c903-4e66-a411-98cf66c5261b)
 
 ---
 
-## Minereon
+## **Minereon**
 
-**Type :** Roche  
+**Type :** Roche
 
 **Statistiques**
 
-| Stat  | Valeur |
-| ----- | ----- |
-| PV    | 95    |
-| ATQ   | 110   |
-| DEF   | 130   |
-| ATQ. SPÉ | 60  |
-| DEF. SPÉ | 65  |
-| VIT   | 65    |
+| Stat                     | Valeur                       |
+| ------------------------ | ---------------------------- |
+| HP                       | **HP:** 95   |
+| ATQ                      | **ATK:** 110 |
+| DEF                      | **DEF:** 130 |
+| SPÉ ATQ. | **SPD:** 60  |
+| DEF. SPÉ | **HP:** 65   |
+| SPD                      | **SPD:** 65  |
 
 **Talents**
 
-- **Talents :** Force Sable, Fermeté  
-- **Talent Caché :** Regard Vif  
+- **Talents :** Force Sable, Fermeté
+- **Hidden Ability:** Keen Eye
 
 **Lieux d’apparition**
 
-- Tous biomes souterrains  
-  - **Sauf :** Deep Dark, Abyss-like  
+- Tous biomes souterrains
+  - **Sauf :** Deep Dark, Abyss-like
 
 **Méthode d’évolution**
 
@@ -322,57 +321,57 @@ Ouragan, Danse-Lames, Dégommage, Rapace, Cru-Aile, Piqué, Rebond, Éclats Glac
 
 #### Attaques par niveau
 
-- N.1 : Roulade, Râle, Mimi-Queue, Charge, Jet de Sable  
-- N.5 : Poliroche  
-- N.8 : Tempête de Sable  
-- N.12 : Armure  
-- N.14 : Jet-Pierres  
-- N.17 : Destruction  
-- N.18 : Piège de Roc  
-- N.22 : Piétisol  
-- N.24 : Pouvoir Antique  
-- N.26 : Fracass'Tête  
-- N.30 : Éclate-Roc  
-- N.34 : Rayon Gemme  
-- N.37 : Goudronnage, Mur de Fer  
-- N.40 : Coup d’Boule  
-- N.43 : Coud’Boue  
-- N.50 : Tomberoche  
-- N.54 : Éboulement  
-- N.57 : Abri  
-- N.60 : Surpuissance  
-- N.67 : Lame de Roc  
-- N.73 : Façade  
-- N.76 : Piétisol  
-- N.80 : Séisme  
+- Lv. 1  Rollout, Growl, Tail Whip, Tackle, Sand Attack
+- Lv. 5  Rock Polish
+- Lv. 8  Sandstorm
+- Lv. 12 Harden
+- Lv. 14 Rock Throw
+- Lv. N.17 : Destruction
+- Lv. N.18 : Piège de Roc
+- Lv. 22 Bulldoze
+- Lv. N.24 : Pouvoir Antique
+- Lv. 26 Head Smash
+- Lv. 30 Rock Smash
+- Lv. 34 Power Gem
+- Lv. 37 Tar Shot, Iron Defense
+- Lv. 40 Headbutt
+- Lv. 43 Mud-Slap
+- Lv. N.50 : Tomberoche
+- Lv. 54 Rock Slide
+- Lv. 57 Protect
+- Lv. 60 Superpower
+- Lv. N.67 : Lame de Roc
+- Lv. 73 Facade
+- Lv. 76 Bulldoze
+- Lv. 80 Earthquake
 
 #### CT
 
-Éclat Magique, Explosion, Mur Lumière, Tête de Fer, Soin, Lien du Destin, Giga Impact, Anti-Air, Roc-Boulet, Garde Large, Cavalerie Lourde, Tunnel, Tir de Boue, Poing Météor, Queue de Fer, Tacle Lourd, Tricherie, Éruption, Jet-Lave  
+Éclat Magique, Explosion, Mur Lumière, Tête de Fer, Soin, Lien du Destin, Giga Impact, Anti-Air, Roc-Boulet, Garde Large, Cavalerie Lourde, Tunnel, Tir de Boue, Poing Météor, Queue de Fer, Tacle Lourd, Tricherie, Éruption, Jet-Lave
 
-![Minereon](https://github.com/user-attachments/assets/b57a2fc4-6e2b-4978-b53d-8b1170c31254)
+![image](https://github.com/user-attachments/assets/aa4b42a5-17a9-4245-a5dc-00055967e137)
 
 ---
 
-## Hiveon
+## **Hiveon**
 
-**Type :** Insecte  
+**Type :** Insecte
 
 **Statistiques**
 
-| Stat  | Valeur |
-| ----- | ----- |
-| PV    | 65    |
-| ATQ   | 130   |
-| DEF   | 95    |
-| ATQ. SPÉ | 60  |
-| DEF. SPÉ | 65  |
-| VIT   | 110   |
+| Stat                     | Valeur                        |
+| ------------------------ | ----------------------------- |
+| HP                       | **ATK:** 65   |
+| ATQ                      | **ATK:** 130  |
+| DEF                      | **HP:** 98    |
+| SPÉ ATQ. | **SPD:** 60   |
+| DEF. SPÉ | **SpDEF:** 65 |
+| SPD                      | **ATK:** 110  |
 
 **Talents**
 
-- **Talents :** Œil Composé, Essaim  
-- **Talent Caché :** Pression  
+- **Talents :** Œil Composé, Essaim
+- **Talent Caché :** Pression
 
 **Lieux d’apparition**
 
@@ -389,58 +388,58 @@ Ouragan, Danse-Lames, Dégommage, Rapace, Cru-Aile, Piqué, Rebond, Éclats Glac
 
 #### Attaques par niveau
 
-- N.1 : Piqûre, Râle, Mimi-Queue, Charge, Vol-Vie  
-- N.5 : Sécrétion  
-- N.9 : Dard-Venin  
-- N.13 : Furie  
-- N.16 : Concentration  
-- N.17 : Papillodanse  
-- N.20 : Picots  
-- N.23 : Assurance  
-- N.24 : Toile Gluante  
-- N.27 : Dard-Nuée  
-- N.30 : Demi-Tour  
-- N.33 : Survinsecte  
-- N.37 : Escarmouche  
-- N.39 : Pom-Pom  
-- N.41 : Vampirisme  
-- N.43 : Bourdon  
-- N.50 : Dard Mortel  
-- N.54 : Venoshock  
-- N.57 : Abri  
-- N.60 : Méga-Sangsue  
-- N.67 : Danse-Lames  
-- N.73 : Façade  
-- N.76 : Faux-Chage  
-- N.80 : Bombe Miel  
+- Lv. 1  Bug Bite, Growl, Tail Whip, Tackle, Absorb
+- Lv. 5  String Shot
+- Lv. 9  Poison Sting
+- Lv. 13 Fury Attack
+- Lv. 16 Laser Focus
+- Lv. 17 Quiver Dance
+- Lv. N.20 : Picots
+- Lv. N.23 : Assurance
+- Lv. 24 Sticky Web
+- Lv. 27 Pin Missile
+- Lv. 30 U-turn
+- Lv. 33 Struggle Bug
+- Lv. 37 First Impression
+- Lv. 39 Pounce
+- Lv. 41 Leech Life
+- Lv. 43 Bug Buzz
+- Lv. 50 Fell Stinger
+- Lv. N.54 : Venoshock
+- Lv. 57 Protect
+- Lv. 60 Giga Drain
+- Lv. N.67 : Danse-Lames
+- Lv. 73 Facade
+- Lv. 76 False Swipe
+- Lv. N.80 : Bombe Miel
 
 #### CT
 
-Bomb-Beurk, Séisme, Lame d’Air, Survinsecte, Martobois, Méga-Corne, Feuille Magik, Siffl’Herbe, Vent Arrière, Tornade, Cru-Aile, Bain de Smog, Croix Poison, Acide, Poudre Toxik, Crocs Venin, Purification, Parfum  
+Bomb-Beurk, Séisme, Lame d’Air, Survinsecte, Martobois, Méga-Corne, Feuille Magik, Siffl’Herbe, Vent Arrière, Tornade, Cru-Aile, Bain de Smog, Croix Poison, Acide, Poudre Toxik, Crocs Venin, Purification, Parfum
 
-![Hiveon](https://github.com/user-attachments/assets/407859e4-dc98-4e62-9581-b6367afb7be6)
+![image](https://github.com/user-attachments/assets/407859e4-dc98-4e62-9581-b6367afb7be6)
 
 ---
 
-## Automeon
+## **Automeon**
 
-**Type :** Acier  
+**Type :** Acier
 
 **Statistiques**
 
-| Stat  | Valeur |
-| ----- | ----- |
-| PV    | 65    |
-| ATQ   | 110   |
-| DEF   | 130   |
-| ATQ. SPÉ | 65  |
-| DEF. SPÉ | 65  |
-| VIT   | 60    |
+| Stat                     | Valeur                         |
+| ------------------------ | ------------------------------ |
+| HP                       | **SpDEF:** 65  |
+| ATQ                      | **SpDEF:** 110 |
+| DEF                      | **SpATK:** 130 |
+| SPÉ ATQ. | **SpATK:** 65  |
+| DEF. SPÉ | **HP:** 65     |
+| SPD                      | **DEF:** 60    |
 
 **Talents**
 
-- **Talents :** Armurouillée, Corps Sain  
-- **Talent Caché :** Analyste  
+- **Talents :** Armurouillée, Corps Sain
+- **Talent Caché :** Analyste
 
 **Lieux d’apparition**
 
@@ -457,65 +456,63 @@ Bomb-Beurk, Séisme, Lame d’Air, Survinsecte, Martobois, Méga-Corne, Feuille 
 
 #### Attaques par niveau
 
-- N.1 : Rayon Chargé, Turbine, Mimi-Queue, Charge, Éclair  
-- N.5 : Strido-Son  
-- N.8 : Charge  
-- N.12 : Rayon Chargé  
-- N.14 : Allègement  
-- N.17 : Coup d’Jus  
-- N.18 : Éclat-Fer  
-- N.22 : Verrouillage  
-- N.24 : Écrasement  
-- N.26 : Mur de Fer  
-- N.30 : Tacle Lourd  
-- N.34 : Canon Flash  
-- N.37 : Destruction, Tête de Fer  
-- N.40 : Piège de Roc  
-- N.43 : Cage-Éclair  
-- N.50 : Steel Roller  
-- N.54 : Griffe Acier  
-- N.55 : Parabocharge  
-- N.57 : Poing Météor  
-- N.60 : Lévikinésie  
-- N.67 : Danse-Lames  
-- N.73 : Pisto-Poing  
-- N.76 : Gyroballe  
-- N.80 : Aiguisage  
+- Lv. N.1 : Roulade, Râle, Mimi-Queue, Charge, Jet de Sable
+- Lv. 5  Metal Sound
+- Lv. N.8 : Charge
+- Lv. 12 Charge Beam
+- Lv. 14 Autotomize
+- Lv. 17 Discharge
+- Lv. 18 Gear Grind
+- Lv. N.22 : Verrouillage
+- Lv. 24 Stomp
+- Lv. 26 Iron Defense
+- Lv. 30 Heavy Slam
+- Lv. 34 Zap Cannon
+- Lv. N.37 : Destruction, Tête de Fer
+- Lv. N.40 : Piège de Roc
+- Lv. 43 Thunder Wave
+- Lv. N.50 : Steel Roller
+- Lv. 54 Metal Claw
+- Lv. N.55 : Parabocharge
+- Lv. 57 Meteor Mash
+- Lv. 60 Magnet Rise
+- Lv. N.67 : Danse-Lames
+- Lv. 73 Bullet Punch
+- Lv. 76 Gyro Ball
+- Lv. 80 Hone Claws
 
 #### CT
 
-Vitesse Extrême, Distorsion, Soin, Explosion, Tête de Fer, Frappe Foudre, Crocs Éclair, Volt Tackle, Tonnerre, Surchauffe, Feu d’Enfer, Canicule, Incinération, Rafale Feu, Amnésie, Entrave, Détection, Flash, Prescience  
+Vitesse Extrême, Distorsion, Soin, Explosion, Tête de Fer, Frappe Foudre, Crocs Éclair, Volt Tackle, Tonnerre, Surchauffe, Feu d’Enfer, Canicule, Incinération, Rafale Feu, Amnésie, Entrave, Détection, Flash, Prescience
 
-![Automeon](https://github.com/user-attachments/assets/f1b97202-919b-40b9-b210-ca63ee6cea93)
+![image](https://github.com/user-attachments/assets/f1b97202-919b-40b9-b210-ca63ee6cea93)
 
 ---
 
-
-
 ## Wyveon
 
-**Type :** Dragon  
+**Type :** Dragon
 
 **Statistiques**
 
-| Stat  | Valeur |
-| ----- | ----- |
-| PV    | 65    |
-| ATQ   | 110   |
-| DEF   | 95    |
-| ATQ. SPÉ | 130 |
-| DEF. SPÉ | 65  |
-| VIT   | 60    |
+| Stat                     | Valeur                         |
+| ------------------------ | ------------------------------ |
+| HP                       | **HP:** 65     |
+| ATQ                      | **SPD:** 110   |
+| DEF                      | **SpDEF:** 95  |
+| SPÉ ATQ. | **SpATK:** 130 |
+| DEF. SPÉ | **HP:** 65     |
+| SPD                      | **SpDEF:** 60  |
 
 **Talents**
 
-- **Talents :** Rivalité, Envelocape  
-- **Talent Caché :** Tête de Roc  
+- **Talents :** Rivalité, Envelocape
+- **Talent Caché :** Tête de Roc
 
 **Lieux d’apparition**
 
-- Tall Mountain biomes  
-  - **Sauf :** variantes enneigées  
+- Tall Mountain biomes
+  - **Sauf :** variantes enneigées
 
 **Méthode d’évolution**
 
@@ -527,120 +524,121 @@ Vitesse Extrême, Distorsion, Soin, Explosion, Tête de Fer, Frappe Foudre, Croc
 
 #### Attaques par niveau
 
-- N.1 : Griffe, Bélier, Mimi-Queue, Regard Noir, Faux-Chage  
-- N.5 : Assurance  
-- N.8 : Dracogriffe  
-- N.12 : Griffe Acier  
-- N.18 : Draco-Souffle  
-- N.22 : Blizzard  
-- N.24 : Damoclès  
-- N.26 : Blitz  
-- N.30 : Outrage  
-- N.34 : Tonnerre  
-- N.37 : Steel Beam, Armure Acide  
-- N.40 : Griffe Ombre  
-- N.43 : Piège de Roc  
-- N.50 : Queue de Fer  
-- N.54 : Griffe Acier  
-- N.57 : Clonage  
-- N.60 : Vibrobscur  
-- N.67 : Danse Draco  
-- N.73 : Marteau‑Dragon  
-- N.76 : Double Baffe  
-- N.80 : Draco‑Météore  
+- Lv. 1  Scratch, Take Down, Tail Whip, Leer, False Swipe
+- Lv. N.5 : Assurance
+- Lv. N.8 : Dracogriffe
+- Lv. 12 Metal Claw
+- Lv. 18 Dragon Breath
+- Lv. N.22 : Blizzard
+- Lv. 24 Head Charge
+- Lv. N.26 : Blitz
+- Lv. N.30 : Outrage
+- Lv. 34 Thunderbolt
+- Lv. N.37 : Steel Beam, Armure Acide
+- Lv. N.40 : Griffe Ombre
+- Lv. N.43 : Piège de Roc
+- Lv. 50 Iron Tail
+- Lv. 54 Metal Claw
+- Lv. 57 Substitute
+- Lv. 60 Snarl
+- Lv. N.67 : Danse Draco
+- Lv. N.73 : Marteau‑Dragon
+- Lv. N.76 : Double Baffe
+- Lv. N.80 : Draco‑Météore
 
 #### CT
 
-Repos, Blabla Dodo, Agilité, Piqué, Rapace, Aquatacle, Tornade, Machination, Danse-Lames, Vol, Extrasenseur, Anti-Soin, Tacle Lourd, Rayon Chargé, Vibrobscur, Dard-Nuée, Jet‑Pierres, Laser Glace, Brume, Étonnement  
+Repos, Blabla Dodo, Agilité, Piqué, Rapace, Aquatacle, Tornade, Machination, Danse-Lames, Vol, Extrasenseur, Anti-Soin, Tacle Lourd, Rayon Chargé, Vibrobscur, Dard-Nuée, Jet‑Pierres, Laser Glace, Brume, Étonnement
 
-![Wyveon](https://github.com/user-attachments/assets/45559d11-a328-4fa5-aef0-f15c016869ca)
+![image](https://github.com/user-attachments/assets/45559d11-a328-4fa5-aef0-f15c016869ca)
 
 ---
 
 ## Dungeon
 
-**Type :** Sol  
+**Type :** Sol
 
 **Statistiques**
 
-| Stat  | Valeur |
-| ----- | ----- |
-| PV    | 65    |
-| ATQ   | 110   |
-| DEF   | 130   |
-| ATQ. SPÉ | 95  |
-| DEF. SPÉ | 65  |
-| VIT   | 60    |
+| Stat                     | Valeur                        |
+| ------------------------ | ----------------------------- |
+| HP                       | **SpATK:** 65 |
+| ATQ                      | **DEF:** 110  |
+| DEF                      | **ATK:** 130  |
+| SPÉ ATQ. | **DEF:** 95   |
+| DEF. SPÉ | **SpDEF:** 65 |
+| SPD                      | **SPD:** 60   |
 
 **Talents**
 
-- **Talents :** Piège Sable, Tempo Perso  
-- **Talent Caché :** Brise Moule  
+- **Talents :** Piège Sable, Tempo Perso
+- **Hidden Ability:** Mold Breaker
 
 **Lieux d’apparition**
 
-- Badlands *(Ultra Rare)*  
-- Deep Dark / Abyss-like *(Rare)*  
+- Badlands _(Ultra Rare)_
+- Deep Dark / Abyss-like _(Rare)_
 
 **Méthode d’évolution**
 
-- Evoli tenant une **Lantern** dans un biome **Deep Dark**.
+- While holding a **Lantern**, in the **Deep Dark**.
 
-> Lorsque des dresseurs se perdent sous terre, Dungeon utilise sa lanterne pour les guider vers la sortie. Parfois, il choisit de quitter la grotte pour accompagner ces voyageurs.
+> Lorsque des dresseurs se perdent sous terre, Dungeon utilise sa lanterne pour les guider vers la sortie.  
+> Parfois, il choisit de quitter la grotte pour accompagner ces voyageurs.
 
 ### Learnset
 
 #### Attaques par niveau
 
-- N.1 : Griffe, Râle, Mimi‑Queue, Charge, Jet de Sable  
-- N.5 : Tourbi‑Sable  
-- N.8 : Tempête de Sable  
-- N.12 : Coud’Boue  
-- N.14 : Coup Bas  
-- N.17 : Tunnel  
-- N.22 : Piétisol  
-- N.24 : Pouvoir Antique  
-- N.26 : Telluriforce  
-- N.30 : Tir de Boue  
-- N.34 : Éclats Roc  
-- N.37 : Bomb‑Beurk, Clonage  
-- N.40 : Giga Impact  
-- N.43 : Griffe Acier  
-- N.50 : Tomberoche  
-- N.54 : Éboulement  
-- N.57 : Charge‑Os  
-- N.60 : Osmerang  
-- N.67 : Lame de Roc  
-- N.73 : Trépignement  
-- N.80 : Abîme  
+- Lv. 1  Scratch, Growl, Tail Whip, Tackle, Sand Attack
+- Lv. 5  Sand Tomb
+- Lv. 8  Sandstorm
+- Lv. 12 Mud-Slap
+- Lv. 14 Sucker Punch
+- Lv. 17 Dig
+- Lv. 22 Bulldoze
+- Lv. N.24 : Pouvoir Antique
+- Lv. 26 Earth Power
+- Lv. 30 Mud Shot
+- Lv. 34 Rock Blast
+- Lv. N.37 : Bomb‑Beurk, Clonage
+- Lv. N.40 : Giga Impact
+- Lv. 43 Metal Claw
+- Lv. N.50 : Tomberoche
+- Lv. 54 Rock Slide
+- Lv. 57 Bone Rush
+- Lv. 60 Bonemerang
+- Lv. N.67 : Lame de Roc
+- Lv. 73 Stomping Tantrum
+- Lv. 80 Fissure
 
 #### CT
 
-Soin, Explosion, Piège de Roc, Possessif, Séisme, Vive‑Aile, Tunnelier, Tranche‑Nuit, Tranche‑Crâne, Vibrobscur, Sabotage, Ténacité, Suivez‑Moi, Rancune, Armure, Regard Noir, Machination, Casse‑Brique, Marteau‑Dragon, Faux‑Chage  
+Soin, Explosion, Piège de Roc, Possessif, Séisme, Vive‑Aile, Tunnelier, Tranche‑Nuit, Tranche‑Crâne, Vibrobscur, Sabotage, Ténacité, Suivez‑Moi, Rancune, Armure, Regard Noir, Machination, Casse‑Brique, Marteau‑Dragon, Faux‑Chage
 
-![Dungeon](https://github.com/user-attachments/assets/aa4b42a5-17a9-4245-a5dc-00055967e137)
+![image](https://github.com/user-attachments/assets/1bf0b5d1-c683-40b4-b435-1da498d09cb4)
 
 ---
 
-## Eeveeon
+## New Eeveelutions
 
-**Type :** Normal  
+**Type :** Normal
 
 **Statistiques**
 
-| Stat  | Valeur |
-| ----- | ----- |
-| PV    | 85    |
-| ATQ   | 105   |
-| DEF   | 85    |
-| ATQ. SPÉ | 100 |
-| DEF. SPÉ | 95  |
-| VIT   | 110   |
+| Stat                     | Valeur                       |
+| ------------------------ | ---------------------------- |
+| HP                       | **HP:** 85   |
+| ATQ                      | 105                          |
+| DEF                      | **DEF:** 85  |
+| SPÉ ATQ. | 100                          |
+| DEF. SPÉ | **DEF:** 95  |
+| SPD                      | **ATK:** 110 |
 
 **Talents**
 
-- **Talents :** Adaptabilité, Anticipation  
-- **Talent Caché :** Normalise  
+- **Talents :** Adaptabilité, Anticipation
+- **Talent Caché :** Normalise
 
 **Lieux d’apparition**
 
@@ -657,62 +655,62 @@ Soin, Explosion, Piège de Roc, Possessif, Séisme, Vive‑Aile, Tunnelier, Tran
 
 #### Attaques par niveau
 
-- N.1 : Griffe, Râle, Mimi‑Queue, Charge, Jet de Sable, Dernier Recours  
-- N.5 : Bluff  
-- N.8 : Feinte  
-- N.12 : Morsure  
-- N.14 : Provoc  
-- N.17 : Assurance  
-- N.18 : Combo‑Griffe  
-- N.22 : Tranche  
-- N.24 : Câlinerie  
-- N.26 : Coup d’Boule  
-- N.30 : Écrasement  
-- N.34 : Mâchouille  
-- N.37 : Contre, Abri  
-- N.40 : Damoclès  
-- N.43 : Boul’Armure  
-- N.50 : Relais  
-- N.54 : Agilité  
-- N.57 : Rebond  
-- N.60 : Vœu Soin  
-- N.67 : Mach Punch  
-- N.73 : Façade  
-- N.76 : Ultralaser  
-- N.80 : Giga Impact  
+- Lv. 1  Scratch, Growl, Tail Whip, Tackle, Sand Attack, Last Resort
+- Lv. 5  Fake Out
+- Lv. N.8 : Feinte
+- PV 12 Bite
+- Lv. 14 Taunt
+- PV N.17 : Assurance
+- Lv. 18 Fury Swipes
+- Lv. 22 Slash
+- Lv. 24 Play Rough
+- Lv. 26 Headbutt
+- PV 30 Stomp
+- Lv. 34 Crunch
+- Lv. 37 Reversal, Protect
+- Lv. 40 Head Smash
+- Lv. 43 Defense Curl
+- Lv. 50 Baton Pass
+- PV N.54 : Agilité
+- PV 57 Bounce
+- Lv. 60 Healing Wish
+- Lv. N.67 : Mach Punch
+- PV 73 Facade
+- PV 76 Hyper Beam
+- PV N.80 : Giga Impact
 
 #### CT
 
-Lance‑Flammes, Surf, Éco‑Sphère, Laser Glace, Câlinerie, Tête de Fer, Psyko, Attract, Cognobidon, Effort, Hurlement, Bluff, Tranche‑Nuit, Onde de Choc, Parabocharge, Retour  
+Lance‑Flammes, Surf, Éco‑Sphère, Laser Glace, Câlinerie, Tête de Fer, Psyko, Attract, Cognobidon, Effort, Hurlement, Bluff, Tranche‑Nuit, Onde de Choc, Parabocharge, Retour
 
 ![Eeveeon](https://github.com/user-attachments/assets/1bf0b5d1-c683-40b4-b435-1da498d09cb4)
 
 ---
 
-## Evereon
+## **Evereon**
 
 **Type :** Normal  
-**Particularité :** Peut changer de type  
+**Particularité :** Peut changer de type
 
 **Statistiques**
 
-| Stat  | Valeur |
-| ----- | ----- |
-| PV    | 98    |
-| ATQ   | 115   |
-| DEF   | 90    |
-| ATQ. SPÉ | 115 |
-| DEF. SPÉ | 90  |
-| VIT   | 92    |
+| Stat                     | Valeur                        |
+| ------------------------ | ----------------------------- |
+| HP                       | 98                            |
+| ATQ                      | 115                           |
+| DEF                      | **SpDEF:** 90 |
+| SPÉ ATQ. | 115                           |
+| DEF. SPÉ | **DEF:** 90   |
+| SPD                      | 92                            |
 
 **Talents**
 
-- **Talents :** Protéen, Libéro  
-- **Talent Caché :** Force Pure  
+- **Talents :** Protéen, Libéro
+- **Talent Caché :** Force Pure
 
 **Lieux d’apparition**
 
-- Aucun *(ne peut pas être trouvé à l’état sauvage)*
+- Aucun _(ne peut pas être trouvé à l’état sauvage)_
 
 **Méthode d’évolution**
 
@@ -725,22 +723,17 @@ Lance‑Flammes, Surf, Éco‑Sphère, Laser Glace, Câlinerie, Tête de Fer, Ps
 
 #### Attaques par niveau
 
-- N.1 : Conversion, Météores, Charge, Vive‑Attaque, Mimi‑Queue, Râle  
-- N.5 : Morphéo‑Type  
-- N.10 : Photocopie  
-- N.15 : Mimique  
-- N.20 : Conversion 2  
-- N.25 : Abri  
-- N.30 : Métronome  
-- N.35 : Morphing  
-- N.40 : Soin  
-- N.45 : Vitesse Extrême  
-- N.50 : Ultralaser  
-- N.55 : Dernier Recours  
+- Lv. 1  Conversion, Swift, Tackle, Quick Attack, Tail Whip, Growl
+- Lv. 5  Reflect Type
+- PV N.10 : Photocopie
+- PV N.15 : Mimique
+- PV N.20 : Conversion 2
+- Lv. 25 Protect
+- PV N.30 : Métronome
+- PV N.35 : Morphing
+- Lv. 40 Recover
+- Lv. N.45 : Vitesse Extrême
+- PV N.50 : Ultralaser
+- Lv. 55 Last Resort
 
-![Evereon](https://github.com/user-attachments/assets/d5f3c80b-f0a6-4c72-94c8-eecc6e79447c)
-
----
-
-**FIN DU FICHIER — VERSION COMPLÈTE TRADUITE**
-
+![image](https://github.com/user-attachments/assets/d5f3c80b-f0a6-4c72-94c8-eecc6e79447c)
