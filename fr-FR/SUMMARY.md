@@ -19,6 +19,7 @@
 - [Pokemon Workers Guide](pokemons-guides/cobbleworkers-guide.md)
 - [Système de Montures](pokemons-guides/riding-system.md)
 - [Pokemon Shoulder Mount](pokemons-guides/shoulder_mount_effects.md)
+- [Fossils](pokemons-guides/fossils.md)
 - [Biome Tags Reference](pokemons-guides/biome-tags-reference.md)
 - [Serveurs Multijoueurs](multiplayer-servers.md)
 
