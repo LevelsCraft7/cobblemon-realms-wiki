@@ -6,24 +6,11 @@ If you experience **rollbacks, freezes, or poor performance** when playing Cobbl
 
 ## 💡 Recommended JVM Arguments
 
--Xms8G -Xmx10G -XX:+UnlockExperimentalVMOptions -XX:+UseZGC -XX:+ZGenerational
--XX:+AlwaysPreTouch -XX:+DisableExplicitGC -Djava.awt.headless=true
--XX:+UseCompressedOops -Dfile.encoding=UTF-8
-
-These values are designed for **Java 21** and use **ZGC with Generational GC**, an advanced garbage collector built for low latency.\
-They help:\
-They help:\
-They help:  
-They help:  
-They help:  
-They help:  
-They help:  
-They help:  
-They help:
-
-- Reduce **lag spikes** caused by garbage collection.
-- Minimize **RAM cleanup pauses**.
-- Prevent most **client-side rollbacks**.
+-Xms10G
+-Xmx10G
+-XX:+UseG1GC
+-XX:MaxGCPauseMillis=100
+-XX:InitiatingHeapOccupancyPercent=30
 
 ---
 
