@@ -11,6 +11,7 @@ If you experience **rollbacks, freezes, or poor performance** when playing Cobbl
 -XX:+UseG1GC
 -XX:MaxGCPauseMillis=100
 -XX:InitiatingHeapOccupancyPercent=30
+-XX:+ExplicitGCInvokesConcurrent
 
 ---
 
