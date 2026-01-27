@@ -11,7 +11,6 @@ If you experience **rollbacks, freezes, or poor performance** when playing Cobbl
 -XX:+UseG1GC
 -XX:MaxGCPauseMillis=100
 -XX:InitiatingHeapOccupancyPercent=30
--XX:+ExplicitGCInvokesConcurrent
 
 ---
 
@@ -33,4 +32,7 @@ If you experience **rollbacks, freezes, or poor performance** when playing Cobbl
 ## ✅ Summary
 
 By combining **Java 21** with these optimized JVM settings, you can fix most solo performance issues in Cobblemon Realms—especially those related to memory cleanup, lag spikes, and rollback glitches.\
+Enjoy smoother, more stable gameplay!\
+Enjoy smoother, more stable gameplay!\
+Enjoy smoother, more stable gameplay!  
 Enjoy smoother, more stable gameplay! 🧭
