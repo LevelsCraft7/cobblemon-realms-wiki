@@ -1,207 +1,203 @@
 # 🌌 Deeper and Darker
 
-Deeper and Darker does not focus on raw power, but on **tension**, **sound management**, and **survival in a hostile environment**. Exploration is slow and dangerous, and every mistake can have serious consequences.
+Deeper and Darker ne se concentre pas sur la puissance brute, mais sur la **tension**, la **gestion du son** et la **survie en environnement hostile**. L’exploration y est lente, dangereuse, et chaque erreur peut avoir de lourdes conséquences...
 
-This page covers:
+Cette page détaille :
 
-- 🚪 How to access the new dimension
-- ⚔️ Major equipment and key items
-- 🧬 Important creatures and resources
-- 📡 Special mechanics introduced by the mod
+- 🚪 Comment accéder à la nouvelle dimension
+- ⚔️ Les équipements et objets majeurs
+- 🧬 Les créatures et ressources clés
+- 📡 Les mécaniques spéciales introduites
 
 ---
 
-## 👁️ The Warden and its items
+## 👁️ Le Warden et ses objets
 
-The **Warden** plays a central role in the mod’s progression. It represents the first true obstacle, both mechanically and psychologically.
+Le **Warden** joue un rôle central dans la progression du mod. Il constitue le premier véritable obstacle, à la fois mécanique et psychologique.
 
-- ❤️ **500 health points**
-- ☠️ Extremely dangerous
-- 🤫 Sensitive to sounds and vibrations
+- ❤️ **500 points de vie**
+- ☠️ Extrêmement dangereux
+- 🤫 Sensible aux sons et vibrations
 
-🎁 Defeating it drops two essential items:
+🎁 En le vainquant, il drop deux objets essentiels :
 
 - 🫀 **Heart of the Deep**
 - 🦴 **Warden Carapace**
 
-These items unlock the advanced mechanics of the mod.
+Ces objets permettent d’accéder aux mécaniques avancées du mod.
 
 ---
 
-## 🚪 Accessing the _Deeper and Darker_ dimension
+## 🚪 Accès à la dimension _Deeper and Darker_
 
-### 🏛️ The portal
+### 🏛️ Le portail
 
-The portal is made of **Reinforced Deepslate** and is found inside an **Ancient City**.
+Le portail est composé de **Reinforced Deepslate** et se trouve dans une **Ancient City**.
 
-Characteristics:
+Caractéristiques :
 
-- Rectangular shape
-- Larger than a standard portal
-- Often covered in sculk or vines
+- Forme rectangulaire
+- Plus grand qu’un portail classique
+- Souvent recouvert de sculk ou de lianes
 
 ### 🔑 Activation
 
-🧭 Procedure:
+🧭 Procédure :
 
-1. 🧹 Completely clear the portal
-2. 🫀 Right click with the Heart of the Deep
-3. 🌌 The portal activates and leads to the new dimension
+1. 🧹 Nettoyer entièrement le portail
+2. 🫀 Clique droit avec le Heart of the Deep
+3. 🌌 Le portail s’active et mène à la nouvelle dimension
 
 ---
 
-## ⚔️ Warden equipment
+## ⚔️ Équipements du Warden
 
 ### 📜 Smithing Template
 
-- Found in **Ancient City chests**
-- Allows Netherite tools to be upgraded into **Warden Tools**
+- Trouvable dans les **coffres des Ancient Cities**
+- Permet de transformer des outils Netherite en **Warden Tools**
 
 ### 🗡️ Warden Tools
 
-- ➕ +1 damage compared to Netherite
-- Same durability as standard tools
+- ➕ +1 dégât par rapport au Netherite
+- Même durabilité que les outils classiques
 
-### 🛡️ Warden Armor
+### 🛡️ Armure du Warden
 
-| Piece         | Bonus                              |
-| ------------- | ---------------------------------- |
-| 🪖 Helmet     | Immunity to the Warden’s blindness |
-| 👕 Chestplate | Increased armor and toughness      |
-| 👖 Leggings   | Speed bonus                        |
-| 👢 Boots      | Reduced sculk detection            |
+| Pièce        | Bonus                          |
+| ------------ | ------------------------------ |
+| 🪖 Casque    | Immunité à la cécité du Warden |
+| 👕 Plastron  | Armure et robustesse accrues   |
+| 👖 Jambières | Bonus de vitesse               |
+| 👢 Bottes    | Réduction de détection sculk   |
 
-📝 The armor can be crafted **without entering the new dimension**.
+📝 L’armure peut être craftée **sans entrer dans la nouvelle dimension**.
 
 ---
 
-## 🌍 Main biomes
+## 🌍 Biomes principaux
 
 ### 💜 Resonant Forest
 
-- Distinctive purple biome
-- Powerful and noisy creatures
-- Resources:
-  - 🧪 **Soul Dust**
-  - 🦴 **Skull Bone**
+- Biome violet distinctif
+- Créatures puissantes et bruyantes
+- Ressources :
+    - 🧪 **Soul Dust**
+    - 🦴 **Skull Bone**
 
-⚠️ Enemies attract nearby creatures and hit very hard.
+⚠️ Les ennemis attirent les mobs proches et frappent très fort.
 
 ---
 
 ### 🌸 Blooming Caverns
 
-- Mineral rich biome
-- **Sludge** spawns
-- Key resource:
-  - 🧱 **Resinarium**
+- Biome riche en minerais
+- Spawn des **Sludge**
+- Ressource clé :
+    - 🧱 **Resinarium**
 
-Resinarium is used to craft **Resinarium armor** from iron armor.
+Le Resinarium permet de fabriquer l’**armure en Resinarium** (à partir d’armure en fer).
 
 ---
 
 ### 🌑 Deep Lands
 
-- Vast and dark biome
-- Rare structures
-- **Stalker** spawns (200 HP)
+- Biome vaste et sombre
+- Structures rares
+- Apparition du **Stalker** (200 HP)
 
 ---
 
-## 🧬 Notable creatures
+## 🧬 Créatures notables
 
 ### 🦷 Shattered
 
-- Drop: **Skull Bone**
-- Location: Resonant Forest
-- Behavior:
-  - Very noisy
-  - Attracts nearby creatures
+- Drop : **Skull Bone**
+- Localisation : Resonant Forest
+- Comportement :
+    - Très bruyant
+    - Attire les mobs proches
 
 ---
 
 ### 🐌 Sculk Snapper
 
-- Tameable creature
-- Taming requirement:
-  - 🧥 Enchanted **Netherite Chestplate**
-- Abilities:
-  - Attacks enemies hit by the player
-  - Can sit
-  - Occasionally gives books 📘
+- Créature apprivoisable
+- Taming :
+    - 🧥 Netherite Chestplate **enchantée**
+- Capacités :
+    - Attaque les ennemis frappés par le joueur
+    - Peut s’asseoir
+    - Donne parfois des livres 📘
 
-⚠️ Fragile creature, requires protection.
+⚠️ Créature fragile, nécessite protection.
 
 ---
-
 ### 🦂 Stalker
 
-- 200 health points
-- Spawns in:
-  - Ancient Bases
-  - Deep Lands
-- Drop:
-  - 🔮 **Soul Crystal**
+- 200 points de vie
+- Spawn :
+    - Ancient Bases
+    - Deep Lands
+- Drop :
+    - 🔮 **Soul Crystal**
 
 ---
 
-## 🧪 Sculk Affinity Potion
+## 🧪 Potion de Sculk Affinity
 
-Effect:
+Effet :
+- Les entités sculk vous considèrent comme **allié**
+- Elles deviennent hostiles uniquement si attaquées
 
-- Sculk entities consider you an **ally**
-- They only become hostile if attacked
-
-Main ingredients:
-
+Ingrédients principaux :
 - Soul Dust
-- Invisibility Potion
+- Potion d’invisibilité
 
 ---
 
 ## 📡 Sculk Transmitter
 
-Advanced utility item that allows remote interaction.
+Objet utilitaire avancé permettant l’interaction à distance.
 
-📦 Acquisition:
+📦 Obtention :
 
-- Found in a specific structure in the Deep Dark
-- Chest hidden beneath the structure
+- Structure spécifique dans le Deep Dark
+- Coffre caché sous la structure    
 
-🧠 Features:
+🧠 Fonctionnalités :
 
-- 📦 Remote chest access
-- 🔥 Furnace usage
-- 🛠️ Remote crafting
-- 📡 Multiple connections
+- 📦 Accès à des coffres à distance
+- 🔥 Utilisation de fours
+- 🛠️ Craft à distance
+- 📡 Connexion multiple
 
-💡 Helps avoid dangerous noise while looting.
+💡 Permet d’éviter les bruits dangereux lors du pillage.
 
 ---
 
 ## 🪽 Soul Elytra
 
-- Functions like a standard Elytra
+- Fonctionne comme une Elytra classique
+- Bonus :
+	- 🎆 Boost automatique (cooldown)
+	- 🛡️ +3 points d’armure
 
-- Bonuses:
-  - 🎆 Automatic boost with cooldown
-  - 🛡️ +3 armor points
-
-- Requires a dedicated keybind in the controls
+- Nécessite une touche dédiée dans les contrôles
 
 ---
 
 ## ⚡ Sona Staff
 
-Offensive staff inspired by the Warden’s attacks.
+Bâton offensif inspiré des attaques du Warden.
 
-⚔️ Functionality:
+⚔️ Fonctionnement :
 
-- Charged shot dealing heavy damage
-- Limited range
-- Limited durability
+- Tir chargé infligeant de lourds dégâts
+- Portée limitée
+- Durabilité limitée
 
-🛠️ Crafting recipe:
+🛠️ Craft :
 
 - 🔮 2 × Soul Crystal
 - 🫀 1 × Heart of the Deep
@@ -209,17 +205,17 @@ Offensive staff inspired by the Warden’s attacks.
 
 ---
 
-## 💡 General tips
+## 💡 Conseils généraux
 
-- 🤫 Minimize noise as much as possible
-- 🧭 Explore slowly and methodically
-- 📦 Use the Sculk Transmitter to secure loot
-- ⚠️ Direct combat is rarely the best option
+- 🤫 Limitez le bruit au maximum
+- 🧭 Explorez lentement et méthodiquement
+- 📦 Utilisez le Sculk Transmitter pour sécuriser le loot
+- ⚠️ Le combat frontal est rarement la meilleure option
 
 ---
 
-## 🔗 See also on _Deeper and Darker_:
+## 🔗 Voir aussi sur *Deeper and Darker* :
 
-- 🌲 _Biomes – _Coming soon__
-- 🧬 _Creatures – _Coming soon__
-- ⚔️ _Equipment – _Coming soon__
+- 🌲 *Biomes – _Bientôt disponible_
+- 🧬 *Créatures – _Bientôt disponible_
+- ⚔️ *Équipements – _Bientôt disponible_
