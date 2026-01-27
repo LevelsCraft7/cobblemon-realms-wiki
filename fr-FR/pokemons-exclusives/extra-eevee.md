@@ -610,7 +610,7 @@ Repos, Blabla Dodo, Agilité, Piqué, Rapace, Aquatacle, Tornade, Machination, D
 - Lv. 60 Healing Wish
 - Lv. N.67 : Lame de Roc
 - Lv. N.67 : Mach Punch
-- Lv. N.80 : Bombe Miel
+- Lv. 40 Recover
 
 #### CT
 
@@ -660,24 +660,24 @@ Soin, Explosion, Piège de Roc, Possessif, Séisme, Vive‑Aile, Tunnelier, Tran
 - Lv. N.8 : Feinte
 - PV 25 Protect
 - Lv. N.20 : Picots
-- PV N.17 : Destruction
+- PV 37 Reversal, Protect
 - Lv. N.18 : Piège de Roc
 - Lv. N.26 : Acrobatie
-- Lv. 37 Reversal, Protect
-- Lv. N.30 : Ébullition
-- PV N.60 : Vol
-- Lv. N.43 : Aéropique
 - Lv. N.40 : Piège de Roc
-- Lv. N.50 : Tomberoche
+- Lv. N.30 : Ébullition
+- PV N.50 : Tomberoche
+- Lv. N.43 : Aéropique
 - Lv. 55 Last Resort
 - Lv. N.50 : Steel Roller
-- PV N.45 : Vitesse Extrême
-- PV N.67 : Souffle Glacé
-- Lv. 5  Reflect Type
-- Lv. N.1 : Roulade, Râle, Mimi-Queue, Charge, Jet de Sable
+- Lv. 55 Last Resort
+- Lv. N.45 : Vitesse Extrême
+- PV 5  Reflect Type
+- PV 5  Reflect Type
+- Lv. N.80 : Bombe Miel
+- Lv. 1  Conversion, Swift, Tackle, Quick Attack, Tail Whip, Growl
 - PV N.9 : Grincement
-- PV PV 76 Hyper Beam
-- PV PV N.80 : Giga Impact
+- PV N.1 : Roulade, Râle, Mimi-Queue, Charge, Jet de Sable
+- PV PV PV N.80 : Giga Impact
 
 #### CT
 
@@ -727,8 +727,8 @@ Lance‑Flammes, Surf, Éco‑Sphère, Laser Glace, Câlinerie, Tête de Fer, Ps
 - Lv. 5  Reflect Type
 - PV N.10 : Photocopie
 - PV N.15 : Mimique
-- PV PV N.20 : Conversion 2
-- Lv. 25 Protect
+- PV PV PV N.20 : Conversion 2
+- Lv. PV 25 Protect
 - PV N.30 : Métronome
 - PV N.35 : Morphing
 - Lv. 40 Recover
