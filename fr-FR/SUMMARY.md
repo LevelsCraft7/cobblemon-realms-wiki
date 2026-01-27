@@ -46,7 +46,7 @@
 
 - [Chunky pour la Pré‑génération du Monde](mods-guides/chunky.md)
 - [Luggage](mods-guides/luggage.md)
-- [Deeper et Darker](mods-guides/deeper_and_darker.md)
+- [Deeper and Darker](mods-guides/deeper_and_darker.md)
 
 ## ⚙️ Paramètres
 
