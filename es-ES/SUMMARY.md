@@ -19,6 +19,7 @@
 - [Pokemon Workers Guide](pokemons-guides/cobbleworkers-guide.md)
 - [Sistema de Monturas](pokemons-guides/riding-system.md)
 - [Pokemon Shoulder Mount](pokemons-guides/shoulder_mount_effects.md)
+- [Fossils](pokemons-guides/fossils.md)
 - [Biome Tags Reference](pokemons-guides/biome-tags-reference.md)
 - [Servidores Multijugador](multiplayer-servers.md)
 
@@ -45,6 +46,7 @@
 
 - [Chunky para la Pre‑generación del Mundo](mods-guides/chunky.md)
 - [Luggage](mods-guides/luggage.md)
+- [Deeper and Darker](mods-guides/deeper_and_darker.md)
 
 ## ⚙️ Configuración
 

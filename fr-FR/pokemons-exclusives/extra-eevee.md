@@ -7,7 +7,7 @@ Cette page liste chaque Eeveelution personnalisée, avec ses statistiques, lieux
 
 ## FAQs
 
-### Evoli doit-il porter le coup final, ou n’importe quel Pokémon ? Q : Evoli évolue-t-il en Evereon uniquement en combattant des Eeveelutions sauvages, ou les combats contre des Dresseurs comptent-ils ?
+### Q : Evoli évolue-t-il en Evereon uniquement en combattant des Eeveelutions sauvages, ou les combats contre des Dresseurs comptent-ils ? Evoli doit-il porter le coup final, ou n’importe quel Pokémon ?
 
 **R :** Certains joueurs rapportent que les combats contre des Dresseurs fonctionnent, d’autres non. Dans mes tests, cela n’a pas fonctionné, mais cela peut dépendre de la configuration. Vous pouvez essayer les deux méthodes.  
 Evoli doit porter le **coup final** sur les **18 Eeveelutions** du mod de base et de cet addon.
@@ -61,7 +61,7 @@ Evoli doit porter le **coup final** sur les **18 Eeveelutions** du mod de base e
 - Lv. 1  Bite, Growl, Fake Tears, Smokescreen, Helping Hand, Sand Attack
 - Lv. 5  Hex
 - Lv. N.8 : Hypnose
-- Lv. N.12 : Ball’Ombre
+- Lv. 12 Mud-Slap
 - Lv. 14 Bitter Malice
 - Lv. N.17 : Ombre Nocturne
 - Lv. 18 Nasty Plot
@@ -76,7 +76,7 @@ Evoli doit porter le **coup final** sur les **18 Eeveelutions** du mod de base e
 - Lv. 54 Thief
 - Lv. 57 Energy Ball
 - Lv. 60 Will-O-Wisp
-- Lv. N.67 : Souffle Glacé
+- Lv. 64 Freeze Shock
 - Lv. 73 Quash
 - Lv. 76 Torment
 - Lv. 80 Double Team
@@ -126,7 +126,7 @@ Repos, Plénitude, Charme, Onde Folie, Vole-Vie, Nœud Herbe, Vampigraine, Posse
 - Lv. 1  Bite, Growl, Fake Tears, Smokescreen, Helping Hand, Sand Attack, Harden
 - Lv. 4  Poison Sting
 - Lv. 7  Knock Off
-- Lv. N.9 : Grincement
+- Lv. 9  Poison Sting
 - Lv. N.12 : Acide
 - Lv. 15 Crunch
 - Lv. N.19 : Bombe Acide
@@ -194,14 +194,14 @@ Repos, Plénitude, Charme, Onde Folie, Venoshock, Reflet, Détricanon, Vampigrai
 - Lv. 18 Bullet Punch
 - Lv. 22 Protect
 - Lv. 26 Counter
-- Lv. N.30 : Feinte
+- Lv. 30 Heavy Slam
 - Lv. 34 Pursuit
 - Lv. 37 Mega Punch
 - Lv. 40 Sky Uppercut
 - Lv. N.43 : Frustration
 - Lv. 50 Round
 - Lv. 54 Fling
-- Lv. N.57 : Lame de Roc
+- Lv. 54 Rock Slide
 - Lv. 60 Brick Break
 - Lv. N.67 : Close Combat
 - Lv. 73 Bulk Up
@@ -257,21 +257,21 @@ Body Press, Iron Defense, Substitute, Arm Thrust, Focus Punch, Force Palm, High 
 - Lv. N.8 : Lame d’Air
 - Lv. 12 Bite
 - Lv. N.14 : Agilité
-- Lv. N.17 : Danse Pluie
+- Lv. 17 Quiver Dance
 - Lv. 18 Air Slash
 - Lv. 22 Tailwind
 - Lv. 24 Defog
-- Lv. N.26 : Acrobatie
-- Lv. N.30 : Ébullition
+- Lv. 26 Headbutt
+- Lv. 30 U-turn
 - Lv. 34 Thunder
 - Lv. N.37 : Poudreuse, Blizzard
 - Lv. 40 Ice Beam
-- Lv. N.43 : Aéropique
+- Lv. 43 Thunder Wave
 - Lv. 50 Whirlwind
 - Lv. 54 Double Team
 - Lv. 57 Roost
-- Lv. N.60 : Vol
-- Lv. 64 Freeze Shock
+- Lv. 60 Snarl
+- Lv. 43 Mud-Slap
 - Lv. 67 Heat Wave
 - Lv. 73 Solar Beam
 - Lv. N.76 : Danse Plume
@@ -326,8 +326,8 @@ Ouragan, Danse-Lames, Dégommage, Rapace, Cru-Aile, Piqué, Rebond, Éclats Glac
 - Lv. 8  Sandstorm
 - Lv. 12 Harden
 - Lv. 14 Rock Throw
-- Lv. N.17 : Destruction
-- Lv. N.18 : Piège de Roc
+- Lv. 17 Dig
+- Lv. 18 Fury Swipes
 - Lv. 22 Bulldoze
 - Lv. N.24 : Pouvoir Antique
 - Lv. 26 Head Smash
@@ -335,9 +335,9 @@ Ouragan, Danse-Lames, Dégommage, Rapace, Cru-Aile, Piqué, Rebond, Éclats Glac
 - Lv. 34 Power Gem
 - Lv. 37 Tar Shot, Iron Defense
 - Lv. 40 Headbutt
-- Lv. 43 Mud-Slap
-- Lv. N.50 : Tomberoche
+- Lv. 43 Metal Claw
 - Lv. 54 Rock Slide
+- Lv. 54 Metal Claw
 - Lv. 57 Protect
 - Lv. 60 Superpower
 - Lv. N.67 : Lame de Roc
@@ -390,15 +390,15 @@ Ouragan, Danse-Lames, Dégommage, Rapace, Cru-Aile, Piqué, Rebond, Éclats Glac
 
 - Lv. 1  Bug Bite, Growl, Tail Whip, Tackle, Absorb
 - Lv. 5  String Shot
-- Lv. 9  Poison Sting
+- Lv. 8  Sandstorm
 - Lv. 13 Fury Attack
 - Lv. 16 Laser Focus
-- Lv. 17 Quiver Dance
-- Lv. N.20 : Picots
+- Lv. N.17 : Danse Pluie
+- Lv. 22 Bulldoze
 - Lv. N.23 : Assurance
 - Lv. 24 Sticky Web
 - Lv. 27 Pin Missile
-- Lv. 30 U-turn
+- Lv. 30 Mud Shot
 - Lv. 33 Struggle Bug
 - Lv. 37 First Impression
 - Lv. 39 Pounce
@@ -411,7 +411,7 @@ Ouragan, Danse-Lames, Dégommage, Rapace, Cru-Aile, Piqué, Rebond, Éclats Glac
 - Lv. N.67 : Danse-Lames
 - Lv. 73 Facade
 - Lv. 76 False Swipe
-- Lv. N.80 : Bombe Miel
+- Lv. 80 Fissure
 
 #### CT
 
@@ -456,7 +456,7 @@ Bomb-Beurk, Séisme, Lame d’Air, Survinsecte, Martobois, Méga-Corne, Feuille 
 
 #### Attaques par niveau
 
-- Lv. N.1 : Roulade, Râle, Mimi-Queue, Charge, Jet de Sable
+- Lv. 1  Conversion, Swift, Tackle, Quick Attack, Tail Whip, Growl
 - Lv. 5  Metal Sound
 - Lv. N.8 : Charge
 - Lv. 12 Charge Beam
@@ -466,12 +466,12 @@ Bomb-Beurk, Séisme, Lame d’Air, Survinsecte, Martobois, Méga-Corne, Feuille 
 - Lv. N.22 : Verrouillage
 - Lv. 24 Stomp
 - Lv. 26 Iron Defense
-- Lv. 30 Heavy Slam
+- Lv. 34 Rock Blast
 - Lv. 34 Zap Cannon
 - Lv. N.37 : Destruction, Tête de Fer
-- Lv. N.40 : Piège de Roc
-- Lv. 43 Thunder Wave
-- Lv. N.50 : Steel Roller
+- Lv. 40 Head Smash
+- Lv. 34 Thunderbolt
+- Lv. 50 Iron Tail
 - Lv. 54 Metal Claw
 - Lv. N.55 : Parabocharge
 - Lv. 57 Meteor Mash
@@ -533,14 +533,14 @@ Vitesse Extrême, Distorsion, Soin, Explosion, Tête de Fer, Frappe Foudre, Croc
 - Lv. 24 Head Charge
 - Lv. N.26 : Blitz
 - Lv. N.30 : Outrage
-- Lv. 34 Thunderbolt
+- Lv. 34 Crunch
 - Lv. N.37 : Steel Beam, Armure Acide
 - Lv. N.40 : Griffe Ombre
 - Lv. N.43 : Piège de Roc
-- Lv. 50 Iron Tail
-- Lv. 54 Metal Claw
+- Lv. 50 Baton Pass
+- Lv. 57 Bone Rush
 - Lv. 57 Substitute
-- Lv. 60 Snarl
+- Lv. 60 Bonemerang
 - Lv. N.67 : Danse Draco
 - Lv. N.73 : Marteau‑Dragon
 - Lv. N.76 : Double Baffe
@@ -592,25 +592,25 @@ Repos, Blabla Dodo, Agilité, Piqué, Rapace, Aquatacle, Tornade, Machination, D
 
 - Lv. 1  Scratch, Growl, Tail Whip, Tackle, Sand Attack
 - Lv. 5  Sand Tomb
-- Lv. 8  Sandstorm
-- Lv. 12 Mud-Slap
+- Lv. 14 Taunt
+- Lv. N.12 : Ball’Ombre
 - Lv. 14 Sucker Punch
-- Lv. 17 Dig
-- Lv. 22 Bulldoze
+- Lv. 22 Slash
+- Lv. 24 Play Rough
 - Lv. N.24 : Pouvoir Antique
 - Lv. 26 Earth Power
-- Lv. 30 Mud Shot
-- Lv. 34 Rock Blast
+- Lv. N.30 : Feinte
+- Lv. 43 Defense Curl
 - Lv. N.37 : Bomb‑Beurk, Clonage
 - Lv. N.40 : Giga Impact
-- Lv. 43 Metal Claw
+- Lv. 40 Recover
 - Lv. N.50 : Tomberoche
-- Lv. 54 Rock Slide
-- Lv. 57 Bone Rush
-- Lv. 60 Bonemerang
-- Lv. N.67 : Lame de Roc
+- Lv. N.57 : Lame de Roc
 - Lv. 73 Stomping Tantrum
-- Lv. 80 Fissure
+- Lv. 60 Healing Wish
+- Lv. N.67 : Lame de Roc
+- Lv. N.67 : Mach Punch
+- Lv. N.80 : Bombe Miel
 
 #### CT
 
@@ -658,26 +658,26 @@ Soin, Explosion, Piège de Roc, Possessif, Séisme, Vive‑Aile, Tunnelier, Tran
 - Lv. 1  Scratch, Growl, Tail Whip, Tackle, Sand Attack, Last Resort
 - Lv. 5  Fake Out
 - Lv. N.8 : Feinte
-- PV 12 Bite
-- Lv. 14 Taunt
-- PV N.17 : Assurance
-- Lv. 18 Fury Swipes
-- Lv. 22 Slash
-- Lv. 24 Play Rough
-- Lv. 26 Headbutt
-- PV 30 Stomp
-- Lv. 34 Crunch
+- PV 25 Protect
+- Lv. N.20 : Picots
+- PV N.17 : Destruction
+- Lv. N.18 : Piège de Roc
+- Lv. N.26 : Acrobatie
 - Lv. 37 Reversal, Protect
-- Lv. 40 Head Smash
-- Lv. 43 Defense Curl
-- Lv. 50 Baton Pass
-- PV N.54 : Agilité
-- PV 57 Bounce
-- Lv. 60 Healing Wish
-- Lv. N.67 : Mach Punch
-- PV 73 Facade
-- PV 76 Hyper Beam
-- PV N.80 : Giga Impact
+- Lv. N.30 : Ébullition
+- PV N.60 : Vol
+- Lv. N.43 : Aéropique
+- Lv. N.40 : Piège de Roc
+- Lv. N.50 : Tomberoche
+- Lv. 55 Last Resort
+- Lv. N.50 : Steel Roller
+- PV N.45 : Vitesse Extrême
+- PV N.67 : Souffle Glacé
+- Lv. 5  Reflect Type
+- Lv. N.1 : Roulade, Râle, Mimi-Queue, Charge, Jet de Sable
+- PV N.9 : Grincement
+- PV PV 76 Hyper Beam
+- PV PV N.80 : Giga Impact
 
 #### CT
 
@@ -727,7 +727,7 @@ Lance‑Flammes, Surf, Éco‑Sphère, Laser Glace, Câlinerie, Tête de Fer, Ps
 - Lv. 5  Reflect Type
 - PV N.10 : Photocopie
 - PV N.15 : Mimique
-- PV N.20 : Conversion 2
+- PV PV N.20 : Conversion 2
 - Lv. 25 Protect
 - PV N.30 : Métronome
 - PV N.35 : Morphing
