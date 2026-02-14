@@ -22,12 +22,39 @@
 
 ---
 
+Voici une version plus claire, plus ferme et plus professionnelle pour ton wiki FAQ :
+
+---
+
 ## ➕ "Can I add more mods?"
 
-- Yes, but do so carefully:
-  - Some mods can break **performance**, **game balance**, or **quest logic**.
-  - Avoid mods that overwrite Cobblemon or FTB systems.
-  - Test in singleplayer before adding to a server.
+* Technically, yes.
+  However, I **strongly discourage** adding additional mods to the pack.
+
+* Cobblemon Realms is carefully balanced around:
+
+  * Performance
+  * Progression systems
+  * Quest logic
+  * Economy and integrations
+
+* Adding mods can:
+
+  * Break balance
+  * Cause performance issues
+  * Create conflicts
+  * Corrupt quest progression
+
+⚠️ **Important:**
+If you choose to add extra mods and encounter issues afterward, I will **not provide dedicated support** for modded setups.
+
+If you experience problems:
+
+* Remove the added mods.
+* Test them **one by one** to identify the conflict.
+* Revert to the official modpack version if necessary.
+
+That is the only troubleshooting I can reasonably recommend.
 
 ---
 
