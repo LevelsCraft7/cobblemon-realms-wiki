@@ -1,77 +1,143 @@
 # 🧭 Pokémon and Spawns
 
-Cobblemon Realms features a **customized spawn system**, carefully tuned to provide immersive and biome-sensitive encounters. Whether you're searching for rare species or trying to build your dream team, understanding how spawns work will help you tremendously.
+Cobblemon Realms features a **custom spawn system** designed to make exploration meaningful and rewarding.
+
+Pokémon do not spawn randomly everywhere.
+Where you are, when you are there, and what conditions are active all matter.
 
 ---
 
-## 📍 Biome-Based Spawns
+## 🌍 Where Pokémon Spawn
 
-Different Pokémon appear depending on the **biome**, **time of day**, and other conditions:
+Spawns depend mainly on:
 
-- 🌲 Forests → Grass-types, Bug-types
-- 🌊 Oceans & Beaches → Water-types, Electric-types (during storms)
-- 🏜️ Deserts → Fire-types, Ground-types
-- ⛰️ Mountains & Caves → Rock-types, Steel-types, Dragon-types
-- 🧪 Swamps → Poison-types
-- 🌌 End & Nether zones → Ultra-rare and special forms
+* 🌎 **Biome**
+* 🌙 **Time of day**
+* 🌧 **Weather**
+* 🕳 **Surface or underground**
+* 🌌 **Dimension** (Overworld, Nether, End, Aether, DeeperDarker)
 
-Some Pokémon are **extremely rare** and may only spawn in one biome under specific conditions (e.g., weather, dimension, time).
+For example:
 
----
+* Forest areas tend to host Grass and Bug types
+* Mountains and caves favor Rock, Steel, and Dragon types
+* Oceans and beaches feature Water types
+* Deserts host Ground and Fire types
+* Some species are exclusive to the Nether or End
 
-## 🕓 Spawn Timing and Behavior
+Many Pokémon use **biome groups**, meaning they can appear in multiple similar biomes, not just one exact location.
 
-Spawns are dynamically configured to feel **natural**:
-
-- Some Pokémon only spawn **at night**, **during specific moon phases**, or under **certain weather**.
-- Legendary and Mythical Pokémon may require **special triggers** or **items** to appear.
-- Underground spawns (e.g., cave-exclusive Pokémon) are handled via custom logic.
-
----
-
-## 🔎 Using `/checkspawns` In-Game
-
-Use this command to instantly check what Pokémon can appear **in your current biome**:
-
-```bash
-/checkspawns
-````
-
-This is ideal for understanding your surroundings and tracking rare spawns on the go.
+This encourages exploration instead of staying in one place.
 
 ---
 
-## 🤖 Discord Bot Integration – Check Spawns Remotely!
+## ⭐ Rarity Matters
 
-Our Discord server offers a powerful integration via the **@Our Story** bot. You can use it to check where a specific Pokémon spawns — across all dimensions and biomes — without needing to be in-game!
+Each Pokémon belongs to a rarity tier:
 
-### 📋 Available Commands:
+* Common
+* Uncommon
+* Rare
+* Ultra Rare
 
-* 🇬🇧 English:
-  `/where <pokemon_name>`
-* 🇫🇷 Français :
-  `/tesou <pokemon_name>`
-* 🇩🇪 Deutsch:
-  `/wobistdu <pokemon_name>`
-* 🇯🇵 Japanese (Romaji):
-  `/doko <pokemon_name>`
+Rare Pokémon may:
 
-You’ll receive a detailed result with all known spawn biomes for that species.
-Some commun Pokémon may return a list of **100+ possible biomes**.
+* Have very low spawn chances
+* Only appear at night
+* Only spawn underground
+* Require specific weather
 
-> 💡 Use this feature to **plan your adventure** or optimize shiny/rare hunts.
+If something feels difficult to find, it is often intentional.
 
 ---
 
-## 🧠 More Tips
+## 📡 Tools to Help You
 
-* Use the command `/checkspawns` while exploring to find location-based Pokémon.
-* Rely on the bot if you want to **track specific Pokémon** across the world.
-* Don't forget that **Cobblemon Realms** includes **custom evolutions**, **forms**, and **spawn behaviors** — check the [Exclusive Forms section](../pokemons-exclusives/mewtwo-exclusive-forms.md) to learn more!
+You are not expected to guess everything.
 
 ---
 
-Need help or want to report a spawn issue? Join us on Discord:
-👉 [https://discord.gg/kb8NSTF45n](https://discord.gg/kb8NSTF45n)
+### 🛰️ PokeNav
+
+The **PokeNav** item allows you to:
+
+* See what Pokémon can spawn around you
+* Check local spawn pools in real time
+* Plan hunts efficiently
+
+If you are exploring a new biome, use it.
+
+---
+
+### 🎣 FishingNav
+
+The **FishingNav** focuses on:
+
+* Water based encounters
+* Fishing specific Pokémon
+* Biome dependent aquatic spawns
+
+Very useful when targeting rare water types.
+
+---
+
+### 🔎 `/checkspawns`
+
+You can type:
 
 ```
+/checkspawns
+```
+
+This command shows what Pokémon are eligible to spawn **in your current location**.
+
+If nothing interesting appears, try changing biome, time, or weather.
+
+---
+
+## 🤖 Discord Spawn Bot
+
+You can also check spawns without launching the game.
+
+On the official Discord, inside:
+
+`#❓・cr-checkspawn`
+
+Use the bot **@Cobblemon Realms#8967**
+
+Commands:
+
+🇬🇧 `/where <pokemon_name>`
+🇫🇷 `/tesou <pokemon_name>`
+🇩🇪 `/wobistdu <pokemon_name>`
+🇯🇵 `/doko <pokemon_name>`
+
+The bot returns spawn information including biome and condition requirements.
+
+Perfect for planning hunts in advance.
+
+---
+
+## 🧠 Beginner Advice
+
+If you cannot find a Pokémon:
+
+1. Check the biome
+2. Check if it is day or night
+3. Try underground
+4. Check weather
+5. Use PokeNav or `/checkspawns`
+
+Exploration is part of progression.
+Moving to a new biome often changes everything.
+
+---
+
+If you believe a spawn is not working correctly, join the Discord and report it with:
+
+* Pokémon name
+* Biome
+* Time of day
+* Dimension
+
+The more precise your report, the faster it can be verified.
