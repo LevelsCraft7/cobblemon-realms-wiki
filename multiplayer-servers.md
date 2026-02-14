@@ -19,7 +19,7 @@ These servers:
 
 ---
 
-## 🔒 Semi-Private Classic Server
+## 🔒 Semi-Private Official Server
 
 The **Classic version** of Cobblemon Realms is available on a semi-private server.
 
