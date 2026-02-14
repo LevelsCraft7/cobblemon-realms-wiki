@@ -21,7 +21,10 @@ This system adds:
 ## 🦌 Xerfawn
 
 **Spawns:** Floral biomes during the day  
-**Evolution:** High friendship in Cherry Groves  
+**Evolution:** High friendship in Cherry Groves
+
+<img width="350" height="350" alt="xerfawn" src="https://github.com/user-attachments/assets/5fe0378f-fa5b-4dc4-b618-a10b0407d726" />
+
 
 ---
 
@@ -29,6 +32,7 @@ This system adds:
 
 **Spawns:** Floral biomes  
 **Evolution:** High friendship during the night  
+<img width="350" height="350" alt="creslume" src="https://github.com/user-attachments/assets/f487b64f-a454-4ed7-9548-868f59b8e2a9" />
 
 ---
 
@@ -36,6 +40,7 @@ This system adds:
 
 **Spawns:** Mountain biomes during the day  
 **Evolution:** Dragon Fang at level 50  
+<img width="726" height="372" alt="raygul" src="https://github.com/user-attachments/assets/fd971347-c857-42ec-9605-9921a74fc18b" />
 
 ---
 
@@ -46,6 +51,7 @@ This system adds:
 **Evolution:** High friendship  
 - Female → Latias  
 - Male → Latios  
+<img width="350" height="315" alt="latot" src="https://github.com/user-attachments/assets/935f4ff2-75e3-4756-9e1b-f82a59bf2d70" />
 
 ---
 
@@ -64,6 +70,7 @@ This system adds:
 
 **Spawns:** Deserts during the day  
 **Evolution:** Fire Stone at level 60 → Groudon  
+<img width="350" height="288" alt="saladune" src="https://github.com/user-attachments/assets/60c7a7b8-03c4-49e4-b81b-3a3c252474be" />
 
 ---
 
@@ -94,6 +101,7 @@ This system adds:
 - Fishing in regular oceans  
 
 **Evolution:** Level 60 while it is thundering  
+<img width="350" height="350" alt="delcalf" src="https://github.com/user-attachments/assets/38934e50-a8bd-41cd-b896-846ed6adf64a" />
 
 ---
 
@@ -119,6 +127,8 @@ This system adds:
 - Level 100 → Regigigas  
 
 Note: Future updates may separate Regigigas into its own Pokémon.
+
+<img width="350" height="316" alt="regiclay" src="https://github.com/user-attachments/assets/a3ef8099-58aa-46bc-ba76-1c17f182e566" />
 
 ---
 
@@ -156,6 +166,7 @@ Temporary mechanic
 ---
 
 # ⚡ Elemental Trio
+<img width="350" height="244" alt="baby kanto trio" src="https://github.com/user-attachments/assets/c3bbe935-a9d0-4e70-a33d-5930b925b21d" />
 
 ---
 
@@ -189,6 +200,8 @@ Temporary mechanic
 **Spawns:** Dark Forests or biomes tagged `#is_spooky`  
 **Evolution:** Level 60 + Dusk Stone → Yveltal  
 
+<img width="350" height="323" alt="yivpip" src="https://github.com/user-attachments/assets/6c2a6733-0122-4ebf-a9bb-ab9f0ddaa30e" />
+
 ---
 
 ## 🔔 Oh-Ho
@@ -203,7 +216,7 @@ Temporary mechanic
 **Spawns:** Sandy biomes  
 **Evolution:** Trade while holding a Dragon Fang  
 
----
+<img width="350" height="250" alt="haidon kaidon" src="https://github.com/user-attachments/assets/01f29a28-f0b3-4844-9cd6-f6f61e016521" />
 
 ## ⚡ Kaidon
 
