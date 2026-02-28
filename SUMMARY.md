@@ -29,6 +29,7 @@
 
 ## 🐲 Pokémon Exclusive Forms
 
+* [Baby Legends](pokemons-exclusives/baby-legends.md)
 * [Ash Greninja](pokemons-exclusives/ash-greninja.md)
 * [Mewtwo Exclusive Forms](pokemons-exclusives/mewtwo-exclusive-forms.md)
 * [Shadow Lugia](pokemons-exclusives/shadow-lugia.md)
