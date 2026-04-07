@@ -49,6 +49,7 @@
 - [Music Interface](mods-guides/musicinterface.md)
 - [Chunky pour la pre-generation du monde](mods-guides/chunky.md)
 - [Luggage](mods-guides/luggage.md)
+- [Deeper and Darker](mods-guides/deeper_and_darker.md)
 
 ## Parametres
 

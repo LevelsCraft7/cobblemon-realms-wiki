@@ -49,6 +49,7 @@
 * [Music Interface](mods-guides/musicinterface.md)
 * [Chunky for World Pregeneration](mods-guides/chunky.md)
 * [Luggage](mods-guides/luggage.md)
+* [Deeper and Darker](mods-guides/deeper_and_darker.md)
 
 ## Settings
 
