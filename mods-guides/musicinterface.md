@@ -254,7 +254,6 @@ My Music Pack/
     "album": "My Pack",
     "sound": "musicinterface:custom/route_01",
     "cover": "musicinterface:textures/covers/route_01.png",
-    "duration": "2:45",
     "enabled": true,
     "weight": 1
   }
