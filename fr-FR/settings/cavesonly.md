@@ -1,19 +1,20 @@
-# 🛡️ Désactiver la restriction des mobs hostiles aux grottes
+# Desactiver la restriction des mobs hostiles aux grottes
 
-Dans le modpack **Cobblemon Realms**, les mobs hostiles sont limités aux grottes grâce au mod **In Control!**.\
-Si vous souhaitez désactiver complètement cette restriction, il suffit de retirer ce mod.\
-Si vous souhaitez désactiver complètement cette restriction, il suffit de retirer ce mod.\
-Si vous souhaitez désactiver complètement cette restriction, il suffit de retirer ce mod.\
-Si vous souhaitez désactiver complètement cette restriction, il suffit de retirer ce mod.\
-Si vous souhaitez désactiver complètement cette restriction, il suffit de retirer ce mod.\
-Si vous souhaitez désactiver complètement cette restriction, il suffit de retirer ce mod.\
-Si vous souhaitez désactiver complètement cette restriction, il suffit de retirer ce mod.  
-Si vous souhaitez désactiver complètement cette restriction, il suffit de retirer ce mod.
+Dans **Cobblemon Realms**, les mobs hostiles sont limites aux grottes grace au mod **In Control!**.
 
-## 🔧 Étapes
+Si vous souhaitez desactiver completement cette restriction et retrouver un comportement plus proche de Minecraft vanilla, vous pouvez simplement retirer ce mod de votre installation.
 
-1. Ouvrez le dossier `mods` dans votre installation de Cobblemon Realms.
-2. Supprimez le fichier du mod `InControl` (généralement nommé `InControl-*.jar`).
-3. Redémarrez le jeu.
+## Etapes
 
-Une fois le mod supprimé, les mobs hostiles ne seront plus limités aux grottes et apparaîtront selon le comportement par défaut de Minecraft.
+1. Ouvrez le dossier `mods` de votre installation Cobblemon Realms.
+2. Reperez le fichier du mod **In Control!**.
+3. Supprimez le fichier `InControl-*.jar`.
+4. Redemarrez le jeu.
+
+Une fois le mod retire, les mobs hostiles ne seront plus limites aux grottes et reapparaitront selon le comportement normal du jeu.
+
+## A savoir
+
+- ce changement est purement local si vous jouez en solo
+- sur un serveur, cette modification doit etre faite cote serveur pour avoir un effet reel
+- retirer ce mod change l'equilibre du modpack, donc attendez-vous a voir beaucoup plus de mobs hostiles en surface
