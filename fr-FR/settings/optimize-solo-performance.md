@@ -1,38 +1,39 @@
-# 🚀 Optimize Solo Performance in Cobblemon Realms
+# Optimiser les performances en solo dans Cobblemon Realms
 
-If you experience **rollbacks, freezes, or poor performance** when playing Cobblemon Realms solo, adjusting your JVM arguments in the CurseForge launcher can greatly improve stability and smoothness.
+Si vous rencontrez des **rollbacks, des freezes ou de mauvaises performances** en jouant a Cobblemon Realms en solo, ajuster les arguments JVM dans CurseForge peut nettement ameliorer la stabilite du jeu.
 
 ---
 
-## 💡 Recommended JVM Arguments
+## Arguments JVM recommandes
 
+```text
 -Xms10G
 -Xmx10G
 -XX:+UseG1GC
 -XX:MaxGCPauseMillis=100
 -XX:InitiatingHeapOccupancyPercent=30
+-XX:+ExplicitGCInvokesConcurrent
+```
 
 ---
 
-## 🛠 How to Apply in CurseForge
+## Comment les appliquer dans CurseForge
 
-1. Open the **CurseForge app**.
-2. Click the **gear icon** in the bottom-left corner (**Settings**).
-3. Go to **Game Specific → Minecraft**.
-4. Scroll to **Java Settings**.
-5. **Disable** “Use System Memory Settings”.
-6. Set the **Memory slider** to at least **8–10 GB**.
-7. In **Additional Java Arguments**, paste the flags exactly as shown above (separated by spaces).
-8. Save and **restart the modpack**.
+1. Ouvrez l'application **CurseForge**.
+2. Cliquez sur l'icone **engrenage** en bas a gauche pour ouvrir les **parametres**.
+3. Allez dans **Game Specific > Minecraft**.
+4. Descendez jusqu'a **Java Settings**.
+5. Desactivez **Use System Memory Settings**.
+6. Reglez le curseur de memoire sur **8 a 10 Go minimum**.
+7. Dans **Additional Java Arguments**, collez exactement les arguments ci-dessus en les separant par des espaces.
+8. Sauvegardez puis redemarrez le modpack.
 
-> ⚠️ CurseForge automatically adds its own flags, but the **last** `-Xms` / `-Xmx` values entered will take priority.
+> CurseForge ajoute automatiquement certains arguments Java, mais les dernieres valeurs `-Xms` et `-Xmx` renseignees restent prioritaires.
 
 ---
 
-## ✅ Summary
+## Resume
 
-By combining **Java 21** with these optimized JVM settings, you can fix most solo performance issues in Cobblemon Realms—especially those related to memory cleanup, lag spikes, and rollback glitches.\
-Enjoy smoother, more stable gameplay!\
-Enjoy smoother, more stable gameplay!\
-Enjoy smoother, more stable gameplay!  
-Enjoy smoother, more stable gameplay! 🧭
+En combinant **Java 21** avec ces reglages JVM, vous pouvez corriger une grande partie des problemes de performances en solo dans Cobblemon Realms, notamment les pics de lag, les soucis de nettoyage memoire et certains rollbacks.
+
+Le resultat attendu est un jeu plus fluide et plus stable.
