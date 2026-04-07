@@ -26,11 +26,11 @@ Au lieu de lister chaque regle de spawn, cette section met en avant les rencontr
 
 A travers `#aether:is_aether` et les principaux biomes Skyroot, le modpack inclut de nombreuses entrees comme :
 
-- des lignes fee comme **Cleffa**, **Clefairy**, **Clefable**
-- des lignes vol comme **Swablu**, **Altaria**, **Taillow**, **Swellow**
-- des spawns etranges ou spectraux comme **Gastly**, **Gengar**, **Misdreavus**, **Shiinotic**
-- des dragons comme **Dratini**, **Dragonair**, **Dragonite**, **Gible**, **Gabite**, **Garchomp**, **Bagon**, **Shelgon**, **Salamence**
-- des variantes regionales comme **Raichu d'Alola**, **Dugtrio d'Alola**, **Ponyta de Galar**, ainsi que des entrees hisuiennes comme **Zorua** et **Zoroark**
+- des lignes fee comme **Melo**, **Melofee**, **Melodelfe**
+- des lignes vol comme **Tylton**, **Altaria**, **Nirondelle**, **Heledelle**
+- des spawns etranges ou spectraux comme **Fantominus**, **Ectoplasma**, **Feuforeve**, **Lampignon**
+- des dragons comme **Minidraco**, **Draco**, **Dracolosse**, **Griknot**, **Carmache**, **Carchacrok**, **Draby**, **Drackhaus**, **Drattak**
+- des variantes regionales comme **Raichu d'Alola**, **Triopikeur d'Alola**, **Ponyta de Galar**, ainsi que des entrees hisuiennes comme **Zorua de Hisui** et **Zoroark de Hisui**
 
 Rien que cela donne deja a l'Aether une identite tres differente de l'Overworld dans Cobblemon Realms.
 
@@ -39,15 +39,15 @@ Rien que cela donne deja a l'Aether une identite tres differente de l'Overworld 
 Parmi les rencontres notables des biomes les plus ouverts :
 
 - **Absol**
-- **Audino**
-- **Gallade** et **Gardevoir**
+- **Nanmeouie**
+- **Gallame** et **Gardevoir**
 - **Altaria**
 - **Shaymin**
 - **Rayquaza**
-- **Thundurus**
-- **Tornadus**
-- **Raging Bolt**
-- **Sandy Shocks**
+- **Fulguris**
+- **Boreas**
+- **Ire-Foudre**
+- **Pelage-Sable**
 - plusieurs lignes de starters
 
 Ces biomes sont excellents pour chercher des spawns rares tout en gardant une bonne lisibilite.
@@ -58,14 +58,14 @@ Les biomes boises de l'Aether sont particulierement interessants pour :
 
 - **Xerneas**
 - **Cosmog**
-- **Poipole**
+- **Vemini**
 - **Terapagos**
-- **Roaring Moon**
-- **Scream Tail**
-- **Brute Bonnet**
-- **Buzzwole**
-- **Blacephalon**
-- **Xurkitree**
+- **Rugit-Lune**
+- **Hurle-Queue**
+- **Fongus-Furie**
+- **Mouscoto**
+- **Pierroteknik**
+- **Cablifere**
 - plusieurs dragons et pseudo-legendaires
 
 Si vous cherchez du legendaire, de l'Ultra Beast, du paradox ou du contenu tardif, ce sont parmi les meilleurs biomes a prioriser.

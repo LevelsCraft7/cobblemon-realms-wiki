@@ -28,16 +28,16 @@ La liste ci-dessous ne cherche pas a afficher chaque regle exacte. Elle met surt
 
 Spawns marquants :
 
-- Gastly, Haunter, Gengar
-- Duskull, Dusclops, Dusknoir
-- Bronzor, Bronzong
-- Golett, Golurk
-- Deino, Zweilous, Hydreigon
+- Fantominus, Spectrum, Ectoplasma
+- Skelenox, Teraclope, Noctunoir
+- Archeomire, Archeodong
+- Gringolem, Golemastoc
+- Solochi, Diamat, Trioxhydre
 - Spiritomb
-- Goomy et Sliggoo
-- Flutter Mane
-- Roaring Moon
-- **Type: Null** en ultra-rare
+- Mucuscule et Colimucus
+- Flotte-Meche
+- Rugit-Lune
+- **Type:0** en ultra-rare
 - **Marshadow** en ultra-rare
 
 Les Deeplands sont tres interessantes pour les joueurs qui cherchent du spectre, du dark, du rare ou des rencontres clairement orientees fin de progression.
@@ -46,15 +46,15 @@ Les Deeplands sont tres interessantes pour les joueurs qui cherchent du spectre,
 
 Spawns marquants :
 
-- Chingling et Chimecho
-- Shroomish et Breloom
-- Solosis, Duosion, Reuniclus
-- Nincada, Ninjask, Shedinja
-- la lignee de Duskull
-- Noibat et Noivern
+- Korillon et Eoko
+- Balignon et Chapignon
+- Nucleos, Meios, Symbios
+- Ningale, Ninjask, Munja
+- la lignee de Skelenox
+- Sonistrelle et Bruyverne
 - Spiritomb
-- **Scream Tail**
-- **Raging Bolt** en ultra-rare
+- **Hurle-Queue**
+- **Ire-Foudre** en ultra-rare
 
 Ce biome est excellent si vous cherchez une ambiance plus "etrange", avec beaucoup de spawns psychiques, sonores ou surnaturels.
 
@@ -62,16 +62,16 @@ Ce biome est excellent si vous cherchez une ambiance plus "etrange", avec beauco
 
 Spawns marquants :
 
-- Goomy, Sliggoo, Goodra
-- Tympole, Palpitoad, Seismitoad
-- Wooper et Quagsire
-- Skorupi et Drapion
-- Gulpin et Swalot
-- Inkay et Malamar
-- Solosis, Duosion, Reuniclus
-- Chinchou et Lanturn
+- Mucuscule, Colimucus, Muplodocus
+- Tritonde, Batracne, Crapustule
+- Axoloto et Maraiste
+- Rapion et Drascore
+- Gloupti et Avaltout
+- Sepiatop et Sepiatroce
+- Nucleos, Meios, Symbios
+- Loupio et Lanturn
 - Yanma et Yanmega
-- **Brute Bonnet**
+- **Fongus-Furie**
 
 Les Blooming Caverns font partie des meilleurs biomes Cobblemon de la dimension si vous voulez un melange de spawns aquatiques, souterrains, poison et "bizarres".
 
@@ -79,15 +79,15 @@ Les Blooming Caverns font partie des meilleurs biomes Cobblemon de la dimension 
 
 Spawns marquants :
 
-- Gible, Gabite, Garchomp
-- Jangmo-o et Hakamo-o
-- Scraggy et Scrafty
-- Mawile
-- Torkoal
-- **Great Tusk**
-- **Slither Wing**
-- **Sandy Shocks**
-- **Gouging Fire**
+- Griknot, Carmache, Carchacrok
+- Bebecaille et Ecaid
+- Baggiguane et Baggaid
+- Mysdibule
+- Chartor
+- **Fort-Ivoire**
+- **Rampe-Ailes**
+- **Pelage-Sable**
+- **Feu-Percant**
 
 C'est clairement le biome a surveiller si vous cherchez des dragons, des paradox et des rencontres plus agressives.
 
@@ -95,7 +95,7 @@ C'est clairement le biome a surveiller si vous cherchez des dragons, des paradox
 
 Certains spawns reposent aussi sur des structures ou conditions particulieres :
 
-- **Meowth d'Alola** peut apparaitre autour de l'**Ancient Temple**
+- **Miaouss d'Alola** peut apparaitre autour de l'**Ancient Temple**
 - **Persian d'Alola** peut aussi y apparaitre a plus haut niveau
 - certaines regles utilisent egalement le tag `#cobblemon:is_deep_dark`, ce qui renforce encore l'identite propre de la dimension dans le modpack
 
