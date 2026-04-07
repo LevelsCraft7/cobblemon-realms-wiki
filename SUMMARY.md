@@ -2,57 +2,57 @@
 
 ## Welcome
 
-* [Welcome](README.md)
+* [👋 Welcome](README.md)
 
 ## Information
 
-* [Installation Guide](installation.md)
-* [First Steps](getting-started.md)
-* [Frequently Asked Questions](faq.md)
-* [Contributing](contributing.md)
+* [📦 Installation Guide](installation.md)
+* [🧭 First Steps](getting-started.md)
+* [❓ Frequently Asked Questions](faq.md)
+* [🛠️ Contributing](contributing.md)
 
 ## Cobblemon Realms
 
-* [Quests](quests.md)
-* [Multiplayer Servers](multiplayer-servers.md)
-* [Pokemon and Spawns](pokemon-and-spawns.md)
-* [Level Cap and Trainers](pokemons-guides/levelcap-and-trainers.md)
-* [Wild Boost Mechanics](pokemons-guides/wild-boost-mechanics.md)
-* [Pokemon Workers Guide](pokemons-guides/cobbleworkers-guide.md)
-* [Riding System (Mounts)](pokemons-guides/riding-system.md)
-* [Pokemon Shoulder Mount](pokemons-guides/shoulder_mount_effects.md)
-* [Fossils](pokemons-guides/fossils.md)
-* [Biome Tags Reference](pokemons-guides/biome-tags-reference.md)
+* [📜 Quests](quests.md)
+* [🌐 Multiplayer Servers](multiplayer-servers.md)
+* [🐾 Pokemon and Spawns](pokemon-and-spawns.md)
+* [🎯 Level Cap and Trainers](pokemons-guides/levelcap-and-trainers.md)
+* [✨ Wild Boost Mechanics](pokemons-guides/wild-boost-mechanics.md)
+* [🧰 Pokemon Workers Guide](pokemons-guides/cobbleworkers-guide.md)
+* [🐎 Riding System (Mounts)](pokemons-guides/riding-system.md)
+* [🦜 Pokemon Shoulder Mount](pokemons-guides/shoulder_mount_effects.md)
+* [🦴 Fossils](pokemons-guides/fossils.md)
+* [🗺️ Biome Tags Reference](pokemons-guides/biome-tags-reference.md)
 
 ## Myths and Legends
 
-* [Legendary Items and Biomes](pokemons-guides/myths-and-legends-legendaries.md)
+* [🌟 Legendary Items and Biomes](pokemons-guides/myths-and-legends-legendaries.md)
 
 ## Pokemon Exclusives
 
-* [Baby Legends](pokemons-exclusives/baby-legends.md)
-* [Ash Greninja](pokemons-exclusives/ash-greninja.md)
-* [Mewtwo Exclusive Forms](pokemons-exclusives/mewtwo-exclusive-forms.md)
-* [Shadow Lugia](pokemons-exclusives/shadow-lugia.md)
-* [Necrozma Fusions](pokemons-exclusives/necrozma-fusions.md)
-* [Bloodmoon Ursaluna](pokemons-exclusives/bloodmoon-ursaluna.md)
-* [Crystal Onix](pokemons-exclusives/crystal-onix.md)
-* [Kubfu Evolutions](pokemons-exclusives/kubfu-evolutions.md)
-* [Meltan Charged Form](pokemons-exclusives/meltan-charged.md)
-* [Additional Eevee Evolutions](pokemons-exclusives/extra-eevee.md)
-* [Rotom Appliance Forms](pokemons-exclusives/rotom-forms.md)
-* [Furfrou Trims](pokemons-exclusives/furfrou-trims.md)
-* [Therian Forms](pokemons-exclusives/therian-forms.md)
+* [👶 Baby Legends](pokemons-exclusives/baby-legends.md)
+* [🌊 Ash Greninja](pokemons-exclusives/ash-greninja.md)
+* [🧬 Mewtwo Exclusive Forms](pokemons-exclusives/mewtwo-exclusive-forms.md)
+* [🌑 Shadow Lugia](pokemons-exclusives/shadow-lugia.md)
+* [☀️ Necrozma Fusions](pokemons-exclusives/necrozma-fusions.md)
+* [🌕 Bloodmoon Ursaluna](pokemons-exclusives/bloodmoon-ursaluna.md)
+* [💎 Crystal Onix](pokemons-exclusives/crystal-onix.md)
+* [🥋 Kubfu Evolutions](pokemons-exclusives/kubfu-evolutions.md)
+* [⚡ Meltan Charged Form](pokemons-exclusives/meltan-charged.md)
+* [🦊 Additional Eevee Evolutions](pokemons-exclusives/extra-eevee.md)
+* [🔌 Rotom Appliance Forms](pokemons-exclusives/rotom-forms.md)
+* [✂️ Furfrou Trims](pokemons-exclusives/furfrou-trims.md)
+* [🌀 Therian Forms](pokemons-exclusives/therian-forms.md)
 
 ## Mod Guides
 
-* [Music Interface](mods-guides/musicinterface.md)
-* [Chunky for World Pregeneration](mods-guides/chunky.md)
-* [Luggage](mods-guides/luggage.md)
-* [Deeper and Darker](mods-guides/deeper_and_darker.md)
-* [The Aether](mods-guides/aether.md)
+* [🎵 Music Interface](mods-guides/musicinterface.md)
+* [🧱 Chunky for World Pregeneration](mods-guides/chunky.md)
+* [🧳 Luggage](mods-guides/luggage.md)
+* [🕳️ Deeper and Darker](mods-guides/deeper_and_darker.md)
+* [☁️ The Aether](mods-guides/aether.md)
 
 ## Settings
 
-* [Disable Cave-Only Hostile Mobs](settings/cavesonly.md)
-* [Optimize Solo Performance](settings/optimize-solo-performance.md)
+* [🚫 Disable Cave-Only Hostile Mobs](settings/cavesonly.md)
+* [⚙️ Optimize Solo Performance](settings/optimize-solo-performance.md)
