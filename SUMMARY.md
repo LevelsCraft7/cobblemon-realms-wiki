@@ -1,19 +1,20 @@
 # Table of Contents
 
-## Introduction
+## Welcome
 
 * [Welcome](README.md)
+
+## Information
+
+* [Installation Guide](installation.md)
+* [First Steps](getting-started.md)
 * [Frequently Asked Questions](faq.md)
 * [Contributing](contributing.md)
 
-## Getting Started
+## Cobblemon Realms
 
-* [First Steps](getting-started.md)
-* [Installation Guide](installation.md)
 * [Quests](quests.md)
-
-## Gameplay
-
+* [Multiplayer Servers](multiplayer-servers.md)
 * [Pokemon and Spawns](pokemon-and-spawns.md)
 * [Level Cap and Trainers](pokemons-guides/levelcap-and-trainers.md)
 * [Wild Boost Mechanics](pokemons-guides/wild-boost-mechanics.md)
@@ -22,13 +23,12 @@
 * [Pokemon Shoulder Mount](pokemons-guides/shoulder_mount_effects.md)
 * [Fossils](pokemons-guides/fossils.md)
 * [Biome Tags Reference](pokemons-guides/biome-tags-reference.md)
-* [Multiplayer Servers](multiplayer-servers.md)
 
 ## Myths and Legends
 
 * [Legendary Items and Biomes](pokemons-guides/myths-and-legends-legendaries.md)
 
-## Pokemon Exclusive Forms
+## Pokemon Exclusives
 
 * [Baby Legends](pokemons-exclusives/baby-legends.md)
 * [Ash Greninja](pokemons-exclusives/ash-greninja.md)

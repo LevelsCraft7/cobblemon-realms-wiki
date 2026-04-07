@@ -1,19 +1,20 @@
 # Table des matieres
 
-## Accueil
+## Bienvenue
 
 - [Bienvenue](README.md)
+
+## Informations
+
+- [Guide d'installation](installation.md)
+- [Premiers pas](getting-started.md)
 - [Foire aux questions](faq.md)
 - [Contribuer](contributing.md)
 
-## Commencer
+## Cobblemon Realms
 
-- [Premiers pas](getting-started.md)
-- [Guide d'installation](installation.md)
 - [Quetes](quests.md)
-
-## Gameplay
-
+- [Serveurs multijoueurs](multiplayer-servers.md)
 - [Pokemon et apparitions](pokemon-and-spawns.md)
 - [Cap de niveau et dresseurs](pokemons-guides/levelcap-and-trainers.md)
 - [Mecaniques d'amelioration des apparitions](pokemons-guides/wild-boost-mechanics.md)
@@ -22,13 +23,12 @@
 - [Pokemon sur l'epaule](pokemons-guides/shoulder_mount_effects.md)
 - [Fossiles](pokemons-guides/fossils.md)
 - [Reference des tags de biome](pokemons-guides/biome-tags-reference.md)
-- [Serveurs multijoueurs](multiplayer-servers.md)
 
 ## Mythes et legendes
 
 - [Objets legendaires et biomes](pokemons-guides/myths-and-legends-legendaries.md)
 
-## Formes exclusives de Pokemon
+## Exclusivites Pokemon
 
 - [Baby Legends](pokemons-exclusives/baby-legends.md)
 - [Ash Greninja](pokemons-exclusives/ash-greninja.md)
