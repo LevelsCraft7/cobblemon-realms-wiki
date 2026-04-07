@@ -50,6 +50,7 @@
 - [Chunky pour la pre-generation du monde](mods-guides/chunky.md)
 - [Luggage](mods-guides/luggage.md)
 - [Deeper and Darker](mods-guides/deeper_and_darker.md)
+- [The Aether](mods-guides/aether.md)
 
 ## Parametres
 
