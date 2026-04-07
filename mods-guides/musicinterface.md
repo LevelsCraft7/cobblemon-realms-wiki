@@ -138,7 +138,6 @@ Example:
     "album": "My Album",
     "sound": "musicinterface:custom/my_first_track",
     "cover": "musicinterface:textures/covers/my_first_track.png",
-    "duration": "2:31",
     "enabled": true,
     "weight": 1
   },
@@ -149,7 +148,6 @@ Example:
     "album": "My Album",
     "sound": "musicinterface:custom/battle_theme",
     "cover": "musicinterface:textures/covers/battle_theme.png",
-    "duration": "3:12",
     "enabled": true,
     "weight": 1
   }
