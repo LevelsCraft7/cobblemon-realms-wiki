@@ -138,7 +138,6 @@ Exemple :
     "album": "Mon Album",
     "sound": "musicinterface:custom/ma_premiere_musique",
     "cover": "musicinterface:textures/covers/ma_premiere_musique.png",
-    "duration": "2:31",
     "enabled": true,
     "weight": 1
   },
@@ -149,7 +148,6 @@ Exemple :
     "album": "Mon Album",
     "sound": "musicinterface:custom/mon_theme_combat",
     "cover": "musicinterface:textures/covers/mon_theme_combat.png",
-    "duration": "3:12",
     "enabled": true,
     "weight": 1
   }
@@ -256,7 +254,6 @@ Mon Pack Musique/
     "album": "Mon Pack",
     "sound": "musicinterface:custom/route_01",
     "cover": "musicinterface:textures/covers/route_01.png",
-    "duration": "2:45",
     "enabled": true,
     "weight": 1
   }
