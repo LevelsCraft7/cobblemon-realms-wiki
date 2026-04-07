@@ -1,109 +1,86 @@
-# FAQ
+# Preguntas frecuentes
 
 ---
 
-## ❓ "Mi juego crashea cuando inicio el modpack"
+## "Mi juego falla al iniciar el modpack"
 
-- Asegúrate de que estás usando **Java 21** o superior
-- Sí, pero se cuidadoso: algunos mods pueden romper el equilibrio o la compatibilidad.
-- Avoid having other heavy applications open while launching the game.
-- On solo, apply our **recommended JVM flags** for better stability.\
-  ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)\
-  ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)  
-  ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)  
-  ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)  
-  ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)  
-  ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)  
-  ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)  
-  ➤ [See: Solo Optimization Guide](../settings/optimize-solo-performance.md)
+- Asegurate de usar **Java 21 o superior**.
+- Asigna al menos **8 GB de RAM** en tu launcher.
+- Evita tener otras aplicaciones pesadas abiertas al iniciar.
+- En solo, usa los flags JVM recomendados para una mejor estabilidad.
+
+[Ver la guia de optimizacion en solo](../settings/optimize-solo-performance.md)
 
 ---
 
-## ❓ "¡No puedo encontrar ningún Pokémon!"
+## "No encuentro ningun Pokemon"
 
-- Move around and explore **new biomes** — spawn variety depends on location.
-- Some Pokémon only appear **at night**, **in caves**, or during **specific weather**.
-- Usa `/checkspawns` para verificar qué aparece en tu área
+- Explora distintos biomas porque la variedad depende de la zona.
+- Algunos Pokemon solo aparecen de noche, en cuevas o con cierto clima.
+- Usa `/checkspawns` dentro del juego para ver las apariciones cercanas.
 
-📚 For detailed info, check the [Pokémon Spawns Guide](../pokemon-and-spawns.md)
-
----
-
-## ❓ "¿Puedo añadir más mods?"
-
-- Yes, but do so carefully:
-  - Some mods can break **performance**, **game balance**, or **quest logic**.
-  - Avoid mods that overwrite Cobblemon or FTB systems.
-  - Test in singleplayer before adding to a server.
+[Leer la guia de apariciones](../pokemon-and-spawns.md)
 
 ---
 
-## ❓ "¿Puedo jugar un solo jugador e invitar amigos despues?"
+## "Puedo anadir mas mods?"
 
-- Absolutely! Cobblemon Realms supports solo play.
-- Later, copy your **world save** into a server to continue with friends.
-- Use the **Server Pack** from CurseForge to set it up easily.
-
----
-
-## ❓ "¿Puedo usar aternos/minehut/hosts gratis?"
-
-- ❌ Not recommended.  
-  ❌ Not recommended.\
-  ❌ Not recommended.\
-  These platforms **lack power and customization** for large modpacks.
-- Choose a host with at least **4GB RAM**, Java 21, and FTP access.
-- We recommend **BisectHosting** — optimized for this modpack.
+- Tecnicamente si, pero no se recomienda.
+- Los mods extra pueden romper el equilibrio, la progresion, el rendimiento y la compatibilidad.
+- Si anades mods, pruebalos uno por uno.
 
 ---
 
-## ❓ "¿Necesita el modpack alguna una configuración especial?"
+## "Puedo empezar en solo e invitar amigos mas tarde?"
 
-- Yes. Minimum setup:
-  - Explora nuevos biomas
-  - Asigna al menos **8GB de RAM** en tu launcher
-- Avoid Java 8, Java 17, or other outdated runtimes — they will crash.
-- Dedicated GPU is strongly recommended for shader performance.
-
-📌 [Follow our Installation Guide](../installation.md)
+- Si. Puedes mover tu mundo de un jugador a un servidor mas adelante.
+- El server pack de CurseForge facilita la instalacion.
 
 ---
 
-## 🌐 "Can I translate or help improve the wiki?"
+## "Puedo usar Aternos, Minehut u otro host gratis?"
 
-- ¡Sí! We welcome contributors — especially for translations.
-- Our wiki uses **Crowdin** to manage community translations.
-
-🔗 [Help us on Crowdin](https://crowdin.com/project/cobblemon-realms-wiki)
+- No se recomienda para un modpack tan grande.
+- Elige un host con suficiente RAM, Java 21 y acceso FTP.
 
 ---
 
-## 🧩 "Are there unique forms or evolutions?"
+## "El modpack requiere una configuracion especial?"
 
-- ¡Sí! Puedes **convertir tu mundo en un servidor** más adelante copiando el archivo del mundo en la carpeta de tu servidor.
-  - Shadow Pokémon
-  - Armored Mewtwo
-  - Crystal Onix
-  - Furfrou Trims
-  - and more...
+- Si. Usa **Java 21 o superior**.
+- Asigna al menos **8 GB de RAM**.
+- Se recomienda una GPU dedicada para shaders.
 
-🎮 See the full list here: [Pokémon Exclusive Forms](../pokemons-exclusives/mewtwo-exclusive-forms.md)
+[Seguir la guia de instalacion](../installation.md)
 
 ---
 
-## 📚 "Where can I learn more about trainers, level caps, and gyms?"
+## "Puedo traducir o ayudar a mejorar la wiki?"
 
-- Check the **Trainer Progression** guide:
-  - Level cap system
-  - Key Trainers
-  - Gym Leaders
-  - Trainer Association
-
-📘 [Read: Level Cap and Trainers Guide](../pokemons-guides/levelcap-and-trainers.md)
+- Si. Las contribuciones son bienvenidas, sobre todo las traducciones.
+- La wiki ahora se gestiona solo con **GitHub** y **GitBook**.
+- Puedes proponer correcciones, mejorar textos o enviar paginas traducidas mediante GitHub.
 
 ---
 
-## 📬 Still have questions?
+## "Hay formas o evoluciones unicas?"
 
-Join our Discord server for help, discussion, or to report issues:\
-🔗 [https://discord.gg/kb8NSTF45n](https://discord.gg/kb8NSTF45n)
+- Si. El modpack incluye varias formas exclusivas y contenido especial.
+
+[Ver las formas exclusivas](../pokemons-exclusives/mewtwo-exclusive-forms.md)
+
+---
+
+## "Donde puedo aprender mas sobre entrenadores, level caps y gimnasios?"
+
+- Consulta la guia de progresion para ver level caps, entrenadores clave, lideres de gimnasio y progresion general.
+
+[Leer la guia de entrenadores](../pokemons-guides/levelcap-and-trainers.md)
+
+---
+
+## Aun tienes preguntas?
+
+Unete al servidor de Discord para pedir ayuda, comentar o reportar problemas:
+
+[https://discord.gg/kb8NSTF45n](https://discord.gg/kb8NSTF45n)

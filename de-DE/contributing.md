@@ -1,19 +1,21 @@
 # Contributing to the Wiki
 
-We welcome contributions from the community!
+We welcome contributions from the community.
 
-## ✍️ How to contribute
+## How to contribute
 
 - Fix typos or add explanations
 - Create guides for specific mods
 - Translate pages into other languages
 
-## 🌐 Translations
+## Translations
 
-This wiki is translated using [Crowdin](https://crowdin.com/project/cobblemon-realms-wiki). You can help translate it into French or other languages via our Crowdin project.
+Translations are now managed directly through GitHub and GitBook.
 
-## 🔧 Developers & writers
+You can help by fixing wording, proposing translations, or opening a pull request on GitHub.
 
-All pages are synced between GitBook ↔ GitHub ↔ Crowdin.
+## Developers and writers
 
-> Thank you for helping improve Cobblemon Realms!
+The documentation workflow now relies on GitBook and GitHub only.
+
+> Thank you for helping improve Cobblemon Realms.
