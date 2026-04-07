@@ -1,19 +1,20 @@
 # Table of Contents
 
-## 🌍 Introduction
+## Introduction
 
 * [Welcome](README.md)
 * [Frequently Asked Questions](faq.md)
 * [Contributing](contributing.md)
 
-## 🚀 Getting Started
+## Getting Started
 
 * [First Steps](getting-started.md)
 * [Installation Guide](installation.md)
+* [Quests](quests.md)
 
-## 🎮 Gameplay
+## Gameplay
 
-* [Pokémon and Spawns](pokemon-and-spawns.md)
+* [Pokemon and Spawns](pokemon-and-spawns.md)
 * [Level Cap and Trainers](pokemons-guides/levelcap-and-trainers.md)
 * [Wild Boost Mechanics](pokemons-guides/wild-boost-mechanics.md)
 * [Pokemon Workers Guide](pokemons-guides/cobbleworkers-guide.md)
@@ -23,11 +24,11 @@
 * [Biome Tags Reference](pokemons-guides/biome-tags-reference.md)
 * [Multiplayer Servers](multiplayer-servers.md)
 
-## 🗿 Myths & Legends
+## Myths and Legends
 
-* [Legendary Items & Biomes](pokemons-guides/myths-and-legends-legendaries.md)
+* [Legendary Items and Biomes](pokemons-guides/myths-and-legends-legendaries.md)
 
-## 🐲 Pokémon Exclusive Forms
+## Pokemon Exclusive Forms
 
 * [Baby Legends](pokemons-exclusives/baby-legends.md)
 * [Ash Greninja](pokemons-exclusives/ash-greninja.md)
@@ -43,14 +44,13 @@
 * [Furfrou Trims](pokemons-exclusives/furfrou-trims.md)
 * [Therian Forms](pokemons-exclusives/therian-forms.md)
 
-## 🧩 Mod Guides
+## Mod Guides
 
 * [Music Interface](mods-guides/musicinterface.md)
 * [Chunky for World Pregeneration](mods-guides/chunky.md)
 * [Luggage](mods-guides/luggage.md)
-* [Deeper and Darker](mods-guides/deeper_and_darker.md)
 
-## ⚙️ Settings
+## Settings
 
 * [Disable Cave-Only Hostile Mobs](settings/cavesonly.md)
 * [Optimize Solo Performance](settings/optimize-solo-performance.md)
