@@ -1,79 +1,135 @@
-# 🧬 Mewtwo Exclusive Forms
+# Mewtwo Exclusive Forms
 
-Mewtwo has access to several special forms inspired by Pokémon movies and spin-off games: **Armored Mewtwo** and **Shadow Mewtwo**.
+Mewtwo has access to several exclusive forms in Cobblemon Realms:
+
+- **Armored Mewtwo**
+- **Shadow Mewtwo**
+- **Shadow Mewtwo Mega X**
+- **Shadow Mewtwo Mega Y**
 
 ---
 
-## 🛡️ Armored Mewtwo
+## Armored Mewtwo
 
-Inspired by **Mewtwo Strikes Back**, this form focuses on durability.
+A defensive Psychic/Steel variant inspired by Mewtwo's armored appearance.
 
-### 📊 Details
-- **Stats**: HP 106 / Atk 130 / Def 110 / SpA 90 / SpD 154 / Spe 90  
-- **Ability**: Battle Armor (prevents critical hits)
+### Details
 
-### Moves
+- **Stats**: HP 106 / Atk 130 / Def 110 / SpA 90 / SpD 154 / Spe 90
+- **Typing**: Psychic / Steel
+- **Ability**: Battle Armor
+
+### Added Moves
+
 Regular Mewtwo movepool plus:
 
-- Metal Claw  
-- Iron Defense  
-- Iron Head  
-- Bullet Punch  
-- Screech  
-- Smart Strike  
-- Flash Cannon  
-- Iron Tail  
-- Meteor Mash  
-- Sunsteel Strike  
+- Metal Claw
+- Iron Defense
+- Iron Head
+- Bullet Punch
+- Screech
+- Smart Strike
+- Flash Cannon
+- Iron Tail
+- Meteor Mash
+- Sunsteel Strike
 
-### 🧪 How to Obtain
+### How to Obtain
 
-Craft **Binding Armor**, then use it on Mewtwo.
+Craft **Binding Armor** and use it on Mewtwo.
 
-➡️ Right-click Mewtwo with the item to transform it into **Armored Mewtwo**.  
-➡️ Use the item again to revert the form.
+- Right-click Mewtwo with the item to transform it.
+- Use the same item again to revert the form.
 
-<img width="666" height="300" alt="image" src="https://github.com/user-attachments/assets/7d369109-2e13-4f25-9c81-5fddafc089ab" />
+### Notes
 
-### 📝 Notes
-- Can **Mega Evolve into regular Mega Mewtwo X/Y**.
-
----
-
-## 🌑 Shadow Mewtwo
-
-Inspired by **Pokkén Tournament** and **Pokémon XD: Gale of Darkness**, this form dramatically increases Mewtwo’s offensive power.
-
-### 📊 Details
-- **Stats**: +20% Attack & Special Attack, −20% Defense & Speed  
-- **Ability**: Shadow Boost (boosts super effective moves by **1.25×**)
-
-### Moves
-Regular Mewtwo movepool plus:
-
-- Shadow Blast  
-- Shadow Shed  
-- Shadow Down  
-- Shadow Storm  
+- Armored Mewtwo can still Mega Evolve into the regular Mega Mewtwo X or Y forms.
 
 ---
 
-### 🧪 How to Obtain
+## Shadow Mewtwo
 
-Craft **Shadow Energy**, then use it on Mewtwo.
+An offensive Psychic/Dark variant inspired by Pokken Tournament and related spin-off material.
 
-➡️ Right-click **Mewtwo** with **Shadow Energy** to transform it into **Shadow Mewtwo**.  
-➡️ Requires **at least 250 friendship**, which resets to **0 after the transformation**.  
-➡️ Using the item again **reverts the form**.
+### Details
 
-<img width="666" height="300" alt="image" src="https://github.com/user-attachments/assets/19a9662d-5bf3-4442-ad84-e3e414bde3a9" />
+- **Stats**: roughly +20% Attack and Special Attack, with reduced Defense and Speed
+- **Typing**: Psychic / Dark
+- **Ability**: Shadow Boost or Neuroforce-style super-effective pressure, depending on the implementation used in your pack version
 
+### Added Moves
+
+Shadow Mewtwo may gain shadow-themed or dark offensive options such as:
+
+- Shadow Blast
+- Shadow Shed
+- Shadow Down
+- Shadow Storm
+- Dark Pulse
+- Night Slash
+- Sucker Punch
+- Nasty Plot
+
+### How to Obtain
+
+Craft **Shadow Energy** and use it on Mewtwo.
+
+- Right-click Mewtwo with **Shadow Energy** to transform it.
+- The transformation requires at least **250 friendship**.
+- Friendship resets after the transformation.
+- Use the item again to revert the form.
 
 ---
 
-## 📝 Summary
+## Shadow Mewtwo Mega X
 
-Mewtwo can access two special alternate forms:
+This is the Mega X evolution of Shadow Mewtwo.
 
-- **Armored Mewtwo** → defensive variant with Steel-type themed moves.  
-- **Shadow Mewtwo** → offensive variant with increased damage and Shadow-type techniques.
+### Details
+
+- **Typing**: Dark / Fighting
+- Built for aggressive physical offense
+
+### How to Obtain
+
+- Craft or obtain **Shadow Mewtwonite X**
+- Equip it to **Shadow Mewtwo**
+
+If your pack recipe is enabled, it is crafted from:
+
+- **Dark Gem**
+- **Mewtwonite X**
+- **Dark Gem**
+
+---
+
+## Shadow Mewtwo Mega Y
+
+This is the Mega Y evolution of Shadow Mewtwo.
+
+### Details
+
+- **Typing**: Psychic / Dark
+- More focused on special pressure and fragile power
+
+### How to Obtain
+
+- Craft or obtain **Shadow Mewtwonite Y**
+- Equip it to **Shadow Mewtwo**
+
+If your pack recipe is enabled, it is crafted from:
+
+- **Dark Gem**
+- **Mewtwonite Y**
+- **Dark Gem**
+
+---
+
+## Summary
+
+Mewtwo can be adapted to several playstyles:
+
+- **Armored Mewtwo** for a bulkier steel-themed build
+- **Shadow Mewtwo** for raw offensive pressure
+- **Shadow Mega X** for physical dark/fighting aggression
+- **Shadow Mega Y** for special dark psychic power
