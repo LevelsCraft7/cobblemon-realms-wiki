@@ -66,7 +66,6 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 <details>
 <summary><strong>🐾 Liste des montures terrestres</strong></summary>
-```
 
 ---
 
