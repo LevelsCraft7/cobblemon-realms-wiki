@@ -67,9 +67,10 @@ Certains Pokémon communs peuvent retourner une liste de **100+ biomes possibles
 
 * Utilisez la commande `/checkspawns` en explorant pour trouver des Pokémon liés à votre zone.
 * Utilisez le bot si vous voulez **suivre des Pokémon spécifiques** dans le monde.
-* N’oubliez pas que **Cobblemon Realms** inclut des **évolutions personnalisées**, des **formes exclusives** et des **mécaniques de spawn uniques** — consultez la section [Formes exclusives](../pokemons-exclusives/mewtwo-exclusive-forms.md) pour en savoir plus !
+* N’oubliez pas que **Cobblemon Realms** inclut des **évolutions personnalisées**, des **formes exclusives** et des **mécaniques de spawn uniques** 
+
+⮕ Sonsultez la section [Formes exclusives](../pokemons-exclusives/mewtwo-exclusive-forms.md) pour en savoir plus !
 
 ---
 
-Besoin d’aide ou envie de signaler un problème de spawn ? Rejoignez-nous sur Discord :
-👉 [Notre Discord](https://discord.gg/kb8NSTF45n)
+Besoin d’aide ou envie de signaler un problème de spawn ? Rejoignez-nous sur [Notre Discord](https://discord.gg/kb8NSTF45n) !
