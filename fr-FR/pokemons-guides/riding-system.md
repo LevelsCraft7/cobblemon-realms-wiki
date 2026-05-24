@@ -519,6 +519,6 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 ## 📣 Ce que cela signifie pour le modpack
 
-- Si votre Pokémon préféré n'est _pas_ encore montable, ne paniquez pas. Il pourra être ajouté au fur et à mesure que les mécaniques officielles s'étendent.
-- Pour l'instant, il faut ajuster les attentes des joueurs : certaines mécaniques de monture disponibles dans les versions précédentes peuvent être désactivées.
-- Nous suivrons les mises à jour du mod et publierons des correctifs lorsque de nouvelles options de monture seront disponibles.
+- Si votre Pokémon préféré n’est pas encore montable, pas d’inquiétude : il pourra être ajouté progressivement à mesure que les mécaniques officielles évoluent.
+- Pour le moment, certaines fonctionnalités de monture présentes dans les versions précédentes peuvent ne plus être disponibles.
+- Nous suivons de près les mises à jour du mod et intégrerons les nouvelles options de monture dès qu’elles seront accessibles.
