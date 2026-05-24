@@ -128,7 +128,7 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 - `regions_unexplored:spires`
 - `regions_unexplored:icy_heights`
 
-## ⛰️ Montagnes & Hautes Terres
+## ⛰️ Montagnes et Hautes Terres
 
 ### `is_highlands`
 
@@ -180,7 +180,7 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 - `terralith:windswept_spires`
 - `regions_unexplored:icy_heights`
 
-## ⛏️ Grottes & Souterrain
+## ⛏️ Grottes et Souterrain
 
 ### `is_cave`
 
@@ -236,7 +236,7 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 - `regions_unexplored:prismachasm`
 - `regions_unexplored:redstone_caves`
 
-## 🌊 Océans, Rivières & Côtes
+## 🌊 Océans, Rivières et Côtes
 
 ### `is_beach`
 
@@ -326,7 +326,7 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 - `#cobblemon:is_kelp`
 - `byg:lush_stacks`
 
-## 🌳 Forêts & Jungles
+## 🌳 Forêts et Jungles
 
 ### `is_forest`
 
@@ -387,7 +387,7 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 - `byg:weeping_mire`
 - `byg:withering_woods`
 
-## 🌾 Plaines & Prairies
+## 🌾 Plaines et Prairies
 
 ### `is_grassland`
 
@@ -418,7 +418,7 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 - `regions_unexplored:prairie`
 - `regions_unexplored:flower_fields`
 
-## 🏜️ Déserts & Zones Arides
+## 🏜️ Déserts et Zones Arides
 
 ### `is_arid`
 
@@ -492,7 +492,7 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 - `regions_unexplored:baobab_savanna`
 - `regions_unexplored:steppe`
 
-## 🌺 Biomes Floraux & Prairies Fleuries
+## 🌺 Biomes Floraux et Prairies Fleuries
 
 ### `is_floral`
 
@@ -541,7 +541,7 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 - `regions_unexplored:mauve_hills`
 - `regions_unexplored:temperate_grove`
 
-## 🍄 Champignons & Biomes Magiques
+## 🍄 Champignons et Biomes Magiques
 
 ### `is_magical`
 
