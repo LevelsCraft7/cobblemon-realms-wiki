@@ -65,7 +65,7 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 ---
 
 <details>
-<summary><strong>Pokémon montables (Terrestre)</strong></summary>
+<summary><strong>🐾 Liste des montures terrestres</strong></summary>
 ```
 
 ---
@@ -356,7 +356,7 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 ---
 
-<details><summary><strong>Pokémon montables (Aquatique)</strong></summary>
+<details><summary><strong>🌊 Liste des montures aquatiques</strong></summary>
 
 | No. Dex | Pokémon                                 | Style aquatique | Vitesse | Accél. | Skill | Jump   | Stam. |
 | ----------------------: | --------------------------------------- | --------------- | ------- | ---------------------- | ----- | ------ | --------------------- |
@@ -432,7 +432,7 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 ---
 
-<details><summary><strong>Pokémon montables (Aérien / Vol stationnaire)</strong></summary>
+<details><summary><strong>🪶 Liste des montures aériennes</strong></summary>
 
 | No. Dex | Pokémon                             | Style aérien     | Vitesse | Accél. | Skill  | Jump   | M. |
 | ----------------------: | ----------------------------------- | ---------------- | ------- | ---------------------- | ------ | ------ | ------------------ |
