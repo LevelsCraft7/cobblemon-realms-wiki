@@ -6,10 +6,10 @@
 
 ## Informations
 
-- [📦 Guide d'installation](installation.md)
+- [📦 Installation](installation.md)
 - [🧭 Premiers pas](getting-started.md)
 - [❓ Foire aux questions](faq.md)
-- [🛠️ Contribuer](contributing.md)
+- [🛠️ Contribution](contributing.md)
 
 ## Cobblemon Realms
 
