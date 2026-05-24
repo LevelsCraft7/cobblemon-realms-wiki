@@ -2,32 +2,37 @@
 
 ## 🚀 Retrait de l'ancien mod de montures
 
-Nous avons retiré l'add-on **Cobblemon: Ride On!** du modpack et utilisons désormais le système de montures officiel fourni par Cobblemon. from the modpack and are now using the official riding mechanics provided by Cobblemon itself.
-Cela signifie que certains de vos Pokémon préférés pourraient **ne plus être montables**, au moins temporairement.
+Nous avons retiré l'add-on **Cobblemon: Ride On!** du modpack et utilisons désormais le système de montures officiel fourni par Cobblemon.  
+Cela signifie que certains de vos Pokémon préférés pourraient **ne plus être montables**, au moins temporairement.  
 Notre équipe garde un œil sur ce système et cherchera à étendre la liste des Pokémon montables dès que le mod officiel le permettra.
 
 ---
 
 ## 🐾 Fonctionnement du système officiel de montures
 
-### ♾️ Infinite Ride Stamina (Cobblemon Realms)
+### ♾️ Endurance de monture infinie (Cobblemon Realms)
 
-In **Cobblemon Realms**, ride stamina is **infinite for all rideable Pokémon**.
+Dans **Cobblemon Realms**, l’endurance de monture est **infinie pour tous les Pokémon montables**.
 
-That means:
+Cela signifie :
 
-- You will never run out of stamina while riding
-- Long-distance travel is always possible
-- No stamina management is required
+- 🟢 Vous ne manquez jamais d’endurance en montant un Pokémon
+- 🟢 Les déplacements longue distance sont toujours possibles
+- 🟢 Aucune gestion de stamina n’est nécessaire
 
-This is a **modpack-specific customization** and differs from default Cobblemon.
+Ceci est une **personnalisation propre au modpack**, différente du Cobblemon de base.
 
-- Faites un clic droit sur un Pokémon compatible (tout en étant **accroupi**) pour ouvrir l'option de monture.
-- Aucune selle n'est requise.
-- Le mode de caméra préféré pour chaque style de monture est enregistré et restauré lorsque vous montez ou descendez.
-- Vous pouvez ajuster les paramètres de monture dans **`config\cobblemon\main.json`**, par exemple :
+---
 
-  ```json
+### 🎮 Utilisation des montures
+
+- Faites un clic droit sur un Pokémon compatible (tout en étant **accroupi**) pour ouvrir l’option de monture.
+- Aucune selle n’est requise.
+- Le mode caméra préféré pour chaque style de monture est enregistré et restauré lorsque vous montez ou descendez.
+- Vous pouvez ajuster les paramètres de monture dans `config\cobblemon\main.json`, par exemple :
+
+```json
+{
   "invertRoll": false,
   "invertPitch": false,
   "invertYaw": false,
@@ -39,21 +44,31 @@ This is a **modpack-specific customization** and differs from default Cobblemon.
   "displayControlSeconds": 0,
   "infiniteRideStamina": false,
   "rememberRidingCamera": false
-  ```
+}
+````
 
-  Si vous souffrez du mal des transports, définissez `"disableRoll": true`.
-- Page du wiki officiel pour plus de détails : [Pokémon / Montures](https://wiki.cobblemon.com/index.php/Pok%C3%A9mon/Riding)
+💡 Si vous souffrez du mal des transports, définissez `"disableRoll": true`.
+
+---
+
+## 📚 Documentation officielle
+
+* 🔗 [https://wiki.cobblemon.com/index.php/Pok%C3%A9mon/Riding](https://wiki.cobblemon.com/index.php/Pok%C3%A9mon/Riding)
 
 ---
 
 ## 📋 Liste des Pokémon montables
 
-Ci-dessous se trouve la liste complète des Pokémon actuellement montables avec le système officiel de Cobblemon.  
-Les statistiques sont indiquées par type de monture et proviennent directement du tableau officiel de montures de Cobblemon.
+Ci-dessous se trouve la liste complète des Pokémon actuellement montables avec le système officiel de Cobblemon.
+Les statistiques sont indiquées par type de monture et proviennent directement du tableau officiel des montures Cobblemon.
 
 ---
 
-<details><summary><strong>Pokémon montables (Terrestre)</strong></summary>
+<details>
+<summary><strong>Pokémon montables (Terrestre)</strong></summary>
+```
+
+---
 
 | No. Dex | Pokémon                                               | Style terrestre | Vitesse | Accél. | Skill  | Jump  | Stam. |
 | ----------------------: | ----------------------------------------------------- | --------------- | ------- | ---------------------- | ------ | ----- | --------------------- |
