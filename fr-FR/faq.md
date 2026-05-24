@@ -81,4 +81,6 @@
 
 ## Encore des questions ?
 
-Rejoignez le serveur Discord pour obtenir de l'aide, discuter ou signaler un problème : [Rejoindre le Discord](https://discord.gg/kb8NSTF45n)
+Rejoignez le serveur Discord pour obtenir de l'aide, discuter ou signaler un problème : 
+
+[Rejoindre le Discord](https://discord.gg/kb8NSTF45n)
