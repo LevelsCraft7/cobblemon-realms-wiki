@@ -13,7 +13,7 @@
 
 ## Cobblemon Realms
 
-- [📜 Quêtes](quests.md)
+- [📜 Les quêtes](quests.md)
 - [🌐 Serveurs multijoueurs](multiplayer-servers.md)
 - [🐾 Pokémon et apparitions](pokemon-and-spawns.md)
 - [🎯 Cap de niveau et dresseurs](pokemons-guides/levelcap-and-trainers.md)
