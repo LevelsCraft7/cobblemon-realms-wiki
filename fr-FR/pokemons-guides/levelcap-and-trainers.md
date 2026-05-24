@@ -42,6 +42,8 @@ Les Dresseurs Clés sont les points de progression principaux. Les vaincre augme
   - **Conditions spéciales**
   - **Parfois, objets requis** pour les invoquer
 
+---
+
 ### 🌍 Trouver les Dresseurs Clés dans Cobblemon Realms
 
 Dans **Cobblemon Realms**, des outils supplémentaires sont disponibles via le système de quêtes :
