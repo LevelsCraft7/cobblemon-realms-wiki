@@ -1,6 +1,6 @@
 # 📊 Mécanismes améliorés des Pokémon sauvages
 
-Certains mods enrichissent l’expérience Cobblemon en introduisant des mécaniques qui récompensent les joueurs pour leurs interactions avec les Pokémon sauvages — en particulier les **K.O.** et les **captures**. Ces systèmes suivent vos actions et influencent dynamiquement les futures apparitions de Pokémon.
+Certains mods enrichissent l’expérience Cobblemon en introduisant des mécaniques qui récompensent les joueurs pour leurs interactions avec les Pokémon sauvages ; en particulier les **K.O.** et les **captures**. Ces systèmes suivent vos actions et influencent dynamiquement les futures apparitions de Pokémon.
 
 ---
 
