@@ -57,6 +57,8 @@ Chaque fossile est associé à des **environnements précis**, rendant certains 
 | Fossile Dragon ![Fossile Dragon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_Dragon.png)          | ![Hydragon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Hydragon.png) ![Galvagon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Galvagon.png)                   | Birch Tree, Lush Den, Mud Pit,**Preserved Skeleton** (gravel), Rooted Pit, Sunscorched Den, **Sunscorched Remains**                                                                                       |
 | Fossile Aileron ![Fossile Aileron](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_Aileron.png)          | ![Galvagla](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Galvagla.png) ![Hydragla](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Hydragla.png)                  | Frozen Pond, **Frozen Spike**, Oak Tree, Powdered Deposit, **Preserved Skeleton** (gravel), Sandy Den                                                                                       |
 
+> 💡 **Astuce :** Les structures affichées en **gras** garantissent toujours la présence du fossile correspondant.
+
 ---
 
 ## 🧬 Fossiles hybrides
