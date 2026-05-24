@@ -34,7 +34,7 @@ Les Dresseurs Clés sont les points de progression principaux. Les vaincre augme
 - **Au début du jeu**, lorsque vous obtenez une **Carte de Dresseur** mais que **vous n’avez aucune série de dresseurs active**, une **flèche holographique** apparaît.  
   → Cette flèche **pointe toujours vers le PNJ de l’Association des Dresseurs** pour vous permettre de commencer votre première série.
   
-- Après avoir choisi une série, **la flèche disparaît** — il **n’y a pas de flèche vers les Dresseurs Clés** eux-mêmes.
+- Après avoir choisi une série, **la flèche disparaît** ; il **n’y a pas de flèche vers les Dresseurs Clés** eux-mêmes.
 - À partir de là, vous devez **utiliser les informations de votre Carte de Dresseur** pour localiser les Dresseurs Clés :
   - **Noms des biomes**
   - **Conditions spéciales**
