@@ -31,7 +31,7 @@ Ceci est une **personnalisation propre au modpack**, différente du Cobblemon de
 - Le mode caméra préféré pour chaque style de monture est enregistré et restauré lorsque vous montez ou descendez.
 - Vous pouvez ajuster les paramètres de monture dans `config\cobblemon\main.json`, par exemple :
 
-```json
+```
 {
   "invertRoll": false,
   "invertPitch": false,
@@ -45,7 +45,7 @@ Ceci est une **personnalisation propre au modpack**, différente du Cobblemon de
   "infiniteRideStamina": false,
   "rememberRidingCamera": false
 }
-````
+```
 
 💡 Si vous souffrez du mal des transports, définissez `"disableRoll": true`.
 
@@ -321,36 +321,36 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 |                     901 | Oyacata                                               | Horse           | 40-65   | 30-40                  | 10-25  | 25-35 | ∞                     |
 |                     903 | Lanssorien                                            | Horse           | 35-45   | 75-90                  | 65-85  | 30-40 | ∞                     |
 |                     908 | Miascarade                                            | Horse           | 55-80   | 55-80                  | 55-85  | 35-60 | ∞                     |
-|                     911 | Flâmigator                                             | Horse           | 25-45   | 20-40                  | 45-75  | 20-35 | ∞                     |
+|                     911 | Flâmigator                                            | Horse           | 25-45   | 20-40                  | 45-75  | 20-35 | ∞                     |
 |                     914 | Palmaval                                              | Horse           | 40-65   | 45-70                  | 55-80  | 25-45 | ∞                     |
-|                     916 | Fragroin                                             | Horse           | 25-45   | 20-40                  | 20-40  | 15-30 | ∞                     |
-|                     918 | Filentrappe                                                | Horse           | 20-40   | 20-35                  | 35-65  | 15-30 | ∞                     |
+|                     916 | Fragroin                                              | Horse           | 25-45   | 20-40                  | 20-40  | 15-30 | ∞                     |
+|                     918 | Filentrappe                                           | Horse           | 20-40   | 20-35                  | 35-65  | 15-30 | ∞                     |
 |                     934 | Grodrive                                              | Horse           | 10-30   | 10-25                  | 30-55  | 10-20 | ∞                     |
-|                     936 | Carmadura                                              | Horse           | 35-55   | 40-65                  | 50-80  | 20-35 | ∞                     |
-|                     937 | Malvalame                                              | Horse           | 35-60   | 45-70                  | 60-85  | 25-40 | ∞                     |
-|                     939 | Ampibidou                                              | Horse           | 20-40   | 30-55                  | 35-60  | 20-40 | ∞                     |
+|                     936 | Carmadura                                             | Horse           | 35-55   | 40-65                  | 50-80  | 20-35 | ∞                     |
+|                     937 | Malvalame                                             | Horse           | 35-60   | 45-70                  | 60-85  | 25-40 | ∞                     |
+|                     939 | Ampibidou                                             | Horse           | 20-40   | 30-55                  | 35-60  | 20-40 | ∞                     |
 |                     941 | Fulgulairo                                            | Horse           | 10-40   | 10-40                  | 80-100 | 10-40 | ∞                     |
-|                     943 | Dogrino                                            | Horse           | 35-60   | 35-55                  | 30-50  | 20-35 | ∞                     |
-|                     949 | Terracruel                                             | Horse           | 30-55   | 20-40                  | 30-60  | 15-30 | ∞                     |
-|                     950 | Craparoi                                                  | Horse           | 20-40   | 20-35                  | 35-55  | 10-25 | ∞                     |
-|                     956 | Cléopsytra                                               | Horse           | 55-70   | 30-65                  | 15-40  | 40-55 | ∞                     |
-|                     966 | Vrombotor                                              | Horse           | 70-85   | 0-5                    | 25-40  | 15-20 | ∞                     |
+|                     943 | Dogrino                                               | Horse           | 35-60   | 35-55                  | 30-50  | 20-35 | ∞                     |
+|                     949 | Terracruel                                            | Horse           | 30-55   | 20-40                  | 30-60  | 15-30 | ∞                     |
+|                     950 | Craparoi                                              | Horse           | 20-40   | 20-35                  | 35-55  | 10-25 | ∞                     |
+|                     956 | Cléopsytra                                            | Horse           | 55-70   | 30-65                  | 15-40  | 40-55 | ∞                     |
+|                     966 | Vrombotor                                             | Horse           | 70-85   | 0-5                    | 25-40  | 15-20 | ∞                     |
 |                     967 | Cliticlic                                             | Horse           | 50-85   | 65-85                  | 35-60  | 35-45 | ∞                     |
 |                     968 | Ursaking                                              | Horse           | 30-40   | 15-25                  | 0-15   | 0-5   | ∞                     |
 |                     975 | Tritosor                                              | Horse           | 20-40   | 20-45                  | 30-55  | 10-25 | ∞                     |
-|                     977 | Oyacata                                                | Horse           | 10-40   | 10-40                  | 80-100 | 10-40 | ∞                     |
-|                     979 | Courrousinge                                             | Horse           | 45-70   | 40-65                  | 45-75  | 25-40 | ∞                     |
-|                     980 | Terraiste                                               | Horse           | 5-20    | 10-25                  | 20-40  | 0-10  | ∞                     |
+|                     977 | Oyacata                                               | Horse           | 10-40   | 10-40                  | 80-100 | 10-40 | ∞                     |
+|                     979 | Courrousinge                                          | Horse           | 45-70   | 40-65                  | 45-75  | 25-40 | ∞                     |
+|                     980 | Terraiste                                             | Horse           | 5-20    | 10-25                  | 20-40  | 0-10  | ∞                     |
 |                     981 | Farigiraf                                             | Horse           | 45-60   | 40-60                  | 35-50  | 45-55 | ∞                     |
-|                     982 | Deusolourdo                                            | Horse           | 5-25    | 30-50                  | 30-40  | 20-45 | ∞                     |
-|                     982 | Deusolourdo (Forme Trois Segments) | Horse           | 5-25    | 35-60                  | 30-40  | 25-55 | ∞                     |
-|                    1018 | Pondralugon                                             | Horse           | 25-40   | 25-40                  | 25-40  | 15-30 | ∞                     |
-|                       — | Chef-de-Fer                                             | Horse           | 35-55   | 35-50                  | 35-55  | 30-45 | ∞                     |
-|                       — | Vert-de-Fer                                            | Horse           | 55-85   | 55-80                  | 45-70  | 25-45 | ∞                     |
-|                       — | Ékaïser                                                 | Horse           | 35-55   | 40-60                  | 45-70  | 20-35 | ∞                     |
-|                       — | M.                                    | Horse           | 25-40   | 20-40                  | 35-60  | 15-30 | ∞                     |
-|                       — | Hurle-Queue                                            | Horse           | 25-40   | 30-45                  | 30-45  | 20-35 | ∞                     |
-|                       — | Serpente-Eau                                           | Horse           | 35-60   | 35-60                  | 25-45  | 25-45 | ∞                     |
+|                     982 | Deusolourdo                                           | Horse           | 5-25    | 30-50                  | 30-40  | 20-45 | ∞                     |
+|                     982 | Deusolourdo (Forme Trois Segments)                    | Horse           | 5-25    | 35-60                  | 30-40  | 25-55 | ∞                     |
+|                    1018 | Pondralugon                                           | Horse           | 25-40   | 25-40                  | 25-40  | 15-30 | ∞                     |
+|                       — | Chef-de-Fer                                           | Horse           | 35-55   | 35-50                  | 35-55  | 30-45 | ∞                     |
+|                       — | Vert-de-Fer                                           | Horse           | 55-85   | 55-80                  | 45-70  | 25-45 | ∞                     |
+|                       — | Ékaïser                                               | Horse           | 35-55   | 40-60                  | 45-70  | 20-35 | ∞                     |
+|                       — | M.                                                    | Horse           | 25-40   | 20-40                  | 35-60  | 15-30 | ∞                     |
+|                       — | Hurle-Queue                                           | Horse           | 25-40   | 30-45                  | 30-45  | 20-35 | ∞                     |
+|                       — | Serpente-Eau                                          | Horse           | 35-60   | 35-60                  | 25-45  | 25-45 | ∞                     |
 
 </details>
 
