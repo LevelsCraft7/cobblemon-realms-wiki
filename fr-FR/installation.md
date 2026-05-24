@@ -1,144 +1,144 @@
 # Guide d’installation
 
-Welcome to **Cobblemon Realms**! This guide will help you set up your game in the best possible way—whether you’re playing solo or with friends.
+Bienvenue sur **Cobblemon Realms** ! Ce guide vous aidera à configurer votre jeu de la meilleure façon possible, que vous jouiez en solo ou avec des amis.
 
 ---
 
-## 🖥️ Playing in Singleplayer
+## 🖥️ Jouer en solo
 
-To enjoy the modpack in solo mode:
+Pour profiter du modpack en mode solo :
 
 1. Ouvrez l’[application CurseForge](https://www.curseforge.com/download/app)
 2. Recherchez “[Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)”
-3. Click **Install**, then wait for it to download.
-4. Once installed, press **Play** to launch the game with all required mods.
+3. Cliquez sur **Installer**, puis attendez la fin du téléchargement.
+4. Une fois installé, appuyez sur **Jouer** pour lancer le jeu avec tous les mods requis.
 
 🎁 **OFFRE SPÉCIALE**
 
 - **🛠️ Étape 1 : Configurer la RAM (facultatif mais recommandé)**\
   Ouvrez le fichier `user_jvm_args.txt` et modifiez les valeurs de mémoire :
   `-Xmx8G -Xms8G`
-- Use **Java 21** for best compatibility and performance.
-- Make sure your GPU drivers and Minecraft are up to date.
+- Utilisez **Java 21** pour une meilleure compatibilité et de meilleures performances.
+- Assurez-vous que les pilotes de votre carte graphique ainsi que Minecraft sont à jour.
 
 ---
 
-## 🔄 Updating Your Game Version (Client)
+## 🔄 Mettre à jour votre version du jeu (Client)
 
-When a new version of Cobblemon Realms is released, follow these steps to stay up to date.
+Lorsqu’une nouvelle version de Cobblemon Realms est publiée, suivez ces étapes pour rester à jour.
 
-### 🧭 On CurseForge
+### 🧭 Sur CurseForge
 
-1. Open the **CurseForge App** and go to **My Modpacks**.
-2. Hover over _Cobblemon Realms_ and click the **arrow** next to "Play".
-3. If an update is available, you’ll see **“Update Available”**.
-4. Select the **latest version** and click **Continue**.
-5. Wait for it to install, then click **Play**.
+1. Ouvrez l’**application CurseForge** et allez dans **Mes modpacks**.
+2. Survolez _Cobblemon Realms_ et cliquez sur la **flèche** à côté de “Jouer”.
+3. Si une mise à jour est disponible, vous verrez **“Mise à jour disponible”**.
+4. Sélectionnez la **dernière version** puis cliquez sur **Continuer**.
+5. Attendez la fin de l’installation puis cliquez sur **Jouer**.
 
-🟢 **Tip:** CurseForge automatically applies configs and dependencies. It’s the **recommended launcher**.
+🟢 **Astuce :** CurseForge applique automatiquement les configurations et dépendances. C’est le **launcher recommandé**.
 
-### 🌍 On Other Launchers (Prism, Modrinth, MultiMC)
+### 🌍 Sur d’autres launchers (Prism, Modrinth, MultiMC)
 
-If you use another launcher:
+Si vous utilisez un autre launcher :
 
-1. In CurseForge, click the `...` next to the modpack → **Export Profile**.
-2. Import the exported `.zip` into your preferred launcher.
-3. Some launchers might not apply all configs correctly — **CurseForge is always recommended** for the best results.
+1. Dans CurseForge, cliquez sur les `...` à côté du modpack → **Exporter le profil**.
+2. Importez le fichier `.zip` exporté dans le launcher de votre choix.
+3. Certains launchers peuvent ne pas appliquer correctement toutes les configurations — **CurseForge reste toujours recommandé** pour obtenir les meilleurs résultats.
 
 ---
 
-## 🎮 Hosting a Multiplayer Server
+## 🎮 Héberger un serveur multijoueur
 
-Want to team up with friends or host a community server? Here’s how to do it manually.
+Vous voulez jouer avec des amis ou héberger un serveur communautaire ? Voici comment procéder manuellement.
 
-### ⚙️ Minimum Requirements
+### ⚙️ Configuration minimale requise
 
-| ⚠️ **Pré-requis :** | Recommended Value                                                                          |
+| ⚠️ **Pré-requis :** | Valeur recommandée |
 | ----------------------------------- | ------------------------------------------------------------------------------------------ |
-| RAM                                 | Au moins **8 Go de RAM libre** (16 Go au total recommandé)              |
-| Java Version                        | Version 21                                                                                 |
-| Internet                            | Une connexion internet stable                                                              |
-| Knowledge                           | Able to run `.bat` or `.sh` scripts, port forwarding (optional for LAN) |
+| RAM                                 | Au moins **8 Go de RAM libre** (16 Go au total recommandé) |
+| Version de Java                     | Version 21 |
+| Internet                            | Une connexion internet stable |
+| Connaissances                       | Savoir exécuter des scripts `.bat` ou `.sh`, redirection de ports (facultatif en LAN) |
 
 ---
 
-## 🛠️ Manual Server Setup (Local or FTP)
+## 🛠️ Installation manuelle du serveur (Local ou FTP)
 
-1. Don’t want the hassle of manual setup or port forwarding?\
-   Use our **official partner**: [**BisectHosting**](https://bisecthosting.com/CobblemonRealms)
-2. Extract the ZIP to an empty folder.
-3. Launch:
+1. Vous ne voulez pas vous compliquer la vie avec une installation manuelle ou une redirection de ports ?\
+   Utilisez notre **partenaire officiel** : [**BisectHosting**](https://bisecthosting.com/CobblemonRealms)
+2. Extrayez le fichier ZIP dans un dossier vide.
+3. Lancez :
    - Double-cliquez sur le fichier `run.bat`
-   - On **Mac/Linux**: use the `run.sh` script.
-4. Accept the EULA (`eula.txt → true`) and rerun the file.
-5. Adjust `server.properties` to your liking.
+   - Sur **Mac/Linux** : utilisez le script `run.sh`
+4. Acceptez l’EULA (`eula.txt → true`) puis relancez le fichier.
+5. Ajustez `server.properties` selon vos préférences.
 
 ---
 
-## ☁️ Hosting with a Provider (Recommended)
+## ☁️ Hébergement avec un fournisseur (Recommandé)
 
 🟢 Je suis partenaire avec **Bisect Hosting**, et vous pouvez installer **Cobblemon Realms en un clic** via leur panneau.
 
-- 🔧 **Instant installation** with no manual uploads or setup required
-- 💾 **Automatic updates**, regular **backups**, and optimized performance
-- 📍 **Global locations**, SSD storage, DDoS protection, and full mod support
-- 🧩 Fully compatible with CurseForge, ensuring your configs stay synced
+- 🔧 **Installation instantanée** sans aucun upload ou réglage manuel requis
+- 💾 **Mises à jour automatiques**, **sauvegardes** régulières et performances optimisées
+- 📍 **Localisations mondiales**, stockage SSD, protection DDoS et prise en charge complète des mods
+- 🧩 Entièrement compatible avec CurseForge, garantissant la synchronisation de vos configurations
 
-### 🎉 Partner Discount
+### 🎉 Réduction partenaire
 
-As part of our partnership, you can use the code [**OurStory**](https://www.bisecthosting.com/OurStory) at checkout to receive **25% OFF**.
+Dans le cadre de notre partenariat, vous pouvez utiliser le code [**OurStory**](https://www.bisecthosting.com/OurStory) lors du paiement pour obtenir **25 % DE RÉDUCTION**.
 
-Embrace seamless hosting so you can focus on **exploring, catching, and adventuring** — not on server maintenance!
+Profitez d’un hébergement fluide afin de vous concentrer sur **l’exploration, la capture et l’aventure** — et non sur la maintenance du serveur !
 
 ---
 
-### 🧰 Manual Installation (If Needed)
+### 🧰 Installation manuelle (Si nécessaire)
 
-If you prefer to upload the server pack manually:
+Si vous préférez importer le pack serveur manuellement :
 
-1. Download the **Server Pack** from the **Files** section.
-2. Extract it inside your server folder.
-3. Replace only these folders from the new pack:
+1. Téléchargez le **Server Pack** depuis la section **Fichiers**.
+2. Extrayez-le dans le dossier de votre serveur.
+3. Remplacez uniquement ces dossiers du nouveau pack :
    - `mods/`
    - `config/`
    - `kubejs/`
    - `defaultconfigs/`
-4. Never delete:
+4. Ne supprimez jamais :
    - `world/`
    - `libraries/`
-   - `.jar` files
+   - les fichiers `.jar`
 
-> 💡 **BisectHosting** automatically handles updates and optimizations, making manual updates unnecessary in most cases.
+> 💡 **BisectHosting** gère automatiquement les mises à jour et optimisations, rendant les mises à jour manuelles inutiles dans la plupart des cas.
 
 ---
 
-## 🔄 Updating a Server Pack
+## 🔄 Mettre à jour un pack serveur
 
-### 🧰 Manual Method
+### 🧰 Méthode manuelle
 
 1. 🔄 **Étape 3 : Relancer le serveur**
-2. Delete outdated folders (`mods`, `config`, `defaultconfigs`, `kubejs`).
-3. Replace them with the new ones from the `.zip`.
-4. Launch the server:
+2. Supprimez les dossiers obsolètes (`mods`, `config`, `defaultconfigs`, `kubejs`).
+3. Remplacez-les par les nouveaux contenus du fichier `.zip`.
+4. Lancez le serveur :
 
-### ☁️ Via Hosting Panel (BisectHosting)
+### ☁️ Via le panneau d’hébergement (BisectHosting)
 
-**BisectHosting** includes an **“Update / Reinstall Modpack”** button on your panel.  
-This safely updates your instance to the latest version without affecting your world data.
+**BisectHosting** inclut un bouton **“Mettre à jour / Réinstaller le modpack”** sur votre panneau.  
+Cela met à jour votre instance vers la dernière version en toute sécurité sans affecter les données de votre monde.
 
-> 🟢 One-click Cobblemon Realms server setup\
-> 🟢 Great performance and global support\
-> 🟢 Automatic backups, DDoS protection, modpack updates
-
----
-
-## 🧱 Common Tips
-
-- Always **backup your world** before making large changes or updates.
-- Make sure the **server and clients** are on the same modpack version.
-- If you encounter issues, reset configs by deleting `config/` and `defaultconfigs/` and relaunch.
-- Consult our [FAQ page](../faq.md) for more help.
+> 🟢 Installation de serveur Cobblemon Realms en un clic\
+> 🟢 Excellentes performances et support mondial\
+> 🟢 Sauvegardes automatiques, protection DDoS et mises à jour du modpack
 
 ---
 
-🔥 Enjoy your Pokémon adventures with friends or solo — the Realms await! 🧭✨
+## 🧱 Conseils courants
+
+- Faites toujours une **sauvegarde de votre monde** avant de réaliser de gros changements ou des mises à jour.
+- Assurez-vous que le **serveur et les clients** utilisent la même version du modpack.
+- Si vous rencontrez des problèmes, réinitialisez les configurations en supprimant `config/` et `defaultconfigs/` puis relancez le jeu.
+- Consultez notre [page FAQ](../faq.md) pour obtenir davantage d’aide.
+
+---
+
+🔥 Profitez de vos aventures Pokémon entre amis ou en solo ; les Realms vous attendent ! 🧭✨
