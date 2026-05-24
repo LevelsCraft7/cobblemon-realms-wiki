@@ -73,6 +73,3 @@ Certains Pokémon communs peuvent retourner une liste de **100+ biomes possibles
 
 Besoin d’aide ou envie de signaler un problème de spawn ? Rejoignez-nous sur Discord :
 👉 [Notre Discord](https://discord.gg/kb8NSTF45n)
-
-```
-```
