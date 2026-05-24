@@ -1,4 +1,4 @@
-# 🧗 Aperçu de la progression des dresseurs
+# 🎯 Aperçu de la progression des dresseurs
 
 Dans **Cobblemon Realms**, les combats contre des dresseurs ne sont pas de simples rencontres aléatoires ; ils font partie d’un **système de progression structuré** basé sur les **Cartes de Dresseur**, les **Dresseurs Clés** et les **Séries de Dresseurs**.  
 
