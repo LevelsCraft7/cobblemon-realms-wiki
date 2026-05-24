@@ -18,7 +18,7 @@
 - [🐾 Pokémon et apparitions](pokemon-and-spawns.md)
 - [🎯 Cap de niveau et dresseurs](pokemons-guides/levelcap-and-trainers.md)
 - [✨ Mécaniques d'amélioration des apparitions](pokemons-guides/wild-boost-mechanics.md)
-- [🧰 Guide des Pokémon Workers](pokemons-guides/cobbleworkers-guide.md)
+- [📘 Guide des Pokémon Workers](pokemons-guides/cobbleworkers-guide.md)
 - [🐎 Système de montures](pokemons-guides/riding-system.md)
 - [🦜 Pokémon sur l'épaule](pokemons-guides/shoulder_mount_effects.md)
 - [🦴 Fossiles](pokemons-guides/fossils.md)
