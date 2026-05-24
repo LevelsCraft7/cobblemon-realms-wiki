@@ -1,20 +1,28 @@
 # Effets des Pokémon sur l’Épaule (5.0)
 
-Cette page répertorie **tous les Pokémon qui appliquent des effets lorsque vous les portez sur votre épaule** dans le modpack Cobblemon Realms.
+Cette page recense **l’ensemble des Pokémon capables d’appliquer des effets lorsqu’ils sont placés sur votre épaule** dans le modpack Cobblemon Realms.
 
-Lorsqu’un Pokémon est placé sur votre épaule, il peut appliquer des **effets de potion continus** à votre personnage.  
-Ces effets sont définis via les fichiers JSON du datapack dans le dossier `shoulder_mount_Effets`.
-
-- Les effets sont actifs **tant que le Pokémon reste sur votre épaule**.
-- Si plusieurs effets existent, ils s’appliquent simultanément.
-- L’**amplificateur** correspond au niveau de l’effet (0 = niveau I, 1 = niveau II, etc.).
-- Certains effets ont été **nerfés ou supprimés** pour des raisons d’équilibrage.
-
-Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alphabétique.
+Lorsqu’un Pokémon est positionné sur votre épaule, il peut appliquer des **effets de potion continus** à votre personnage.  
+Ces effets sont définis via les fichiers JSON du datapack situés dans le dossier `shoulder_mount_Effects`.
 
 ---
 
-## Alcremie
+## ⚙️ Fonctionnement
+
+- Les effets restent actifs **tant que le Pokémon est sur votre épaule**.
+- Plusieurs effets peuvent s’appliquer simultanément.
+- L’**amplificateur** correspond au niveau de l’effet (0 = niveau I, 1 = niveau II, etc.).
+- Certains effets ont été **modifiés, nerfés ou supprimés** pour des raisons d’équilibrage.
+
+---
+
+## 📚 Liste des Pokémon
+
+Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par ordre alphabétique.
+
+---
+
+## Charmilly 
 
 ![Alcremie](https://play.pokemonshowdown.com/sprites/ani/alcremie.gif)
 
@@ -38,7 +46,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Archen
+## Arkéapti 
 
 ![Archen](https://play.pokemonshowdown.com/sprites/ani/archen.gif)
 
@@ -51,7 +59,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Beldum
+## Terhal 
 
 ![Beldum](https://play.pokemonshowdown.com/sprites/ani/beldum.gif)
 
@@ -64,7 +72,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Bellossom
+## Joliflor 
 
 ![Bellossom](https://play.pokemonshowdown.com/sprites/ani/bellossom.gif)
 
@@ -76,7 +84,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Budew
+## Rozbouton 
 
 ![Budew](https://play.pokemonshowdown.com/sprites/ani/budew.gif)
 
@@ -88,7 +96,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Bulbasaur
+## Bulbizarre 
 
 ![Bulbasaur](https://play.pokemonshowdown.com/sprites/ani/bulbasaur.gif)
 
@@ -101,7 +109,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Caterpie
+## Chenipan 
 
 ![Caterpie](https://play.pokemonshowdown.com/sprites/ani/caterpie.gif)
 
@@ -113,7 +121,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Charcadet
+## Charbambin 
 
 ![Charcadet](https://play.pokemonshowdown.com/sprites/ani/charcadet.gif)
 
@@ -126,7 +134,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Charmander
+## Salamèche 
 
 ![Charmander](https://play.pokemonshowdown.com/sprites/ani/charmander.gif)
 
@@ -139,7 +147,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Chatot
+## Pijako 
 
 ![Chatot](https://play.pokemonshowdown.com/sprites/ani/chatot.gif)
 
@@ -151,7 +159,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Chikorita
+## Germignon 
 
 ![Chikorita](https://play.pokemonshowdown.com/sprites/ani/chikorita.gif)
 
@@ -165,7 +173,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Chimchar
+## Ouisticram 
 
 ![Chimchar](https://play.pokemonshowdown.com/sprites/ani/chimchar.gif)
 
@@ -178,7 +186,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Chingling
+## Korillon 
 
 ![Chingling](https://play.pokemonshowdown.com/sprites/ani/chingling.gif)
 
@@ -190,7 +198,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Cleffa
+## Mélo 
 
 ![Cleffa](https://play.pokemonshowdown.com/sprites/ani/cleffa.gif)
 
@@ -202,7 +210,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Combee
+## Apitrini 
 
 ![Combee](https://play.pokemonshowdown.com/sprites/ani/combee.gif)
 
@@ -215,7 +223,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Comfey
+## Guérilande 
 
 ![Comfey](https://play.pokemonshowdown.com/sprites/ani/comfey.gif)
 
@@ -227,7 +235,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Cutiefly
+## Bombydou 
 
 ![Cutiefly](https://play.pokemonshowdown.com/sprites/ani/cutiefly.gif)
 
@@ -240,7 +248,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Cyndaquil
+## Héricendre 
 
 ![Cyndaquil](https://play.pokemonshowdown.com/sprites/ani/cyndaquil.gif)
 
@@ -253,7 +261,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Dreepy
+## Fantyrm 
 
 ![Dreepy](https://play.pokemonshowdown.com/sprites/ani/dreepy.gif)
 
@@ -266,7 +274,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Eevee
+## Évoli
 
 ![Eevee](https://play.pokemonshowdown.com/sprites/ani/eevee.gif)
 
@@ -279,7 +287,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Elgyem
+## Lewsor 
 
 ![Elgyem](https://play.pokemonshowdown.com/sprites/ani/elgyem.gif)
 
@@ -291,7 +299,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Fennekin
+## Feunnec 
 
 ![Fennekin](https://play.pokemonshowdown.com/sprites/ani/fennekin.gif)
 
@@ -304,7 +312,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Flabebe
+## Flabébé 
 
 ![Flabebe](https://play.pokemonshowdown.com/sprites/ani/flabebe.gif)
 
@@ -316,7 +324,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Fletchling
+## Passerouge 
 
 ![Fletchling](https://play.pokemonshowdown.com/sprites/ani/fletchling.gif)
 
@@ -328,7 +336,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Flittle
+## Flotillon 
 
 ![Flittle](https://play.pokemonshowdown.com/sprites/ani/flittle.gif)
 
@@ -341,7 +349,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Fomantis
+## Mimantis 
 
 ![Fomantis](https://play.pokemonshowdown.com/sprites/ani/fomantis.gif)
 
@@ -353,7 +361,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Froakie
+## Grenousse 
 
 ![Froakie](https://play.pokemonshowdown.com/sprites/ani/froakie.gif)
 
@@ -366,7 +374,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Gimmighoul
+## Mordudor 
 
 ![Gimmighoul](https://play.pokemonshowdown.com/sprites/ani/gimmighoul.gif)
 
@@ -379,7 +387,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Glimmet
+## Germéclat 
 
 ![Glimmet](https://play.pokemonshowdown.com/sprites/ani/glimmet.gif)
 
@@ -391,7 +399,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Igglybuff
+## Toudoudou 
 
 ![Igglybuff](https://play.pokemonshowdown.com/sprites/ani/igglybuff.gif)
 
@@ -403,7 +411,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Joltik
+## Statitik 
 
 ![Joltik](https://play.pokemonshowdown.com/sprites/ani/joltik.gif)
 
@@ -416,7 +424,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Kricketot
+## Crikzik 
 
 ![Kricketot](https://play.pokemonshowdown.com/sprites/ani/kricketot.gif)
 
@@ -428,7 +436,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Larvitar
+## Embrylex 
 
 ![Larvitar](https://play.pokemonshowdown.com/sprites/ani/larvitar.gif)
 
@@ -441,7 +449,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Litten
+## Flamiaou 
 
 ![Litten](https://play.pokemonshowdown.com/sprites/ani/litten.gif)
 
@@ -454,7 +462,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Litwick
+## Funécire 
 
 ![Litwick](https://play.pokemonshowdown.com/sprites/ani/litwick.gif)
 
@@ -501,7 +509,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Meowth
+## Miaouss
 
 ![Meowth](https://play.pokemonshowdown.com/sprites/ani/meowth.gif)
 
@@ -528,7 +536,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Milcery
+## Crèmy 
 
 ![Milcery](https://play.pokemonshowdown.com/sprites/ani/milcery.gif)
 
@@ -540,7 +548,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Mimikyu
+## Mimiqui 
 
 ![Mimikyu](https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif)
 
@@ -555,7 +563,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Minun
+## Négapi 
 
 ![Minun](https://play.pokemonshowdown.com/sprites/ani/minun.gif)
 
@@ -567,7 +575,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Morelull
+## Spododo 
 
 ![Morelull](https://play.pokemonshowdown.com/sprites/ani/morelull.gif)
 
@@ -580,7 +588,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Mudkip
+## Gobou 
 
 ![Mudkip](https://play.pokemonshowdown.com/sprites/ani/mudkip.gif)
 
@@ -593,7 +601,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Murkrow
+## Cornèbre 
 
 ![Murkrow](https://play.pokemonshowdown.com/sprites/ani/murkrow.gif)
 
@@ -605,7 +613,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Oshawott
+## Moustillon 
 
 ![Oshawott](https://play.pokemonshowdown.com/sprites/ani/oshawott.gif)
 
@@ -630,7 +638,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Petilil
+## Chlorobule 
 
 ![Petilil](https://play.pokemonshowdown.com/sprites/ani/petilil.gif)
 
@@ -654,7 +662,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Pidgey
+## Roucool 
 
 ![Pidgey](https://play.pokemonshowdown.com/sprites/ani/pidgey.gif)
 
@@ -666,7 +674,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Pidove
+## Poichigeon
 
 ![Pidove](https://play.pokemonshowdown.com/sprites/ani/pidove.gif)
 
@@ -691,7 +699,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Piplup
+## Tiplouf
 
 ![Piplup](https://play.pokemonshowdown.com/sprites/ani/piplup.gif)
 
@@ -704,7 +712,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Plusle
+## Posipi
 
 ![Plusle](https://play.pokemonshowdown.com/sprites/ani/plusle.gif)
 
@@ -716,7 +724,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Popplio
+## Otaquin 
 
 ![Popplio](https://play.pokemonshowdown.com/sprites/ani/popplio.gif)
 
@@ -729,7 +737,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Ralts
+## Tarsal
 
 ![Ralts](https://play.pokemonshowdown.com/sprites/ani/ralts.gif)
 
@@ -756,7 +764,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Roggenrola
+## Nodulithe
 
 ![Roggenrola](https://play.pokemonshowdown.com/sprites/ani/roggenrola.gif)
 
@@ -769,7 +777,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Rookidee
+## Minisange 
 
 ![Rookidee](https://play.pokemonshowdown.com/sprites/ani/rookidee.gif)
 
@@ -781,7 +789,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Rowlet
+## Brindibou 
 
 ![Rowlet](https://play.pokemonshowdown.com/sprites/ani/rowlet.gif)
 
@@ -794,7 +802,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Sableye
+## Ténéfix
 
 ![Sableye](https://play.pokemonshowdown.com/sprites/ani/sableye.gif)
 
@@ -806,7 +814,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Scatterbug
+## Lépidonille
 
 ![Scatterbug](https://play.pokemonshowdown.com/sprites/ani/scatterbug.gif)
 
@@ -818,7 +826,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Shinx
+## Lixy
 
 ![Shinx](https://play.pokemonshowdown.com/sprites/ani/shinx.gif)
 
@@ -830,7 +838,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Shroodle
+## Gribouraigne 
 
 ![Shroodle](https://play.pokemonshowdown.com/sprites/ani/shroodle.gif)
 
@@ -842,7 +850,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Sizzlipede
+## Grillepattes 
 
 ![Sizzlipede](https://play.pokemonshowdown.com/sprites/ani/sizzlipede.gif)
 
@@ -854,7 +862,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Skrelp
+## Venalgue 
 
 ![Skrelp](https://play.pokemonshowdown.com/sprites/ani/skrelp.gif)
 
@@ -866,7 +874,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Smoochum
+## Lippouti 
 
 ![Smoochum](https://play.pokemonshowdown.com/sprites/ani/smoochum.gif)
 
@@ -878,7 +886,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Snivy
+## Vipélierre 
 
 ![Snivy](https://play.pokemonshowdown.com/sprites/ani/snivy.gif)
 
@@ -891,7 +899,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Spearow
+## Piafabec
 
 ![Spearow](https://play.pokemonshowdown.com/sprites/ani/spearow.gif)
 
@@ -903,7 +911,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Sprigatito
+## Poussacha
 
 ![Sprigatito](https://play.pokemonshowdown.com/sprites/ani/sprigatito.gif)
 
@@ -916,7 +924,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Squawkabilly
+## Tapatoès 
 
 ![Squawkabilly](https://play.pokemonshowdown.com/sprites/ani/squawkabilly.gif)
 
@@ -928,7 +936,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Squirtle
+## Carapuce
 
 ![Squirtle](https://play.pokemonshowdown.com/sprites/ani/squirtle.gif)
 
@@ -941,7 +949,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Starly
+## Étourmi
 
 ![Starly](https://play.pokemonshowdown.com/sprites/ani/starly.gif)
 
@@ -953,7 +961,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Taillow
+## Nirondelle
 
 ![Taillow](https://play.pokemonshowdown.com/sprites/ani/taillow.gif)
 
@@ -965,7 +973,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Tatsugiri
+## Nigirigon 
 
 ![Tatsugiri](https://play.pokemonshowdown.com/sprites/ani/tatsugiri.gif)
 
@@ -978,7 +986,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Tepig
+## Gruikui 
 
 ![Tepig](https://play.pokemonshowdown.com/sprites/ani/tepig.gif)
 
@@ -992,7 +1000,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Torchic
+## Poussifeu
 
 ![Torchic](https://play.pokemonshowdown.com/sprites/ani/torchic.gif)
 
@@ -1005,7 +1013,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Totodile
+## Kaiminus
 
 ![Totodile](https://play.pokemonshowdown.com/sprites/ani/totodile.gif)
 
@@ -1018,7 +1026,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Treecko
+## Arcko
 
 ![Treecko](https://play.pokemonshowdown.com/sprites/ani/treecko.gif)
 
@@ -1031,7 +1039,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Turtwig
+## Tortipouss
 
 ![Turtwig](https://play.pokemonshowdown.com/sprites/ani/turtwig.gif)
 
@@ -1044,7 +1052,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Tyrogue
+## Débugant
 
 ![Tyrogue](https://play.pokemonshowdown.com/sprites/ani/tyrogue.gif)
 
@@ -1057,7 +1065,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Weedle
+## Aspicot
 
 ![Weedle](https://play.pokemonshowdown.com/sprites/ani/weedle.gif)
 
@@ -1069,7 +1077,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Wooper
+## Axoloto 
 
 ![Wooper](https://play.pokemonshowdown.com/sprites/ani/wooper.gif)
 
@@ -1081,7 +1089,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Zigzagoon
+## Zigzaton 
 
 ![Zigzagoon](https://play.pokemonshowdown.com/sprites/ani/zigzagoon.gif)
 
@@ -1106,7 +1114,7 @@ Ci dessous se trouve une **liste complète des Pokémon**, triés par ordre alph
 
 ---
 
-## Zubat
+## Nosferapti 
 
 ![Zubat](https://play.pokemonshowdown.com/sprites/ani/zubat.gif)
 
