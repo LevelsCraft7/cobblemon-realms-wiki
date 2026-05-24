@@ -1,25 +1,73 @@
 # Bien démarrer
 
-[🌍 Retour à la sélection de la langue](https://app.gitbook.com/o/OxqthcidTBoux86jZcUE/s/MoNV72ip5YoBD0RvKQwp/)
+[🌍 Retour vers le sélecteur de langue](https://app.gitbook.com/o/OxqthcidTBoux86jZcUE/s/MoNV72ip5YoBD0RvKQwp/)
 
-Bienvenue sur Cobblemon Realms ! Voici ce qu'il faut faire lors de votre première connexion au modpack :
+Voici les premières étapes recommandées pour bien commencer votre aventure.
+
+---
 
 ## 1. Choisissez votre Pokémon de départ
 
-Vous serez invité à choisir un starter — choisissez-le avec soin !
+Lors de votre première connexion, vous devrez sélectionner un starter.
+
+Prenez le temps de choisir un Pokémon qui correspond à votre façon de jouer :
+- exploration
+- combat
+- progression rapide
+- collection
+
+💡 Votre choix n’est pas définitif : vous pourrez capturer de nombreux autres Pokémon par la suite.
+
+---
 
 ## 2. Explorez le monde
 
-Regardez autour de vous, découvrez les biomes, et commencez à construire votre base.
+Le monde de Cobblemon Realms contient différents biomes, structures et zones d’apparition.
 
-## 3. Entraînez et capturez des Pokémon
+Commencez par :
+- repérer un endroit sûr
+- récupérer des ressources
+- fabriquer vos premiers outils
+- préparer une petite base
 
-Utilisez des Poké Balls, explorez différentes zones d’apparition et formez votre équipe.
+🧭 Explorer est essentiel pour découvrir de nouveaux Pokémon et progresser efficacement.
+
+---
+
+## 3. Capturez et entraînez vos Pokémon
+
+Utilisez des Poké Balls pour agrandir votre équipe et affronter des Pokémon plus puissants.
+
+Certaines espèces apparaissent uniquement :
+- dans des biomes spécifiques
+- à certaines heures
+- sous certaines conditions météo
+
+📘 Consultez la page [`Pokémon et apparitions`](pokemon-and-spawns.md) pour en savoir plus.
+
+---
 
 ## 4. Suivez les quêtes et objectifs
 
-Nous avons ajouté des lignes de quêtes uniques pour vous aider à progresser naturellement dans le modpack.
+Le modpack propose plusieurs quêtes et systèmes de progression pour vous guider naturellement.
 
-***
+Les quêtes permettent notamment de :
+- découvrir les mécaniques importantes
+- obtenir des récompenses
+- débloquer certains contenus
+- comprendre les systèmes exclusifs du modpack
 
-🧠 Astuce : Si vous êtes perdu, les pages [`FAQ`](faq.md) et [`Quêtes`](quests.md) sont là pour vous aider.
+✨ Il est **fortement** recommandé de suivre les quêtes au début de votre aventure.
+
+---
+
+## 📚 Liens utiles
+
+- [`FAQ`](faq.md)
+- [`Quêtes`](quests.md)
+- [`Cap de niveau et dresseurs`](pokemons-guides/levelcap-and-trainers.md)
+- [`Pokémon et apparitions`](pokemon-and-spawns.md)
+
+---
+
+🧠 **Astuce :** prenez votre temps. Cobblemon Realms est pensé pour une progression sur le long terme, avec beaucoup d’exploration et de découverte.
