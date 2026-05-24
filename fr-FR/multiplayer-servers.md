@@ -1,6 +1,6 @@
 # Serveurs Multijoueur
 
-Envie de jouer à Cobblemon Realms avec des amis ou une communauté ? Voici comment commencer !
+Envie de jouer à Cobblemon Realms avec des amis ou une communauté ? Voici comment commencer.
 
 ---
 
