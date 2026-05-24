@@ -1,6 +1,6 @@
 # Serveurs Multijoueur
 
-Envie de jouer à Cobblemon Realms avec des amis ou une communauté ? Here's how to get started!
+Envie de jouer à Cobblemon Realms avec des amis ou une communauté ? Voici comment commencer !
 
 ---
 
@@ -12,41 +12,40 @@ Vous pouvez trouver des serveurs mis en avant ou partenaires directement depuis 
 
 ## 🌐 Héberger votre propre serveur
 
-Want full control? Hosting your own server is a great option for small groups or large communities.
+Vous voulez un contrôle total ? Héberger votre propre serveur est une excellente option pour les petits groupes ou les grandes communautés.
 
-👉 Follow the [Installation Guide](installation.md) for complete instructions.
-
-### ✅ Key Setup Requirements
-
-- Use **Java 21**
-- Allocate **at least 8 GB of RAM**
-- Make sure to **open/forward port 25565** if you're hosting over the internet
-- Adjust your `server.properties` for game settings and world generation options
+👉 Suivez le [Guide d’installation](installation.md) pour des instructions complètes.
 
 ---
 
-## 🚀 Quick Hosting with BisectHosting
+## ✅ Configuration requise
 
-No setup headaches — just play!  
-No setup headaches — just play!\
-**[BisectHosting](https://bisecthosting.com/CobblemonRealms)** is our official partner.
+- Utilisez **Java 21**
+- Allouez **au moins 8 Go de RAM**
+- Assurez-vous d’**ouvrir / rediriger le port 25565** si vous hébergez sur Internet
+- Ajustez votre `server.properties` pour les paramètres de jeu et les options de génération du monde
 
-- One-click Cobblemon Realms setup
-- Global low-latency servers
-- Built-in support and modpack updates
-- Promo code: `OURSTORY` for **25% OFF** your first month
+---
+
+## 🚀 Hébergement rapide avec BisectHosting
+
+Pas de prise de tête avec la configuration ; jouez directement !  
+**[BisectHosting](https://bisecthosting.com/CobblemonRealms)** est notre partenaire officiel.
+
+- Installation Cobblemon Realms en un clic
+- Serveurs mondiaux à faible latence
+- Support intégré et mises à jour du modpack
+- Code promo : `OURSTORY` pour **25 % de réduction** sur votre premier mois
 
 ---
 
 ## 🔐 Conseils
 
-- Utilisez une whitelist pour contrôler les accès
-- 🧱 **Pre-generate** your world using tools like [Chunky](mods-guides/chunky.md) for smoother gameplay
-- 🕓 Schedule **automatic backups** to prevent data loss
-- 🛑 Don’t forget to **disable mob griefing** or adjust spawn rules if needed
+- Utilisez une liste blanche (whitelist) pour contrôler les accès
+- 🧱 **Pré-générez** votre monde avec des outils comme [Chunky](mods-guides/chunky.md) pour un gameplay plus fluide
+- 🕓 Planifiez des **sauvegardes automatiques** pour éviter toute perte de données
+- 🛑 N’oubliez pas de **désactiver le grief des mobs** ou d’ajuster les règles d’apparition si nécessaire
 
 ---
 
-Enjoy building your world together with friends or hosting epic adventures in **Cobblemon Realms**!
-
-****
+Profitez de la construction de votre monde entre amis ou d’aventures épiques dans **Cobblemon Realms** !
