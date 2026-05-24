@@ -6,7 +6,7 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 
 ## 📖 Table of Contents
 
-- ❄️ [Snow & Ice](#snow-&-ice)
+- ❄️ [Neige & Glace](#snow-et-ice)
 - ⛰️ [Mountains & Highlands](#mountains-&-highlands)
 - ⛏️ [Caves & Underground](#caves-&-underground)
 - 🌊 [Oceans, Rivers & Coasts](#oceans,-rivers-&-coasts)
@@ -20,7 +20,7 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 
 ---
 
-## ❄️ Snow & Ice
+## ❄️ Neige et Glace
 
 ### `is_freezing`
 
