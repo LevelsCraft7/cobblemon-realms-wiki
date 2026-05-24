@@ -43,13 +43,14 @@ Si vous utilisez un autre launcher :
 
 1. Dans CurseForge, cliquez sur les `...` à côté du modpack → **Exporter le profil**.
 2. Importez le fichier `.zip` exporté dans le launcher de votre choix.
-3. Certains launchers peuvent ne pas appliquer correctement toutes les configurations — **CurseForge reste toujours recommandé** pour obtenir les meilleurs résultats.
+3. Certains launchers peuvent ne pas appliquer correctement toutes les configurations ; **CurseForge reste toujours recommandé** pour obtenir les meilleurs résultats.
 
 ---
 
 ## 🎮 Héberger un serveur multijoueur
 
-Vous voulez jouer avec des amis ou héberger un serveur communautaire ? Voici comment procéder manuellement.
+Vous voulez jouer avec des amis ou héberger un serveur communautaire ? 
+Voici comment procéder manuellement.
 
 ### ⚙️ Configuration minimale requise
 
@@ -88,7 +89,7 @@ Vous voulez jouer avec des amis ou héberger un serveur communautaire ? Voici co
 
 Dans le cadre de notre partenariat, vous pouvez utiliser le code [**OurStory**](https://www.bisecthosting.com/OurStory) lors du paiement pour obtenir **25 % DE RÉDUCTION**.
 
-Profitez d’un hébergement fluide afin de vous concentrer sur **l’exploration, la capture et l’aventure** — et non sur la maintenance du serveur !
+Profitez d’un hébergement fluide afin de vous concentrer sur **l’exploration, la capture et l’aventure** et non sur la maintenance du serveur !
 
 ---
 
