@@ -2,8 +2,7 @@
 
 Cette page recense **l’ensemble des Pokémon capables d’appliquer des effets lorsqu’ils sont placés sur votre épaule** dans le modpack Cobblemon Realms.
 
-Lorsqu’un Pokémon est positionné sur votre épaule, il peut appliquer des **effets de potion continus** à votre personnage.  
-Ces effets sont définis via les fichiers JSON du datapack situés dans le dossier `shoulder_mount_Effects`.
+Lorsqu’un Pokémon est positionné sur votre épaule, il peut appliquer des **effets de potion continus** à votre personnage. Ces effets sont définis via les fichiers JSON du datapack situés dans le dossier `shoulder_mount_Effects`.
 
 ---
 
