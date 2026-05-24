@@ -4,7 +4,7 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 
 ---
 
-## 📖 Table of Contents
+## 📖 Table des matières
 
 - ❄️ [Neige & Glace](#neige-et-glace)
 - ⛰️ [Montagnes & Hautes Terres](#montagnes-et-hautes-terres)
