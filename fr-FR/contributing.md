@@ -1,21 +1,32 @@
 # Contribuer au Wiki
 
-Nous accueillons avec plaisir les contributions de la communaute.
+Nous accueillons avec plaisir les contributions de la communauté.
 
-## Comment contribuer
+---
 
-- Corriger des fautes ou ajouter des explications
-- Creer des guides pour des mods specifiques
+## 🧭 Comment contribuer
+
+- Corriger des fautes et/ou ajouter des explications
+- Créer des guides pour des mods spécifiques
 - Traduire des pages dans d'autres langues
 
-## Traductions
+---
 
-Les traductions sont maintenant gerees directement via GitHub et GitBook.
+## 🌍 Traductions
 
-Vous pouvez aider en corrigeant des textes, en proposant des traductions ou en ouvrant une pull request sur GitHub.
+Les traductions sont maintenant gérées directement via GitHub et GitBook.
 
-## Developpeurs et redacteurs
+Vous pouvez aider en :
+- corrigeant des textes existants
+- proposant des traductions
+- ouvrant une pull request sur GitHub
+
+---
+
+## 👨‍💻 Développeurs et rédacteurs
 
 Le flux de documentation repose maintenant uniquement sur GitBook et GitHub.
 
-> Merci de contribuer a l'amelioration de Cobblemon Realms !
+---
+
+> 🙏 Merci de contribuer à l'amélioration de Cobblemon Realms !
