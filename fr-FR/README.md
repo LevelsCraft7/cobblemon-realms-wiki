@@ -1,34 +1,34 @@
 # Bienvenue
 
-[Retour a la selection de la langue](https://app.gitbook.com/s/MoNV72ip5YoBD0RvKQwp/)
+[Retour vers le sélecteur de langue](https://app.gitbook.com/s/MoNV72ip5YoBD0RvKQwp/)
 
-**Cobblemon Realms** est un modpack axe sur la progression, l'exploration, la collection de Pokemon, les systemes personnalises et l'aventure sur le long terme.
+**Cobblemon Realms** est un modpack axé sur la progression, l'exploration, la collection de Pokémon, les systèmes personnalisés et l'aventure sur le long terme.
 
-Ce wiki est la pour vous aider a demarrer rapidement, comprendre les mecanismes principaux du modpack et trouver facilement le bon guide selon vos besoins.
-
----
-
-## Ce Que Vous Trouverez Ici
-
-- de l'aide pour l'installation et les mises a jour
-- un parcours de demarrage pour les nouveaux joueurs
-- des explications sur les spawns, la progression et les dresseurs
-- des informations sur le multijoueur, les quetes et les contenus exclusifs
-- des guides pour certains mods, reglages et mecaniques importantes
+Ce wiki est là pour vous aider à démarrer rapidement, comprendre les mécanismes principaux du modpack et trouver facilement le bon guide selon vos besoins.
 
 ---
 
-## Parcours Recommande
+## Ce que vous découvrirez ici
 
-Si vous decouvrez le modpack, commencez par ces pages :
+- de l'aide pour l'installation et les mises à jour
+- un parcours de démarrage pour les nouveaux joueurs
+- des explications sur les apparitions, la progression et les dresseurs
+- des informations sur le multijoueur, les quêtes et les contenus exclusifs
+- des guides pour certains mods, réglages et mécaniques importantes
+
+---
+
+## Par où commencer
+
+Si vous découvrez le modpack, commencez par ces pages :
 
 1. [Guide d'installation](installation.md)
 2. [Premiers pas](getting-started.md)
 3. [Foire aux questions](faq.md)
-4. [Pokemon et apparitions](pokemon-and-spawns.md)
+4. [Pokémon et apparitions](pokemon-and-spawns.md)
 5. [Cap de niveau et dresseurs](pokemons-guides/levelcap-and-trainers.md)
 
-Ce parcours donne une vue d'ensemble rapide de la facon dont Cobblemon Realms est pense.
+Ce parcours donne une vue d'ensemble rapide de la façon dont Cobblemon Realms est pensé.
 
 ---
 
@@ -41,14 +41,14 @@ Ce parcours donne une vue d'ensemble rapide de la facon dont Cobblemon Realms es
 
 ---
 
-## Communaute et Contributions
+## Communauté et Contributions
 
-Cette documentation est collaborative et continuera de s'ameliorer avec le temps.
+Cette documentation est collaborative et continuera de s'améliorer avec le temps.
 
-Vous pouvez aider en :
+Vous pouvez nous aider en :
 
 - corrigeant des formulations
-- ameliorant les guides existants
+- améliorant les guides existants
 - ajoutant des informations manquantes
 - proposant des corrections et des traductions
 
@@ -56,4 +56,4 @@ Commencez ici : [Contribuer](contributing.md)
 
 ---
 
-Que vous soyez debutant ou dresseur confirme, ce wiki doit vous donner une base claire pour profiter de Cobblemon Realms.
+Que vous soyez débutant(e) ou dresseur/dresseuse confirmé(e), ce wiki vous donnera une base claire pour profiter de Cobblemon Realms.
