@@ -1,6 +1,6 @@
 # Guide d’installation
 
-Bienvenue sur **Cobblemon Realms** ! Ce guide vous aidera à configurer votre jeu de la meilleure façon possible, que vous jouiez en solo ou avec des amis.
+Ce guide vous aidera à configurer votre jeu de la meilleure façon possible, que vous jouiez en solo ou avec des amis.
 
 ---
 
