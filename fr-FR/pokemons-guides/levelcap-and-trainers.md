@@ -1,6 +1,7 @@
 # 🧗 Aperçu de la progression des dresseurs
 
 Dans **Cobblemon Realms**, les combats contre des dresseurs ne sont pas de simples rencontres aléatoires ; ils font partie d’un **système de progression structuré** basé sur les **Cartes de Dresseur**, les **Dresseurs Clés** et les **Séries de Dresseurs**.  
+
 Ce système encourage **l’exploration**, la **planification tactique** et une progression régulière vers des défis de plus en plus difficiles.
 
 ---
@@ -35,6 +36,7 @@ Les Dresseurs Clés sont les points de progression principaux. Les vaincre augme
   → Cette flèche **pointe toujours vers le PNJ de l’Association des Dresseurs** pour vous permettre de commencer votre première série.
   
 - Après avoir choisi une série, **la flèche disparaît** ; il **n’y a pas de flèche vers les Dresseurs Clés** eux-mêmes.
+
 - À partir de là, vous devez **utiliser les informations de votre Carte de Dresseur** pour localiser les Dresseurs Clés :
   - **Noms des biomes**
   - **Conditions spéciales**
@@ -46,6 +48,7 @@ Dans **Cobblemon Realms**, des outils supplémentaires sont disponibles via le s
 
 - Chaque catégorie de quêtes répertorie **tous les dresseurs d’une série**.
 - Vous pouvez **échanger des Realms Coins** pour faire apparaître instantanément le dresseur que vous devez affronter.
+
   - Les dresseurs peuvent être générés à l’infini de cette manière.
   - **Temps de recharge :** une fois vaincu, un dresseur ne peut pas être réaffronté avant **un jour Minecraft** (≈ 20 minutes IRL).
   
@@ -57,7 +60,7 @@ Dans **Cobblemon Realms**, des outils supplémentaires sont disponibles via le s
 
 ---
 
-## 🏆 Débloquer les Champions d’Arène & Dresseurs Majeurs
+## 🏆 Accès aux Champions d’Arène & Dresseurs Majeurs
 
 La progression ne se limite pas à l’augmentation du level cap. Elle ouvre aussi l’accès aux **Champions d’Arène, Rivaux, Conseil 4, équipes de vilains**, et autres défis majeurs.
 
