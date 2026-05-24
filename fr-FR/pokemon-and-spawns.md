@@ -53,7 +53,7 @@ Notre serveur Discord propose une intégration puissante via le bot **@Our Story
   `/tesou <pokemon_name>`
 * 🇩🇪 Allemand :
   `/wobistdu <pokemon_name>`
-* 🇯🇵 Japonais (romaji) :
+* 🇯🇵 Japonais (Rōmaji) :
   `/doko <pokemon_name>`
 
 Vous recevrez un résultat détaillé avec tous les biomes connus pour cette espèce.
