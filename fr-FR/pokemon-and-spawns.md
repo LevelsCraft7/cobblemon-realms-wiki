@@ -1,31 +1,31 @@
 # Apparitions et Pokémon
 
-Cobblemon Realms features a **customized spawn system**, carefully tuned to provide immersive and biome-sensitive encounters. Whether you're searching for rare species or trying to build your dream team, understanding how spawns work will help you tremendously.
+Cobblemon Realms propose un **système d’apparition personnalisé**, soigneusement ajusté pour offrir des rencontres immersives et adaptées aux biomes. Que vous cherchiez des espèces rares ou que vous souhaitiez construire votre équipe idéale, comprendre le fonctionnement des apparitions vous aidera énormément.
 
 ---
 
 ## 📍 Apparitions basées sur le biome
 
-Différents Pokémon apparaissent en fonction du biome et de l'heure de la journée :
+Différents Pokémon apparaissent en fonction du biome et de l’heure de la journée :
 
-- Forêt → Pokémon de type herbe
-- Océans → Types d'eau
-- Déserts → Types de feu
-- ⛰️ Mountains & Caves → Rock-types, Steel-types, Dragon-types
-- 🕓 Intervalles d'apparition
-- 🌌 End & Nether zones → Ultra-rare and special forms
+- 🌲 Forêt → Pokémon de type plante
+- 🌊 Océans → Types eau
+- 🏜️ Déserts → Types feu
+- ⛰️ Montagnes & grottes → Types roche, acier, dragon
+- 🕓 Intervalles d’apparition
+- 🌌 Zones End & Nether → formes ultra-rares et spéciales
 
 Certains Pokémon rares ne peuvent apparaître que pendant des périodes ou des conditions spécifiques.
 
 ---
 
-## 🕓 Spawn Timing and Behavior
+## 🕓 Timing et comportement des apparitions
 
-Les spawn sont configurés pour être dynamiques et se sentent naturels.
+Les apparitions sont configurées pour être dynamiques et naturelles.
 
-- Some Pokémon only spawn **at night**, **during specific moon phases**, or under **certain weather**.
-- Legendary and Mythical Pokémon may require **special triggers** or **items** to appear.
-- Underground spawns (e.g., cave-exclusive Pokémon) are handled via custom logic.
+- Certains Pokémon apparaissent uniquement **la nuit**, **selon des phases de lune spécifiques**, ou sous **certaines conditions météo**.
+- Les Pokémon légendaires et mythiques peuvent nécessiter des **déclencheurs spéciaux** ou des **objets** pour apparaître.
+- Les apparitions souterraines (ex : Pokémon exclusifs aux grottes) sont gérées via une logique personnalisée.
 
 ---
 
@@ -34,46 +34,45 @@ Les spawn sont configurés pour être dynamiques et se sentent naturels.
 Cette commande vous permet de voir quel Pokémon peut apparaître dans votre biome actuel.
 
 ```bash
-Cobblemon Realms utilisent des configurations et des logiques de spawn personnalisées.
-```
+Cobblemon Realms utilise des configurations et des logiques d’apparition personnalisées.
+````
 
-This is ideal for understanding your surroundings and tracking rare spawns on the go.
+C’est idéal pour comprendre votre environnement et suivre les apparitions rares en déplacement.
 
 ---
 
-## 🤖 Discord Bot Integration – Check Spawns Remotely!
+## 🤖 Intégration Discord – Vérifier les apparitions à distance !
 
-Our Discord server offers a powerful integration via the **@Our Story** bot. You can use it to check where a specific Pokémon spawns — across all dimensions and biomes — without needing to be in-game!
+Notre serveur Discord propose une intégration puissante via le bot **@Our Story**. Vous pouvez l’utiliser pour vérifier où un Pokémon spécifique apparaît dans toutes les dimensions et biomes sans être en jeu !
 
-### 📋 Available Commands:
+### 📋 Commandes disponibles :
 
-- 🇬🇧 English:
+* 🇬🇧 Anglais :
   `/where <pokemon_name>`
-- 🇫🇷 Français :
+* 🇫🇷 Français :
   `/tesou <pokemon_name>`
-- 🇩🇪 Deutsch:
+* 🇩🇪 Allemand :
   `/wobistdu <pokemon_name>`
-- 🇯🇵 Japanese (Romaji):
+* 🇯🇵 Japonais (romaji) :
   `/doko <pokemon_name>`
 
-You’ll receive a detailed result with all known spawn biomes for that species.
-Some commun Pokémon may return a list of **100+ possible biomes**.
+Vous recevrez un résultat détaillé avec tous les biomes connus pour cette espèce.
+Certains Pokémon communs peuvent retourner une liste de **100+ biomes possibles**.
 
-> 💡 Use this feature to **plan your adventure** or optimize shiny/rare hunts.
-
----
-
-## 🧠 More Tips
-
-- Use the command `/checkspawns` while exploring to find location-based Pokémon.
-- Rely on the bot if you want to **track specific Pokémon** across the world.
-- Don't forget that **Cobblemon Realms** includes **custom evolutions**, **forms**, and **spawn behaviors** — check the [Exclusive Forms section](../pokemons-exclusives/mewtwo-exclusive-forms.md) to learn more!
+> 💡 Utilisez cette fonctionnalité pour **planifier votre aventure** ou optimiser vos chasses aux shiny/rares.
 
 ---
 
-Need help or want to report a spawn issue? Join us on Discord:
-👉 [https://discord.gg/kb8NSTF45n](https://discord.gg/kb8NSTF45n)
+## 🧠 Conseils supplémentaires
+
+* Utilisez la commande `/checkspawns` en explorant pour trouver des Pokémon liés à votre zone.
+* Utilisez le bot si vous voulez **suivre des Pokémon spécifiques** dans le monde.
+* N’oubliez pas que **Cobblemon Realms** inclut des **évolutions personnalisées**, des **formes exclusives** et des **mécaniques de spawn uniques** — consultez la section [Formes exclusives](../pokemons-exclusives/mewtwo-exclusive-forms.md) pour en savoir plus !
+
+---
+
+Besoin d’aide ou envie de signaler un problème de spawn ? Rejoignez-nous sur Discord :
+👉 [Notre Discord](https://discord.gg/kb8NSTF45n)
 
 ```
-
 ```
