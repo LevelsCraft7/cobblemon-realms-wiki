@@ -21,7 +21,7 @@
 - [📘 Guide des Pokémon Workers](pokemons-guides/cobbleworkers-guide.md)
 - [🐎 Système de montures](pokemons-guides/riding-system.md)
 - [🦜 Pokémon sur l'épaule](pokemons-guides/shoulder_mount_effects.md)
-- [🦴 Fossiles](pokemons-guides/fossils.md)
+- [🦴 Les fossiles](pokemons-guides/fossils.md)
 - [🗺️ Référence des tags de biome](pokemons-guides/biome-tags-reference.md)
 
 ## Mythes et Legendes
