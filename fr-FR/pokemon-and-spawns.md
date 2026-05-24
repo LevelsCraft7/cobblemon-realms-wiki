@@ -69,7 +69,7 @@ Certains Pokémon communs peuvent retourner une liste de **100+ biomes possibles
 * Utilisez le bot si vous voulez **suivre des Pokémon spécifiques** dans le monde.
 * N’oubliez pas que **Cobblemon Realms** inclut des **évolutions personnalisées**, des **formes exclusives** et des **mécaniques de spawn uniques** 
 
-⮕ Sonsultez la section [Formes exclusives](../pokemons-exclusives/mewtwo-exclusive-forms.md) pour en savoir plus !
+⮕ Consultez la section [Formes exclusives](../pokemons-exclusives/mewtwo-exclusive-forms.md) pour en savoir plus !
 
 ---
 
