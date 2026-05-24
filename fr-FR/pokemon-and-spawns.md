@@ -33,9 +33,7 @@ Les apparitions sont configurées pour être dynamiques et naturelles.
 
 Cette commande vous permet de voir quel Pokémon peut apparaître dans votre biome actuel.
 
-```bash
-Cobblemon Realms utilise des configurations et des logiques d’apparition personnalisées.
-````
+`Cobblemon Realms utilise des configurations et des logiques d’apparition personnalisées.`
 
 C’est idéal pour comprendre votre environnement et suivre les apparitions rares en déplacement.
 
