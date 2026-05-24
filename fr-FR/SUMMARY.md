@@ -1,4 +1,4 @@
-# Table des matieres
+# Table des matières
 
 ## Bienvenue
 
