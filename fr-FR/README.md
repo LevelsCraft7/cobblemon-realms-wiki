@@ -32,7 +32,7 @@ Ce parcours donne une vue d'ensemble rapide de la façon dont Cobblemon Realms e
 
 ---
 
-## Sections Utiles
+## Sections utiles
 
 - Pour comprendre la progression : [Cap de niveau et dresseurs](pokemons-guides/levelcap-and-trainers.md)
 - Pour les legendaires et contenus exclusifs : [Mythes et Legendes](pokemons-guides/myths-and-legends-legendaries.md) et [Formes exclusives](pokemons-exclusives/mewtwo-exclusive-forms.md)
