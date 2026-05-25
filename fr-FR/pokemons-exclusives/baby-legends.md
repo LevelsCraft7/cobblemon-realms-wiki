@@ -24,7 +24,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
 💡 Xerfawn évolue dans les **bosquets de cerisiers** avec une **haute amitié**
 
-![Xerfawn](https://github.com/user-attachments/assets/5fe0378f-fa5b-4dc4-b618-a10b0407d726)
+![Xerfawn](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Xerfawn.png) ![Xerfawn Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Xerfawn_shiny.png) 
 
 ---
 
