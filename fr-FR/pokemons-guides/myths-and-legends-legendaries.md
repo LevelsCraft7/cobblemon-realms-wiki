@@ -356,273 +356,126 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 
 [↑ Retour en haut](#top)
 
-### Mesprit
+---
 
-![Mesprit](https://play.pokemonshowdown.com/sprites/ani/mesprit.gif)
+## ✨ Mesprit
 
-Objet : Mesprit Plume
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Mangrove Swamp [minecraft:mangrove_swamp]
-- Swamp [minecraft:swamp]
-- Ice Marsh [terralith:ice_marsh]
-- Orchid Swamp [terralith:orchid_swamp]
-- Billabong [wythers:billabong]
-- Lantern River [wythers:lantern_river]
-- Tropical Forest River [wythers:tropical_forest_river]
-- Is River [#minecraft:is_river]
-- Is Freshwater [#cobblemon:is_freshwater]
-- Is River [#cobblemon:is_river]
-- Is Swamp [#byg:is_swamp]
-- Swamp [#c:swamp]
-- Is Swamp [#forge:is_swamp]
-- Is Swamp [#wythers:is_swamp]
+| Champ | Détails |
+|------|--------|
+| ![Mesprit](https://play.pokemonshowdown.com/sprites/ani/mesprit.gif) |  |
+| **Objet requis** | Mesprit Plume |
+| **Conditions** | Aucune |
+| **Biomes / Tags** | Mangrove Swamp, Swamp, Ice Marsh, Orchid Swamp, Billabong, Lantern River, Tropical Forest River, `#minecraft:is_river`, `#cobblemon:is_freshwater`, `#cobblemon:is_river`, `#byg:is_swamp`, `#c:swamp`, `#forge:is_swamp`, `#wythers:is_swamp` |
 
 ---
 
-### Azelf
+## 🔥 Azelf
 
-![Azelf](https://play.pokemonshowdown.com/sprites/ani/azelf.gif)
-
-Objet : Azelf Fang
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Mangrove Swamp [minecraft:mangrove_swamp]
-- Swamp [minecraft:swamp]
-- Ice Marsh [terralith:ice_marsh]
-- Orchid Swampc [terralith:orchid_swampc]
-- Billabong [wythers:billabong]
-- Lantern River [wythers:lantern_river]
-- Tropical Forest River [wythers:tropical_forest_river]
-- Is River [#minecraft:is_river]
-- Is Freshwater [#cobblemon:is_freshwater]
-- Is River [#cobblemon:is_river]
-- Is Swamp [#byg:is_swamp]
-- Swamp [#c:swamp]
-- Is Swamp [#forge:is_swamp]
-- Is Swamp [#wythers:is_swamp]
+| Champ | Détails |
+|------|--------|
+| ![Azelf](https://play.pokemonshowdown.com/sprites/ani/azelf.gif) |  |
+| **Objet requis** | Azelf Fang |
+| **Conditions** | Aucune |
+| **Biomes / Tags** | Mangrove Swamp, Swamp, Ice Marsh, Orchid Swamp, Billabong, Lantern River, Tropical Forest River, `#minecraft:is_river`, `#cobblemon:is_freshwater`, `#cobblemon:is_river`, `#byg:is_swamp`, `#c:swamp`, `#forge:is_swamp`, `#wythers:is_swamp` |
 
 ---
 
-### Dialga
+## ⏳ Dialga
 
-![Dialga](https://play.pokemonshowdown.com/sprites/ani/dialga.gif)
-
-Objet : Adamant Orb
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Mountain Edge [minecraft:mountain_edge]
-- Stony Peaks [minecraft:stony_peaks]
-- Is Highlands [#cobblemon:is_highlands]
-- Is Mountain [#cobblemon:is_mountain]
-- Is Peak [#cobblemon:is_peak]
+| Champ | Détails |
+|------|--------|
+| ![Dialga](https://play.pokemonshowdown.com/sprites/ani/dialga.gif) |  |
+| **Objet requis** | Adamant Orb |
+| **Conditions** | Aucune |
+| **Biomes / Tags** | Mountain Edge, Stony Peaks, `#cobblemon:is_highlands`, `#cobblemon:is_mountain`, `#cobblemon:is_peak` |
 
 ---
 
-### Palkia
+## 🌌 Palkia
 
-![Palkia](https://play.pokemonshowdown.com/sprites/ani/palkia.gif)
-
-Objet : Lustrous Orb
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- End Barrens [minecraft:end_barrens]
-- End Highlands [minecraft:end_highlands]
-- End Midlands [minecraft:end_midlands]
-- Small End Islands [minecraft:small_end_islands]
-- The End [minecraft:the_end]
-- Skylands Winter [terralith:skylands_winter]
-- Is End [#cobblemon:is_end]
+| Champ | Détails |
+|------|--------|
+| ![Palkia](https://play.pokemonshowdown.com/sprites/ani/palkia.gif) |  |
+| **Objet requis** | Lustrous Orb |
+| **Conditions** | Aucune |
+| **Biomes / Tags** | End Barrens, End Highlands, End Midlands, Small End Islands, The End, Skylands Winter, `#cobblemon:is_end` |
 
 ---
 
-### Heatran
+## 🌋 Heatran
 
-![Heatran](https://play.pokemonshowdown.com/sprites/ani/heatran.gif)
-
-Objet : Magma Stone
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Basalt Deltas [minecraft:basalt_deltas]
-- Crimson Forest [minecraft:crimson_forest]
-- Nether Wastes [minecraft:nether_wastes]
+| Champ | Détails |
+|------|--------|
+| ![Heatran](https://play.pokemonshowdown.com/sprites/ani/heatran.gif) |  |
+| **Objet requis** | Magma Stone |
+| **Conditions** | Aucune |
+| **Biomes / Tags** | Basalt Deltas, Crimson Forest, Nether Wastes |
 
 ---
 
-### Regigigas
+## 🗿 Regigigas
 
-![Regigigas](https://play.pokemonshowdown.com/sprites/ani/regigigas.gif)
-
-Objet : Ancient Tablet
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Savanna Plateau [minecraft:savanna_plateau]
-- Ashen Savanna [terralith:ashen_savanna]
-- Fractured Savanna [terralith:fractured_savanna]
-- Savanna Badlands [terralith:savanna_badlands]
-- Savanna Slopes [terralith:savanna_slopes]
-- Is Savanna [#minecraft:is_savanna]
-- Savanna Plateau [#minecraft:savanna_plateau]
-- Is Deep Dark [#cobblemon:is_deep_dark]
-- Is Savanna [#cobblemon:is_savanna]
-- Is Dark Forest [#wythers:is_dark_forest]
+| Champ | Détails |
+|------|--------|
+| ![Regigigas](https://play.pokemonshowdown.com/sprites/ani/regigigas.gif) |  |
+| **Objet requis** | Ancient Tablet |
+| **Conditions** | Aucune |
+| **Biomes / Tags** | Savanna Plateau, Ashen Savanna, Fractured Savanna, Savanna Badlands, Savanna Slopes, `#minecraft:is_savanna`, `#minecraft:savanna_plateau`, `#cobblemon:is_deep_dark`, `#cobblemon:is_savanna`, `#wythers:is_dark_forest` |
 
 ---
 
-### Giratina
+## 👁️ Giratina
 
-![Giratina](https://play.pokemonshowdown.com/sprites/ani/giratina.gif)
-
-Objet : Griseous Orb
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Soul Sand Valley [minecraft:soul_sand_valley]
-- The End [minecraft:the_end]
-- Is Nether [#cobblemon:is_nether]
-- Is Nether Wasteland [#cobblemon:is_nether_wasteland]
-- Is Spooky [#cobblemon:is_spooky]
+| Champ | Détails |
+|------|--------|
+| ![Giratina](https://play.pokemonshowdown.com/sprites/ani/giratina.gif) |  |
+| **Objet requis** | Griseous Orb |
+| **Conditions** | Aucune |
+| **Biomes / Tags** | Soul Sand Valley, The End, `#cobblemon:is_nether`, `#cobblemon:is_nether_wasteland`, `#cobblemon:is_spooky` |
 
 ---
 
-### Cresselia
+## 🌙 Cresselia
 
-![Cresselia](https://play.pokemonshowdown.com/sprites/ani/cresselia.gif)
-
-Objet : Lunar Feather
-
-Conditions requises :
-
-- Moon Phase: Waning Gibbous
-- Sky Must Not Be Blocked (Fluids Will Not Block)
-- Time: Night
-
-Aucune
-Biomes / Tags :
-
-- Mushroom Field Shore [minecraft:mushroom_field_shore]
-- Mushroom Fields [minecraft:mushroom_fields]
-- Snowy Tundra [minecraft:snowy_tundra]
+| Champ | Détails |
+|------|--------|
+| ![Cresselia](https://play.pokemonshowdown.com/sprites/ani/cresselia.gif) |  |
+| **Objet requis** | Lunar Feather |
+| **Conditions** | 🌙 Phase lunaire : Waning Gibbous<br>🌌 Ciel non bloqué<br>🕒 Nuit uniquement |
+| **Biomes / Tags** | Mushroom Field Shore, Mushroom Fields, Snowy Tundra |
 
 ---
 
-### Darkrai
+## 🌑 Darkrai
 
-![Darkrai](https://play.pokemonshowdown.com/sprites/ani/darkrai.gif)
-
-Objet : Member Card
-
-Conditions requises :
-
-- None
-
-Biomes / Tags :
-
-- Dark Forest [minecraft:dark_forest]
-- Swamp [minecraft:swamp]
-- Is Dark [#cobblemon:is_dark]
-- Is Deep Dark [#cobblemon:is_deep_dark]
-- Is Spooky [#cobblemon:is_spooky]
+| Champ | Détails |
+|------|--------|
+| ![Darkrai](https://play.pokemonshowdown.com/sprites/ani/darkrai.gif) |  |
+| **Objet requis** | Member Card |
+| **Conditions** | Aucune |
+| **Biomes / Tags** | Dark Forest, Swamp, `#cobblemon:is_dark`, `#cobblemon:is_deep_dark`, `#cobblemon:is_spooky` |
 
 ---
 
-### Shaymin
+## 🌸 Shaymin
 
-![Shaymin](https://play.pokemonshowdown.com/sprites/ani/shaymin.gif)
-
-Objet : Oaks Letter
-
-Conditions requises :
-
-- None
-
-Biomes / Tags :
-
-- Flower Forest [minecraft:flower_forest]
-- Meadow [minecraft:meadow]
-- Sunflower Plains [minecraft:sunflower_plains]
-- Blooming Plateau [terralith:blooming_plateau]
-- Blooming Valley [terralith:blooming_valley]
-- Lavender Valley [terralith:lavender_valley]
-- Sakura Grove [terralith:sakura_grove]
-- Sakura Valley [terralith:sakura_valley]
-- Is Floral [#cobblemon:is_floral]
-- Is Grassland [#cobblemon:is_grassland]
-- Is Lush [#cobblemon:is_lush]
+| Champ | Détails |
+|------|--------|
+| ![Shaymin](https://play.pokemonshowdown.com/sprites/ani/shaymin.gif) |  |
+| **Objet requis** | Oak’s Letter |
+| **Conditions** | Aucune |
+| **Biomes / Tags** | Flower Forest, Meadow, Sunflower Plains, Blooming Plateau, Blooming Valley, Lavender Valley, Sakura Grove, Sakura Valley, `#cobblemon:is_floral`, `#cobblemon:is_grassland`, `#cobblemon:is_lush` |
 
 ---
 
-### Arceus
+## ✨ Arceus
 
-![Arceus](https://play.pokemonshowdown.com/sprites/ani/arceus.gif)
-
-Objet : Azure Flute
-
-Conditions requises :
-
-- None
-
-Biomes / Tags :
-
-- Dark Forest [minecraft:dark_forest]
-- End Barrens [minecraft:end_barrens]
-- End Highlands [minecraft:end_highlands]
-- End Midlands [minecraft:end_midlands]
-- Small End Islands [minecraft:small_end_islands]
-- The End [minecraft:the_end]
-- Skyris Vale [byg:skyris_vale]
-- Amethyst Canyon [terralith:amethyst_canyon]
-- Amethyst Rainforest [terralith:amethyst_rainforest]
-- Mirage Isles [terralith:mirage_isles]
-- Moonlight Grove [terralith:moonlight_grove]
-- Moonlight Valley [terralith:moonlight_valley]
-- Lantern River [wythers:lantern_river]
-- Mushroom Island [wythers:mushroom_island]
-- Snowy Thermal Taiga [wythers:snowy_thermal_taiga]
-- Is End [#cobblemon:is_end]
-- Is Magical [#byg:is_magical]
-- Is Dark Forest [#wythers:is_dark_forest]
+| Champ | Détails |
+|------|--------|
+| ![Arceus](https://play.pokemonshowdown.com/sprites/ani/arceus.gif) |  |
+| **Objet requis** | Azure Flute |
+| **Conditions** | Aucune |
+| **Biomes / Tags** | Dark Forest, End Barrens, End Highlands, End Midlands, Small End Islands, The End, Skyris Vale, Amethyst Canyon, Amethyst Rainforest, Mirage Isles, Moonlight Grove, Moonlight Valley, Lantern River, Mushroom Island, Snowy Thermal Taiga, `#cobblemon:is_end`, `#byg:is_magical`, `#wythers:is_dark_forest` |
 
 ---
 
