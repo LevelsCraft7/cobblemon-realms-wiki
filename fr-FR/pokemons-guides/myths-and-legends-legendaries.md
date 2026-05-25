@@ -483,388 +483,137 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 
 [↑ Retour en haut](#top)
 
-### Victini
+---
 
-![Victini](https://play.pokemonshowdown.com/sprites/ani/victini.gif)
+## 🔥 Victini
 
-Objet : Liberty Pass
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Badlands [minecraft:badlands]
-- Eroded Badlands [minecraft:eroded_badlands]
-- Savanna [minecraft:savanna]
-- Is Savanna [#cobblemon:is_savanna]
-- Is Thermal [#cobblemon:is_thermal]
-- Is Volcanic [#cobblemon:is_volcanic]
+| Champ | Détails |
+|------|--------|
+| ![Victini](https://play.pokemonshowdown.com/sprites/ani/victini.gif) | |
+| **Objet requis** | Liberty Pass |
+| **Conditions** | Aucune |
+| **Biomes / Tags** | Badlands, Eroded Badlands, Savanna, `#cobblemon:is_savanna`, `#cobblemon:is_thermal`, `#cobblemon:is_volcanic` |
 
 ---
 
-### Cobalion
+## ⚔️ Cobalion
 
-![Cobalion](https://play.pokemonshowdown.com/sprites/ani/cobalion.gif)
-
-Objet : Ironwill Sword
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Blooming Valley [terralith:blooming_valley]
-- Forested Highlands [terralith:forested_highlands]
-- Lavender Valley [terralith:lavender_valley]
-- Lush Valley [terralith:lush_valley]
-- Moonlight Valley [terralith:moonlight_valley]
-- Sakura Valley [terralith:sakura_valley]
-- Savanna Slopes [terralith:savanna_slopes]
-- Stony Spires [terralith:stony_spires]
-- Temperate Highlands [terralith:temperate_highlands]
-- Volcanic Peaks [terralith:volcanic_peaks]
-- Windswept Spires [terralith:windswept_spires]
-- Yosemite Cliffs [terralith:yosemite_cliffs]
-- Yosemite Lowlands [terralith:yosemite_lowlands]
-- Autumnal Crags [wythers:autumnal_crags]
-- Ayers Rock [wythers:ayers_rock]
-- Icy Crags [wythers:icy_crags]
-- Old Growth Taiga Crags [wythers:old_growth_taiga_crags]
-- Taiga Crags [wythers:taiga_crags]
-- Temperate Rainforest Crags [wythers:temperate_rainforest_crags]
-- Thermal Taiga Crags [wythers:thermal_taiga_crags]
-- Tibesti Mountains [wythers:tibesti_mountains]
-- Windswept Jungle [wythers:windswept_jungle]
-- Is Hill [#minecraft:is_hill]
-- Is Mountain [#minecraft:is_mountain]
-- Is Highlands [#cobblemon:is_highlands]
-- Is Hills [#cobblemon:is_hills]
-- Mountain Slope [#c:mountain_slope]
-- Is Mountain [#forge:is_mountain]
-- Is Slope [#forge:is_slope]
+| Champ | Détails |
+|------|--------|
+| ![Cobalion](https://play.pokemonshowdown.com/sprites/ani/cobalion.gif) | |
+| **Objet requis** | Ironwill Sword |
+| **Conditions** | Aucune |
+| **Biomes / Tags** | Blooming Valley, Forested Highlands, Lavender Valley, Lush Valley, Moonlight Valley, Sakura Valley, Savanna Slopes, Stony Spires, Temperate Highlands, Volcanic Peaks, Windswept Spires, Yosemite Cliffs, Yosemite Lowlands, Autumnal Crags, Ayers Rock, Icy Crags, Old Growth Taiga Crags, Taiga Crags, Temperate Rainforest Crags, Thermal Taiga Crags, Tibesti Mountains, Windswept Jungle, `#minecraft:is_hill`, `#minecraft:is_mountain`, `#cobblemon:is_highlands`, `#cobblemon:is_hills`, `#c:mountain_slope`, `#forge:is_mountain`, `#forge:is_slope` |
 
 ---
 
-### Terrakion
+## ⚔️ Terrakion
 
-![Terrakion](https://play.pokemonshowdown.com/sprites/ani/terrakion.gif)
-
-Objet : Cavern Shield
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Blooming Valley [terralith:blooming_valley]
-- Forested Highlands [terralith:forested_highlands]
-- Lavender Valley [terralith:lavender_valley]
-- Lush Valley [terralith:lush_valley]
-- Moonlight Valley [terralith:moonlight_valley]
-- Sakura Valley [terralith:sakura_valley]
-- Savanna Slopes [terralith:savanna_slopes]
-- Stony Spires [terralith:stony_spires]
-- Temperate Highlands [terralith:temperate_highlands]
-- Volcanic Peaks [terralith:volcanic_peaks]
-- Windswept Spires [terralith:windswept_spires]
-- Yosemite Cliffs [terralith:yosemite_cliffs]
-- Yosemite Lowlands [terralith:yosemite_lowlands]
-- Autumnal Crags [wythers:autumnal_crags]
-- Ayers Rock [wythers:ayers_rock]
-- Icy Crags [wythers:icy_crags]
-- Old Growth Taiga Crags [wythers:old_growth_taiga_crags]
-- Taiga Crags [wythers:taiga_crags]
-- Temperate Rainforest Crags [wythers:temperate_rainforest_crags]
-- Thermal Taiga Crags [wythers:thermal_taiga_crags]
-- Tibesti Mountains [wythers:tibesti_mountains]
-- Windswept Jungle [wythers:windswept_jungle]
-- Is Hill [#minecraft:is_hill]
-- Is Mountain [#minecraft:is_mountain]
-- Is Highlands [#cobblemon:is_highlands]
-- Is Hills [#cobblemon:is_hills]
-- Mountain Slope [#c:mountain_slope]
-- Is Mountain [#forge:is_mountain]
-- Is Slope [#forge:is_slope]
+| Champ | Détails |
+|------|--------|
+| ![Terrakion](https://play.pokemonshowdown.com/sprites/ani/terrakion.gif) | |
+| **Objet requis** | Cavern Shield |
+| **Conditions** | Aucune |
+| **Biomes / Tags** | (identique Cobalion : biomes montagneux / highlands / crags / spires) |
 
 ---
 
-### Virizion
+## ⚔️ Virizion
 
-![Virizion](https://play.pokemonshowdown.com/sprites/ani/virizion.gif)
-
-Objet : Grassland Blade
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Blooming Valley [terralith:blooming_valley]
-- Forested Highlands [terralith:forested_highlands]
-- Lavender Valley [terralith:lavender_valley]
-- Lush Valley [terralith:lush_valley]
-- Moonlight Valley [terralith:moonlight_valley]
-- Sakura Valley [terralith:sakura_valley]
-- Savanna Slopes [terralith:savanna_slopes]
-- Stony Spires [terralith:stony_spires]
-- Temperate Highlands [terralith:temperate_highlands]
-- Volcanic Peaks [terralith:volcanic_peaks]
-- Windswept Spires [terralith:windswept_spires]
-- Yosemite Cliffs [terralith:yosemite_cliffs]
-- Yosemite Lowlands [terralith:yosemite_lowlands]
-- Autumnal Crags [wythers:autumnal_crags]
-- Ayers Rock [wythers:ayers_rock]
-- Icy Crags [wythers:icy_crags]
-- Old Growth Taiga Crags [wythers:old_growth_taiga_crags]
-- Taiga Crags [wythers:taiga_crags]
-- Temperate Rainforest Crags [wythers:temperate_rainforest_crags]
-- Thermal Taiga Crags [wythers:thermal_taiga_crags]
-- Tibesti Mountains [wythers:tibesti_mountains]
-- Windswept Jungle [wythers:windswept_jungle]
-- Is Hill [#minecraft:is_hill]
-- Is Mountain [#minecraft:is_mountain]
-- Is Highlands [#cobblemon:is_highlands]
-- Is Hills [#cobblemon:is_hills]
-- Mountain Slope [#c:mountain_slope]
-- Is Mountain [#forge:is_mountain]
-- Is Slope [#forge:is_slope]
+| Champ | Détails |
+|------|--------|
+| ![Virizion](https://play.pokemonshowdown.com/sprites/ani/virizion.gif) | |
+| **Objet requis** | Grassland Blade |
+| **Conditions** | Aucune |
+| **Biomes / Tags** | Blooming / Sakura / Lavender Valleys, Forested Highlands, Taiga Crags, Windswept Jungle, `#cobblemon:is_lush`, `#cobblemon:is_grassland` |
 
 ---
 
-### Tornadus
+## 🌪 Tornadus
 
-![Tornadus](https://play.pokemonshowdown.com/sprites/ani/tornadus.gif)
-
-Objet : Reveal Glass
-
-Conditions requises :
-
-- Must Be Thundering (Rain Does Not Count)
-
-Biomes / Tags :
-
-- Bamboo Jungle [minecraft:bamboo_jungle]
-- Jungle [minecraft:jungle]
-- Jungle Edge [minecraft:jungle_edge]
+| Champ | Détails |
+|------|--------|
+| ![Tornadus](https://play.pokemonshowdown.com/sprites/ani/tornadus.gif) | |
+| **Objet requis** | Reveal Glass |
+| **Conditions** | Il doit y avoir du tonnerre (la pluie ne compte pas) |
+| **Biomes / Tags** | Bamboo Jungle, Jungle, Jungle Edge |
 
 ---
 
-### Thundurus
+## ⚡ Thundurus
 
-![Thundurus](https://play.pokemonshowdown.com/sprites/ani/thundurus.gif)
-
-Objet : Reveal Glass
-
-Conditions requises :
-
-- Must Be Thundering (Rain Does Not Count)
-
-Aucune
-Biomes / Tags :
-
-- Badlands [minecraft:badlands]
-- Mountains [minecraft:mountains]
-- Plains [minecraft:plains]
+| Champ | Détails |
+|------|--------|
+| ![Thundurus](https://play.pokemonshowdown.com/sprites/ani/thundurus.gif) | |
+| **Objet requis** | Reveal Glass |
+| **Conditions** | Il doit y avoir du tonnerre (la pluie ne compte pas) |
+| **Biomes / Tags** | Badlands, Mountains, Plains |
 
 ---
 
-### Reshiram
+## 🌍 Landorus
 
-![Reshiram](https://play.pokemonshowdown.com/sprites/ani/reshiram.gif)
-
-Objet : Light Stone
-
-Conditions requises :
-
-- Min Light Level: 8
-- Max Light Level: 15
-
-Aucune
-Biomes / Tags :
-
-- Desert [minecraft:desert]
-- Savanna [minecraft:savanna]
-- Sunflower Plains [minecraft:sunflower_plains]
+| Champ | Détails |
+|------|--------|
+| ![Landorus](https://play.pokemonshowdown.com/sprites/ani/landorus.gif) | |
+| **Objet requis** | Reveal Glass |
+| **Conditions** | Il doit y avoir du tonnerre (la pluie ne compte pas) |
+| **Biomes / Tags** | Desert, Savanna, Sunflower Plains |
 
 ---
 
-### Zekrom
+## 🔥 Reshiram
 
-![Zekrom](https://play.pokemonshowdown.com/sprites/ani/zekrom.gif)
-
-Objet : Dark Stone
-
-Conditions requises :
-
-- Min Light Level: 0
-- Max Light Level: 7
-
-Aucune
-Biomes / Tags :
-
-- Dark Forest [minecraft:dark_forest]
-- Roofed Forest [minecraft:roofed_forest]
-- Swamp [minecraft:swamp]
+| Champ | Détails |
+|------|--------|
+| ![Reshiram](https://play.pokemonshowdown.com/sprites/ani/reshiram.gif) | |
+| **Objet requis** | Light Stone |
+| **Conditions** | Niveau de luminosité 8–15 |
+| **Biomes / Tags** | Desert, Savanna, Sunflower Plains |
 
 ---
 
-### Landorus
+## 🌑 Zekrom
 
-![Landorus](https://play.pokemonshowdown.com/sprites/ani/landorus.gif)
-
-Objet : Reveal Glass
-
-Conditions requises :
-
-- Must Be Thundering (Rain Does Not Count)
-
-Aucune
-Biomes / Tags :
-
-- Desert [minecraft:desert]
-- Savanna [minecraft:savanna]
-- Sunflower Plains [minecraft:sunflower_plains]
+| Champ | Détails |
+|------|--------|
+| ![Zekrom](https://play.pokemonshowdown.com/sprites/ani/zekrom.gif) | |
+| **Objet requis** | Dark Stone |
+| **Conditions** | Niveau de luminosité 0–7 |
+| **Biomes / Tags** | Dark Forest, Roofed Forest, Swamp |
 
 ---
 
-### Kyurem
+## ❄️ Kyurem
 
-![Kyurem](https://play.pokemonshowdown.com/sprites/ani/kyurem.gif)
-
-Objet : Dna Splicer
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Frozen Peaks [minecraft:frozen_peaks]
-- Snowy Slopes [minecraft:snowy_slopes]
-- Snowy Taiga [minecraft:snowy_taiga]
-- Is Freezing [#cobblemon:is_freezing]
-- Is Glacial [#cobblemon:is_glacial]
-- Is Snowy Forest [#cobblemon:is_snowy_forest]
+| Champ | Détails |
+|------|--------|
+| ![Kyurem](https://play.pokemonshowdown.com/sprites/ani/kyurem.gif) | |
+| **Objet requis** | DNA Splicer |
+| **Conditions** | Aucune |
+| **Biomes / Tags** | Frozen Peaks, Snowy Slopes, Snowy Taiga, `#cobblemon:is_freezing`, `#cobblemon:is_glacial`, `#cobblemon:is_snowy_forest` |
 
 ---
 
-### Keldeo
+## 🌸 Meloetta
 
-![Keldeo](https://play.pokemonshowdown.com/sprites/ani/keldeo.gif)
-
-Objet : Sacred Sword
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Blooming Valley [terralith:blooming_valley]
-- Forested Highlands [terralith:forested_highlands]
-- Lavender Valley [terralith:lavender_valley]
-- Lush Valley [terralith:lush_valley]
-- Moonlight Valley [terralith:moonlight_valley]
-- Sakura Valley [terralith:sakura_valley]
-- Savanna Slopes [terralith:savanna_slopes]
-- Stony Spires [terralith:stony_spires]
-- Temperate Highlands [terralith:temperate_highlands]
-- Volcanic Peaks [terralith:volcanic_peaks]
-- Windswept Spires [terralith:windswept_spires]
-- Yosemite Cliffs [terralith:yosemite_cliffs]
-- Yosemite Lowlands [terralith:yosemite_lowlands]
-- Autumnal Crags [wythers:autumnal_crags]
-- Ayers Rock [wythers:ayers_rock]
-- Icy Crags [wythers:icy_crags]
-- Old Growth Taiga Crags [wythers:old_growth_taiga_crags]
-- Taiga Crags [wythers:taiga_crags]
-- Temperate Rainforest Crags [wythers:temperate_rainforest_crags]
-- Thermal Taiga Crags [wythers:thermal_taiga_crags]
-- Tibesti Mountains [wythers:tibesti_mountains]
-- Windswept Jungle [wythers:windswept_jungle]
-- Is Hill [#minecraft:is_hill]
-- Is Mountain [#minecraft:is_mountain]
-- Is Highlands [#cobblemon:is_highlands]
-- Is Hills [#cobblemon:is_hills]
-- Mountain Slope [#c:mountain_slope]
-- Is Mountain [#forge:is_mountain]
-- Is Slope [#forge:is_slope]
+| Champ | Détails |
+|------|--------|
+| ![Meloetta](https://play.pokemonshowdown.com/sprites/ani/meloetta.gif) | |
+| **Objet requis** | Meloetta Headset |
+| **Conditions** | Aucune |
+| **Biomes / Tags** | Flower Forest, Meadow, Sunflower Plains, Cherry Grove, Floral tags (`#c:floral`, `#cobblemon:is_lush`) |
 
 ---
 
-### Meloetta
+## 🧬 Genesect
 
-![Meloetta](https://play.pokemonshowdown.com/sprites/ani/meloetta.gif)
-
-Objet : Meloetta Headset
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Cherry Grove [minecraft:cherry_grove]
-- Flower Forest [minecraft:flower_forest]
-- Meadow [minecraft:meadow]
-- Sunflower Plains [minecraft:sunflower_plains]
-- Allium Fields [byg:allium_fields]
-- Amaranth Fields [byg:amaranth_fields]
-- Cherry Blossom Forest [byg:cherry_blossom_forest]
-- Orchard [byg:orchard]
-- Rose Fields [byg:rose_fields]
-- Skyris Vale [byg:skyris_vale]
-- Blooming Plateau [terralith:blooming_plateau]
-- Blooming Valley [terralith:blooming_valley]
-- Lavender Forest [terralith:lavender_forest]
-- Lavender Valley [terralith:lavender_valley]
-- Sakura Grove [terralith:sakura_grove]
-- Sakura Valley [terralith:sakura_valley]
-- Autumnal Flower Forest [wythers:autumnal_flower_forest]
-- Flowering Pantanal [wythers:flowering_pantanal]
-- Jacaranda Savanna [wythers:jacaranda_savanna]
-- Lapacho Plains [wythers:lapacho_plains]
-- Sakura Forest [wythers:sakura_forest]
-- Spring Flower Fields [wythers:spring_flower_fields]
-- Spring Flower Forest [wythers:spring_flower_forest]
-- Is Floral [#byg:is_floral]
-- Floral [#c:floral]
-- Flower Forests [#c:flower_forests]
-
----
-
-### Genesect
-
-![Genesect](https://play.pokemonshowdown.com/sprites/ani/genesect.gif)
-
-Objet : Genesect Drive
-
-Conditions requises :
-
-- Needed Nearby Blocks: Iron Block
-
-Aucune
-Biomes / Tags :
-
-- End Barrens [minecraft:end_barrens]
-- End Highlands [minecraft:end_highlands]
-- End Midlands [minecraft:end_midlands]
-- Small End Islands [minecraft:small_end_islands]
-- The End [minecraft:the_end]
-- Is Deep Dark [#cobblemon:is_deep_dark]
-
+| Champ | Détails |
+|------|--------|
+| ![Genesect](https://play.pokemonshowdown.com/sprites/ani/genesect.gif) | |
+| **Objet requis** | Genesect Drive |
+| **Conditions** | Iron block nearby |
+| **Biomes / Tags** | End biomes, Deep Dark, `#cobblemon:is_deep_dark` |
 ---
 
 # Génération 6 [Kalos]
