@@ -123,6 +123,8 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
 💡 Courpup évolue avec une **haute amitié**
 
+![Courpup Mâle](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Courpup_male.png) ![Courpup Mâle Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Courpup_male_shiny.png) ![Courpup Femelle](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Courpup_femelle.png) ![Courpup Femelle Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Courpup_femelle_shiny.png)
+
 ---
 
 ### 🐎 Karfoal
