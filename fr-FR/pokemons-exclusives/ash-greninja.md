@@ -1,69 +1,71 @@
-# 🌊 Ash Greninja (Battle Bond Form)
+# 🌊 Ash Greninja (Forme Battle Bond)
 
-Ash Greninja is a special alternate form of Greninja, recognizable by the **dark pattern on its head**.\
-Unlike normal evolutions, this form requires a mix of **friendship**, a **special cap item**, and the **Water Shuriken**.  
-Unlike normal evolutions, this form requires a mix of **friendship**, a **special cap item**, and the **Water Shuriken**.
-
----
-
-## 🧑‍🤝‍🧑 Step 1 — Build Friendship
-
-Before unlocking the form, you must raise Greninja’s **friendship level** with its trainer.\
-Make sure to battle together, walk, and avoid fainting to increase its bond.  
-Make sure to battle together, walk, and avoid fainting to increase its bond.
+Ash Greninja est une forme spéciale de Greninja reconnaissable à ses **marquages sombres sur la tête**.  
+Il ne s’agit pas d’une évolution classique, mais d’une mécanique basée sur le **lien d’amitié** et une interaction d’objets.
 
 ---
 
-## 🎩 Step 2 — Unlock Battle Bond
+## 🧑‍🤝‍🧑 Étape 1 : Monter l’amitié
 
-Once Greninja’s friendship is high enough, use the item:
+Avant toute transformation, Greninja doit atteindre un **haut niveau d’amitié** avec son dresseur.
 
-- **Ash Cap** (`mega_showdown:ash_cap`)
+- ⚔️ Combattre régulièrement  
+- 🎒 Le garder dans l’équipe active  
+- ❌ Éviter les K.O.  
 
-➡️ Right-click Greninja while holding the Ash Cap.  
-➡️ Right-click Greninja while holding the Ash Cap.\
-This unlocks the **Battle Bond ability**, preparing Greninja for its transformation.
-
----
-
-## 💧 Step 3 — Water Shuriken Transformation
-
-With Battle Bond active, craft and use the **Water Shuriken** to achieve the **true Ash Greninja form** (with the black head pattern).
-
-### 🔧 Crafting the Water Shuriken
-
-Use a **Smithing Table** with:
-
-- 🌀 **Tide Armor Trim Smithing Template**
-- 💧 **Water Gem**
-- 💠 **Mega Stone Crystal**
-
-![](https://github.com/user-attachments/assets/2ae3b855-aed0-4cf5-94f1-96237130b0bf)
+➡️ Une amitié élevée est obligatoire pour débloquer Battle Bond.
 
 ---
 
-## 🎯 How to Transform
+## 🎩 Étape 2 : Débloquer Battle Bond
 
-1. Ensure Greninja has **Battle Bond** unlocked.
-2. Hold the **Water Shuriken**.
-3. Right-click Greninja → it transforms into **Ash Greninja** with its iconic black markings.
+Une fois l’amitié suffisante, utilisez l’objet suivant :
 
-➡️ The transformation is cosmetic and does not change Greninja’s typing or base stats.
+- 🎩 **Casquette Ash** (`mega_showdown:ash_cap`)
 
----
-
-## 📌 Notes
-
-- This process is **exclusive to Cobblemon Realms**.
-- The transformation is **cosmetic** (visual only), but perfect for showing off your bond with Greninja.
-- Removing Battle Bond (by evolving or replacing Greninja) reverts it to a normal Greninja.
+➡️ Faites un clic droit sur Greninja avec la Casquette Ash  
+➡️ Cela active la capacité **Battle Bond**
 
 ---
 
-## ✅ Summary
+## 💧 Étape 3 : Transformation Ash Greninja
 
-- Raise **friendship** with Greninja.
-- Use the **Ash Cap** to unlock **Battle Bond**.
-- Craft and use the **Water Shuriken** to activate the **Ash Greninja form**.
+Avec Battle Bond actif, la transformation s’effectue via l’objet **Shuriken d’Eau**.
 
-Your Greninja will now bear the **black head markings** of Ash’s legendary companion!
+### 🔧 Fabrication du Shuriken d’Eau
+
+Table de forge :
+
+- 🌀 Gabarit de sertissage (Tide Armor Trim)  
+- 💧 Gemme d’Eau  
+- 💠 Cristal de Méga Pierre  
+
+![Craft Water Shuriken](https://github.com/user-attachments/assets/2ae3b855-aed0-4cf5-94f1-96237130b0bf)
+
+---
+
+## 🎯 Procédure de transformation
+
+1. Vérifiez que **Battle Bond est actif**
+2. Tenez le **Shuriken d’Eau**
+3. Faites clic droit sur Greninja
+
+➡️ Il se transforme en **Ash Greninja**
+
+---
+
+## 📌 Informations importantes
+
+- Cette mécanique est **exclusive à Cobblemon Realms**
+- La forme est **cosmétique uniquement**
+- Aucun changement de type ou de statistiques
+- Perdre Greninja ou désactiver Battle Bond annule la forme
+
+---
+
+## 🧾 Résumé
+
+- Monter l’**amitié de Greninja**
+- Utiliser la **Casquette Ash** pour activer Battle Bond
+- Crafter le **Shuriken d’Eau**
+- Déclencher la transformation en Ash Greninja
