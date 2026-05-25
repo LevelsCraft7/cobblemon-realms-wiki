@@ -1,4 +1,4 @@
-# ⚙️ Meltan — Forme Chargée
+# ⚙️ Meltan ; Forme Chargée
 
 Meltan peut accumuler de l’énergie en absorbant du fer et se transformer une fois chargé.
 
