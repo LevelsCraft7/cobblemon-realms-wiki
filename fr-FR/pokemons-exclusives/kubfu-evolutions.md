@@ -1,4 +1,4 @@
-# ⚔️ Wushours - Évolutions
+# 🥋 Wushours - Évolutions
 
 Kubfu peut évoluer en deux formes différentes d’Urshifu selon le parchemin utilisé.
 
