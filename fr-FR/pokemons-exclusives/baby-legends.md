@@ -56,7 +56,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
   💡 Raygul évolue au **niveau** 50 avec l’objet **Croc Dragon**
 
-![Raygul](https://github.com/user-attachments/assets/fd971347-c857-42ec-9605-9921a74fc18b)
+![Raygul](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Raygul.png) ![Raygul Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Raygul_Shiny.png) 
 
 ---
 
@@ -72,7 +72,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
   💡 Latot évolue avec une **haute amitié**
 
-![Latot](https://github.com/user-attachments/assets/935f4ff2-75e3-4756-9e1b-f82a59bf2d70)
+![Latot Mâle](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Loat_male.png) ![Latot Mâle Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Loat_male_shiny.png) ![Latot Femelle](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Loat_femelle.png) ![Latot Femelle Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Loat_femelle_shiny.png)
 
 ---
 
@@ -105,7 +105,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
 💡 Saladune évolue au **niveau 60** avec l'objet **Pierre Feu**
 
-![Saladune](https://github.com/user-attachments/assets/60c7a7b8-03c4-49e4-b81b-3a3c252474be)
+![Saladune]() ![Saladune Shiny]()
 
 ---
 
