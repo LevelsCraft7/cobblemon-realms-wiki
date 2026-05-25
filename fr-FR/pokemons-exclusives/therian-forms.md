@@ -6,9 +6,9 @@ Les Pokémon légendaires du trio des Forces de la Nature (**Fulguris**, **Boré
 
 ## 🖼️ Aperçu
 
-| Thundurus | Tornadus | Landorus |
+| Fulguris | Boréas | Démétéros |
 |---|---|---|
-| ![Thundurus](https://github.com/user-attachments/assets/53d73265-51ff-43a4-85b3-066dcbd729d9) | ![Tornadus](https://github.com/user-attachments/assets/159d9253-4e5c-4d6f-8cbb-5a54db2de1f3) | ![Landorus](https://github.com/user-attachments/assets/159d9253-4e5c-4d6f-8cbb-5a54db2de1f3) |
+| ![Fulguris](https://github.com/user-attachments/assets/53d73265-51ff-43a4-85b3-066dcbd729d9) | ![Boréas](https://github.com/user-attachments/assets/159d9253-4e5c-4d6f-8cbb-5a54db2de1f3) | ![Démétéros](https://github.com/user-attachments/assets/159d9253-4e5c-4d6f-8cbb-5a54db2de1f3) |
 
 ---
 
