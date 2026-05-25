@@ -1,23 +1,28 @@
-# 🐩 Furfrou Trims
+# 🐩 Couafarel - Coupes (Trims)
 
-Furfrou can change trims for a stylish appearance.
+Couafarel peut changer de coupe (trim) pour modifier son apparence.
 
-## 🎨 How to Change
+---
 
-- Hold required dye + right-click Furfrou with Shears.
-- Dye is consumed.
+## 🎨 Changement de coupe
 
-## Available Trims
+- 🎯 Tenir le colorant requis
+- ✂️ Clic droit avec des **Ciseaux**
+- ⚡ Le colorant est consommé
 
-| Trim      | Dye                                |
-| --------- | ---------------------------------- |
-| Debutante | Yellow                             |
-| Pharaoh   | Blue                               |
-| Kabuki    | Red                                |
-| Star      | Cyan                               |
-| Matron    | Purple                             |
-| Dandy     | Lime                               |
-| Diamond   | Orange                             |
-| Heart     | Pink                               |
-| La Reine  | Light Blue                         |
-| Natural   | White (default) |
+---
+
+## ✨ Coupes disponibles
+
+| ✂️ Coupe | 🎨 Colorant |
+|---|---|
+| Débutante | Jaune |
+| Pharaon | Bleu |
+| Kabuki | Rouge |
+| Étoile | Cyan |
+| Matriarche | Violet |
+| Dandy | Vert citron |
+| Diamant | Orange |
+| Cœur | Rose |
+| La Reine | Bleu clair |
+| Naturelle | Blanc (par défaut) |
