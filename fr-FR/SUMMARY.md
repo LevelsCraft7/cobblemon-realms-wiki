@@ -2,7 +2,7 @@
 
 ## Bienvenue
 
-- [👋 Bienvenue](README.md)
+- [👋 Présentation](README.md)
 
 ## Informations
 
