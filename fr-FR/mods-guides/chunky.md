@@ -1,8 +1,8 @@
-# ⚙️ Tutoriel Chunky Prégénération
+# ⚙️ Tutoriel Chunky
 
 ## 🎯 Introduction
 
-Chunky Pregenerator est un mod conçu pour **pré-générer les chunks Minecraft**, afin de réduire les lags et améliorer les performances globales lors de l’exploration. En générant les chunks à l’avance, le serveur rencontre beaucoup moins de ralentissements, notamment lors des sessions d’exploration intensive ou à forte activité.
+Chunky est un mod conçu pour **pré-générer les chunks Minecraft**, afin de réduire les lags et améliorer les performances globales lors de l’exploration. En générant les chunks à l’avance, le serveur rencontre beaucoup moins de ralentissements, notamment lors des sessions d’exploration intensive ou à forte activité.
 
 ➡️ Le principe est simple : tout est généré avant que les joueurs n’arrivent.
 
