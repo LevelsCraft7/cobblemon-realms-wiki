@@ -274,8 +274,6 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
 ## 🐦 Trio élémentaire
 
-![Bird Trio](https://github.com/user-attachments/assets/c3bbe935-a9d0-4e70-a33d-5930b925b21d)
-
 ### 🔥 Rotisikree
 
 | 📌 Informations | 📋 Détails |
