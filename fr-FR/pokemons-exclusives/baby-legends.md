@@ -1,10 +1,10 @@
 # 🗿 Baby Legends
 
-L'addon **Baby Legends** ajoute des formes bébé de Pokémon légendaires à la progression de Cobblemon.
+L’addon Baby Legends ajoute des formes bébé de Pokémon légendaires à la progression de Cobblemon.
 
-Au lieu de capturer directement les légendaires finaux, les joueurs doivent d'abord trouver leur pré-évolution, puis la faire évoluer avec des conditions de biome, météo, amitié, niveau, objet ou échange.
+Au lieu de capturer directement les légendaires finaux, les joueurs doivent d’abord trouver leur pré-évolution, puis les faire évoluer via différentes conditions : biome, météo, amitié, niveau, objet ou échange.
 
-Cette page est tenue à jour pour la configuration actuelle de Baby Legends dans le modpack et se concentre sur ce qui aide vraiment les joueurs : où trouver chaque baby, comment il évolue, et quel style de stats il propose.
+Cette page est maintenue à jour selon la configuration actuelle du modpack. Elle se concentre sur les informations utiles en jeu : localisation des formes bébé, conditions d’évolution et profil de stats de chaque ligne évolutive.
 
 ---
 
