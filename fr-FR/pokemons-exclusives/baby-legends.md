@@ -288,6 +288,8 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
 💡 Rotisikree évolue au **niveau 50** avec l'objet **Pierre Feu**
 
+![Rotisikree](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Rotisikree.png) ![Rotisikree Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Rotisikree_shiny.png)
+
 ---
 
 ### ❄️ Articoo
@@ -301,6 +303,8 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 📊 Stats | Mur spécial solide |
 
 💡 Articoo évolue au **niveau 50** avec l'objet **Pierre Glace**
+
+![Articoo](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Articoo.png) ![Articoo Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Articoo_shiny.png)
 
 ---
 
