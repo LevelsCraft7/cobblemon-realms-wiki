@@ -1,12 +1,20 @@
-# 💎 Crystal Onix
+# 💎 Onix Cristal
 
-Crystal Onix is a rare, gleaming variant of Onix.
+Onix Cristal est une variante rare et brillante d’Onix.
 
-## 📍 Where to Find
+---
 
-- Overworld, ≤Y40, light ≤7 — ultra-rare
-- Dripstone Cave, near Diamond Block — ultra-rare
+## 📍 Localisation
+
+| 🌍 Lieu | ⚙️ Conditions |
+|---|---|
+| Overworld | Y ≤ 40 / Luminosité ≤ 7 (ultra rare) |
+| Grottes de Dripstone | Proche de blocs de diamant (ultra rare) |
+
+---
 
 ## 📝 Notes
 
-- No special item needed, just patience.
+- Aucun objet requis
+- Apparition basée uniquement sur la rareté
+- Demande beaucoup de patience ⏳
