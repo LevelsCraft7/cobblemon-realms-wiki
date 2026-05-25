@@ -320,6 +320,8 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
 💡 Statchic évolue au **niveau 50** avec l'objet **Pierre Foudre**
 
+![Statchic](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Statchic.png) ![Statchic Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Statchic_shiny.png)
+
 ---
 
 ## 🌑 Variantes spéciales
@@ -338,7 +340,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
 💡 Yivpip évolue au **niveau 60** avec l'objet **Pierre Nuit**
 
-![Yivpip](https://github.com/user-attachments/assets/6c2a6733-0122-4ebf-a9bb-ab9f0ddaa30e)
+![Yivpip](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Yivpip.png) ![Yivpip Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Yivpip_shiny.png) 
 
 ---
 
@@ -353,6 +355,8 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 📊 Stats | Attaquant spécial solide |
 
 💡 Oh-Ho évolue au **niveau 50** avec l'objet **Pierre Feu**
+
+![Oh-Ho](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Oh-Ho.png) ![Oh-Ho Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Oh-Ho_shiny.png) 
 
 ---
 
