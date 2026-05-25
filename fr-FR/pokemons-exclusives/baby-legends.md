@@ -268,7 +268,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
 💡 Neonite évolue au **niveau 70** avec l'objet **Œuf de Dragon**
 
-![Neonite](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Neonite.png) ![Neonite Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Neonite_shiny.png)
+![Neonite](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Neonite.png)
 
 ---
 
