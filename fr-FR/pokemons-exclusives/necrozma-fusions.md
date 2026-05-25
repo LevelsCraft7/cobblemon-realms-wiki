@@ -1,4 +1,4 @@
-# 🌑 Necrozma — Fusions
+# 🌑 Necrozma ; Fusions
 
 Necrozma peut fusionner avec Solgaleo ou Lunala via des objets spécifiques, débloquant différentes formes ainsi que l’Ultra Burst.
 
