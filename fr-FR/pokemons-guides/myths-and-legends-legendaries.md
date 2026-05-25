@@ -20,114 +20,84 @@ Aller à une région :
 
 Chaque fiche indique l’objet requis, les conditions particulières et tous les biomes/tags valides.
 
-# Génération 1 [Kanto]
+# 🌍 Génération 1 — Kanto
 
-[↑ Retour en haut](#top)
-
-### Articuno
-
-![Articuno](https://play.pokemonshowdown.com/sprites/ani/articuno.gif)
-
-Objet : Tidal Bell
-
-Conditions requises :
-
-- 3 Ice Stones In Inventory
-
-Biomes / Tags :
-
-- Frozen Ocean [minecraft:frozen_ocean]
-- Frozen Peaks [minecraft:frozen_peaks]
-- Frozen River [minecraft:frozen_river]
-- Snowy Beach [minecraft:snowy_beach]
-- Snowy Plains [minecraft:snowy_plains]
-- Snowy Slopes [minecraft:snowy_slopes]
-- Snowy Taiga [minecraft:snowy_taiga]
-- Is Cold [#cobblemon:is_cold]
-- Is Freezing [#cobblemon:is_freezing]
-- Is Frozen Ocean [#cobblemon:is_frozen_ocean]
-- Is Glacial [#cobblemon:is_glacial]
-- Is Snowy Forest [#cobblemon:is_snowy_forest]
+[⬆️ Retour en haut](#top)
 
 ---
 
-### Zapdos
+## ❄️ Articuno
 
-![Zapdos](https://play.pokemonshowdown.com/sprites/ani/zapdos.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/articuno.gif" alt="Articuno">
+</p>
 
-Objet : Tidal Bell
-
-Conditions requises :
-
-- 3 Thunder Stones In Inventory
-
-Biomes / Tags :
-
-- Plains [minecraft:plains]
-- Savanna [minecraft:savanna]
-- Is Mountain [#cobblemon:is_mountain]
-- Is Sky [#cobblemon:is_sky]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Tidal Bell** |
+| ⚙️ Conditions requises | 🧊 3 Ice Stones dans l’inventaire |
+| 🌍 Biomes | Frozen Ocean, Frozen Peaks, Frozen River, Snowy Beach, Snowy Plains, Snowy Slopes, Snowy Taiga |
+| 🏷️ Tags | `#cobblemon:is_cold` • `#cobblemon:is_freezing` • `#cobblemon:is_frozen_ocean` • `#cobblemon:is_glacial` • `#cobblemon:is_snowy_forest` |
 
 ---
 
-### Moltres
+## ⚡ Zapdos
 
-![Moltres](https://play.pokemonshowdown.com/sprites/ani/moltres.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/zapdos.gif" alt="Zapdos">
+</p>
 
-Objet : Tidal Bell
-
-Conditions requises :
-
-- 3 Fire Stones In Inventory
-
-Biomes / Tags :
-
-- Badlands [minecraft:badlands]
-- Windswept Hills [minecraft:windswept_hills]
-- Is Sky [#cobblemon:is_sky]
-- Is Thermal [#cobblemon:is_thermal]
-- Is Volcanic [#cobblemon:is_volcanic]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Tidal Bell** |
+| ⚙️ Conditions requises | ⚡ 3 Thunder Stones dans l’inventaire |
+| 🌍 Biomes | Plains, Savanna |
+| 🏷️ Tags | `#cobblemon:is_mountain` • `#cobblemon:is_sky` |
 
 ---
 
-### Mewtwo
+## 🔥 Moltres
 
-![Mewtwo](https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/moltres.gif" alt="Moltres">
+</p>
 
-Objet : Dr Fujis Diary
-
-Conditions requises :
-
-- None
-
-Biomes / Tags :
-
-- Dark Forest [minecraft:dark_forest]
-- Deep Dark [minecraft:deep_dark]
-- Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]
-- Is Cave [#cobblemon:is_cave]
-- Is Deep Dark [#cobblemon:is_deep_dark]
-- Is Spooky [#cobblemon:is_spooky]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Tidal Bell** |
+| ⚙️ Conditions requises | 🔥 3 Fire Stones dans l’inventaire |
+| 🌍 Biomes | Badlands, Windswept Hills |
+| 🏷️ Tags | `#cobblemon:is_sky` • `#cobblemon:is_thermal` • `#cobblemon:is_volcanic` |
 
 ---
 
-### Mew
+## 🧬 Mewtwo
 
-![Mew](https://play.pokemonshowdown.com/sprites/ani/mew.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" alt="Mewtwo">
+</p>
 
-Objet : Old Sea Map
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Dr Fujis Diary** |
+| ⚙️ Conditions requises | ❌ Aucune |
+| 🌍 Biomes | Dark Forest, Deep Dark, Windswept Gravelly Hills |
+| 🏷️ Tags | `#cobblemon:is_cave` • `#cobblemon:is_deep_dark` • `#cobblemon:is_spooky` |
 
-Conditions requises :
+---
 
-- None
+## ✨ Mew
 
-Biomes / Tags :
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/mew.gif" alt="Mew">
+</p>
 
-- Bamboo Jungle [minecraft:bamboo_jungle]
-- Jungle [minecraft:jungle]
-- Is Bamboo [#cobblemon:is_bamboo]
-- Is Jungle [#cobblemon:is_jungle]
-- Is Lush [#cobblemon:is_lush]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Old Sea Map** |
+| ⚙️ Conditions requises | ❌ Aucune |
+| 🌍 Biomes | Bamboo Jungle, Jungle |
+| 🏷️ Tags | `#cobblemon:is_bamboo` • `#cobblemon:is_jungle` • `#cobblemon:is_lush` |
 
 ---
 
