@@ -101,144 +101,99 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 
 ---
 
-# Génération 2 [Johto]
+# 🌍 Génération 2 — Johto
 
-[↑ Retour en haut](#top)
-
-### Raikou
-
-![Raikou](https://play.pokemonshowdown.com/sprites/ani/raikou.gif)
-
-Objet : Clear Bell
-
-Conditions requises :
-
-- 3 Thunder Stones In Inventory
-
-Biomes / Tags :
-
-- Plains [minecraft:plains]
-- Savanna [minecraft:savanna]
-- Savanna Plateau [minecraft:savanna_plateau]
-- Is Arid [#cobblemon:is_arid]
-- Is Grassland [#cobblemon:is_grassland]
-- Is Plains [#cobblemon:is_plains]
+[⬆️ Retour en haut](#top)
 
 ---
 
-### Entei
+## ⚡ Raikou
 
-![Entei](https://play.pokemonshowdown.com/sprites/ani/entei.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/raikou.gif" alt="Raikou">
+</p>
 
-Objet : Clear Bell
-
-Conditions requises :
-
-- 3 Fire Stones In Inventory
-
-Biomes / Tags :
-
-- Badlands [minecraft:badlands]
-- Eroded Badlands [minecraft:eroded_badlands]
-- Nether Wastes [minecraft:nether_wastes]
-- Savanna [minecraft:savanna]
-- Windswept Forest [minecraft:windswept_forest]
-- Windswept Hills [minecraft:windswept_hills]
-- Is Badlands [#cobblemon:is_badlands]
-- Is Thermal [#cobblemon:is_thermal]
-- Is Volcanic [#cobblemon:is_volcanic]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Clear Bell** |
+| ⚙️ Conditions requises | ⚡ 3 Thunder Stones dans l’inventaire |
+| 🌍 Biomes | Plains, Savanna, Savanna Plateau |
+| 🏷️ Tags | `#cobblemon:is_arid` • `#cobblemon:is_grassland` • `#cobblemon:is_plains` |
 
 ---
 
-### Suicune
+## 🔥 Entei
 
-![Suicune](https://play.pokemonshowdown.com/sprites/ani/suicune.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/entei.gif" alt="Entei">
+</p>
 
-Objet : Clear Bell
-
-Conditions requises :
-
-- 3 Water Stones In Inventory
-
-Biomes / Tags :
-
-- Frozen River [minecraft:frozen_river]
-- River [minecraft:river]
-- Is Cold Ocean [#cobblemon:is_cold_ocean]
-- Is Freshwater [#cobblemon:is_freshwater]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Clear Bell** |
+| ⚙️ Conditions requises | 🔥 3 Fire Stones dans l’inventaire |
+| 🌍 Biomes | Badlands, Eroded Badlands, Nether Wastes, Savanna, Windswept Forest, Windswept Hills |
+| 🏷️ Tags | `#cobblemon:is_badlands` • `#cobblemon:is_thermal` • `#cobblemon:is_volcanic` |
 
 ---
 
-### Lugia
+## 💧 Suicune
 
-![Lugia](https://play.pokemonshowdown.com/sprites/ani/lugia.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/suicune.gif" alt="Suicune">
+</p>
 
-Objet : Tidal Bell/Silver Wing
-
-Conditions requises :
-
-- None
-
-Biomes / Tags :
-
-- Deep Ocean [minecraft:deep_ocean]
-- Ocean [minecraft:ocean]
-- Is Deep Ocean [#minecraft:is_deep_ocean]
-- Is Cold Ocean [#cobblemon:is_cold_ocean]
-- Is Deep Ocean [#cobblemon:is_deep_ocean]
-- Is Ocean [#cobblemon:is_ocean]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Clear Bell** |
+| ⚙️ Conditions requises | 💧 3 Water Stones dans l’inventaire |
+| 🌍 Biomes | Frozen River, River |
+| 🏷️ Tags | `#cobblemon:is_cold_ocean` • `#cobblemon:is_freshwater` |
 
 ---
 
-### Ho-Oh
+## 🌊 Lugia
 
-![Ho-Oh](https://play.pokemonshowdown.com/sprites/ani/ho-oh.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/lugia.gif" alt="Lugia">
+</p>
 
-Objet : Clear Bell/Rainbow Wing
-
-Conditions requises :
-
-- None
-
-Biomes / Tags :
-
-- Flower Forest [minecraft:flower_forest]
-- Meadow [minecraft:meadow]
-- Sunflower Plains [minecraft:sunflower_plains]
-- Sunflower Plains [#minecraft:sunflower_plains]
-- Is Sky [#cobblemon:is_sky]
-- Is Summer [#cobblemon:is_summer]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Tidal Bell / Silver Wing** |
+| ⚙️ Conditions requises | ❌ Aucune |
+| 🌍 Biomes | Deep Ocean, Ocean |
+| 🏷️ Tags | `#minecraft:is_deep_ocean` • `#cobblemon:is_cold_ocean` • `#cobblemon:is_deep_ocean` • `#cobblemon:is_ocean` |
 
 ---
 
-### Celebi
+## 🌈 Ho-Oh
 
-![Celebi](https://play.pokemonshowdown.com/sprites/ani/celebi.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/ho-oh.gif" alt="Ho-Oh">
+</p>
 
-Objet : Gs Ball
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Clear Bell / Rainbow Wing** |
+| ⚙️ Conditions requises | ❌ Aucune |
+| 🌍 Biomes | Flower Forest, Meadow, Sunflower Plains |
+| 🏷️ Tags | `#minecraft:sunflower_plains` • `#cobblemon:is_sky` • `#cobblemon:is_summer` |
 
-Conditions requises :
+---
 
-- None
+## ✨ Celebi
 
-Biomes / Tags :
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/celebi.gif" alt="Celebi">
+</p>
 
-- Birch Forest [minecraft:birch_forest]
-- Cherry Grove [minecraft:cherry_grove]
-- Dark Forest [minecraft:dark_forest]
-- Flower Forest [minecraft:flower_forest]
-- Forest [minecraft:forest]
-- Jungle [minecraft:jungle]
-- Mangrove Swamp [minecraft:mangrove_swamp]
-- Meadow [minecraft:meadow]
-- Old Growth Birch Forest [minecraft:old_growth_birch_forest]
-- Old Growth Pine Taiga [minecraft:old_growth_pine_taiga]
-- Old Growth Spruce Taiga [minecraft:old_growth_spruce_taiga]
-- Swamp [minecraft:swamp]
-- Is Forest [#cobblemon:is_forest]
-- Is Lush [#cobblemon:is_lush]
-- Is Magical [#cobblemon:is_magical]
-- Is Spring [#cobblemon:is_spring]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Gs Ball** |
+| ⚙️ Conditions requises | ❌ Aucune |
+| 🌍 Biomes | Birch Forest, Cherry Grove, Dark Forest, Flower Forest, Forest, Jungle, Mangrove Swamp, Meadow, Old Growth Birch Forest, Old Growth Pine Taiga, Old Growth Spruce Taiga, Swamp |
+| 🏷️ Tags | `#cobblemon:is_forest` • `#cobblemon:is_lush` • `#cobblemon:is_magical` • `#cobblemon:is_spring` |
 
 ---
 
