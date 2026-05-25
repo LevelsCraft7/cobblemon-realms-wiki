@@ -1,4 +1,4 @@
-# Contribuer au Wiki
+# Contribution
 
 Nous accueillons avec plaisir les contributions de la communauté.
 
