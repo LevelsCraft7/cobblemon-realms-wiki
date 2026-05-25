@@ -139,6 +139,8 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
 💡 Karfoal évolue au **niveau 50** avec l'objet **Épée en Diamant**
 
+![Karfoal](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Karfoal.png) ![Karfoal Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Karfoal_shiny.png)
+
 ---
 
 ## 🌊 Variantes Océaniques
@@ -157,7 +159,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
 💡 Delcaft évolue au **niveau 50** sous temps orageux
 
-![Delcalf](https://github.com/user-attachments/assets/38934e50-a8bd-41cd-b896-846ed6adf64a)
+![Delcalf](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Delcalf.png) ![Delcalf Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Delcalf_shiny.png)
 
 ---
 
@@ -177,6 +179,8 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
 💡 Zerpint évolue **la nuit** avec une **haute amitié**
 
+![Zerpint](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Zerpint.png) ![Zerpint Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Zerpint_shiny.png)
+
 ---
 
 ### 🧱 Regiclay
@@ -195,7 +199,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 - Regirock (à compléter)
 - Regice (à compléter)
 
-![Regiclay](https://github.com/user-attachments/assets/a3ef8099-58aa-46bc-ba76-1c17f182e566)
+![Regiclay](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Regiclay.png) ![Regiclay Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Regiclay_shiny.png)
 
 ---
 
@@ -209,7 +213,9 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🧬 Talent | Corps Sain / Fermeté (Caché) |
 | 📊 Stats | Tank premium robuste |
 
-💡 Regiclay évolue avec l'objet **Roche Royale**
+💡 Royal Carbink évolue avec l'objet **Roche Royale**
+
+![Royal Carbink](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Royal_carbink.png) ![Royal Carbink Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Royal_carbink_shiny.png)
 
 ---
 
@@ -229,6 +235,8 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
 💡 Giragrub évolue au **niveau 60** avec l'objet **Pierre Nuit**
 
+![Giragrub](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Giragrub.png) ![Giragrub Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Giragrub_shiny.png) 
+
 ---
 
 ### ⏳ Temga
@@ -242,6 +250,8 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 📊 Stats | Mur spécial lent |
 
 💡 Temga évolue **la nuit** avec une **haute amitié**
+
+![Temga](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Temga.png) ![Temga Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Temga_shiny.png)
 
 ---
 
@@ -257,6 +267,8 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 📊 Stats | Attaquant spécial rare |
 
 💡 Neonite évolue au **niveau 70** avec l'objet **Œuf de Dragon**
+
+![Neonite](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Neonite.png) ![Neonite Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Neonite_shiny.png)
 
 ---
 
