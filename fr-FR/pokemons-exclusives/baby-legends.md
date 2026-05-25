@@ -40,7 +40,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
   💡 Creslume évolue **la nuit** avec une **haute amitié**
 
-![Creslume](https://github.com/user-attachments/assets/f487b64f-a454-4ed7-9548-868f59b8e2a9)
+![Creslume](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Creslume.png) ![Creslume Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Creslume_shiny.png) 
 
 ---
 
