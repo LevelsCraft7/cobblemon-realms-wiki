@@ -1,16 +1,50 @@
+---
+
 # 🦅 Shadow Lugia
 
-Shadow Lugia is a Dark/Flying variant of Lugia.
+Shadow Lugia est une forme alternative de Lugia, orientée **Ténèbres / Vol**, axée sur l’offensive.
 
-## 📊 Details
+---
 
-- **Typing**: Dark & Flying
-- **Abilities**: Dark Aura (boosts Dark moves by 33%) / Hidden: Shadow Shield
-- **Moves**: Shadow Sneak, Pursuit, Taunt, Feint Attack, Snarl, Payback, Nasty Plot, Night Shade, Night Slash, Dark Pulse, Sucker Punch, Night Daze
+## 📊 Informations
 
-## 🧪 How to Obtain
+| 📌 Informations | 📋 Détails                                  |
+| --------------- | ------------------------------------------- |
+| ⚔️ Type         | Ténèbres / Vol                              |
+| 🧬 Talent       | Aura Ténébreuse / Bouclier Spectral (caché) |
+| 📊 Stats        | Attaque élevée, bulk réduit                 |
+| 🎯 Rôle         | Attaquant offensif                          |
 
-- Craft a **Shadow Energy**:
-  - Smithing Table: _Snout Armor Trim Template + Dark Gem + Mega Stone Crystal_
-- Right-click Lugia with the _Shadow Energy_.
-- Reversible using the same item.
+---
+
+## 🧪 Obtention
+
+* 🔧 Crafter **Shadow Energy** :
+  - Table de forge : Gabarit Armure Groin + Joyau Ténèbres + Cristal Méga-Gemme
+- 🎯 Clic droit sur **Lugia** avec la Shadow Energy
+- 🔁 Transformation réversible
+
+---
+
+## 📚 Pool de capacités
+
+* Ombre Portée
+* Poursuite
+* Provoc
+* Feinte
+* Clairvoyance Obscure
+* Balayage Nocturne
+* Machination
+* Ombre Nocturne
+* Tranche-Nuit
+* Vibrobscur
+* Coup Bas
+* Ailes Noires
+
+---
+
+## 🧾 Résumé
+
+Shadow Lugia est une version **très offensive et agressive**, conçue pour exercer une pression constante grâce à ses capacités Ténèbres et sa vitesse de tempo élevée.
+
+---
