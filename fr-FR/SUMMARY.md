@@ -37,7 +37,7 @@
 - [☀️ Fusions de Necrozma](pokemons-exclusives/necrozma-fusions.md)
 - [🌕 Ursaluna Bloodmoon](pokemons-exclusives/bloodmoon-ursaluna.md)
 - [💎 Onix de Cristal](pokemons-exclusives/crystal-onix.md)
-- [🥋 Evolutions de Kubfu](pokemons-exclusives/kubfu-evolutions.md)
+- [🥋 Evolutions de Wushours](pokemons-exclusives/kubfu-evolutions.md)
 - [⚡ Forme chargée de Meltan](pokemons-exclusives/meltan-charged.md)
 - [🦊 Évolutions supplémentaires d'Évoli](pokemons-exclusives/extra-eevee.md)
 - [🔌 Formes appareil de Motisma](pokemons-exclusives/rotom-forms.md)
