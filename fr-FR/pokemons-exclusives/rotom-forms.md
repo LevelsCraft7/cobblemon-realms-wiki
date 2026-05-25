@@ -1,15 +1,31 @@
-# ⚡ Rotom Forms
+# ⚡ Motisma - Formes
 
-Rotom can change forms by possessing appliances.
+Motisma peut changer de forme en possédant différents appareils.
 
-## 📍 Spawn Locations
+---
 
-- Woodland Mansions
-- Ancient Cities (Redstone Room)
-- Beaches during thunderstorms
-- Near Cobblemon Tech (PCs, Healers, etc.)
-- Near Redstone components
+## 📍 Localisation
 
-## 🔄 Changing Forms
+| 🌍 Lieu | ⚙️ Condition |
+|---|---|
+| Manoirs des bois | Intérieur |
+| Cités antiques | Salle Redstone |
+| Plages | Pendant un orage |
+| Structures Cobblemon Tech | PC / Healer |
+| Zones Redstone | Proximité composants |
 
-- Right-click Rotom while near an appliance or with a _Data Monitor_ to cycle forms.
+---
+
+## 🔄 Changement de forme
+
+- 🎯 Se placer près d’un appareil compatible
+- 🖱️ Clic droit sur Rotom
+- 📟 Ou utiliser un **Data Monitor**
+- 🔁 Les formes peuvent être cyclées
+
+---
+
+## 📝 Notes
+
+- Les formes dépendent de l’appareil ciblé
+- Motisma conserve ses stats de base
