@@ -1,64 +1,70 @@
 # 🧳 Luggage
 
-The **Luggage** mod brings back the iconic walking chest from OpenBlocks for modern Minecraft versions. It follows you, automatically scoops up dropped items, and offers a few quality‑of‑life controls to manage it easily.
+Le mod **Luggage** ramène le célèbre coffre ambulant d’OpenBlocks dans les versions modernes de Minecraft. Il vous suit, ramasse automatiquement les objets au sol et propose plusieurs commandes pratiques pour le gérer facilement.
 
 ---
 
-## ✨ Main Features
+## ✨ Fonctionnalités principales
 
-- **Follows you & picks up items**\
-  Luggage trails its owner and automatically collects nearby dropped items into its internal storage.
-
-- **Open inventory**\
-  Right‑click Luggage to access its storage at any time.
-
-- **Pick up as an item (data is preserved)**\
-  **Shift + Right‑click** Luggage to convert it back into an item.\
-  Its **contents, charged state, and custom name** are saved on the item.\
-  Its **contents, charged state, and custom name** are saved on the item.  
-  **Pick up as an item (data is preserved)**\
-  **Shift + Right‑click** Luggage to convert it back into an item.\
-  Its **contents, charged state, and custom name** are saved on the item.\
-  Its **contents, charged state, and custom name** are saved on the item.\
-  Its **contents, charged state, and custom name** are saved on the item.
-
-- **Charged Luggage = more space**\
-  If **struck by lightning**, Luggage becomes **charged** and its inventory size **doubles**.\
-  This state is also reflected by a different texture.\
-  This state is also reflected by a different texture.\
-  This state is also reflected by a different texture.  
-  This state is also reflected by a different texture.
+- **Suit le joueur & ramasse les objets**  
+  Luggage suit son propriétaire et récupère automatiquement les objets au sol à proximité dans son inventaire.
 
 ---
 
-## 🎮 Controls (Whistles)
-
-- **Call Whistle** — press the **\\`** key\
-                  Calls **all** Luggages you own to your position (they must be in **loaded chunks**).\
-                  After calling, there is a **10‑second cooldown** during which Luggage won’t collect items.   **Call Whistle** — press the **\\\`** key\
-  Calls **all** Luggages you own to your position (they must be in **loaded chunks**).\
-  After calling, there is a **10‑second cooldown** during which Luggage won’t collect items.\
-  After calling, there is a **10‑second cooldown** during which Luggage won’t collect items.
-
-- **Wait Whistle** — **Alt + \\\\\\\\\\\`**\
-  Toggles **wait** for your nearby Luggages (within 8 blocks).\
-  While waiting, they visibly “sweat”.\
-  While waiting, they visibly “sweat”.\
-  While waiting, they visibly “sweat”.  
-  While waiting, they visibly “sweat”. Press again to release them.
-
-> You can rebind these keys in the game controls menu.
+- **Ouvrir l’inventaire**  
+  Clic droit sur le Luggage pour accéder à son stockage à tout moment.
 
 ---
 
-## 🔧 Tips
+- **Récupération en item (données conservées)**  
+  **Shift + clic droit** permet de transformer le Luggage en objet.
 
-- Use Luggage as a **mobile mining bag** so you waste less time managing drops.
-- Convert it to an **item** when you need to move bases or keep it safe during travel.
-- If it wanders off or gets stuck, **Call Whistle** to bring it back instantly (as long as it’s loaded).
+  Les éléments conservés :
+  - Contenu de l’inventaire  
+  - État chargé  
+  - Nom personnalisé  
 
 ---
 
-## 📌 Summary
+- **⚡ Luggage chargé = plus d’espace**  
+  S’il est frappé par la foudre, le Luggage devient **chargé** :
+  - Sa capacité est doublée  
+  - Son apparence change  
 
-**Luggage** is a compact, reliable companion: it follows you, picks up loot, can be stowed as an item with all data preserved, and can be **charged** by lightning to double its storage. The whistle controls make handling multiple Luggages simple and efficient.
+---
+
+## 🎮 Contrôles (Sifflets)
+
+### 📣 Sifflet d’appel
+Touche **\`**
+
+- Rappelle tous vos Luggages à votre position  
+- Nécessite des chunks chargés  
+- Active un cooldown de **10 secondes** pendant lequel ils ne ramassent pas d’objets  
+
+---
+
+### ⏸️ Sifflet d’attente
+**Alt + \`**
+
+- Met les Luggages proches (8 blocs) en mode attente  
+- Ils “transpirent” visuellement pendant ce mode  
+- Appuyez à nouveau pour les libérer  
+
+---
+
+> ⚙️ Les touches peuvent être modifiées dans les paramètres de contrôle Minecraft.
+
+---
+
+## 🔧 Conseils
+
+- Utilisez le Luggage comme **sac de minage mobile**  
+- Convertissez-le en objet pour sécuriser vos déplacements  
+- Utilisez le sifflet d’appel s’il se perd ou reste bloqué (chunk chargé requis)
+
+---
+
+## 📌 Résumé
+
+Le **Luggage** est un compagnon de stockage mobile : il suit le joueur, ramasse les objets automatiquement et peut être amélioré via la foudre. Les sifflets permettent une gestion simple et efficace, même avec plusieurs Luggages.
