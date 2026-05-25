@@ -1,7 +1,6 @@
 # 🌊 Ash Greninja (Forme Battle Bond)
 
-Ash Greninja est une forme spéciale de Greninja reconnaissable à ses **marquages sombres sur la tête**.  
-Il ne s’agit pas d’une évolution classique, mais d’une mécanique basée sur le **lien d’amitié** et une interaction d’objets.
+Ash Greninja est une forme spéciale de Greninja reconnaissable à ses **marquages sombres sur la tête**. Il ne s’agit pas d’une évolution classique, mais d’une mécanique basée sur le **lien d’amitié** et une interaction d’objets.
 
 ---
 
