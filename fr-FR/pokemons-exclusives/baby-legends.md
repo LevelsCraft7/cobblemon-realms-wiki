@@ -372,7 +372,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
 💡 Haidon évolue par **échange** avec l'objet **Croc Dragon**
 
-![Haidon and Kaidon](https://github.com/user-attachments/assets/01f29a28-f0b3-4844-9cd6-f6f61e016521)
+![Haidon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Haidon.png) ![Haidon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Haidon_shiny.png)
 
 ---
 
@@ -388,6 +388,8 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
 💡 Kaidon évolue par **échange** avec l'objet **Électriseur**
 
+![Kaidon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Kaidon.png) ![Kaidon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Kaidon_shiny.png)
+
 ---
 
 ### 🌑 Beta
@@ -401,6 +403,8 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 📊 Stats | Statistiques équilibrées |
 
 💡 Beta évolue par **au niveau 80** avec l'objet **Étoile du Nether**
+
+![Beta](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Beta.png) ![Beta Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Beta_shiny.png)
 
 ---
 
