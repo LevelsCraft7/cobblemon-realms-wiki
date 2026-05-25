@@ -352,268 +352,361 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 🏷️ Tags | `#cobblemon:is_end` |
 ---
 
-# Génération 4 [Sinnoh]
+# 🌍 Génération 4 — Sinnoh
 
-[↑ Retour en haut](#top)
+[⬆️ Retour en haut](#top)
 
 ---
 
 ## ✨ Mesprit
 
-| Champ | Détails |
-|------|--------|
-| ![Mesprit](https://play.pokemonshowdown.com/sprites/ani/mesprit.gif) |  |
-| **Objet requis** | Mesprit Plume |
-| **Conditions** | Aucune |
-| **Biomes / Tags** | Mangrove Swamp, Swamp, Ice Marsh, Orchid Swamp, Billabong, Lantern River, Tropical Forest River, `#minecraft:is_river`, `#cobblemon:is_freshwater`, `#cobblemon:is_river`, `#byg:is_swamp`, `#c:swamp`, `#forge:is_swamp`, `#wythers:is_swamp` |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/mesprit.gif" alt="Mesprit">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Mesprit Plume |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Mangrove Swamp, Swamp, Ice Marsh, Orchid Swamp, Billabong, Lantern River, Tropical Forest River |
+| 🏷️ Tags | `#minecraft:is_river` • `#cobblemon:is_freshwater` • `#cobblemon:is_river` • `#byg:is_swamp` • `#c:swamp` • `#forge:is_swamp` • `#wythers:is_swamp` |
 
 ---
 
 ## 🔥 Azelf
 
-| Champ | Détails |
-|------|--------|
-| ![Azelf](https://play.pokemonshowdown.com/sprites/ani/azelf.gif) |  |
-| **Objet requis** | Azelf Fang |
-| **Conditions** | Aucune |
-| **Biomes / Tags** | Mangrove Swamp, Swamp, Ice Marsh, Orchid Swamp, Billabong, Lantern River, Tropical Forest River, `#minecraft:is_river`, `#cobblemon:is_freshwater`, `#cobblemon:is_river`, `#byg:is_swamp`, `#c:swamp`, `#forge:is_swamp`, `#wythers:is_swamp` |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/azelf.gif" alt="Azelf">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Azelf Fang |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Mangrove Swamp, Swamp, Ice Marsh, Orchid Swamp, Billabong, Lantern River, Tropical Forest River |
+| 🏷️ Tags | idem Mesprit |
 
 ---
 
 ## ⏳ Dialga
 
-| Champ | Détails |
-|------|--------|
-| ![Dialga](https://play.pokemonshowdown.com/sprites/ani/dialga.gif) |  |
-| **Objet requis** | Adamant Orb |
-| **Conditions** | Aucune |
-| **Biomes / Tags** | Mountain Edge, Stony Peaks, `#cobblemon:is_highlands`, `#cobblemon:is_mountain`, `#cobblemon:is_peak` |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/dialga.gif" alt="Dialga">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Adamant Orb |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Mountain Edge, Stony Peaks |
+| 🏷️ Tags | `#cobblemon:is_highlands` • `#cobblemon:is_mountain` • `#cobblemon:is_peak` |
 
 ---
 
 ## 🌌 Palkia
 
-| Champ | Détails |
-|------|--------|
-| ![Palkia](https://play.pokemonshowdown.com/sprites/ani/palkia.gif) |  |
-| **Objet requis** | Lustrous Orb |
-| **Conditions** | Aucune |
-| **Biomes / Tags** | End Barrens, End Highlands, End Midlands, Small End Islands, The End, Skylands Winter, `#cobblemon:is_end` |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/palkia.gif" alt="Palkia">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Lustrous Orb |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | End Barrens, End Highlands, End Midlands, Small End Islands, The End, Skylands Winter |
+| 🏷️ Tags | `#cobblemon:is_end` |
 
 ---
 
 ## 🌋 Heatran
 
-| Champ | Détails |
-|------|--------|
-| ![Heatran](https://play.pokemonshowdown.com/sprites/ani/heatran.gif) |  |
-| **Objet requis** | Magma Stone |
-| **Conditions** | Aucune |
-| **Biomes / Tags** | Basalt Deltas, Crimson Forest, Nether Wastes |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/heatran.gif" alt="Heatran">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Magma Stone |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Basalt Deltas, Crimson Forest, Nether Wastes |
+| 🏷️ Tags | Aucune |
 
 ---
 
 ## 🗿 Regigigas
 
-| Champ | Détails |
-|------|--------|
-| ![Regigigas](https://play.pokemonshowdown.com/sprites/ani/regigigas.gif) |  |
-| **Objet requis** | Ancient Tablet |
-| **Conditions** | Aucune |
-| **Biomes / Tags** | Savanna Plateau, Ashen Savanna, Fractured Savanna, Savanna Badlands, Savanna Slopes, `#minecraft:is_savanna`, `#minecraft:savanna_plateau`, `#cobblemon:is_deep_dark`, `#cobblemon:is_savanna`, `#wythers:is_dark_forest` |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/regigigas.gif" alt="Regigigas">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Ancient Tablet |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Savanna Plateau, Ashen Savanna, Fractured Savanna, Savanna Slopes |
+| 🏷️ Tags | `#minecraft:is_savanna` • `#minecraft:savanna_plateau` • `#cobblemon:is_savanna` • `#wythers:is_dark_forest` |
 
 ---
 
 ## 👁️ Giratina
 
-| Champ | Détails |
-|------|--------|
-| ![Giratina](https://play.pokemonshowdown.com/sprites/ani/giratina.gif) |  |
-| **Objet requis** | Griseous Orb |
-| **Conditions** | Aucune |
-| **Biomes / Tags** | Soul Sand Valley, The End, `#cobblemon:is_nether`, `#cobblemon:is_nether_wasteland`, `#cobblemon:is_spooky` |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/giratina.gif" alt="Giratina">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Griseous Orb |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Soul Sand Valley, The End |
+| 🏷️ Tags | `#cobblemon:is_nether` • `#cobblemon:is_nether_wasteland` • `#cobblemon:is_spooky` |
 
 ---
 
 ## 🌙 Cresselia
 
-| Champ | Détails |
-|------|--------|
-| ![Cresselia](https://play.pokemonshowdown.com/sprites/ani/cresselia.gif) |  |
-| **Objet requis** | Lunar Feather |
-| **Conditions** | 🌙 Phase lunaire : Waning Gibbous<br>🌌 Ciel non bloqué<br>🕒 Nuit uniquement |
-| **Biomes / Tags** | Mushroom Field Shore, Mushroom Fields, Snowy Tundra |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/cresselia.gif" alt="Cresselia">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Lunar Feather |
+| ⚙️ Conditions requises | 🌙 Waning Gibbous • 🌌 Ciel non bloqué • 🕒 Nuit |
+| 🌍 Biomes | Mushroom Fields, Mushroom Field Shore, Snowy Tundra |
+| 🏷️ Tags | Aucune |
 
 ---
 
 ## 🌑 Darkrai
 
-| Champ | Détails |
-|------|--------|
-| ![Darkrai](https://play.pokemonshowdown.com/sprites/ani/darkrai.gif) |  |
-| **Objet requis** | Member Card |
-| **Conditions** | Aucune |
-| **Biomes / Tags** | Dark Forest, Swamp, `#cobblemon:is_dark`, `#cobblemon:is_deep_dark`, `#cobblemon:is_spooky` |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/darkrai.gif" alt="Darkrai">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Member Card |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Dark Forest, Swamp |
+| 🏷️ Tags | `#cobblemon:is_dark` • `#cobblemon:is_deep_dark` • `#cobblemon:is_spooky` |
 
 ---
 
 ## 🌸 Shaymin
 
-| Champ | Détails |
-|------|--------|
-| ![Shaymin](https://play.pokemonshowdown.com/sprites/ani/shaymin.gif) |  |
-| **Objet requis** | Oak’s Letter |
-| **Conditions** | Aucune |
-| **Biomes / Tags** | Flower Forest, Meadow, Sunflower Plains, Blooming Plateau, Blooming Valley, Lavender Valley, Sakura Grove, Sakura Valley, `#cobblemon:is_floral`, `#cobblemon:is_grassland`, `#cobblemon:is_lush` |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/shaymin.gif" alt="Shaymin">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Oak’s Letter |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Flower Forest, Meadow, Sunflower Plains, Blooming Plateau, Blooming Valley, Lavender Valley, Sakura Grove, Sakura Valley |
+| 🏷️ Tags | `#cobblemon:is_floral` • `#cobblemon:is_grassland` • `#cobblemon:is_lush` |
 
 ---
 
 ## ✨ Arceus
 
-| Champ | Détails |
-|------|--------|
-| ![Arceus](https://play.pokemonshowdown.com/sprites/ani/arceus.gif) |  |
-| **Objet requis** | Azure Flute |
-| **Conditions** | Aucune |
-| **Biomes / Tags** | Dark Forest, End Barrens, End Highlands, End Midlands, Small End Islands, The End, Skyris Vale, Amethyst Canyon, Amethyst Rainforest, Mirage Isles, Moonlight Grove, Moonlight Valley, Lantern River, Mushroom Island, Snowy Thermal Taiga, `#cobblemon:is_end`, `#byg:is_magical`, `#wythers:is_dark_forest` |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/arceus.gif" alt="Arceus">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Azure Flute |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Dark Forest, End Barrens, End Highlands, End Midlands, Small End Islands, The End, Mirage Isles, Moonlight Grove, Moonlight Valley |
+| 🏷️ Tags | `#cobblemon:is_end` • `#byg:is_magical` • `#wythers:is_dark_forest` |
 
 ---
 
-# Génération 5 [Unys]
+# 🌍 Génération 5 — Unys
 
-[↑ Retour en haut](#top)
+[⬆️ Retour en haut](#top)
 
 ---
 
 ## 🔥 Victini
 
-| Champ | Détails |
-|------|--------|
-| ![Victini](https://play.pokemonshowdown.com/sprites/ani/victini.gif) | |
-| **Objet requis** | Liberty Pass |
-| **Conditions** | Aucune |
-| **Biomes / Tags** | Badlands, Eroded Badlands, Savanna, `#cobblemon:is_savanna`, `#cobblemon:is_thermal`, `#cobblemon:is_volcanic` |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/victini.gif" alt="Victini">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Liberty Pass |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Badlands, Eroded Badlands, Savanna |
+| 🏷️ Tags | `#cobblemon:is_savanna` • `#cobblemon:is_thermal` • `#cobblemon:is_volcanic` |
 
 ---
 
 ## ⚔️ Cobalion
 
-| Champ | Détails |
-|------|--------|
-| ![Cobalion](https://play.pokemonshowdown.com/sprites/ani/cobalion.gif) | |
-| **Objet requis** | Ironwill Sword |
-| **Conditions** | Aucune |
-| **Biomes / Tags** | Blooming Valley, Forested Highlands, Lavender Valley, Lush Valley, Moonlight Valley, Sakura Valley, Savanna Slopes, Stony Spires, Temperate Highlands, Volcanic Peaks, Windswept Spires, Yosemite Cliffs, Yosemite Lowlands, Autumnal Crags, Ayers Rock, Icy Crags, Old Growth Taiga Crags, Taiga Crags, Temperate Rainforest Crags, Thermal Taiga Crags, Tibesti Mountains, Windswept Jungle, `#minecraft:is_hill`, `#minecraft:is_mountain`, `#cobblemon:is_highlands`, `#cobblemon:is_hills`, `#c:mountain_slope`, `#forge:is_mountain`, `#forge:is_slope` |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/cobalion.gif" alt="Cobalion">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Ironwill Sword |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Blooming Valley, Forested Highlands, Lavender Valley, Lush Valley, Moonlight Valley, Sakura Valley, Savanna Slopes |
+| 🏷️ Tags | `#cobblemon:is_highlands` • `#minecraft:is_mountain` • `#minecraft:is_hill` |
 
 ---
 
-## ⚔️ Terrakion
+## 🐂 Terrakion
 
-| Champ | Détails |
-|------|--------|
-| ![Terrakion](https://play.pokemonshowdown.com/sprites/ani/terrakion.gif) | |
-| **Objet requis** | Cavern Shield |
-| **Conditions** | Aucune |
-| **Biomes / Tags** | (identique Cobalion : biomes montagneux / highlands / crags / spires) |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/terrakion.gif" alt="Terrakion">
+</p>
 
----
-
-## ⚔️ Virizion
-
-| Champ | Détails |
-|------|--------|
-| ![Virizion](https://play.pokemonshowdown.com/sprites/ani/virizion.gif) | |
-| **Objet requis** | Grassland Blade |
-| **Conditions** | Aucune |
-| **Biomes / Tags** | Blooming / Sakura / Lavender Valleys, Forested Highlands, Taiga Crags, Windswept Jungle, `#cobblemon:is_lush`, `#cobblemon:is_grassland` |
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Cavern Shield |
+| ⚙️ Conditions requises | Aucune |
+| 📍 Biomes | idem Cobalion |
+| 🏷️ Tags | idem Cobalion |
 
 ---
 
-## 🌪 Tornadus
+## 🦌 Virizion
 
-| Champ | Détails |
-|------|--------|
-| ![Tornadus](https://play.pokemonshowdown.com/sprites/ani/tornadus.gif) | |
-| **Objet requis** | Reveal Glass |
-| **Conditions** | Il doit y avoir du tonnerre (la pluie ne compte pas) |
-| **Biomes / Tags** | Bamboo Jungle, Jungle, Jungle Edge |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/virizion.gif" alt="Virizion">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Grassland Blade |
+| ⚙️ Conditions requises | Aucune |
+| 📍 Biomes | idem Cobalion |
+| 🏷️ Tags | idem Cobalion |
+
+---
+
+## 🌪️ Tornadus
+
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/tornadus.gif" alt="Tornadus">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Reveal Glass |
+| ⚙️ Conditions requises | Orage uniquement |
+| 🌍 Biomes | Bamboo Jungle, Jungle, Jungle Edge |
+| 🏷️ Tags | Aucune |
 
 ---
 
 ## ⚡ Thundurus
 
-| Champ | Détails |
-|------|--------|
-| ![Thundurus](https://play.pokemonshowdown.com/sprites/ani/thundurus.gif) | |
-| **Objet requis** | Reveal Glass |
-| **Conditions** | Il doit y avoir du tonnerre (la pluie ne compte pas) |
-| **Biomes / Tags** | Badlands, Mountains, Plains |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/thundurus.gif" alt="Thundurus">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Reveal Glass |
+| ⚙️ Conditions requises | Orage uniquement |
+| 🌍 Biomes | Badlands, Mountains, Plains |
+| 🏷️ Tags | Aucune |
 
 ---
 
-## 🌍 Landorus
+## ☀️ Reshiram
 
-| Champ | Détails |
-|------|--------|
-| ![Landorus](https://play.pokemonshowdown.com/sprites/ani/landorus.gif) | |
-| **Objet requis** | Reveal Glass |
-| **Conditions** | Il doit y avoir du tonnerre (la pluie ne compte pas) |
-| **Biomes / Tags** | Desert, Savanna, Sunflower Plains |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/reshiram.gif" alt="Reshiram">
+</p>
 
----
-
-## 🔥 Reshiram
-
-| Champ | Détails |
-|------|--------|
-| ![Reshiram](https://play.pokemonshowdown.com/sprites/ani/reshiram.gif) | |
-| **Objet requis** | Light Stone |
-| **Conditions** | Niveau de luminosité 8–15 |
-| **Biomes / Tags** | Desert, Savanna, Sunflower Plains |
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Light Stone |
+| ⚙️ Conditions requises | Light level 8–15 |
+| 🌍 Biomes | Desert, Savanna, Sunflower Plains |
+| 🏷️ Tags | Aucune |
 
 ---
 
 ## 🌑 Zekrom
 
-| Champ | Détails |
-|------|--------|
-| ![Zekrom](https://play.pokemonshowdown.com/sprites/ani/zekrom.gif) | |
-| **Objet requis** | Dark Stone |
-| **Conditions** | Niveau de luminosité 0–7 |
-| **Biomes / Tags** | Dark Forest, Roofed Forest, Swamp |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/zekrom.gif" alt="Zekrom">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Dark Stone |
+| ⚙️ Conditions requises | Light level 0–7 |
+| 🌍 Biomes | Dark Forest, Roofed Forest, Swamp |
+| 🏷️ Tags | Aucune |
 
 ---
 
-## ❄️ Kyurem
+## 🌫️ Kyurem
 
-| Champ | Détails |
-|------|--------|
-| ![Kyurem](https://play.pokemonshowdown.com/sprites/ani/kyurem.gif) | |
-| **Objet requis** | DNA Splicer |
-| **Conditions** | Aucune |
-| **Biomes / Tags** | Frozen Peaks, Snowy Slopes, Snowy Taiga, `#cobblemon:is_freezing`, `#cobblemon:is_glacial`, `#cobblemon:is_snowy_forest` |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/kyurem.gif" alt="Kyurem">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | DNA Splicer |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Frozen Peaks, Snowy Slopes, Snowy Taiga |
+| 🏷️ Tags | `#cobblemon:is_freezing` • `#cobblemon:is_glacial` • `#cobblemon:is_snowy_forest` |
 
 ---
 
-## 🌸 Meloetta
+## 🐎 Keldeo
 
-| Champ | Détails |
-|------|--------|
-| ![Meloetta](https://play.pokemonshowdown.com/sprites/ani/meloetta.gif) | |
-| **Objet requis** | Meloetta Headset |
-| **Conditions** | Aucune |
-| **Biomes / Tags** | Flower Forest, Meadow, Sunflower Plains, Cherry Grove, Floral tags (`#c:floral`, `#cobblemon:is_lush`) |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/keldeo.gif" alt="Keldeo">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Sacred Sword |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Blooming Valley, Forested Highlands, Lavender Valley, Lush Valley, Moonlight Valley, Sakura Valley |
+| 🏷️ Tags | `#cobblemon:is_highlands` |
+
+---
+
+## 🎭 Meloetta
+
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/meloetta.gif" alt="Meloetta">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Meloetta Headset |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Flower Forest, Meadow, Sunflower Plains, Cherry Grove |
+| 🏷️ Tags | `#cobblemon:is_floral` • `#cobblemon:is_grassland` • `#cobblemon:is_lush` |
 
 ---
 
 ## 🧬 Genesect
 
-| Champ | Détails |
-|------|--------|
-| ![Genesect](https://play.pokemonshowdown.com/sprites/ani/genesect.gif) | |
-| **Objet requis** | Genesect Drive |
-| **Conditions** | Iron block nearby |
-| **Biomes / Tags** | End biomes, Deep Dark, `#cobblemon:is_deep_dark` |
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/genesect.gif" alt="Genesect">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | Genesect Drive |
+| ⚙️ Conditions requises | 🧱 Bloc proche requis : Iron Block |
+| 🌍 Biomes | End Barrens, End Highlands, End Midlands, Small End Islands, The End |
+| 🏷️ Tags | `#cobblemon:is_deep_dark` |
+
 ---
 
 # Génération 6 [Kalos]
