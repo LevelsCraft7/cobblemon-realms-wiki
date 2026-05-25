@@ -569,8 +569,8 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 |---|---|
 | 📦 Objet requis | Cavern Shield |
 | ⚙️ Conditions requises | Aucune |
-| 📍 Biomes | idem Cobalion |
-| 🏷️ Tags | idem Cobalion |
+| 🌍 Biomes | Blooming Valley, Forested Highlands, Lavender Valley, Lush Valley, Moonlight Valley, Sakura Valley, Savanna Slopes |
+| 🏷️ Tags | `#cobblemon:is_highlands` • `#minecraft:is_mountain` • `#minecraft:is_hill` |
 
 ---
 
@@ -584,8 +584,8 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 |---|---|
 | 📦 Objet requis | Grassland Blade |
 | ⚙️ Conditions requises | Aucune |
-| 📍 Biomes | idem Cobalion |
-| 🏷️ Tags | idem Cobalion |
+| 🌍 Biomes | Blooming Valley, Forested Highlands, Lavender Valley, Lush Valley, Moonlight Valley, Sakura Valley, Savanna Slopes |
+| 🏷️ Tags | `#cobblemon:is_highlands` • `#minecraft:is_mountain` • `#minecraft:is_hill` |
 
 ---
 
