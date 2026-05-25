@@ -170,7 +170,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 ## 🌈 Ho-Oh
 
 <p align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/ho-oh.gif" alt="Ho-Oh">
+  <img src="[https://play.pokemonshowdown.com/sprites/ani/ho-oh.gif](https://www.pokepedia.fr/images/9/9f/Sprite_0250_XY.png)" alt="Ho-Oh">
 </p>
 
 | 📌 Informations | 📋 Détails |
