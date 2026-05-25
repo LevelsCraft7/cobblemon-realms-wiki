@@ -26,7 +26,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 
 ---
 
-## ❄️ Articuno
+## ❄️ Artikodin
 
 <p align="center">
   <img src="https://play.pokemonshowdown.com/sprites/ani/articuno.gif" alt="Articuno">
@@ -41,7 +41,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 
 ---
 
-## ⚡ Zapdos
+## ⚡ Électhor
 
 <p align="center">
   <img src="https://play.pokemonshowdown.com/sprites/ani/zapdos.gif" alt="Zapdos">
@@ -56,7 +56,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 
 ---
 
-## 🔥 Moltres
+## 🔥 Sulfura
 
 <p align="center">
   <img src="https://play.pokemonshowdown.com/sprites/ani/moltres.gif" alt="Moltres">
