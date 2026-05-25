@@ -18,7 +18,7 @@ Aller à une région :
 
 ---
 
-Chaque fiche indique l’objet requis, les conditions particulières et tous les biomes/tags valides.
+Chaque fiche précise l’objet nécessaire, les conditions spécifiques et l’ensemble des biomes et tags compatibles.
 
 # 🌍 Génération 1 — Kanto
 
@@ -35,7 +35,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Tidal Bell** |
-| ⚙️ Conditions requises | 🧊 3 Ice Stones dans l’inventaire |
+| ⚙️ Conditions requises | 🧊 3 Pierres Glace dans l’inventaire |
 | 🌍 Biomes | Frozen Ocean, Frozen Peaks, Frozen River, Snowy Beach, Snowy Plains, Snowy Slopes, Snowy Taiga |
 | 🏷️ Tags | `#cobblemon:is_cold` • `#cobblemon:is_freezing` • `#cobblemon:is_frozen_ocean` • `#cobblemon:is_glacial` • `#cobblemon:is_snowy_forest` |
 
@@ -50,7 +50,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Tidal Bell** |
-| ⚙️ Conditions requises | ⚡ 3 Thunder Stones dans l’inventaire |
+| ⚙️ Conditions requises | ⚡ 3 Pierres Foudre dans l’inventaire |
 | 🌍 Biomes | Plains, Savanna |
 | 🏷️ Tags | `#cobblemon:is_mountain` • `#cobblemon:is_sky` |
 
@@ -65,7 +65,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Tidal Bell** |
-| ⚙️ Conditions requises | 🔥 3 Fire Stones dans l’inventaire |
+| ⚙️ Conditions requises | 🔥 3 Pierres Feu dans l’inventaire |
 | 🌍 Biomes | Badlands, Windswept Hills |
 | 🏷️ Tags | `#cobblemon:is_sky` • `#cobblemon:is_thermal` • `#cobblemon:is_volcanic` |
 
@@ -80,7 +80,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Dr Fujis Diary** |
-| ⚙️ Conditions requises | ❌ Aucune |
+| ⚙️ Conditions requises | Aucune |
 | 🌍 Biomes | Dark Forest, Deep Dark, Windswept Gravelly Hills |
 | 🏷️ Tags | `#cobblemon:is_cave` • `#cobblemon:is_deep_dark` • `#cobblemon:is_spooky` |
 
@@ -95,7 +95,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Old Sea Map** |
-| ⚙️ Conditions requises | ❌ Aucune |
+| ⚙️ Conditions requises | Aucune |
 | 🌍 Biomes | Bamboo Jungle, Jungle |
 | 🏷️ Tags | `#cobblemon:is_bamboo` • `#cobblemon:is_jungle` • `#cobblemon:is_lush` |
 
@@ -116,7 +116,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Clear Bell** |
-| ⚙️ Conditions requises | ⚡ 3 Thunder Stones dans l’inventaire |
+| ⚙️ Conditions requises | ⚡ 3 Pierres Foudre dans l’inventaire |
 | 🌍 Biomes | Plains, Savanna, Savanna Plateau |
 | 🏷️ Tags | `#cobblemon:is_arid` • `#cobblemon:is_grassland` • `#cobblemon:is_plains` |
 
@@ -131,7 +131,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Clear Bell** |
-| ⚙️ Conditions requises | 🔥 3 Fire Stones dans l’inventaire |
+| ⚙️ Conditions requises | 🔥 3 Pierres Feu dans l’inventaire |
 | 🌍 Biomes | Badlands, Eroded Badlands, Nether Wastes, Savanna, Windswept Forest, Windswept Hills |
 | 🏷️ Tags | `#cobblemon:is_badlands` • `#cobblemon:is_thermal` • `#cobblemon:is_volcanic` |
 
@@ -146,7 +146,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Clear Bell** |
-| ⚙️ Conditions requises | 💧 3 Water Stones dans l’inventaire |
+| ⚙️ Conditions requises | 💧 3 Pierres Eau dans l’inventaire |
 | 🌍 Biomes | Frozen River, River |
 | 🏷️ Tags | `#cobblemon:is_cold_ocean` • `#cobblemon:is_freshwater` |
 
@@ -161,7 +161,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Tidal Bell / Silver Wing** |
-| ⚙️ Conditions requises | ❌ Aucune |
+| ⚙️ Conditions requises | Aucune |
 | 🌍 Biomes | Deep Ocean, Ocean |
 | 🏷️ Tags | `#minecraft:is_deep_ocean` • `#cobblemon:is_cold_ocean` • `#cobblemon:is_deep_ocean` • `#cobblemon:is_ocean` |
 
@@ -176,7 +176,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Clear Bell / Rainbow Wing** |
-| ⚙️ Conditions requises | ❌ Aucune |
+| ⚙️ Conditions requises | Aucune |
 | 🌍 Biomes | Flower Forest, Meadow, Sunflower Plains |
 | 🏷️ Tags | `#minecraft:sunflower_plains` • `#cobblemon:is_sky` • `#cobblemon:is_summer` |
 
@@ -191,7 +191,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Gs Ball** |
-| ⚙️ Conditions requises | ❌ Aucune |
+| ⚙️ Conditions requises | Aucune |
 | 🌍 Biomes | Birch Forest, Cherry Grove, Dark Forest, Flower Forest, Forest, Jungle, Mangrove Swamp, Meadow, Old Growth Birch Forest, Old Growth Pine Taiga, Old Growth Spruce Taiga, Swamp |
 | 🏷️ Tags | `#cobblemon:is_forest` • `#cobblemon:is_lush` • `#cobblemon:is_magical` • `#cobblemon:is_spring` |
 
@@ -227,7 +227,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Ice Tablet / Ancient Tablet** |
-| ⚙️ Conditions requises | ❌ Aucune |
+| ⚙️ Conditions requises | Aucune |
 | 🌍 Biomes | Frozen River, Jagged Peaks, Snowy Beach, Snowy Plains, Snowy Slopes, Cardinal Tundra, Emerald Peaks, Scarlet Mountains, Skylands Winter, Snowy Badlands, Berry Bog, Crimson Tundra, Frozen Island, Snowy Bog, Snowy Canyon, Snowy Peaks, Snowy Tundra |
 | 🏷️ Tags | `#cobblemon:is_freezing` • `#cobblemon:is_frozen_ocean` • `#cobblemon:is_glacial` • `#cobblemon:is_peak` • `#cobblemon:is_snowy_forest` • `#cobblemon:is_taiga` • `#cobblemon:is_tundra` • `#byg:is_cold` • `#byg:is_snowy` • `#c:climate_cold` • `#c:snowy` • `#forge:is_cold/overworld` • `#forge:is_snowy` |
 
@@ -242,7 +242,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Stone Tablet / Ancient Tablet** |
-| ⚙️ Conditions requises | 🧱 Bloc requis à proximité : **Iron Block** |
+| ⚙️ Conditions requises | Bloc de fer à proximité |
 | 🌍 Biomes | Deep Dark, Village |
 | 🏷️ Tags | `#cobblemon:is_deep_dark` |
 
@@ -257,7 +257,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Eon Ticket** |
-| ⚙️ Conditions requises | ❌ Aucune |
+| ⚙️ Conditions requises | Aucune |
 | 🌍 Biomes | Birch Forest, Flower Forest, Mirage Isles |
 | 🏷️ Tags | `#cobblemon:is_beach` • `#cobblemon:is_coast` • `#cobblemon:is_temperate` |
 
@@ -272,7 +272,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Eon Ticket** |
-| ⚙️ Conditions requises | ❌ Aucune |
+| ⚙️ Conditions requises | Aucune |
 | 🌍 Biomes | Mountain Edge, Plains, Mirage Isles |
 | 🏷️ Tags | `#cobblemon:is_beach` • `#cobblemon:is_coast` • `#cobblemon:is_temperate` |
 
@@ -287,7 +287,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Blue Orb** |
-| ⚙️ Conditions requises | ❌ Aucune |
+| ⚙️ Conditions requises | Aucune |
 | 🌍 Biomes | Deep Cold Ocean, Deep Frozen Ocean, Deep Ocean, Ocean |
 | 🏷️ Tags | `#cobblemon:is_deep_ocean` • `#cobblemon:is_ocean` |
 
@@ -302,7 +302,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Red Orb** |
-| ⚙️ Conditions requises | ❌ Aucune |
+| ⚙️ Conditions requises | Aucune |
 | 🌍 Biomes | Badlands, Desert, Eroded Badlands |
 | 🏷️ Tags | `#cobblemon:is_arid` • `#cobblemon:is_desert` • `#cobblemon:is_thermal` • `#cobblemon:is_volcanic` |
 
@@ -317,7 +317,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Jade Orb** |
-| ⚙️ Conditions requises | ❌ Aucune |
+| ⚙️ Conditions requises | Aucune |
 | 🌍 Biomes | End Highlands, Skylands Autumn, Skylands Spring, Skylands Summer, Skylands Winter |
 | 🏷️ Tags | `#minecraft:is_end` • `#minecraft:is_jungle` • `#cobblemon:is_end` • `#cobblemon:is_highlands` • `#cobblemon:is_jungle` • `#cobblemon:is_sky` |
 
@@ -332,7 +332,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Bonus Disk** |
-| ⚙️ Conditions requises | ❌ Aucune |
+| ⚙️ Conditions requises | Aucune |
 | 🌍 Biomes | Mushroom Fields, Windswept Gravelly Hills |
 | 🏷️ Tags | `#cobblemon:is_magical` • `#cobblemon:is_sparse` |
 
@@ -347,9 +347,10 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Aurora Ticket** |
-| ⚙️ Conditions requises | ❌ Aucune |
+| ⚙️ Conditions requises | Aucune |
 | 🌍 Biomes | End Barrens, End Highlands, End Midlands, Small End Islands, The End |
 | 🏷️ Tags | `#cobblemon:is_end` |
+
 ---
 
 # 🌍 Génération 4 — Sinnoh
@@ -472,7 +473,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | Lunar Feather |
-| ⚙️ Conditions requises | 🌙 Waning Gibbous • 🌌 Ciel non bloqué • 🕒 Nuit |
+| ⚙️ Conditions requises | 🌙 Lune gibbeuse décroissante • 🌌 Ciel non obstrué • 🕒 Nuit |
 | 🌍 Biomes | Mushroom Fields, Mushroom Field Shore, Snowy Tundra |
 | 🏷️ Tags | Aucune |
 
@@ -628,7 +629,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | Light Stone |
-| ⚙️ Conditions requises | Light level 8–15 |
+| ⚙️ Conditions requises |Niveau de lumière : 8 à 15 💡 |
 | 🌍 Biomes | Desert, Savanna, Sunflower Plains |
 | 🏷️ Tags | Aucune |
 
@@ -643,7 +644,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | Dark Stone |
-| ⚙️ Conditions requises | Light level 0–7 |
+| ⚙️ Conditions requises | Niveau de lumière : 0 à 7 💡 |
 | 🌍 Biomes | Dark Forest, Roofed Forest, Swamp |
 | 🏷️ Tags | Aucune |
 
@@ -703,7 +704,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | Genesect Drive |
-| ⚙️ Conditions requises | 🧱 Bloc proche requis : Iron Block |
+| ⚙️ Conditions requises | Bloc de fer à proximité |
 | 🌍 Biomes | End Barrens, End Highlands, End Midlands, Small End Islands, The End |
 | 🏷️ Tags | `#cobblemon:is_deep_dark` |
 
@@ -754,7 +755,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Zygarde Cells / Zygarde Cores** |
-| ⚙️ Conditions requises | 95 Cells + 5 Cores |
+| ⚙️ Conditions requises | 95 cellules + 5 cœurs 🧬 |
 | 🌍 Biomes | Birch Forest, Forest, Jungle, Mangrove Swamp, Swamp |
 | 🏷️ Tags | `#cobblemon:is_cave` • `#cobblemon:is_forest` • `#cobblemon:is_swamp` |
 
@@ -910,7 +911,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Sun Flute** |
-| ⚙️ Conditions requises | ☀️ Daytime |
+| ⚙️ Conditions requises | ☀️ En journée |
 | 🌍 Biomes | Desert, Plateau |
 | 🏷️ Tags | `#cobblemon:is_plateau` |
 
@@ -925,7 +926,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Moon Flute** |
-| ⚙️ Conditions requises | 🌙 Nighttime |
+| ⚙️ Conditions requises | 🌙 Nuit |
 | 🌍 Biomes | Dark Forest, Hills |
 | 🏷️ Tags | `#cobblemon:is_hills` |
 
@@ -940,7 +941,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Necro Prism** |
-| ⚙️ Conditions requises | 3 Shiny Stones |
+| ⚙️ Conditions requises | 3 Pierres Brillantes |
 | 🌍 Biomes | End biomes |
 | 🏷️ Tags | `#cobblemon:is_deep_dark` |
 
@@ -955,7 +956,7 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Antique Pokéball / Soul Heart** |
-| ⚙️ Conditions requises | Iron Block nearby |
+| ⚙️ Conditions requises | Bloc de fer à proximité |
 | 🌍 Biomes | End biomes |
 | 🏷️ Tags | `#cobblemon:is_deep_dark` |
 
@@ -1000,375 +1001,260 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 | 📌 Informations | 📋 Détails |
 |---|---|
 | 📦 Objet requis | **Mystery Box** |
-| ⚙️ Conditions requises | Iron Block nearby |
+| ⚙️ Conditions requises | Bloc de fer à proximité |
 | 🌍 Biomes | Mountains, Taiga |
 | 🏷️ Tags | `#minecraft:taiga` |
 
 ---
 
-# Génération 8 [Galar/Hisui]
+# 🌍 Génération 8 — Galar / Hisui
 
-[↑ Retour en haut](#top)
-
-### Zacian
-
-![Zacian](https://play.pokemonshowdown.com/sprites/ani/zacian.gif)
-
-Objet : Rusted Sword
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Flower Forest [minecraft:flower_forest]
-- Meadow [minecraft:meadow]
-- Is Forest [#cobblemon:is_forest]
-- Is Highlands [#cobblemon:is_highlands]
-- Is Magical [#cobblemon:is_magical]
+[⬆️ Retour en haut](#top)
 
 ---
 
-### Zamazenta
+## ⚔️ Zacian
 
-![Zamazenta](https://play.pokemonshowdown.com/sprites/ani/zamazenta.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/zacian.gif" alt="Zacian">
+</p>
 
-Objet : Rusted Shield
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Taiga [minecraft:taiga]
-- Windswept Forest [minecraft:windswept_forest]
-- Is Highlands [#cobblemon:is_highlands]
-- Is Plateau [#cobblemon:is_plateau]
-- Is Savanna [#cobblemon:is_savanna]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Rusted Sword** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Flower Forest, Meadow |
+| 🏷️ Tags | `#cobblemon:is_forest` • `#cobblemon:is_highlands` • `#cobblemon:is_magical` |
 
 ---
 
-### Eternatus
+## 🛡️ Zamazenta
 
-![Eternatus](https://play.pokemonshowdown.com/sprites/ani/eternatus.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/zamazenta.gif" alt="Zamazenta">
+</p>
 
-Objet : Eternatus Core
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- End Barrens [minecraft:end_barrens]
-- End Highlands [minecraft:end_highlands]
-- End Midlands [minecraft:end_midlands]
-- Mangrove Swamp [minecraft:mangrove_swamp]
-- Small End Islands [minecraft:small_end_islands]
-- Swamp [minecraft:swamp]
-- The End [minecraft:the_end]
-- Ice Marsh [terralith:ice_marsh]
-- Orchid Swampc [terralith:orchid_swampc]
-- Billabong [wythers:billabong]
-- Is Swamp [#byg:is_swamp]
-- Swamp [#c:swamp]
-- Is Swamp [#forge:is_swamp]
-- Is Swamp [#wythers:is_swamp]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Rusted Shield** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Taiga, Windswept Forest |
+| 🏷️ Tags | `#cobblemon:is_highlands` • `#cobblemon:is_plateau` • `#cobblemon:is_savanna` |
 
 ---
 
-### Kubfu
+## 🧬 Eternatus
 
-![Kubfu](https://play.pokemonshowdown.com/sprites/ani/kubfu.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/eternatus.gif" alt="Eternatus">
+</p>
 
-Objet : Kubfus Band
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Cave/underground Jungle [terralith:cave/underground_jungle]
-- Bamboo Jungle Canyon [wythers:bamboo_jungle_canyon]
-- Bamboo Jungle Highlands [wythers:bamboo_jungle_highlands]
-- Bamboo Jungle Swamp [wythers:bamboo_jungle_swamp]
-- Bamboo Swamp [wythers:bamboo_swamp]
-- Dripleaf Swamp [wythers:dripleaf_swamp]
-- Eucalyptus Deanei Forest [wythers:eucalyptus_deanei_forest]
-- Highland Tropical Rainforest [wythers:highland_tropical_rainforest]
-- Humid Tropical Grassland [wythers:humid_tropical_grassland]
-- Jungle Canyon [wythers:jungle_canyon]
-- Sakura Forest [wythers:sakura_forest]
-- Sandy Jungle [wythers:sandy_jungle]
-- Sparse Bamboo Jungle [wythers:sparse_bamboo_jungle]
-- Subtropical Forest [wythers:subtropical_forest]
-- Subtropical Forest Edge [wythers:subtropical_forest_edge]
-- Subtropical Grassland [wythers:subtropical_grassland]
-- Tropical Forest [wythers:tropical_forest]
-- Tropical Forest Canyon [wythers:tropical_forest_canyon]
-- Tropical Grassland [wythers:tropical_grassland]
-- Tropical Island [wythers:tropical_island]
-- Tropical Rainforest [wythers:tropical_rainforest]
-- Is Jungle [#minecraft:is_jungle]
-- Is Bamboo [#cobblemon:is_bamboo]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Eternatus Core** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | End biomes, Swamps |
+| 🏷️ Tags | `#cobblemon:is_swamp` • `#byg:is_swamp` • `#forge:is_swamp` • `#wythers:is_swamp` |
 
 ---
 
-### Zarude
+## 🐼 Kubfu
 
-![Zarude](https://play.pokemonshowdown.com/sprites/ani/zarude.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/kubfu.gif" alt="Kubfu">
+</p>
 
-Objet : Zarudes Cape
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Cave/underground Jungle [terralith:cave/underground_jungle]
-- Dripleaf Swamp [wythers:dripleaf_swamp]
-- Eucalyptus Deanei Forest [wythers:eucalyptus_deanei_forest]
-- Highland Tropical Rainforest [wythers:highland_tropical_rainforest]
-- Humid Tropical Grassland [wythers:humid_tropical_grassland]
-- Jungle Canyon [wythers:jungle_canyon]
-- Subtropical Forest [wythers:subtropical_forest]
-- Subtropical Forest Edge [wythers:subtropical_forest_edge]
-- Subtropical Grassland [wythers:subtropical_grassland]
-- Tropical Forest [wythers:tropical_forest]
-- Tropical Forest Canyon [wythers:tropical_forest_canyon]
-- Tropical Grassland [wythers:tropical_grassland]
-- Tropical Island [wythers:tropical_island]
-- Tropical Rainforest [wythers:tropical_rainforest]
-- Is Jungle [#minecraft:is_jungle]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Kubfu’s Band** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Jungle, Bamboo, Tropical biomes |
+| 🏷️ Tags | `#minecraft:is_jungle` • `#cobblemon:is_bamboo` |
 
 ---
 
-### Regieleki
+## 🌿 Zarude
 
-![Regieleki](https://play.pokemonshowdown.com/sprites/ani/regieleki.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/zarude.gif" alt="Zarude">
+</p>
 
-Objet : Plasma Tablet/Ancient Tablet
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Is Deep Dark [#cobblemon:is_deep_dark]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Zarude’s Cape** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Jungle, Tropical Forests |
+| 🏷️ Tags | `#minecraft:is_jungle` |
 
 ---
 
-### Regidrago
+## ⚡ Regieleki
 
-![Regidrago](https://play.pokemonshowdown.com/sprites/ani/regidrago.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/regieleki.gif" alt="Regieleki">
+</p>
 
-Objet : Scaly Tablet/Ancient Tablet
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- End Barrens [minecraft:end_barrens]
-- End Highlands [minecraft:end_highlands]
-- End Midlands [minecraft:end_midlands]
-- Small End Islands [minecraft:small_end_islands]
-- The End [minecraft:the_end]
-- Is Nether [#minecraft:is_nether]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Plasma Tablet / Ancient Tablet** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Deep Dark |
+| 🏷️ Tags | `#cobblemon:is_deep_dark` |
 
 ---
 
-### Glastrier
+## 🐉 Regidrago
 
-![Glastrier](https://play.pokemonshowdown.com/sprites/ani/glastrier.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/regidrago.gif" alt="Regidrago">
+</p>
 
-Objet : Iceroot Carrot
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Is Mountain [#cobblemon:is_mountain]
-- Is Snowy Forest [#cobblemon:is_snowy_forest]
-- Is Taiga [#cobblemon:is_taiga]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Scaly Tablet / Ancient Tablet** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | End, Nether |
+| 🏷️ Tags | `#minecraft:is_nether` |
 
 ---
 
-### Spectrier
+## 🐎 Glastrier
 
-![Spectrier](https://play.pokemonshowdown.com/sprites/ani/spectrier.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/glastrier.gif" alt="Glastrier">
+</p>
 
-Objet : Shaderoot Carrot
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Is Dark Forest [#cobblemon:is_dark_forest]
-- Is Forest [#cobblemon:is_forest]
-- Is Plains [#cobblemon:is_plains]
-- Is Spooky [#cobblemon:is_spooky]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Iceroot Carrot** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Mountains, Snowy Forest, Taiga |
+| 🏷️ Tags | `#cobblemon:is_mountain` • `#cobblemon:is_snowy_forest` • `#cobblemon:is_taiga` |
 
 ---
 
-### Calyrex
+## 🐎 Spectrier
 
-![Calyrex](https://play.pokemonshowdown.com/sprites/ani/calyrex.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/spectrier.gif" alt="Spectrier">
+</p>
 
-Objet : Reins Of Unity
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Flower Forest [minecraft:flower_forest]
-- Is Autumn [#cobblemon:is_autumn]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Shaderoot Carrot** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Dark Forest, Plains |
+| 🏷️ Tags | `#cobblemon:is_dark_forest` • `#cobblemon:is_plains` • `#cobblemon:is_spooky` |
 
 ---
 
-### Enamorus
+## 👑 Calyrex
 
-![Enamorus](https://play.pokemonshowdown.com/sprites/ani/enamorus.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/calyrex.gif" alt="Calyrex">
+</p>
 
-Objet : Reveal Glass
-
-Conditions requises :
-
-- Must Be Thundering (Rain Does Not Count)
-
-Aucune
-Biomes / Tags :
-
-- Cherry Grove [minecraft:cherry_grove]
-- Flower Forest [minecraft:flower_forest]
-- Meadow [minecraft:meadow]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Reins Of Unity** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Flower Forest, Autumn biomes |
+| 🏷️ Tags | `#cobblemon:is_autumn` |
 
 ---
 
-# Génération 9 [Paldea/Kitakami]
+## 🌸 Enamorus
 
-[↑ Retour en haut](#top)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/enamorus.gif" alt="Enamorus">
+</p>
 
-### Koraidon
-
-![Koraidon](https://play.pokemonshowdown.com/sprites/home/koraidon.png)
-
-Objet : Scarlet Book
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Badlands [minecraft:badlands]
-- Eroded Badlands [minecraft:eroded_badlands]
-- Savanna [minecraft:savanna]
-- Savanna Plateau [minecraft:savanna_plateau]
-- Is Mountain [#cobblemon:is_mountain]
-- Is Plateau [#cobblemon:is_plateau]
-- Is Savanna [#cobblemon:is_savanna]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Reveal Glass** |
+| ⚙️ Conditions requises | 🌩️ Il doit y avoir du tonnerre (la pluie ne compte pas) |
+| 🌍 Biomes | Cherry Grove, Flower Forest, Meadow |
+| 🏷️ Tags | — |
 
 ---
 
-### Miraidon
+# 🌍 Génération 9 — Paldea / Kitakami
 
-![Miraidon](https://play.pokemonshowdown.com/sprites/home/miraidon.png)
-
-Objet : Violet Book
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Deep Dark [minecraft:deep_dark]
-- Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]
-- Is Deep Dark [#cobblemon:is_deep_dark]
+[⬆️ Retour en haut](#top)
 
 ---
 
-### Ogerpon
+## 🐎 Koraidon
 
-![Ogerpon](https://play.pokemonshowdown.com/sprites/home/ogerpon.png)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/home/koraidon.png" alt="Koraidon">
+</p>
 
-Objet : Teal Mask
-
-Conditions requises :
-
-- Moon Phase: Waning Gibbous
-
-Aucune
-Biomes / Tags :
-
-- Is Bamboo [#cobblemon:is_bamboo]
-- Is Floral [#cobblemon:is_floral]
-- Is Jungle [#cobblemon:is_jungle]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Scarlet Book** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Badlands, Eroded Badlands, Savanna, Savanna Plateau |
+| 🏷️ Tags | `#cobblemon:is_mountain` • `#cobblemon:is_plateau` • `#cobblemon:is_savanna` |
 
 ---
 
-### Pecharunt
+## 🤖 Miraidon
 
-![Pecharunt](https://play.pokemonshowdown.com/sprites/home/pecharunt.png)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/home/miraidon.png" alt="Miraidon">
+</p>
 
-Objet : Mythical Pecha Berry
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Dark Forest [minecraft:dark_forest]
-- Pillager Outpost [minecraft:pillager_outpost]
-- Swamp [minecraft:swamp]
-- Swamp Hut [minecraft:swamp_hut]
-- Woodland Mansion [minecraft:woodland_mansion]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Violet Book** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Deep Dark, Windswept Gravelly Hills |
+| 🏷️ Tags | `#cobblemon:is_deep_dark` |
 
 ---
 
-### Terapagos
+## 🎭 Ogerpon
 
-![Terapagos](https://play.pokemonshowdown.com/sprites/home/terapagos.png)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/home/ogerpon.png" alt="Ogerpon">
+</p>
 
-Objet : Prismatic Shell
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Teal Mask** |
+| ⚙️ Conditions requises | 🌙 Phase lunaire : Lune gibbeuse décroissante |
+| 🌍 Biomes | Bamboo, Floral, Jungle |
+| 🏷️ Tags | `#cobblemon:is_bamboo` • `#cobblemon:is_floral` • `#cobblemon:is_jungle` |
 
-Conditions requises :
+---
 
-- None
+## ☠️ Pecharunt
 
-Aucune
-Biomes / Tags :
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/home/pecharunt.png" alt="Pecharunt">
+</p>
 
-- Is Jungle [#cobblemon:is_jungle]
-- Is Magical [#cobblemon:is_magical]
-- Is Mountain [#cobblemon:is_mountain]
-- Is River [#cobblemon:is_river]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Mythical Pecha Berry** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Dark Forest, Swamp, Pillager structures |
+| 🏷️ Tags | `#minecraft:is_dark_forest` • `#minecraft:is_swamp` |
+
+---
+
+## 🌈 Terapagos
+
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/home/terapagos.png" alt="Terapagos">
+</p>
+
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Prismatic Shell** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Jungle, Mountain, River, Magical biomes |
+| 🏷️ Tags | `#cobblemon:is_jungle` • `#cobblemon:is_magical` • `#cobblemon:is_mountain` • `#cobblemon:is_river` |
 
 ---
