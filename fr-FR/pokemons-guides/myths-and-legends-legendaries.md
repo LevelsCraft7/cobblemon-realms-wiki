@@ -197,263 +197,159 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 
 ---
 
-# Génération 3 [Hoenn]
+# 🌍 Génération 3 — Hoenn
 
-[↑ Retour en haut](#top)
-
-### Regirock
-
-![Regirock](https://play.pokemonshowdown.com/sprites/ani/regirock.gif)
-
-Objet : Steel Tablet/Ancient Tablet
-
-Conditions requises :
-
-- Max Y-Level: 63
-
-Biomes / Tags :
-
-- Desert [minecraft:desert]
-- Ancient Sands [terralith:ancient_sands]
-- Ashen Savanna [terralith:ashen_savanna]
-- Cave/desert Caves [terralith:cave/desert_caves]
-- Desert Canyon [terralith:desert_canyon]
-- Desert Oasis [terralith:desert_oasis]
-- Desert Spires [terralith:desert_spires]
-- Lush Desert [terralith:lush_desert]
-- Red Oasis [terralith:red_oasis]
-- Sandstone Valley [terralith:sandstone_valley]
-- Warped Mesa [terralith:warped_mesa]
-- White Mesa [terralith:white_mesa]
-- Badlands Desert [wythers:badlands_desert]
-- Danakil Desert [wythers:danakil_desert]
-- Desert Island [wythers:desert_island]
-- Kwongan Heath [wythers:kwongan_heath]
-- Outback Desert [wythers:outback_desert]
-- Red Desert [wythers:red_desert]
-- Sandy Jungle [wythers:sandy_jungle]
-- Is Badlands [#minecraft:is_badlands]
-- Is Desert [#byg:is_desert]
-- Desert [#c:desert]
-- Mesa [#c:mesa]
-- Is Desert [#wythers:is_desert]
+[⬆️ Retour en haut](#top)
 
 ---
 
-### Regice
+## 🪨 Regirock
 
-![Regice](https://play.pokemonshowdown.com/sprites/ani/regice.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/regirock.gif" alt="Regirock">
+</p>
 
-Objet : Ice Tablet/Ancient Tablet
-
-Conditions requises :
-
-- None
-
-Biomes / Tags :
-
-- Frozen River [minecraft:frozen_river]
-- Jagged Peaks [minecraft:jagged_peaks]
-- Snowy Beach [minecraft:snowy_beach]
-- Snowy Plains [minecraft:snowy_plains]
-- Snowy Slopes [minecraft:snowy_slopes]
-- Cardinal Tundra [byg:cardinal_tundra]
-- Emerald Peaks [terralith:emerald_peaks]
-- Scarlet Mountains [terralith:scarlet_mountains]
-- Skylands Winter [terralith:skylands_winter]
-- Snowy Badlands [terralith:snowy_badlands]
-- Berry Bog [wythers:berry_bog]
-- Crimson Tundra [wythers:crimson_tundra]
-- Frozen Island [wythers:frozen_island]
-- Snowy Bog [wythers:snowy_bog]
-- Snowy Canyon [wythers:snowy_canyon]
-- Snowy Peaks [wythers:snowy_peaks]
-- Snowy Tundra [wythers:snowy_tundra]
-- Is Freezing [#cobblemon:is_freezing]
-- Is Frozen Ocean [#cobblemon:is_frozen_ocean]
-- Is Glacial [#cobblemon:is_glacial]
-- Is Peak [#cobblemon:is_peak]
-- Is Snowy Forest [#cobblemon:is_snowy_forest]
-- Is Taiga [#cobblemon:is_taiga]
-- Is Tundra [#cobblemon:is_tundra]
-- Is Cold [#byg:is_cold]
-- Is Snowy [#byg:is_snowy]
-- Climate Cold [#c:climate_cold]
-- Snowy [#c:snowy]
-- Is Cold/overworld [#forge:is_cold/overworld]
-- Is Snowy [#forge:is_snowy]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Steel Tablet / Ancient Tablet** |
+| ⚙️ Conditions requises | ⬇️ Niveau Y maximum : **63** |
+| 🌍 Biomes | Desert, Ancient Sands, Ashen Savanna, Desert Caves, Desert Canyon, Desert Oasis, Desert Spires, Lush Desert, Red Oasis, Sandstone Valley, Warped Mesa, White Mesa, Badlands Desert, Danakil Desert, Desert Island, Kwongan Heath, Outback Desert, Red Desert, Sandy Jungle |
+| 🏷️ Tags | `#minecraft:is_badlands` • `#byg:is_desert` • `#c:desert` • `#c:mesa` • `#wythers:is_desert` |
 
 ---
 
-### Registeel
+## ❄️ Regice
 
-![Registeel](https://play.pokemonshowdown.com/sprites/ani/registeel.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/regice.gif" alt="Regice">
+</p>
 
-Objet : Stone Tablet/Ancient Tablet
-
-Conditions requises :
-
-- Needed Nearby Blocks: Iron Block
-
-Biomes / Tags :
-
-- Deep Dark [minecraft:deep_dark]
-- Village [#minecraft:village]
-- Is Deep Dark [#cobblemon:is_deep_dark]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Ice Tablet / Ancient Tablet** |
+| ⚙️ Conditions requises | ❌ Aucune |
+| 🌍 Biomes | Frozen River, Jagged Peaks, Snowy Beach, Snowy Plains, Snowy Slopes, Cardinal Tundra, Emerald Peaks, Scarlet Mountains, Skylands Winter, Snowy Badlands, Berry Bog, Crimson Tundra, Frozen Island, Snowy Bog, Snowy Canyon, Snowy Peaks, Snowy Tundra |
+| 🏷️ Tags | `#cobblemon:is_freezing` • `#cobblemon:is_frozen_ocean` • `#cobblemon:is_glacial` • `#cobblemon:is_peak` • `#cobblemon:is_snowy_forest` • `#cobblemon:is_taiga` • `#cobblemon:is_tundra` • `#byg:is_cold` • `#byg:is_snowy` • `#c:climate_cold` • `#c:snowy` • `#forge:is_cold/overworld` • `#forge:is_snowy` |
 
 ---
 
-### Latias
+## ⚙️ Registeel
 
-![Latias](https://play.pokemonshowdown.com/sprites/ani/latias.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/registeel.gif" alt="Registeel">
+</p>
 
-Objet : Eon Ticket
-
-Conditions requises :
-
-- None
-
-Biomes / Tags :
-
-- Birch Forest [minecraft:birch_forest]
-- Flower Forest [minecraft:flower_forest]
-- Mirage Isles [terralith:mirage_isles]
-- Is Beach [#cobblemon:is_beach]
-- Is Coast [#cobblemon:is_coast]
-- Is Temperate [#cobblemon:is_temperate]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Stone Tablet / Ancient Tablet** |
+| ⚙️ Conditions requises | 🧱 Bloc requis à proximité : **Iron Block** |
+| 🌍 Biomes | Deep Dark, Village |
+| 🏷️ Tags | `#cobblemon:is_deep_dark` |
 
 ---
 
-### Latios
+## 🔴 Latias
 
-![Latios](https://play.pokemonshowdown.com/sprites/ani/latios.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/latias.gif" alt="Latias">
+</p>
 
-Objet : Eon Ticket
-
-Conditions requises :
-
-- None
-
-Biomes / Tags :
-
-- Mountain Edge [minecraft:mountain_edge]
-- Plains [minecraft:plains]
-- Mirage Isles [terralith:mirage_isles]
-- Is Beach [#cobblemon:is_beach]
-- Is Coast [#cobblemon:is_coast]
-- Is Temperate [#cobblemon:is_temperate]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Eon Ticket** |
+| ⚙️ Conditions requises | ❌ Aucune |
+| 🌍 Biomes | Birch Forest, Flower Forest, Mirage Isles |
+| 🏷️ Tags | `#cobblemon:is_beach` • `#cobblemon:is_coast` • `#cobblemon:is_temperate` |
 
 ---
 
-### Kyogre
+## 🔵 Latios
 
-![Kyogre](https://play.pokemonshowdown.com/sprites/ani/kyogre.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/latios.gif" alt="Latios">
+</p>
 
-Objet : Blue Orb
-
-Conditions requises :
-
-- None
-
-Biomes / Tags :
-
-- Deep Cold Ocean [minecraft:deep_cold_ocean]
-- Deep Frozen Ocean [minecraft:deep_frozen_ocean]
-- Deep Ocean [minecraft:deep_ocean]
-- Ocean [minecraft:ocean]
-- Is Deep Ocean [#cobblemon:is_deep_ocean]
-- Is Ocean [#cobblemon:is_ocean]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Eon Ticket** |
+| ⚙️ Conditions requises | ❌ Aucune |
+| 🌍 Biomes | Mountain Edge, Plains, Mirage Isles |
+| 🏷️ Tags | `#cobblemon:is_beach` • `#cobblemon:is_coast` • `#cobblemon:is_temperate` |
 
 ---
 
-### Groudon
+## 🌊 Kyogre
 
-![Groudon](https://play.pokemonshowdown.com/sprites/ani/groudon.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/kyogre.gif" alt="Kyogre">
+</p>
 
-Objet : Red Orb
-
-Conditions requises :
-
-- None
-
-Biomes / Tags :
-
-- Badlands [minecraft:badlands]
-- Desert [minecraft:desert]
-- Eroded Badlands [minecraft:eroded_badlands]
-- Is Arid [#cobblemon:is_arid]
-- Is Desert [#cobblemon:is_desert]
-- Is Thermal [#cobblemon:is_thermal]
-- Is Volcanic [#cobblemon:is_volcanic]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Blue Orb** |
+| ⚙️ Conditions requises | ❌ Aucune |
+| 🌍 Biomes | Deep Cold Ocean, Deep Frozen Ocean, Deep Ocean, Ocean |
+| 🏷️ Tags | `#cobblemon:is_deep_ocean` • `#cobblemon:is_ocean` |
 
 ---
 
-### Rayquaza
+## 🌋 Groudon
 
-![Rayquaza](https://play.pokemonshowdown.com/sprites/ani/rayquaza.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/groudon.gif" alt="Groudon">
+</p>
 
-Objet : Jade Orb
-
-Conditions requises :
-
-- None
-
-Biomes / Tags :
-
-- End Highlands [minecraft:end_highlands]
-- Skylands Autumn [terralith:skylands_autumn]
-- Skylands Spring [terralith:skylands_spring]
-- Skylands Summer [terralith:skylands_summer]
-- Skylands Winter [terralith:skylands_winter]
-- Is End [#minecraft:is_end]
-- Is Jungle [#minecraft:is_jungle]
-- Is End [#cobblemon:is_end]
-- Is Highlands [#cobblemon:is_highlands]
-- Is Jungle [#cobblemon:is_jungle]
-- Is Sky [#cobblemon:is_sky]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Red Orb** |
+| ⚙️ Conditions requises | ❌ Aucune |
+| 🌍 Biomes | Badlands, Desert, Eroded Badlands |
+| 🏷️ Tags | `#cobblemon:is_arid` • `#cobblemon:is_desert` • `#cobblemon:is_thermal` • `#cobblemon:is_volcanic` |
 
 ---
 
-### Jirachi
+## 🐉 Rayquaza
 
-![Jirachi](https://play.pokemonshowdown.com/sprites/ani/jirachi.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/rayquaza.gif" alt="Rayquaza">
+</p>
 
-Objet : Bonus Disk
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Mushroom Fields [minecraft:mushroom_fields]
-- Windswept Gravelly Hills [minecraft:windswept_gravelly_hills]
-- Is Magical [#cobblemon:is_magical]
-- Is Sparse [#cobblemon:is_sparse]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Jade Orb** |
+| ⚙️ Conditions requises | ❌ Aucune |
+| 🌍 Biomes | End Highlands, Skylands Autumn, Skylands Spring, Skylands Summer, Skylands Winter |
+| 🏷️ Tags | `#minecraft:is_end` • `#minecraft:is_jungle` • `#cobblemon:is_end` • `#cobblemon:is_highlands` • `#cobblemon:is_jungle` • `#cobblemon:is_sky` |
 
 ---
 
-### Deoxys
+## ⭐ Jirachi
 
-![Deoxys](https://play.pokemonshowdown.com/sprites/ani/deoxys.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/jirachi.gif" alt="Jirachi">
+</p>
 
-Objet : Aurora Ticket
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Bonus Disk** |
+| ⚙️ Conditions requises | ❌ Aucune |
+| 🌍 Biomes | Mushroom Fields, Windswept Gravelly Hills |
+| 🏷️ Tags | `#cobblemon:is_magical` • `#cobblemon:is_sparse` |
 
-Conditions requises :
+---
 
-- None
+## 🧬 Deoxys
 
-Aucune
-Biomes / Tags :
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/deoxys.gif" alt="Deoxys">
+</p>
 
-- End Barrens [minecraft:end_barrens]
-- End Highlands [minecraft:end_highlands]
-- End Midlands [minecraft:end_midlands]
-- Small End Islands [minecraft:small_end_islands]
-- The End [minecraft:the_end]
-- Is End [#cobblemon:is_end]
-
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Aurora Ticket** |
+| ⚙️ Conditions requises | ❌ Aucune |
+| 🌍 Biomes | End Barrens, End Highlands, End Midlands, Small End Islands, The End |
+| 🏷️ Tags | `#cobblemon:is_end` |
 ---
 
 # Génération 4 [Sinnoh]
