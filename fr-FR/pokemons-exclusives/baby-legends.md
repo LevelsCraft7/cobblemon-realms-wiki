@@ -91,6 +91,8 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
   - Reshiram au **niveau 60** par temps clair
   - Kuyrem au **niveau 70** avec l'objet **Pierre Glace**
 
+![Yangram](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Yangram.png) ![Yangram Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Yangram_shiny.png)
+
 ---
 
 ### 🌋 Saladune
@@ -105,7 +107,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 
 💡 Saladune évolue au **niveau 60** avec l'objet **Pierre Feu**
 
-![Saladune]() ![Saladune Shiny]()
+![Saladune](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Saladune.png) ![Saladune Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Saladune_shiny.png)
 
 ---
 
