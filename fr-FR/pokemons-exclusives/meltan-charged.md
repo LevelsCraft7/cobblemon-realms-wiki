@@ -1,10 +1,26 @@
-# ⚙️ Meltan Charged Form
+# ⚙️ Meltan — Forme Chargée
 
-Meltan can charge itself and transform after accumulating iron.
+Meltan peut accumuler de l’énergie en absorbant du fer et se transformer une fois chargé.
 
-## 🔋 How to Charge
+---
 
-- Feed iron items:
-  - Iron Ingot: +1 point
-  - Iron Block: +10 points
-- At 999 points, it transforms!
+## 🔋 Charge en fer
+
+| 🧱 Objet | ⚡ Charge |
+|---|---|
+| Lingot de fer | +1 |
+| Bloc de fer | +10 |
+
+---
+
+## ⚡ Transformation
+
+- 🎯 Atteindre **999 points de charge**
+- 🔄 Transformation automatique une fois le seuil atteint
+
+---
+
+## 📝 Notes
+
+- La progression dépend uniquement de la quantité de fer absorbée
+- Les blocs sont beaucoup plus efficaces que les lingots
