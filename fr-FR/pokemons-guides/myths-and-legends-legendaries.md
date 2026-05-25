@@ -713,148 +713,95 @@ Chaque fiche indique l’objet requis, les conditions particulières et tous les
 
 [↑ Retour en haut](#top)
 
-### Xerneas
+---
 
-![Xerneas](https://play.pokemonshowdown.com/sprites/ani/xerneas.gif)
+## ✨ Xerneas
 
-Objet : Sapling Of Life
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/xerneas.gif" alt="Xerneas">
+</p>
 
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Flower Forest [minecraft:flower_forest]
-- Forest [minecraft:forest]
-- Meadow [minecraft:meadow]
-- Is Floral [#cobblemon:is_floral]
-- Is Forest [#cobblemon:is_forest]
-- Is Magical [#cobblemon:is_magical]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Sapling Of Life** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Flower Forest, Forest, Meadow |
+| 🏷️ Tags | `#cobblemon:is_floral` • `#cobblemon:is_forest` • `#cobblemon:is_magical` |
 
 ---
 
-### Yveltal
+## 🌑 Yveltal
 
-![Yveltal](https://play.pokemonshowdown.com/sprites/ani/yveltal.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/yveltal.gif" alt="Yveltal">
+</p>
 
-Objet : Cocoon Of Destruction
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Dark Forest [minecraft:dark_forest]
-- Swamp [minecraft:swamp]
-- Is Spooky [#cobblemon:is_spooky]
-- Is Tundra [#cobblemon:is_tundra]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Cocoon Of Destruction** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Dark Forest, Swamp |
+| 🏷️ Tags | `#cobblemon:is_spooky` • `#cobblemon:is_tundra` |
 
 ---
 
-### Zygarde
+## 🧬 Zygarde
 
-![Zygarde](https://play.pokemonshowdown.com/sprites/ani/zygarde.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/zygarde.gif" alt="Zygarde">
+</p>
 
-Objet : Zygarde Cells/Zygarde Cores
-
-Conditions requises :
-
-- 95 Zygarde Cells In Inventory
-- 5 Zygarde Cores In Inventory
-
-Aucune
-Biomes / Tags :
-
-- Birch Forest [minecraft:birch_forest]
-- Forest [minecraft:forest]
-- Jungle [minecraft:jungle]
-- Mangrove Swamp [minecraft:mangrove_swamp]
-- Swamp [minecraft:swamp]
-- Is Cave [#cobblemon:is_cave]
-- Is Forest [#cobblemon:is_forest]
-- Is Swamp [#cobblemon:is_swamp]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Zygarde Cells / Zygarde Cores** |
+| ⚙️ Conditions requises | 95 Cells + 5 Cores |
+| 🌍 Biomes | Birch Forest, Forest, Jungle, Mangrove Swamp, Swamp |
+| 🏷️ Tags | `#cobblemon:is_cave` • `#cobblemon:is_forest` • `#cobblemon:is_swamp` |
 
 ---
 
-### Diancie
+## 💎 Diancie
 
-![Diancie](https://play.pokemonshowdown.com/sprites/ani/diancie.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/diancie.gif" alt="Diancie">
+</p>
 
-Objet : Diancies Crown
-
-Conditions requises :
-
-- Max Y-Level: 10
-- Min Y-Level: -64
-
-Aucune
-Biomes / Tags :
-
-- Dripstone Caves [minecraft:dripstone_caves]
-- Lush Caves [minecraft:lush_caves]
-- Cave/andesite Caves [terralith:cave/andesite_caves]
-- Cave/desert Caves [terralith:cave/desert_caves]
-- Cave/diorite Caves [terralith:cave/diorite_caves]
-- Cave/fungal Caves [terralith:cave/fungal_caves]
-- Cave/granite Caves [terralith:cave/granite_caves]
-- Cave/infested Caves [terralith:cave/infested_caves]
-- Cave/thermal Caves [terralith:cave/thermal_caves]
-- Cave/underground Jungle [terralith:cave/underground_jungle]
-- Is Cave [#cobblemon:is_cave]
-- Caves [#c:caves]
-- Underground [#c:underground]
-- Is Underground [#forge:is_underground]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Diancie's Crown** |
+| ⚙️ Conditions requises | Y: -64 à 10 |
+| 🌍 Biomes | Dripstone Caves, Lush Caves, various cave biomes |
+| 🏷️ Tags | `#cobblemon:is_cave` • `#c:underground` • `#forge:is_underground` |
 
 ---
 
-### Hoopa
+## 🌀 Hoopa
 
-![Hoopa](https://play.pokemonshowdown.com/sprites/ani/hoopa.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/hoopa.gif" alt="Hoopa">
+</p>
 
-Objet : Hoopa Ring/Prism Bottle
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- End Barrens [minecraft:end_barrens]
-- End Highlands [minecraft:end_highlands]
-- End Midlands [minecraft:end_midlands]
-- Small End Islands [minecraft:small_end_islands]
-- The End [minecraft:the_end]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Hoopa Ring / Prism Bottle** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | End Barrens, End Highlands, End Midlands, Small End Islands, The End |
+| 🏷️ Tags | `#minecraft:is_end` |
 
 ---
 
-### Volcanion
+## 🌋 Volcanion
 
-![Volcanion](https://play.pokemonshowdown.com/sprites/ani/volcanion.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/volcanion.gif" alt="Volcanion">
+</p>
 
-Objet : Steam Valve
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Cave/mantle Caves [terralith:cave/mantle_caves]
-- Volcanic Crater [terralith:volcanic_crater]
-- Volcanic Peaks [terralith:volcanic_peaks]
-- Icy Volcano [wythers:icy_volcano]
-- Tropical Volcano [wythers:tropical_volcano]
-- Volcanic Chamber [wythers:volcanic_chamber]
-- Volcanic Crater [wythers:volcanic_crater]
-- Volcano [wythers:volcano]
-- Is Nether [#minecraft:is_nether]
-- Is Volcanic [#cobblemon:is_volcanic]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Steam Valve** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Volcanic Peaks, Volcanic Crater, Volcano, Nether |
+| 🏷️ Tags | `#minecraft:is_nether` • `#cobblemon:is_volcanic` |
 
 ---
 
@@ -862,419 +809,200 @@ Biomes / Tags :
 
 [↑ Retour en haut](#top)
 
-### Type: Null
+---
 
-![Type: Null](https://play.pokemonshowdown.com/sprites/ani/type-null.gif)
+## 🧬 Type: Null
 
-Objet : Type Null Mask
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/type-null.gif" alt="Type: Null">
+</p>
 
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- End Barrens [minecraft:end_barrens]
-- End Highlands [minecraft:end_highlands]
-- End Midlands [minecraft:end_midlands]
-- Small End Islands [minecraft:small_end_islands]
-- The End [minecraft:the_end]
-- Is Deep Dark [#cobblemon:is_deep_dark]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Type Null Mask** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | End biomes |
+| 🏷️ Tags | `#cobblemon:is_deep_dark` |
 
 ---
 
-### Tapu Koko
+## ⚡ Tapu Koko
 
-![Tapu Koko](https://play.pokemonshowdown.com/sprites/ani/tapu-koko.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/tapu-koko.gif" alt="Tapu Koko">
+</p>
 
-Objet : Koko Totem
-
-Conditions requises :
-
-- None
-
-Biomes / Tags :
-
-- Stony Shore [minecraft:stony_shore]
-- Basalt Cliffs [terralith:basalt_cliffs]
-- Cave/underground Jungle [terralith:cave/underground_jungle]
-- Granite Cliffs [terralith:granite_cliffs]
-- White Cliffs [terralith:white_cliffs]
-- Calcite Coast [wythers:calcite_coast]
-- Coastal Mangroves [wythers:coastal_mangroves]
-- Cold Island [wythers:cold_island]
-- Cold Stony Shore [wythers:cold_stony_shore]
-- Deepslate Shore [wythers:deepslate_shore]
-- Dripleaf Swamp [wythers:dripleaf_swamp]
-- Eucalyptus Deanei Forest [wythers:eucalyptus_deanei_forest]
-- Frigid Island [wythers:frigid_island]
-- Frozen Island [wythers:frozen_island]
-- Gravelly Beach [wythers:gravelly_beach]
-- Highland Tropical Rainforest [wythers:highland_tropical_rainforest]
-- Humid Tropical Grassland [wythers:humid_tropical_grassland]
-- Icy Shore [wythers:icy_shore]
-- Jungle Canyon [wythers:jungle_canyon]
-- Mediterranean Island [wythers:mediterranean_island]
-- Subtropical Forest [wythers:subtropical_forest]
-- Subtropical Forest Edge [wythers:subtropical_forest_edge]
-- Subtropical Grassland [wythers:subtropical_grassland]
-- Temperate Island [wythers:temperate_island]
-- Tropical Forest [wythers:tropical_forest]
-- Tropical Forest Canyon [wythers:tropical_forest_canyon]
-- Tropical Grassland [wythers:tropical_grassland]
-- Tropical Island [wythers:tropical_island]
-- Tropical Rainforest [wythers:tropical_rainforest]
-- Warm Stony Shore [wythers:warm_stony_shore]
-- Is Jungle [#minecraft:is_jungle]
-- Is Beach [#cobblemon:is_beach]
-- Stony Shores [#c:stony_shores]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Koko Totem** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Beaches, Jungle, Tropical biomes |
+| 🏷️ Tags | `#minecraft:is_jungle` • `#cobblemon:is_beach` |
 
 ---
 
-### Tapu Lele
+## 🌸 Tapu Lele
 
-![Tapu Lele](https://play.pokemonshowdown.com/sprites/ani/tapu-lele.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/tapu-lele.gif" alt="Tapu Lele">
+</p>
 
-Objet : Lele Totem
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Stony Shore [minecraft:stony_shore]
-- Basalt Cliffs [terralith:basalt_cliffs]
-- Cave/underground Jungle [terralith:cave/underground_jungle]
-- Granite Cliffs [terralith:granite_cliffs]
-- White Cliffs [terralith:white_cliffs]
-- Calcite Coast [wythers:calcite_coast]
-- Coastal Mangroves [wythers:coastal_mangroves]
-- Cold Island [wythers:cold_island]
-- Cold Stony Shore [wythers:cold_stony_shore]
-- Deepslate Shore [wythers:deepslate_shore]
-- Dripleaf Swamp [wythers:dripleaf_swamp]
-- Eucalyptus Deanei Forest [wythers:eucalyptus_deanei_forest]
-- Frigid Island [wythers:frigid_island]
-- Frozen Island [wythers:frozen_island]
-- Gravelly Beach [wythers:gravelly_beach]
-- Highland Tropical Rainforest [wythers:highland_tropical_rainforest]
-- Humid Tropical Grassland [wythers:humid_tropical_grassland]
-- Icy Shore [wythers:icy_shore]
-- Jungle Canyon [wythers:jungle_canyon]
-- Mediterranean Island [wythers:mediterranean_island]
-- Subtropical Forest [wythers:subtropical_forest]
-- Subtropical Forest Edge [wythers:subtropical_forest_edge]
-- Subtropical Grassland [wythers:subtropical_grassland]
-- Temperate Island [wythers:temperate_island]
-- Tropical Forest [wythers:tropical_forest]
-- Tropical Forest Canyon [wythers:tropical_forest_canyon]
-- Tropical Grassland [wythers:tropical_grassland]
-- Tropical Island [wythers:tropical_island]
-- Tropical Rainforest [wythers:tropical_rainforest]
-- Warm Stony Shore [wythers:warm_stony_shore]
-- Is Jungle [#minecraft:is_jungle]
-- Is Beach [#cobblemon:is_beach]
-- Stony Shores [#c:stony_shores]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Lele Totem** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Tropical / Coastal biomes |
+| 🏷️ Tags | `#minecraft:is_jungle` • `#cobblemon:is_beach` |
 
 ---
 
-### Tapu Bulu
+## 🌿 Tapu Bulu
 
-![Tapu Bulu](https://play.pokemonshowdown.com/sprites/ani/tapu-bulu.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/tapu-bulu.gif" alt="Tapu Bulu">
+</p>
 
-Objet : Bulu Totem
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Stony Shore [minecraft:stony_shore]
-- Basalt Cliffs [terralith:basalt_cliffs]
-- Cave/underground Jungle [terralith:cave/underground_jungle]
-- Granite Cliffs [terralith:granite_cliffs]
-- White Cliffs [terralith:white_cliffs]
-- Calcite Coast [wythers:calcite_coast]
-- Coastal Mangroves [wythers:coastal_mangroves]
-- Cold Island [wythers:cold_island]
-- Cold Stony Shore [wythers:cold_stony_shore]
-- Deepslate Shore [wythers:deepslate_shore]
-- Dripleaf Swamp [wythers:dripleaf_swamp]
-- Eucalyptus Deanei Forest [wythers:eucalyptus_deanei_forest]
-- Frigid Island [wythers:frigid_island]
-- Frozen Island [wythers:frozen_island]
-- Gravelly Beach [wythers:gravelly_beach]
-- Highland Tropical Rainforest [wythers:highland_tropical_rainforest]
-- Humid Tropical Grassland [wythers:humid_tropical_grassland]
-- Icy Shore [wythers:icy_shore]
-- Jungle Canyon [wythers:jungle_canyon]
-- Mediterranean Island [wythers:mediterranean_island]
-- Subtropical Forest [wythers:subtropical_forest]
-- Subtropical Forest Edge [wythers:subtropical_forest_edge]
-- Subtropical Grassland [wythers:subtropical_grassland]
-- Temperate Island [wythers:temperate_island]
-- Tropical Forest [wythers:tropical_forest]
-- Tropical Forest Canyon [wythers:tropical_forest_canyon]
-- Tropical Grassland [wythers:tropical_grassland]
-- Tropical Island [wythers:tropical_island]
-- Tropical Rainforest [wythers:tropical_rainforest]
-- Warm Stony Shore [wythers:warm_stony_shore]
-- Is Jungle [#minecraft:is_jungle]
-- Is Beach [#cobblemon:is_beach]
-- Stony Shores [#c:stony_shores]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Bulu Totem** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Tropical / Jungle biomes |
+| 🏷️ Tags | `#minecraft:is_jungle` • `#cobblemon:is_beach` |
 
 ---
 
-### Tapu Fini
+## 🌊 Tapu Fini
 
-![Tapu Fini](https://play.pokemonshowdown.com/sprites/ani/tapu-fini.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/tapu-fini.gif" alt="Tapu Fini">
+</p>
 
-Objet : Fini Totem
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Stony Shore [minecraft:stony_shore]
-- Basalt Cliffs [terralith:basalt_cliffs]
-- Cave/underground Jungle [terralith:cave/underground_jungle]
-- Granite Cliffs [terralith:granite_cliffs]
-- White Cliffs [terralith:white_cliffs]
-- Calcite Coast [wythers:calcite_coast]
-- Coastal Mangroves [wythers:coastal_mangroves]
-- Cold Island [wythers:cold_island]
-- Cold Stony Shore [wythers:cold_stony_shore]
-- Deepslate Shore [wythers:deepslate_shore]
-- Dripleaf Swamp [wythers:dripleaf_swamp]
-- Eucalyptus Deanei Forest [wythers:eucalyptus_deanei_forest]
-- Frigid Island [wythers:frigid_island]
-- Frozen Island [wythers:frozen_island]
-- Gravelly Beach [wythers:gravelly_beach]
-- Highland Tropical Rainforest [wythers:highland_tropical_rainforest]
-- Humid Tropical Grassland [wythers:humid_tropical_grassland]
-- Icy Shore [wythers:icy_shore]
-- Jungle Canyon [wythers:jungle_canyon]
-- Mediterranean Island [wythers:mediterranean_island]
-- Subtropical Forest [wythers:subtropical_forest]
-- Subtropical Forest Edge [wythers:subtropical_forest_edge]
-- Subtropical Grassland [wythers:subtropical_grassland]
-- Temperate Island [wythers:temperate_island]
-- Tropical Forest [wythers:tropical_forest]
-- Tropical Forest Canyon [wythers:tropical_forest_canyon]
-- Tropical Grassland [wythers:tropical_grassland]
-- Tropical Island [wythers:tropical_island]
-- Tropical Rainforest [wythers:tropical_rainforest]
-- Warm Stony Shore [wythers:warm_stony_shore]
-- Is Jungle [#minecraft:is_jungle]
-- Is Beach [#cobblemon:is_beach]
-- Stony Shores [#c:stony_shores]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Fini Totem** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Tropical / Coastal biomes |
+| 🏷️ Tags | `#minecraft:is_jungle` • `#cobblemon:is_beach` |
 
 ---
 
-### Cosmog
+## 🌌 Cosmog
 
-![Cosmog](https://play.pokemonshowdown.com/sprites/ani/cosmog.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/cosmog.gif" alt="Cosmog">
+</p>
 
-Objet : Lillies Bag
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Cherry Grove [minecraft:cherry_grove]
-- End Barrens [minecraft:end_barrens]
-- End Highlands [minecraft:end_highlands]
-- End Midlands [minecraft:end_midlands]
-- Flower Forest [minecraft:flower_forest]
-- Meadow [minecraft:meadow]
-- Small End Islands [minecraft:small_end_islands]
-- Sunflower Plains [minecraft:sunflower_plains]
-- The End [minecraft:the_end]
-- Allium Fields [byg:allium_fields]
-- Amaranth Fields [byg:amaranth_fields]
-- Cherry Blossom Forest [byg:cherry_blossom_forest]
-- Orchard [byg:orchard]
-- Rose Fields [byg:rose_fields]
-- Skyris Vale [byg:skyris_vale]
-- Blooming Plateau [terralith:blooming_plateau]
-- Blooming Valley [terralith:blooming_valley]
-- Lavender Forest [terralith:lavender_forest]
-- Lavender Valley [terralith:lavender_valley]
-- Sakura Grove [terralith:sakura_grove]
-- Sakura Valley [terralith:sakura_valley]
-- Autumnal Flower Forest [wythers:autumnal_flower_forest]
-- Flowering Pantanal [wythers:flowering_pantanal]
-- Jacaranda Savanna [wythers:jacaranda_savanna]
-- Lapacho Plains [wythers:lapacho_plains]
-- Sakura Forest [wythers:sakura_forest]
-- Spring Flower Fields [wythers:spring_flower_fields]
-- Spring Flower Forest [wythers:spring_flower_forest]
-- Is Floral [#byg:is_floral]
-- Floral [#c:floral]
-- Flower Forests [#c:flower_forests]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Lillie’s Bag** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Flower / End biomes |
+| 🏷️ Tags | `#c:floral` • `#minecraft:is_end` |
 
 ---
 
-### Solgaleo
+## 🌞 Solgaleo
 
-![Solgaleo](https://play.pokemonshowdown.com/sprites/ani/solgaleo.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/solgaleo.gif" alt="Solgaleo">
+</p>
 
-Objet : Sun Flute
-
-Conditions requises :
-
-- Time: Day
-
-Aucune
-Biomes / Tags :
-
-- Desert [minecraft:desert]
-- Badlands Desert [wythers:badlands_desert]
-- Is Plateau [#cobblemon:is_plateau]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Sun Flute** |
+| ⚙️ Conditions requises | ☀️ Daytime |
+| 🌍 Biomes | Desert, Plateau |
+| 🏷️ Tags | `#cobblemon:is_plateau` |
 
 ---
 
-### Lunala
+## 🌙 Lunala
 
-![Lunala](https://play.pokemonshowdown.com/sprites/ani/lunala.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/lunala.gif" alt="Lunala">
+</p>
 
-Objet : Moon Flute
-
-Conditions requises :
-
-- Time: Night
-
-Aucune
-Biomes / Tags :
-
-- Dark Forest [minecraft:dark_forest]
-- Warped Desert [byg:warped_desert]
-- Is Hills [#cobblemon:is_hills]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Moon Flute** |
+| ⚙️ Conditions requises | 🌙 Nighttime |
+| 🌍 Biomes | Dark Forest, Hills |
+| 🏷️ Tags | `#cobblemon:is_hills` |
 
 ---
 
-### Necrozma
+## 🌑 Necrozma
 
-![Necrozma](https://play.pokemonshowdown.com/sprites/ani/necrozma.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/necrozma.gif" alt="Necrozma">
+</p>
 
-Objet : Necro Prism
-
-Conditions requises :
-
-- 3 Shiny Stones In Inventory
-
-Aucune
-Biomes / Tags :
-
-- End Barrens [minecraft:end_barrens]
-- End Highlands [minecraft:end_highlands]
-- End Midlands [minecraft:end_midlands]
-- Small End Islands [minecraft:small_end_islands]
-- The End [minecraft:the_end]
-- Is Deep Dark [#cobblemon:is_deep_dark]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Necro Prism** |
+| ⚙️ Conditions requises | 3 Shiny Stones |
+| 🌍 Biomes | End biomes |
+| 🏷️ Tags | `#cobblemon:is_deep_dark` |
 
 ---
 
-### Magearna
+## ⚙️ Magearna
 
-![Magearna](https://play.pokemonshowdown.com/sprites/ani/magearna.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/magearna.gif" alt="Magearna">
+</p>
 
-Objet : Antique Pokeball/Soul Heart
-
-Conditions requises :
-
-- Needed Nearby Blocks: Iron Block
-
-Aucune
-Biomes / Tags :
-
-- End Barrens [minecraft:end_barrens]
-- End Highlands [minecraft:end_highlands]
-- End Midlands [minecraft:end_midlands]
-- Small End Islands [minecraft:small_end_islands]
-- The End [minecraft:the_end]
-- Is Deep Dark [#cobblemon:is_deep_dark]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Antique Pokéball / Soul Heart** |
+| ⚙️ Conditions requises | Iron Block nearby |
+| 🌍 Biomes | End biomes |
+| 🏷️ Tags | `#cobblemon:is_deep_dark` |
 
 ---
 
-### Marshadow
+## 🕶️ Marshadow
 
-![Marshadow](https://play.pokemonshowdown.com/sprites/ani/marshadow.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/marshadow.gif" alt="Marshadow">
+</p>
 
-Objet : Marshadow Hood
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Dark Forest [minecraft:dark_forest]
-- Swamp [minecraft:swamp]
-- Is Dark [#cobblemon:is_dark]
-- Is Deep Dark [#cobblemon:is_deep_dark]
-- Is Spooky [#cobblemon:is_spooky]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Marshadow Hood** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Dark / Swamp |
+| 🏷️ Tags | `#cobblemon:is_spooky` |
 
 ---
 
-### Zeraora
+## ⚡ Zeraora
 
-![Zeraora](https://play.pokemonshowdown.com/sprites/ani/zeraora.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/zeraora.gif" alt="Zeraora">
+</p>
 
-Objet : Zeraoras Thunderclaw
-
-Conditions requises :
-
-- None
-
-Aucune
-Biomes / Tags :
-
-- Arid Highlands [terralith:arid_highlands]
-- Ashen Savanna [terralith:ashen_savanna]
-- Brushland [terralith:brushland]
-- Desert Oasis [terralith:desert_oasis]
-- Fractured Savanna [terralith:fractured_savanna]
-- Hot Shrubland [terralith:hot_shrubland]
-- Red Oasis [terralith:red_oasis]
-- Savanna Badlands [terralith:savanna_badlands]
-- Savanna Slopes [terralith:savanna_slopes]
-- Shrubland [terralith:shrubland]
-- Granite Canyon [wythers:granite_canyon]
-- Tropical Forest [wythers:tropical_forest]
-- Tropical Forest Canyon [wythers:tropical_forest_canyon]
-- Is Savanna [#minecraft:is_savanna]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Thunderclaw** |
+| ⚙️ Conditions requises | Aucune |
+| 🌍 Biomes | Savanna, Tropical |
+| 🏷️ Tags | `#minecraft:is_savanna` |
 
 ---
 
-### Meltan
+## 🧲 Meltan
 
-![Meltan](https://play.pokemonshowdown.com/sprites/ani/meltan.gif)
+<p align="center">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/meltan.gif" alt="Meltan">
+</p>
 
-Objet : Mystery Box
-
-Conditions requises :
-
-- Needed Nearby Blocks: Iron Block
-
-Aucune
-Biomes / Tags :
-
-- Mountains [minecraft:mountains]
-- Snowy Taiga [minecraft:snowy_taiga]
-- Taiga [minecraft:taiga]
+| 📌 Informations | 📋 Détails |
+|---|---|
+| 📦 Objet requis | **Mystery Box** |
+| ⚙️ Conditions requises | Iron Block nearby |
+| 🌍 Biomes | Mountains, Taiga |
+| 🏷️ Tags | `#minecraft:taiga` |
 
 ---
 
