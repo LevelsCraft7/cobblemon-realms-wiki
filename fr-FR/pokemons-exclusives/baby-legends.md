@@ -20,7 +20,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Xerneas |
 | ⚔️ Type | Fée |
 | 🧬 Talent | Aura Féérique |
-| 📊 Stats | Profil orienté spécial, avec un bulk correct |
+| 📊 Stats | Attaquant spécial bulky |
 
 💡 Xerfawn évolue dans les **bosquets de cerisiers** avec une **haute amitié**
 
@@ -36,7 +36,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Cresselia |
 | ⚔️ Type | Psy |
 | 🧬 Talent | Lévitation |
-| 📊 Stats | Profil défensif et utilitaire, lent mais solide sur le plan spécial |
+| 📊 Stats | Mur spécial lent |
 
   💡 Creslume évolue **la nuit** avec une **haute amitié**
 
@@ -52,7 +52,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Rayquaza |
 | ⚔️ Type | Dragon / Vol |
 | 🧬 Talent | Air Lock |
-| 📊 Stats | Profil très puissant, avec des dégâts mixtes et une bonne vitesse |
+| 📊 Stats | Sweeper mixte rapide |
 
   💡 Raygul évolue au **niveau** 50 avec l’objet **Croc Dragon**
 
@@ -68,7 +68,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Latias (♀) / Latios (♂) |
 | ⚔️ Type | Psy |
 | 🧬 Talent | Lévitation |
-| 📊 Stats | Rapide et équilibré, bonne pression offensive |
+| 📊 Stats | Sweeper rapide équilibré |
 
   💡 Latot évolue avec une **haute amitié**
 
@@ -84,7 +84,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolutions | Zekrom / Reshiram / Kyurem |
 | ⚔️ Type | Dragon |
 | 🧬 Talent | Pression |
-| 📊 Stats | Attaquant mixte flexible, mais peu résistant |
+| 📊 Stats | Attaquant mixte flexible |
 
   💡 Yangram évolue en :
   - Zekrom au **niveau 60** sous temps orageux
@@ -101,7 +101,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Groudon |
 | ⚔️ Type | Sol |
 | 🧬 Talent | Dry Skin |
-| 📊 Stats | Physique, bonne attaque, bonne défense |
+| 📊 Stats | Attaquant physique bulky |
 
 💡 Saladune évolue au **niveau 60** avec l'objet **Pierre Feu**
 
@@ -117,7 +117,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Zacian (♀) / Zamazenta (♂) |
 | ⚔️ Type | Acier |
 | 🧬 Talent | Cœur Noble / Chien de Garde (Caché) |
-| 📊 Stats | Très solide, bon potentiel offensif |
+| 📊 Stats | Tank physique solide |
 
 💡 Courpup évolue avec une **haute amitié**
 
@@ -131,7 +131,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Keldeo |
 | ⚔️ Type | Eau / Normal |
 | 🧬 Talent | Garde-Ami  |
-| 📊 Stats | Rapide, support, bonne Att. Spé. |
+| 📊 Stats | Support rapide spécial |
 
 💡 Karfoal évolue au **niveau 50** avec l'objet **Épée en Diamant**
 
@@ -149,7 +149,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Kyogre |
 | ⚔️ Type | Eau |
 | 🧬 Talent | Torrent |
-| 📊 Stats | Spécial dominant, très faible capture |
+| 📊 Stats | Attaquant spécial bulky |
 
 💡 Delcaft évolue au **niveau 50** sous temps orageux
 
@@ -169,7 +169,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Zygarde (50%) |
 | ⚔️ Type | Dragon / Sol |
 | 🧬 Talent | Mue |
-| 📊 Stats | Défensif, faible capture |
+| 📊 Stats | Mur physique lent |
 
 💡 Zerpint évolue **la nuit** avec une **haute amitié**
 
@@ -183,7 +183,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolutions | Registeel / Regirock / Regice via objets + échange |
 | ⚔️ Type | Normal |
 | 🧬 Talent | Corps Sain / Fermeté (Caché) |
-| 📊 Stats | Très défensif, très lent |
+| 📊 Stats | Mur extrême lent |
 
 💡 Regiclay évolue en :
 
@@ -203,7 +203,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Diancie |
 | ⚔️ Type | Roche / Fée |
 | 🧬 Talent | Corps Sain / Fermeté (Caché) |
-| 📊 Stats | Très tanky, forme premium |
+| 📊 Stats | Tank premium robuste |
 
 💡 Regiclay évolue avec l'objet **Roche Royale**
 
@@ -221,7 +221,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Giratina |
 | ⚔️ Type | Spectre |
 | 🧬 Talent | Lévitation |
-| 📊 Stats | Bulk lent, mix équilibré |
+| 📊 Stats | Tank mixte lent |
 
 💡 Giragrub évolue au **niveau 60** avec l'objet **Pierre Nuit**
 
@@ -235,7 +235,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Dialga |
 | ⚔️ Type | Acier |
 | 🧬 Talent | Fermeté |
-| 📊 Stats | Défensif spécial, lent |
+| 📊 Stats | Mur spécial lent |
 
 💡 Temga évolue **la nuit** avec une **haute amitié**
 
@@ -250,7 +250,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | ⚠️ Note | Mécanique temporaire |
 | ⚔️ Type | Psy |
 | 🧬 Talent | Prisme-Armure |
-| 📊 Stats | Rare, spécial, faible capture |
+| 📊 Stats | Attaquant spécial rare |
 
 💡 Neonite évolue au **niveau 70** avec l'objet **Œuf de Dragon**
 
@@ -268,7 +268,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Sulfura |
 | ⚔️ Type | Feu |
 | 🧬 Talent | Corps Ardent |
-| 📊 Stats | Attaquant spécial, bulk moyen |
+| 📊 Stats | Attaquant spécial moyen |
 
 💡 Rotisikree évolue au **niveau 50** avec l'objet **Pierre Feu**
 
@@ -282,7 +282,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Artikodin |
 | ⚔️ Type | Glace |
 | 🧬 Talent | Corps Gel |
-| 📊 Stats | Défensif spécial |
+| 📊 Stats | Mur spécial solide |
 
 💡 Articoo évolue au **niveau 50** avec l'objet **Pierre Glace**
 
@@ -296,7 +296,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Électhor |
 | ⚔️ Type | Sol |
 | 🧬 Talent | Statik |
-| 📊 Stats | Fragile, spécial offensif |
+| 📊 Stats | Sweeper spécial fragile |
 
 💡 Statchic évolue au **niveau 50** avec l'objet **Pierre Foudre**
 
@@ -314,7 +314,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Yveltal |
 | ⚔️ Type | Ténèbres |
 | 🧬 Talent | Aura Ténébreuse |
-| 📊 Stats | Mix offensif |
+| 📊 Stats | Attaquant mixte offensif |
 
 💡 Yivpip évolue au **niveau 60** avec l'objet **Pierre Nuit**
 
@@ -330,7 +330,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Ho-Oh |
 | ⚔️ Type | Feu |
 | 🧬 Talent | Pression |
-| 📊 Stats | Spécial solide |
+| 📊 Stats | Attaquant spécial solide |
 
 💡 Oh-Ho évolue au **niveau 50** avec l'objet **Pierre Feu**
 
@@ -344,7 +344,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Koraidon (échange + Dragon Fang) |
 | ⚔️ Type | Combat |
 | 🧬 Talent | Torche |
-| 📊 Stats | Physique rapide |
+| 📊 Stats | Sweeper physique rapide |
 
 💡 Haidon évolue par **échange** avec l'objet **Croc Dragon**
 
@@ -360,7 +360,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Miraidon |
 | ⚔️ Type | Électrique |
 | 🧬 Talent | Absorbe-Volt|
-| 📊 Stats | Rapide spécial |
+| 📊 Stats | Sweeper spécial rapide |
 
 💡 Kaidon évolue par **échange** avec l'objet **Électriseur**
 
@@ -374,7 +374,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🔁 Évolution | Arceus |
 | ⚔️ Type | Normal |
 | 🧬 Talent | Adaptabilité |
-| 📊 Stats | Équilibré global |
+| 📊 Stats | Statistiques équilibrées |
 
 💡 Beta évolue par **au niveau 80** avec l'objet **Étoile du Nether**
 
