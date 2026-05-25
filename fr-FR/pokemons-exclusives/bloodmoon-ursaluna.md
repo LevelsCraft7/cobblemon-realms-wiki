@@ -1,12 +1,22 @@
-# 🌕 Bloodmoon Ursaluna
+# 🌕 Ursaluna Lune de Sang
 
-Bloodmoon Ursaluna appears under specific moon phases.
+Ursaluna Lune de Sang apparaît uniquement sous certaines phases lunaires et dans des biomes spécifiques.
 
-## 📍 Where to Find
+---
 
-- Dark Forest during Full Moon — ultra-rare
-- Spooky Biomes during New Moon — rare
+## 📍 Localisation
+
+| 🌍 Biome | 🌙 Condition |
+|---|---|
+| Forêt Sombre | Pleine Lune (ultra rare) |
+| Biomes Effrayants | Nouvelle Lune (rare) |
+
+---
 
 ## 📝 Notes
 
-- No special item needed, just correct timing and location.
+- Aucun objet requis
+- Apparition basée uniquement sur :
+  - 🌙 phase de lune
+  - 🌲 biome spécifique
+- Rencontre très rare
