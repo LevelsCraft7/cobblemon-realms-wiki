@@ -1,15 +1,15 @@
-# 🌑 Deeper and Darker - The Otherside
+# 🌑 Plongée dans les Profondeurs Oubliées
 
 **Deeper and Darker** ajoute une dimension souterraine oppressante nommée **The Otherside**, centrée sur :
 
-- 🌑 l’obscurité
-- 🔊 le son et les vibrations
-- 🧭 l’exploration prudente
-- 💀 le loot à haut risque
+- 🌑 M’obscurité
+- 🔊 Les sons et les vibrations
+- 🧭 L’exploration prudente
+- 💀 Le loot à haut risque
 
 Dans **Cobblemon Realms**, cette dimension devient encore plus importante grâce à ses nombreux **spawns Cobblemon personnalisés**, incluant plusieurs rencontres rares et late-game.
 
-![Otherside Portal](https://user-images.githubusercontent.com/67495659/186485287-e98929f6-4192-488c-a327-b70680dffc35.png)
+![Otherside Portal](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Deeper-and-Darker/Otherside_Portal.png)
 
 ---
 
@@ -78,7 +78,7 @@ Les **Deeplands** représentent le cœur hostile de la dimension.
 
 L’**Echoing Forest** est le biome violet emblématique de la dimension.
 
-![Echoing Forest](https://user-images.githubusercontent.com/67495659/186501670-39f45975-dd33-4451-aa00-c226e2d77b32.png)
+![Echoing Forest](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Deeper-and-Darker/Echoing_Forest.png)
 
 ## 🐾 Spawns marquants
 
@@ -140,7 +140,7 @@ Les **Blooming Caverns** sont plus lumineuses et humides.
 
 Biome rocheux composé d’immenses colonnes minérales.
 
-![Overcast Columns](https://user-images.githubusercontent.com/89267077/199761164-d671757a-899b-4076-a9bb-5c68346b689f.png)
+![Overcast Columns](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Deeper-and-Darker/Overcast_Columns.png)
 
 ## 🐾 Spawns marquants
 
@@ -229,7 +229,7 @@ Le danger ne vient pas uniquement des mobs :
 
 Structure principale des Deeplands.
 
-![Ancient Temple](https://user-images.githubusercontent.com/67495659/186504704-e56fe4cd-0914-42fe-b250-81f691146e4f.png)
+![Ancient Temple](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Deeper-and-Darker/Ancient_Temple.png)
 
 ## 📌 Pourquoi elle est importante ?
 
