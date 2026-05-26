@@ -441,7 +441,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 > Les cristaux de la queue de Vouivrali sont actuellement des écailles durcies, quand ils se sent en danger, Vouivrali peut éjecter ces écailles sur leurs ennemis. Vouivrali est extrêmement territorial. 
 
-![Vouivrali](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/imgwiki/Extra-Eeeveelution/wyveon.png) ![Vouivrali Shiny](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/imgwiki/Extra-Eeeveelution/wyveon_shiny.png) 
+![Vouivrali](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/wyveon.png) ![Vouivrali Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/wyveon_shiny.png) 
 
 ---
 
