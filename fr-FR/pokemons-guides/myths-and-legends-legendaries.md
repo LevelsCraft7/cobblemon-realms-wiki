@@ -815,7 +815,7 @@ Chaque fiche précise l’objet nécessaire, les conditions spécifiques et l’
 ## 🧬 Type: Null
 
 <p align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/type-null.gif" alt="Type: Null">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/772.gif" alt="Type: Null">
 </p>
 
 | 📌 Informations | 📋 Détails |
@@ -830,7 +830,7 @@ Chaque fiche précise l’objet nécessaire, les conditions spécifiques et l’
 ## ⚡ Tapu Koko
 
 <p align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/tapu-koko.gif" alt="Tapu Koko">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/785.gif" alt="Tapu Koko">
 </p>
 
 | 📌 Informations | 📋 Détails |
@@ -845,7 +845,7 @@ Chaque fiche précise l’objet nécessaire, les conditions spécifiques et l’
 ## 🌸 Tapu Lele
 
 <p align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/tapu-lele.gif" alt="Tapu Lele">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/786.gif" alt="Tapu Lele">
 </p>
 
 | 📌 Informations | 📋 Détails |
@@ -860,7 +860,7 @@ Chaque fiche précise l’objet nécessaire, les conditions spécifiques et l’
 ## 🌿 Tapu Bulu
 
 <p align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/tapu-bulu.gif" alt="Tapu Bulu">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/787.gif" alt="Tapu Bulu">
 </p>
 
 | 📌 Informations | 📋 Détails |
@@ -875,7 +875,7 @@ Chaque fiche précise l’objet nécessaire, les conditions spécifiques et l’
 ## 🌊 Tapu Fini
 
 <p align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/tapu-fini.gif" alt="Tapu Fini">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/788.gif" alt="Tapu Fini">
 </p>
 
 | 📌 Informations | 📋 Détails |
