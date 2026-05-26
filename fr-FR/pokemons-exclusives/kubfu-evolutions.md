@@ -1,6 +1,6 @@
 # 🥋 Wushours - Évolutions
 
-Kubfu peut évoluer en deux formes différentes d’Urshifu selon le parchemin utilisé.
+Wushours peut évoluer en deux formes différentes de Shifours selon le parchemin utilisé.
 
 ---
 
