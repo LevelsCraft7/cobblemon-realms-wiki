@@ -206,12 +206,12 @@ L’Aether est une dimension très verticale.
 
 L’Aether possède sa propre boucle de progression basée sur :
 
-- 🏝️ l’exploration d’îles
-- 🏛️ les donjons
-- 🗝️ les clés et coffres
-- ⚒️ les matériaux spéciaux
-- 🎒 les accessoires
-- 🐉 les montures
+- 🏝️ L’exploration d’îles
+- 🏛️ Les donjons
+- 🗝️ Les clés et coffres
+- ⚒️ Les matériaux spéciaux
+- 🎒 Les accessoires
+- 🐉 Les montures
 
 ---
 
@@ -332,10 +332,10 @@ Ils rendent les traversées aériennes beaucoup plus dangereuses.
 
 L’Aether possède :
 
-- 🎒 des slots d’accessoires
-- 🗝️ des coffres verrouillés
-- 💎 du loot exclusif
-- ⚒️ des blocs utilitaires
+- 🎒 Des slots d’accessoires
+- 🗝️ Des coffres verrouillés
+- 💎 Du loot exclusif
+- ⚒️ Des blocs utilitaires
 
 ➡️ Cela donne à la dimension une forte identité RPG-aventure.
 
