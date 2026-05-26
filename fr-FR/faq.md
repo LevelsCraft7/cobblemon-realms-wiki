@@ -128,8 +128,8 @@ Le guide dédié explique :
 
 Rejoignez le serveur Discord pour :
 
-- obtenir de l’aide
-- signaler un problème
-- discuter avec la communauté
+- Obtenir de l’aide
+- Signaler un problème
+- Discuter avec la communauté
 
 🔗 [Rejoindre le Discord](https://discord.gg/kb8NSTF45n)
