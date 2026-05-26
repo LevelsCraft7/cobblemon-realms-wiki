@@ -5,7 +5,6 @@ Le datapack **Extra Eeveelutions** ajoute de nombreuses nouvelles évolutions d�
 - Des statistiques personnalisées
 - Des talents uniques
 - Des méthodes d’évolution spécifiques
-- Des learnsets dédiés
 - Des spawns spéciaux dans le monde
 
 Cette page regroupe toutes les Eeveelutions ajoutées par le datapack.
@@ -14,7 +13,7 @@ Cette page regroupe toutes les Eeveelutions ajoutées par le datapack.
 
 # ❓ FAQ
 
-## 🧬 Evoli évolue-t-il en Evereon uniquement via des Pokémon sauvages ?
+## 🧬 Évoli évolue-t-il en Evereon uniquement via des Pokémon sauvages ?
 
 Certains joueurs rapportent que les combats contre des Dresseurs fonctionnent également, tandis que d'autres indiquent le contraire.
 
