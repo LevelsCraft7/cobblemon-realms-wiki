@@ -1,300 +1,422 @@
-# The Aether
+# ☁️ The Aether
 
-L'Aether ajoute une dimension celeste remplie d'iles flottantes, de nouveaux materiaux, de donjons, de montures, d'accessoires et de boss.
+**The Aether** ajoute une dimension céleste remplie :
 
-Dans **Cobblemon Realms**, cette dimension est encore plus interessante car elle possede des **spawns Cobblemon personnalises**, avec plusieurs rencontres rares et de fin de progression.
+- ☁️ d’îles flottantes
+- 🏛️ de donjons
+- ⚔️ de boss
+- 🐉 de créatures uniques
+- ✨ d’objets et accessoires spéciaux
 
----
-
-## Ce Que Ce Guide Couvre
-
-- pourquoi les joueurs vont dans l'Aether sur Cobblemon Realms
-- comment acceder a l'Aether
-- ce qui rend la dimension speciale
-- le chemin de progression principal
-- les structures et boss les plus importants
+Dans **Cobblemon Realms**, cette dimension devient encore plus importante grâce à ses nombreux **spawns Cobblemon personnalisés**, incluant plusieurs Pokémon rares, légendaires et late-game.
 
 ---
 
-## Spawns Cobblemon dans Cobblemon Realms
+# 📚 Ce que couvre ce guide
 
-Si vous vous demandez pourquoi l'Aether vaut vraiment le detour dans **Cobblemon Realms**, la reponse tient surtout a ses spawns custom.
-
-Au lieu de lister chaque regle de spawn, cette section met en avant les rencontres et groupes de biomes qui donnent envie aux joueurs d'y aller.
-
-### Spawns Generaux de l'Aether
-
-A travers `#aether:is_aether` et les principaux biomes Skyroot, le modpack inclut de nombreuses entrees comme :
-
-- des lignes fee comme **Melo**, **Melofee**, **Melodelfe**
-- des lignes vol comme **Tylton**, **Altaria**, **Nirondelle**, **Heledelle**
-- des spawns etranges ou spectraux comme **Fantominus**, **Ectoplasma**, **Feuforeve**, **Lampignon**
-- des dragons comme **Minidraco**, **Draco**, **Dracolosse**, **Griknot**, **Carmache**, **Carchacrok**, **Draby**, **Drackhaus**, **Drattak**
-- des variantes regionales comme **Raichu d'Alola**, **Triopikeur d'Alola**, **Ponyta de Galar**, ainsi que des entrees hisuiennes comme **Zorua de Hisui** et **Zoroark de Hisui**
-
-Rien que cela donne deja a l'Aether une identite tres differente de l'Overworld dans Cobblemon Realms.
-
-### Points Forts de Skyroot Meadow et Skyroot Grove
-
-Parmi les rencontres notables des biomes les plus ouverts :
-
-- **Absol**
-- **Nanmeouie**
-- **Gallame** et **Gardevoir**
-- **Altaria**
-- **Shaymin**
-- **Rayquaza**
-- **Fulguris**
-- **Boreas**
-- **Ire-Foudre**
-- **Pelage-Sable**
-- plusieurs lignes de starters
-
-Ces biomes sont excellents pour chercher des spawns rares tout en gardant une bonne lisibilite.
-
-### Points Forts de Skyroot Forest et Woodland
-
-Les biomes boises de l'Aether sont particulierement interessants pour :
-
-- **Xerneas**
-- **Cosmog**
-- **Vemini**
-- **Terapagos**
-- **Rugit-Lune**
-- **Hurle-Queue**
-- **Fongus-Furie**
-- **Mouscoto**
-- **Pierroteknik**
-- **Cablifere**
-- plusieurs dragons et pseudo-legendaires
-
-Si vous cherchez du legendaire, de l'Ultra Beast, du paradox ou du contenu tardif, ce sont parmi les meilleurs biomes a prioriser.
-
-### Identite du Pack dans l'Aether
-
-L'un des aspects les plus interessants de l'Aether dans Cobblemon Realms est le melange entre :
-
-- des Pokemon "paradis du ciel"
-- beaucoup de fee et de vol
-- des dragons et pseudo-legendaires
-- des paradox et rencontres de haut niveau
-- quelques entrees speciales ou custom liees au pack
-
-Dans ce modpack, l'Aether n'est donc pas juste une dimension secondaire. C'est une vraie zone de chasse et de progression.
+| 📌 Sujet | 📋 Contenu |
+|---|---|
+| ☁️ Présentation | Ce qui rend l’Aether unique |
+| 🚪 Accès | Activation du portail |
+| 🐾 Spawns Cobblemon | Pokémon exclusifs et rares |
+| 🌍 Biomes | Zones principales |
+| ⚔️ Progression | Donjons et boss |
+| 🧭 Exploration | Conseils et survie |
+| 🐉 Créatures | Moas, Zephyrs et utilitaires |
 
 ---
 
-## Comment Acceder a l'Aether
+# 🐾 Spawns Cobblemon dans l’Aether
 
-Pour entrer dans la dimension :
+Dans **Cobblemon Realms**, l’Aether est surtout connue pour :
 
-1. Construisez un cadre de portail en **Glowstone** dans l'Overworld.
-2. Utilisez un **seau d'eau** au centre du cadre.
-3. Traversez le portail pour entrer dans l'Aether.
-
-![Portail de l'Aether](https://raw.githubusercontent.com/The-Aether-Team/.github/main/images/image1.png)
-
-L'Aether est une vraie dimension de type "paradis hostile" :
-
-- ciel lumineux
-- iles flottantes
-- pas de sol classique sous vous
-- vrai risque de chute hors de la dimension
-
-Pour une premiere entree, prenez :
-
-- de la nourriture
-- des blocs
-- une option a distance
-- un moyen de marquer la position du portail
+- ✨ ses Pokémon rares
+- 🐉 ses dragons
+- 🌈 ses Pokémon Fée et Vol
+- ⚠️ ses Pokémon Paradoxes
+- 👽 ses Ultra-Chimères
+- 🏆 ses rencontres late-game
 
 ---
 
-## Ce Qui Rend l'Aether Different
+# ☁️ Spawns généraux de l’Aether
 
-L'Aether n'est pas juste une autre dimension d'exploration. Il possede sa propre boucle de progression autour de :
+À travers les biomes Skyroot et le tag :
 
-- la navigation entre iles
-- la conquete des donjons
-- de nouveaux paliers de materiaux
-- des blocs utilitaires
-- des accessoires et montures
-- des cles de boss et coffres verrouilles
+`#aether:is_aether`
 
-D'apres la description officielle du mod, la progression centrale inclut :
+la dimension inclut notamment :
 
-- **Skyroot**, **Holystone**, **Zanite** et **Gravitite**
-- des blocs utilitaires comme l'**Altar**, le **Freezer** et l'**Incubator**
-- un systeme d'accessoires dedie
-- une progression par donjons **Bronze**, **Silver** et **Gold**
+## ✨ Pokémon Fée
+
+- Mélo
+- Mélofée
+- Mélodelfe
+
+## 🕊️ Pokémon Vol
+
+- Tylton
+- Altaria
+- Nirondelle
+- Hélédelle
+
+## 👻 Pokémon étranges et spectraux
+
+- Fantominus
+- Ectoplasma
+- Feuforêve
+- Lampignon
+
+## 🐉 Dragons et pseudo-légendaires
+
+- Minidraco
+- Draco
+- Dracolosse
+- Griknot
+- Carmache
+- Carchacrok
+- Draby
+- Drackhaus
+- Drattak
+
+## 🌍 Variantes régionales
+
+- Raichu d’Alola
+- Triopikeur d’Alola
+- Ponyta de Galar
+- Zorua de Hisui
+- Zoroark de Hisui
 
 ---
 
-## Biomes Principaux de l'Aether
+# 🌿 Skyroot Meadow & Skyroot Grove
 
-L'Aether moderne s'organise surtout autour de quatre biomes de ciel proches les uns des autres :
+Les biomes les plus ouverts et lisibles de l’Aether.
 
 ![Skylands de l'Aether](https://raw.githubusercontent.com/The-Aether-Team/.github/main/images/image0.png)
 
-- **Skyroot Meadow**
-- **Skyroot Grove**
-- **Skyroot Forest**
-- **Skyroot Woodland**
+## 🐾 Spawns notables
 
-Ils partagent tous l'identite generale des iles flottantes, mais la densite des arbres et la lisibilite changent.
+- Absol
+- Nanméouïe
+- Gallame
+- Gardevoir
+- Altaria
+- Shaymin
+- Rayquaza
+- Fulguris
+- Boréas
+- Ire-Foudre
+- Pelage-Sable
 
-### Skyroot Meadow
+## 📌 Pourquoi ces biomes sont importants ?
 
-Le biome le plus ouvert et le plus simple a lire.
-
-Ideal pour :
-
-- l'exploration de debut
-- reperer les structures de loin
-- profiter de plusieurs spawns rares lies aux biomes ouverts
-
-### Skyroot Grove
-
-Un biome intermediaire, avec plus de vegetation que le Meadow mais plus lisible qu'une vraie foret.
-
-C'est l'un des meilleurs biomes generalistes pour les spawns custom du modpack.
-
-### Skyroot Forest
-
-Un biome plus dense et plus dangereux visuellement que les Meadows et Groves.
-
-Il est particulierement important pour plusieurs spawns dragons, fee, vol et paradox dans Cobblemon Realms.
-
-### Skyroot Woodland
-
-Un biome plus rare et boise, souvent associe a certaines des rencontres speciales les plus fortes du pack.
+| 🌿 Points forts |
+|---|
+| 👀 Très bonne visibilité |
+| 🧭 Exploration facile |
+| ✨ Spawns rares |
+| 🐾 Nombreux Pokémon spéciaux |
 
 ---
 
-## Progression Principale dans l'Aether
+# 🌲 Skyroot Forest & Woodland
 
-Le flux de progression general ressemble a ceci :
+Biomes plus denses et plus dangereux visuellement.
 
-1. Entrer dans la dimension et securiser la zone du portail.
-2. Recuperer les premieres ressources et un equipement de base.
-3. Explorer les iles et structures de surface.
-4. Trouver et nettoyer les donjons pour obtenir cles et tresors.
-5. Ameliorer sa mobilite et sa survie.
-6. Pousser vers les structures et boss les plus rentables.
+## 🐾 Spawns importants
 
-Point important :
+- Xerneas
+- Cosmog
+- Vémini
+- Terapagos
+- Rugit-Lune
+- Hurle-Queue
+- Fongus-Furie
+- Mouscoto
+- Pierroteknik
+- Câblifère
 
-- tomber d'une ile fait partie du vrai danger de la dimension
-- la mobilite compte autant que le combat
+## 📌 Intérêt principal
 
----
-
-## Mobs Cles et Fonctions Utiles
-
-Parmi les elements les plus emblematiques du mod :
-
-### Moas
-
-Les **Moas** sont l'une des creatures signatures de l'Aether. Ils peuvent devenir d'excellents compagnons de voyage une fois eleves et selles.
-
-Le wiki officiel les decrit comme :
-
-- de grands oiseaux passifs
-- montables une fois eclos
-- disponibles en plusieurs couleurs avec un nombre de sauts differents
-
-### Zephyrs
-
-Les **Zephyrs** sont des mobs hostiles en forme de nuage, un peu comparables a des ghasts aeriens de l'Aether.
-
-Ils rendent les traversees a ciel ouvert beaucoup plus dangereuses qu'elles n'en ont l'air.
-
-### Accessoires et Utilitaires
-
-Le mod inclut aussi :
-
-- des slots d'accessoires
-- des blocs utilitaires
-- du loot de donjon unique
-- une progression par cles et coffres verrouilles
-
-Tout cela donne a la dimension un vrai cote aventure-RPG.
+| ⚠️ Contenu late-game |
+|---|
+| 👽 Ultra-Chimères |
+| ⚠️ Pokémon Paradoxes |
+| 🏆 Légendaires |
+| 🐉 Dragons rares |
 
 ---
 
-## Donjons et Boss
+# 🌈 L’identité de l’Aether dans Cobblemon Realms
 
-La ligne de donjons de l'Aether est l'un de ses points les plus forts.
+L’Aether mélange plusieurs styles de rencontres :
 
-### Bronze Dungeon
+| ✨ Types dominants |
+|---|
+| 🌈 Pokémon Fée |
+| ☁️ Pokémon Vol |
+| 🐉 Dragons |
+| ⚠️ Pokémon Paradoxes |
+| 👽 Ultra-Chimères |
+| 🏆 Rencontres late-game |
 
-Le **Bronze Dungeon** est le premier grand donjon et la demeure du **Slider**.
+➡️ Dans Cobblemon Realms, l’Aether est une véritable zone de progression et de chasse avancée.
+
+---
+
+# 🚪 Comment accéder à l’Aether
+
+## ✅ Activation du portail
+
+1. Construire un cadre en **Glowstone**
+2. Verser de l’eau au centre
+3. Traverser le portail
+
+![Portail de l'Aether](https://raw.githubusercontent.com/The-Aether-Team/.github/main/images/image1.png)
+
+---
+
+# ⚠️ Important avant d’entrer
+
+L’Aether est une dimension très verticale.
+
+## 🎒 Préparation recommandée
+
+- 🍖 Nourriture
+- 🧱 Blocs
+- 🏹 Arme à distance
+- 🧭 Moyens de repérage
+
+## ⚠️ Danger principal
+
+| ⚠️ Risques |
+|---|
+| ☁️ Chute dans le vide |
+| 👀 Mauvaise visibilité |
+| ⚔️ Donjons dangereux |
+| 🌉 Traversées aériennes |
+
+---
+
+# ☁️ Ce qui rend l’Aether différent
+
+L’Aether possède sa propre boucle de progression basée sur :
+
+- 🏝️ l’exploration d’îles
+- 🏛️ les donjons
+- 🗝️ les clés et coffres
+- ⚒️ les matériaux spéciaux
+- 🎒 les accessoires
+- 🐉 les montures
+
+---
+
+# ⚒️ Matériaux et progression
+
+## 🪨 Ressources principales
+
+| ⚒️ Matériau | 📋 Utilité |
+|---|---|
+| Skyroot | Équipement de base |
+| Holystone | Progression initiale |
+| Zanite | Équipement avancé |
+| Gravitite | Matériau rare |
+
+---
+
+# 🧪 Blocs utilitaires importants
+
+| 🧪 Bloc | 📋 Fonction |
+|---|---|
+| Altar | Systèmes spéciaux |
+| Freezer | Fabrication |
+| Incubator | Gestion de créatures |
+
+---
+
+# 🌍 Biomes principaux
+
+## 🌿 Skyroot Meadow
+
+Biome très ouvert.
+
+### ✅ Idéal pour
+
+- 🧭 Exploration
+- 🏛️ Repérer les structures
+- ✨ Chercher des spawns rares
+
+---
+
+## 🌱 Skyroot Grove
+
+Biome intermédiaire.
+
+### ✅ Points forts
+
+- 🌿 Bonne visibilité
+- 🐾 Très bons spawns custom
+- 🧭 Exploration agréable
+
+---
+
+## 🌲 Skyroot Forest
+
+Biome plus dense et plus dangereux.
+
+### ✅ Intérêt
+
+- 🐉 Dragons
+- 🌈 Pokémon Fée
+- ⚠️ Pokémon Paradoxes
+
+---
+
+## 🌳 Skyroot Woodland
+
+Biome plus rare et plus hostile.
+
+### ✅ Connu pour
+
+- 🏆 Rencontres spéciales
+- ⚠️ Spawns puissants
+- 🌌 Exploration avancée
+
+---
+
+# ⚔️ Progression principale
+
+## 🧭 Boucle générale
+
+1. Sécuriser le portail
+2. Obtenir un équipement de base
+3. Explorer les îles
+4. Nettoyer les donjons
+5. Améliorer mobilité et survie
+6. Affronter les boss
+
+---
+
+# 🐉 Créatures emblématiques
+
+# 🐦 Moas
+
+Les **Moas** sont les montures emblématiques de l’Aether.
+
+## 📌 Particularités
+
+- 🐦 Oiseaux géants
+- 🪶 Plusieurs couleurs
+- 🐎 Montables
+- ☁️ Excellente mobilité aérienne
+
+---
+
+# ☁️ Zephyrs
+
+Les **Zephyrs** sont des mobs hostiles ressemblant à des nuages vivants.
+
+## ⚠️ Danger
+
+Ils rendent les traversées aériennes beaucoup plus dangereuses.
+
+---
+
+# 🎒 Accessoires et utilitaires
+
+L’Aether possède :
+
+- 🎒 des slots d’accessoires
+- 🗝️ des coffres verrouillés
+- 💎 du loot exclusif
+- ⚒️ des blocs utilitaires
+
+➡️ Cela donne à la dimension une forte identité RPG-aventure.
+
+---
+
+# 🏛️ Donjons et boss
+
+# 🥉 Bronze Dungeon
+
+Premier grand donjon de l’Aether.
+
+Boss : **Slider**
 
 ![Slider](https://aether.wiki.gg/wiki/Special:Redirect/file/Modern_Slider_Inactive.png)
 
-Le wiki officiel le presente comme un grand labyrinthe enfoui dans les iles.
+## 📌 Informations
 
-Le **Slider** :
+| ⚔️ Slider |
+|---|
+| ❤️ 400 PV |
+| ⛏️ Faible contre les pioches |
+| 🗝️ Drop : Bronze Key |
 
-- possede **400 PV**
-- doit etre frappe correctement avec une **pioche**
-- drop une **Bronze Key**
+---
 
-### Silver Dungeon
+# 🥈 Silver Dungeon
 
-Le **Silver Dungeon** est le donjon-temple habite par les Valkyries et dirige par la **Valkyrie Queen**.
+Temple des Valkyries.
+
+Boss : **Valkyrie Queen**
 
 ![Valkyrie Queen](https://aether.wiki.gg/wiki/Special:Redirect/file/Valkyrie_Queen_Render.png)
 
-Detail de progression important :
+## 📌 Informations
 
-- il faut generalement **10 Victory Medals** obtenues sur les Valkyries avant d'affronter la Reine
+| ⚔️ Valkyrie Queen |
+|---|
+| ❤️ 500 PV |
+| 🏅 Nécessite 10 Victory Medals |
+| 🗝️ Drop : Silver Key |
 
-La **Valkyrie Queen** :
+---
 
-- possede **500 PV**
-- drop une **Silver Key**
+# 🥇 Gold Dungeon
 
-### Gold Dungeon
+Dernier grand donjon principal.
 
-Le **Gold Dungeon** contient le **Sun Spirit**, dernier grand boss de la progression principale de l'Aether.
+Boss : **Sun Spirit**
 
 ![Sun Spirit](https://aether.wiki.gg/wiki/Special:Redirect/file/Modern_Sun_Spirit.png)
 
-Le **Sun Spirit** :
+## 📌 Informations
 
-- possede **500 PV**
-- drop une **Gold Key**
-- est lie a la progression de la lumiere eternelle de l'Aether
-
-Chaque cle de boss sert a ouvrir son coffre correspondant, donc le vrai gain ne se limite pas au combat lui-meme.
-
----
-
-## Lecture Rapide de la Dimension
-
-Si vous voulez la version courte :
-
-- les joueurs y vont souvent d'abord pour les spawns custom Cobblemon
-- le portail s'active avec **Glowstone + Eau**
-- la mobilite compte autant que le combat
-- les boss de donjon debloquent une partie du meilleur loot
-- l'Aether est a la fois une dimension de progression et une grande zone de chasse sur Cobblemon Realms
+| ⚔️ Sun Spirit |
+|---|
+| ❤️ 500 PV |
+| 🗝️ Drop : Gold Key |
+| ☀️ Boss final majeur |
 
 ---
 
-## Sources et Lectures Utiles
+# 📌 À retenir
+
+| ✅ Important |
+|---|
+| ☁️ Glowstone + Eau pour le portail |
+| 🐾 Très gros spawns Cobblemon |
+| ⚔️ Les boss donnent les meilleures récompenses |
+| 🧭 La mobilité est essentielle |
+| ☁️ Les chutes sont le principal danger |
+
+---
+
+# 📚 Sources utiles
 
 - [Official Aether Project Wiki](https://aether.wiki.gg/)
-- [Official Aether Project Wiki - The Aether](https://aether.wiki.gg/wiki/The_Aether/Skyroot_Grove)
-- [Official Aether Project Wiki - Bronze Dungeon](https://aether.wiki.gg/wiki/The_Aether/Bronze_Dungeon)
-- [Official Aether Project Wiki - Silver Dungeon](https://aether.wiki.gg/wiki/The_Aether/Silver_Dungeon)
-- [Official Aether Project Wiki - Slider](https://aether.wiki.gg/wiki/The_Aether/Slider)
-- [Official Aether Project Wiki - Valkyrie Queen](https://aether.wiki.gg/wiki/The_Aether/Valkyrie_Queen)
-- [Official Aether Project Wiki - Sun Spirit](https://aether.wiki.gg/wiki/The_Aether/Sun_Spirit)
-- [Official Aether Project Wiki - Moa](https://aether.wiki.gg/wiki/The_Aether/Moa)
-- [Official Aether Project Wiki - Zephyr](https://aether.wiki.gg/wiki/The_Aether/Zephyr)
-- [CurseForge - The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)
-- [Aether Fandom Wiki](https://aether.fandom.com/wiki/Aether_Wiki)
+- [The Aether — Wiki officiel](https://aether.wiki.gg/wiki/The_Aether/Skyroot_Grove)
+- [Bronze Dungeon](https://aether.wiki.gg/wiki/The_Aether/Bronze_Dungeon)
+- [Silver Dungeon](https://aether.wiki.gg/wiki/The_Aether/Silver_Dungeon)
+- [Slider](https://aether.wiki.gg/wiki/The_Aether/Slider)
+- [Valkyrie Queen](https://aether.wiki.gg/wiki/The_Aether/Valkyrie_Queen)
+- [Sun Spirit](https://aether.wiki.gg/wiki/The_Aether/Sun_Spirit)
+- [Moa](https://aether.wiki.gg/wiki/The_Aether/Moa)
+- [Zephyr](https://aether.wiki.gg/wiki/The_Aether/Zephyr)
+- [CurseForge — The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)
 
-Les notes Cobblemon Realms ci-dessus sont basees sur la configuration actuelle des spawns custom de la dimension Aether dans le modpack.
+---
+
+> 📘 Les informations Cobblemon Realms présentées ci-dessus sont basées sur la configuration actuelle des spawns personnalisés de la dimension Aether dans le modpack.
