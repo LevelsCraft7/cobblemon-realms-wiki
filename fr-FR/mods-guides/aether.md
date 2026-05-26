@@ -117,6 +117,7 @@ Les biomes les plus ouverts et lisibles de l’Aether.
 | 🧭 Exploration facile |
 | ✨ Spawns rares |
 | 🐾 Nombreux Pokémon spéciaux |
+|---|
 
 ---
 
