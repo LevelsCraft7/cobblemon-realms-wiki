@@ -34,7 +34,7 @@ Les apparitions dépendent de plusieurs paramètres :
 
 ➡️ Affiche les Pokémon pouvant apparaître autour de vous.
 
-📘 [Guide des apparitions](../pokemon-and-spawns.md)
+📘 [Guide des apparitions](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/pokemon-and-spawns.md)
 
 ---
 
@@ -89,7 +89,7 @@ Ce type d’hébergement est rarement adapté à un modpack aussi lourd.
 | GPU | Carte graphique dédiée recommandée |
 | Shaders | Optionnels mais gourmands |
 
-📘 [Guide d'installation](../installation.md)
+📘 [Guide d'installation](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/installation.md)
 
 ---
 
@@ -121,7 +121,7 @@ Le modpack ajoute plusieurs :
 - mécaniques exclusives
 - évolutions uniques
 
-📘 [Voir les formes exclusives](../pokemons-exclusives/mewtwo-exclusive-forms.md)
+📘 [Voir les formes exclusives](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/pokemons-exclusives/mewtwo-exclusive-forms.md)
 
 ---
 
@@ -134,7 +134,7 @@ Le guide dédié couvre :
 - 🏟️ Les arènes
 - 👑 Les champions
 
-📘 [Guide des dresseurs](../pokemons-guides/levelcap-and-trainers.md)
+📘 [Guide des dresseurs](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/pokemons-guides/levelcap-and-trainers.md)
 
 ---
 
