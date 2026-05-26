@@ -2,9 +2,7 @@
 
 ## 🎯 Objectif
 
-Cette page explique comment créer un ressource pack compatible avec **Music Interface** afin d’ajouter vos propres musiques dans Minecraft.
-
-Le mod utilise un pack de ressources Minecraft classique, avec quelques fichiers spécifiques à fournir.
+Cette page explique comment créer un ressource pack compatible avec **Music Interface** afin d’ajouter vos propres musiques dans Minecraft. Le mod utilise un pack de ressources Minecraft classique, avec quelques fichiers spécifiques à fournir.
 
 ---
 
