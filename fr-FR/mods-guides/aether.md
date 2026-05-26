@@ -93,7 +93,7 @@ la dimension inclut notamment :
 
 Les biomes les plus ouverts et lisibles de l’Aether.
 
-![Skylands de l'Aether](https://raw.githubusercontent.com/The-Aether-Team/.github/main/images/image0.png)
+![Skyroot Meadow](https://aether.wiki.gg/images/Skyroot_Meadow.png) ![Skyroot Grove](https://aether.wiki.gg/images/Skyroot_Grove.png)
 
 ## 🐾 Spawns notables
 
