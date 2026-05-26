@@ -96,7 +96,7 @@ Le wiki est géré via :
 
 Vous pouvez :
 
-- Cprriger des erreurs
+- Corriger des erreurs
 - Améliorer les textes
 - Proposer des traductions
 - Ajouter des pages
@@ -115,10 +115,10 @@ Oui. Le modpack contient plusieurs formes spéciales, mécaniques exclusives et 
 
 Le guide dédié explique :
 
-- les level caps
-- les champions
-- les arènes
-- la progression principale
+- La progression principale
+- Les level caps
+- Les champions
+- Les arènes
 
 📘 [Lire le guide des dresseurs](../pokemons-guides/levelcap-and-trainers.md)
 
