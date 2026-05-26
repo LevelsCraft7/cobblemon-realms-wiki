@@ -40,7 +40,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 Évoli peut apprendre :
 
-- **Miroi-Tir (Mirror Move)**
+- **Miroi-Tir**
 - au **niveau 20**
 
 ---
@@ -184,7 +184,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 ## 🔮 Méthode d’évolution
 
 - Niveau **36**
-- en tenant un **Focus Band**
+- en tenant un **Bandeau**
 
 ---
 
@@ -271,7 +271,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 ## 🎯 Talents
 
 - **Talents :** Force Sable, Fermeté
-- **Talent Caché :** Keen Eye
+- **Talent Caché :** Regard Vif
 
 ---
 
@@ -284,8 +284,8 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 🔮 Méthode d’évolution
 
-- Tenir une **Iron Pickaxe**
-- dans une **Dripstone Cave**
+- Tenir une **Pioche en fer**
+- dans une **Cavernes de spéléothèmes**
 
 ---
 
@@ -327,14 +327,14 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 🌍 Lieux d’apparition
 
-- 🍯 Près des Bee Nests
+- 🍯 Près des Nid d'abeilles
 
 ---
 
 ## 🔮 Méthode d’évolution
 
-- Évoli tenant une **Beehive**
-- avec un **Beedrill** dans l’équipe
+- Évoli tenant une **Ruche**
+- avec un **Dardargnan** dans l’équipe
 
 ---
 
@@ -376,15 +376,15 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 🌍 Lieux d’apparition
 
-- 🔴 Près des Redstone Torches
-- 🧱 Près des Iron Blocks
+- 🔴 Près des Toches de Redstone
+- 🧱 Près des Blocs de Fer
 
 ---
 
 ## 🔮 Méthode d’évolution
 
-- Utiliser un **Redstone Block**
-- sur Évoli tenant un **Lever**
+- Utiliser un **Bloc de Redstone**
+- sur Évoli tenant un **Levier**
 
 ---
 
@@ -482,7 +482,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 🔮 Méthode d’évolution
 
-- Tenir une **Lantern**
+- Tenir une **Lanterne**
 - dans le **Deep Dark**
 
 ---
@@ -519,7 +519,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 ## 🔮 Méthode d’évolution
 
 - Amitié maximale
-- pendant qu’Évoli connaît **Dernier Recours**
+- pendant qu’Évoli apprends **Dernier Recours**
 
 ---
 
