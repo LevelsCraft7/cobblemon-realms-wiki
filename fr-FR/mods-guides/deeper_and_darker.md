@@ -1,235 +1,300 @@
-# Deeper and Darker
+# 🌑 Deeper and Darker — The Otherside
 
-Deeper and Darker ajoute **The Otherside**, une dimension souterraine oppressante centree sur l'obscurite, le son, l'exploration prudente et le loot a haut risque.
+**Deeper and Darker** ajoute une dimension souterraine oppressante nommée **The Otherside**, centrée sur :
 
-Dans **Cobblemon Realms**, cette dimension est encore plus interessante car elle accueille aussi des **spawns Cobblemon personnalises**, avec plusieurs rencontres rares et de fin de progression.
+- 🌑 l’obscurité
+- 🔊 le son et les vibrations
+- 🧭 l’exploration prudente
+- 💀 le loot à haut risque
+
+Dans **Cobblemon Realms**, cette dimension devient encore plus importante grâce à ses nombreux **spawns Cobblemon personnalisés**, incluant plusieurs rencontres rares et late-game.
 
 ![Otherside Portal](https://user-images.githubusercontent.com/67495659/186485287-e98929f6-4192-488c-a327-b70680dffc35.png)
 
 ---
 
-## Ce Que Couvre Ce Guide
+# 📚 Ce que couvre ce guide
 
-- pourquoi les joueurs vont dans cette dimension sur Cobblemon Realms
-- comment acceder a The Otherside
-- a quoi ressemble la progression du mod
-- quels biomes et structures valent vraiment le detour
-- quels Cobblemon interessants apparaissent dans la dimension
-
----
-
-## Spawns Cobblemon dans Cobblemon Realms
-
-Si vous voulez savoir pourquoi The Otherside vaut vraiment le detour, la reponse est simple : la dimension possede plusieurs spawns custom tres attirants dans **Cobblemon Realms**.
-
-La liste ci-dessous ne cherche pas a afficher chaque regle exacte. Elle met surtout en avant les rencontres qui donnent envie d'explorer la dimension.
-
-### Deeplands
-
-Spawns marquants :
-
-- Fantominus, Spectrum, Ectoplasma
-- Skelenox, Teraclope, Noctunoir
-- Archeomire, Archeodong
-- Gringolem, Golemastoc
-- Solochi, Diamat, Trioxhydre
-- Spiritomb
-- Mucuscule et Colimucus
-- Flotte-Meche
-- Rugit-Lune
-- **Type:0** en ultra-rare
-- **Marshadow** en ultra-rare
-
-Les Deeplands sont tres interessantes pour les joueurs qui cherchent du spectre, du dark, du rare ou des rencontres clairement orientees fin de progression.
-
-### Echoing Forest
-
-Spawns marquants :
-
-- Korillon et Eoko
-- Balignon et Chapignon
-- Nucleos, Meios, Symbios
-- Ningale, Ninjask, Munja
-- la lignee de Skelenox
-- Sonistrelle et Bruyverne
-- Spiritomb
-- **Hurle-Queue**
-- **Ire-Foudre** en ultra-rare
-
-Ce biome est excellent si vous cherchez une ambiance plus "etrange", avec beaucoup de spawns psychiques, sonores ou surnaturels.
-
-### Blooming Caverns
-
-Spawns marquants :
-
-- Mucuscule, Colimucus, Muplodocus
-- Tritonde, Batracne, Crapustule
-- Axoloto et Maraiste
-- Rapion et Drascore
-- Gloupti et Avaltout
-- Sepiatop et Sepiatroce
-- Nucleos, Meios, Symbios
-- Loupio et Lanturn
-- Yanma et Yanmega
-- **Fongus-Furie**
-
-Les Blooming Caverns font partie des meilleurs biomes Cobblemon de la dimension si vous voulez un melange de spawns aquatiques, souterrains, poison et "bizarres".
-
-### Overcast Columns
-
-Spawns marquants :
-
-- Griknot, Carmache, Carchacrok
-- Bebecaille et Ecaid
-- Baggiguane et Baggaid
-- Mysdibule
-- Chartor
-- **Fort-Ivoire**
-- **Rampe-Ailes**
-- **Pelage-Sable**
-- **Feu-Percant**
-
-C'est clairement le biome a surveiller si vous cherchez des dragons, des paradox et des rencontres plus agressives.
-
-### Spawns Lies aux Structures
-
-Certains spawns reposent aussi sur des structures ou conditions particulieres :
-
-- **Miaouss d'Alola** peut apparaitre autour de l'**Ancient Temple**
-- **Persian d'Alola** peut aussi y apparaitre a plus haut niveau
-- certaines regles utilisent egalement le tag `#cobblemon:is_deep_dark`, ce qui renforce encore l'identite propre de la dimension dans le modpack
+| 📌 Sujet | 📋 Contenu |
+|---|---|
+| 🌑 The Otherside | Présentation générale de la dimension |
+| 🚪 Accès | Activation du portail |
+| 🧭 Exploration | Conseils et préparation |
+| 🌍 Biomes | Zones importantes et ambiance |
+| 🏛️ Structures | Ancient Temple et progression |
+| 🐾 Spawns Cobblemon | Rencontres exclusives et rares |
+| ⚒️ Équipements | Objets et loot importants |
 
 ---
 
-## Comment Acceder a The Otherside
+# 🐾 Spawns Cobblemon dans The Otherside
 
-Pour entrer dans la dimension :
+Sur **Cobblemon Realms**, The Otherside est surtout connue pour ses nombreux spawns personnalisés orientés :
 
-1. Trouvez une **Ancient City**.
-2. Reperez la grande structure de portail en **Reinforced Deepslate**.
-3. Recuperez un **Heart of the Deep** sur le **Warden**.
-4. Retirez le sculk qui bloque l'interieur du cadre.
-5. Activez le portail avec le **Heart of the Deep**.
-
-A savoir :
-
-- le portail ne s'active pas si l'interieur est encore encombre
-- une fois dans la dimension, notez vos coordonnees
-- mieux vaut preparer votre retour avant de partir explorer trop loin
+- 👻 Spectre
+- 🌑 Ténèbres
+- 🧬 Late-game
+- ✨ Pokémon rares
+- 🐉 Dragons
+- ⚠️ Pokémon Paradoxes
 
 ---
 
-## Avant de Partir
+# 🌑 Deeplands
 
-The Otherside punit vite les erreurs. Ce n'est pas une dimension ou l'on entre "pour voir".
-
-Prenez de preference :
-
-- une bonne armure
-- de quoi vous soigner
-- beaucoup de nourriture
-- des blocs pour vous securiser ou traverser
-- de quoi vous orienter facilement
-- idealement le **Warden Helmet**, tres utile contre l'effet de Darkness
-
-Ici, le danger ne vient pas seulement des mobs : se perdre, mal voir, ou tomber au mauvais endroit peut suffire a transformer l'exploration en catastrophe.
-
----
-
-## Les Biomes Principaux
-
-### Deeplands
-
-Les **Deeplands** sont le coeur hostile de la dimension. C'est aussi la que l'on trouve l'**Ancient Temple**.
+Les **Deeplands** représentent le cœur hostile de la dimension.
 
 ![Deeplands](https://user-images.githubusercontent.com/67495659/186498785-fd91a158-15df-461b-8e46-eb3684d8a6ad.png)
 
-Ce biome est surtout connu pour :
+## 🐾 Spawns marquants
 
-- sa visibilite tres faible
-- son ambiance tres oppressante
-- ses structures importantes
-- plusieurs spawns Cobblemon sombres, spectraux et rares
+- Fantominus / Spectrum / Ectoplasma
+- Skelenox / Teraclope / Noctunoir
+- Archeomire / Archeodong
+- Gringolem / Golemastoc
+- Solochi / Diamat / Trioxhydre
+- Spiritomb
+- Mucuscule / Colimucus
+- Flotte-Mèche
+- Rugit-Lune
 
-### Echoing Forest
+### ✨ Ultra rares
 
-L'**Echoing Forest** est le biome violet emblématique de la dimension, avec ses arbres d'echo et son brouillard distinctif.
+- **Type:0**
+- **Marshadow**
+
+## 📌 Pourquoi explorer ce biome ?
+
+| ✅ Points forts |
+|---|
+| 👻 Spawns spectres et dark |
+| 🏛️ Ancient Temple |
+| 💀 Ambiance très dangereuse |
+| ✨ Rencontres late-game |
+
+---
+
+# 🌲 Echoing Forest
+
+L’**Echoing Forest** est le biome violet emblématique de la dimension.
 
 ![Echoing Forest](https://user-images.githubusercontent.com/67495659/186501670-39f45975-dd33-4451-aa00-c226e2d77b32.png)
 
-Il est souvent un peu plus lisible que les Deeplands, mais reste dangereux. Cote Cobblemon, il attire surtout des rencontres etranges, psychiques ou spectrales.
+## 🐾 Spawns marquants
 
-### Blooming Caverns
+- Korillon / Éoko
+- Balignon / Chapignon
+- Nucléos / Méios / Symbios
+- Ningale / Ninjask / Munja
+- Sonistrelle / Bruyverne
+- Spiritomb
+- Hurle-Queue
 
-Les **Blooming Caverns** sont plus lumineuses, plus humides, et plus faciles a lire visuellement grace a leur vegetation et a leurs bassins d'eau.
+### ✨ Ultra rare
 
-Ce biome est important pour :
+- **Ire-Foudre**
 
-- la progression **Resonarium**
-- le farm de **Sludge**
-- une bonne partie des spawns Cobblemon lies a l'eau, aux grottes et aux ambiances etranges
+## 📌 Ambiance du biome
 
-### Overcast Columns
+| 🌲 Particularités |
+|---|
+| 🔮 Spawns psychiques |
+| 👻 Pokémon surnaturels |
+| 🔊 Atmosphère sonore étrange |
+| 🌫️ Brouillard violet distinctif |
 
-Le biome **Overcast Columns** se reconnait a ses grandes colonnes et a son ambiance minerale plus ouverte.
+---
+
+# 🌿 Blooming Caverns
+
+Les **Blooming Caverns** sont plus lumineuses et humides.
+
+## 🐾 Spawns marquants
+
+- Mucuscule / Colimucus / Muplodocus
+- Tritonde / Batracné / Crapustule
+- Axoloto / Maraiste
+- Rapion / Drascore
+- Gloupti / Avaltout
+- Sepiatop / Sepiatroce
+- Nucléos / Méios / Symbios
+- Loupio / Lanturn
+- Yanma / Yanmega
+
+### ✨ Spawn spécial
+
+- **Fongus-Furie**
+
+## 📌 Intérêt principal
+
+| 🌿 Utilité |
+|---|
+| 💧 Spawns aquatiques |
+| ☣️ Pokémon poison |
+| 🧪 Progression Resonarium |
+| 🌌 Ambiance étrange |
+
+---
+
+# 🪨 Overcast Columns
+
+Biome rocheux composé d’immenses colonnes minérales.
 
 ![Overcast Columns](https://user-images.githubusercontent.com/89267077/199761164-d671757a-899b-4076-a9bb-5c68346b689f.png)
 
-Dans Cobblemon Realms, c'est surtout une zone tres interessante pour les dragons et plusieurs rencontres de type paradox.
+## 🐾 Spawns marquants
+
+- Griknot / Carmache / Carchacrok
+- Bébécaille / Écaïd
+- Baggiguane / Baggaïd
+- Mysdibule
+- Chartor
+
+### ✨ Paradoxes rares
+
+- **Fort-Ivoire**
+- **Rampe-Ailes**
+- **Pelage-Sable**
+- **Feu-Perçant**
+
+## 📌 Pourquoi ce biome est important ?
+
+| ⚔️ Spécialités |
+|---|
+| 🐉 Dragons |
+| ⚠️ Pokémon Paradoxes |
+| 💥 Rencontres agressives |
+| 🎯 Exploration late-game |
 
 ---
 
-## Structure et Progression du Mod
+# 🏛️ Spawns liés aux structures
 
-### Ancient Temple
+Certaines apparitions dépendent directement de structures spécifiques.
 
-L'**Ancient Temple** est la structure la plus importante de The Otherside et apparait dans les **Deeplands**.
+## 🏛️ Ancient Temple
+
+Peut faire apparaître :
+
+- 🐱 Miaouss d’Alola
+- 👑 Persian d’Alola
+
+Certaines règles utilisent aussi :
+
+`#cobblemon:is_deep_dark`
+
+➡️ Cela renforce l’identité unique de la dimension dans Cobblemon Realms.
+
+---
+
+# 🚪 Comment accéder à The Otherside
+
+## ✅ Étapes
+
+1. Trouver une **Ancient City**
+2. Repérer la structure de portail en **Reinforced Deepslate**
+3. Obtenir un **Heart of the Deep** sur le **Warden**
+4. Nettoyer le sculk dans le portail
+5. Activer le portail avec le Heart of the Deep
+
+---
+
+# ⚠️ Avant de partir
+
+The Otherside punit rapidement les erreurs.
+
+## 🎒 Équipement recommandé
+
+- 🛡️ Bonne armure
+- 🍖 Nourriture
+- ❤️ Soins
+- 🧱 Blocs de construction
+- 🧭 Moyens de repérage
+- 👁️ Warden Helmet recommandé
+
+## ⚠️ Important
+
+Le danger ne vient pas uniquement des mobs :
+
+- 🌑 visibilité réduite
+- 🕳️ terrain dangereux
+- 🧭 orientation difficile
+- 👻 ambiance oppressante
+
+---
+
+# 🏛️ Structures importantes
+
+## 🏛️ Ancient Temple
+
+Structure principale des Deeplands.
 
 ![Ancient Temple](https://user-images.githubusercontent.com/67495659/186504704-e56fe4cd-0914-42fe-b250-81f691146e4f.png)
 
-Pourquoi elle compte :
+## 📌 Pourquoi elle est importante ?
 
-- elle contient du loot de valeur
-- elle fait partie de la progression avancee du mod
-- elle est liee a certains spawns Cobblemon du modpack
-- on peut y trouver des objets rares comme le **Sculk Transmitter**
+| 🏛️ Ancient Temple |
+|---|
+| 💎 Loot rare |
+| ⚙️ Progression avancée |
+| 🐾 Spawns liés au modpack |
+| ✨ Objets exclusifs |
 
-### Objets et Equipements Cles
+### 🧪 Loot notable
 
-Parmi les objets les plus importants du mod :
-
-- **Heart of the Deep** pour activer le portail
-- **Warden Armor** et **Warden Tools**
-- l'equipement **Resonarium**
-- **Soul Crystal**
-- **Sonorous Staff**
-- **Soul Elytra**
-- **Sculk Transmitter**
-
-Vous n'avez pas besoin de tout obtenir immediatement, mais ce sont eux qui donnent sa vraie valeur a la dimension sur le long terme.
+- Sculk Transmitter
+- Soul Crystal
+- Sonorous Staff
+- Soul Elytra
 
 ---
 
-## Resume Rapide
+# ⚒️ Équipements et objets importants
 
-Si vous voulez retenir l'essentiel :
-
-- les joueurs y vont souvent d'abord pour ses spawns Cobblemon
-- **Deeplands** = danger, structures et gros spawns spectres ou rares
-- **Echoing Forest** = biome etrange, psychique, sonore et surnaturel
-- **Blooming Caverns** = eau, grottes, progression Resonarium et bons spawns varies
-- **Overcast Columns** = dragons, paradox et chasse late-game
+| ⚒️ Objet | 📋 Utilité |
+|---|---|
+| Heart of the Deep | Activation du portail |
+| Warden Armor | Protection avancée |
+| Warden Tools | Outils spécialisés |
+| Resonarium Gear | Progression du mod |
+| Soul Crystal | Craft avancé |
+| Sonorous Staff | Utilitaire spécial |
+| Soul Elytra | Mobilité |
+| Sculk Transmitter | Objet rare |
 
 ---
 
-## Sources et Lectures Utiles
+# 🧠 Résumé rapide
 
-- [Wiki officiel Deeper and Darker - The Otherside](https://github-wiki-see.page/m/KyaniteMods/DeeperAndDarker/wiki/The-Otherside)
-- [Wiki officiel Deeper and Darker - Starting Guide](https://github-wiki-see.page/m/KyaniteMods/DeeperAndDarker/wiki/Starting-Guide)
-- [Minecraft Guides - Otherside Portal](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/otherside-portal/)
-- [Minecraft Guides - Ancient Temple](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/ancient-temple/)
-- [Minecraft Guides - Echoing Forest](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/echoing-forest/)
-- [Minecraft Guides - Blooming Caverns](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/blooming-caverns/)
-- [Minecraft Guides - Overcast Columns](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/overcast-columns/)
+| 🌍 Zone | ⭐ Intérêt principal |
+|---|---|
+| Deeplands | Spectres, structures, ultra rares |
+| Echoing Forest | Psychique, sonore, surnaturel |
+| Blooming Caverns | Eau, poison, progression |
+| Overcast Columns | Dragons et paradoxes |
 
-Les informations Cobblemon Realms ci-dessus sont basees sur la configuration actuelle des spawns custom utilises dans la dimension pour le modpack.
+---
+
+# 📌 À retenir
+
+- 🌑 The Otherside est une dimension très dangereuse
+- 🐾 Les spawns Cobblemon y sont extrêmement intéressants
+- 🏛️ L’Ancient Temple est une structure clé
+- ⚠️ Préparez toujours votre exploration
+- 🧭 Notez vos coordonnées avant de partir loin
+
+---
+
+# 📚 Sources utiles
+
+- [Wiki officiel — The Otherside](https://github-wiki-see.page/m/KyaniteMods/DeeperAndDarker/wiki/The-Otherside)
+- [Wiki officiel — Starting Guide](https://github-wiki-see.page/m/KyaniteMods/DeeperAndDarker/wiki/Starting-Guide)
+- [Minecraft Guides — Otherside Portal](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/otherside-portal/)
+- [Minecraft Guides — Ancient Temple](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/ancient-temple/)
+- [Minecraft Guides — Echoing Forest](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/echoing-forest/)
+- [Minecraft Guides — Blooming Caverns](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/blooming-caverns/)
+- [Minecraft Guides — Overcast Columns](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/overcast-columns/)
+
+---
+
+> 📘 Les informations Cobblemon Realms présentées ci-dessus sont basées sur la configuration actuelle des spawns personnalisés utilisés dans la dimension.
