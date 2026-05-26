@@ -1,126 +1,140 @@
 # ❓ Foire aux questions
 
+Questions fréquentes concernant le modpack, l’installation et la progression.
+
 ---
 
-## 🚫 "Mon jeu plante au lancement du modpack"
+## 🚫 Mon jeu plante au lancement du modpack
 
-Vérifiez les points suivants :
+### ✅ Vérifications recommandées
 
-- ☕ Utiliser **Java 21 ou plus**
+- ☕ Utiliser **Java 21 ou supérieur**
 - 💾 Allouer au moins **8 Go de RAM**
-- 🖥️ Fermer les applications lourdes pendant le lancement
+- 🖥️ Fermer les applications gourmandes
 - ⚙️ Utiliser les flags JVM recommandés en solo
 
-📘 [Voir le guide d'optimisation solo](../settings/optimize-solo-performance.md)
+📘 [Guide d'optimisation solo](../settings/optimize-solo-performance.md)
 
 ---
 
-## 🐾 "Je ne trouve aucun Pokémon"
+## 🐾 Je ne trouve aucun Pokémon
 
-Les apparitions dépendent de plusieurs facteurs :
+Les apparitions dépendent de plusieurs paramètres :
 
-- 🌿 Biome
-- 🌙 Heure
-- 🌧️ Météo
-- 🕳️ Altitude ou environnement
+| 🌿 Facteur | 📋 Exemple |
+|---|---|
+| Biome | Forêt, désert, océan… |
+| Heure | Jour / nuit |
+| Météo | Pluie, orage… |
+| Zone | Grottes, altitude… |
 
-Utilisez également :
+### 🔎 Commande utile
 
 `/checkspawns`
 
-➡️ Cette commande affiche les Pokémon pouvant apparaître autour de vous.
+➡️ Affiche les Pokémon pouvant apparaître autour de vous.
 
-📘 [Lire le guide des apparitions](../pokemon-and-spawns.md)
-
----
-
-## 🧩 "Puis-je ajouter d'autres mods ?"
-
-Oui, mais ce n’est pas recommandé.
-
-Des mods supplémentaires peuvent :
-
-- Casser la progression
-- Déséquilibrer le gameplay
-- Créer des conflits
-- Réduire les performances
-
-> 🧪 Testez toujours les mods un par un.
+📘 [Guide des apparitions](../pokemon-and-spawns.md)
 
 ---
 
-## 👥 "Puis-je commencer en solo puis passer en serveur ?"
+## 🧩 Puis-je ajouter d'autres mods ?
+
+Oui, mais cela n’est pas recommandé.
+
+### ⚠️ Risques possibles
+
+- Déséquilibre du gameplay
+- Conflits entre mods
+- Bugs ou crashs
+- Baisse des performances
+
+> 🧪 Testez toujours les mods supplémentaires individuellement.
+
+---
+
+## 👥 Puis-je commencer en solo puis passer en serveur ?
 
 Oui.
 
-Votre monde solo peut être transféré plus tard vers un serveur.
+Votre monde solo peut être transféré vers un serveur à tout moment.
 
-Le server pack CurseForge facilite cette transition.
+### 📦 Recommandation
 
----
-
-## 🖥️ "Puis-je utiliser Aternos, Minehut ou un hébergeur gratuit ?"
-
-Ce n’est généralement pas recommandé pour un modpack de cette taille.
-
-Privilégiez un hébergeur avec :
-
-- 💾 suffisamment de RAM
-- ☕ Java 21
-- 📂 accès FTP
+Le **server pack CurseForge** simplifie grandement l’installation serveur.
 
 ---
 
-## ⚙️ "Le modpack demande-t-il une configuration particulière ?"
+## 🖥️ Puis-je utiliser Aternos, Minehut ou un hébergeur gratuit ?
 
-Oui.
+Ce type d’hébergement est rarement adapté à un modpack aussi lourd.
 
-Configuration recommandée :
+### ✅ Hébergement recommandé
 
-- ☕ Java 21 ou plus
-- 💾 8 Go de RAM minimum
-- 🎮 Carte graphique dédiée recommandée pour les shaders
-
-📘 [Suivre le guide d'installation](../installation.md)
+- 💾 RAM suffisante
+- ☕ Support Java 21
+- 📂 Accès FTP
+- ⚙️ Gestion correcte des mods
 
 ---
 
-## 🌍 "Puis-je aider à traduire ou améliorer le wiki ?"
+## ⚙️ Le modpack demande-t-il une configuration particulière ?
+
+### ✅ Configuration recommandée
+
+| ⚙️ Élément | 📋 Recommandation |
+|---|---|
+| Java | Version 21+ |
+| RAM | 8 Go minimum |
+| GPU | Carte graphique dédiée recommandée |
+| Shaders | Optionnels mais gourmands |
+
+📘 [Guide d'installation](../installation.md)
+
+---
+
+## 🌍 Puis-je aider à traduire ou améliorer le wiki ?
 
 Oui, les contributions sont les bienvenues.
 
-Le wiki est géré via :
+### 📚 Le wiki utilise
 
 - GitHub
 - GitBook
 
-Vous pouvez :
+### ✨ Vous pouvez
 
 - Corriger des erreurs
 - Améliorer les textes
-- Proposer des traductions
-- Ajouter des pages
+- Traduire des pages
+- Ajouter du contenu
 
 ---
 
-## ✨ "Y a-t-il des formes ou évolutions exclusives ?"
+## ✨ Existe-t-il des formes ou évolutions exclusives ?
 
-Oui. Le modpack contient plusieurs formes spéciales, mécaniques exclusives et évolutions uniques.
+Oui.
+
+Le modpack ajoute plusieurs :
+
+- formes spéciales
+- mécaniques exclusives
+- évolutions uniques
 
 📘 [Voir les formes exclusives](../pokemons-exclusives/mewtwo-exclusive-forms.md)
 
 ---
 
-## 🏆 "Où trouver les informations sur les dresseurs et les level caps ?"
+## 🏆 Où trouver les informations sur les dresseurs et les level caps ?
 
-Le guide dédié explique :
+Le guide dédié couvre :
 
-- La progression principale
-- Les level caps
-- Les champions
-- Les arènes
+- 📈 La progression principale
+- 🧢 Les level caps
+- 🏟️ Les arènes
+- 👑 Les champions
 
-📘 [Lire le guide des dresseurs](../pokemons-guides/levelcap-and-trainers.md)
+📘 [Guide des dresseurs](../pokemons-guides/levelcap-and-trainers.md)
 
 ---
 
@@ -128,8 +142,8 @@ Le guide dédié explique :
 
 Rejoignez le serveur Discord pour :
 
-- Obtenir de l’aide
-- Signaler un problème
-- Discuter avec la communauté
+- obtenir de l’aide
+- signaler un problème
+- discuter avec la communauté
 
 🔗 [Rejoindre le Discord](https://discord.gg/kb8NSTF45n)
