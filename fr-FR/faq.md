@@ -40,7 +40,7 @@ Les apparitions dépendent de plusieurs paramètres :
 
 ## 🧩 Puis-je ajouter d'autres mods ?
 
-Oui, mais cela n’est pas recommandé.
+**Oui, mais** cela n’est pas recommandé.
 
 ### ⚠️ Risques possibles
 
@@ -55,9 +55,7 @@ Oui, mais cela n’est pas recommandé.
 
 ## 👥 Puis-je commencer en solo puis passer en serveur ?
 
-Oui.
-
-Votre monde solo peut être transféré vers un serveur à tout moment.
+**Oui.** Votre monde solo peut être transféré vers un serveur à tout moment.
 
 ### 📦 Recommandation
 
@@ -95,7 +93,7 @@ Ce type d’hébergement est rarement adapté à un modpack aussi lourd.
 
 ## 🌍 Puis-je aider à traduire ou améliorer le wiki ?
 
-Oui, les contributions sont les bienvenues.
+**Oui**, les contributions sont les bienvenues.
 
 ### 📚 Le wiki utilise
 
@@ -113,9 +111,7 @@ Oui, les contributions sont les bienvenues.
 
 ## ✨ Existe-t-il des formes ou évolutions exclusives ?
 
-Oui.
-
-Le modpack ajoute plusieurs :
+**Oui.** Le modpack ajoute plusieurs :
 
 - formes spéciales
 - mécaniques exclusives
@@ -142,8 +138,8 @@ Le guide dédié couvre :
 
 Rejoignez le serveur Discord pour :
 
-- obtenir de l’aide
-- signaler un problème
-- discuter avec la communauté
+- Obtenir de l’aide
+- Signaler un problème
+- Discuter avec la communauté
 
 🔗 [Rejoindre le Discord](https://discord.gg/kb8NSTF45n)
