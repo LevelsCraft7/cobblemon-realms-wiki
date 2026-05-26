@@ -150,12 +150,12 @@ Une fois les modifications appliquées :
 
 Ces paramètres permettent notamment de :
 
-- ✅ réduire les freezes
-- ✅ limiter les micro-lags
-- ✅ améliorer le nettoyage mémoire (GC)
-- ✅ réduire certains rollbacks en solo
-- ✅ stabiliser les longues sessions de jeu
-- ✅ améliorer les performances générales du modpack
+- ✅ Réduire les freezes
+- ✅ Limiter les micro-lags
+- ✅ Améliorer le nettoyage mémoire (GC)
+- ✅ Réduire certains rollbacks en solo
+- ✅ Stabiliser les longues sessions de jeu
+- ✅ Améliorer les performances générales du modpack
 
 ---
 
@@ -165,7 +165,7 @@ Ces paramètres permettent notamment de :
 
 Cependant :
 
-- les dernières valeurs `-Xms` et `-Xmx` renseignées restent prioritaires
+- Les dernières valeurs `-Xms` et `-Xmx` renseignées restent prioritaires
 
 ---
 
