@@ -6,10 +6,10 @@
 
 Ce wiki a été conçu pour vous aider à :
 
-- 🚀 démarrer rapidement
-- 🧭 comprendre les mécaniques principales du modpack
-- 📚 trouver facilement les guides dont vous avez besoin
-- 🎯 suivre votre progression et découvrir les contenus du pack
+- 🚀 Démarrer rapidement
+- 🧭 Comprendre les mécaniques principales du modpack
+- 📚 Trouver facilement les guides dont vous avez besoin
+- 🎯 Suivre votre progression et découvrir les contenus du pack
 
 ---
 
@@ -17,37 +17,37 @@ Ce wiki a été conçu pour vous aider à :
 
 ## 🛠️ Installation & Configuration
 
-- 📦 aide à l’installation et aux mises à jour
-- 🚀 optimisation des performances et de la fluidité
-- ⚙️ réglages et configurations recommandés
-- 🌐 configuration solo et multijoueur
+- 📦 Aide à l’installation et aux mises à jour
+- 🚀 Optimisation des performances et de la fluidité
+- ⚙️ Réglages et configurations recommandés
+- 🌐 Configuration solo et multijoueur
 
 ---
 
 ## 🧭 Progression & Aventure
 
-- 🏆 systèmes de progression personnalisés
-- 🎯 dresseurs, level caps et défis
-- 📜 quêtes, objectifs et progression
-- ✨ contenus exclusifs et mécaniques uniques du modpack
+- 🏆 Systèmes de progression personnalisés
+- 🎯 Dresseurs, level caps et défis
+- 📜 Quêtes, objectifs et progression
+- ✨ Contenus exclusifs et mécaniques uniques du modpack
 
 ---
 
 ## 🌍 Exploration & Pokémon
 
-- 🌍 apparitions et comportements des Pokémon
-- 🗺️ biomes, dimensions et conditions de spawn
-- ✨ formes exclusives et variantes spéciales
-- 🏆 légendaires, mythiques et mécaniques uniques
+- 🌍 Apparitions et comportements des Pokémon
+- 🗺️ Biomes, dimensions et conditions de spawn
+- ✨ Formes exclusives et variantes spéciales
+- 🏆 Légendaires, mythiques et mécaniques uniques
 
 ---
 
 ## 🧑‍🤝‍🧑 Multijoueur & Serveurs
 
-- 🌐 rejoindre un serveur multijoueur
-- 🖥️ héberger votre propre monde
-- 👥 conseils pour les communautés et groupes
-- ⚙️ compatibilité, configuration et performances serveur
+- 🌐 Rejoindre un serveur multijoueur
+- 🖥️ Héberger votre propre monde
+- 👥 Conseils pour les communautés et groupes
+- ⚙️ Compatibilité, configuration et performances serveur
 
 ---
 
@@ -88,10 +88,10 @@ Cette documentation est collaborative et continuera d’évoluer avec le temps.
 
 Vous pouvez contribuer en :
 
-- ✏️ corrigeant des formulations
-- 📖 améliorant les guides existants
-- ➕ ajoutant des informations manquantes
-- 🌍 proposant des corrections ou des traductions
+- ✏️ Corrigeant des formulations
+- 📖 Améliorant les guides existants
+- ➕ Ajoutant des informations manquantes
+- 🌍 Proposant des corrections ou des traductions
 
 👉 Commencez ici : [Contribuer](contributing.md)
 
