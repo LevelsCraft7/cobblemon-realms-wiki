@@ -93,7 +93,7 @@ la dimension inclut notamment :
 
 Les biomes les plus ouverts et lisibles de l’Aether.
 
-![Skyroot Meadow](https://aether.wiki.gg/images/Skyroot_Meadow.png) ![Skyroot Grove](https://aether.wiki.gg/images/Skyroot_Grove.png)
+![Skyroot Meadow](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Skyroot_Meadow.png) ![Skyroot Grove](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Skyroot_Grove.png)
 
 ## 🐾 Spawns notables
 
@@ -125,7 +125,7 @@ Les biomes les plus ouverts et lisibles de l’Aether.
 
 Biomes plus denses et plus dangereux visuellement.
 
-![Skyroot Forest](https://aether.wiki.gg/images/Skyroot_Forest.png) ![Woodland](https://aether.wiki.gg/images/Skyroot_Woodland.png)
+![Skyroot Forest](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Skyroot_Forest.png) ![Woodland](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Skyroot_Woodland.png)
 
 ## 🐾 Spawns importants
 
@@ -176,7 +176,7 @@ L’Aether mélange plusieurs styles de rencontres :
 2. Verser de l’eau au centre
 3. Traverser le portail
 
-![Portail de l'Aether](https://minecraft.fr/wp-content/uploads/2022/01/portail-aether-mod-minecraft.jpg)
+![Portail de l'Aether](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Portail_Aether.jpg)
 
 ---
 
@@ -349,7 +349,7 @@ Premier grand donjon de l’Aether.
 
 Boss : **Slider**
 
-![Slider](https://aether.wiki.gg/wiki/Special:Redirect/file/Modern_Slider_Inactive.png)
+![Slider](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Modern_Slider_Inactive.png)
 
 ## 📌 Informations
 
@@ -367,7 +367,7 @@ Temple des Valkyries.
 
 Boss : **Valkyrie Queen**
 
-![Valkyrie Queen](https://aether.wiki.gg/wiki/Special:Redirect/file/Valkyrie_Queen_Render.png)
+![Valkyrie Queen](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Valkyrie_Queen_Render.png)
 
 ## 📌 Informations
 
@@ -385,7 +385,7 @@ Dernier grand donjon principal.
 
 Boss : **Sun Spirit**
 
-![Sun Spirit](https://aether.wiki.gg/wiki/Special:Redirect/file/Modern_Sun_Spirit.png)
+![Sun Spirit](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Modern_Sun_Spirit.png)
 
 ## 📌 Informations
 
