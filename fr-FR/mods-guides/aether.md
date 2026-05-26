@@ -173,7 +173,7 @@ L’Aether mélange plusieurs styles de rencontres :
 2. Verser de l’eau au centre
 3. Traverser le portail
 
-![Portail de l'Aether](https://raw.githubusercontent.com/The-Aether-Team/.github/main/images/image1.png)
+![Portail de l'Aether](https://minecraft.fr/wp-content/uploads/2022/01/portail-aether-mod-minecraft.jpg)
 
 ---
 
