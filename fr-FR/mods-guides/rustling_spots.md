@@ -187,10 +187,6 @@ Guide détaillé + Download :
 
 - [Custom Spot Definitions Guide](https://www.curseforge.com/minecraft/data-packs/rustling-spots-example-addon-datapack)
 
-Un datapack d'exemple est déjà fourni dans :
-
-- `example_datapacks/custom_swamp_spot_pack`
-
 ---
 ## Compatibilité et sécurité
 
