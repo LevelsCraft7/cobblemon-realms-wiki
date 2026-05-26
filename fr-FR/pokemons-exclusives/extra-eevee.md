@@ -21,7 +21,7 @@ Certains joueurs rapportent que les combats contre des Dresseurs fonctionnent é
 Dans la majorité des cas :
 
 - Évoli doit porter le **coup final**
-- sur les **18 Eeveelutions**
+- sur les **11 Eeveelutions**
 - du mod de base **et** de l’addon
 
 ⚠️ Les combats sauvages restent la méthode la plus fiable.
@@ -78,8 +78,6 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 - ✨ Magical Biomes *(Ultra Rare)*
 - 🏜️ Soul Sand Valley *(Rare)*
 
-![Spectroli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon.png) ![Spectroli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon_shiny.png) 
-
 ---
 
 ## 🔮 Méthode d’évolution
@@ -90,65 +88,15 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 📜 Description
 
-> Spectroli a tendance à rôder dans les forêts sombres, attendant patiemment le jour où son entraîneur reviendra. La plupart d’entre eux ne réalisent même pas qu’ils sont décédés et continuent d’errer sans fin dans ces lieux.
+> Spectroli a tendance à rôder dans les forêts sombres, attendant patiemment le jour où son entraîneur reviendra. La plupart d’entre eux ne réalisent même pas qu’ils sont décédés et continuent d’errer sans fin dans ces lieux. Quand un Spectroli sauvage rencontre un entraîneur, ils est initialement prudent, mais si l'entraîneur lui montre de l'affection, alors Spectroli développera un lien intense avec cet entraîneur, la plupart des Spectrolis étaient des Évolis abandonnés.
 
 ---
 
-## ⚔️ Learnset
-
-### 📈 Attaques par niveau
-
-- **Lv. 1** — Bite, Growl, Fake Tears, Smokescreen, Helping Hand, Sand Attack
-- **Lv. 5** — Hex
-- **Lv. 8** — Hypnose
-- **Lv. 12** — Mud-Slap
-- **Lv. 14** — Bitter Malice
-- **Lv. 17** — Ombre Nocturne
-- **Lv. 18** — Nasty Plot
-- **Lv. 22** — Phantom Force
-- **Lv. 26** — Destiny Bond
-- **Lv. 30** — Confusion
-- **Lv. 34** — Dream Eater
-- **Lv. 37** — Ally Switch
-- **Lv. 40** — Amnesia
-- **Lv. 43** — Worry Seed
-- **Lv. 50** — Nightmare
-- **Lv. 54** — Thief
-- **Lv. 57** — Energy Ball
-- **Lv. 60** — Will-O-Wisp
-- **Lv. 64** — Freeze Shock
-- **Lv. 73** — Quash
-- **Lv. 76** — Torment
-- **Lv. 80** — Double Team
+![Spectroli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon.png) ![Spectroli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon_shiny.png) 
 
 ---
 
-### 💿 CT compatibles
-
-- Repos
-- Plénitude
-- Charme
-- Onde Folie
-- Vole-Vie
-- Nœud Herbe
-- Vampigraine
-- Possessif
-- Salle de Magie
-- Mur Lumière
-- Abri
-- Échange
-- Ronflement
-- Force Ajoutée
-- Provoc
-- Téra-Explosion
-- Psykoud’Boul
-- Esprit Frappeur
-
-![Spectreon](https://github.com/user-attachments/assets/b57a2fc4-6e2b-4978-b53d-8b1170c31254)
-
----
-
-# ☣️ Acideon
+# ☣️ Aciduli
 
 ## 🧾 Informations générales
 
@@ -191,64 +139,15 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 📜 Description
 
-> L’orbe au bout de la queue d’Acideon est si toxique qu’un simple contact peut provoquer des dégâts irréversibles.
+> Aciduli aime rouler dans la gadoue des marais pour renforcer sa toxicité. L'orbe sur sa queue est la source des toxines qu'il injecte dans ses ennemis. L'orbe au bout de la queue d'Aciduli est tellement venimeuse que même légèrement la toucher peut causer des dégâts à long-termes.
 
 ---
 
-## ⚔️ Learnset
-
-### 📈 Attaques par niveau
-
-- **Lv. 1** — Bite, Growl, Fake Tears, Smokescreen, Helping Hand, Sand Attack, Harden
-- **Lv. 4** — Poison Sting
-- **Lv. 7** — Knock Off
-- **Lv. 9** — Poison Sting
-- **Lv. 12** — Acide
-- **Lv. 15** — Crunch
-- **Lv. 19** — Bombe Acide
-- **Lv. 23** — Gaz Toxik
-- **Lv. 27** — Clear Smog
-- **Lv. 29** — Pain Split
-- **Lv. 32** — Metal Claw
-- **Lv. 34** — Toxic
-- **Lv. 38** — Bomb-Beurk
-- **Lv. 42** — Gunk Shot
-- **Lv. 46** — Minimize
-- **Lv. 50** — Armure Acide
-- **Lv. 53** — Poison Tail
-- **Lv. 58** — Yawn
-- **Lv. 60** — Croix Poison
+![Aciduli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/acideon.png) ![Aciduli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/acideon_shiny.png)
 
 ---
 
-### 💿 CT compatibles
-
-- Repos
-- Plénitude
-- Charme
-- Onde Folie
-- Venoshock
-- Reflet
-- Détricanon
-- Vampigraine
-- Possessif
-- Bombe Fange
-- Picots
-- Pics Toxik
-- Ultralaser
-- Abri
-- Représailles
-- Force Ajoutée
-- Direct Toxik
-- Téra-Explosion
-- Ball’Ombre
-- Distorsion
-
-![Acideon](https://github.com/user-attachments/assets/337c2728-f144-493c-9702-82530f0aecc7)
-
----
-
-# 🥊 Champeon
+# 🥊 Champioli
 
 ## 🧾 Informations générales
 
@@ -291,42 +190,15 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 📜 Description
 
-> Lorsqu’Évoli s’imprègne de l’esprit d’un combattant, il s’entraîne pendant des années avant de devenir Champeon.
+> Quand un Évoli devient passioné par l'esprit d'un combattant, il se met à s'entraîner pendant des années, devenant éventuellement un Champioli. Champioli aime s'entraîner ensemble dans les grandes montagnes, pour ne pas déranger les villes et villages.
 
 ---
 
-## ⚔️ Learnset
-
-### 📈 Attaques par niveau
-
-- **Lv. 1** — Assurance, Growl, Tail Whip, Helping Hand, Sand Attack, Fire Punch, Ice Punch, Thunder Punch
-- **Lv. 5** — Vacuum Wave
-- **Lv. 8** — Mach Punch
-- **Lv. 12** — Garde Rapide
-- **Lv. 14** — Agilité
-- **Lv. 17** — Drain Punch
-- **Lv. 18** — Bullet Punch
-- **Lv. 22** — Protect
-- **Lv. 26** — Counter
-- **Lv. 30** — Heavy Slam
-- **Lv. 34** — Pursuit
-- **Lv. 37** — Mega Punch
-- **Lv. 40** — Sky Uppercut
-- **Lv. 43** — Frustration
-- **Lv. 50** — Round
-- **Lv. 54** — Fling
-- **Lv. 54** — Rock Slide
-- **Lv. 60** — Brick Break
-- **Lv. 67** — Close Combat
-- **Lv. 73** — Bulk Up
-- **Lv. 76** — Torment
-- **Lv. 80** — Detect
-
-![Champeon](https://github.com/user-attachments/assets/63f7d08d-292f-41d9-9398-7ba3b5b818d0)
+![Champioli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/champeon.png) ![Champioli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/champeon_shiny.png)
 
 ---
 
-# 🪽 Aereon
+# 🪽 Atmosphéli
 
 ## 🧾 Informations générales
 
@@ -369,14 +241,13 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 📜 Description
 
-> Aereon se déplace parmi les nuages aux côtés des Pokémon Vol.  
-> Comme Vaporeon se fond dans l’eau, Aereon peut se transformer en nuage pour se protéger.
+> Atmosphéli aime nager avec les nuages et d'autres Pokémons de type Vol, comme son cousin Aquali, il peut se transformer en nuage en guise de défense. Les nuages de la fourrure d'Atmosphéli peut changer selon son humeur, pouvant devenir orageux, pluvieux, chaud ou froid.
 
-![Aereon](https://github.com/user-attachments/assets/c737dfec-c903-4e66-a411-98cf66c5261b)
+![Atmosphéli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/aereon.png) ![Atmosphéli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/aereon_shiny.png)
 
 ---
 
-# ⛏️ Minereon
+# ⛏️ Minérali
 
 ## 🧾 Informations générales
 
@@ -420,14 +291,13 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 📜 Description
 
-> Minereon utilise l’aiguillon de sa queue pour extraire minerais et gemmes.  
-> Ses oreilles métalliques dégagent la roche autour de lui tandis que ses yeux perçoivent parfaitement l’obscurité.
+> Minérali utilise les pics du bout de sa queue pour creuser les roches et y extraire des minerais et différentes pierres précieuses, et les bouts métalliques sur ses oreilles pour extraire l'excès de roche. Ses yeux lui permet de voir ce qu'il est en train de creuser au tréfonds des caves. Quand il se sent en danger, Minérali fracasse sa queue au sol, ce qui jette des pics de pierre en l'air, qu'il ensuite tape dedans sur ses ennemis, comme une balle de baseball.
 
-![Minereon](https://github.com/user-attachments/assets/aa4b42a5-17a9-4245-a5dc-00055967e137)
+![Minérali](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/minereon.png) ![Minérali Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/minereon_shiny.png)
 
 ---
 
-# 🐝 Hiveon
+# 🐝 Mieli
 
 ## 🧾 Informations générales
 
@@ -470,14 +340,13 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 📜 Description
 
-> Hiveon se suspend dans les arbres en laissant pendre sa queue en forme de ruche.  
-> Celle-ci attire des Bewear imprudents, qu’il pique ensuite avec un venin extrêmement puissant.
+> Mieli aime rester dans les arbres, avec sa queue en forme de ruche pendouillant en l'air, sa queue attire les êtres peu méfiants, qu'il injecte ensuite avec un douloureux venin. Le pollen que récolte Mieli viens des baies Oran, Le pollen peut bizarrement être utilisé par Mieli pour produire un fort venin.
 
-![Hiveon](https://github.com/user-attachments/assets/407859e4-dc98-4e62-9581-b6367afb7be6)
+![Mieli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/hiveon.png) ![Mieli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/hiveon_shiny.png) 
 
 ---
 
-# 🤖 Automeon
+# 🤖 Métali
 
 ## 🧾 Informations générales
 
@@ -521,14 +390,13 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 📜 Description
 
-> On raconte que lorsqu’un Automeon subit un coup fatal, ses yeux clignotent selon un motif étrange.  
-> Personne n’a encore déchiffré ce signal.
+> Les rumeurs racontent que lorsqu’un Métali subit un coup fatal au combat, ses yeux se mettent à clignoter de façon étrange et irrégulière. Personne n’a encore réussi à comprendre la signification de ce phénomène. Longtemps considéré comme lié aux incidents de Paldea, Métali est désormais étudié de près et envoyé en expédition par les scientifiques.
 
-![Automeon](https://github.com/user-attachments/assets/f1b97202-919b-40b9-b210-ca63ee6cea93)
+![Métali](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/automeon.png) ![Métali Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/automeon_shiny.png)
 
 ---
 
-# 🐉 Wyveon
+# 🐉 Vouivrali
 
 ## 🧾 Informations générales
 
@@ -571,13 +439,13 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 📜 Description
 
-> Wyveon transporte différentes pierres évolutives vers des ruines anciennes, dans l’espoir d’invoquer un Évoli mythique capable de maîtriser tous les éléments.
+> Les cristaux de la queue de Vouivrali sont actuellement des écailles durcies, quand ils se sent en danger, Vouivrali peut éjecter ces écailles sur leurs ennemis. Vouivrali est extrêmement territorial. 
 
-![Wyveon](https://github.com/user-attachments/assets/45559d11-a328-4fa5-aef0-f15c016869ca)
+![Vouivrali](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/imgwiki/Extra-Eeeveelution/wyveon.png) ![Vouivrali Shiny](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/imgwiki/Extra-Eeeveelution/wyveon_shiny.png) 
 
 ---
 
-# 🏮 Dungeon
+# 🏮 Donjonli
 
 ## 🧾 Informations générales
 
@@ -621,14 +489,13 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 📜 Description
 
-> Lorsque des Dresseurs se perdent sous terre, Dungeon utilise sa lanterne pour les guider vers la sortie.  
-> Parfois, il choisit de quitter la grotte pour accompagner ces voyageurs.
+> Donjonli rôde dans les profondeurs des cavernes, là où certains entraîneurs n’osent jamais s’aventurer. La lanterne suspendue à sa queue peut servir d’appât pour attirer les Pokémon errant eux aussi dans l’obscurité. Lorsqu’il se sent seul, Donjonli sculpte parfois des statues de pierre qu’il considère comme ses seuls compagnons. On raconte que lorsque la lumière de sa lanterne s’éteint… Donjonli est déjà mort.
 
-![Dungeon](https://github.com/user-attachments/assets/1bf0b5d1-c683-40b4-b435-1da498d09cb4)
+![Donjonli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/dungeon.png) ![Donjonli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/dungeon_shiny.png) 
 
 ---
 
-# 🌟 Eeveeon
+# 🌟 Évolili
 
 ## 🧾 Informations générales
 
@@ -658,10 +525,9 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 📜 Description
 
-> Eeveeon serait lié à un Évoli mythique capable de manier tous les types.  
-> Wyveon respecte Eeveeon et lui offre parfois des pierres évolutives ou l’accès à ses territoires.
+> Lorsqu’un Évoli tarde à évoluer, son ADN se stabilise naturellement et il développe une endurance ainsi que des capacités de combat supérieures. Les scientifiques l’avaient d’abord surnommé « Évolili » comme une plaisanterie, mais ce nom est finalement devenu son appellation officielle après l’apparition de plusieurs spécimens.
 
-![Eeveeon](https://github.com/user-attachments/assets/1bf0b5d1-c683-40b4-b435-1da498d09cb4)
+![Évolili](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/eeveeon.png) ![Évolili Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/eeveeon_shiny.png) 
 
 ---
 
@@ -703,7 +569,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 🔮 Méthode d’évolution
 
-- Vaincre les **18 Eeveelutions**
+- Vaincre les **11 Eeveelutions**
 - du mod de base **et** de l’addon
 - avec **Évoli portant le coup final**
 
@@ -711,7 +577,6 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 📜 Description
 
-> Evereon n’existait autrefois que dans les légendes.  
-> Un Évoli exceptionnel réussit finalement à surpasser toutes ses formes évoluées et éveilla un ancien pouvoir mythique.
+> Evereon, longtemps considéré comme une simple légende, apparaît lorsqu’un Évoli exceptionnel parvient à surpasser toutes ses évolutions. Cette prouesse éveille un ancien pouvoir enfoui dans son âme et le fait évoluer en Evereon.
 
-![Evereon](https://github.com/user-attachments/assets/d5f3c80b-f0a6-4c72-94c8-eecc6e79447c)
+![Evereon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/evereon.png) ![Evereon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/evereon_shiny.png) 
