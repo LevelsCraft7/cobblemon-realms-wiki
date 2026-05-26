@@ -13,6 +13,8 @@ Necrozma peut fusionner avec Solgaleo ou Lunala via des objets spécifiques, dé
 | 🧬 Objet | N-Solarizer |
 | 🎯 Rôle | Physique offensif |
 
+![Necrozma Crinière du Couchant](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/Necrozma_duskman.png) ![Necrozma Crinière du Couchant Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/necrozma_duskman_shiny.png)
+
 ### 🧪 Obtention
 
 - 🔧 Obtenir le **N-Solarizer**
@@ -30,6 +32,8 @@ Necrozma peut fusionner avec Solgaleo ou Lunala via des objets spécifiques, dé
 | 🧬 Objet | N-Lunarizer |
 | 🎯 Rôle | Spécial offensif |
 
+![Necrozma Ailes de l’Aube](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/Necrozma_dawnwings.png) ![Necrozma Ailes de l’Aube Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/Necrozma_dawnwings_shiny.png)
+
 ### 🧪 Obtention
 
 - 🔧 Obtenir le **N-Lunarizer**
@@ -38,7 +42,7 @@ Necrozma peut fusionner avec Solgaleo ou Lunala via des objets spécifiques, dé
 
 ---
 
-## 💥 Ultra Necrozma
+## 💥 Ultra-Necrozma
 
 | 📌 Informations | 📋 Détails |
 |---|---|
@@ -46,6 +50,8 @@ Necrozma peut fusionner avec Solgaleo ou Lunala via des objets spécifiques, dé
 | 🧬 Objet | Ultranecrozium Z |
 | 🎯 Condition | Forme fusion |
 | 🎯 Rôle | Sweeper offensif |
+
+![Ultra-Necrozma](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/necrozma_ultra.png) ![Ultra-Necrozma Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/necrozma_ultra_shiny.png)
 
 ### 🧪 Activation
 
