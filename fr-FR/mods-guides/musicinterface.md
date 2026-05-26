@@ -12,7 +12,7 @@ Le mod lit les musiques depuis un pack de ressources Minecraft classique, avec q
 
 Votre pack doit ressembler a ceci :
 
-```text
+```
 Mon Pack Musique/
 |-- pack.mcmeta
 |-- pack.png                      <- optionnel, mais recommande
@@ -38,7 +38,7 @@ Le namespace utilise par le mod est **`musicinterface`**. Il faut donc respecter
 
 Placez votre dossier de pack dans :
 
-```text
+```
 .minecraft/resourcepacks/
 ```
 
@@ -48,7 +48,7 @@ Placez votre dossier de pack dans :
 
 Exemple simple :
 
-```json
+```
 {
   "pack": {
     "pack_format": 34,
@@ -68,21 +68,21 @@ Notes :
 
 Les musiques doivent etre placees dans :
 
-```text
+```
 assets/musicinterface/sounds/custom/
 ```
 
 Exemple :
 
-```text
+```
 assets/musicinterface/sounds/custom/ma_premiere_musique.ogg
 ```
 
 Recommandations :
 
-- utilisez le format **`.ogg`**
-- evitez les espaces et accents dans les noms de fichiers
-- preferez des noms simples comme `battle_theme.ogg`, `route_01.ogg`, `legendary_theme.ogg`
+- Utilisez le format **`.ogg`**
+- Évitez les espaces et accents dans les noms de fichiers
+- Préférer des noms simples comme `battle_theme.ogg`, `route_01.ogg`, `legendary_theme.ogg`
 
 ---
 
@@ -92,7 +92,7 @@ Ce fichier declare les sons a Minecraft.
 
 Exemple :
 
-```json
+```
 {
   "custom/ma_premiere_musique": {
     "sounds": [
@@ -115,11 +115,11 @@ Exemple :
 
 Important :
 
-- la cle a gauche doit correspondre a la musique declaree
-- le champ `name` doit pointer vers le bon fichier audio
-- pour un fichier `sounds/custom/ma_premiere_musique.ogg`, la valeur sure est :
+- La clé à gauche doit correspondre à la musique déclarée
+- Le champ `name` doit pointer vers le bon fichier audio
+- Pour un fichier `sounds/custom/ma_premiere_musique.ogg`, la valeur sure est :
   `musicinterface:custom/ma_premiere_musique`
-- laissez `stream: true` pour les musiques longues
+- Laissez `stream: true` pour les musiques longues
 
 ---
 
@@ -129,7 +129,7 @@ Ce fichier est celui que **Music Interface** lit pour afficher et jouer les pist
 
 Exemple :
 
-```json
+```
 [
   {
     "id": "ma_premiere_musique",
@@ -178,19 +178,19 @@ Conseils :
 
 Les covers doivent etre placees ici :
 
-```text
+```
 assets/musicinterface/textures/covers/
 ```
 
 Exemple :
 
-```text
+```
 assets/musicinterface/textures/covers/ma_premiere_musique.png
 ```
 
 Puis referencees ainsi dans `music_data.json` :
 
-```json
+```
 "cover": "musicinterface:textures/covers/ma_premiere_musique.png"
 ```
 
@@ -202,7 +202,7 @@ Si une cover est absente ou invalide, le mod peut utiliser une image de secours,
 
 ### Arborescence
 
-```text
+```
 Mon Pack Musique/
 |-- pack.mcmeta
 \-- assets/
@@ -219,7 +219,7 @@ Mon Pack Musique/
 
 ### `pack.mcmeta`
 
-```json
+```
 {
   "pack": {
     "pack_format": 34,
@@ -230,7 +230,7 @@ Mon Pack Musique/
 
 ### `sounds.json`
 
-```json
+```
 {
   "custom/route_01": {
     "sounds": [
@@ -245,7 +245,7 @@ Mon Pack Musique/
 
 ### `music_data.json`
 
-```json
+```
 [
   {
     "id": "route_01",
@@ -267,7 +267,7 @@ Mon Pack Musique/
 1. Placez le pack dans le dossier `resourcepacks`.
 2. Lancez Minecraft avec le mod.
 3. Activez le resource pack dans le menu des packs.
-4. Verifiez ensuite dans l'interface du mod que les musiques apparaissent bien.
+4. Vérifiez ensuite dans l'interface du mod que les musiques apparaissent bien.
 
 ---
 
@@ -275,43 +275,43 @@ Mon Pack Musique/
 
 ### La musique n'apparait pas
 
-Verifiez :
+Verifiez que :
 
-- que `music_data.json` est bien dans `assets/musicinterface/`
-- que le JSON est valide
-- que `id` est unique
-- que le pack est bien active en jeu
+- `music_data.json` est bien dans `assets/musicinterface/`
+- le JSON soit valide
+- `id` est unique
+- le pack est bien active en jeu
 
 ### La musique apparait mais ne se joue pas
 
-Verifiez :
+Verifiez que :
 
-- que le fichier `.ogg` existe vraiment
-- que le nom du fichier correspond exactement a `sounds.json`
-- que `sound` dans `music_data.json` correspond bien a l'entree declaree
+- le fichier `.ogg` existe vraiment
+- le nom du fichier correspond exactement a `sounds.json`
+- `sound` dans `music_data.json` correspond bien a l'entree declaree
 
 Exemple correct :
 
-```json
+```
 "sound": "musicinterface:custom/route_01"
 ```
 
 ### La cover ne s'affiche pas
 
-Verifiez :
+Verifiez que :
 
-- que l'image est bien dans `assets/musicinterface/textures/covers/`
-- que le chemin dans `cover` est exact
-- que le fichier est bien en `.png`
+- l'image est bien dans `assets/musicinterface/textures/covers/`
+- le chemin dans `cover` est exact
+- le fichier est bien en `.png`
 
 ---
 
 ## Bonnes pratiques
 
-- gardez des noms de fichiers en minuscules
-- remplacez les espaces par des underscores `_`
-- utilisez une cover par piste quand c'est possible
-- testez d'abord avec une seule musique avant d'en ajouter beaucoup
+- Gardez des noms de fichiers en minuscules
+- Remplacez les espaces par des underscores `_`
+- Utilisez une cover par piste quand c'est possible
+- Testez d'abord avec une seule musique avant d'en ajouter beaucoup
 
 ---
 
@@ -319,11 +319,11 @@ Verifiez :
 
 Le plus simple est de creer un nouveau dossier de pack, puis d'ajouter progressivement :
 
-- le fichier `pack.mcmeta`
-- vos fichiers audio `.ogg`
-- le fichier `sounds.json`
-- le fichier `music_data.json`
-- vos images de cover `.png`
+- Le fichier `pack.mcmeta`
+- Vos fichiers audio `.ogg`
+- Le fichier `sounds.json`
+- Le fichier `music_data.json`
+- Vos images de cover `.png`
 
 ---
 
@@ -331,10 +331,10 @@ Le plus simple est de creer un nouveau dossier de pack, puis d'ajouter progressi
 
 Pour qu'un pack fonctionne, il faut au minimum :
 
-- un `pack.mcmeta`
-- un ou plusieurs fichiers `.ogg`
-- un `sounds.json`
-- un `music_data.json`
-- idealement une image `.png` par musique
+- Un `pack.mcmeta`
+- Un ou plusieurs fichiers `.ogg`
+- Un `sounds.json`
+- Un `music_data.json`
+- Idéalement une image `.png` par musique
 
 Si vous respectez la structure et les chemins montres dans cette page, le pack sera compatible avec **Music Interface**.
