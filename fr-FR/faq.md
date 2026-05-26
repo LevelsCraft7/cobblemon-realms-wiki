@@ -113,9 +113,9 @@ Ce type d’hébergement est rarement adapté à un modpack aussi lourd.
 
 **Oui.** Le modpack ajoute plusieurs :
 
-- formes spéciales
-- mécaniques exclusives
-- évolutions uniques
+- Formes spéciales
+- Mécaniques exclusives
+- Évolutions uniques
 
 📘 [Voir les formes exclusives](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/pokemons-exclusives/mewtwo-exclusive-forms.md)
 
