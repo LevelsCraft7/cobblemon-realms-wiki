@@ -2,11 +2,11 @@
 
 **The Aether** ajoute une dimension céleste remplie :
 
-- ☁️ d’îles flottantes
-- 🏛️ de donjons
-- ⚔️ de boss
-- 🐉 de créatures uniques
-- ✨ d’objets et accessoires spéciaux
+- ☁️ D’îles flottantes
+- 🏛️ De donjons
+- ⚔️ De boss
+- 🐉 De créatures uniques
+- ✨ D’objets et accessoires spéciaux
 
 Dans **Cobblemon Realms**, cette dimension devient encore plus importante grâce à ses nombreux **spawns Cobblemon personnalisés**, incluant plusieurs Pokémon rares, légendaires et late-game.
 
@@ -30,12 +30,12 @@ Dans **Cobblemon Realms**, cette dimension devient encore plus importante grâce
 
 Dans **Cobblemon Realms**, l’Aether est surtout connue pour :
 
-- ✨ ses Pokémon rares
-- 🐉 ses dragons
-- 🌈 ses Pokémon Fée et Vol
-- ⚠️ ses Pokémon Paradoxes
-- 👽 ses Ultra-Chimères
-- 🏆 ses rencontres late-game
+- ✨ Ses Pokémon rares
+- 🐉 Ses dragons
+- 🌈 Ses Pokémon Fée et Vol
+- ⚠️ Ses Pokémon Paradoxes
+- 👽 Ses Ultra-Chimères
+- 🏆 Ses rencontres late-game
 
 ---
 
@@ -123,6 +123,8 @@ Les biomes les plus ouverts et lisibles de l’Aether.
 # 🌲 Skyroot Forest & Woodland
 
 Biomes plus denses et plus dangereux visuellement.
+
+![Skyroot Forest](https://aether.wiki.gg/images/Skyroot_Forest.png) ![Woodland](https://aether.wiki.gg/images/Skyroot_Woodland.png)
 
 ## 🐾 Spawns importants
 
@@ -316,6 +318,8 @@ Les **Moas** sont les montures emblématiques de l’Aether.
 # ☁️ Zephyrs
 
 Les **Zephyrs** sont des mobs hostiles ressemblant à des nuages vivants.
+
+![Zephyrs](https://aether.wiki.gg/images/Modern_Zephyr.png)
 
 ## ⚠️ Danger
 
