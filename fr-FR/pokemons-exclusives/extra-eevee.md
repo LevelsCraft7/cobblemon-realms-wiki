@@ -1,739 +1,718 @@
-# Extra Eeveelutions
+# ✨ Extra Eeveelutions
 
-Le datapack **Extra Eeveelutions** ajoute plusieurs nouvelles évolutions d’Evoli, chacune dotée de capacités uniques, de statistiques personnalisées et de méthodes d’évolution spécifiques.  
-Cette page liste chaque Eeveelution personnalisée, avec ses statistiques, lieux d’apparition, conditions d’évolution, sets d’attaques et textes descriptifs.
+Le datapack **Extra Eeveelutions** ajoute de nombreuses nouvelles évolutions d’Évoli, chacune avec :
 
----
+- des statistiques personnalisées
+- des talents uniques
+- des méthodes d’évolution spécifiques
+- des learnsets dédiés
+- des spawns spéciaux dans le monde
 
-## FAQs
-
-### Q : Evoli évolue-t-il en Evereon uniquement en combattant des Eeveelutions sauvages, ou les combats contre des Dresseurs comptent-ils ? Evoli doit-il porter le coup final, ou n’importe quel Pokémon ?
-
-**R :** Certains joueurs rapportent que les combats contre des Dresseurs fonctionnent, d’autres non. Dans mes tests, cela n’a pas fonctionné, mais cela peut dépendre de la configuration. Vous pouvez essayer les deux méthodes.  
-Evoli doit porter le **coup final** sur les **18 Eeveelutions** du mod de base et de cet addon.
-
-### Q : Je ne vois pas les Eeveelutions dans le Pokédex.
-
-**R :** Elles ont leur propre section dans l’onglet **Regions**.
-
-### Q : Quelle attaque de type Vol Evoli peut-il apprendre ?
-
-**R :** Dans ce datapack, Evoli peut apprendre **Miroi-Tir (Mirror Move)** au **niveau 20**.
+Cette page regroupe toutes les Eeveelutions ajoutées par le datapack.
 
 ---
 
-## Spectreon
+# ❓ FAQ
 
-**Type :** Spectre
+## 🧬 Evoli évolue-t-il en Evereon uniquement via des Pokémon sauvages ?
 
-**Statistiques**
+Certains joueurs rapportent que les combats contre des Dresseurs fonctionnent également, tandis que d'autres indiquent le contraire.
 
-| Stat                     | Valeur                        |
-| ------------------------ | ----------------------------- |
-| HP                       | **DEF:** 65   |
-| ATQ                      | **HP:** 65    |
-| DEF                      | **SpDEF:** 60 |
-| SPÉ ATQ. | **DEF:** 130  |
-| DEF. SPÉ | **SpDEF:** 95 |
-| SPD                      | **ATK:** 110  |
+Dans la majorité des cas :
 
-**Talents**
+- Évoli doit porter le **coup final**
+- sur les **18 Eeveelutions**
+- du mod de base **et** de l’addon
+
+⚠️ Les combats sauvages restent la méthode la plus fiable.
+
+---
+
+## 📖 Je ne vois pas les Eeveelutions dans le Pokédex
+
+Les Eeveelutions personnalisées apparaissent dans leur propre section :
+
+- **Pokédex → Regions**
+
+---
+
+## 🪽 Quelle attaque Vol Évoli peut-il apprendre ?
+
+Évoli peut apprendre :
+
+- **Miroi-Tir (Mirror Move)**
+- au **niveau 20**
+
+---
+
+# 👻 Spectreon
+
+## 🧾 Informations générales
+
+- **Type :** Spectre
+
+---
+
+## 📊 Statistiques
+
+| Stat | Valeur |
+|---|---|
+| ❤️ HP | 65 |
+| ⚔️ Attaque | 110 |
+| 🛡️ Défense | 130 |
+| ✨ Attaque Spé. | 95 |
+| 🌙 Défense Spé. | 60 |
+| ⚡ Vitesse | 65 |
+
+---
+
+## 🎯 Talents
 
 - **Talent :** Farceur
 - **Talent Caché :** Corps Condamné
 
-**Lieux d’apparition**
+---
 
-- **Spawn Locations:** Magical Biomes (Ultra Rare), Soul Sand Valley (Rare)
-- ![image](https://github.com/user-attachments/assets/28254552-80eb-497a-8dd4-935b7fd4f358)
+## 🌍 Lieux d’apparition
 
-**Méthode d’évolution**
+- ✨ Magical Biomes *(Ultra Rare)*
+- 🏜️ Soul Sand Valley *(Rare)*
 
-- Bonheur élevé dans un biome **Soul Sand Valley**.
+![Spectreon Spawn](https://github.com/user-attachments/assets/28254552-80eb-497a-8dd4-935b7fd4f358)
+
+---
+
+## 🔮 Méthode d’évolution
+
+- Bonheur élevé dans un biome **Soul Sand Valley**
+
+---
+
+## 📜 Description
 
 > Spectreon rôde dans les forêts sombres, attendant le jour où son Dresseur reviendra.  
 > Beaucoup ne réalisent même pas qu'ils sont morts et errent sans fin.
 
-### Learnset
+---
 
-#### Attaques par niveau
+## ⚔️ Learnset
 
-- Lv. 1  Bite, Growl, Fake Tears, Smokescreen, Helping Hand, Sand Attack
-- Lv. 5  Hex
-- Lv. N.8 : Hypnose
-- Lv. 12 Mud-Slap
-- Lv. 14 Bitter Malice
-- Lv. N.17 : Ombre Nocturne
-- Lv. 18 Nasty Plot
-- Lv. 22 Phantom Force
-- Lv. 26 Destiny Bond
-- Lv. 30 Confusion
-- Lv. 34 Dream Eater
-- Lv. 37 Ally Switch
-- Lv. 40 Amnesia
-- Lv. 43 Worry Seed
-- Lv. 50 Nightmare
-- Lv. 54 Thief
-- Lv. 57 Energy Ball
-- Lv. 60 Will-O-Wisp
-- Lv. 64 Freeze Shock
-- Lv. 73 Quash
-- Lv. 76 Torment
-- Lv. 80 Double Team
+### 📈 Attaques par niveau
 
-#### CT
-
-Repos, Plénitude, Charme, Onde Folie, Vole-Vie, Nœud Herbe, Vampigraine, Possessif, Salle de Magie, Mur Lumière, Abri, Échange, Ronflement, Force Ajoutée, Provoc, Téra-Explosion, Psykoud’Boul, Esprit Frappeur
-
-![image](https://github.com/user-attachments/assets/b57a2fc4-6e2b-4978-b53d-8b1170c31254)
+- **Lv. 1** — Bite, Growl, Fake Tears, Smokescreen, Helping Hand, Sand Attack
+- **Lv. 5** — Hex
+- **Lv. 8** — Hypnose
+- **Lv. 12** — Mud-Slap
+- **Lv. 14** — Bitter Malice
+- **Lv. 17** — Ombre Nocturne
+- **Lv. 18** — Nasty Plot
+- **Lv. 22** — Phantom Force
+- **Lv. 26** — Destiny Bond
+- **Lv. 30** — Confusion
+- **Lv. 34** — Dream Eater
+- **Lv. 37** — Ally Switch
+- **Lv. 40** — Amnesia
+- **Lv. 43** — Worry Seed
+- **Lv. 50** — Nightmare
+- **Lv. 54** — Thief
+- **Lv. 57** — Energy Ball
+- **Lv. 60** — Will-O-Wisp
+- **Lv. 64** — Freeze Shock
+- **Lv. 73** — Quash
+- **Lv. 76** — Torment
+- **Lv. 80** — Double Team
 
 ---
 
-## Acideon
+### 💿 CT compatibles
 
-**Type :** Poison
+- Repos
+- Plénitude
+- Charme
+- Onde Folie
+- Vole-Vie
+- Nœud Herbe
+- Vampigraine
+- Possessif
+- Salle de Magie
+- Mur Lumière
+- Abri
+- Échange
+- Ronflement
+- Force Ajoutée
+- Provoc
+- Téra-Explosion
+- Psykoud’Boul
+- Esprit Frappeur
 
-**Statistiques**
+![Spectreon](https://github.com/user-attachments/assets/b57a2fc4-6e2b-4978-b53d-8b1170c31254)
 
-| Stat                     | Valeur                         |
-| ------------------------ | ------------------------------ |
-| HP                       | **DEF:** 95    |
-| ATQ                      | **HP:** 65     |
-| DEF                      | **HP:** 65     |
-| SPÉ ATQ. | **SpATK:** 130 |
-| DEF. SPÉ | **SPD:** 110   |
-| SPD                      | **SpATK:** 60  |
+---
 
-**Talents**
+# ☣️ Acideon
+
+## 🧾 Informations générales
+
+- **Type :** Poison
+
+---
+
+## 📊 Statistiques
+
+| Stat | Valeur |
+|---|---|
+| ❤️ HP | 95 |
+| ⚔️ Attaque | 65 |
+| 🛡️ Défense | 65 |
+| ✨ Attaque Spé. | 130 |
+| 🌙 Défense Spé. | 110 |
+| ⚡ Vitesse | 60 |
+
+---
+
+## 🎯 Talents
 
 - **Talents :** Point Poison, Suintement
 - **Talent Caché :** Corrosion
 
-**Lieux d’apparition**
+---
 
-- Swamp biomes
+## 🌍 Lieux d’apparition
 
-**Méthode d’évolution**
-
-- Niveau **24** avec un **Grotadmorv** dans l’équipe.
-
-> L’orbe au bout de la queue d’Acideon est si toxique qu’un simple contact peut provoquer des dégâts irréversibles.
-
-### Learnset
-
-#### Attaques par niveau
-
-- Lv. 1  Bite, Growl, Fake Tears, Smokescreen, Helping Hand, Sand Attack, Harden
-- Lv. 4  Poison Sting
-- Lv. 7  Knock Off
-- Lv. 9  Poison Sting
-- Lv. N.12 : Acide
-- Lv. 15 Crunch
-- Lv. N.19 : Bombe Acide
-- Lv. N.23 : Gaz Toxik
-- Lv. 27 Clear Smog
-- Lv. 29 Pain Split
-- Lv. 32 Metal Claw
-- Lv. 34 Toxic
-- Lv. N.38 : Bomb-Beurk
-- Lv. 42 Gunk Shot
-- Lv. 46 Minimize
-- Lv. N.50 : Armure Acide
-- Lv. 53 Poison Tail
-- Lv. 58 Yawn
-- Lv. N.60 : Croix Poison
-
-#### CT
-
-Repos, Plénitude, Charme, Onde Folie, Venoshock, Reflet, Détricanon, Vampigraine, Possessif, Bombe Fange, Picots, Pics Toxik, Ultralaser, Abri, Représailles, Force Ajoutée, Direct Toxik, Téra-Explosion, Ball’Ombre, Distorsion
-
-![image](https://github.com/user-attachments/assets/337c2728-f144-493c-9702-82530f0aecc7)
+- 🐸 Swamp Biomes
 
 ---
 
-## Champeon
+## 🔮 Méthode d’évolution
 
-**Type :** Combat
+- Niveau **24**
+- avec un **Grotadmorv** dans l’équipe
 
-**Statistiques**
+---
 
-| Stat                     | Valeur                        |
-| ------------------------ | ----------------------------- |
-| HP                       | **SpATK:** 65 |
-| ATQ                      | **SPD:** 130  |
-| DEF                      | **SPD:** 110  |
-| SPÉ ATQ. | **ATK:** 65   |
-| DEF. SPÉ | **SPD:** 60   |
-| SPD                      | **HP:** 95    |
+## 📜 Description
 
-**Talents**
+> L’orbe au bout de la queue d’Acideon est si toxique qu’un simple contact peut provoquer des dégâts irréversibles.
+
+---
+
+## ⚔️ Learnset
+
+### 📈 Attaques par niveau
+
+- **Lv. 1** — Bite, Growl, Fake Tears, Smokescreen, Helping Hand, Sand Attack, Harden
+- **Lv. 4** — Poison Sting
+- **Lv. 7** — Knock Off
+- **Lv. 9** — Poison Sting
+- **Lv. 12** — Acide
+- **Lv. 15** — Crunch
+- **Lv. 19** — Bombe Acide
+- **Lv. 23** — Gaz Toxik
+- **Lv. 27** — Clear Smog
+- **Lv. 29** — Pain Split
+- **Lv. 32** — Metal Claw
+- **Lv. 34** — Toxic
+- **Lv. 38** — Bomb-Beurk
+- **Lv. 42** — Gunk Shot
+- **Lv. 46** — Minimize
+- **Lv. 50** — Armure Acide
+- **Lv. 53** — Poison Tail
+- **Lv. 58** — Yawn
+- **Lv. 60** — Croix Poison
+
+---
+
+### 💿 CT compatibles
+
+- Repos
+- Plénitude
+- Charme
+- Onde Folie
+- Venoshock
+- Reflet
+- Détricanon
+- Vampigraine
+- Possessif
+- Bombe Fange
+- Picots
+- Pics Toxik
+- Ultralaser
+- Abri
+- Représailles
+- Force Ajoutée
+- Direct Toxik
+- Téra-Explosion
+- Ball’Ombre
+- Distorsion
+
+![Acideon](https://github.com/user-attachments/assets/337c2728-f144-493c-9702-82530f0aecc7)
+
+---
+
+# 🥊 Champeon
+
+## 🧾 Informations générales
+
+- **Type :** Combat
+
+---
+
+## 📊 Statistiques
+
+| Stat | Valeur |
+|---|---|
+| ❤️ HP | 95 |
+| ⚔️ Attaque | 130 |
+| 🛡️ Défense | 110 |
+| ✨ Attaque Spé. | 65 |
+| 🌙 Défense Spé. | 60 |
+| ⚡ Vitesse | 65 |
+
+---
+
+## 🎯 Talents
 
 - **Talents :** Pelage Épais, Acharné
 - **Talent Caché :** Querelleur
 
-**Lieux d’apparition**
+---
 
-- Windswept Savanna
+## 🌍 Lieux d’apparition
 
-**Méthode d’évolution**
-
-- Niveau **36** tout en tenant un **Focus Band**.
-
-> Lorsqu’Evoli s’imprègne de l’esprit d’un combattant, il s’entraîne pendant des années avant de devenir Champeon.
-
-### Learnset
-
-#### Attaques par niveau
-
-- Lv. 1  Assurance, Growl, Tail Whip, Helping Hand, Sand Attack, Fire Punch, Ice Punch, Thunder Punch
-- Lv. 5  Vacuum Wave
-- Lv. N.8 : Mach Punch
-- Lv. N.12 : Garde Rapide
-- Lv. N.14 : Agilité
-- Lv. 17 Drain Punch
-- Lv. 18 Bullet Punch
-- Lv. 22 Protect
-- Lv. 26 Counter
-- Lv. 30 Heavy Slam
-- Lv. 34 Pursuit
-- Lv. 37 Mega Punch
-- Lv. 40 Sky Uppercut
-- Lv. N.43 : Frustration
-- Lv. 50 Round
-- Lv. 54 Fling
-- Lv. 54 Rock Slide
-- Lv. 60 Brick Break
-- Lv. N.67 : Close Combat
-- Lv. 73 Bulk Up
-- Lv. 76 Torment
-- Lv. 80 Detect
-
-#### CT
-
-Body Press, Iron Defense, Substitute, Arm Thrust, Focus Punch, Force Palm, High Jump Kick, Karate Chop, Low Kick, Low Sweep, Mat Block, Revenge, Rolling Kick, Triple Kick, Cross Chop, Darkest Lariat, Foul Play, Beat Up, Parting Shot
-
-![image](https://github.com/user-attachments/assets/63f7d08d-292f-41d9-9398-7ba3b5b818d0)
+- 🌾 Windswept Savanna
 
 ---
 
-## **Aereon**
+## 🔮 Méthode d’évolution
 
-**Type :** Vol
+- Niveau **36**
+- en tenant un **Focus Band**
 
-**Statistiques**
+---
 
-| Stat                     | Valeur                        |
-| ------------------------ | ----------------------------- |
-| HP                       | **SpDEF:** 65 |
-| ATQ                      | **ATK:** 110  |
-| DEF                      | **SPD:** 95   |
-| SPÉ ATQ. | **SpDEF:** 65 |
-| DEF. SPÉ | **SpATK:** 60 |
-| SPD                      | **DEF:** 130  |
+## 📜 Description
 
-**Talents**
+> Lorsqu’Évoli s’imprègne de l’esprit d’un combattant, il s’entraîne pendant des années avant de devenir Champeon.
+
+---
+
+## ⚔️ Learnset
+
+### 📈 Attaques par niveau
+
+- **Lv. 1** — Assurance, Growl, Tail Whip, Helping Hand, Sand Attack, Fire Punch, Ice Punch, Thunder Punch
+- **Lv. 5** — Vacuum Wave
+- **Lv. 8** — Mach Punch
+- **Lv. 12** — Garde Rapide
+- **Lv. 14** — Agilité
+- **Lv. 17** — Drain Punch
+- **Lv. 18** — Bullet Punch
+- **Lv. 22** — Protect
+- **Lv. 26** — Counter
+- **Lv. 30** — Heavy Slam
+- **Lv. 34** — Pursuit
+- **Lv. 37** — Mega Punch
+- **Lv. 40** — Sky Uppercut
+- **Lv. 43** — Frustration
+- **Lv. 50** — Round
+- **Lv. 54** — Fling
+- **Lv. 54** — Rock Slide
+- **Lv. 60** — Brick Break
+- **Lv. 67** — Close Combat
+- **Lv. 73** — Bulk Up
+- **Lv. 76** — Torment
+- **Lv. 80** — Detect
+
+![Champeon](https://github.com/user-attachments/assets/63f7d08d-292f-41d9-9398-7ba3b5b818d0)
+
+---
+
+# 🪽 Aereon
+
+## 🧾 Informations générales
+
+- **Type :** Vol
+
+---
+
+## 📊 Statistiques
+
+| Stat | Valeur |
+|---|---|
+| ❤️ HP | 65 |
+| ⚔️ Attaque | 110 |
+| 🛡️ Défense | 130 |
+| ✨ Attaque Spé. | 60 |
+| 🌙 Défense Spé. | 65 |
+| ⚡ Vitesse | 95 |
+
+---
+
+## 🎯 Talents
 
 - **Talents :** Délestage, Agitation
 - **Talent Caché :** Simple
 
-**Lieux d’apparition**
+---
 
-- Meadow biomes
-- Windswept Hills
+## 🌍 Lieux d’apparition
 
-**Méthode d’évolution**
-
-- Clic droit sur Evoli avec un **Air Balloon**.
-
-> Aereon se déplace au milieu des nuages parmi les Pokémon Vol.  
-> Comme Vaporeon se fond dans l’eau, Aereon peut se transformer en nuage pour se défendre.
-
-### Learnset
-
-#### Attaques par niveau
-
-- Lv. 1  Gust, Growl, Tail Whip, Helping Hand, Sand Attack
-- Lv. 5.
-- Lv. N.8 : Lame d’Air
-- Lv. 12 Bite
-- Lv. N.14 : Agilité
-- Lv. 17 Quiver Dance
-- Lv. 18 Air Slash
-- Lv. 22 Tailwind
-- Lv. 24 Defog
-- Lv. 26 Headbutt
-- Lv. 30 U-turn
-- Lv. 34 Thunder
-- Lv. N.37 : Poudreuse, Blizzard
-- Lv. 40 Ice Beam
-- Lv. 43 Thunder Wave
-- Lv. 50 Whirlwind
-- Lv. 54 Double Team
-- Lv. 57 Roost
-- Lv. 60 Snarl
-- Lv. 43 Mud-Slap
-- Lv. 67 Heat Wave
-- Lv. 73 Solar Beam
-- Lv. N.76 : Danse Plume
-- Lv. 80 Sky Drop
-
-#### CT
-
-Ouragan, Danse-Lames, Dégommage, Rapace, Cru-Aile, Piqué, Rebond, Éclats Glace, Nuzzle, Étincelle, Surchauffe, Zénith, Cage-Éclair, Grêle, Voile Aurore, Brume
-
-![image](https://github.com/user-attachments/assets/c737dfec-c903-4e66-a411-98cf66c5261b)
+- 🌼 Meadow Biomes
+- ⛰️ Windswept Hills
 
 ---
 
-## **Minereon**
+## 🔮 Méthode d’évolution
 
-**Type :** Roche
+- Clic droit sur Évoli avec un **Air Balloon**
 
-**Statistiques**
+---
 
-| Stat                     | Valeur                       |
-| ------------------------ | ---------------------------- |
-| HP                       | **HP:** 95   |
-| ATQ                      | **ATK:** 110 |
-| DEF                      | **DEF:** 130 |
-| SPÉ ATQ. | **SPD:** 60  |
-| DEF. SPÉ | **HP:** 65   |
-| SPD                      | **SPD:** 65  |
+## 📜 Description
 
-**Talents**
+> Aereon se déplace parmi les nuages aux côtés des Pokémon Vol.  
+> Comme Vaporeon se fond dans l’eau, Aereon peut se transformer en nuage pour se protéger.
+
+![Aereon](https://github.com/user-attachments/assets/c737dfec-c903-4e66-a411-98cf66c5261b)
+
+---
+
+# ⛏️ Minereon
+
+## 🧾 Informations générales
+
+- **Type :** Roche
+
+---
+
+## 📊 Statistiques
+
+| Stat | Valeur |
+|---|---|
+| ❤️ HP | 95 |
+| ⚔️ Attaque | 110 |
+| 🛡️ Défense | 130 |
+| ✨ Attaque Spé. | 60 |
+| 🌙 Défense Spé. | 65 |
+| ⚡ Vitesse | 65 |
+
+---
+
+## 🎯 Talents
 
 - **Talents :** Force Sable, Fermeté
-- **Hidden Ability:** Keen Eye
-
-**Lieux d’apparition**
-
-- Tous biomes souterrains
-  - **Sauf :** Deep Dark, Abyss-like
-
-**Méthode d’évolution**
-
-- Tenir une **Iron Pickaxe** dans une **Dripstone Cave**.
-
-> Minereon utilise l’aiguillon au bout de sa queue pour extraire minerais et gemmes.  
-> Ses oreilles métalliques dégagent la roche autour de lui tandis que ses yeux perçoivent parfaitement l’obscurité.
-
-### Learnset
-
-#### Attaques par niveau
-
-- Lv. 1  Rollout, Growl, Tail Whip, Tackle, Sand Attack
-- Lv. 5  Rock Polish
-- Lv. 8  Sandstorm
-- Lv. 12 Harden
-- Lv. 14 Rock Throw
-- Lv. 17 Dig
-- Lv. 18 Fury Swipes
-- Lv. 22 Bulldoze
-- Lv. N.24 : Pouvoir Antique
-- Lv. 26 Head Smash
-- Lv. 30 Rock Smash
-- Lv. 34 Power Gem
-- Lv. 37 Tar Shot, Iron Defense
-- Lv. 40 Headbutt
-- Lv. 43 Metal Claw
-- Lv. 54 Rock Slide
-- Lv. 54 Metal Claw
-- Lv. 57 Protect
-- Lv. 60 Superpower
-- Lv. N.67 : Lame de Roc
-- Lv. 73 Facade
-- Lv. 76 Bulldoze
-- Lv. 80 Earthquake
-
-#### CT
-
-Éclat Magique, Explosion, Mur Lumière, Tête de Fer, Soin, Lien du Destin, Giga Impact, Anti-Air, Roc-Boulet, Garde Large, Cavalerie Lourde, Tunnel, Tir de Boue, Poing Météor, Queue de Fer, Tacle Lourd, Tricherie, Éruption, Jet-Lave
-
-![image](https://github.com/user-attachments/assets/aa4b42a5-17a9-4245-a5dc-00055967e137)
+- **Talent Caché :** Keen Eye
 
 ---
 
-## **Hiveon**
+## 🌍 Lieux d’apparition
 
-**Type :** Insecte
+- 🕳️ Tous les biomes souterrains
+- ❌ Sauf : Deep Dark / Abyss-like
 
-**Statistiques**
+---
 
-| Stat                     | Valeur                        |
-| ------------------------ | ----------------------------- |
-| HP                       | **ATK:** 65   |
-| ATQ                      | **ATK:** 130  |
-| DEF                      | **HP:** 98    |
-| SPÉ ATQ. | **SPD:** 60   |
-| DEF. SPÉ | **SpDEF:** 65 |
-| SPD                      | **ATK:** 110  |
+## 🔮 Méthode d’évolution
 
-**Talents**
+- Tenir une **Iron Pickaxe**
+- dans une **Dripstone Cave**
+
+---
+
+## 📜 Description
+
+> Minereon utilise l’aiguillon de sa queue pour extraire minerais et gemmes.  
+> Ses oreilles métalliques dégagent la roche autour de lui tandis que ses yeux perçoivent parfaitement l’obscurité.
+
+![Minereon](https://github.com/user-attachments/assets/aa4b42a5-17a9-4245-a5dc-00055967e137)
+
+---
+
+# 🐝 Hiveon
+
+## 🧾 Informations générales
+
+- **Type :** Insecte
+
+---
+
+## 📊 Statistiques
+
+| Stat | Valeur |
+|---|---|
+| ❤️ HP | 98 |
+| ⚔️ Attaque | 130 |
+| 🛡️ Défense | 65 |
+| ✨ Attaque Spé. | 60 |
+| 🌙 Défense Spé. | 65 |
+| ⚡ Vitesse | 110 |
+
+---
+
+## 🎯 Talents
 
 - **Talents :** Œil Composé, Essaim
 - **Talent Caché :** Pression
 
-**Lieux d’apparition**
+---
 
-- Près des **Bee Nests**
+## 🌍 Lieux d’apparition
 
-**Méthode d’évolution**
-
-- Evoli tenant un **Beehive**, avec un **Beedrill** dans l’équipe.
-
-> Hiveon se suspend dans les arbres en laissant pendre leur queue en forme de ruche.  
-> Celle-ci attire des Bewear imprudents, qu’il pique ensuite avec un venin extrêmement puissant.
-
-### Learnset
-
-#### Attaques par niveau
-
-- Lv. 1  Bug Bite, Growl, Tail Whip, Tackle, Absorb
-- Lv. 5  String Shot
-- Lv. 8  Sandstorm
-- Lv. 13 Fury Attack
-- Lv. 16 Laser Focus
-- Lv. N.17 : Danse Pluie
-- Lv. 22 Bulldoze
-- Lv. N.23 : Assurance
-- Lv. 24 Sticky Web
-- Lv. 27 Pin Missile
-- Lv. 30 Mud Shot
-- Lv. 33 Struggle Bug
-- Lv. 37 First Impression
-- Lv. 39 Pounce
-- Lv. 41 Leech Life
-- Lv. 43 Bug Buzz
-- Lv. 50 Fell Stinger
-- Lv. N.54 : Venoshock
-- Lv. 57 Protect
-- Lv. 60 Giga Drain
-- Lv. N.67 : Danse-Lames
-- Lv. 73 Facade
-- Lv. 76 False Swipe
-- Lv. 80 Fissure
-
-#### CT
-
-Bomb-Beurk, Séisme, Lame d’Air, Survinsecte, Martobois, Méga-Corne, Feuille Magik, Siffl’Herbe, Vent Arrière, Tornade, Cru-Aile, Bain de Smog, Croix Poison, Acide, Poudre Toxik, Crocs Venin, Purification, Parfum
-
-![image](https://github.com/user-attachments/assets/407859e4-dc98-4e62-9581-b6367afb7be6)
+- 🍯 Près des Bee Nests
 
 ---
 
-## **Automeon**
+## 🔮 Méthode d’évolution
 
-**Type :** Acier
+- Évoli tenant une **Beehive**
+- avec un **Beedrill** dans l’équipe
 
-**Statistiques**
+---
 
-| Stat                     | Valeur                         |
-| ------------------------ | ------------------------------ |
-| HP                       | **SpDEF:** 65  |
-| ATQ                      | **SpDEF:** 110 |
-| DEF                      | **SpATK:** 130 |
-| SPÉ ATQ. | **SpATK:** 65  |
-| DEF. SPÉ | **HP:** 65     |
-| SPD                      | **DEF:** 60    |
+## 📜 Description
 
-**Talents**
+> Hiveon se suspend dans les arbres en laissant pendre sa queue en forme de ruche.  
+> Celle-ci attire des Bewear imprudents, qu’il pique ensuite avec un venin extrêmement puissant.
+
+![Hiveon](https://github.com/user-attachments/assets/407859e4-dc98-4e62-9581-b6367afb7be6)
+
+---
+
+# 🤖 Automeon
+
+## 🧾 Informations générales
+
+- **Type :** Acier
+
+---
+
+## 📊 Statistiques
+
+| Stat | Valeur |
+|---|---|
+| ❤️ HP | 65 |
+| ⚔️ Attaque | 110 |
+| 🛡️ Défense | 60 |
+| ✨ Attaque Spé. | 130 |
+| 🌙 Défense Spé. | 65 |
+| ⚡ Vitesse | 65 |
+
+---
+
+## 🎯 Talents
 
 - **Talents :** Armurouillée, Corps Sain
 - **Talent Caché :** Analyste
 
-**Lieux d’apparition**
+---
 
-- Près des **Redstone Torches** et **Iron Blocks**
+## 🌍 Lieux d’apparition
 
-**Méthode d’évolution**
+- 🔴 Près des Redstone Torches
+- 🧱 Près des Iron Blocks
 
-- Utiliser un **Redstone Block** sur Evoli tenant un **Lever**.
+---
+
+## 🔮 Méthode d’évolution
+
+- Utiliser un **Redstone Block**
+- sur Évoli tenant un **Lever**
+
+---
+
+## 📜 Description
 
 > On raconte que lorsqu’un Automeon subit un coup fatal, ses yeux clignotent selon un motif étrange.  
 > Personne n’a encore déchiffré ce signal.
 
-### Learnset
-
-#### Attaques par niveau
-
-- Lv. 1  Conversion, Swift, Tackle, Quick Attack, Tail Whip, Growl
-- Lv. 5  Metal Sound
-- Lv. N.8 : Charge
-- Lv. 12 Charge Beam
-- Lv. 14 Autotomize
-- Lv. 17 Discharge
-- Lv. 18 Gear Grind
-- Lv. N.22 : Verrouillage
-- Lv. 24 Stomp
-- Lv. 26 Iron Defense
-- Lv. 34 Rock Blast
-- Lv. 34 Zap Cannon
-- Lv. N.37 : Destruction, Tête de Fer
-- Lv. 40 Head Smash
-- Lv. 34 Thunderbolt
-- Lv. 50 Iron Tail
-- Lv. 54 Metal Claw
-- Lv. N.55 : Parabocharge
-- Lv. 57 Meteor Mash
-- Lv. 60 Magnet Rise
-- Lv. N.67 : Danse-Lames
-- Lv. 73 Bullet Punch
-- Lv. 76 Gyro Ball
-- Lv. 80 Hone Claws
-
-#### CT
-
-Vitesse Extrême, Distorsion, Soin, Explosion, Tête de Fer, Frappe Foudre, Crocs Éclair, Volt Tackle, Tonnerre, Surchauffe, Feu d’Enfer, Canicule, Incinération, Rafale Feu, Amnésie, Entrave, Détection, Flash, Prescience
-
-![image](https://github.com/user-attachments/assets/f1b97202-919b-40b9-b210-ca63ee6cea93)
+![Automeon](https://github.com/user-attachments/assets/f1b97202-919b-40b9-b210-ca63ee6cea93)
 
 ---
 
-## Wyveon
+# 🐉 Wyveon
 
-**Type :** Dragon
+## 🧾 Informations générales
 
-**Statistiques**
+- **Type :** Dragon
 
-| Stat                     | Valeur                         |
-| ------------------------ | ------------------------------ |
-| HP                       | **HP:** 65     |
-| ATQ                      | **SPD:** 110   |
-| DEF                      | **SpDEF:** 95  |
-| SPÉ ATQ. | **SpATK:** 130 |
-| DEF. SPÉ | **HP:** 65     |
-| SPD                      | **SpDEF:** 60  |
+---
 
-**Talents**
+## 📊 Statistiques
+
+| Stat | Valeur |
+|---|---|
+| ❤️ HP | 65 |
+| ⚔️ Attaque | 110 |
+| 🛡️ Défense | 95 |
+| ✨ Attaque Spé. | 130 |
+| 🌙 Défense Spé. | 65 |
+| ⚡ Vitesse | 60 |
+
+---
+
+## 🎯 Talents
 
 - **Talents :** Rivalité, Envelocape
 - **Talent Caché :** Tête de Roc
 
-**Lieux d’apparition**
+---
 
-- Tall Mountain biomes
-  - **Sauf :** variantes enneigées
+## 🌍 Lieux d’apparition
 
-**Méthode d’évolution**
-
-- Bonheur élevé dans **The End**.
-
-> Wyveon transporte différentes pierres évolutives vers des ruines anciennes, dans l’espoir d’invoquer un Evoli mythique capable de maîtriser tous les éléments.
-
-### Learnset
-
-#### Attaques par niveau
-
-- Lv. 1  Scratch, Take Down, Tail Whip, Leer, False Swipe
-- Lv. N.5 : Assurance
-- Lv. N.8 : Dracogriffe
-- Lv. 12 Metal Claw
-- Lv. 18 Dragon Breath
-- Lv. N.22 : Blizzard
-- Lv. 24 Head Charge
-- Lv. N.26 : Blitz
-- Lv. N.30 : Outrage
-- Lv. 34 Crunch
-- Lv. N.37 : Steel Beam, Armure Acide
-- Lv. N.40 : Griffe Ombre
-- Lv. N.43 : Piège de Roc
-- Lv. 50 Baton Pass
-- Lv. 57 Bone Rush
-- Lv. 57 Substitute
-- Lv. 60 Bonemerang
-- Lv. N.67 : Danse Draco
-- Lv. N.73 : Marteau‑Dragon
-- Lv. N.76 : Double Baffe
-- Lv. N.80 : Draco‑Météore
-
-#### CT
-
-Repos, Blabla Dodo, Agilité, Piqué, Rapace, Aquatacle, Tornade, Machination, Danse-Lames, Vol, Extrasenseur, Anti-Soin, Tacle Lourd, Rayon Chargé, Vibrobscur, Dard-Nuée, Jet‑Pierres, Laser Glace, Brume, Étonnement
-
-![image](https://github.com/user-attachments/assets/45559d11-a328-4fa5-aef0-f15c016869ca)
+- ⛰️ Tall Mountain Biomes
+- ❌ Sauf variantes enneigées
 
 ---
 
-## Dungeon
+## 🔮 Méthode d’évolution
 
-**Type :** Sol
+- Bonheur élevé dans **The End**
 
-**Statistiques**
+---
 
-| Stat                     | Valeur                        |
-| ------------------------ | ----------------------------- |
-| HP                       | **SpATK:** 65 |
-| ATQ                      | **DEF:** 110  |
-| DEF                      | **ATK:** 130  |
-| SPÉ ATQ. | **DEF:** 95   |
-| DEF. SPÉ | **SpDEF:** 65 |
-| SPD                      | **SPD:** 60   |
+## 📜 Description
 
-**Talents**
+> Wyveon transporte différentes pierres évolutives vers des ruines anciennes, dans l’espoir d’invoquer un Évoli mythique capable de maîtriser tous les éléments.
+
+![Wyveon](https://github.com/user-attachments/assets/45559d11-a328-4fa5-aef0-f15c016869ca)
+
+---
+
+# 🏮 Dungeon
+
+## 🧾 Informations générales
+
+- **Type :** Sol
+
+---
+
+## 📊 Statistiques
+
+| Stat | Valeur |
+|---|---|
+| ❤️ HP | 65 |
+| ⚔️ Attaque | 130 |
+| 🛡️ Défense | 110 |
+| ✨ Attaque Spé. | 95 |
+| 🌙 Défense Spé. | 65 |
+| ⚡ Vitesse | 60 |
+
+---
+
+## 🎯 Talents
 
 - **Talents :** Piège Sable, Tempo Perso
-- **Hidden Ability:** Mold Breaker
-
-**Lieux d’apparition**
-
-- Badlands _(Ultra Rare)_
-- Deep Dark / Abyss-like _(Rare)_
-
-**Méthode d’évolution**
-
-- While holding a **Lantern**, in the **Deep Dark**.
-
-> Lorsque des dresseurs se perdent sous terre, Dungeon utilise sa lanterne pour les guider vers la sortie.  
-> Parfois, il choisit de quitter la grotte pour accompagner ces voyageurs.
-
-### Learnset
-
-#### Attaques par niveau
-
-- Lv. 1  Scratch, Growl, Tail Whip, Tackle, Sand Attack
-- Lv. 5  Sand Tomb
-- Lv. 14 Taunt
-- Lv. N.12 : Ball’Ombre
-- Lv. 14 Sucker Punch
-- Lv. 22 Slash
-- Lv. 24 Play Rough
-- Lv. N.24 : Pouvoir Antique
-- Lv. 26 Earth Power
-- Lv. N.30 : Feinte
-- Lv. 43 Defense Curl
-- Lv. N.37 : Bomb‑Beurk, Clonage
-- Lv. N.40 : Giga Impact
-- Lv. 40 Recover
-- Lv. N.50 : Tomberoche
-- Lv. N.57 : Lame de Roc
-- Lv. 73 Stomping Tantrum
-- Lv. 60 Healing Wish
-- Lv. N.67 : Lame de Roc
-- Lv. N.67 : Mach Punch
-- Lv. N.80 : Bombe Miel
-
-#### CT
-
-Soin, Explosion, Piège de Roc, Possessif, Séisme, Vive‑Aile, Tunnelier, Tranche‑Nuit, Tranche‑Crâne, Vibrobscur, Sabotage, Ténacité, Suivez‑Moi, Rancune, Armure, Regard Noir, Machination, Casse‑Brique, Marteau‑Dragon, Faux‑Chage
-
-![image](https://github.com/user-attachments/assets/1bf0b5d1-c683-40b4-b435-1da498d09cb4)
+- **Talent Caché :** Brise Moule
 
 ---
 
-## New Eeveelutions
+## 🌍 Lieux d’apparition
 
-**Type :** Normal
+- 🏜️ Badlands *(Ultra Rare)*
+- 🌑 Deep Dark / Abyss-like *(Rare)*
 
-**Statistiques**
+---
 
-| Stat                     | Valeur                       |
-| ------------------------ | ---------------------------- |
-| HP                       | **HP:** 85   |
-| ATQ                      | 105                          |
-| DEF                      | **DEF:** 85  |
-| SPÉ ATQ. | 100                          |
-| DEF. SPÉ | **DEF:** 95  |
-| SPD                      | **ATK:** 110 |
+## 🔮 Méthode d’évolution
 
-**Talents**
+- Tenir une **Lantern**
+- dans le **Deep Dark**
+
+---
+
+## 📜 Description
+
+> Lorsque des Dresseurs se perdent sous terre, Dungeon utilise sa lanterne pour les guider vers la sortie.  
+> Parfois, il choisit de quitter la grotte pour accompagner ces voyageurs.
+
+![Dungeon](https://github.com/user-attachments/assets/1bf0b5d1-c683-40b4-b435-1da498d09cb4)
+
+---
+
+# 🌟 Eeveeon
+
+## 🧾 Informations générales
+
+- **Type :** Normal
+
+---
+
+## 🎯 Talents
 
 - **Talents :** Adaptabilité, Anticipation
 - **Talent Caché :** Normalise
 
-**Lieux d’apparition**
+---
 
-- Partout dans l’**Overworld**
+## 🌍 Lieux d’apparition
 
-**Méthode d’évolution**
+- 🌍 Partout dans l’Overworld
 
-- Amitié maximale pendant qu’Evoli connaît **Dernier Recours**.
+---
 
-> Eeveeon serait lié à un Evoli mythique capable de manier tous les types.  
-> Wyveon respecte Eeveeon pour cela et lui offre parfois des pierres ou l’accès à ses territoires.
+## 🔮 Méthode d’évolution
 
-### Learnset
+- Amitié maximale
+- pendant qu’Évoli connaît **Dernier Recours**
 
-#### Attaques par niveau
+---
 
-- Lv. 1  Scratch, Growl, Tail Whip, Tackle, Sand Attack, Last Resort
-- Lv. 5  Fake Out
-- Lv. N.8 : Feinte
-- PV 25 Protect
-- Lv. N.20 : Picots
-- PV N.17 : Destruction
-- Lv. N.18 : Piège de Roc
-- Lv. N.26 : Acrobatie
-- Lv. 37 Reversal, Protect
-- Lv. N.30 : Ébullition
-- PV N.60 : Vol
-- Lv. N.43 : Aéropique
-- Lv. N.40 : Piège de Roc
-- Lv. N.50 : Tomberoche
-- Lv. 55 Last Resort
-- Lv. N.50 : Steel Roller
-- PV N.45 : Vitesse Extrême
-- PV N.67 : Souffle Glacé
-- Lv. 5  Reflect Type
-- Lv. N.1 : Roulade, Râle, Mimi-Queue, Charge, Jet de Sable
-- PV N.9 : Grincement
-- PV PV 76 Hyper Beam
-- PV PV N.80 : Giga Impact
+## 📜 Description
 
-#### CT
-
-Lance‑Flammes, Surf, Éco‑Sphère, Laser Glace, Câlinerie, Tête de Fer, Psyko, Attract, Cognobidon, Effort, Hurlement, Bluff, Tranche‑Nuit, Onde de Choc, Parabocharge, Retour
+> Eeveeon serait lié à un Évoli mythique capable de manier tous les types.  
+> Wyveon respecte Eeveeon et lui offre parfois des pierres évolutives ou l’accès à ses territoires.
 
 ![Eeveeon](https://github.com/user-attachments/assets/1bf0b5d1-c683-40b4-b435-1da498d09cb4)
 
 ---
 
-## **Evereon**
+# 🌈 Evereon
 
-**Type :** Normal  
-**Particularité :** Peut changer de type
+## 🧾 Informations générales
 
-**Statistiques**
+- **Type :** Normal
+- **Particularité :** Peut changer de type
 
-| Stat                     | Valeur                        |
-| ------------------------ | ----------------------------- |
-| HP                       | 98                            |
-| ATQ                      | 115                           |
-| DEF                      | **SpDEF:** 90 |
-| SPÉ ATQ. | 115                           |
-| DEF. SPÉ | **DEF:** 90   |
-| SPD                      | 92                            |
+---
 
-**Talents**
+## 📊 Statistiques
+
+| Stat | Valeur |
+|---|---|
+| ❤️ HP | 98 |
+| ⚔️ Attaque | 115 |
+| 🛡️ Défense | 90 |
+| ✨ Attaque Spé. | 115 |
+| 🌙 Défense Spé. | 90 |
+| ⚡ Vitesse | 92 |
+
+---
+
+## 🎯 Talents
 
 - **Talents :** Protéen, Libéro
 - **Talent Caché :** Force Pure
 
-**Lieux d’apparition**
+---
 
-- Aucun _(ne peut pas être trouvé à l’état sauvage)_
+## 🌍 Lieux d’apparition
 
-**Méthode d’évolution**
+- ❌ Aucun
+- *(Ne peut pas être trouvé à l’état sauvage)*
 
-- Vaincre les **18 Eeveelutions** du mod de base et de l’addon, en portant **le coup final avec Evoli**.
+---
 
-> Evereon n’existait que dans les légendes jusqu’à ce qu’un Evoli exceptionnel parvienne à surpasser toutes ses formes évoluées.  
-> Il éveilla alors un pouvoir mythique ancien et évolua en Evereon.
+## 🔮 Méthode d’évolution
 
-### Learnset
+- Vaincre les **18 Eeveelutions**
+- du mod de base **et** de l’addon
+- avec **Évoli portant le coup final**
 
-#### Attaques par niveau
+---
 
-- Lv. 1  Conversion, Swift, Tackle, Quick Attack, Tail Whip, Growl
-- Lv. 5  Reflect Type
-- PV N.10 : Photocopie
-- PV N.15 : Mimique
-- PV PV N.20 : Conversion 2
-- Lv. 25 Protect
-- PV N.30 : Métronome
-- PV N.35 : Morphing
-- Lv. 40 Recover
-- Lv. N.45 : Vitesse Extrême
-- PV N.50 : Ultralaser
-- Lv. 55 Last Resort
+## 📜 Description
 
-![image](https://github.com/user-attachments/assets/d5f3c80b-f0a6-4c72-94c8-eecc6e79447c)
+> Evereon n’existait autrefois que dans les légendes.  
+> Un Évoli exceptionnel réussit finalement à surpasser toutes ses formes évoluées et éveilla un ancien pouvoir mythique.
+
+![Evereon](https://github.com/user-attachments/assets/d5f3c80b-f0a6-4c72-94c8-eecc6e79447c)
