@@ -13,7 +13,7 @@ Questions fréquentes concernant le modpack, l’installation et la progression.
 - 🖥️ Fermer les applications gourmandes
 - ⚙️ Utiliser les flags JVM recommandés en solo
 
-📘 [Guide d'optimisation solo](../settings/optimize-solo-performance.md)
+📘 [Guide d'optimisation solo](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/settings/optimize-solo-performance.md)
 
 ---
 
