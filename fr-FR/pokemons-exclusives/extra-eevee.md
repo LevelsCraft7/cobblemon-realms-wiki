@@ -90,8 +90,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 📜 Description
 
-> Spectroli a tendance à rôder dans les forêts sombres, attendant patiemment le jour que son entraîneur reviends, 
-> La plupart d'entre eux ne savent mêment pas qu'ils sont décédés, et rôdent toujours les lieux.
+> Spectroli a tendance à rôder dans les forêts sombres, attendant patiemment le jour où son entraîneur reviendra. La plupart d’entre eux ne réalisent même pas qu’ils sont décédés et continuent d’errer sans fin dans ces lieux.
 
 ---
 
