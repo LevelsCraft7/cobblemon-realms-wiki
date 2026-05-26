@@ -2,10 +2,10 @@
 
 **Deeper and Darker** ajoute une dimension souterraine oppressante nommée **The Otherside**, centrée sur :
 
-- 🌑 M’obscurité
-- 🔊 Les sons et les vibrations
+- 🌑 L’obscurité
+- 🔊 Des sons et les vibrations
 - 🧭 L’exploration prudente
-- 💀 Le loot à haut risque
+- 💀 Du loot à haut risque
 
 Dans **Cobblemon Realms**, cette dimension devient encore plus importante grâce à ses nombreux **spawns Cobblemon personnalisés**, incluant plusieurs rencontres rares et late-game.
 
