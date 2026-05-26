@@ -47,7 +47,7 @@
 ## Guides des mods
 
 - [🎵 Music Interface](mods-guides/musicinterface.md)
-- [🍃 Rustling Spots](fr-FR/mods-guides/rustling_spots.md)
+- [🍃 Rustling Spots](mods-guides/rustling_spots.md)
 - [🧱 Chunky pour la pré-génération du monde](mods-guides/chunky.md)
 - [🧳 Luggage](mods-guides/luggage.md)
 - [🕳️ Deeper and Darker](mods-guides/deeper_and_darker.md)
