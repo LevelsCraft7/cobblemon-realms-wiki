@@ -10,31 +10,21 @@ Si vous souhaitez retrouver un comportement plus proche de **Minecraft vanilla**
 
 ## 📂 1. Ouvrir le dossier du modpack
 
-Accédez au dossier :
-
-`mods`
-
-de votre installation **Cobblemon Realms**.
+Accédez au dossier : `mods` de votre installation **Cobblemon Realms**.
 
 ---
 
 ## 🔎 2. Trouver le mod concerné
 
-Repérez le fichier correspondant à :
+Repérez le fichier correspondant à : **In Control!**
 
-**In Control!**
-
-Le fichier ressemble généralement à :
-
-`InControl-*.jar`
+Le fichier ressemble généralement à : `InControl-*.jar`
 
 ---
 
 ## 🗑️ 3. Supprimer le mod
 
-Supprimez simplement le fichier :
-
-`InControl-*.jar`
+Supprimez simplement le fichier : `InControl-*.jar`
 
 ---
 
