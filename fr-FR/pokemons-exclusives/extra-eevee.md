@@ -45,7 +45,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ---
 
-# 👻 Spectreon
+# 👻 Spectroli
 
 ## 🧾 Informations générales
 
@@ -78,7 +78,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 - ✨ Magical Biomes *(Ultra Rare)*
 - 🏜️ Soul Sand Valley *(Rare)*
 
-![Spectreon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon.png) ![Spectreon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon_shiny.png) 
+![Spectroli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon.png) ![Spectroli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon_shiny.png) 
 
 ---
 
@@ -90,8 +90,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 📜 Description
 
-> Spectreon rôde dans les forêts sombres, attendant le jour où son Dresseur reviendra.  
-> Beaucoup ne réalisent même pas qu'ils sont morts et errent sans fin.
+> Spectroli a tendance à rôder dans les forêts sombres, attendant patiemment le jour que son entraîneur reviends, La plupart d'entre eux ne savent mêment pas qu'ils sont décédés, et rôdent toujours les lieux.
 
 ---
 
