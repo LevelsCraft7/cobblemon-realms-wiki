@@ -23,7 +23,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Charmilly 
 
-![Alcremie](https://play.pokemonshowdown.com/sprites/ani/alcremie.gif)
+![Charmilly](https://play.pokemonshowdown.com/sprites/ani/alcremie.gif)
 
 **Effets accordés:**
 
@@ -47,7 +47,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Arkéapti 
 
-![Archen](https://play.pokemonshowdown.com/sprites/ani/archen.gif)
+![Arkéapti](https://play.pokemonshowdown.com/sprites/ani/archen.gif)
 
 **Effets accordés:**
 
@@ -60,7 +60,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Terhal 
 
-![Beldum](https://play.pokemonshowdown.com/sprites/ani/beldum.gif)
+![Terhal](https://play.pokemonshowdown.com/sprites/ani/beldum.gif)
 
 **Effets accordés:**
 
@@ -73,7 +73,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Joliflor 
 
-![Bellossom](https://play.pokemonshowdown.com/sprites/ani/bellossom.gif)
+![Joliflor](https://play.pokemonshowdown.com/sprites/ani/bellossom.gif)
 
 **Effets accordés:**
 
@@ -85,7 +85,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Rozbouton 
 
-![Budew](https://play.pokemonshowdown.com/sprites/ani/budew.gif)
+![Rozbouton](https://play.pokemonshowdown.com/sprites/ani/budew.gif)
 
 **Effets accordés:**
 
@@ -97,7 +97,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Bulbizarre 
 
-![Bulbasaur](https://play.pokemonshowdown.com/sprites/ani/bulbasaur.gif)
+![Bulbizarre](https://play.pokemonshowdown.com/sprites/ani/bulbasaur.gif)
 
 **Effets accordés:**
 
@@ -110,7 +110,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Chenipan 
 
-![Caterpie](https://play.pokemonshowdown.com/sprites/ani/caterpie.gif)
+![Chenipan](https://play.pokemonshowdown.com/sprites/ani/caterpie.gif)
 
 **Effets accordés:**
 
@@ -122,7 +122,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Charbambin 
 
-![Charcadet](https://play.pokemonshowdown.com/sprites/ani/charcadet.gif)
+![Charbambin](https://play.pokemonshowdown.com/sprites/ani/charcadet.gif)
 
 **Effets accordés:**
 
@@ -135,7 +135,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Salamèche 
 
-![Charmander](https://play.pokemonshowdown.com/sprites/ani/charmander.gif)
+![Salamèche](https://play.pokemonshowdown.com/sprites/ani/charmander.gif)
 
 **Effets accordés:**
 
@@ -148,7 +148,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Pijako 
 
-![Chatot](https://play.pokemonshowdown.com/sprites/ani/chatot.gif)
+![Pijako](https://play.pokemonshowdown.com/sprites/ani/chatot.gif)
 
 **Effets accordés:**
 
@@ -160,7 +160,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Germignon 
 
-![Chikorita](https://play.pokemonshowdown.com/sprites/ani/chikorita.gif)
+![Germignon](https://play.pokemonshowdown.com/sprites/ani/chikorita.gif)
 
 **Effets accordés:**
 
@@ -174,7 +174,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Ouisticram 
 
-![Chimchar](https://play.pokemonshowdown.com/sprites/ani/chimchar.gif)
+![Ouisticram](https://play.pokemonshowdown.com/sprites/ani/chimchar.gif)
 
 **Effets accordés:**
 
@@ -187,7 +187,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Korillon 
 
-![Chingling](https://play.pokemonshowdown.com/sprites/ani/chingling.gif)
+![Korillon](https://play.pokemonshowdown.com/sprites/ani/chingling.gif)
 
 **Effets accordés:**
 
@@ -199,7 +199,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Mélo 
 
-![Cleffa](https://play.pokemonshowdown.com/sprites/ani/cleffa.gif)
+![Mélo](https://play.pokemonshowdown.com/sprites/ani/cleffa.gif)
 
 **Effets accordés:**
 
@@ -211,7 +211,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Apitrini 
 
-![Combee](https://play.pokemonshowdown.com/sprites/ani/combee.gif)
+![Apitrini](https://play.pokemonshowdown.com/sprites/ani/combee.gif)
 
 **Effets accordés:**
 
@@ -224,7 +224,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Guérilande 
 
-![Comfey](https://play.pokemonshowdown.com/sprites/ani/comfey.gif)
+![Guérilande](https://play.pokemonshowdown.com/sprites/ani/comfey.gif)
 
 **Effets accordés:**
 
@@ -236,7 +236,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Bombydou 
 
-![Cutiefly](https://play.pokemonshowdown.com/sprites/ani/cutiefly.gif)
+![Bombydou](https://play.pokemonshowdown.com/sprites/ani/cutiefly.gif)
 
 **Effets accordés:**
 
@@ -249,7 +249,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Héricendre 
 
-![Cyndaquil](https://play.pokemonshowdown.com/sprites/ani/cyndaquil.gif)
+![Héricendre](https://play.pokemonshowdown.com/sprites/ani/cyndaquil.gif)
 
 **Effets accordés:**
 
@@ -262,7 +262,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Fantyrm 
 
-![Dreepy](https://play.pokemonshowdown.com/sprites/ani/dreepy.gif)
+![Fantyrm](https://play.pokemonshowdown.com/sprites/ani/dreepy.gif)
 
 **Effets accordés:**
 
@@ -275,7 +275,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Évoli
 
-![Eevee](https://play.pokemonshowdown.com/sprites/ani/eevee.gif)
+![Évoli](https://play.pokemonshowdown.com/sprites/ani/eevee.gif)
 
 **Effets accordés:**
 
@@ -288,7 +288,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Lewsor 
 
-![Elgyem](https://play.pokemonshowdown.com/sprites/ani/elgyem.gif)
+![Lewsor](https://play.pokemonshowdown.com/sprites/ani/elgyem.gif)
 
 **Effets accordés:**
 
@@ -300,7 +300,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Feunnec 
 
-![Fennekin](https://play.pokemonshowdown.com/sprites/ani/fennekin.gif)
+![Feunnec](https://play.pokemonshowdown.com/sprites/ani/fennekin.gif)
 
 **Effets accordés:**
 
@@ -313,7 +313,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Flabébé 
 
-![Flabebe](https://play.pokemonshowdown.com/sprites/ani/flabebe.gif)
+![Flabébé](https://play.pokemonshowdown.com/sprites/ani/flabebe.gif)
 
 **Effets accordés:**
 
@@ -325,7 +325,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Passerouge 
 
-![Fletchling](https://play.pokemonshowdown.com/sprites/ani/fletchling.gif)
+![Passerouge](https://play.pokemonshowdown.com/sprites/ani/fletchling.gif)
 
 **Effets accordés:**
 
@@ -337,7 +337,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Flotillon 
 
-![Flittle](https://play.pokemonshowdown.com/sprites/ani/flittle.gif)
+![Flotillon](https://play.pokemonshowdown.com/sprites/ani/flittle.gif)
 
 **Effets accordés:**
 
@@ -350,7 +350,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Mimantis 
 
-![Fomantis](https://play.pokemonshowdown.com/sprites/ani/fomantis.gif)
+![Mimantis](https://play.pokemonshowdown.com/sprites/ani/fomantis.gif)
 
 **Effets accordés:**
 
@@ -362,7 +362,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Grenousse 
 
-![Froakie](https://play.pokemonshowdown.com/sprites/ani/froakie.gif)
+![Grenousse](https://play.pokemonshowdown.com/sprites/ani/froakie.gif)
 
 **Effets accordés:**
 
@@ -375,7 +375,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Mordudor 
 
-![Gimmighoul](https://play.pokemonshowdown.com/sprites/ani/gimmighoul.gif)
+![Mordudor](https://play.pokemonshowdown.com/sprites/ani/gimmighoul.gif)
 
 **Effets accordés:**
 
@@ -388,7 +388,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Germéclat 
 
-![Glimmet](https://play.pokemonshowdown.com/sprites/ani/glimmet.gif)
+![Germéclat](https://play.pokemonshowdown.com/sprites/ani/glimmet.gif)
 
 **Effets accordés:**
 
@@ -400,7 +400,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Toudoudou 
 
-![Igglybuff](https://play.pokemonshowdown.com/sprites/ani/igglybuff.gif)
+![Toudoudou](https://play.pokemonshowdown.com/sprites/ani/igglybuff.gif)
 
 **Effets accordés:**
 
@@ -412,7 +412,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Statitik 
 
-![Joltik](https://play.pokemonshowdown.com/sprites/ani/joltik.gif)
+![Statitik](https://play.pokemonshowdown.com/sprites/ani/joltik.gif)
 
 **Effets accordés:**
 
@@ -425,7 +425,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Crikzik 
 
-![Kricketot](https://play.pokemonshowdown.com/sprites/ani/kricketot.gif)
+![Crikzik](https://play.pokemonshowdown.com/sprites/ani/kricketot.gif)
 
 **Effets accordés:**
 
@@ -437,7 +437,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Embrylex 
 
-![Larvitar](https://play.pokemonshowdown.com/sprites/ani/larvitar.gif)
+![Embrylex](https://play.pokemonshowdown.com/sprites/ani/larvitar.gif)
 
 **Effets accordés:**
 
@@ -450,7 +450,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Flamiaou 
 
-![Litten](https://play.pokemonshowdown.com/sprites/ani/litten.gif)
+![Flamiaou](https://play.pokemonshowdown.com/sprites/ani/litten.gif)
 
 **Effets accordés:**
 
@@ -463,7 +463,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Funécire 
 
-![Litwick](https://play.pokemonshowdown.com/sprites/ani/litwick.gif)
+![Funécire](https://play.pokemonshowdown.com/sprites/ani/litwick.gif)
 
 **Effets accordés:**
 
@@ -510,7 +510,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Miaouss
 
-![Meowth](https://play.pokemonshowdown.com/sprites/ani/meowth.gif)
+![Miaouss](https://play.pokemonshowdown.com/sprites/ani/meowth.gif)
 
 **Effets accordés:**
 
@@ -537,7 +537,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Crèmy 
 
-![Milcery](https://play.pokemonshowdown.com/sprites/ani/milcery.gif)
+![Crèmy](https://play.pokemonshowdown.com/sprites/ani/milcery.gif)
 
 **Effets accordés:**
 
@@ -549,7 +549,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Mimiqui 
 
-![Mimikyu](https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif)
+![Mimiqui](https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif)
 
 **Effets accordés:**
 
@@ -564,7 +564,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Négapi 
 
-![Minun](https://play.pokemonshowdown.com/sprites/ani/minun.gif)
+![Négapi](https://play.pokemonshowdown.com/sprites/ani/minun.gif)
 
 **Effets accordés:**
 
@@ -576,7 +576,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Spododo 
 
-![Morelull](https://play.pokemonshowdown.com/sprites/ani/morelull.gif)
+![Spododo](https://play.pokemonshowdown.com/sprites/ani/morelull.gif)
 
 **Effets accordés:**
 
@@ -589,7 +589,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Gobou 
 
-![Mudkip](https://play.pokemonshowdown.com/sprites/ani/mudkip.gif)
+![Gobou](https://play.pokemonshowdown.com/sprites/ani/mudkip.gif)
 
 **Effets accordés:**
 
@@ -602,7 +602,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Cornèbre 
 
-![Murkrow](https://play.pokemonshowdown.com/sprites/ani/murkrow.gif)
+![Cornèbre](https://play.pokemonshowdown.com/sprites/ani/murkrow.gif)
 
 **Effets accordés:**
 
@@ -614,7 +614,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Moustillon 
 
-![Oshawott](https://play.pokemonshowdown.com/sprites/ani/oshawott.gif)
+![Moustillon](https://play.pokemonshowdown.com/sprites/ani/oshawott.gif)
 
 **Effets accordés:**
 
@@ -639,7 +639,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Chlorobule 
 
-![Petilil](https://play.pokemonshowdown.com/sprites/ani/petilil.gif)
+![Chlorobule](https://play.pokemonshowdown.com/sprites/ani/petilil.gif)
 
 **Effets accordés:**
 
@@ -663,7 +663,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Roucool 
 
-![Pidgey](https://play.pokemonshowdown.com/sprites/ani/pidgey.gif)
+![Roucool](https://play.pokemonshowdown.com/sprites/ani/pidgey.gif)
 
 **Effets accordés:**
 
@@ -675,7 +675,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Poichigeon
 
-![Pidove](https://play.pokemonshowdown.com/sprites/ani/pidove.gif)
+![Poichigeon](https://play.pokemonshowdown.com/sprites/ani/pidove.gif)
 
 **Effets accordés:**
 
@@ -700,7 +700,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Tiplouf
 
-![Piplup](https://play.pokemonshowdown.com/sprites/ani/piplup.gif)
+![Tiplouf](https://play.pokemonshowdown.com/sprites/ani/piplup.gif)
 
 **Effets accordés:**
 
@@ -713,7 +713,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Posipi
 
-![Plusle](https://play.pokemonshowdown.com/sprites/ani/plusle.gif)
+![Posipi](https://play.pokemonshowdown.com/sprites/ani/plusle.gif)
 
 **Effets accordés:**
 
@@ -725,7 +725,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Otaquin 
 
-![Popplio](https://play.pokemonshowdown.com/sprites/ani/popplio.gif)
+![Otaquin](https://play.pokemonshowdown.com/sprites/ani/popplio.gif)
 
 **Effets accordés:**
 
@@ -738,7 +738,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Tarsal
 
-![Ralts](https://play.pokemonshowdown.com/sprites/ani/ralts.gif)
+![Tarsal](https://play.pokemonshowdown.com/sprites/ani/ralts.gif)
 
 **Effets accordés:**
 
@@ -765,7 +765,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Nodulithe
 
-![Roggenrola](https://play.pokemonshowdown.com/sprites/ani/roggenrola.gif)
+![Nodulithe](https://play.pokemonshowdown.com/sprites/ani/roggenrola.gif)
 
 **Effets accordés:**
 
@@ -778,7 +778,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Minisange 
 
-![Rookidee](https://play.pokemonshowdown.com/sprites/ani/rookidee.gif)
+![Minisange](https://play.pokemonshowdown.com/sprites/ani/rookidee.gif)
 
 **Effets accordés:**
 
@@ -790,7 +790,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Brindibou 
 
-![Rowlet](https://play.pokemonshowdown.com/sprites/ani/rowlet.gif)
+![Brindibou](https://play.pokemonshowdown.com/sprites/ani/rowlet.gif)
 
 **Effets accordés:**
 
@@ -803,7 +803,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Ténéfix
 
-![Sableye](https://play.pokemonshowdown.com/sprites/ani/sableye.gif)
+![Ténéfix](https://play.pokemonshowdown.com/sprites/ani/sableye.gif)
 
 **Effets accordés:**
 
@@ -815,7 +815,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Lépidonille
 
-![Scatterbug](https://play.pokemonshowdown.com/sprites/ani/scatterbug.gif)
+![Lépidonille](https://play.pokemonshowdown.com/sprites/ani/scatterbug.gif)
 
 **Effets accordés:**
 
@@ -827,7 +827,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Lixy
 
-![Shinx](https://play.pokemonshowdown.com/sprites/ani/shinx.gif)
+![Lixy](https://play.pokemonshowdown.com/sprites/ani/shinx.gif)
 
 **Effets accordés:**
 
@@ -839,7 +839,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Gribouraigne 
 
-![Shroodle](https://play.pokemonshowdown.com/sprites/ani/shroodle.gif)
+![Gribouraigne](https://play.pokemonshowdown.com/sprites/ani/shroodle.gif)
 
 **Effets accordés:**
 
@@ -851,7 +851,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Grillepattes 
 
-![Sizzlipede](https://play.pokemonshowdown.com/sprites/ani/sizzlipede.gif)
+![Grillepattes](https://play.pokemonshowdown.com/sprites/ani/sizzlipede.gif)
 
 **Effets accordés:**
 
@@ -863,7 +863,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Venalgue 
 
-![Skrelp](https://play.pokemonshowdown.com/sprites/ani/skrelp.gif)
+![Venalgue](https://play.pokemonshowdown.com/sprites/ani/skrelp.gif)
 
 **Effets accordés:**
 
@@ -875,7 +875,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Lippouti 
 
-![Smoochum](https://play.pokemonshowdown.com/sprites/ani/smoochum.gif)
+![Lippouti](https://play.pokemonshowdown.com/sprites/ani/smoochum.gif)
 
 **Effets accordés:**
 
@@ -887,7 +887,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Vipélierre 
 
-![Snivy](https://play.pokemonshowdown.com/sprites/ani/snivy.gif)
+![Vipélierre](https://play.pokemonshowdown.com/sprites/ani/snivy.gif)
 
 **Effets accordés:**
 
@@ -900,7 +900,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Piafabec
 
-![Spearow](https://play.pokemonshowdown.com/sprites/ani/spearow.gif)
+![Piafabec](https://play.pokemonshowdown.com/sprites/ani/spearow.gif)
 
 **Effets accordés:**
 
@@ -912,7 +912,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Poussacha
 
-![Sprigatito](https://play.pokemonshowdown.com/sprites/ani/sprigatito.gif)
+![Poussacha](https://play.pokemonshowdown.com/sprites/ani/sprigatito.gif)
 
 **Effets accordés:**
 
@@ -925,7 +925,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Tapatoès 
 
-![Squawkabilly](https://play.pokemonshowdown.com/sprites/ani/squawkabilly.gif)
+![Tapatoès](https://play.pokemonshowdown.com/sprites/ani/squawkabilly.gif)
 
 **Effets accordés:**
 
@@ -937,7 +937,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Carapuce
 
-![Squirtle](https://play.pokemonshowdown.com/sprites/ani/squirtle.gif)
+![Carapuce](https://play.pokemonshowdown.com/sprites/ani/squirtle.gif)
 
 **Effets accordés:**
 
@@ -950,7 +950,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Étourmi
 
-![Starly](https://play.pokemonshowdown.com/sprites/ani/starly.gif)
+![Étourmi](https://play.pokemonshowdown.com/sprites/ani/starly.gif)
 
 **Effets accordés:**
 
@@ -962,7 +962,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Nirondelle
 
-![Taillow](https://play.pokemonshowdown.com/sprites/ani/taillow.gif)
+![Nirondelle](https://play.pokemonshowdown.com/sprites/ani/taillow.gif)
 
 **Effets accordés:**
 
@@ -974,7 +974,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Nigirigon 
 
-![Tatsugiri](https://play.pokemonshowdown.com/sprites/ani/tatsugiri.gif)
+![Nigirigon](https://play.pokemonshowdown.com/sprites/ani/tatsugiri.gif)
 
 **Effets accordés:**
 
@@ -987,7 +987,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Gruikui 
 
-![Tepig](https://play.pokemonshowdown.com/sprites/ani/tepig.gif)
+![Gruikui](https://play.pokemonshowdown.com/sprites/ani/tepig.gif)
 
 **Effets accordés:**
 
@@ -1001,7 +1001,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Poussifeu
 
-![Torchic](https://play.pokemonshowdown.com/sprites/ani/torchic.gif)
+![Poussifeu](https://play.pokemonshowdown.com/sprites/ani/torchic.gif)
 
 **Effets accordés:**
 
@@ -1014,7 +1014,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Kaiminus
 
-![Totodile](https://play.pokemonshowdown.com/sprites/ani/totodile.gif)
+![Kaiminus](https://play.pokemonshowdown.com/sprites/ani/totodile.gif)
 
 **Effets accordés:**
 
@@ -1027,7 +1027,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Arcko
 
-![Treecko](https://play.pokemonshowdown.com/sprites/ani/treecko.gif)
+![Arcko](https://play.pokemonshowdown.com/sprites/ani/treecko.gif)
 
 **Effets accordés:**
 
@@ -1040,7 +1040,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Tortipouss
 
-![Turtwig](https://play.pokemonshowdown.com/sprites/ani/turtwig.gif)
+![Tortipouss](https://play.pokemonshowdown.com/sprites/ani/turtwig.gif)
 
 **Effets accordés:**
 
@@ -1053,7 +1053,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Débugant
 
-![Tyrogue](https://play.pokemonshowdown.com/sprites/ani/tyrogue.gif)
+![Débugant](https://play.pokemonshowdown.com/sprites/ani/tyrogue.gif)
 
 **Effets accordés:**
 
@@ -1066,7 +1066,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Aspicot
 
-![Weedle](https://play.pokemonshowdown.com/sprites/ani/weedle.gif)
+![Aspicot](https://play.pokemonshowdown.com/sprites/ani/weedle.gif)
 
 **Effets accordés:**
 
@@ -1078,7 +1078,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Axoloto 
 
-![Wooper](https://play.pokemonshowdown.com/sprites/ani/wooper.gif)
+![Axoloto](https://play.pokemonshowdown.com/sprites/ani/wooper.gif)
 
 **Effets accordés:**
 
@@ -1090,7 +1090,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Zigzaton 
 
-![Zigzagoon](https://play.pokemonshowdown.com/sprites/ani/zigzagoon.gif)
+![Zigzaton](https://play.pokemonshowdown.com/sprites/ani/zigzagoon.gif)
 
 **Effets accordés:**
 
@@ -1115,7 +1115,7 @@ Ci-dessous se trouve la **liste complète des Pokémon concernés**, triés par 
 
 ## Nosferapti 
 
-![Zubat](https://play.pokemonshowdown.com/sprites/ani/zubat.gif)
+![Nosferapti](https://play.pokemonshowdown.com/sprites/ani/zubat.gif)
 
 **Effets accordés:**
 
