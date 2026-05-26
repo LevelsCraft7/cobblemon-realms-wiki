@@ -32,25 +32,23 @@ Si vous rencontrez des **rollbacks, des freezes ou de mauvaises performances** e
 
 ---
 
-## Resume
+## Resumé
 
 En combinant **Java 21** avec ces reglages JVM, vous pouvez corriger une grande partie des problemes de performances en solo dans Cobblemon Realms, notamment les pics de lag, les soucis de nettoyage memoire et certains rollbacks.
 
-Le resultat attendu est un jeu plus fluide et plus stable.
+Le résultat attendu est un jeu plus fluide et plus stable.
 
 ---
-
-# chatgpt response
 
 # ⚡ Optimiser les performances en solo
 
 Si vous rencontrez des :
 
-- ❄️ freezes
-- 🔁 rollbacks
-- 📉 chutes de FPS
-- 🧠 ralentissements mémoire
-- ⏳ temps de chargement élevés
+- ❄️ Freezes
+- 🔁 Rollbacks
+- 📉 Chutes de FPS
+- 🧠 Ralentissements mémoire
+- ⏳ Temps de chargement élevés
 
 ...sur **Cobblemon Realms** en solo, ajuster les arguments JVM peut améliorer nettement la stabilité du jeu.
 
