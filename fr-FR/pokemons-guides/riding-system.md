@@ -53,7 +53,7 @@ Ceci est une **personnalisation propre au modpack**, différente du Cobblemon de
 
 ## 📚 Documentation officielle
 
-* 🔗 [https://wiki.cobblemon.com/index.php/Pok%C3%A9mon/Riding](https://wiki.cobblemon.com/index.php/Pok%C3%A9mon/Riding)
+* 🔗 [Cobblemon Wiki - Pokémon/Riding](https://wiki.cobblemon.com/index.php/Pok%C3%A9mon/Riding)
 
 ---
 
