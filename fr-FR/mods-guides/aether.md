@@ -320,7 +320,7 @@ Les **Moas** sont les montures emblématiques de l’Aether.
 
 Les **Zephyrs** sont des mobs hostiles ressemblant à des nuages vivants.
 
-![Zephyrs](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/imgwiki/The-Aether/Zephyr.png)
+![Zephyrs](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Zephyr.png)
 
 ## ⚠️ Danger
 
