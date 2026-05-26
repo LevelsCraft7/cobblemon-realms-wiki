@@ -2,11 +2,11 @@
 
 Le datapack **Extra Eeveelutions** ajoute de nombreuses nouvelles évolutions d’Évoli, chacune avec :
 
-- des statistiques personnalisées
-- des talents uniques
-- des méthodes d’évolution spécifiques
-- des learnsets dédiés
-- des spawns spéciaux dans le monde
+- Des statistiques personnalisées
+- Des talents uniques
+- Des méthodes d’évolution spécifiques
+- Des learnsets dédiés
+- Des spawns spéciaux dans le monde
 
 Cette page regroupe toutes les Eeveelutions ajoutées par le datapack.
 
@@ -78,7 +78,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 - ✨ Magical Biomes *(Ultra Rare)*
 - 🏜️ Soul Sand Valley *(Rare)*
 
-![Spectreon Spawn](https://github.com/user-attachments/assets/28254552-80eb-497a-8dd4-935b7fd4f358)
+![Spectreon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon.png) ![Spectreon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon_shiny.png) 
 
 ---
 
