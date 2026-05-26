@@ -1,4 +1,4 @@
-# 🌑 Deeper and Darker — The Otherside
+# 🌑 Deeper and Darker - The Otherside
 
 **Deeper and Darker** ajoute une dimension souterraine oppressante nommée **The Otherside**, centrée sur :
 
