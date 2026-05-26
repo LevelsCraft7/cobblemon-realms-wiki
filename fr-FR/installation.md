@@ -66,7 +66,7 @@ Voici comment procéder manuellement.
 ## 🛠️ Installation manuelle du serveur (Local ou FTP)
 
 1. Vous ne voulez pas vous compliquer la vie avec une installation manuelle ou une redirection de ports ?\
-   Utilisez notre **partenaire officiel** : [**BisectHosting**](https://bisecthosting.com/CobblemonRealms)
+   Utilisez notre **partenaire officiel** : [**BisectHosting**](https://bisecthosting.com/)
 2. Extrayez le fichier ZIP dans un dossier vide.
 3. Lancez :
    - Double-cliquez sur le fichier `run.bat`
@@ -87,7 +87,7 @@ Voici comment procéder manuellement.
 
 ### 🎉 Réduction partenaire
 
-Dans le cadre de notre partenariat, vous pouvez utiliser le code [**OurStory**](https://www.bisecthosting.com/OurStory) lors du paiement pour obtenir **25 % DE RÉDUCTION**.
+Dans le cadre de notre partenariat, vous pouvez utiliser le code [**OurStory**] lors du paiement pour obtenir **25 % DE RÉDUCTION** sur votre 1er mois.
 
 Profitez d’un hébergement fluide afin de vous concentrer sur **l’exploration, la capture et l’aventure** et non sur la maintenance du serveur !
 
@@ -138,7 +138,7 @@ Cela met à jour votre instance vers la dernière version en toute sécurité sa
 - Faites toujours une **sauvegarde de votre monde** avant de réaliser de gros changements ou des mises à jour.
 - Assurez-vous que le **serveur et les clients** utilisent la même version du modpack.
 - Si vous rencontrez des problèmes, réinitialisez les configurations en supprimant `config/` et `defaultconfigs/` puis relancez le jeu.
-- Consultez notre [page FAQ](../faq.md) pour obtenir davantage d’aide.
+- Consultez notre [page FAQ](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/faq.md) pour obtenir davantage d’aide.
 
 ---
 
