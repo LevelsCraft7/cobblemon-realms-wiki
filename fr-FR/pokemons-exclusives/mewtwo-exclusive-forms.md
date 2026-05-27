@@ -45,7 +45,7 @@ Chaque forme modifie son rôle et son style de combat.
 - 🎯 Clic droit sur Mewtwo
 - 🔁 Réversible
 
-![Shadow Mewtwo](https://github.com/user-attachments/assets/33f2c457-b6f3-4cbf-a2a9-69de954cc842)
+![Shadow Mewtwo](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/Mewtwo_shadow.png)
 
 ---
 
