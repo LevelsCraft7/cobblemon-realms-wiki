@@ -40,6 +40,7 @@
 - [🥋 Évolutions de Wushours](pokemons-exclusives/kubfu-evolutions.md)
 - [⚡ Forme chargée de Meltan](pokemons-exclusives/meltan-charged.md)
 - [🦊 Évolutions supplémentaires d'Évoli](pokemons-exclusives/extra-eevee.md)
+- [🐈 Évoli et ses Évolutions](pokemons-exclusives/evee-evolutions.md)
 - [🔌 Formes appareil de Motisma](pokemons-exclusives/rotom-forms.md)
 - [✂️ Coupes de Couafarel](pokemons-exclusives/furfrou-trims.md)
 - [🌀 Formes Totémique](pokemons-exclusives/therian-forms.md)
