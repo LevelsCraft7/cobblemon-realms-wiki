@@ -15,7 +15,7 @@ Lugia Obscur est une forme alternative de Lugia, orientée **Ténèbres / Vol**,
 | 📊 Stats        | Attaque élevée, bulk réduit                 |
 | 🎯 Rôle         | Attaquant offensif                          |
 
-![Lugia Obscur](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/imgwiki/Lost-Lore/lugia_shadow.png) ![Lugia Obscur Shiny](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/imgwiki/Lost-Lore/lugia_shadow_shiny.png)
+![Lugia Obscur](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/lugia_shadow.png) ![Lugia Obscur Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/lugia_shadow_shiny.png)
 
 ---
 
