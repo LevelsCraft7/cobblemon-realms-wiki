@@ -1,8 +1,8 @@
 ---
 
-# 🦅 Shadow Lugia
+# 🦅 Lugia Obscur
 
-Shadow Lugia est une forme alternative de Lugia, orientée **Ténèbres / Vol**, axée sur l’offensive.
+Lugia Obscur est une forme alternative de Lugia, orientée **Ténèbres / Vol**, axée sur l’offensive.
 
 ---
 
@@ -14,6 +14,8 @@ Shadow Lugia est une forme alternative de Lugia, orientée **Ténèbres / Vol**,
 | 🧬 Talent       | Aura Ténébreuse / Bouclier Spectral (caché) |
 | 📊 Stats        | Attaque élevée, bulk réduit                 |
 | 🎯 Rôle         | Attaquant offensif                          |
+
+![Lugia Obscur](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/imgwiki/Lost-Lore/lugia_shadow.png) ![Lugia Obscur Shiny](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/imgwiki/Lost-Lore/lugia_shadow_shiny.png)
 
 ---
 
@@ -45,6 +47,6 @@ Shadow Lugia est une forme alternative de Lugia, orientée **Ténèbres / Vol**,
 
 ## 🧾 Résumé
 
-Shadow Lugia est une version **très offensive et agressive**, conçue pour exercer une pression constante grâce à ses capacités Ténèbres et sa vitesse de tempo élevée.
+Lugia Obscur est une version **très offensive et agressive**, conçue pour exercer une pression constante grâce à ses capacités Ténèbres et sa vitesse de tempo élevée.
 
 ---
