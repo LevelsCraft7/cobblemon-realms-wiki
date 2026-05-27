@@ -65,7 +65,7 @@ Chaque forme modifie son rôle et son style de combat.
   - Craft : Joyau Ténèbr + Mewtwonite X + Joyau Ténèbr
 - ⚡ Activation pour transformation
 
-![Shadow Mewtwo X](https://github.com/user-attachments/assets/3708ba00-b99a-44ae-bd26-fc9e2b8396bd)
+![Shadow Mewtwo Mega X](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_x.png) ![Shadow Mewtwo Mega X Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_x_shiny.png) 
 
 ---
 
@@ -86,7 +86,7 @@ Chaque forme modifie son rôle et son style de combat.
   - Craft : Joyau Ténèbr + Mewtwonite Y + Joyau Ténèbr
 - ⚡ Activation pour transformation
 
- ![Shadow Mewtwo Y](https://github.com/user-attachments/assets/9903b267-0dd5-4d22-b277-cf8cf40f7393)
+ ![Shadow Mewtwo Y](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_y.png)  ![Shadow Mewtwo Y Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_y_shiny.png)
 
 ---
 
