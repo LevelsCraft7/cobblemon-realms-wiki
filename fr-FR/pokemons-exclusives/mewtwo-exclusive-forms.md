@@ -110,12 +110,12 @@
 
 | Stat            | Valeur |
 | --------------- | ------ |
-| ❤️ HP           | XXX      |
-| ⚔️ Attaque      | XXX     |
-| 🛡️ Défense     | XXX    |
-| ✨ Attaque Spé.  | XX    |
-| 🌙 Défense Spé. | XXX    |
-| ⚡ Vitesse       | XX     |
+| ❤️ HP           | 106      |
+| ⚔️ Attaque      | 190     |
+| 🛡️ Défense     | 100    |
+| ✨ Attaque Spé.  | 154    |
+| 🌙 Défense Spé. | 100    |
+| ⚡ Vitesse       | 130     |
 
 ***
 
@@ -160,12 +160,12 @@
 
 | Stat            | Valeur |
 | --------------- | ------ |
-| ❤️ HP           | XXX      |
-| ⚔️ Attaque      | XXX     |
-| 🛡️ Défense     | XXX    |
-| ✨ Attaque Spé.  | XX    |
-| 🌙 Défense Spé. | XXX    |
-| ⚡ Vitesse       | XX     |
+| ❤️ HP           | 106      |
+| ⚔️ Attaque      | 190     |
+| 🛡️ Défense     | 100    |
+| ✨ Attaque Spé.  | 154    |
+| 🌙 Défense Spé. | 100    |
+| ⚡ Vitesse       | 130     |
 
 ***
 
