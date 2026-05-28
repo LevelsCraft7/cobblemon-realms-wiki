@@ -34,7 +34,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Biomes floraux |
 | 🔁 Évolution | Cresselia |
-| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/spy.png) |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) |
 | 🧬 Talent | Lévitation |
 | 📊 Stats | Mur spécial lent |
 
@@ -66,7 +66,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Forêts |
 | 🔁 Évolution | Latias (♀) / Latios (♂) |
-| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/spy.png) |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) |
 | 🧬 Talent | Lévitation |
 | 📊 Stats | Sweeper rapide équilibré |
 
@@ -262,7 +262,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🌍 Spawn | End |
 | 🔁 Évolution | Necrozma |
 | ⚠️ Note | Mécanique temporaire |
-| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/spy.png) |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) |
 | 🧬 Talent | Prisme-Armure |
 | 📊 Stats | Attaquant spécial rare |
 
