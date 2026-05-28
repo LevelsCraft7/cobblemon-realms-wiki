@@ -41,8 +41,8 @@
 
 ### ℹ️ Information supplémentaire
 
-- Si Amphinobi a moins de 250 points d'amitié, il utilisera la `Synergie` de la génération 9+, qui ne confère qu'un bonus de statistiques et aucune transformation.
-- Si Amphinobi a plus de 250 points d'amitié, il utilisera la `Synergie` de la 7e génération, ce qui lui confère un bonus de statistiques et la transformation en Amphinobi de Sacha.
+* Si Amphinobi possède moins de 250 points d’amitié, il utilisera la `Synergie` introduite à partir de la 9e génération, accordant uniquement un bonus de statistiques sans transformation.
+* Si Amphinobi possède plus de 250 points d’amitié, il utilisera la `Synergie` de la 7e génération, lui octroyant un bonus de statistiques ainsi que la transformation en Amphinobi de Sacha.
 
 ***
 
