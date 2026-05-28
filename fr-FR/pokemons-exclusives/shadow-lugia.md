@@ -1,52 +1,49 @@
----
+## 🦅 Lugia Obscur
 
-# 🦅 Lugia Obscur
+### 🧾 Informations générales
 
-Lugia Obscur est une forme alternative de Lugia, orientée **Ténèbres / Vol**, axée sur l’offensive.
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/vol.png)
 
----
+***
 
-## 📊 Informations
+### 📊 Statistiques
 
-| 📌 Informations | 📋 Détails                                  |
-| --------------- | ------------------------------------------- |
-| ⚔️ Type         | Ténèbres / Vol                              |
-| 🧬 Talent       | Aura Ténébreuse / Bouclier Spectral (caché) |
-| 📊 Stats        | Attaque élevée, bulk réduit                 |
-| 🎯 Rôle         | Attaquant offensif                          |
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 106     |
+| ⚔️ Attaque      | 90     |
+| 🛡️ Défense     | 130    |
+| ✨ Attaque Spé.  | 90    |
+| 🌙 Défense Spé. | 154    |
+| ⚡ Vitesse       | 110     |
+
+***
+
+### 🎯 Talent de la forme
+
+* **Talent :** Pression
+
+***
+
+### 🔮 Fabrication de l'objet
+
+![Recette de fabrication de la Shadow Energy](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/shadow_energy.png)
+
+***
+
+### 🔄 Utilisation
+
+- 🖱️ Clic-droit sur Lugia avec l'objet `Shadow Energy`
+- ℹ️ Son utilisation nécessite un niveau d'amitié supérieur à 250 avec Lugia et réinitialise ce niveau à 0.
+
+***
+
+### 📜 Description
+
+> Le Lugia tombé aux mains du Groupe Ombre a subi une série d'opérations qui ont fait de lui un Pokémon Obscur résistant à la purification. Sa dénaturation est telle qu'il en a changé de forme, accusant une livrée bleu nuit et des yeux rouges alors que les Pokémon Obscurs ne sont d'ordinaire reconnaissables qu'à l'aura qu'il émettent.
+
+***
 
 ![Lugia Obscur](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/lugia_shadow.png) ![Lugia Obscur Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/lugia_shadow_shiny.png)
 
----
-
-## 🧪 Obtention
-
-* 🔧 Crafter **Shadow Energy** :
-  - Table de forge : Gabarit Armure Groin + Joyau Ténèbres + Cristal Méga-Gemme
-- 🎯 Clic droit sur **Lugia** avec la Shadow Energy
-- 🔁 Transformation réversible
-
----
-
-## 📚 Pool de capacités
-
-* Ombre Portée
-* Poursuite
-* Provoc
-* Feinte
-* Clairvoyance Obscure
-* Balayage Nocturne
-* Machination
-* Ombre Nocturne
-* Tranche-Nuit
-* Vibrobscur
-* Coup Bas
-* Ailes Noires
-
----
-
-## 🧾 Résumé
-
-Lugia Obscur est une version **très offensive et agressive**, conçue pour exercer une pression constante grâce à ses capacités Ténèbres et sa vitesse de tempo élevée.
-
----
+***
