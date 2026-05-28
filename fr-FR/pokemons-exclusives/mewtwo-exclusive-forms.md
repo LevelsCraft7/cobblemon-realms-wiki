@@ -2,9 +2,9 @@
 
 ### 🧾 Informations générales
 
-* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/acier.png)
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/acier.png)
 
-***
+---
 
 ### 📊 Statistiques
 
@@ -17,19 +17,19 @@
 | 🌙 Défense Spé. | 154    |
 | ⚡ Vitesse       | 90     |
 
-***
+---
 
 ### 🎯 Talent de la forme
 
-* **Talent :** Armurbaston
+- **Talent :** Armurbaston
 
-***
+---
 
 ### 🔮 Fabrication de l'objet
 
 ![Recette de fabrication de la Binding Armor](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/binding_armor.png)
 
-***
+---
 
 ### 🔄 Utilisation
 
@@ -37,24 +37,25 @@
 - ℹ️ Le même objet permet d’activer ou d’annuler la transformation
 > ![]()💡 
 
-***
+---
 
 ### 📜 Description
 
 > Mewtwo semait la terreur, à la recherche du sens de son existence, quand Giovanni réduisit et contrôla sa puissance.
 
-***
+---
+
 ![Mewtwo Armure](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/armored_mewtwo.png) ![Mewtwo Armure Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/armored_mewtwo_shiny.png)
 
-***
+---
 
 ## 🕶️ Mewtwo Obscur
 
 ### 🧾 Informations générales
 
-* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/tenebres.png)
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/tenebres.png)
 
-***
+---
 
 ### 📊 Statistiques
 
@@ -67,19 +68,19 @@
 | 🌙 Défense Spé. | 154    |
 | ⚡ Vitesse       | 90     |
 
-***
+---
 
 ### 🎯 Talent de la forme
 
-* **Talent :** Neuroforce
+- **Talent :** Neuroforce
 
-***
+---
 
 ### 🔮 Fabrication de l'objet
 
 ![Recette de fabrication de la Shadow Energy](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/shadow_energy.png)
 
-***
+---
 
 ### 🔄 Utilisation
 
@@ -87,24 +88,25 @@
 - ℹ️ Le même objet permet d’activer ou d’annuler la transformation
 > ![]()💡 
 
-***
+---
 
 ### 📜 Description
 
 > XXX
 
-***
+---
+
 ![Mewtwo Obscur](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/Mewtwo_shadow.png) ![Mewtwo Armure Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/Mewtwo_shadow_shiny.png)
 
-***
+---
 
 ## 🔥 Shadow Mewtwo - Mega X
 
 ### 🧾 Informations générales
 
-* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/tenebres.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/combat.png)
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/tenebres.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/combat.png)
 
-***
+---
 
 ### 📊 Statistiques
 
@@ -117,19 +119,19 @@
 | 🌙 Défense Spé. | 100    |
 | ⚡ Vitesse       | 130     |
 
-***
+---
 
 ### 🎯 Talent de la forme
 
-* **Talent :** XXX
+- **Talent :** XXX
 
-***
+---
 
 ### 🔮 Fabrication de l'objet
 
 ![Recette de fabrication de la Shadow Mewtwonite X](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/shadow_mewtwonite_x.png)
 
-***
+---
 
 ### 🔄 Utilisation
 
@@ -137,24 +139,25 @@
 - ℹ️ Le même objet permet d’activer ou d’annuler la transformation
 > ![]()💡 
 
-***
+---
 
 ### 📜 Description
 
 > XXX
 
-***
+---
+
 ![Mewtwo Obscur Mega X](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_x.png) ![Mewtwo Obscur Mega X Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_x_shiny.png)
 
-***
+---
 
 ## 🌑 Shadow Mewtwo - Mega Y
 
 ### 🧾 Informations générales
 
-* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/tenebres.png)
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/tenebres.png)
 
-***
+---
 
 ### 📊 Statistiques
 
@@ -167,19 +170,19 @@
 | 🌙 Défense Spé. | 100    |
 | ⚡ Vitesse       | 130     |
 
-***
+---
 
 ### 🎯 Talent de la forme
 
 * **Talent :** XXX
 
-***
+---
 
 ### 🔮 Fabrication de l'objet
 
 ![Recette de fabrication de la Shadow Mewtwonite Y](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/shadow_mewtwonite_x.png)
 
-***
+---
 
 ### 🔄 Utilisation
 
@@ -187,7 +190,7 @@
 - ℹ️ Le même objet permet d’activer ou d’annuler la transformation
 > ![]()💡 
 
-***
+---
 
 ### 📜 Description
 
