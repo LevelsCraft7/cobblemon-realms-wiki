@@ -60,12 +60,12 @@
 
 | Stat            | Valeur |
 | --------------- | ------ |
-| ❤️ HP           | XXX      |
-| ⚔️ Attaque      | XXX     |
-| 🛡️ Défense     | XXX    |
-| ✨ Attaque Spé.  | XX    |
-| 🌙 Défense Spé. | XXX    |
-| ⚡ Vitesse       | XX     |
+| ❤️ HP           | 106      |
+| ⚔️ Attaque      | 130     |
+| 🛡️ Défense     | 110    |
+| ✨ Attaque Spé.  | 90    |
+| 🌙 Défense Spé. | 154    |
+| ⚡ Vitesse       | 90     |
 
 ***
 
