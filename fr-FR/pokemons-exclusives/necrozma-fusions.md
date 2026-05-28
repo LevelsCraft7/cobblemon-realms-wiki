@@ -17,6 +17,8 @@
 | 🌙 Défense Spé. | 109    |
 | ⚡ Vitesse       | 77     |
 
+![Necrozma Crinière du Couchant](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/Necrozma_duskman.png) ![Necrozma Crinière du Couchant Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/necrozma_duskman_shiny.png)
+
 ---
 
 ### 🎯 Talent de la forme
@@ -43,10 +45,6 @@
 
 ---
 
-![Necrozma Crinière du Couchant](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/Necrozma_duskman.png) ![Necrozma Crinière du Couchant Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/necrozma_duskman_shiny.png)
-
----
-
 ## 🌙 Necrozma Ailes de l’Aube (Dawn Wings)
 
 ### 🧾 Informations générales
@@ -65,6 +63,8 @@
 | ✨ Attaque Spé.  | 157    |
 | 🌙 Défense Spé. | 127    |
 | ⚡ Vitesse       | 77     |
+
+![Necrozma Ailes de l’Aube](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/Necrozma_dawnwings.png) ![Necrozma Ailes de l’Aube Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/Necrozma_dawnwings_shiny.png)
 
 ---
 
@@ -92,10 +92,6 @@
 
 ---
 
-![Necrozma Ailes de l’Aube](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/Necrozma_dawnwings.png) ![Necrozma Ailes de l’Aube Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/Necrozma_dawnwings_shiny.png)
-
----
-
 ## 💥 Ultra-Necrozma
 
 ### 🧾 Informations générales
@@ -114,6 +110,8 @@
 | ✨ Attaque Spé.  | 167    |
 | 🌙 Défense Spé. | 97    |
 | ⚡ Vitesse       | 129     |
+
+![Ultra-Necrozma](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/necrozma_ultra.png) ![Ultra-Necrozma Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/necrozma_ultra_shiny.png)
 
 ---
 
@@ -138,7 +136,3 @@
 ### 📜 Description
 
 > Necrozma prend cette forme quand il a absorbé une quantité phénoménale d'énergie lumineuse. Des rayons laser émanent de tout son corps.
-
----
-
-![Ultra-Necrozma](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/necrozma_ultra.png) ![Ultra-Necrozma Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/necrozma_ultra_shiny.png)
