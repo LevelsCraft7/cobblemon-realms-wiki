@@ -29,7 +29,7 @@ Motisma peut changer de forme en possédant différents appareils.
 
 ---
 
-# ⚡🌱 Motisma-Tonde
+# ⚡🌱 Motisma Tonde
 
 ## 🧾 Informations générales
 
@@ -73,7 +73,7 @@ Motisma peut changer de forme en possédant différents appareils.
 
 ---
 
-# ⚡🔥 Motisma-Chaleur
+# ⚡🔥 Motisma Chaleur
 
 ## 🧾 Informations générales
 
@@ -117,7 +117,7 @@ Motisma peut changer de forme en possédant différents appareils.
 
 ---
 
-# ⚡❄️ Motisma-Froid
+# ⚡❄️ Motisma Froid
 
 ## 🧾 Informations générales
 
@@ -161,7 +161,7 @@ Motisma peut changer de forme en possédant différents appareils.
 
 ---
 
-# ⚡🚿 Motisma-Lavage
+# ⚡🚿 Motisma Lavage
 
 ## 🧾 Informations générales
 
@@ -205,7 +205,7 @@ Motisma peut changer de forme en possédant différents appareils.
 
 ---
 
-# ⚡🚁 Motisma-Hélice
+# ⚡🚁 Motisma Hélice
 
 ## 🧾 Informations générales
 
