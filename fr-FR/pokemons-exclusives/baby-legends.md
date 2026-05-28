@@ -34,7 +34,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Biomes floraux |
 | 🔁 Évolution | Cresselia |
-| ⚔️ Type | Psy |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/spy.png) |
 | 🧬 Talent | Lévitation |
 | 📊 Stats | Mur spécial lent |
 
@@ -50,7 +50,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Biomes montagneux - En journée |
 | 🔁 Évolution | Rayquaza |
-| ⚔️ Type | Dragon / Vol |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/dragon.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/vol.png) |
 | 🧬 Talent | Air Lock |
 | 📊 Stats | Sweeper mixte rapide |
 
@@ -66,7 +66,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Forêts |
 | 🔁 Évolution | Latias (♀) / Latios (♂) |
-| ⚔️ Type | Psy |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/spy.png) |
 | 🧬 Talent | Lévitation |
 | 📊 Stats | Sweeper rapide équilibré |
 
@@ -82,7 +82,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Biomes enneigés (jour) |
 | 🔁 Évolutions | Zekrom / Reshiram / Kyurem |
-| ⚔️ Type | Dragon |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/dragon.png) |
 | 🧬 Talent | Pression |
 | 📊 Stats | Attaquant mixte flexible |
 
@@ -101,7 +101,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Déserts - En jorunée |
 | 🔁 Évolution | Groudon |
-| ⚔️ Type | Sol |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/sol.png) |
 | 🧬 Talent | Dry Skin |
 | 📊 Stats | Attaquant physique bulky |
 
@@ -117,7 +117,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Forêts |
 | 🔁 Évolution | Zacian (♀) / Zamazenta (♂) |
-| ⚔️ Type | Acier |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/acier.png) |
 | 🧬 Talent | Cœur Noble / Chien de Garde (Caché) |
 | 📊 Stats | Tank physique solide |
 
@@ -133,7 +133,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Forêts |
 | 🔁 Évolution | Keldeo |
-| ⚔️ Type | Eau / Normal |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/eau.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/normal.png) |
 | 🧬 Talent | Garde-Ami  |
 | 📊 Stats | Support rapide spécial |
 
@@ -153,7 +153,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Deep Ocean / pêche |
 | 🔁 Évolution | Kyogre |
-| ⚔️ Type | Eau |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/eau.png) |
 | 🧬 Talent | Torrent |
 | 📊 Stats | Attaquant spécial bulky |
 
@@ -173,7 +173,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Lush Caves |
 | 🔁 Évolution | Zygarde (50%) |
-| ⚔️ Type | Dragon / Sol |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/dragon.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/sol.png) |
 | 🧬 Talent | Mue |
 | 📊 Stats | Mur physique lent |
 
@@ -189,7 +189,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Dripstone Caves |
 | 🔁 Évolutions | Registeel / Regirock / Regice via objets + échange |
-| ⚔️ Type | Normal |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/normal.png) |
 | 🧬 Talent | Corps Sain / Fermeté (Caché) |
 | 📊 Stats | Mur extrême lent |
 
@@ -209,7 +209,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Floraux / Aether rares |
 | 🔁 Évolution | Diancie |
-| ⚔️ Type | Roche / Fée |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/roche.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/fee.png) |
 | 🧬 Talent | Corps Sain / Fermeté (Caché) |
 | 📊 Stats | Tank premium robuste |
 
@@ -229,7 +229,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Nether |
 | 🔁 Évolution | Giratina |
-| ⚔️ Type | Spectre |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/spectre.png) |
 | 🧬 Talent | Lévitation |
 | 📊 Stats | Tank mixte lent |
 
@@ -245,7 +245,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | End |
 | 🔁 Évolution | Dialga |
-| ⚔️ Type | Acier |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/acier.png) |
 | 🧬 Talent | Fermeté |
 | 📊 Stats | Mur spécial lent |
 
@@ -262,7 +262,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 | 🌍 Spawn | End |
 | 🔁 Évolution | Necrozma |
 | ⚠️ Note | Mécanique temporaire |
-| ⚔️ Type | Psy |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/spy.png) |
 | 🧬 Talent | Prisme-Armure |
 | 📊 Stats | Attaquant spécial rare |
 
@@ -280,7 +280,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Savanes |
 | 🔁 Évolution | Sulfura |
-| ⚔️ Type | Feu |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/feu.png) |
 | 🧬 Talent | Corps Ardent |
 | 📊 Stats | Attaquant spécial moyen |
 
@@ -296,7 +296,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Plaines enneigées  |
 | 🔁 Évolution | Artikodin |
-| ⚔️ Type | Glace |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/glace.png) |
 | 🧬 Talent | Corps Gel |
 | 📊 Stats | Mur spécial solide |
 
@@ -312,7 +312,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Montagnes |
 | 🔁 Évolution | Électhor |
-| ⚔️ Type | Sol |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/sol.png) |
 | 🧬 Talent | Statik |
 | 📊 Stats | Sweeper spécial fragile |
 
@@ -332,7 +332,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Forêt sombre |
 | 🔁 Évolution | Yveltal |
-| ⚔️ Type | Ténèbres |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/tenebres.png) |
 | 🧬 Talent | Aura Ténébreuse |
 | 📊 Stats | Attaquant mixte offensif |
 
@@ -348,7 +348,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Zones de cloches rares |
 | 🔁 Évolution | Ho-Oh |
-| ⚔️ Type | Feu |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/feu.png) |
 | 🧬 Talent | Pression |
 | 📊 Stats | Attaquant spécial solide |
 
@@ -364,7 +364,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Déserts |
 | 🔁 Évolution | Koraidon (échange + Dragon Fang) |
-| ⚔️ Type | Combat |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/combat.png) |
 | 🧬 Talent | Torche |
 | 📊 Stats | Sweeper physique rapide |
 
@@ -380,7 +380,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Plaines / Collines |
 | 🔁 Évolution | Miraidon |
-| ⚔️ Type | Électrique |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/electrik.png) |
 | 🧬 Talent | Absorbe-Volt|
 | 📊 Stats | Sweeper spécial rapide |
 
@@ -396,7 +396,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Forêts |
 | 🔁 Évolution | Arceus |
-| ⚔️ Type | Normal |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/normal.png) |
 | 🧬 Talent | Adaptabilité |
 | 📊 Stats | Statistiques équilibrées |
 
