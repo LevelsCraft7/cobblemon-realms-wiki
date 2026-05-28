@@ -77,7 +77,7 @@ Motisma peut changer de forme en possédant différents appareils.
 
 ## 🧾 Informations générales
 
-- **Type :** À compléter
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/electrik.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/feu.png)
 
 ---
 
@@ -121,7 +121,7 @@ Motisma peut changer de forme en possédant différents appareils.
 
 ## 🧾 Informations générales
 
-- **Type :** À compléter
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/electrik.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/glace.png)
 
 ---
 
@@ -165,7 +165,7 @@ Motisma peut changer de forme en possédant différents appareils.
 
 ## 🧾 Informations générales
 
-- **Type :** À compléter
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/electrik.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/eau.png)
 
 ---
 
@@ -209,7 +209,7 @@ Motisma peut changer de forme en possédant différents appareils.
 
 ## 🧾 Informations générales
 
-- **Type :** À compléter
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/electrik.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/vol.png)
 
 ---
 
