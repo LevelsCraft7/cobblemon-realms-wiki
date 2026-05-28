@@ -7,7 +7,7 @@ Ce système encourage **l’exploration**, la **planification tactique** et une 
 ---
 
 <details>
-<div align="center">
+<summary> # 🌍 Mode Freeroam </summary>
 
 # 🌍 Mode Freeroam
 ## Jouer sans **Level Cap**
@@ -15,8 +15,6 @@ Ce système encourage **l’exploration**, la **planification tactique** et une 
 *Explorez librement, entraînez vos Pokémon jusqu’au niveau 100 et mettez temporairement votre aventure principale en pause.*
 
 ---
-
-</div>
 
 # ℹ️ Qu’est-ce que le Freeroam ?
 
@@ -36,11 +34,11 @@ Une fois activé :
 
 # 📖 Comment activer le Freeroam ?
 
-## 🧭 Étape 1 — Ouvrir les Quêtes
+## 🧭 Étape 1 - Ouvrir les Quêtes
 
 Ouvrez votre inventaire puis cliquez sur le petit livre :
 
-```txt
+```
 Quests
 ```
 
@@ -48,27 +46,27 @@ situé en haut à gauche de votre écran.
 
 ---
 
-## 📂 Étape 2 — Afficher les catégories
+## 📂 Étape 2 - Afficher les catégories
 
 Passez votre curseur sur le côté gauche de l’écran afin de faire apparaître la liste des quêtes disponibles.
 
 ---
 
-## 📘 Étape 3 — Ouvrir le Guide de bienvenue
+## 📘 Étape 3 - Ouvrir le Guide de bienvenue
 
 Dans le menu affiché, cliquez sur :
 
-```txt
+```
 Guide de bienvenue
 ```
 
 ---
 
-## 🪙 Étape 4 — Activer le Freeroam
+## 🪙 Étape 4 - Activer le Freeroam
 
 Tout en bas du menu, vous trouverez un :
 
-```txt
+```
 Realms Coin
 ```
 
@@ -107,14 +105,11 @@ Le Freeroam est parfait si vous souhaitez :
 
 ---
 
-<div align="center">
-
 ## 💡 Important
 
 Le Freeroam est une **alternative optionnelle** au système de progression classique.  
 Vous pouvez alterner librement entre aventure scénarisée et exploration libre selon votre façon de jouer.
 
-</div>
 </details>
 
 ---
