@@ -8,17 +8,17 @@ Wushours peut évoluer en deux formes différentes de Shifours selon le parchemi
 
 | 🧬 Forme | ⚔️ Type | 🎯 Capacité signature |
 |---|---|---|
-| Frappe Unique | Ténèbres / Combat | Wicked Blow |
-| Mille Poings | Eau / Combat | Surging Strikes |
+| Frappe Unique | Ténèbres / Combat | Poing Obscur |
+| Mille Poings | Eau / Combat | Torrent de Coups |
 
 ---
 
 ## 🧪 Évolution
 
 - 📜 Obtenir le bon parchemin :
-  - **Parchemin des Ténèbres**
-  - **Parchemin de l’Eau**
-- 🎯 Utiliser le parchemin sur Kubfu
+  - **Parchemin des Ténèbres** *Scroll of Darkness*
+  - **Parchemin de l’Eau** *Scroll of Weaters*
+- 🎯 Utiliser le parchemin sur Wushours
 - 🔁 Le parchemin n’est pas consommé
 
 ---
