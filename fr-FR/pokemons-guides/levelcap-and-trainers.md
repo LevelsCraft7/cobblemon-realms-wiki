@@ -6,6 +6,119 @@ Ce système encourage **l’exploration**, la **planification tactique** et une 
 
 ---
 
+<details>
+<div align="center">
+
+# 🌍 Mode Freeroam
+## Jouer sans **Level Cap**
+
+*Explorez librement, entraînez vos Pokémon jusqu’au niveau 100 et mettez temporairement votre aventure principale en pause.*
+
+---
+
+</div>
+
+# ℹ️ Qu’est-ce que le Freeroam ?
+
+Le **Mode Freeroam** permet de désactiver temporairement la progression scénarisée de votre série actuelle afin de jouer de manière totalement libre.
+
+Une fois activé :
+
+- ✅ Plus aucune restriction de niveau
+- ✅ Pokémon pouvant atteindre le **Niveau 100**
+- ✅ Exploration libre de toutes les régions
+- ✅ Capture et entraînement sans contraintes
+- ✅ Retour possible à votre série principale à tout moment
+
+> ⚠️ Pendant le Freeroam, votre progression principale est simplement mise en pause — elle n’est jamais supprimée.
+
+---
+
+# 📖 Comment activer le Freeroam ?
+
+## 🧭 Étape 1 — Ouvrir les Quêtes
+
+Ouvrez votre inventaire puis cliquez sur le petit livre :
+
+```txt
+Quests
+```
+
+situé en haut à gauche de votre écran.
+
+---
+
+## 📂 Étape 2 — Afficher les catégories
+
+Passez votre curseur sur le côté gauche de l’écran afin de faire apparaître la liste des quêtes disponibles.
+
+---
+
+## 📘 Étape 3 — Ouvrir le Guide de bienvenue
+
+Dans le menu affiché, cliquez sur :
+
+```txt
+Guide de bienvenue
+```
+
+---
+
+## 🪙 Étape 4 — Activer le Freeroam
+
+Tout en bas du menu, vous trouverez un :
+
+```txt
+Realms Coin
+```
+
+Cliquez dessus afin d’entrer en mode :
+
+# 🌍 `Freeroam`
+
+---
+
+# 🔄 Reprendre votre progression normale
+
+Vous pouvez revenir à votre aventure principale **à n’importe quel moment**.
+
+## Deux méthodes sont disponibles :
+
+### 📌 Via le menu FTB Quests
+Utilisez simplement le bouton dédié à votre région.
+
+### 🧑‍🏫 Via l’Association des Dresseurs
+Faites apparaître un PNJ de l’`Association des Dresseurs`, puis sélectionnez la série que vous souhaitez reprendre.
+
+> ✅ Votre progression restera exactement au même endroit.
+
+---
+
+# ✨ Pourquoi utiliser le Freeroam ?
+
+Le Freeroam est parfait si vous souhaitez :
+
+- 🌍 Explorer librement
+- ⚔️ Monter vos équipes sans limite
+- 📚 Compléter votre Pokédex
+- 🎣 Chasser des Pokémon rares
+- 🧪 Tester des équipes
+- 🏕️ Jouer de manière plus sandbox et détendue
+
+---
+
+<div align="center">
+
+## 💡 Important
+
+Le Freeroam est une **alternative optionnelle** au système de progression classique.  
+Vous pouvez alterner librement entre aventure scénarisée et exploration libre selon votre façon de jouer.
+
+</div>
+</details>
+
+---
+
 ## 📊 Système de niveau maximum (Level Cap)
 
 Chaque joueur possède un **niveau maximum personnel**, commençant à **25** dans ce modpack (par défaut, il est plus bas dans le mod original).
