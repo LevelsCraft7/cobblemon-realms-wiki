@@ -51,6 +51,6 @@
 > Aucune description dans le Pokédex.
 
 ***
-![Amphinobi Forme Sacha](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/ash_greninja.png) ![Amphinobi Forme Sacha](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/ash_greninja_shiny.png)
+![Amphinobi Forme Sacha](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/ash_greninja.png) ![Amphinobi Forme Sacha Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/ash_greninja_shiny.png)
 
 ***
