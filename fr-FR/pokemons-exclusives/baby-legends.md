@@ -18,7 +18,7 @@ Cette page est maintenue à jour selon la configuration actuelle du modpack. Ell
 |---|---|
 | 🌍 Spawn | Biomes floraux - En journée |
 | 🔁 Évolution | Xerneas |
-| ⚔️ Type | Fée |
+| ⚔️ Type | [](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/fee.png) |
 | 🧬 Talent | Aura Féérique |
 | 📊 Stats | Attaquant spécial bulky |
 
