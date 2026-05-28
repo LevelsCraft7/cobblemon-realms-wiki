@@ -28,7 +28,7 @@ Une fois activé :
 - ✅ Capture et entraînement sans contraintes
 - ✅ Retour possible à votre série principale à tout moment
 
-> ⚠️ Pendant le Freeroam, votre progression principale est simplement mise en pause — elle n’est jamais supprimée.
+> ⚠️ Pendant le Freeroam, votre progression principale est simplement mise en pause elle n’est jamais supprimée.
 
 ---
 
@@ -36,13 +36,7 @@ Une fois activé :
 
 ## 🧭 Étape 1 - Ouvrir les Quêtes
 
-Ouvrez votre inventaire puis cliquez sur le petit livre :
-
-```
-Quests
-```
-
-situé en haut à gauche de votre écran.
+Ouvrez votre inventaire puis cliquez sur le petit livre `Quests` situé en haut à gauche de votre écran.
 
 ---
 
@@ -54,25 +48,13 @@ Passez votre curseur sur le côté gauche de l’écran afin de faire apparaîtr
 
 ## 📘 Étape 3 - Ouvrir le Guide de bienvenue
 
-Dans le menu affiché, cliquez sur :
-
-```
-Guide de bienvenue
-```
+Dans le menu affiché, cliquez sur `Guide de bienvenue`
 
 ---
 
 ## 🪙 Étape 4 - Activer le Freeroam
 
-Tout en bas du menu, vous trouverez un :
-
-```
-Realms Coin
-```
-
-Cliquez dessus afin d’entrer en mode :
-
-# 🌍 `Freeroam`
+Tout en bas du menu, vous trouverez un `Realms Coin`. Cliquez dessus afin d’entrer en mode : `Freeroam`
 
 ---
 
