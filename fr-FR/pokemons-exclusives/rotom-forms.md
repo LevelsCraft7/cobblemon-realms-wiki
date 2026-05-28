@@ -73,13 +73,179 @@ Motisma peut changer de forme en possédant différents appareils.
 
 ---
 
-# Motisma Tondeuse
+# ⚡🔥 Motisma-Chaleur
 
-# Motisma Tondeuse
+## 🧾 Informations générales
 
-# Motisma Tondeuse
+- **Type :** À compléter
 
-# Motisma Tondeuse
+---
+
+## 📊 Statistiques
+
+| Stat | Valeur |
+|---|---|
+| ❤️ HP | XX |
+| ⚔️ Attaque | XXX |
+| 🛡️ Défense | XXX |
+| ✨ Attaque Spé. | XX |
+| 🌙 Défense Spé. | XX |
+| ⚡ Vitesse | XX |
+
+---
+
+## 🎯 Talents
+
+- **Talent :** À compléter
+- **Talent Caché :** À compléter
+
+---
+
+## 🔮 Méthode de transformation
+
+- À compléter
+
+---
+
+## 📜 Description
+
+> À compléter
+
+---
+
+![Motisma Chaleur](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_heat.png) ![Motisma Chaleur Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_heat_shiny.png) 
+
+---
+
+# ⚡❄️ Motisma-Froid
+
+## 🧾 Informations générales
+
+- **Type :** À compléter
+
+---
+
+## 📊 Statistiques
+
+| Stat | Valeur |
+|---|---|
+| ❤️ HP | XX |
+| ⚔️ Attaque | XXX |
+| 🛡️ Défense | XXX |
+| ✨ Attaque Spé. | XX |
+| 🌙 Défense Spé. | XX |
+| ⚡ Vitesse | XX |
+
+---
+
+## 🎯 Talents
+
+- **Talent :** À compléter
+- **Talent Caché :** À compléter
+
+---
+
+## 🔮 Méthode de transformation
+
+- À compléter
+
+---
+
+## 📜 Description
+
+> À compléter
+
+---
+
+![Motisma Froid](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_frost.png) ![Motisma Froid Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_frost_shiny.png) 
+
+---
+
+# ⚡🚿 Motisma-Lavage
+
+## 🧾 Informations générales
+
+- **Type :** À compléter
+
+---
+
+## 📊 Statistiques
+
+| Stat | Valeur |
+|---|---|
+| ❤️ HP | XX |
+| ⚔️ Attaque | XXX |
+| 🛡️ Défense | XXX |
+| ✨ Attaque Spé. | XX |
+| 🌙 Défense Spé. | XX |
+| ⚡ Vitesse | XX |
+
+---
+
+## 🎯 Talents
+
+- **Talent :** À compléter
+- **Talent Caché :** À compléter
+
+---
+
+## 🔮 Méthode de transformation
+
+- À compléter
+
+---
+
+## 📜 Description
+
+> À compléter
+
+---
+
+![Motisma Lavage](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_wash.png) ![Motisma Lavage Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_wash_shiny.png) 
+
+---
+
+# ⚡🚁 Motisma-Hélice
+
+## 🧾 Informations générales
+
+- **Type :** À compléter
+
+---
+
+## 📊 Statistiques
+
+| Stat | Valeur |
+|---|---|
+| ❤️ HP | XX |
+| ⚔️ Attaque | XXX |
+| 🛡️ Défense | XXX |
+| ✨ Attaque Spé. | XX |
+| 🌙 Défense Spé. | XX |
+| ⚡ Vitesse | XX |
+
+---
+
+## 🎯 Talents
+
+- **Talent :** À compléter
+- **Talent Caché :** À compléter
+
+---
+
+## 🔮 Méthode de transformation
+
+- À compléter
+
+---
+
+## 📜 Description
+
+> À compléter
+
+---
+
+![Motisma Hélice](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_fan.png) ![Motisma Hélice Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_fan_shiny.png) 
 
 ---
 
