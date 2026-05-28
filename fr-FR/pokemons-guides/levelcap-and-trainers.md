@@ -10,7 +10,6 @@ Ce système encourage **l’exploration**, la **planification tactique** et une 
 <summary align="center"><strong>🌍 Guide Freeroam - Jouer sans Level Cap</strong></summary>
 
 # 🌍 Mode Freeroam
-## Jouer sans **Level Cap**
 
 *Explorez librement, entraînez vos Pokémon jusqu’au niveau 100 et mettez temporairement votre aventure principale en pause.*
 
