@@ -1,6 +1,6 @@
 # 🌪️ Formes Totémique — Trio des Forces de la Nature
 
-Les Pokémon légendaires du trio des Forces de la Nature (**Fulguris**, **Boréas**, **Démétéros**) peuvent changer de forme grâce à un objet spécial : le **Miroir Révélateur**.
+Les Pokémon légendaires du trio des Forces de la Nature (**Fulguris**, **Boréas**, **Démétéros**) peuvent changer de forme grâce à un objet spécial : le **Miroir Sacré**.
 
 ---
 
@@ -12,7 +12,7 @@ Les Pokémon légendaires du trio des Forces de la Nature (**Fulguris**, **Boré
 
 ---
 
-## 🪞 Miroir Révélateur
+## 🪞 Miroir Sacré
 
 | 📌 Informations | 📋 Détails |
 |---|---|
@@ -26,7 +26,7 @@ Les Pokémon légendaires du trio des Forces de la Nature (**Fulguris**, **Boré
 
 ## 🔄 Transformation
 
-- 🎯 Avoir le **Miroir Révélateur** dans l’inventaire
+- 🎯 Avoir le **Miroir Sacré** dans l’inventaire
 - 🖐️ Le tenir en main
 - 🖱️ Clic droit sur :
   - ⚡ Fulguris
@@ -45,6 +45,24 @@ Les Pokémon légendaires du trio des Forces de la Nature (**Fulguris**, **Boré
 | ⚡ Fulguris Totémique | + Attaque Spéciale |
 | 🌪️ Boréas Totémique | + Vitesse / utilité |
 | 🌍 Démétéros Totémique | + Attaque / Défense |
+
+---
+
+## Forme Totémique de Fulguris
+
+![Forme Totémique de Fulguris](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/fulguris_tot%C3%A9mique.png) ![Forme Totémique de Fulguris Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/fulguris_tot%C3%A9mique_shiny.png)
+
+---
+
+## Forme Totémique de Boréas
+
+![Forme Totémique de Boréas](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/bor%C3%A9as_tot%C3%A9mique.png) ![Forme Totémique de Boréas Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/bor%C3%A9as_tot%C3%A9mique_shiny.png)
+
+---
+
+## Forme Totémique de Démétéros
+
+![Forme Totémique de Démétéros](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/d%C3%A9m%C3%A9t%C3%A9ros_tot%C3%A9mique.png) ![Forme Totémique de Démétéros Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/d%C3%A9m%C3%A9t%C3%A9ros_tot%C3%A9mique_shiny.png)
 
 ---
 
