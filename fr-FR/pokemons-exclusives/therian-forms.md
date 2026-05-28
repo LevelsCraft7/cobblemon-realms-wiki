@@ -1,4 +1,4 @@
-# 🌪️ Formes Totémique — Trio des Forces de la Nature
+# 🌪️ Formes Totémique - Trio des Forces de la Nature
 
 Les Pokémon légendaires du trio des Forces de la Nature (**Fulguris**, **Boréas**, **Démétéros**) peuvent changer de forme grâce à un objet spécial : le **Miroir Sacré**.
 
@@ -46,19 +46,19 @@ Les Pokémon légendaires du trio des Forces de la Nature (**Fulguris**, **Boré
 
 ---
 
-## Forme Totémique de Fulguris
+## Forme Totémique Fulguris
 
 ![Forme Totémique de Fulguris](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/fulguris_tot%C3%A9mique.png) ![Forme Totémique de Fulguris Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/fulguris_tot%C3%A9mique_shiny.png)
 
 ---
 
-## Forme Totémique de Boréas
+## Forme Totémique Boréas
 
 ![Forme Totémique de Boréas](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/bor%C3%A9as_tot%C3%A9mique.png) ![Forme Totémique de Boréas Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/bor%C3%A9as_totemique_shiny.png)
 
 ---
 
-## Forme Totémique de Démétéros
+## Forme Totémique Démétéros
 
 ![Forme Totémique de Démétéros](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/d%C3%A9m%C3%A9t%C3%A9ros_tot%C3%A9mique.png) ![Forme Totémique de Démétéros Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/d%C3%A9m%C3%A9t%C3%A9ros_tot%C3%A9mique_shiny.png)
 
