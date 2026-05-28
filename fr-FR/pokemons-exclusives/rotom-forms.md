@@ -19,8 +19,8 @@ Motisma peut changer de forme en possédant différents appareils.
 ## 🔄 Changement de forme
 
 - 🎯 Se placer près d’un appareil compatible
-- 🖱️ Clic droit sur Rotom
-- 📟 Ou utiliser un **Data Monitor**
+- 🖱️ Clic droit sur Motisma
+- 📟 Ou utiliser un **Moniteur de données**
 - 🔁 Les formes peuvent être cyclées
 
 ---
@@ -41,31 +41,30 @@ Motisma peut changer de forme en possédant différents appareils.
 
 | Stat | Valeur |
 |---|---|
-| ❤️ HP | XX |
-| ⚔️ Attaque | XXX |
-| 🛡️ Défense | XXX |
-| ✨ Attaque Spé. | XX |
-| 🌙 Défense Spé. | XX |
-| ⚡ Vitesse | XX |
+| ❤️ HP | 50 |
+| ⚔️ Attaque | 65 |
+| 🛡️ Défense | 107 |
+| ✨ Attaque Spé. | 105 |
+| 🌙 Défense Spé. | 107 |
+| ⚡ Vitesse | 86 |
 
 ---
 
-## 🎯 Talents
+## 🎯 Talent de la forme
 
-- **Talent :** À compléter
-- **Talent Caché :** À compléter
+- **Talent :** Lévitation
 
 ---
 
-## 🔮 Méthode de transformation
+## 🔮 Fabrication de l'objet
 
-- À compléter
+- ![]()
 
 ---
 
 ## 📜 Description
 
-> À compléter
+> Sous cette forme, Motisma adore utiliser les plantes pour faire des bêtises, comme arracher les fleurs cultivées avec amour.
 
 ---
 
@@ -85,31 +84,30 @@ Motisma peut changer de forme en possédant différents appareils.
 
 | Stat | Valeur |
 |---|---|
-| ❤️ HP | XX |
-| ⚔️ Attaque | XXX |
-| 🛡️ Défense | XXX |
-| ✨ Attaque Spé. | XX |
-| 🌙 Défense Spé. | XX |
-| ⚡ Vitesse | XX |
+| ❤️ HP | 50 |
+| ⚔️ Attaque | 65 |
+| 🛡️ Défense | 107 |
+| ✨ Attaque Spé. | 105 |
+| 🌙 Défense Spé. | 107 |
+| ⚡ Vitesse | 86 |
 
 ---
 
 ## 🎯 Talents
 
-- **Talent :** À compléter
-- **Talent Caché :** À compléter
+- **Talent :** Lévitation
 
 ---
 
-## 🔮 Méthode de transformation
+## 🔮 Fabrication de l'objet
 
-- À compléter
+- ![]()
 
 ---
 
 ## 📜 Description
 
-> À compléter
+> Sous cette forme, Motisma adore utiliser la chaleur pour faire des bêtises, comme brûler les vêtements favoris des gens.
 
 ---
 
@@ -129,31 +127,30 @@ Motisma peut changer de forme en possédant différents appareils.
 
 | Stat | Valeur |
 |---|---|
-| ❤️ HP | XX |
-| ⚔️ Attaque | XXX |
-| 🛡️ Défense | XXX |
-| ✨ Attaque Spé. | XX |
-| 🌙 Défense Spé. | XX |
-| ⚡ Vitesse | XX |
+| ❤️ HP | 50 |
+| ⚔️ Attaque | 65 |
+| 🛡️ Défense | 107 |
+| ✨ Attaque Spé. | 105 |
+| 🌙 Défense Spé. | 107 |
+| ⚡ Vitesse | 86 |
 
 ---
 
 ## 🎯 Talents
 
-- **Talent :** À compléter
-- **Talent Caché :** À compléter
+- **Talent :** Lévitation
 
 ---
 
-## 🔮 Méthode de transformation
+## 🔮 Fabrication de l'objet
 
-- À compléter
+- ![]()
 
 ---
 
 ## 📜 Description
 
-> À compléter
+> Sous cette forme, Motisma adore utiliser l’air froid pour faire des bêtises, comme geler le bain chaud d’une personne avant qu’elle n’y mette le pied.
 
 ---
 
@@ -173,31 +170,30 @@ Motisma peut changer de forme en possédant différents appareils.
 
 | Stat | Valeur |
 |---|---|
-| ❤️ HP | XX |
-| ⚔️ Attaque | XXX |
-| 🛡️ Défense | XXX |
-| ✨ Attaque Spé. | XX |
-| 🌙 Défense Spé. | XX |
-| ⚡ Vitesse | XX |
+| ❤️ HP | 50 |
+| ⚔️ Attaque | 65 |
+| 🛡️ Défense | 107 |
+| ✨ Attaque Spé. | 105 |
+| 🌙 Défense Spé. | 107 |
+| ⚡ Vitesse | 86 |
 
 ---
 
 ## 🎯 Talents
 
-- **Talent :** À compléter
-- **Talent Caché :** À compléter
+- **Talent :** Lévitation
 
 ---
 
-## 🔮 Méthode de transformation
+## 🔮 Fabrication de l'objet
 
-- À compléter
+- ![]()
 
 ---
 
 ## 📜 Description
 
-> À compléter
+> Sous cette forme, Motisma adore utiliser de l’eau pour faire des bêtises, comme complètement inonder les pièces à vivre.
 
 ---
 
@@ -217,31 +213,30 @@ Motisma peut changer de forme en possédant différents appareils.
 
 | Stat | Valeur |
 |---|---|
-| ❤️ HP | XX |
-| ⚔️ Attaque | XXX |
-| 🛡️ Défense | XXX |
-| ✨ Attaque Spé. | XX |
-| 🌙 Défense Spé. | XX |
-| ⚡ Vitesse | XX |
+| ❤️ HP | 50 |
+| ⚔️ Attaque | 65 |
+| 🛡️ Défense | 107 |
+| ✨ Attaque Spé. | 105 |
+| 🌙 Défense Spé. | 107 |
+| ⚡ Vitesse | 86 |
 
 ---
 
 ## 🎯 Talents
 
-- **Talent :** À compléter
-- **Talent Caché :** À compléter
+- **Talent :** Lévitation
 
 ---
 
-## 🔮 Méthode de transformation
+## 🔮 Fabrication de l'objet
 
-- À compléter
+- ![]()
 
 ---
 
 ## 📜 Description
 
-> À compléter
+> Sous cette forme, Motisma adore utiliser le vent pour faire des bêtises, comme éparpiller les piles de documents importants.
 
 ---
 
