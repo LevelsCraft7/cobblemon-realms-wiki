@@ -1,70 +1,56 @@
-# 🌊 Ash Greninja (Forme Battle Bond)
+## 🌊 Amphinobi Forme Sacha
 
-Ash Greninja est une forme spéciale de Greninja reconnaissable à ses **marquages sombres sur la tête**. Il ne s’agit pas d’une évolution classique, mais d’une mécanique basée sur le **lien d’amitié** et une interaction d’objets.
+### 🧾 Informations générales
 
----
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/eau.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/tenebres.png)
 
-## 🧑‍🤝‍🧑 Étape 1 : Monter l’amitié
+***
 
-Avant toute transformation, Greninja doit atteindre un **haut niveau d’amitié** avec son dresseur.
+### 📊 Statistiques
 
-- ⚔️ Combattre régulièrement  
-- 🎒 Le garder dans l’équipe active  
-- ❌ Éviter les K.O.  
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 72      |
+| ⚔️ Attaque      | 145     |
+| 🛡️ Défense     | 67    |
+| ✨ Attaque Spé.  | 153    |
+| 🌙 Défense Spé. | 71    |
+| ⚡ Vitesse       | 132     |
 
-➡️ Une amitié élevée est obligatoire pour débloquer Battle Bond.
+***
 
----
+### 🎯 Talent de la forme
 
-## 🎩 Étape 2 : Débloquer Battle Bond
+* **Talent :** Synergie
 
-Une fois l’amitié suffisante, utilisez l’objet suivant :
+***
 
-- 🎩 **Casquette Ash** (`mega_showdown:ash_cap`)
+### 🔮 Fabrication de l'objet
 
-➡️ Faites un clic droit sur Greninja avec la Casquette Ash  
-➡️ Cela active la capacité **Battle Bond**
+![Recette de fabrication de la Ash Cap](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/ash_cap.png)
 
----
+***
 
-## 💧 Étape 3 : Transformation Ash Greninja
+### 🔄 Utilisation
 
-Avec Battle Bond actif, la transformation s’effectue via l’objet **Shuriken d’Eau**.
+- 🖱️ Clic-droit sur Amphinobi avec l'objet `Ash Cap` pour lui attribuer le talent `Synergie`
+- ℹ️ Son utilisation nécessite un niveau d'amitié supérieur à 200.
+> ![]()💡 Lorsqu'un Greninja doté de ce talent met K.O. un autre Pokémon en utilisant une capacité offensive, à moins que cela ne mette fin au combat, il se transforme en Amphinobi de Sacha. Après le combat, le Pokémon reprend sa forme initiale.
 
-### 🔧 Fabrication du Shuriken d’Eau
+***
 
-Table de forge :
+### ℹ️ Information supplémentaire
 
-- 🌀 Gabarit de sertissage (Tide Armor Trim)  
-- 💧 Gemme d’Eau  
-- 💠 Cristal de Méga Pierre  
+- Si Amphinobi a moins de 250 points d'amitié, il utilisera la `Synergie` de la génération 9+, qui ne confère qu'un bonus de statistiques et aucune transformation.
+- Si Amphinobi a plus de 250 points d'amitié, il utilisera la `Synergie` de la 7e génération, ce qui lui confère un bonus de statistiques et la transformation en Amphinobi de Sacha.
 
-![Craft Water Shuriken](https://github.com/user-attachments/assets/2ae3b855-aed0-4cf5-94f1-96237130b0bf)
+***
 
----
+### 📜 Description
 
-## 🎯 Procédure de transformation
+> Aucune description dans le Pokédex.
 
-1. Vérifiez que **Battle Bond est actif**
-2. Tenez le **Shuriken d’Eau**
-3. Faites clic droit sur Greninja
+***
+![Amphinobi Forme Sacha](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/ash_greninja.png) ![Amphinobi Forme Sacha](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/ash_greninja_shiny.png)
 
-➡️ Il se transforme en **Ash Greninja**
-
----
-
-## 📌 Informations importantes
-
-- Cette mécanique est **exclusive à Cobblemon Realms**
-- La forme est **cosmétique uniquement**
-- Aucun changement de type ou de statistiques
-- Perdre Greninja ou désactiver Battle Bond annule la forme
-
----
-
-## 🧾 Résumé
-
-- Monter l’**amitié de Greninja**
-- Utiliser la **Casquette Ash** pour activer Battle Bond
-- Crafter le **Shuriken d’Eau**
-- Déclencher la transformation en Ash Greninja
+***
