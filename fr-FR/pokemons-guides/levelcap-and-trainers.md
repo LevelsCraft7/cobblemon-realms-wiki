@@ -7,7 +7,7 @@ Ce système encourage **l’exploration**, la **planification tactique** et une 
 ---
 
 <details>
-<summary align="center"><strong>🌍 Guide Freeroam — Jouer sans Level Cap</strong></summary>
+<summary align="center"><strong>🌍 Guide Freeroam - Jouer sans Level Cap</strong></summary>
 
 # 🌍 Mode Freeroam
 ## Jouer sans **Level Cap**
