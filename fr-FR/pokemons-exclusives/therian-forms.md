@@ -6,9 +6,7 @@ Les Pokémon légendaires du trio des Forces de la Nature (**Fulguris**, **Boré
 
 ## 🖼️ Aperçu
 
-| Fulguris | Boréas | Démétéros |
-|---|---|---|
-| ![Fulguris](https://github.com/user-attachments/assets/53d73265-51ff-43a4-85b3-066dcbd729d9) | ![Boréas](https://github.com/user-attachments/assets/159d9253-4e5c-4d6f-8cbb-5a54db2de1f3) | ![Démétéros](https://github.com/user-attachments/assets/159d9253-4e5c-4d6f-8cbb-5a54db2de1f3) |
+![Recette de fabrication du **Miroir Sacré**](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/miroir_sacr%C3%A9.png)
 
 ---
 
