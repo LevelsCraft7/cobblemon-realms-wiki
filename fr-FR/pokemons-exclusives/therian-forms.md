@@ -54,7 +54,7 @@ Les Pokémon légendaires du trio des Forces de la Nature (**Fulguris**, **Boré
 
 ## Forme Totémique de Boréas
 
-![Forme Totémique de Boréas](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/bor%C3%A9as_tot%C3%A9mique.png) ![Forme Totémique de Boréas Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/bor%C3%A9as_tot%C3%A9mique_shiny.png)
+![Forme Totémique de Boréas](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/bor%C3%A9as_tot%C3%A9mique.png) ![Forme Totémique de Boréas Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/bor%C3%A9as_totemique_shiny.png)
 
 ---
 
