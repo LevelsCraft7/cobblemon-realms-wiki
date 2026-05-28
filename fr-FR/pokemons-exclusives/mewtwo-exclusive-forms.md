@@ -34,7 +34,7 @@
 ### 🔄 Utilisation
 
 - 🖱️ Clic-droit sur Mewtwo avec l'objet `Binding Armor` 
-- ℹ️ Réversible avec le même objet
+- ℹ️ Le même objet permet d’activer ou d’annuler la transformation
 > ![]()💡 
 
 ***
@@ -84,7 +84,7 @@
 ### 🔄 Utilisation
 
 - 🖱️ Clic-droit sur Mewtwo avec l'objet `Shadow Energy` 
-- ℹ️ Réversible avec le même objet
+- ℹ️ Le même objet permet d’activer ou d’annuler la transformation
 > ![]()💡 
 
 ***
@@ -134,7 +134,7 @@
 ### 🔄 Utilisation
 
 - 🖱️ Clic-droit sur Mewtwo avec l'objet `Shadow Mewtwonite X` 
-- ℹ️ Réversible avec le même objet
+- ℹ️ Le même objet permet d’activer ou d’annuler la transformation
 > ![]()💡 
 
 ***
@@ -148,3 +148,52 @@
 
 ***
 
+## 🌑 Shadow Mewtwo - Mega Y
+
+### 🧾 Informations générales
+
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/tenebres.png)
+
+***
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | XXX      |
+| ⚔️ Attaque      | XXX     |
+| 🛡️ Défense     | XXX    |
+| ✨ Attaque Spé.  | XX    |
+| 🌙 Défense Spé. | XXX    |
+| ⚡ Vitesse       | XX     |
+
+***
+
+### 🎯 Talent de la forme
+
+* **Talent :** XXX
+
+***
+
+### 🔮 Fabrication de l'objet
+
+![Recette de fabrication de la Shadow Mewtwonite Y](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/shadow_mewtwonite_x.png)
+
+***
+
+### 🔄 Utilisation
+
+- 🖱️ Clic-droit sur Mewtwo avec l'objet `Shadow Mewtwonite Y` 
+- ℹ️ Le même objet permet d’activer ou d’annuler la transformation
+> ![]()💡 
+
+***
+
+### 📜 Description
+
+> XXX
+
+***
+![Mewtwo Obscur Mega Y](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_y.png) ![Mewtwo Obscur Mega Y Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_y_shiny.png)
+
+***
