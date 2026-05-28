@@ -99,26 +99,46 @@
 
 ## 💥 Ultra-Necrozma
 
-| 📌 Informations | 📋 Détails |
-|---|---|
-| ⚔️ Type | Psy / Dragon |
-| 🧬 Objet | Ultranecrozium Z |
-| 🎯 Condition | Forme fusion |
-| 🎯 Rôle | Sweeper offensif |
+### 🧾 Informations générales
 
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/dragon.png)
+
+***
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 97      |
+| ⚔️ Attaque      | 167     |
+| 🛡️ Défense     | 97    |
+| ✨ Attaque Spé.  | 167    |
+| 🌙 Défense Spé. | 97    |
+| ⚡ Vitesse       | 129     |
+
+***
+
+### 🎯 Talent de la forme
+
+* **Talent :** Cérébro-Force
+
+***
+
+### 🔮 Fabrication de l'objet
+
+![Recette de fabrication de l'Ultranecrozium Z](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/ultranecrozium-z.png)
+
+***
+
+### 🔄 Utilisation
+
+- 🖱️ Clic-droit sur Lunala avec l'objet `Ultranecrozium Z`
+
+***
+
+### 📜 Description
+
+> Necrozma prend cette forme quand il a absorbé une quantité phénoménale d'énergie lumineuse. Des rayons laser émanent de tout son corps.
+
+***
 ![Ultra-Necrozma](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/necrozma_ultra.png) ![Ultra-Necrozma Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/necrozma_ultra_shiny.png)
-
-### 🧪 Activation
-
-- ⚡ Porter un **Z-Ring**
-- 🔥 Équiper **Ultranecrozium Z**
-- 🎮 En combat : Ultra Burst
-- 🎮 Hors combat : touche **U**
-
----
-
-## 🧾 Résumé
-
-- 🌞 Dusk Mane → Solgaleo (offensif physique)
-- 🌙 Dawn Wings → Lunala (offensif spécial)
-- 💥 Ultra Necrozma → forme ultime ultra offensive
