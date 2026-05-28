@@ -1,100 +1,150 @@
-# 🧬 Mewtwo - Formes Exclusives
+## 🛡️ Mewtwo Armure
 
-Mewtwo dispose de plusieurs formes exclusives : **Armored**, **Shadow**, et leurs **méga-évolutions Shadow**.  
-Chaque forme modifie son rôle et son style de combat.
+### 🧾 Informations générales
 
----
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/acier.png)
 
-## 🛡️ Mewtwo en Armure
+***
 
-| 📌 Informations | 📋 Détails |
-|---|---|
-| ⚔️ Type | Psy / Acier |
-| 🧬 Talent | Armurbaston |
-| 📊 Stats | 106 / 130 / 110 / 90 / 154 / 90 |
-| 🎯 Rôle | Défensif spécial |
+### 📊 Statistiques
 
----
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 106      |
+| ⚔️ Attaque      | 130     |
+| 🛡️ Défense     | 110    |
+| ✨ Attaque Spé.  | 90    |
+| 🌙 Défense Spé. | 154    |
+| ⚡ Vitesse       | 90     |
 
-### 🧪 Obtention
+***
 
-- 🔧 Crafter **Binding Armor** :
-  - Table de forge : Amélioration en Netherite + Joyau Acier + Plastron en fer
-- 🎯 Clic droit sur Mewtwo
-- 🔁 Réversible avec le même objet
+### 🎯 Talent de la forme
 
-![Armored Mewtwo](https://github.com/user-attachments/assets/9001fa9e-6e54-4278-8bc9-c3d79dc5b324)
+* **Talent :** Armurbaston
 
----
+***
 
-## 🕶️ Shadow Mewtwo
+### 🔮 Fabrication de l'objet
 
-| 📌 Informations | 📋 Détails |
-|---|---|
-| ⚔️ Type | Psy / Ténèbres |
-| 🧬 Talent | Neuroforce |
-| 📊 Stats | +Offense / -Défense |
-| 🎯 Rôle | Attaquant spécial offensif |
+![Recette de fabrication de la Binding Armor](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/binding_armor.png)
 
----
+***
 
-### 🧪 Obtention
+### 🔄 Utilisation
 
-- 🔧 Crafter **Shadow Energy** :
-  - Ornement des groins + Joyau Ténèbr + Méga-Gemme
-- 🎯 Clic droit sur Mewtwo
-- 🔁 Réversible
+- 🖱️ Clic-droit sur Mewtwo avec l'objet `Binding Armor` 
+- ℹ️ Réversible avec le même objet
+> ![]()💡 
 
-![Shadow Mewtwo](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/Mewtwo_shadow.png)
+***
 
----
+### 📜 Description
+
+> Mewtwo semait la terreur, à la recherche du sens de son existence, quand Giovanni réduisit et contrôla sa puissance.
+
+***
+![Mewtwo Armure](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/armored_mewtwo.png) ![Mewtwo Armure Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/armored_mewtwo_shiny.png)
+
+***
+
+## 🕶️ Mewtwo Obscur
+
+### 🧾 Informations générales
+
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/tenebres.png)
+
+***
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | XXX      |
+| ⚔️ Attaque      | XXX     |
+| 🛡️ Défense     | XXX    |
+| ✨ Attaque Spé.  | XX    |
+| 🌙 Défense Spé. | XXX    |
+| ⚡ Vitesse       | XX     |
+
+***
+
+### 🎯 Talent de la forme
+
+* **Talent :** Neuroforce
+
+***
+
+### 🔮 Fabrication de l'objet
+
+![Recette de fabrication de la Shadow Energy](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/shadow_energy.png)
+
+***
+
+### 🔄 Utilisation
+
+- 🖱️ Clic-droit sur Mewtwo avec l'objet `Shadow Energy` 
+- ℹ️ Réversible avec le même objet
+> ![]()💡 
+
+***
+
+### 📜 Description
+
+> XXX
+
+***
+![Mewtwo Obscur](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/Mewtwo_shadow.png) ![Mewtwo Armure Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/Mewtwo_shadow_shiny.png)
+
+***
 
 ## 🔥 Shadow Mewtwo - Mega X
 
-| 📌 Informations | 📋 Détails |
-|---|---|
-| ⚔️ Type | Ténèbres / Combat |
-| 📊 Stats | +Attaque / -Défense |
-| 🎯 Rôle | Bruiser physique |
+### 🧾 Informations générales
 
----
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/tenebres.png)
 
-### 🧪 Obtention
+***
 
-- 🔧 Tenir **Shadow Mewtwonite X**
-  - Craft : Joyau Ténèbr + Mewtwonite X + Joyau Ténèbr
-- ⚡ Activation pour transformation
+### 📊 Statistiques
 
-![Shadow Mewtwo Mega X](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_x.png) ![Shadow Mewtwo Mega X Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_x_shiny.png) 
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | XXX      |
+| ⚔️ Attaque      | XXX     |
+| 🛡️ Défense     | XXX    |
+| ✨ Attaque Spé.  | XX    |
+| 🌙 Défense Spé. | XXX    |
+| ⚡ Vitesse       | XX     |
 
----
+***
 
-## 🌑 Shadow Mewtwo - Mega Y
+### 🎯 Talent de la forme
 
-| 📌 Informations | 📋 Détails |
-|---|---|
-| ⚔️ Type | Psy / Ténèbres |
-| 🧬 Talent | Spectro-Bouclier |
-| 📊 Stats | +Attaque / -Défense |
-| 🎯 Rôle | Attaquant spécial |
+* **Talent :** XXX
 
----
+***
 
-### 🧪 Obtention
+### 🔮 Fabrication de l'objet
 
-- 🔧 Tenir **Shadow Mewtwonite Y**
-  - Craft : Joyau Ténèbr + Mewtwonite Y + Joyau Ténèbr
-- ⚡ Activation pour transformation
+![Recette de fabrication de la Shadow Mewtwonite X](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/shadow_mewtwonite_x.png)
 
- ![Shadow Mewtwo Y](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_y.png)  ![Shadow Mewtwo Y Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_y_shiny.png)
+***
 
----
+### 🔄 Utilisation
 
-## 🧾 Résumé
+- 🖱️ Clic-droit sur Mewtwo avec l'objet `Shadow Mewtwonite X` 
+- ℹ️ Réversible avec le même objet
+> ![]()💡 
 
-- 🛡️ Armure = tank défensif
-- 🕶️ Shadow = offensive pure
-- 🔥 Mega X = physique brutal
-- 🌑 Mega Y = spécial + survie
+***
 
----
+### 📜 Description
+
+> XXX
+
+***
+![Mewtwo Obscur Mega X](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_x.png) ![Mewtwo Obscur Mega X Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_x_shiny.png)
+
+***
+
