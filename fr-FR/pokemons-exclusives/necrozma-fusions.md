@@ -52,7 +52,7 @@
 
 ### 🧾 Informations générales
 
-* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/acier.png)
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/spectre.png)
 
 ***
 
