@@ -11,6 +11,8 @@ Ursaluna Lune de Sang apparaît uniquement sous certaines phases lunaires et dan
 | Forêt Sombre | Pleine Lune (ultra rare) |
 | Biomes Effrayants | Nouvelle Lune (rare) |
 
+![Ursaluna Lune de Sang](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/ursaluna_boodmon.png) ![Ursaluna Lune de Sang Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/ursaluna_bloodmon_shiny.png) 
+
 ---
 
 ## 📝 Notes
