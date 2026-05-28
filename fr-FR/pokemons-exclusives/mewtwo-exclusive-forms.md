@@ -195,5 +195,3 @@
 
 ***
 ![Mewtwo Obscur Mega Y](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_y.png) ![Mewtwo Obscur Mega Y Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_y_shiny.png)
-
-***
