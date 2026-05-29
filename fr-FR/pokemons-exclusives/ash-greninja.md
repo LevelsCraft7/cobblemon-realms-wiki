@@ -93,7 +93,7 @@
 ### 🔄 Utilisation
 
 - 🖱️ Clic-droit sur Amphinobi avec l'objet `Ash Cap` pour modifier son apparence.
-- ℹ️ 
+- ℹ️ Cette version est uniquement cosmétique et n’accorde aucun avantage.
 
 ---
 
