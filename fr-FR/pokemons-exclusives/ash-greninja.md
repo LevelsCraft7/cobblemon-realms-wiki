@@ -1,5 +1,3 @@
-## 🌊 Amphinobi Forme Sacha
-
 ## 🐸 Amphinobi Forme Sacha
 
 ### 🧾 Informations générales
