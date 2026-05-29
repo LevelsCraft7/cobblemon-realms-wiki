@@ -52,6 +52,8 @@
 
 > Aucune description dans le Pokédex.
 
+---
+
 <div align="center">
 
 ⠀
