@@ -52,6 +52,7 @@
 
 ⠀
 </div>
+
 ## 🕶️ Mewtwo Obscur
 
 ### 🧾 Informations générales
@@ -106,6 +107,7 @@
 
 ⠀
 </div>
+
 ## 🔥 Shadow Mewtwo - Mega X
 
 ### 🧾 Informations générales
