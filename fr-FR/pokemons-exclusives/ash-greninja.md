@@ -6,7 +6,7 @@
 
 ---
 
-### 📊 Statistiques
+#### 📊 Statistiques
 
 | Stat            | Valeur |
 | --------------- | ------ |
@@ -21,19 +21,19 @@
 
 ---
 
-### 🎯 Talent de la forme
+#### 🎯 Talent de la forme
 
 * **Talent :** Synergie
 
 ---
 
-### 🔮 Fabrication de l'objet
+#### 🔮 Fabrication de l'objet
 
 ![Recette de fabrication de la Ash Cap](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/ash_cap.png)
 
 ---
 
-### 🔄 Utilisation
+#### 🔄 Utilisation
 
 - 🖱️ Clic-droit sur Amphinobi avec l'objet `Ash Cap` pour lui attribuer le talent `Synergie`
 - ℹ️ Son utilisation nécessite un niveau d'amitié supérieur à 200.
@@ -41,13 +41,13 @@
 
 ---
 
-### ℹ️ Information supplémentaire
+#### ℹ️ Information supplémentaire
 
 * Si Amphinobi possède moins de 250 points d’amitié, il utilisera la `Synergie` introduite à partir de la 9e génération, accordant uniquement un bonus de statistiques sans transformation.
 * Si Amphinobi possède plus de 250 points d’amitié, il utilisera la `Synergie` de la 7e génération, lui octroyant un bonus de statistiques ainsi que la transformation en Amphinobi de Sacha.
 
 ---
 
-### 📜 Description
+#### 📜 Description
 
 > Aucune description dans le Pokédex.
