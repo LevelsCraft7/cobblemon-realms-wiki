@@ -1,6 +1,6 @@
 ## 🐸 Amphinobi de Sacha
 
-### 🧾 Informations générales
+#### 🧾 Informations générales
 
 - **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/eau.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/tenebres.png)
 
