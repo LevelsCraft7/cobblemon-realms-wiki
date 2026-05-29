@@ -1,4 +1,4 @@
-## 🐸 Amphinobi de Sacha
+## 🐸 Amphinobi de Sacha - Forme avec talent
 
 ### 🧾 Informations générales
 
@@ -53,3 +53,50 @@
 > Aucune description dans le Pokédex.
 
 ---
+
+## 🐸 Amphinobi de Sacha - Forme sans talent
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/eau.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/tenebres.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 72      |
+| ⚔️ Attaque      | 95     |
+| 🛡️ Défense     | 67    |
+| ✨ Attaque Spé.  | 103    |
+| 🌙 Défense Spé. | 71    |
+| ⚡ Vitesse       | 122     |
+
+![Amphinobi Forme Sacha](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/ash_greninja.png) ![Amphinobi Forme Sacha Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/ash_greninja_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Torrent
+- **Talent caché :** Protéen
+
+---
+
+### 🔮 Fabrication de l'objet
+
+![Recette de fabrication de la Ash Cap](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/ash_cap.png)
+
+---
+
+### 🔄 Utilisation
+
+- 🖱️ Clic-droit sur Amphinobi avec l'objet `Ash Cap` pour modifier son apparence.
+- ℹ️ 
+
+---
+
+### 📜 Description
+
+> Aucune description dans le Pokédex.
