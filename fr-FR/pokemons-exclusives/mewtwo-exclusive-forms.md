@@ -45,7 +45,13 @@
 > Mewtwo semait la terreur, à la recherche du sens de son existence, quand Giovanni réduisit et contrôla sa puissance.
 
 ---
+<div align="center">
 
+⠀
+
+
+⠀
+</div>
 ## 🕶️ Mewtwo Obscur
 
 ### 🧾 Informations générales
@@ -93,7 +99,13 @@
 > XXX
 
 ---
+<div align="center">
 
+⠀
+
+
+⠀
+</div>
 ## 🔥 Shadow Mewtwo - Mega X
 
 ### 🧾 Informations générales
@@ -141,7 +153,13 @@
 > XXX
 
 ---
+<div align="center">
 
+⠀
+
+
+⠀
+</div>
 ## 🌑 Shadow Mewtwo - Mega Y
 
 ### 🧾 Informations générales
