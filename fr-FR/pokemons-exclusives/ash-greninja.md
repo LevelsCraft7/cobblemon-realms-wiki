@@ -52,23 +52,17 @@
 
 > Aucune description dans le Pokédex.
 
----
+<div align="center">
+
+⠀
+
+</div>
 
 ## 🐸 Amphinobi de Sacha - Forme sans talent
 
 ### 🧾 Informations générales
 
 - **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/eau.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/tenebres.png)
-
-<div align="center">
-
-⠀
-
-⠀
-
-⠀
-
-</div>
 
 ### 📊 Statistiques
 
