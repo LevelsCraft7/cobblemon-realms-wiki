@@ -37,7 +37,6 @@
 
 - 🖱️ Clic-droit sur Mewtwo avec l'objet `Binding Armor` 
 - ℹ️ Le même objet permet d’activer ou d’annuler la transformation
-> ![]()💡 
 
 ---
 
@@ -86,7 +85,6 @@
 
 - 🖱️ Clic-droit sur Mewtwo avec l'objet `Shadow Energy` 
 - ℹ️ Le même objet permet d’activer ou d’annuler la transformation
-> ![]()💡 
 
 ---
 
@@ -135,7 +133,6 @@
 
 - 🖱️ Clic-droit sur Mewtwo avec l'objet `Shadow Mewtwonite X` 
 - ℹ️ Le même objet permet d’activer ou d’annuler la transformation
-> ![]()💡 
 
 ---
 
@@ -184,7 +181,6 @@
 
 - 🖱️ Clic-droit sur Mewtwo avec l'objet `Shadow Mewtwonite Y` 
 - ℹ️ Le même objet permet d’activer ou d’annuler la transformation
-> ![]()💡 
 
 ---
 
