@@ -17,6 +17,8 @@
 | 🌙 Défense Spé. | 154    |
 | ⚡ Vitesse       | 90     |
 
+![Mewtwo Armure](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/armored_mewtwo.png) ![Mewtwo Armure Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/armored_mewtwo_shiny.png)
+
 ---
 
 ### 🎯 Talent de la forme
@@ -45,10 +47,6 @@
 
 ---
 
-![Mewtwo Armure](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/armored_mewtwo.png) ![Mewtwo Armure Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/armored_mewtwo_shiny.png)
-
----
-
 ## 🕶️ Mewtwo Obscur
 
 ### 🧾 Informations générales
@@ -67,6 +65,8 @@
 | ✨ Attaque Spé.  | 90    |
 | 🌙 Défense Spé. | 154    |
 | ⚡ Vitesse       | 90     |
+
+![Mewtwo Obscur](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/Mewtwo_shadow.png) ![Mewtwo Armure Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/Mewtwo_shadow_shiny.png)
 
 ---
 
@@ -96,10 +96,6 @@
 
 ---
 
-![Mewtwo Obscur](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/Mewtwo_shadow.png) ![Mewtwo Armure Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/Mewtwo_shadow_shiny.png)
-
----
-
 ## 🔥 Shadow Mewtwo - Mega X
 
 ### 🧾 Informations générales
@@ -118,6 +114,8 @@
 | ✨ Attaque Spé.  | 154    |
 | 🌙 Défense Spé. | 100    |
 | ⚡ Vitesse       | 130     |
+
+![Mewtwo Obscur Mega X](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_x.png) ![Mewtwo Obscur Mega X Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_x_shiny.png)
 
 ---
 
@@ -147,10 +145,6 @@
 
 ---
 
-![Mewtwo Obscur Mega X](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_x.png) ![Mewtwo Obscur Mega X Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_x_shiny.png)
-
----
-
 ## 🌑 Shadow Mewtwo - Mega Y
 
 ### 🧾 Informations générales
@@ -169,6 +163,8 @@
 | ✨ Attaque Spé.  | 154    |
 | 🌙 Défense Spé. | 100    |
 | ⚡ Vitesse       | 130     |
+
+![Mewtwo Obscur Mega Y](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_y.png) ![Mewtwo Obscur Mega Y Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_y_shiny.png)
 
 ---
 
@@ -195,6 +191,3 @@
 ### 📜 Description
 
 > XXX
-
-***
-![Mewtwo Obscur Mega Y](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_y.png) ![Mewtwo Obscur Mega Y Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_mega_y_shiny.png)
