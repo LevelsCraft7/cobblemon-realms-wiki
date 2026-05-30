@@ -72,7 +72,7 @@
 | 🌙 Défense Spé. | 154    |
 | ⚡ Vitesse       | 90     |
 
-![Mewtwo Obscur](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/Mewtwo_shadow.png) ![Mewtwo Armure Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/Mewtwo_shadow_shiny.png)
+![Mewtwo Obscur](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_v2.png) ![Mewtwo Armure Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/mewtwo_shadow_shiny.png)
 
 ---
 
