@@ -50,7 +50,7 @@
 
 ### 📜 Description
 
-> Aucune description dans le Pokédex.
+> Grâce à son lien exceptionnel avec Sacha, Amphinobi transcende ses limites et atteint une forme unique où leurs pensées et leurs mouvements ne font qu'un
 
 ---
 
@@ -107,4 +107,4 @@
 
 ### 📜 Description
 
-> Aucune description dans le Pokédex.
+> Grâce à son lien exceptionnel avec Sacha, Amphinobi transcende ses limites et atteint une forme unique où leurs pensées et leurs mouvements ne font qu'un
