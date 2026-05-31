@@ -42,7 +42,7 @@
 
 ### 📜 Description
 
-> Mewtwo semait la terreur, à la recherche du sens de son existence, quand Giovanni réduisit et contrôla sa puissance.
+> Pour limiter son immense puissance, Mewtwo est équipé d'une armure conçue pour contrôler et contenir ses capacités psychiques.
 
 ---
 <div align="center">
@@ -97,7 +97,7 @@
 
 ### 📜 Description
 
-> XXX
+> Créé par l'homme, consumé par une énergie sombre, Mewtwo perd le contrôle et devient une force destructrice guidée par sa colère et sa souffrance.
 
 ---
 <div align="center">
