@@ -17,7 +17,7 @@
 | 🌙 Défense Spé. | 154    |
 | ⚡ Vitesse       | 90     |
 
-![Mewtwo Armure](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/armored_mewtwo.png) ![Mewtwo Armure Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/armored_mewtwo_shiny.png)
+![Mewtwo Armure](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/armored_mewtwo_update.png) ![Mewtwo Armure Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/armored_mewtwo_shiny_update.png)
 
 ---
 
@@ -72,7 +72,7 @@
 | 🌙 Défense Spé. | 154    |
 | ⚡ Vitesse       | 90     |
 
-![Mewtwo Obscur](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/mewtwo_shadow_v2.png) ![Mewtwo Obscur Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/mewtwo_shadow_shiny.png)
+![Mewtwo Obscur](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/mewtwo_shadow_update.png) ![Mewtwo Obscur Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/mewtwo_shadow_shiny_update.png)
 
 ---
 
