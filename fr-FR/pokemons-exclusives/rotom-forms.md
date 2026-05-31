@@ -58,7 +58,7 @@ Motisma peut changer de forme en possédant différents appareils.
 
 ## 🔮 Fabrication de l'objet
 
-![Recette de fabrication de la **Tondeuse**](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_rotom/craft_tondeuse_update.png)
+![Recette de fabrication de la **Tondeuse**](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_rotom/craft_tondeuse_update2.png)
 
 ---
 
@@ -101,7 +101,7 @@ Motisma peut changer de forme en possédant différents appareils.
 
 ## 🔮 Fabrication de l'objet
 
-![Recette de fabrication du **Four**](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_rotom/craft_four_update.png)
+![Recette de fabrication du **Four**](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_rotom/craft_four_update2.png)
 
 ---
 
@@ -144,7 +144,7 @@ Motisma peut changer de forme en possédant différents appareils.
 
 ## 🔮 Fabrication de l'objet
 
-![Recette de fabrication du **Réfrigirateur**](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_rotom/craft_frigo_update.png)
+![Recette de fabrication du **Réfrigirateur**](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_rotom/craft_frigo_update2.png)
 
 ---
 
@@ -187,7 +187,7 @@ Motisma peut changer de forme en possédant différents appareils.
 
 ## 🔮 Fabrication de l'objet
 
-![Recette de fabrication de la **Machine à laver**](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_rotom/craft_lavage_update.png)
+![Recette de fabrication de la **Machine à laver**](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_rotom/craft_lavage_update2.png)
 
 ---
 
@@ -230,7 +230,7 @@ Motisma peut changer de forme en possédant différents appareils.
 
 ## 🔮 Fabrication de l'objet
 
-![Recette de fabrication du **Ventilateur**](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_rotom/craft_ventilateur_update.png)
+![Recette de fabrication du **Ventilateur**](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_rotom/craft_ventilateur_update2.png)
 
 ---
 
