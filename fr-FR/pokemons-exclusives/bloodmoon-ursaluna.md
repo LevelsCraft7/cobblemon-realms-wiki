@@ -1,24 +1,50 @@
-# 🌕 Ursaluna Lune de Sang
+## 🌕 Ursaking Lune Vermeille
 
-Ursaluna Lune de Sang apparaît uniquement sous certaines phases lunaires et dans des biomes spécifiques.
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/sol.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/normal.png)
 
 ---
 
-## 📍 Localisation
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 113      |
+| ⚔️ Attaque      | 70     |
+| 🛡️ Défense     | 120    |
+| ✨ Attaque Spé.  | 135    |
+| 🌙 Défense Spé. | 65    |
+| ⚡ Vitesse       | 52     |
+
+![Ursaking Lune Vermeille](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/ursaluna_boodmon.png) ![Ursaking Lune Vermeille Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/ursaluna_boodmon_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Œil Révélateur
+
+---
+
+### 📍 Localisation
 
 | 🌍 Biome | 🌙 Condition |
 |---|---|
-| Forêt Sombre | Pleine Lune (ultra rare) |
-| Biomes Effrayants | Nouvelle Lune (rare) |
-
-![Ursaluna Lune de Sang](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/ursaluna_boodmon.png) ![Ursaluna Lune de Sang Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/ursaluna_bloodmon_shiny.png) 
+| Forêt Sombre | Pleine Lune (Ultra Rare) |
+| Biomes Effrayants | Nouvelle Lune (Rare) |
 
 ---
 
-## 📝 Notes
+### 📜 Description
 
-- Aucun objet requis
-- Apparition basée uniquement sur :
-  - 🌙 phase de lune
-  - 🌲 biome spécifique
-- Rencontre très rare
+> Il a traversé la mer pour rejoindre un nouveau territoire. Le fait d’avoir réussi à y survivre a altéré son apparence et ses compétences.
+
+---
+<div align="center">
+
+⠀
+
+
+⠀
+</div>
