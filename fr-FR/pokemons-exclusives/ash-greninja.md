@@ -17,7 +17,7 @@
 | 🌙 Défense Spé. | 71    |
 | ⚡ Vitesse       | 132     |
 
-![Amphinobi Forme Sacha](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/ash_greninja.png) ![Amphinobi Forme Sacha Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/ash_greninja_shiny.png)
+![Amphinobi Forme Sacha](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/ash_greninja.png) ![Amphinobi Forme Sacha Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/ash_greninja_shiny.png)
 
 ---
 
@@ -81,7 +81,7 @@
 | 🌙 Défense Spé. | 71    |
 | ⚡ Vitesse       | 122     |
 
-![Amphinobi Forme Sacha](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/ash_greninja.png) ![Amphinobi Forme Sacha Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/ash_greninja_shiny.png)
+![Amphinobi Forme Sacha](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/ash_greninja.png) ![Amphinobi Forme Sacha Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/ash_greninja_shiny.png)
 
 ---
 
