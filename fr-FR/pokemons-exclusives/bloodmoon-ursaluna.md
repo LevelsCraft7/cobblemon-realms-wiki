@@ -41,10 +41,4 @@
 > Il a traversé la mer pour rejoindre un nouveau territoire. Le fait d’avoir réussi à y survivre a altéré son apparence et ses compétences.
 
 ---
-<div align="center">
-
-⠀
-
-
-⠀
-</div>
+## 
