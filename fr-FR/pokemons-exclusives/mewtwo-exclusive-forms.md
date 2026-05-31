@@ -133,7 +133,7 @@
 
 ### 🎯 Talent de la forme
 
-- **Talent :** XXX
+- **Talent :** /
 
 ---
 
@@ -152,7 +152,7 @@
 
 ### 📜 Description
 
-> XXX
+> Un Mewtwo déjà corrompu par les ténèbres qui libère encore davantage sa puissance grâce à la Méga-Évolution, devenant une force presque incontrôlable.
 
 ---
 <div align="center">
@@ -188,7 +188,7 @@
 
 ### 🎯 Talent de la forme
 
-* **Talent :** XXX
+* **Talent :** /
 
 ---
 
@@ -207,4 +207,4 @@
 
 ### 📜 Description
 
-> XXX
+> Corrompu par une énergie obscure et amplifié par la Méga-Évolution Y, Mewtwo atteint un niveau de puissance psychique terrifiant, dominé par les ténèbres.
