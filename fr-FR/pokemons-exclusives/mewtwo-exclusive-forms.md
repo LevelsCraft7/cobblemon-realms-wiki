@@ -72,7 +72,7 @@
 | 🌙 Défense Spé. | 154    |
 | ⚡ Vitesse       | 90     |
 
-![Mewtwo Obscur](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/shadow_mewtwo_update.png) ![Mewtwo Obscur Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/shadow_mewtwo_shiny_update.png)
+![Mewtwo Obscur](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/shadow_mewtwo_update.png) ![Mewtwo Obscur Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/shawdow_mewtwo_shiny_update.png)
 
 ---
 
