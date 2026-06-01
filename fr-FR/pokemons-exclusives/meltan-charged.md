@@ -1,28 +1,42 @@
-# ⚙️ Meltan - Forme Chargée
+## ⚡ Forme chargée de Meltan
 
-Meltan peut accumuler de l’énergie en absorbant du fer et se transformer une fois chargé en Melmetal chargé.
+### 🧾 Informations générales
 
----
-
-## 🔋 Charge en fer
-
-| 🧱 Objet | ⚡ Charge |
-|---|---|
-| Lingot de fer | +1 |
-| Bloc de fer | +10 |
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/acier.png)
 
 ---
 
-## ⚡ Transformation
+### 📊 Statistiques
 
-- 🎯 Atteindre **999 points de charge**
-- 🔄 Transformation automatique une fois le seuil atteint
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 135      |
+| ⚔️ Attaque      | 143     |
+| 🛡️ Défense     | 143    |
+| ✨ Attaque Spé.  | 80    |
+| 🌙 Défense Spé. | 65    |
+| ⚡ Vitesse       | 34     |
 
-![Melmetal Chargé](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/melmetal_charged.png) ![Melmetal Chargé Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/melmetal_charged_shiny.png) 
+![Melmetal Chargé](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/melmetal_charged.png) ![Melmetal Chargé Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/melmetal_charged_shiny.png)
 
 ---
 
-## 📝 Notes
+### 🎯 Talent de la forme
 
-- La progression dépend uniquement de la quantité de fer absorbée
-- Les blocs sont beaucoup plus efficaces que les lingots
+- **Talent :** Poing de Fer
+
+---
+
+### ⚡ Transformation
+
+* 🎯 Atteindre **999 points de charge**
+* 🔄 Transformation automatique une fois le seuil atteint
+
+---
+
+### 📜 Description
+
+> Autrefois vénéré pour son aptitude à produire du fer, ce Pokémon a mystérieusement ressuscité après 3 000 ans.
+
+---
+## 
