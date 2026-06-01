@@ -31,6 +31,8 @@
 
 - Nourrissez-le avec 600 cristaux (1 éclat d'améthyste, 2 petits bourgeons, 4 moyens, 6 grands et 8 amas). Vous pourrez ensuite le faire évoluer au niveau 40+ à l'aube.
 
+---
+
 ### 📍 Localisation
 
 | 🌍 Biome | 🌙 Condition |
