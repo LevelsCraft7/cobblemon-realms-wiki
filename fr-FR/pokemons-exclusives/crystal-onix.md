@@ -44,8 +44,6 @@
 
 > En creusant le sol il absorbe des éléments solides, ce qui lui donne de la consistance.
 
-![Steelix de Cristal](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/onix_cristal.png) ![Steelix de Cristal Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/comming_soon.jpg)
-
 
 
 ## 💎 Steelix de Crystal
@@ -74,8 +72,6 @@
 ### 🎯 Talent de la forme
 
 - **Talent :** Cristal Fragile & Cristallin
-
----
 
 ### 📜 Description
 
