@@ -48,7 +48,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 🧾 Informations générales
 
-- **Type :** Spectre
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_spectre.png)
 
 ---
 
@@ -97,7 +97,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 🧾 Informations générales
 
-- **Type :** Poison
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_poison.png)
 
 ---
 
@@ -146,7 +146,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 🧾 Informations générales
 
-- **Type :** Combat
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_combat.png)
 
 ---
 
@@ -195,7 +195,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 🧾 Informations générales
 
-- **Type :** Vol
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_vol.png)
 
 ---
 
@@ -244,7 +244,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 🧾 Informations générales
 
-- **Type :** Roche
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_roche.png)
 
 ---
 
@@ -294,7 +294,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 🧾 Informations générales
 
-- **Type :** Insecte
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_insecte.png)
 
 ---
 
@@ -343,7 +343,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 🧾 Informations générales
 
-- **Type :** Acier
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_acier.png)
 
 ---
 
@@ -393,7 +393,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 🧾 Informations générales
 
-- **Type :** Dragon
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_dragon.png)
 
 ---
 
@@ -442,7 +442,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 🧾 Informations générales
 
-- **Type :** Sol
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_sol.png)
 
 ---
 
@@ -492,7 +492,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 🧾 Informations générales
 
-- **Type :** Normal
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_normal.png)
 - **Particularité :** Peut changer de type
 
 ---
@@ -544,7 +544,7 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ## 🧾 Informations générales
 
-- **Type :** Normal
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_normal.png)
 
 ---
 
