@@ -38,5 +38,4 @@
 
 > Autrefois vénéré pour son aptitude à produire du fer, ce Pokémon a mystérieusement ressuscité après 3 000 ans.
 
----
 ## 
