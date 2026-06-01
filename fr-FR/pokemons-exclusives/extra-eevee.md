@@ -63,6 +63,8 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 | 🌙 Défense Spé. | 60 |
 | ⚡ Vitesse | 65 |
 
+![Spectroli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon.png) ![Spectroli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon_shiny.png) 
+
 ---
 
 ## 🎯 Talents
@@ -91,10 +93,6 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ---
 
-![Spectroli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon.png) ![Spectroli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon_shiny.png) 
-
----
-
 # ☣️ Aciduli
 
 ## 🧾 Informations générales
@@ -113,6 +111,8 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 | ✨ Attaque Spé. | 130 |
 | 🌙 Défense Spé. | 110 |
 | ⚡ Vitesse | 60 |
+
+![Aciduli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/acideon.png) ![Aciduli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/acideon_shiny.png)
 
 ---
 
@@ -142,10 +142,6 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ---
 
-![Aciduli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/acideon.png) ![Aciduli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/acideon_shiny.png)
-
----
-
 # 🥊 Champioli
 
 ## 🧾 Informations générales
@@ -164,6 +160,8 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 | ✨ Attaque Spé. | 65 |
 | 🌙 Défense Spé. | 60 |
 | ⚡ Vitesse | 65 |
+
+![Champioli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/champeon.png) ![Champioli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/champeon_shiny.png)
 
 ---
 
@@ -193,10 +191,6 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ---
 
-![Champioli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/champeon.png) ![Champioli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/champeon_shiny.png)
-
----
-
 # 🪽 Atmosphéli
 
 ## 🧾 Informations générales
@@ -215,6 +209,8 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 | ✨ Attaque Spé. | 60 |
 | 🌙 Défense Spé. | 65 |
 | ⚡ Vitesse | 95 |
+
+![Atmosphéli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/aereon.png) ![Atmosphéli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/aereon_shiny.png)
 
 ---
 
@@ -242,8 +238,6 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 > Atmosphéli aime nager avec les nuages et d'autres Pokémons de type Vol, comme son cousin Aquali, il peut se transformer en nuage en guise de défense. Les nuages de la fourrure d'Atmosphéli peut changer selon son humeur, pouvant devenir orageux, pluvieux, chaud ou froid.
 
-![Atmosphéli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/aereon.png) ![Atmosphéli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/aereon_shiny.png)
-
 ---
 
 # ⛏️ Minérali
@@ -264,6 +258,8 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 | ✨ Attaque Spé. | 60 |
 | 🌙 Défense Spé. | 65 |
 | ⚡ Vitesse | 65 |
+
+![Minérali](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/minereon.png) ![Minérali Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/minereon_shiny.png)
 
 ---
 
@@ -292,8 +288,6 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 > Minérali utilise les pics du bout de sa queue pour creuser les roches et y extraire des minerais et différentes pierres précieuses, et les bouts métalliques sur ses oreilles pour extraire l'excès de roche. Ses yeux lui permet de voir ce qu'il est en train de creuser au tréfonds des caves. Quand il se sent en danger, Minérali fracasse sa queue au sol, ce qui jette des pics de pierre en l'air, qu'il ensuite tape dedans sur ses ennemis, comme une balle de baseball.
 
-![Minérali](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/minereon.png) ![Minérali Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/minereon_shiny.png)
-
 ---
 
 # 🐝 Mieli
@@ -314,6 +308,8 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 | ✨ Attaque Spé. | 60 |
 | 🌙 Défense Spé. | 65 |
 | ⚡ Vitesse | 110 |
+
+![Mieli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/hiveon.png) ![Mieli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/hiveon_shiny.png) 
 
 ---
 
@@ -341,8 +337,6 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 > Mieli aime rester dans les arbres, avec sa queue en forme de ruche pendouillant en l'air, sa queue attire les êtres peu méfiants, qu'il injecte ensuite avec un douloureux venin. Le pollen que récolte Mieli viens des baies Oran, Le pollen peut bizarrement être utilisé par Mieli pour produire un fort venin.
 
-![Mieli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/hiveon.png) ![Mieli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/hiveon_shiny.png) 
-
 ---
 
 # 🤖 Métali
@@ -363,6 +357,8 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 | ✨ Attaque Spé. | 130 |
 | 🌙 Défense Spé. | 65 |
 | ⚡ Vitesse | 65 |
+
+![Métali](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/automeon.png) ![Métali Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/automeon_shiny.png)
 
 ---
 
@@ -391,8 +387,6 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 > Les rumeurs racontent que lorsqu’un Métali subit un coup fatal au combat, ses yeux se mettent à clignoter de façon étrange et irrégulière. Personne n’a encore réussi à comprendre la signification de ce phénomène. Longtemps considéré comme lié aux incidents de Paldea, Métali est désormais étudié de près et envoyé en expédition par les scientifiques.
 
-![Métali](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/automeon.png) ![Métali Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/automeon_shiny.png)
-
 ---
 
 # 🐉 Vouivrali
@@ -413,6 +407,8 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 | ✨ Attaque Spé. | 130 |
 | 🌙 Défense Spé. | 65 |
 | ⚡ Vitesse | 60 |
+
+![Vouivrali](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/wyveon.png) ![Vouivrali Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/wyveon_shiny.png) 
 
 ---
 
@@ -440,8 +436,6 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 > Les cristaux de la queue de Vouivrali sont actuellement des écailles durcies, quand ils se sent en danger, Vouivrali peut éjecter ces écailles sur leurs ennemis. Vouivrali est extrêmement territorial. 
 
-![Vouivrali](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/wyveon.png) ![Vouivrali Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/wyveon_shiny.png) 
-
 ---
 
 # 🏮 Donjonli
@@ -462,6 +456,8 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 | ✨ Attaque Spé. | 95 |
 | 🌙 Défense Spé. | 65 |
 | ⚡ Vitesse | 60 |
+
+![Donjonli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/dungeon.png) ![Donjonli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/dungeon_shiny.png) 
 
 ---
 
@@ -490,7 +486,57 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 > Donjonli rôde dans les profondeurs des cavernes, là où certains entraîneurs n’osent jamais s’aventurer. La lanterne suspendue à sa queue peut servir d’appât pour attirer les Pokémon errant eux aussi dans l’obscurité. Lorsqu’il se sent seul, Donjonli sculpte parfois des statues de pierre qu’il considère comme ses seuls compagnons. On raconte que lorsque la lumière de sa lanterne s’éteint… Donjonli est déjà mort.
 
-![Donjonli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/dungeon.png) ![Donjonli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/dungeon_shiny.png) 
+---
+
+# 🌈 Evereon
+
+## 🧾 Informations générales
+
+- **Type :** Normal
+- **Particularité :** Peut changer de type
+
+---
+
+## 📊 Statistiques
+
+| Stat | Valeur |
+|---|---|
+| ❤️ HP | 98 |
+| ⚔️ Attaque | 115 |
+| 🛡️ Défense | 90 |
+| ✨ Attaque Spé. | 115 |
+| 🌙 Défense Spé. | 90 |
+| ⚡ Vitesse | 92 |
+
+![Evereon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/evereon.png) ![Evereon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/evereon_shiny.png) 
+
+---
+
+## 🎯 Talents
+
+- **Talents :** Protéen, Libéro
+- **Talent Caché :** Force Pure
+
+---
+
+## 🌍 Lieux d’apparition
+
+- ❌ Aucun
+- *(Ne peut pas être trouvé à l’état sauvage)*
+
+---
+
+## 🔮 Méthode d’évolution
+
+- Vaincre les **11 Eeveelutions**
+- du mod de base **et** de l’addon
+- avec **Évoli portant le coup final**
+
+---
+
+## 📜 Description
+
+> Evereon, longtemps considéré comme une simple légende, apparaît lorsqu’un Évoli exceptionnel parvient à surpasser toutes ses évolutions. Cette prouesse éveille un ancien pouvoir enfoui dans son âme et le fait évoluer en Evereon.
 
 ---
 
@@ -527,55 +573,3 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 > Lorsqu’un Évoli tarde à évoluer, son ADN se stabilise naturellement et il développe une endurance ainsi que des capacités de combat supérieures. Les scientifiques l’avaient d’abord surnommé « Évolili » comme une plaisanterie, mais ce nom est finalement devenu son appellation officielle après l’apparition de plusieurs spécimens.
 
 ![Évolili](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/eeveeon.png) ![Évolili Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/eeveeon_shiny.png) 
-
----
-
-# 🌈 Evereon
-
-## 🧾 Informations générales
-
-- **Type :** Normal
-- **Particularité :** Peut changer de type
-
----
-
-## 📊 Statistiques
-
-| Stat | Valeur |
-|---|---|
-| ❤️ HP | 98 |
-| ⚔️ Attaque | 115 |
-| 🛡️ Défense | 90 |
-| ✨ Attaque Spé. | 115 |
-| 🌙 Défense Spé. | 90 |
-| ⚡ Vitesse | 92 |
-
----
-
-## 🎯 Talents
-
-- **Talents :** Protéen, Libéro
-- **Talent Caché :** Force Pure
-
----
-
-## 🌍 Lieux d’apparition
-
-- ❌ Aucun
-- *(Ne peut pas être trouvé à l’état sauvage)*
-
----
-
-## 🔮 Méthode d’évolution
-
-- Vaincre les **11 Eeveelutions**
-- du mod de base **et** de l’addon
-- avec **Évoli portant le coup final**
-
----
-
-## 📜 Description
-
-> Evereon, longtemps considéré comme une simple légende, apparaît lorsqu’un Évoli exceptionnel parvient à surpasser toutes ses évolutions. Cette prouesse éveille un ancien pouvoir enfoui dans son âme et le fait évoluer en Evereon.
-
-![Evereon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/evereon.png) ![Evereon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/evereon_shiny.png) 
