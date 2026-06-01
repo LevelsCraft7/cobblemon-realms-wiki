@@ -37,7 +37,7 @@
 - [🦠 Groudon Virus](pokemons-exclusives/virus-groudon.md)
 - [☀️ Fusions de Necrozma](pokemons-exclusives/necrozma-fusions.md)
 - [🌕 Ursaluna Bloodmoon](pokemons-exclusives/bloodmoon-ursaluna.md)
-- [💎 Onix de Cristal](pokemons-exclusives/crystal-onix.md)
+- [💎 Onix & Steelix de Cristal](pokemons-exclusives/crystal-onix.md)
 - [🥋 Évolutions de Wushours](pokemons-exclusives/kubfu-evolutions.md)
 - [⚡ Forme chargée de Meltan](pokemons-exclusives/meltan-charged.md)
 - [🦊 Évolutions supplémentaires d'Évoli](pokemons-exclusives/extra-eevee.md)
