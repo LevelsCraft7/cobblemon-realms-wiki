@@ -548,6 +548,19 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 ---
 
+## 📊 Statistiques
+
+| Stat | Valeur |
+|---|---|
+| ❤️ HP | 85 |
+| ⚔️ Attaque | 105 |
+| 🛡️ Défense | 85 |
+| ✨ Attaque Spé. | 100 |
+| 🌙 Défense Spé. | 95 |
+| ⚡ Vitesse | 110 |
+
+---
+
 ## 🎯 Talents
 
 - **Talents :** Adaptabilité, Anticipation
