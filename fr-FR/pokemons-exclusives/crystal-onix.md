@@ -73,7 +73,7 @@
 | 🌙 Défense Spé. | 65    |
 | ⚡ Vitesse       | 30     |
 
-![Steelix de Crystal](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/steelix_crystral_shiny.png) ![Steelix de Crystal Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/steelix_crystral_shiny.png)
+![Steelix de Crystal](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/steelix_crystral.png) ![Steelix de Crystal Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/steelix_crystral_shiny.png)
 
 ---
 
