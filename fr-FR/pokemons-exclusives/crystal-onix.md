@@ -81,6 +81,8 @@
 
 - **Talent :** Cristal Fragile & Cristallin
 
+---
+
 ### 📜 Description
 
 > On raconte qu'il s'agit d'un Onix de plus de 100 ans dont la structure corporelle s'est rapprochée de celle du diamant.
