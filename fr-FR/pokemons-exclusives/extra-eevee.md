@@ -559,6 +559,8 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 | 🌙 Défense Spé. | 95 |
 | ⚡ Vitesse | 110 |
 
+![Évolili](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/eeveeon.png) ![Évolili Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/eeveeon_shiny.png) 
+
 ---
 
 ## 🎯 Talents
@@ -584,5 +586,3 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 ## 📜 Description
 
 > Lorsqu’un Évoli tarde à évoluer, son ADN se stabilise naturellement et il développe une endurance ainsi que des capacités de combat supérieures. Les scientifiques l’avaient d’abord surnommé « Évolili » comme une plaisanterie, mais ce nom est finalement devenu son appellation officielle après l’apparition de plusieurs spécimens.
-
-![Évolili](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/eeveeon.png) ![Évolili Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/eeveeon_shiny.png) 
