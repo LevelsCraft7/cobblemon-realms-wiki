@@ -46,7 +46,13 @@
 
 > En creusant le sol il absorbe des éléments solides, ce qui lui donne de la consistance.
 
+<div align="center">
 
+⠀
+
+
+⠀
+</div>
 
 ## 💎 Steelix de Crystal
 
