@@ -44,3 +44,5 @@
 ### 📜 Description
 
 > Le Lugia tombé aux mains du Groupe Ombre a subi une série d'opérations qui ont fait de lui un Pokémon Obscur résistant à la purification. Sa dénaturation est telle qu'il en a changé de forme, accusant une livrée bleu nuit et des yeux rouges alors que les Pokémon Obscurs ne sont d'ordinaire reconnaissables qu'à l'aura qu'il émettent.
+
+##
