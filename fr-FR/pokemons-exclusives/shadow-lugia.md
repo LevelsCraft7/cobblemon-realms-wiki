@@ -37,7 +37,9 @@
 
 - 🖱️ Clic-droit sur Lugia avec l'objet `Shadow Energy`
 - ℹ️ Son utilisation nécessite un niveau d'amitié supérieur à 250 et réinitialise ce niveau à 0.
-> ![]()💡 L'effet peut être annulé en réutilisant l'énergie.
+{% hint style="info" %}
+💡 L'effet peut être annulé en réutilisant l'énergie.
+{% endhint %}
 
 ---
 
