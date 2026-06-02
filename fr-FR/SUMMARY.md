@@ -2,7 +2,7 @@
 
 ## Présentation
 
-- [👋 Cobblemon Realms](README.md)
+- [👋 Introduction](README.md)
 
 ## Informations
 
