@@ -65,23 +65,6 @@ Si vous découvrez le modpack, nous vous conseillons de suivre cet ordre :
 
 ---
 
-### 📚 Sections utiles
-
-### 🏆 Progression & Dresseurs
-- [Cap de niveau et dresseurs](pokemons-guides/levelcap-and-trainers.md)
-
-### ✨ Légendaires & contenus exclusifs
-- [Mythes et Légendes](pokemons-guides/myths-and-legends-legendaries.md)
-- [Formes exclusives](pokemons-exclusives/mewtwo-exclusive-forms.md)
-
-### 🌐 Multijoueur
-- [Serveurs multijoueurs](multiplayer-servers.md)
-
-### ⚙️ Paramètres & performances
-- [Paramètres](settings/optimize-solo-performance.md)
-
----
-
 ## 🤝 Communauté & Contributions
 
 Cette documentation est collaborative et continuera d’évoluer avec le temps.
@@ -97,6 +80,6 @@ Vous pouvez contribuer en :
 
 ---
 
-# ✨ Bon voyage dans Cobblemon Realms
+### ✨ Bon voyage dans Cobblemon Realms
 
 Que vous soyez débutant(e) ou dresseur/dresseuse confirmé(e), ce wiki vous donnera une base claire pour profiter pleinement de l’expérience **Cobblemon Realms**.
