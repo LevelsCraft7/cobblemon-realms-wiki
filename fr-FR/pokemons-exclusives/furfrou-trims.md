@@ -36,4 +36,4 @@ Couafarel peut changer de coupe afin d'adopter différentes apparences.
 | ![Coupe Matcha](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/coupe_couafarel/couafarel_matcha.png) | Vert | Donne à Furfrou une banane (pompadour) verte et une queue pointue, ainsi que des reflets verts. |
 | ![Coupe Dandy](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/coupe_couafarel/couafarel_dandy.png) | Vert clair | Coiffe Furfrou d'un haut-de-forme et d'une queue rectangulaire à plusieurs niveaux, avec des reflets vert citron. |
 
-> 💡 La coupe **Naturelle** est la forme par défaut de Couafarel.
+> 💡 La coupe **Naturelle** est la forme par défaut de Couafarel. !
