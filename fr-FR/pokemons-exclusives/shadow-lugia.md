@@ -39,7 +39,7 @@
 - ℹ️ Son utilisation nécessite un niveau d'amitié supérieur à 250 et réinitialise ce niveau à 0.
 
 > ![TIP]
-> 💡 L'effet peut être annulé en réutilisant l'énergie.
+> L'effet peut être annulé en réutilisant l'énergie.
 
 ---
 
