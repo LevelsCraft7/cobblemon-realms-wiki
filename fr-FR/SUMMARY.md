@@ -24,7 +24,7 @@
 - [🦴 Les fossiles](pokemons-guides/fossils.md)
 - [🗺️ Référence des tags de biome](pokemons-guides/biome-tags-reference.md)
 
-## Myths and Legends
+## Myths & Legends
 
 - [🌟 Objets légendaires et biomes](pokemons-guides/myths-and-legends-legendaries.md)
 
