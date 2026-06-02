@@ -49,5 +49,4 @@
 
 ##
 
-> [!TIP]
-> Ce mod est requis pour rejoindre le serveur.
+> [!TIP] Ce mod est requis pour rejoindre le serveur.
