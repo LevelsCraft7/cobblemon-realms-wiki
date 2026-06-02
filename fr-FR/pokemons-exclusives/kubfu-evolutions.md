@@ -38,7 +38,7 @@
 
 ### 🔄 Utilisation
 
-- 🖱️ Clic-droit sur Wushours avec l'objet `Scroll of Darkness` pour lui attribuer le style `Poing Final`
+- 🖱️ Clic-droit sur Wushours avec l'objet `Scroll of Darkness` pour lui attribuer le style.
 - ℹ️ Le choix est définitif pour la ligne d’évolution.
 > ![]()💡 Le parchemin n'est pas consommé lors de son utilisation.
 
@@ -89,7 +89,7 @@
 
 ### 🔄 Utilisation
 
-- 🖱️ Clic-droit sur Wushours avec l'objet `Scroll of Water` pour lui attribuer le style `Mille Poings`
+- 🖱️ Clic-droit sur Wushours avec l'objet `Scroll of Water` pour lui attribuer le style.
 - ℹ️ Le choix est définitif pour la ligne d’évolution.
 > ![]()💡 Le parchemin n'est pas consommé lors de son utilisation.
 
