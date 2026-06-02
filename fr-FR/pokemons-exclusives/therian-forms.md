@@ -44,7 +44,7 @@
 
 ### 📜 Description
 
-> Aucune description de pokédex...
+> Révélant sa véritable apparence sous la forme d'un oiseau légendaire, Boréas parcourt les cieux à une vitesse fulgurante et déclenche de puissantes tempêtes sur son passage.
 
 &#8203;
 &#8203;
@@ -93,7 +93,7 @@
 
 ### 📜 Description
 
-> Aucune description de pokédex...
+> Sous sa forme totémique, Fulguris prend l'apparence d'un dragon céleste. Il maîtrise la foudre avec une précision redoutable et peut provoquer des orages dévastateurs en un instant.
 
 &#8203;
 &#8203;
@@ -140,4 +140,4 @@
 
 ### 📜 Description
 
-> Aucune description de pokédex...
+> Prenant l'apparence d'un tigre sacré, Démétéros veille sur les terres fertiles. Son passage favorise l'abondance des récoltes, mais sa colère peut également déchaîner les éléments.
