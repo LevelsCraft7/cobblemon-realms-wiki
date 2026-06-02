@@ -27,9 +27,9 @@ Un Luggage frappé par la foudre devient un **Luggage chargé** :
 
 ## 🎮 Contrôles
 
-### 📣 Sifflet d'appel
+## 📣 Sifflet d'appel
 
-**Touche :** `
+Touche : **`**
 
 - Téléporte tous vos Luggages à votre position
 - Fonctionne uniquement si les chunks sont chargés
@@ -40,7 +40,7 @@ Un Luggage frappé par la foudre devient un **Luggage chargé** :
 
 ### ⏸️ Sifflet d'attente
 
-**Touches :** `Alt + ``
+Touches : **Alt + `**
 
 - Immobilise les Luggages dans un rayon de **8 blocs**
 - Ils cessent temporairement de vous suivre
