@@ -52,15 +52,8 @@
 
 > Grâce à son lien exceptionnel avec Sacha, Amphinobi transcende ses limites et atteint une forme unique où leurs pensées et leurs mouvements ne font qu'un
 
----
-
-<div align="center">
-
-⠀
-
-
-⠀
-</div>
+&#8203;
+&#8203;
 
 ## 🐸 Amphinobi de Sacha - Forme sans talent
 
