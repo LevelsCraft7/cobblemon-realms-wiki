@@ -6,7 +6,7 @@
 
 - **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_combat.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_tenebres.png)
 
----
+##
 
 ### 📊 Statistiques
 
