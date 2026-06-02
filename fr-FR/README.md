@@ -80,6 +80,6 @@ Vous pouvez contribuer en :
 
 ---
 
-### ✨ Bon voyage dans Cobblemon Realms
+### ✨ Bon voyage sur Cobblemon Realms
 
 Que vous soyez débutant(e) ou dresseur/dresseuse confirmé(e), ce wiki vous donnera une base claire pour profiter pleinement de l’expérience **Cobblemon Realms**.
