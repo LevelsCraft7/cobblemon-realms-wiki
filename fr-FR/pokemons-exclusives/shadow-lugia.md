@@ -1,4 +1,4 @@
-# 🦅 Lugia Obscur
+# 🌑 Lugia Obscur
 
 ## 🦅 Lugia Obscur
 
