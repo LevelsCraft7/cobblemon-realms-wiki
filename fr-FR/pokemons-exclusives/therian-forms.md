@@ -138,8 +138,6 @@
 - 🖱️ Clic-droit sur Démétéros avec l'objet `Miroir Sacré` 
 - ℹ️ Le même objet permet d’activer ou d’annuler la transformation
 
----
-
 ### 📜 Description
 
 > Aucune description de pokédex...
