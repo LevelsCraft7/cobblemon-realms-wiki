@@ -1,14 +1,13 @@
 # ✨ Extra Eeveelutions
 
-> [!TIP]
-> Le datapack **Extra Eeveelutions** ajoute de nombreuses nouvelles évolutions d’Évoli, chacune avec :
->
-> - Des statistiques personnalisées
-> - Des talents uniques
-> - Des méthodes d’évolution spécifiques
-> - Des spawns spéciaux dans le monde
->
-> Cette page regroupe toutes les Eeveelutions ajoutées par le datapack.
+Le datapack **Extra Eeveelutions** ajoute de nombreuses nouvelles évolutions d’Évoli, chacune avec :
+
+- Des statistiques personnalisées
+- Des talents uniques
+- Des méthodes d’évolution spécifiques
+- Des spawns spéciaux dans le monde
+
+Cette page regroupe toutes les Eeveelutions ajoutées par le datapack.
 
 ---
 
