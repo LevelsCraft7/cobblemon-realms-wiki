@@ -49,5 +49,5 @@
 
 ##
 
-> [!TIP] 
-> Ce mod est requis pour rejoindre le serveur.
+> [!CAUTION]
+> Votre texte ici.
