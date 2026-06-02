@@ -1,6 +1,6 @@
 # 🐉 Formes Totémique - Trio des Forces de la Nature
 
-## Forme Totémique Fulguris
+## 🌩️ Forme Totémique Fulguris
 
 ### 🧾 Informations générales
 
@@ -49,7 +49,7 @@
 &#8203;
 &#8203;
 
-## Forme Totémique Boréas
+## 🌪️ Forme Totémique Boréas
 
 ### 🧾 Informations générales
 
@@ -98,7 +98,7 @@
 &#8203;
 &#8203;
 
-## Forme Totémique Démétéros
+## ⛰️ Forme Totémique Démétéros
 
 ### 🧾 Informations générales
 
