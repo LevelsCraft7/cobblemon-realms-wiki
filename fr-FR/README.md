@@ -13,9 +13,9 @@ Ce wiki a été conçu pour vous aider à :
 
 ---
 
-# 📖 Ce que vous découvrirez ici
+## 📖 Ce que vous découvrirez ici
 
-## 🛠️ Installation & Configuration
+### 🛠️ Installation & Configuration
 
 - 📦 Aide à l’installation et aux mises à jour
 - 🚀 Optimisation des performances et de la fluidité
@@ -51,7 +51,7 @@ Ce wiki a été conçu pour vous aider à :
 
 ---
 
-# 🚀 Par où commencer ?
+## 🚀 Par où commencer ?
 
 Si vous découvrez le modpack, nous vous conseillons de suivre cet ordre :
 
@@ -65,24 +65,24 @@ Si vous découvrez le modpack, nous vous conseillons de suivre cet ordre :
 
 ---
 
-# 📚 Sections utiles
+### 📚 Sections utiles
 
-## 🏆 Progression & Dresseurs
+### 🏆 Progression & Dresseurs
 - [Cap de niveau et dresseurs](pokemons-guides/levelcap-and-trainers.md)
 
-## ✨ Légendaires & contenus exclusifs
+### ✨ Légendaires & contenus exclusifs
 - [Mythes et Légendes](pokemons-guides/myths-and-legends-legendaries.md)
 - [Formes exclusives](pokemons-exclusives/mewtwo-exclusive-forms.md)
 
-## 🌐 Multijoueur
+### 🌐 Multijoueur
 - [Serveurs multijoueurs](multiplayer-servers.md)
 
-## ⚙️ Paramètres & performances
+### ⚙️ Paramètres & performances
 - [Paramètres](settings/optimize-solo-performance.md)
 
 ---
 
-# 🤝 Communauté & Contributions
+## 🤝 Communauté & Contributions
 
 Cette documentation est collaborative et continuera d’évoluer avec le temps.
 
