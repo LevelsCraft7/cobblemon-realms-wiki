@@ -31,8 +31,8 @@
 
 ### ⚡ Transformation
 
-* 🎯 Atteindre **999 points de charge**
-* 🔄 Transformation automatique une fois le seuil atteint
+* Meltan peut évoluer en Melmetal à partir du niveau 70 s'il tient une enclume Minecraft.
+> ℹ️ **Transformation simplifiée :** auparavant, Meltan devait accumuler 999 points de charge (soit l'équivalent de 999 lingots de fer) pour évoluer. Cette mécanique a été supprimée au profit d'une méthode bien plus simple.
 
 ---
 
