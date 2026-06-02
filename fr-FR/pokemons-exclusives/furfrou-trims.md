@@ -9,7 +9,8 @@ Couafarel peut changer de coupe afin d'adopter différentes apparences.
 ## ✂️ Comment changer de coupe ?
 
 1. 🎨 Faites tenir à Couafarel le colorant correspondant à la coupe souhaitée.
-2. ✂️ Utilisez des **Ciseaux** sur Couafarel.
+   > Accroupissez-vous, faites un clic droit sur Couafarel puis sélectionnez **« Changer le cosmétique »**
+2. ✂️ Utilisez des **Cisailles** sur Couafarel. 
 3. ⚡ Le colorant est consommé et la nouvelle coupe est appliquée.
 
 ---
