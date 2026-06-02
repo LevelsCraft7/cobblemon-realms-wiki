@@ -1,5 +1,7 @@
 # 🐩 Couafarel - Coupes (Trims)
 
+## 🐩 Couafarel - Coupes (Trims)
+
 Couafarel peut changer de coupe (trim) pour modifier son apparence.
 
 ---
