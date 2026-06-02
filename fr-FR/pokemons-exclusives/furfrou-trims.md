@@ -1,30 +1,30 @@
-# 🐩 Couafarel - Coupes (Trims)
+# 🐩 Couafarel - Coupes
 
-## 🐩 Couafarel - Liste des différentes coupes
-
-Couafarel peut changer de coupe (trim) pour modifier son apparence.
+Couafarel peut changer de coupe afin d'adopter différentes apparences.
 
 ---
 
-## 🎨 Changement de coupe
+## ✂️ Comment changer de coupe ?
 
-- 🎯 Tenir le colorant requis
-- ✂️ Clic droit avec des **Ciseaux**
-- ⚡ Le colorant est consommé
+1. 🎨 Faites tenir à Couafarel le colorant correspondant à la coupe souhaitée.
+2. ✂️ Utilisez des **Ciseaux** sur Couafarel.
+3. ⚡ Le colorant est consommé et la nouvelle coupe est appliquée.
 
 ---
 
 ## ✨ Coupes disponibles
 
-| ✂️ Coupe | 🎨 Colorant |
-|---|---|
-| Débutante | Jaune |
-| Pharaon | Bleu |
-| Kabuki | Rouge |
-| Étoile | Cyan |
-| Matriarche | Violet |
-| Dandy | Vert citron |
-| Diamant | Orange |
-| Cœur | Rose |
-| La Reine | Bleu clair |
-| Naturelle | Blanc (par défaut) |
+| 🖼️ Aperçu | ✂️ Coupe | 🎨 Colorant requis |
+|-----------|-----------|-------------------|
+| *(Image)* | 🟨 Débutante | Jaune |
+| *(Image)* | 🟦 Pharaon | Bleu |
+| *(Image)* | 🟥 Kabuki | Rouge |
+| *(Image)* | 🩵 Étoile | Cyan |
+| *(Image)* | 🟪 Matriarche | Violet |
+| *(Image)* | 🟩 Dandy | Vert citron |
+| *(Image)* | 🟧 Diamant | Orange |
+| *(Image)* | 🩷 Cœur | Rose |
+| *(Image)* | 🔹 La Reine | Bleu clair |
+| *(Image)* | ⬜ Naturelle | Blanc *(par défaut)* |
+
+> 💡 La coupe **Naturelle** est la forme par défaut de Couafarel.
