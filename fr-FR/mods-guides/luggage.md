@@ -1,55 +1,60 @@
 # 🧳 Luggage
 
-Le mod **Luggage** ajoute un coffre mobile inspiré d’OpenBlocks. Il suit le joueur, ramasse les items au sol et peut être contrôlé via quelques actions simples.
+## 🧳 Luggage
+
+**Luggage** est un coffre vivant capable de vous suivre dans vos aventures. Il ramasse automatiquement les objets au sol, transporte votre matériel et peut même être amélioré grâce à la foudre.
 
 ---
 
 ## ✨ Fonctionnalités
 
-- Suit le joueur et ramasse automatiquement les objets au sol
-- Inventaire accessible par clic droit
-- Peut être rangé sous forme d’objet (Shift + clic droit)
-- Conservation des données (inventaire, nom, état chargé)
+- 🚶 Suit automatiquement son propriétaire
+- 🧲 Ramasse les objets au sol à proximité
+- 📦 Inventaire accessible par clic droit
+- 🎒 Peut être récupéré sous forme d'objet (*Shift + clic droit*)
+- 💾 Conserve son inventaire, son nom et son état
 
 ---
 
 ## ⚡ Luggage chargé
 
-Lorsqu’il est frappé par la foudre :
+Un Luggage frappé par la foudre devient un **Luggage chargé** :
 
-- Capacité d’inventaire doublée
-- Changement d’apparence
+- 📦 Capacité d'inventaire doublée
+- ✨ Apparence modifiée
 
 ---
 
 ## 🎮 Contrôles
 
-### 📣 Sifflet d’appel
-Touche : `
+### 📣 Sifflet d'appel
 
-- Ramène tous vos Luggages à votre position
-- Nécessite des chunks chargés
-- Cooldown de 10 secondes (pas de ramassage pendant ce délai)
+**Touche :** `
 
----
-
-### ⏸️ Sifflet d’attente
-Alt + `
-
-- Met les Luggages proches (8 blocs) en attente
-- Ils cessent de vous suivre temporairement
-- Réactivation avec la même touche
+- Téléporte tous vos Luggages à votre position
+- Fonctionne uniquement si les chunks sont chargés
+- ⏳ Temps de recharge : **10 secondes**
+- 🚫 Aucun objet n'est ramassé pendant ce délai
 
 ---
 
-## 🔧 Conseils
+### ⏸️ Sifflet d'attente
 
-- Idéal pour le mining (inventaire mobile)
-- À ranger sous forme d’item pour les déplacements
-- Utile pour récupérer un Luggage perdu (chunk chargé requis)
+**Touches :** `Alt + ``
+
+- Immobilise les Luggages dans un rayon de **8 blocs**
+- Ils cessent temporairement de vous suivre
+- Appuyez à nouveau pour annuler l'attente
 
 ---
 
-## 📌 Résumé
+## 💡 Utilisations recommandées
 
-**Luggage** est un compagnon de stockage mobile simple : il suit, ramasse, et peut être amélioré via la foudre. Les sifflets permettent un contrôle rapide et efficace.
+- ⛏️ Stockage supplémentaire lors du minage
+- 🌍 Transport d'objets lors de longues expéditions
+- 🔍 Récupération facile d'un Luggage égaré grâce au sifflet d'appel
+- 🎒 Rangement rapide sous forme d'objet lors des déplacements
+
+---
+
+> 💡 Astuce : gardez toujours un emplacement libre dans votre inventaire pour récupérer rapidement votre Luggage lorsque vous voyagez.
