@@ -1,71 +1,145 @@
-# 🌪️ Formes Totémique - Trio des Forces de la Nature
-
-Les Pokémon légendaires du trio des Forces de la Nature (**Fulguris**, **Boréas**, **Démétéros**) peuvent changer de forme grâce à un objet spécial : le **Miroir Sacré**.
-
----
-
-## 🖼️ Aperçu
-
-![Recette de fabrication du **Miroir Sacré**](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/miroir_sacr%C3%A9.png)
-
----
-
-## 🪞 Miroir Sacré
-
-| 📌 Informations | 📋 Détails |
-|---|---|
-| 🧾 Item ID | `mega_showdown:reveal_glass` |
-| 🧬 Rôle | Changement de forme |
-| 📝 Description | Révèle la forme réelle de certains Pokémon |
-
-💡 Objet permettant de basculer librement entre formes **Incarnée** et **Totémique**.
-
----
-
-## 🔄 Transformation
-
-- 🎯 Avoir le **Miroir Sacré** dans l’inventaire
-- 🖐️ Le tenir en main
-- 🖱️ Clic droit sur :
-  - ⚡ Fulguris
-  - 🌪️ Boréas
-  - 🌍 Démétéros
-- 🔁 Transformation instantanée
-
-➡️ Nouveau clic : retour en forme **Incarnée**
-
----
-
-## 📊 Différences de formes
-
-| Forme | Effet principal |
-|---|---|
-| ⚡ Fulguris Totémique | + Attaque Spéciale |
-| 🌪️ Boréas Totémique | + Vitesse / utilité |
-| 🌍 Démétéros Totémique | + Attaque / Défense |
-
----
+# 🐉 Formes Totémique - Trio des Forces de la Nature
 
 ## Forme Totémique Fulguris
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_electrique.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_vol.png) 
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 79      |
+| ⚔️ Attaque      | 105     |
+| 🛡️ Défense     | 70    |
+| ✨ Attaque Spé.  | 145    |
+| 🌙 Défense Spé. | 80    |
+| ⚡ Vitesse       | 101     |
 
 ![Forme Totémique de Fulguris](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/fulguris_tot%C3%A9mique.png) ![Forme Totémique de Fulguris Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/fulguris_tot%C3%A9mique_shiny.png)
 
 ---
 
+### 🎯 Talent de la forme
+
+- **Talent :** Absorbe-Volt
+
+---
+
+### 🔮 Fabrication de l'objet
+
+![Recette de fabrication du **Miroir Sacré**](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/miroir_sacr%C3%A9.png)
+
+---
+
+### 🔄 Utilisation
+
+- 🖱️ Clic-droit sur Fulguris avec l'objet `Miroir Sacré` 
+- ℹ️ Le même objet permet d’activer ou d’annuler la transformation
+
+---
+
+### 📜 Description
+
+> Aucune description de pokédex...
+
+&#8203;
+&#8203;
+
 ## Forme Totémique Boréas
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_vol.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 79      |
+| ⚔️ Attaque      | 100     |
+| 🛡️ Défense     | 80    |
+| ✨ Attaque Spé.  | 110    |
+| 🌙 Défense Spé. | 90    |
+| ⚡ Vitesse       | 121     |
 
 ![Forme Totémique de Boréas](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/bor%C3%A9as_tot%C3%A9mique.png) ![Forme Totémique de Boréas Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/bor%C3%A9as_totemique_shiny.png)
 
 ---
 
+### 🎯 Talent de la forme
+
+- **Talent :** Régé-force
+
+---
+
+### 🔮 Fabrication de l'objet
+
+![Recette de fabrication du **Miroir Sacré**](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/miroir_sacr%C3%A9.png)
+
+---
+
+### 🔄 Utilisation
+
+- 🖱️ Clic-droit sur Boréas avec l'objet `Miroir Sacré` 
+- ℹ️ Le même objet permet d’activer ou d’annuler la transformation
+
+---
+
+### 📜 Description
+
+> Aucune description de pokédex...
+
+&#8203;
+&#8203;
+
 ## Forme Totémique Démétéros
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_sol.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_vol.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 89     |
+| ⚔️ Attaque      | 145     |
+| 🛡️ Défense     | 90    |
+| ✨ Attaque Spé.  | 145    |
+| 🌙 Défense Spé. | 80    |
+| ⚡ Vitesse       | 91     |
 
 ![Forme Totémique de Démétéros](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/d%C3%A9m%C3%A9t%C3%A9ros_tot%C3%A9mique.png) ![Forme Totémique de Démétéros Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/d%C3%A9m%C3%A9t%C3%A9ros_tot%C3%A9mique_shiny.png)
 
 ---
 
-## 📝 Notes
+### 🎯 Talent de la forme
 
-- 🔁 Transformation entièrement réversible
-- ⚙️ Aucun coût d’utilisation
-- 🎮 Change uniquement les statistiques et l’apparence
+- **Talent :** Intimidation
+
+---
+
+### 🔮 Fabrication de l'objet
+
+![Recette de fabrication du **Miroir Sacré**](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/miroir_sacr%C3%A9.png)
+
+---
+
+### 🔄 Utilisation
+
+- 🖱️ Clic-droit sur Démétéros avec l'objet `Miroir Sacré` 
+- ℹ️ Le même objet permet d’activer ou d’annuler la transformation
+
+---
+
+### 📜 Description
+
+> Aucune description de pokédex...
