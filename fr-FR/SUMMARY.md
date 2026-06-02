@@ -24,11 +24,11 @@
 - [🦴 Les fossiles](pokemons-guides/fossils.md)
 - [🗺️ Référence des tags de biome](pokemons-guides/biome-tags-reference.md)
 
-## Mythes et Legendes
+## Myths and Legends
 
 - [🌟 Objets légendaires et biomes](pokemons-guides/myths-and-legends-legendaries.md)
 
-## Exclusivites Pokemon
+## Exclusivités Pokémon
 
 - [👶 Baby Legends](pokemons-exclusives/baby-legends.md)
 - [🌊 Ash Greninja](pokemons-exclusives/ash-greninja.md)
@@ -42,8 +42,11 @@
 - [⚡ Forme chargée de Meltan](pokemons-exclusives/meltan-charged.md)
 - [🦊 Évolutions supplémentaires d'Évoli](pokemons-exclusives/extra-eevee.md)
 - [🔌 Formes appareil de Motisma](pokemons-exclusives/rotom-forms.md)
-- [✂️ Coupes de Couafarel](pokemons-exclusives/furfrou-trims.md)
 - [🌀 Formes Totémique](pokemons-exclusives/therian-forms.md)
+
+## Cosmétiques Pokémon
+
+- [✂️ Coupes de Couafarel](pokemons-exclusives/furfrou-trims.md)
 
 ## Guides des mods
 
