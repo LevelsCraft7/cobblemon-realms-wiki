@@ -38,8 +38,8 @@
 - 🖱️ Clic-droit sur Lugia avec l'objet `Shadow Energy`
 - ℹ️ Son utilisation nécessite un niveau d'amitié supérieur à 250 et réinitialise ce niveau à 0.
 
-> ![]()💡 L'effet peut être annulé en réutilisant l'énergie.
-
+> ![TIP] 💡 
+> L'effet peut être annulé en réutilisant l'énergie.
 
 ---
 
@@ -48,6 +48,3 @@
 > Le Lugia tombé aux mains du Groupe Ombre a subi une série d'opérations qui ont fait de lui un Pokémon Obscur résistant à la purification. Sa dénaturation est telle qu'il en a changé de forme, accusant une livrée bleu nuit et des yeux rouges alors que les Pokémon Obscurs ne sont d'ordinaire reconnaissables qu'à l'aura qu'il émettent.
 
 ##
-
-> [!CAUTION]
-> Votre texte ici.
