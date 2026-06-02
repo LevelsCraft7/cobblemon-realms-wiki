@@ -1,5 +1,7 @@
 # 🤝 Contribution
 
+## 🤝 Contribution
+
 Le wiki Cobblemon Realms est un projet communautaire. Chaque contribution, même minime, aide à améliorer la qualité de la documentation pour l'ensemble des joueurs.
 
 ---
