@@ -1,6 +1,6 @@
 # 🐩 Couafarel - Coupes
 
-## 🐩 Couafarel - Coupes
+## 🐩 Liste des différents coupes de Couafarel
 
 Couafarel peut changer de coupe afin d'adopter différentes apparences.
 
