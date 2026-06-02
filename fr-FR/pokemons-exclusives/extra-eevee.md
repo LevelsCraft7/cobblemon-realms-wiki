@@ -12,7 +12,7 @@ Cette page regroupe toutes les Eeveelutions ajoutées par le datapack.
 ---
 
 <details>
-<summary align="center"><strong>❓ FAQ sur le mod</strong></summary>
+<summary align="center"><strong>❓ Petite FAQ d'introduction</strong></summary>
 
 ## 🧬 Évoli évolue-t-il en Evereon uniquement via des Pokémon sauvages ?
 
