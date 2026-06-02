@@ -1,47 +1,48 @@
 # ✨ Extra Eeveelutions
 
-Le datapack **Extra Eeveelutions** ajoute de nombreuses nouvelles évolutions d’Évoli, chacune avec :
+Le datapack **Extra Eeveelutions** ajoute de nombreuses nouvelles évolutions d'Évoli à découvrir au cours de votre aventure.
 
-- Des statistiques personnalisées
-- Des talents uniques
-- Des méthodes d’évolution spécifiques
-- Des spawns spéciaux dans le monde
+Chaque Eeveelution possède ses propres caractéristiques :
 
-Cette page regroupe toutes les Eeveelutions ajoutées par le datapack.
+- 📊 Statistiques personnalisées
+- ✨ Talents uniques
+- 🔮 Méthodes d'évolution inédites
+- 🌍 Conditions d'apparition spécifiques
+
+Cette page regroupe l'ensemble des Eeveelutions ajoutées par le datapack ainsi que leurs méthodes d'obtention.
 
 ---
 
 <details>
-<summary align="center"><strong>❓ Petite FAQ d'introduction</strong></summary>
+<summary align="center"><strong>❓ FAQ rapide</strong></summary>
 
-## 🧬 Évoli évolue-t-il en Evereon uniquement via des Pokémon sauvages ?
+## 🧬 Comment faire évoluer Évoli en Evereon ?
 
-Certains joueurs rapportent que les combats contre des Dresseurs fonctionnent également, tandis que d'autres indiquent le contraire.
+Selon les retours des joueurs, les combats contre des Dresseurs peuvent parfois fonctionner, mais les résultats semblent varier.
 
-Dans la majorité des cas :
+Pour maximiser vos chances :
 
 - Évoli doit porter le **coup final**
-- sur les **11 Eeveelutions**
-- du mod de base **et** de l’addon
+- Sur les **11 Eeveelutions**
+- Du datapack principal **et** de l'addon
 
-⚠️ Les combats sauvages restent la méthode la plus fiable.
-
----
-
-## 📖 Je ne vois pas les Eeveelutions dans le Pokédex
-
-Les Eeveelutions personnalisées apparaissent dans leur propre section :
-
-- **Pokédex → Regions**
+> ⚠️ Les combats contre des Pokémon sauvages restent la méthode la plus fiable.
 
 ---
 
-## 🪽 Quelle attaque Vol Évoli peut-il apprendre ?
+## 📖 Je ne trouve pas les Eeveelutions dans le Pokédex
 
-Évoli peut apprendre :
+Les Eeveelutions personnalisées ne sont pas répertoriées dans les régions classiques.
 
-- **Miroi-Tir**
-- au **niveau 20**
+Vous les trouverez dans :
+
+**Pokédex → Regions**
+
+---
+
+## 🪽 Quelle capacité de type Vol Évoli peut-il apprendre ?
+
+Évoli peut apprendre **Miroi-Tir** à partir du **niveau 20**.
 
 </details>
 
