@@ -50,11 +50,9 @@
 
 > Il vit dans une lointaine région montagneuse où il peaufine ses techniques et muscle ses jambes en courant le long des falaises abruptes.
 
-
----
----
----
-
+&#8203;
+&#8203;
+&#8203;
 
 ## 🤜🏼🤛🏼 Shifours - Style Mille Poings
 
