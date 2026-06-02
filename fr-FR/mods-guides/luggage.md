@@ -25,7 +25,7 @@ Un Luggage frappé par la foudre devient un **Luggage chargé** :
 
 ---
 
-## 🎮 Contrôles
+## 🎮 Paramètres de contrôles
 
 ## 📣 Sifflet d'appel
 
