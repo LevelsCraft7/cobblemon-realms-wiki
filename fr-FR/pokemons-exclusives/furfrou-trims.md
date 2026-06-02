@@ -19,7 +19,7 @@ Couafarel peut changer de coupe afin d'adopter différentes apparences.
 
 | 🖼️ Forme | 🎨 Teinture requise | 📝 Description |
 |----------|---------------------|----------------|
-| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/coupe_couafarel/couafarel_naturelle.png) | Blanc | Forme par défaut de Couafarel. |
+| ![Coupe Naturelle](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/coupe_couafarel/couafarel_naturelle.png) | Blanc | Forme par défaut de Couafarel. |
 | ![Coupe Débutante](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/coupe_couafarel/couafarel_debutante.png) | Jaune | Il coiffe Furfrou d'un chapeau à large bord orné d'un ruban, ainsi que d'une queue carrée et de touches jaunes. |
 | ![Coupe Diamant](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/coupe_couafarel/couafarel_diamant.png) | Orange | Donne à Furfrou une grosse afro avec une forme de losange à l'avant, ainsi qu'une queue à l'extrémité en forme de losange, avec des reflets orange. |
 | ![Coupe Kabuki](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/coupe_couafarel/couafarel_kabuki.png) | Rouge | Donne à Furfrou un grand chapeau et une queue plate en forme de feuille, ainsi que des reflets rouges et des oreilles rayées. |
