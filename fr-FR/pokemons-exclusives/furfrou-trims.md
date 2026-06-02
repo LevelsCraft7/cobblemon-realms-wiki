@@ -19,7 +19,7 @@ Couafarel peut changer de coupe afin d'adopter différentes apparences.
 
 | 🖼️ Forme | ✂️ Cosmétique | 🎨 Teinture requise | 📝 Description |
 |----------|---------------|-------------------|----------------|
-| ![]()https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/test.png | Naturelle | Blanc | Forme par défaut de Couafarel. |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/test.png) | Naturelle | Blanc | Forme par défaut de Couafarel. |
 | *(Image)* | Débutante | Jaune | Il coiffe Furfrou d'un chapeau à large bord orné d'un ruban, ainsi que d'une queue carrée et de touches de jaune |
 | *(Image)* | Diamant | Orange | Donne à Furfrou une grosse afro avec une forme de losange à l'avant, ainsi qu'une queue à l'extrémité en forme de losange, avec des reflets orange |
 | *(Image)* | Kabuki | Rouge | Cela donne à Furfrou un grand chapeau et une queue plate en forme de feuille, ainsi que des reflets rouges et des oreilles rayées. |
