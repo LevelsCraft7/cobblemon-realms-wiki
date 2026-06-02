@@ -29,7 +29,7 @@
 
 ### 🔮 Fabrication de l'objet
 
-![Recette de fabrication de la Shadow Energy](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/imgwiki/Craft-recettes/craft_megashowdown/shadow_energy_update2.png)
+![Recette de fabrication de la Shadow Energy](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/shadow_energy_update2.png)
 
 ---
 
