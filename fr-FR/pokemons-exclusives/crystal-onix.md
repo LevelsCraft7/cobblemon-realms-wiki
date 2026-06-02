@@ -1,4 +1,6 @@
-## 💎 Onix de Crystal
+# 💎 Crystal Onix & Crystal Steelix
+
+## 💠🪨 Crystal Onix
 
 ### 🧾 Informations générales
 
@@ -49,7 +51,7 @@
 &#8203;
 &#8203;
 
-## 💎 Steelix de Crystal
+## 💠⚙️ Crystal Steelix
 
 ### 🧾 Informations générales
 
