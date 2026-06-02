@@ -1,3 +1,5 @@
+# 🦅 Lugia Obscur
+
 ## 🦅 Lugia Obscur
 
 ### 🧾 Informations générales
