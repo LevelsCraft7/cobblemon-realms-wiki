@@ -24,7 +24,7 @@ Les traductions sont désormais gérées directement via :
 - GitHub
 - GitBook
 
-### ✅ Vous pouvez aider en :
+## ✅ Vous pouvez aider en :
 
 - Corrigeant des textes existants
 - Proposant de nouvelles traductions
@@ -55,6 +55,4 @@ Avant de proposer une contribution :
 
 ---
 
-## 🙏 Merci
-
-Chaque correction, traduction ou guide aide à améliorer Cobblemon Realms pour toute la communauté.
+## 🙏 Merci de faire de Cobblemon Realms ce qu'est Cobblemon Realms !
