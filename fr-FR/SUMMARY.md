@@ -1,8 +1,8 @@
 # Table des matières
 
-## Bienvenue
+## Présentation
 
-- [👋 Présentation](README.md)
+- [👋 Cobblemon Realms](README.md)
 
 ## Informations
 
