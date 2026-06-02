@@ -11,7 +11,8 @@ Cette page regroupe toutes les Eeveelutions ajoutées par le datapack.
 
 ---
 
-# ❓ FAQ
+<details>
+<summary align="center"><strong>❓ FAQ sur le mod</strong></summary>
 
 ## 🧬 Évoli évolue-t-il en Evereon uniquement via des Pokémon sauvages ?
 
@@ -41,6 +42,8 @@ Les Eeveelutions personnalisées apparaissent dans leur propre section :
 
 - **Miroi-Tir**
 - au **niveau 20**
+
+</details>
 
 ---
 
