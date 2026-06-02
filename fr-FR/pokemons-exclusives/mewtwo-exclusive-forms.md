@@ -46,14 +46,8 @@
 
 > Pour limiter son immense puissance, Mewtwo est équipé d'une armure conçue pour contrôler et contenir ses capacités psychiques.
 
----
-<div align="center">
-
-⠀
-
-
-⠀
-</div>
+&#8203;
+&#8203;
 
 ## 🕶️ Mewtwo Obscur
 
@@ -101,14 +95,8 @@
 
 > Créé par l'homme, consumé par une énergie sombre, Mewtwo perd le contrôle et devient une force destructrice guidée par sa colère et sa souffrance.
 
----
-<div align="center">
-
-⠀
-
-
-⠀
-</div>
+&#8203;
+&#8203;
 
 ## 🔥 Shadow Mewtwo - Mega X
 
@@ -156,14 +144,8 @@
 
 > Un Mewtwo déjà corrompu par les ténèbres qui libère encore davantage sa puissance grâce à la Méga-Évolution, devenant une force presque incontrôlable.
 
----
-<div align="center">
-
-⠀
-
-
-⠀
-</div>
+&#8203;
+&#8203;
 
 ## 🌑 Shadow Mewtwo - Mega Y
 
