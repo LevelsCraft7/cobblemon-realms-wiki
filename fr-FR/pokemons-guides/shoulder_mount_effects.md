@@ -1,5 +1,7 @@
 # 🎒 Effets des Pokémon sur l'Épaule (v5.0)
 
+## 🎒 Effets des Pokémon sur l'Épaule (v5.0)
+
 Cette page recense tous les Pokémon capables d'appliquer des effets lorsqu'ils sont placés sur votre épaule dans Cobblemon Realms.
 
 > ℹ️ Les effets restent actifs tant que le Pokémon est sur votre épaule.
