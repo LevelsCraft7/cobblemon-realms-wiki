@@ -208,7 +208,7 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 | N° Dex | Nom du Pokémon | Places | Style de monture terrestre | Statistiques de monture |
 | :---: | :---: | :---: | :---: | :---: |
-| Accel. | Skill | Speed | Stam. | Jump |
+| Accél. | Maniab. | Vit. | End. | Saut |
 | --- | --- | --- | --- | --- |
 | 003 | Florizarre | 1 | Standard | 40-75 | 10-40 | 30-55 | 45-85 | 40-60 |
 | 006 | Dracaufeu | 1 | Standard | 55-65 | 10-25 | 25-40 | 20-30 | 15-25 |
@@ -298,7 +298,7 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 | N° Dex | Nom du Pokémon | Places | Style de monture aquatique | Statistiques de monture |
 | :---: | :---: | :---: | :---: | :---: |
-| Accel. | Skill | Speed | Stam. | Jump |
+| Accél. | Maniab. | Vit. | End. | Saut |
 | --- | --- | --- | --- | --- |
 | 009 | Tortank | 2 | Submarine | 45-65 | 50-75 | 35-65 | 35-70 | 30-50 |
 | 087 | Lamantine | 2 | Dolphin | 50-75 | 30-65 | 25-45 | 25-50 | 25-50 |
@@ -326,7 +326,7 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 | N° Dex | Nom du Pokémon | Places | Style de monture aérienne | Statistiques de monture |
 | :---: | :---: | :---: | :---: | :---: |
-| Accel. | Skill | Speed | Stam. | Jump |
+| Accél. | Maniab. | Vit. | End. | Saut |
 | --- | --- | --- | --- | --- |
 | 006 | Dracaufeu | 1 | Bird | 45-75 | 55-85 | 30-65 | 45-75 | 30-65 |
 | 009 | Tortank | 2 | Rocket | 5-40 | 30-60 | 5-15 | 2-20 | 10-20 |
