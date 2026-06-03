@@ -1,8 +1,10 @@
 # 🎯 Aperçu de la progression des dresseurs
 
-Dans **Cobblemon Realms**, les combats contre des dresseurs ne sont pas de simples rencontres aléatoires ; ils font partie d’un **système de progression structuré** basé sur les **Cartes de Dresseur**, les **Dresseurs Clés** et les **Séries de Dresseurs**.  
+## 📈 Comprendre la progression
 
-Ce système encourage **l’exploration**, la **planification tactique** et une progression régulière vers des défis de plus en plus difficiles.
+La progression des dresseurs dans Cobblemon Realms repose sur un système de **Cartes de Dresseur**, de **Dresseurs Clés** et de **Séries de Dresseurs**. Ces différents éléments permettent de structurer l'aventure et d'accompagner le joueur tout au long de sa progression.
+
+Cette page présente les principes généraux du système ainsi que les informations essentielles à connaître avant d'affronter les différents défis du modpack.
 
 ---
 
