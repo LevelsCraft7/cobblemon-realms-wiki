@@ -241,7 +241,7 @@ Lorsque l'endurance est épuisée, la capacité concernée devient temporairemen
 - 🖱️ Faites un clic droit sur un Pokémon compatible
 - 🐎 Sélectionnez l'option de monture
 
-💡 *Vous pouvez ajuster les paramètres de monture dans `config\cobblemon\main.json`, par exemple :*
+ℹ️ *Vous pouvez ajuster les paramètres de monture dans `config\cobblemon\main.json`, par exemple :*
 
 ```
 {
@@ -259,7 +259,7 @@ Lorsque l'endurance est épuisée, la capacité concernée devient temporairemen
 }
 ```
 
-ℹ️ Si vous souffrez du mal des transports, définissez `"disableRoll": true`.
+💡 Si vous souffrez du mal des transports, définissez `"disableRoll": true`.
 
 ---
 
