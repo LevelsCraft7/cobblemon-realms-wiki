@@ -235,10 +235,13 @@ Lorsque l'endurance est épuisée, la capacité concernée devient temporairemen
 
 # 🎮 Utilisation des montures
 
-- Faites un clic droit sur un Pokémon compatible (tout en étant **accroupi**) pour ouvrir l’option de monture.
-- Aucune selle n’est requise.
-- Le mode caméra préféré pour chaque style de monture est enregistré et restauré lorsque vous montez ou descendez.
-- Vous pouvez ajuster les paramètres de monture dans `config\cobblemon\main.json`, par exemple :
+## Monter un Pokémon
+
+- 🧎 Accroupissez-vous (**Shift** par défaut)
+- 🖱️ Faites un clic droit sur un Pokémon compatible
+- 🐎 Sélectionnez l'option de monture
+
+💡 *Vous pouvez ajuster les paramètres de monture dans `config\cobblemon\main.json`, par exemple :*
 
 ```
 {
@@ -437,12 +440,5 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 </details>
 
 ---
-
-## ℹ️ Informations
-
-- Cette liste dépend du système officiel de Cobblemon et peut évoluer à chaque mise à jour.
-- Certains Pokémon ou styles de monture peuvent être ajoutés ou retirés au fil du temps.
-- Les statistiques sont indicatives et susceptibles de changer.
-Les tableaux ci-dessous répertorient l'ensemble des Pokémon actuellement compatibles avec le système officiel de montures de Cobblemon.
 
 > ⚠️ Cette liste peut évoluer à chaque mise à jour du mod.
