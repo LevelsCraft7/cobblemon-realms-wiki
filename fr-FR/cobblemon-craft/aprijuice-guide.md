@@ -4,7 +4,7 @@ L’**Aprijuice** est un objet consommable préparé dans un **chaudron sur feu 
 
 ---
 
-## 🌰 Effet des Apricorns
+## 🌰 Bonus des Apricorns
 
 La couleur de l’Apricorn utilisée lors de la préparation détermine un bonus de base appliqué à l’Aprijuice.  
 Ces effets s’ajoutent ensuite aux bonus obtenus via les ingrédients.
@@ -21,7 +21,7 @@ Ces effets s’ajoutent ensuite aux bonus obtenus via les ingrédients.
 
 ## 🌿 Absorption des saveurs
 
-Les baies utilisées pendant la cuisson ajoutent des **saveurs** qui influencent directement les statistiques de monture.
+Les baies ajoutées lors de la préparation transmettent différentes saveurs à l'Aprijuice. Chaque saveur est associée à une statistique de monture spécifique.
 
 Chaque saveur est convertie en un type de statistique précis :
 
@@ -55,8 +55,8 @@ Chaque seuil atteint débloque un bonus supplémentaire.
 
 ## ⭐ Qualité de l’Aprijuice
 
-La qualité dépend du total des bonus de statistiques obtenus.  
-Elle n’a aucun impact sur les effets, uniquement sur l’apparence et le nom de l’objet.
+La qualité d'un Aprijuice dépend du nombre total de bonus de statistiques qu'il confère.
+Cette qualité n'influence pas ses effets et sert uniquement d'indicateur visuel.
 
 | Qualité | Nom | Bonus total |
 |:---:|:---:|:---:|
@@ -71,7 +71,9 @@ Elle n’a aucun impact sur les effets, uniquement sur l’apparence et le nom d
 L’Aprijuice se prépare en cuisinant des Apricorns avec des baies dans un chaudron sur feu de camp.  
 La combinaison des ingrédients détermine ses effets finaux.
 
-### Cooking
+### 🍳 Préparation
+
+Le GIF ci-dessous présente l'ensemble des recettes d'Aprijuice disponibles ainsi que leurs différentes qualités.
 
 ![Toutes les recettes de fabrication des différents Aprijuice](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_aprijuice/plain_tasty_delicious_aprijuice_craft/all_craft.gif)
 
@@ -87,4 +89,4 @@ L’Aprijuice s’utilise directement sur un Pokémon montable.
 
 ---
 
-💡 L’Aprijuice permet de personnaliser les montures et d’adapter leurs performances à votre style de jeu.
+💡 Grâce à l’Aprijuice, il est possible d’améliorer et de spécialiser les performances d’une monture selon vos besoins.
