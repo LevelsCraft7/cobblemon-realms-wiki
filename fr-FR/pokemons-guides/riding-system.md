@@ -113,6 +113,8 @@ Ces statistiques sont totalement indépendantes des statistiques de combat du Po
 
 Il est également possible de modifier certaines de ces caractéristiques grâce à l'utilisation des [Aprijuices](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/cobblemon-craft/aprijuice-guide.md).
 
+---
+
 ### ⚡ Vitesse
 
 La statistique **Vitesse** détermine la vitesse maximale que peut atteindre une monture.
