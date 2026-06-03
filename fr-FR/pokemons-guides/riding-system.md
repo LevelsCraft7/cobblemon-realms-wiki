@@ -186,7 +186,7 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 ---
 
-| Dex No. | Pokémon Name | Seats | Land Ride Style | Ride Stats |
+| N° Dex | Nom du Pokémon | Places | Style de monture terrestre | Statistiques de monture |
 | :---: | :---: | :---: | :---: | :---: |
 | Accel. | Skill | Speed | Stam. | Jump |
 | --- | --- | --- | --- | --- |
@@ -276,7 +276,7 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 <details><summary><strong>🌊 Liste des montures aquatiques</strong></summary>
 
-| Dex No. | Pokémon Name | Seats | Liquid Ride Style | Ride Stats |
+| N° Dex | Nom du Pokémon | Places | Style de monture aquatique | Statistiques de monture |
 | :---: | :---: | :---: | :---: | :---: |
 | Accel. | Skill | Speed | Stam. | Jump |
 | --- | --- | --- | --- | --- |
@@ -304,7 +304,7 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 <details><summary><strong>🪶 Liste des montures aériennes</strong></summary>
 
-| Dex No. | Pokémon Name | Seats | Air Ride Style | Ride Stats |
+| N° Dex | Nom du Pokémon | Places | Style de monture aérienne | Statistiques de monture |
 | :---: | :---: | :---: | :---: | :---: |
 | Accel. | Skill | Speed | Stam. | Jump |
 | --- | --- | --- | --- | --- |
@@ -354,6 +354,6 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 ## ℹ️ Informations
 
-- La liste des Pokémon montables dépend du système officiel de Cobblemon et peut évoluer au fil des mises à jour.
-- Certains Pokémon ou fonctionnalités de monture disponibles auparavant peuvent ne plus être pris en charge actuellement.
-- Les statistiques affichées sont fournies à titre indicatif et sont susceptibles d'être modifiées lors de futures mises à jour.
+- Cette liste dépend du système officiel de Cobblemon et peut évoluer à chaque mise à jour.
+- Certains Pokémon ou styles de monture peuvent être ajoutés ou retirés au fil du temps.
+- Les statistiques sont indicatives et susceptibles de changer.
