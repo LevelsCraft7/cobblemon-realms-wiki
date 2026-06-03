@@ -1,12 +1,14 @@
 # ❓ Foire aux questions
 
-Questions fréquentes concernant le modpack, l’installation et la progression.
+## 📖 Questions fréquentes
+
+Retrouvez les réponses aux questions les plus courantes sur l'installation, les performances, les serveurs et la progression.
 
 ---
 
 ## 🚫 Mon jeu plante au lancement du modpack
 
-### ✅ Vérifications recommandées
+Vérifiez les points suivants :
 
 - ☕ Utiliser **Java 21 ou supérieur**
 - 💾 Allouer au moins **8 Go de RAM**
@@ -19,7 +21,7 @@ Questions fréquentes concernant le modpack, l’installation et la progression.
 
 ## 🐾 Je ne trouve aucun Pokémon
 
-Les apparitions dépendent de plusieurs paramètres :
+Si aucun Pokémon n'apparaît autour de vous, vérifiez les conditions d'apparition de votre zone.
 
 | 🌿 Facteur | 📋 Exemple |
 |---|---|
@@ -40,9 +42,9 @@ Les apparitions dépendent de plusieurs paramètres :
 
 ## 🧩 Puis-je ajouter d'autres mods ?
 
-**Oui, mais** cela n’est pas recommandé.
+> ⚠️ Oui, mais cela n'est pas recommandé.
 
-### ⚠️ Risques possibles
+Les problèmes les plus fréquents sont :
 
 - Déséquilibre du gameplay
 - Conflits entre mods
@@ -55,17 +57,15 @@ Les apparitions dépendent de plusieurs paramètres :
 
 ## 👥 Puis-je commencer en solo puis passer en serveur ?
 
-**Oui.** Votre monde solo peut être transféré vers un serveur à tout moment.
+✅ Oui. Votre monde solo peut être transféré vers un serveur à tout moment.
 
-### 📦 Recommandation
-
-Le **server pack CurseForge** simplifie grandement l’installation serveur.
+💡 Pour simplifier l'installation, nous recommandons l'utilisation du **server pack CurseForge**.
 
 ---
 
 ## 🖥️ Puis-je utiliser Aternos, Minehut ou un hébergeur gratuit ?
 
-Ce type d’hébergement est rarement adapté à un modpack aussi lourd.
+Ce type d'hébergement est rarement adapté à un modpack aussi lourd.
 
 ### ✅ Hébergement recommandé
 
@@ -93,25 +93,22 @@ Ce type d’hébergement est rarement adapté à un modpack aussi lourd.
 
 ## 🌍 Puis-je aider à traduire ou améliorer le wiki ?
 
-**Oui**, les contributions sont les bienvenues.
+**Oui, les contributions sont les bienvenues.**
 
-### 📚 Le wiki utilise
+Vous pouvez notamment :
 
-- GitHub
-- GitBook
+- ✏️ Corriger des erreurs
+- 📖 Améliorer les textes
+- 🌐 Traduire des pages
+- ➕ Ajouter du contenu
 
-### ✨ Vous pouvez
-
-- Corriger des erreurs
-- Améliorer les textes
-- Traduire des pages
-- Ajouter du contenu
+Le wiki est maintenu sur **GitHub** et **GitBook**.
 
 ---
 
 ## ✨ Existe-t-il des formes ou évolutions exclusives ?
 
-**Oui.** Le modpack ajoute plusieurs :
+✅ Oui. Le modpack ajoute plusieurs contenus exclusifs :
 
 - Formes spéciales
 - Mécaniques exclusives
@@ -138,8 +135,8 @@ Le guide dédié couvre :
 
 Rejoignez le serveur Discord pour :
 
-- Obtenir de l’aide
-- Signaler un problème
-- Discuter avec la communauté
+- 🆘 Obtenir de l'aide
+- 🐛 Signaler un problème
+- 💬 Discuter avec la communauté
 
 🔗 [Rejoindre le Discord](https://discord.gg/kb8NSTF45n)
