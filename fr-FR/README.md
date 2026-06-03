@@ -1,4 +1,4 @@
-# 🌍 Bienvenue sur **Cobblemon Realms** ✨
+# 📜 Bienvenue sur **Cobblemon Realms** ✨
 
 ## 🌍 Bienvenue sur **Cobblemon Realms** ✨
 
