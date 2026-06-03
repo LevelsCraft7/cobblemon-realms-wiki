@@ -73,7 +73,7 @@ La combinaison des ingrédients détermine ses effets finaux.
 
 ### 🍳 Préparation
 
-Le GIF ci-dessous présente l'ensemble des recettes d'Aprijuice disponibles ainsi que leurs différentes qualités.
+Ce GIF présente l'ensemble des recettes d'Aprijuice disponibles ainsi que leurs différentes qualités.
 
 ![Toutes les recettes de fabrication des différents Aprijuice](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_aprijuice/plain_tasty_delicious_aprijuice_craft/all_craft_v2.gif)
 
