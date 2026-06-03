@@ -10,23 +10,144 @@ La liste des Pokémon montables pourra évoluer au fil des futures mises à jour
 
 ---
 
-## 🐾 Fonctionnement du système officiel de montures
+# 🐎 Fonctionnement du système officiel de montures
 
-### ♾️ Endurance de monture infinie (Cobblemon Realms)
+Chaque Pokémon montable possède un ou plusieurs styles de monture qui définissent sa manière de se déplacer lorsqu'il est chevauché. Certains styles sont plus adaptés à certaines situations ou environnements.
 
-Dans **Cobblemon Realms**, l’endurance de monture est **infinie pour tous les Pokémon montables**.
-
-Cela signifie :
-
-- 🟢 Vous ne manquez jamais d’endurance en montant un Pokémon
-- 🟢 Les déplacements longue distance sont toujours possibles
-- 🟢 Aucune gestion de stamina n’est nécessaire
-
-Ceci est une **personnalisation propre au modpack**, différente du Cobblemon de base.
+Un même Pokémon peut disposer de plusieurs styles de déplacement. Par exemple, Dracaufeu peut être utilisé comme monture terrestre de type **Standard** et comme monture aérienne de type **Oiseau**.
 
 ---
 
-### 🎮 Utilisation des montures
+## 🌍 Montures terrestres
+### 🚶 Standard
+
+Le style **Standard** correspond au mode de déplacement terrestre le plus répandu parmi les montures.
+
+Le Pokémon se dirige naturellement dans la direction où regarde le joueur, à la manière des chevaux de Minecraft. Les touches latérales permettent d'effectuer des déplacements sur les côtés tout en conservant le contrôle de la direction.
+
+Ces montures disposent également d'un mode sprint permettant d'augmenter leur vitesse de déplacement. Cette accélération consomme toutefois l'endurance de la monture.
+
+### 🚗 Véhicule
+
+Le style **Véhicule** adopte un fonctionnement proche de celui des bateaux de Minecraft.
+
+Contrairement au style **Standard**, la direction de déplacement n'est pas directement liée à l'orientation de la caméra, ce qui permet de regarder librement autour de soi pendant le trajet. Les touches gauche et droite servent à faire pivoter la monture plutôt qu'à effectuer un déplacement latéral.
+
+Ces montures disposent généralement d'un rayon de braquage plus large. Il est toutefois possible d'effectuer des virages plus serrés en maintenant une direction tout en s'accroupissant, ce qui déclenche un effet de dérapage.
+
+---
+
+## 🌊 Montures aquatiques
+### 🚤 Bateau
+
+Le style **Bateau** est le mode de déplacement aquatique de base.
+
+Son fonctionnement est similaire à celui des bateaux de Minecraft : la direction de déplacement reste indépendante de l'orientation de la caméra, ce qui permet d'observer librement les alentours pendant la navigation. Les touches gauche et droite servent à orienter la monture dans la direction souhaitée.
+
+Ce style est conçu pour les déplacements à la surface de l'eau et offre une prise en main simple et intuitive.
+
+### 🌊 Sous-marin
+
+Le style **Sous-marin** reprend les bases du style **Bateau**, tout en offrant la possibilité de plonger sous la surface.
+
+En plus de naviguer sur l'eau, ces montures peuvent s'immerger et se déplacer librement dans les profondeurs, ce qui les rend particulièrement adaptées à l'exploration sous-marine.
+
+### 🐬 Dauphin
+
+Le style **Dauphin** fonctionne de manière similaire au style **Sous-marin**, avec une excellente mobilité aussi bien sous l'eau qu'à la surface.
+
+Sa particularité est sa capacité à effectuer de grands bonds hors de l'eau, permettant de franchir rapidement certains obstacles ou de se déplacer avec davantage d'agilité dans les environnements aquatiques.
+
+---
+
+## ☁️ Montures aériennes
+### 🕊️ Oiseau
+
+Le style **Oiseau** est le mode de vol le plus polyvalent parmi les montures aériennes.
+
+Il permet de voler librement et de rester en vol stationnaire. Les déplacements sont principalement contrôlés par l'orientation de la caméra, offrant une navigation précise dans les airs, tandis que les commandes latérales permettent d'effectuer des mouvements sur les côtés.
+
+Ces montures disposent également d'un second mode de vol inspiré du fonctionnement des élytres de Minecraft. Dans ce mode, les déplacements reposent davantage sur l'orientation du joueur, offrant une sensation de vol plus dynamique et adaptée aux longs trajets.
+
+### ✈️ Jet
+
+Le style **Jet** privilégie la vitesse et les déplacements rapides dans les airs.
+
+Son fonctionnement se rapproche de celui des bateaux de Minecraft : la direction de déplacement reste indépendante de l'orientation de la caméra, ce qui permet d'observer librement son environnement pendant le vol. Les touches gauche et droite servent à orienter progressivement la monture.
+
+Contrairement au style **Oiseau**, les montures de type **Jet** ne peuvent pas effectuer de vol stationnaire. En contrepartie, elles bénéficient généralement d'une vitesse de déplacement plus élevée. L'altitude peut être ajustée à l'aide des touches de saut et d'accroupissement pour monter ou descendre.
+
+### 🛸 Vol stationnaire
+
+Le style **Vol stationnaire** offre une liberté de déplacement totale dans les airs.
+
+À l'image du mode Créatif ou Spectateur de Minecraft, ces montures peuvent se déplacer dans toutes les directions tout en restant parfaitement stables en vol. Elles sont particulièrement adaptées aux déplacements précis et à l'exploration.
+
+En contrepartie, leur vitesse est généralement plus faible que celle des autres montures aériennes. De plus, leur altitude maximale dépend de leur statistique de **Saut** : dépasser cette limite entraîne une consommation progressive de l'endurance.
+
+### 🚀 Fusée
+
+Le style **Fusée** reprend la liberté de déplacement du style **Vol stationnaire**, permettant d'évoluer facilement dans toutes les directions.
+
+Sa particularité réside dans sa capacité à accélérer fortement vers l'avant, offrant des déplacements beaucoup plus rapides sur de longues distances tout en conservant une excellente mobilité aérienne.
+
+---
+
+# 📊 Statistiques des montures
+
+Chaque Pokémon montable possède ses propres **statistiques de monture**, qui déterminent ses performances et son comportement lorsqu'il est utilisé comme moyen de transport.
+
+Ces statistiques sont totalement indépendantes des statistiques de combat du Pokémon (Attaque, Défense, Vitesse, etc.) et ne sont pas influencées par celles-ci. Elles sont définies spécifiquement pour chaque espèce afin d'offrir une expérience de déplacement unique.
+
+Il est également possible de modifier certaines de ces caractéristiques grâce à l'utilisation des **Aprijuices**.
+
+### ⚡ Vitesse
+
+La statistique **Vitesse** détermine la vitesse maximale que peut atteindre une monture.
+
+Plus cette valeur est élevée, plus le Pokémon pourra se déplacer rapidement lorsqu'il est utilisé comme monture.
+
+### 🏃 Accélération
+
+La statistique **Accélération** détermine la rapidité avec laquelle la monture gagne en vitesse lors de ses déplacements.
+
+Plus cette valeur est élevée, plus la monture atteint rapidement sa vitesse maximale.
+
+### 🎯 Maniabilité
+
+La statistique **Maniabilité** détermine la réactivité des changements de direction lorsqu'une monture est utilisée.
+
+Une valeur plus élevée permet d'effectuer des virages plus serrés et précis. Dans le cas du style **Vol stationnaire**, cette statistique influence plutôt la capacité à ralentir plus ou moins rapidement.
+
+### 🦘 Saut
+
+La statistique **Saut** détermine les capacités verticales et les interactions spécifiques d'une monture selon son type de déplacement.
+
+De manière générale, elle influence la hauteur de saut. Cependant, son effet varie selon le style de monture :
+
+- Pour les styles **Sous-marin**, elle accélère la descente et la remontée dans l'eau.
+- Pour les styles **Dauphin**, elle améliore à la fois la hauteur des bonds hors de l'eau et la vitesse des mouvements verticaux.
+- Pour les styles **Oiseau**, elle améliore l'efficacité du vol plané.
+- Pour les styles **Jet**, elle réduit la vitesse nécessaire pour commencer à voler.
+- Pour les styles **Vol stationnaire**, elle augmente la hauteur maximale avant que l'endurance ne commence à diminuer.
+- Pour les styles **Fusée**, elle augmente la vitesse de montée.
+
+### 💨 Endurance
+
+L’endurance détermine la durée pendant laquelle un Pokémon peut être monté dans son style de déplacement spécifique.
+
+Elle influence :
+
+- le temps de sprint pour les montures terrestres de type **Standard**
+- l’oxygène pour les styles **Sous-marin** et **Dauphin**
+- le temps de vol pour les styles **Oiseau** et **Jet**
+- et la hauteur maximale utilisable pour les styles **Hover** et **Fusée**
+
+Lorsque l’endurance est épuisée, la capacité associée est désactivée et doit se régénérer avant de pouvoir être utilisée à nouveau.
+
+---
+
+# 🎮 Utilisation des montures
 
 - Faites un clic droit sur un Pokémon compatible (tout en étant **accroupi**) pour ouvrir l’option de monture.
 - Aucune selle n’est requise.
@@ -53,13 +174,7 @@ Ceci est une **personnalisation propre au modpack**, différente du Cobblemon de
 
 ---
 
-## 📚 Documentation officielle
-
-* 🔗 [Cobblemon Wiki - Pokémon/Riding](https://wiki.cobblemon.com/index.php/Pok%C3%A9mon/Riding)
-
----
-
-## 📋 Liste des Pokémon montables
+# 📋 Liste des Pokémon montables
 
 Ci-dessous se trouve la liste complète des Pokémon actuellement montables avec le système officiel de Cobblemon.
 Les statistiques sont indiquées par type de monture et proviennent directement du tableau officiel des montures Cobblemon.
