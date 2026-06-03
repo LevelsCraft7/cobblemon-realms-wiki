@@ -1,6 +1,6 @@
-# 🚀 Bien démarrer
+# 🧭 Premiers pas
 
-## 🧭 Faites vos premiers pas
+## 🎒 Les bases de l'aventure
 
 Voici les premières étapes recommandées pour bien commencer votre aventure sur Cobblemon Realms.
 
