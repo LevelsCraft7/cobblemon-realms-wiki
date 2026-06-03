@@ -1,6 +1,8 @@
-# Apparitions et Pokémon
+# 🐾 Apparitions et Pokémon
 
-Cobblemon Realms propose un **système d’apparition personnalisé**, soigneusement ajusté pour offrir des rencontres immersives et adaptées aux biomes. Que vous cherchiez des espèces rares ou que vous souhaitiez construire votre équipe idéale, comprendre le fonctionnement des apparitions vous aidera énormément.
+## 🌍 Comprendre les apparitions
+
+Cobblemon Realms utilise un système d’apparition personnalisé afin de proposer des rencontres plus cohérentes, variées et adaptées à chaque environnement. Comprendre son fonctionnement vous aidera à trouver plus facilement les Pokémon que vous recherchez.
 
 ---
 
