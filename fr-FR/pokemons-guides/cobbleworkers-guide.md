@@ -1,8 +1,10 @@
 # 📘 Guide CobbleWorkers
 
-CobbleWorkers est un **mod utilitaire** pour Cobblemon qui permet à certains Pokémon d’effectuer automatiquement des tâches utiles dans votre monde Minecraft. Au lieu de se limiter aux combats, vos Pokémon peuvent désormais agir comme des **assistants** pour l’agriculture, la collecte, la génération de ressources et bien plus encore.
+## 🤖 Fonctionnement
 
-Cela rend votre équipe Pokémon non seulement essentielle en combat, mais aussi centrale dans l’**automatisation de votre base**.
+CobbleWorkers permet d'assigner certaines tâches à vos Pokémon afin d'automatiser différentes activités au sein de votre base. Chaque rôle dispose de capacités spécifiques et peut contribuer à la production ou à la collecte de ressources.
+
+Cette page détaille les différents métiers et leur utilisation.
 
 ---
 
