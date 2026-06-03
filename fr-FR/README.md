@@ -17,7 +17,7 @@ Ce wiki a été conçu pour vous aider à :
 
 ## 📖 Ce que vous découvrirez ici
 
-### 🛠️ Installation & Configuration
+## 🛠️ Installation & Configuration
 
 - 📦 Aide à l’installation et aux mises à jour
 - 🚀 Optimisation des performances et de la fluidité
