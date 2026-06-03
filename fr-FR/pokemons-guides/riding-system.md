@@ -20,12 +20,12 @@ L'add-on **Cobblemon: Ride On!** a été retiré du modpack et remplacé par le 
 
 Chaque Pokémon montable possède un ou plusieurs **styles de monture** qui définissent sa manière de se déplacer.
 
-💡 Un même Pokémon peut disposer de plusieurs styles.
+> 💡 Un même Pokémon peut disposer de plusieurs styles.
 
 **Exemple :**
 
-* 🌍 Dracaufeu peut être utilisé comme monture terrestre (**Standard**)
-* ☁️ Dracaufeu peut également être utilisé comme monture aérienne (**Oiseau**)
+- 🌍 Dracaufeu peut être utilisé comme monture terrestre (**Standard**)
+- ☁️ Dracaufeu peut également être utilisé comme monture aérienne (**Oiseau**)
 
 ---
 
@@ -39,10 +39,10 @@ Le Pokémon se dirige naturellement dans la direction où regarde le joueur, à 
 
 **Caractéristiques :**
 
-* 🧭 Suit l'orientation de la caméra
-* ↔️ Permet les déplacements latéraux
-* ⚡ Possède un mode sprint
-* 💨 Le sprint consomme l'endurance
+- 🧭 Suit l'orientation de la caméra
+- ↔️ Permet les déplacements latéraux
+- ⚡ Possède un mode sprint
+- 💨 Le sprint consomme l'endurance
 
 ---
 
@@ -54,10 +54,10 @@ Contrairement au style **Standard**, la direction de déplacement n'est pas dire
 
 **Caractéristiques :**
 
-* 👀 Permet de regarder librement autour de soi
-* 🔄 Les touches latérales servent à tourner
-* 🏎️ Rayon de braquage généralement plus large
-* 💨 Possibilité de déraper en s'accroupissant pendant un virage
+- 👀 Permet de regarder librement autour de soi
+- 🔄 Les touches latérales servent à tourner
+- 🏎️ Rayon de braquage généralement plus large
+- 💨 Possibilité de déraper en s'accroupissant pendant un virage
 
 ---
 
@@ -71,9 +71,9 @@ Fonctionne de manière similaire aux bateaux de Minecraft.
 
 **Caractéristiques :**
 
-* 👀 Caméra indépendante de la direction
-* 🔄 Contrôle simple et intuitif
-* 🌊 Conçu pour les déplacements à la surface de l'eau
+- 👀 Caméra indépendante de la direction
+- 🔄 Contrôle simple et intuitif
+- 🌊 Conçu pour les déplacements à la surface de l'eau
 
 ---
 
@@ -85,9 +85,9 @@ Reprend les bases du style **Bateau** tout en permettant l'exploration sous-mari
 
 **Caractéristiques :**
 
-* 🌊 Navigation en surface
-* 🤿 Exploration des profondeurs
-* 🧭 Déplacements libres sous l'eau
+- 🌊 Navigation en surface
+- 🤿 Exploration des profondeurs
+- 🧭 Déplacements libres sous l'eau
 
 ---
 
@@ -97,9 +97,9 @@ Reprend les bases du style **Bateau** tout en permettant l'exploration sous-mari
 
 **Caractéristiques :**
 
-* 🌊 Excellente mobilité aquatique
-* 🦘 Bonds hors de l'eau
-* ⚡ Déplacements rapides dans les environnements marins
+- 🌊 Excellente mobilité aquatique
+- 🦘 Bonds hors de l'eau
+- ⚡ Déplacements rapides dans les environnements marins
 
 ---
 
@@ -113,10 +113,10 @@ Permet de voler librement tout en restant stationnaire.
 
 **Caractéristiques :**
 
-* 🛫 Vol libre
-* 🎯 Contrôle précis
-* ↔️ Déplacements latéraux
-* 🪂 Mode de vol inspiré des élytres
+- 🛫 Vol libre
+- 🎯 Contrôle précis
+- ↔️ Déplacements latéraux
+- 🪂 Mode de vol inspiré des élytres
 
 ---
 
@@ -126,10 +126,10 @@ Permet de voler librement tout en restant stationnaire.
 
 **Caractéristiques :**
 
-* ⚡ Très rapide
-* 👀 Caméra indépendante
-* ⬆️⬇️ Contrôle manuel de l'altitude
-* ❌ Pas de vol stationnaire
+- ⚡ Très rapide
+- 👀 Caméra indépendante
+- ⬆️⬇️ Contrôle manuel de l'altitude
+- ❌ Pas de vol stationnaire
 
 ---
 
@@ -141,10 +141,10 @@ Comparable au mode Créatif ou Spectateur de Minecraft.
 
 **Caractéristiques :**
 
-* 🔄 Déplacements dans toutes les directions
-* 🎯 Très précis
-* 🐢 Généralement plus lent
-* ⛰️ Altitude maximale influencée par le Saut
+- 🔄 Déplacements dans toutes les directions
+- 🎯 Très précis
+- 🐢 Généralement plus lent
+- ⛰️ Altitude maximale influencée par le Saut
 
 ---
 
@@ -154,9 +154,9 @@ Comparable au mode Créatif ou Spectateur de Minecraft.
 
 **Caractéristiques :**
 
-* 🚀 Forte accélération vers l'avant
-* ☁️ Excellente mobilité aérienne
-* 🌍 Très efficace sur les longues distances
+- 🚀 Forte accélération vers l'avant
+- ☁️ Excellente mobilité aérienne
+- 🌍 Très efficace sur les longues distances
 
 ---
 
@@ -176,8 +176,8 @@ Détermine la vitesse maximale que peut atteindre une monture.
 
 **Plus la valeur est élevée :**
 
-* ✅ Plus la monture est rapide
-* ✅ Plus les déplacements sont efficaces
+- ✅ Plus la monture est rapide
+- ✅ Plus les déplacements sont efficaces
 
 ---
 
@@ -187,8 +187,8 @@ Détermine la rapidité avec laquelle une monture atteint sa vitesse maximale.
 
 **Plus la valeur est élevée :**
 
-* ✅ Démarrage plus rapide
-* ✅ Réactivité accrue
+- ✅ Démarrage plus rapide
+- ✅ Réactivité accrue
 
 ---
 
@@ -198,8 +198,8 @@ Détermine la facilité avec laquelle la monture change de direction.
 
 **Plus la valeur est élevée :**
 
-* ✅ Virages plus serrés
-* ✅ Contrôle plus précis
+- ✅ Virages plus serrés
+- ✅ Contrôle plus précis
 
 ---
 
@@ -209,12 +209,12 @@ Détermine les capacités verticales de la monture.
 
 Selon le style utilisé :
 
-* 🌊 **Sous-marin** → vitesse de montée et descente
-* 🐬 **Dauphin** → hauteur des bonds
-* 🕊️ **Oiseau** → efficacité du vol plané
-* ✈️ **Jet** → facilité à décoller
-* 🛸 **Vol stationnaire** → altitude maximale
-* 🚀 **Fusée** → vitesse de montée
+- 🌊 **Sous-marin** → vitesse de montée et descente
+- 🐬 **Dauphin** → hauteur des bonds
+- 🕊️ **Oiseau** → efficacité du vol plané
+- ✈️ **Jet** → facilité à décoller
+- 🛸 **Vol stationnaire** → altitude maximale
+- 🚀 **Fusée** → vitesse de montée
 
 ---
 
@@ -224,10 +224,10 @@ Détermine la durée pendant laquelle les capacités spéciales peuvent être ut
 
 Elle influence :
 
-* ⚡ Le sprint des montures Standard
-* 🤿 L'oxygène des styles Sous-marin et Dauphin
-* ☁️ Le temps de vol des styles Oiseau et Jet
-* ⛰️ L'altitude maximale des styles Hover et Fusée
+- ⚡ Le sprint des montures Standard
+- 🤿 L'oxygène des styles Sous-marin et Dauphin
+- ☁️ Le temps de vol des styles Oiseau et Jet
+- ⛰️ L'altitude maximale des styles Hover et Fusée
 
 Lorsque l'endurance est épuisée, la capacité concernée devient temporairement indisponible.
 
@@ -237,21 +237,21 @@ Lorsque l'endurance est épuisée, la capacité concernée devient temporairemen
 
 ### Monter un Pokémon
 
-* Accroupissez-vous
-* Effectuez un clic droit sur un Pokémon compatible
-* Sélectionnez l'option de monture
+- Accroupissez-vous
+- Effectuez un clic droit sur un Pokémon compatible
+- Sélectionnez l'option de monture
 
 ### Informations utiles
 
-* 🐴 Aucune selle n'est nécessaire
-* 📷 Le mode caméra est sauvegardé automatiquement
-* ⚙️ Les paramètres sont modifiables dans `config\cobblemon\main.json`
+- 🐴 Aucune selle n'est nécessaire
+- 📷 Le mode caméra est sauvegardé automatiquement
+- ⚙️ Les paramètres sont modifiables dans `config\cobblemon\main.json`
 
 ### Mal des transports
 
 > 💡 Si vous êtes sensible aux mouvements de caméra, définissez :
 
-```json
+```
 "disableRoll": true
 ```
 
