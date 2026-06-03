@@ -111,7 +111,7 @@ Chaque Pokémon montable possède ses propres **statistiques de monture**, qui d
 
 Ces statistiques sont totalement indépendantes des statistiques de combat du Pokémon (Attaque, Défense, Vitesse, etc.) et ne sont pas influencées par celles-ci. Elles sont définies spécifiquement pour chaque espèce afin d'offrir une expérience de déplacement unique.
 
-Il est également possible de modifier certaines de ces caractéristiques grâce à l'utilisation des [Aprijuices](cobblemon-craft/aprijuice-guide.md).
+Il est également possible de modifier certaines de ces caractéristiques grâce à l'utilisation des [Aprijuices](fr-FR/cobblemon-craft/aprijuice-guide.md).
 
 ### ⚡ Vitesse
 
