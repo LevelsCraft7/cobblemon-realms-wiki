@@ -49,7 +49,7 @@ Chaque seuil atteint débloque un bonus supplémentaire.
 | 75 | +5 |
 | 105 | +6 |
 
-👉 Seul le seuil le plus élevé atteint est appliqué pour chaque type de saveur.
+💡 Seul le seuil le plus élevé atteint est appliqué pour chaque type de saveur.
 
 ---
 
@@ -60,9 +60,9 @@ Cette qualité n'influence pas ses effets et sert uniquement d'indicateur visuel
 
 | Sprite | Qualité | Nom | Bonus total |
 |:---:|:---:|:---:|:---:|
-| | Faible | Basique | < 4 |
-| | Moyenne | Savoureux | 4 – 7 |
-| | Élevée | Délicieux | 8+ |
+| ![Aprijuice Basique](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_aprijuice/plain_aprijuice/all_plain_aprijuice.gif) | Faible | Basique | < 4 |
+| ![Aprijuice Savoureux](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_aprijuice/tasty_aprijuice/all_tasty_aprijuice.gif) | Moyenne | Savoureux | 4 – 7 |
+| ![Aprijuice Délicieux](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_aprijuice/delicious_aprijuice/all_delicious_aprijuice.gif) | Élevée | Délicieux | 8+ |
 
 ---
 
