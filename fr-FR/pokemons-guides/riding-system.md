@@ -235,7 +235,7 @@ Lorsque l'endurance est épuisée, la capacité concernée devient temporairemen
 
 # 🎮 Utilisation des montures
 
-## Monter un Pokémon
+## 🧗🏼 Monter un Pokémon
 
 - 🧎 Accroupissez-vous (**Shift** par défaut)
 - 🖱️ Faites un clic droit sur un Pokémon compatible
