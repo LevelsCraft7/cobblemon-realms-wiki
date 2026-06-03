@@ -10,9 +10,9 @@ L'add-on **Cobblemon: Ride On!** a été retiré du modpack et remplacé par le 
 
 ### Ce que cela change
 
-* ❌ Certains Pokémon auparavant montables ne le sont plus.
-* ✅ Les montures disponibles dépendent désormais du support officiel de Cobblemon.
-* 🔄 La liste des montures pourra évoluer au fil des futures mises à jour.
+- ❌ Certains Pokémon auparavant montables ne le sont plus.
+- ✅ Les montures disponibles dépendent désormais du support officiel de Cobblemon.
+- 🔄 La liste des montures pourra évoluer au fil des futures mises à jour.
 
 ---
 
