@@ -441,4 +441,4 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 ---
 
-> ⚠️ Cette liste peut évoluer à chaque mise à jour du mod.
+> ⚠️ Certains Pokémon, styles de monture ou statistiques peuvent être ajoutés, modifiés ou retirés au fil des mises à jour.
