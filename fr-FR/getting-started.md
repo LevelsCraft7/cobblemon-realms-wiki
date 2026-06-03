@@ -2,7 +2,7 @@
 
 ## 🎒 Les bases de l'aventure
 
-Voici les premières étapes recommandées pour bien commencer votre aventure sur Cobblemon Realms.
+Avant de partir à l'aventure, voici les principales étapes à suivre pour bien débuter sur Cobblemon Realms.
 
 ---
 
