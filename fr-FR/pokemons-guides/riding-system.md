@@ -73,7 +73,7 @@ Fonctionne de manière similaire aux bateaux de Minecraft.
 
 - 👀 Caméra indépendante de la direction
 - 🔄 Contrôle simple et intuitif
-- 🌊 Conçu pour les déplacements à la surface de l'eau
+- 🤽🏼‍♂️ Conçu pour les déplacements à la surface de l'eau
 
 ---
 
@@ -85,7 +85,7 @@ Reprend les bases du style **Bateau** tout en permettant l'exploration sous-mari
 
 **Caractéristiques :**
 
-- 🌊 Navigation en surface
+- 🏊🏼 Navigation en surface
 - 🤿 Exploration des profondeurs
 - 🧭 Déplacements libres sous l'eau
 
@@ -97,9 +97,9 @@ Reprend les bases du style **Bateau** tout en permettant l'exploration sous-mari
 
 **Caractéristiques :**
 
-- 🌊 Excellente mobilité aquatique
-- 🦘 Bonds hors de l'eau
-- ⚡ Déplacements rapides dans les environnements marins
+- 🦘 Grands bonds hors de l'eau
+- ⚡ Déplacements rapides
+- 🏝️ Idéale pour l'exploration côtière
 
 ---
 
