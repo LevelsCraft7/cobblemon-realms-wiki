@@ -70,7 +70,7 @@ Le nombre d’**IV parfaits garantis** pour un Pokémon sauvage dépend de votre
 
 ---
 
-## 🧠 Comment les points sont calculés
+### 🧠 Comment les points sont calculés
 
 En arrière-plan, vos actions (K.O., captures, séries) vous font gagner des **points**, utilisés pour évaluer les effets sur les apparitions :
 
