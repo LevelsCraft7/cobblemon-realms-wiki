@@ -1,19 +1,19 @@
 # Installation
 
+## 🖱️ Installation
+
 Ce guide vous aidera à configurer votre jeu de la meilleure façon possible, que vous jouiez en solo ou avec des amis.
 
 ---
 
-## 🖥️ Jouer en solo
+### 🖥️ Jouer en solo
 
 Pour profiter du modpack en mode solo :
 
-1. Ouvrez l’[application CurseForge](https://www.curseforge.com/download/app)
+1. Ouvrez l’[Application CurseForge](https://www.curseforge.com/download/app)
 2. Recherchez “[Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)”
 3. Cliquez sur **Installer**, puis attendez la fin du téléchargement.
 4. Une fois installé, appuyez sur **Jouer** pour lancer le jeu avec tous les mods requis.
-
-🎁 **OFFRE SPÉCIALE**
 
 - **🛠️ Étape 1 : Configurer la RAM (facultatif mais recommandé)**\
   Ouvrez le fichier `user_jvm_args.txt` et modifiez les valeurs de mémoire :
@@ -23,17 +23,17 @@ Pour profiter du modpack en mode solo :
 
 ---
 
-## 🔄 Mettre à jour votre version du jeu (Client)
+### 🔄 Mettre à jour votre version du jeu (Client)
 
 Lorsqu’une nouvelle version de Cobblemon Realms est publiée, suivez ces étapes pour rester à jour.
 
 ### 🧭 Sur CurseForge
 
-1. Ouvrez l’**application CurseForge** et allez dans **Mes modpacks**.
-2. Survolez _Cobblemon Realms_ et cliquez sur la **flèche** à côté de “Jouer”.
-3. Si une mise à jour est disponible, vous verrez **“Mise à jour disponible”**.
-4. Sélectionnez la **dernière version** puis cliquez sur **Continuer**.
-5. Attendez la fin de l’installation puis cliquez sur **Jouer**.
+1. Ouvrez l’**Application CurseForge** et allez dans `Mes modpacks**.
+2. Survolez _Cobblemon Realms_ et cliquez sur la **flèche** à côté de `Jouer`.
+3. Si une mise à jour est disponible, vous verrez **`Mise à jour disponible`**.
+4. Sélectionnez la **`dernière version`** puis cliquez sur **`Continuer`**.
+5. Attendez la fin de l’installation puis cliquez sur **`Jouer`**.
 
 🟢 **Astuce :** CurseForge applique automatiquement les configurations et dépendances. C’est le **launcher recommandé**.
 
@@ -41,7 +41,7 @@ Lorsqu’une nouvelle version de Cobblemon Realms est publiée, suivez ces étap
 
 Si vous utilisez un autre launcher :
 
-1. Dans CurseForge, cliquez sur les `...` à côté du modpack → **Exporter le profil**.
+1. Dans CurseForge, cliquez sur les `...` à côté du modpack → **`Exporter le profil`**.
 2. Importez le fichier `.zip` exporté dans le launcher de votre choix.
 3. Certains launchers peuvent ne pas appliquer correctement toutes les configurations ; **CurseForge reste toujours recommandé** pour obtenir les meilleurs résultats.
 
@@ -76,16 +76,16 @@ Voici comment procéder manuellement.
 
 ---
 
-## ☁️ Hébergement avec un fournisseur (Recommandé)
+### ☁️ Hébergement avec un fournisseur (Recommandé)
 
-🟢 Je suis partenaire avec **Bisect Hosting**, et vous pouvez installer **Cobblemon Realms en un clic** via leur panneau.
+🟢 Cobblemon Realms est en partenariat avec **Bisect Hosting**, et vous pouvez installer **Cobblemon Realms en un clic** via leur pannel.
 
 - 🔧 **Installation instantanée** sans aucun upload ou réglage manuel requis
-- 💾 **Mises à jour automatiques**, **sauvegardes** régulières et performances optimisées
+- 💾 **Mises à jour automatiques**, sauvegardes **régulières** et performances **optimisées**
 - 📍 **Localisations mondiales**, stockage SSD, protection DDoS et prise en charge complète des mods
 - 🧩 Entièrement compatible avec CurseForge, garantissant la synchronisation de vos configurations
 
-### 🎉 Réduction partenaire
+## 🎉 Réduction partenaire
 
 Dans le cadre de notre partenariat, vous pouvez utiliser le code [**OurStory**] lors du paiement pour obtenir **25 % DE RÉDUCTION** sur votre 1er mois.
 
