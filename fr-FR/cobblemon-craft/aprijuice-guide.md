@@ -14,8 +14,8 @@ Ces effets s’ajoutent ensuite aux bonus obtenus via les ingrédients.
 - ![Plain Pink Aprijuice](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_aprijuice/plain_aprijuice/plain_pink_aprijuice.png) : +2 Vitesse / -1 Accélération  
 - ![Plain Yellow Aprijuice](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_aprijuice/plain_aprijuice/plain_yellow_aprijuice.png) : +2 Endurance / -1 Maniabilité  
 - ![Plain Green Aprijuice](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_aprijuice/plain_aprijuice/plain_green_aprijuice.png) : +2 Saut / -1 Vitesse  
-- ![Plain Black Aprijuice](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_aprijuice/plain_aprijuice/plain_black_aprijuice.png) : aucun bonus  
 - ![Plain White Aprijuice](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_aprijuice/plain_aprijuice/plain_white_aprijuice.png) : -2 dans toutes les statistiques
+- ![Plain Black Aprijuice](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_aprijuice/plain_aprijuice/plain_black_aprijuice.png) : aucun bonus  
 
 ---
 
