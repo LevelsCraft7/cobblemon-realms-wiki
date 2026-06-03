@@ -1,6 +1,6 @@
 # 🧃 Aprijuice
 
-L’**Aprijuice** est un objet consommable préparé dans une **Marmite à feu**. Pendant sa cuisson, il absorbe différents arômes issus des ingrédients utilisés, ce qui permet de modifier durablement les statistiques de monture d’un Pokémon.
+L’**Aprijuice** est un objet consommable préparé dans une `Marmite à feu` sur un `Feu de camp`. Pendant sa cuisson, il absorbe différents arômes issus des ingrédients utilisés, ce qui permet de modifier durablement les statistiques de monture d’un Pokémon.
 
 ---
 
@@ -21,9 +21,7 @@ Ces effets s’ajoutent ensuite aux bonus obtenus via les ingrédients.
 
 ## 🌿 Absorption des saveurs
 
-Les baies ajoutées lors de la préparation transmettent différentes saveurs à l'Aprijuice. Chaque saveur est associée à une statistique de monture spécifique.
-
-Chaque saveur est convertie en un type de statistique précis :
+Les baies ajoutées lors de la préparation transmettent différentes saveurs à l'Aprijuice. Chaque saveur est associée à une statistique de monture spécifique :
 
 | Saveur | Statistique |
 |:---:|:---:|
@@ -68,12 +66,12 @@ Cette qualité n'influence pas ses effets et sert uniquement d'indicateur visuel
 
 ## 🍶 Obtention
 
-L’Aprijuice se prépare en cuisinant des Apricorns avec des baies dans un chaudron sur feu de camp.  
+L’Aprijuice se prépare en cuisinant des Apricorns avec des baies dans une `Marmite à feu` sur un `Feu de camp`.  
 La combinaison des ingrédients détermine ses effets finaux.
 
 ### 🍳 Préparation
 
-Ce GIF présente l'ensemble des recettes d'Aprijuice disponibles ainsi que leurs différentes qualités.
+Le GIF ci-dessous présente l'ensemble des recettes d'Aprijuice ainsi que leurs différentes qualités.
 
 ![Toutes les recettes de fabrication des différents Aprijuice](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_aprijuice/plain_tasty_delicious_aprijuice_craft/all_craft_v2.gif)
 
