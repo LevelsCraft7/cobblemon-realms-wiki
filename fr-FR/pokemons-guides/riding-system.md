@@ -27,6 +27,8 @@ Le Pokémon se dirige naturellement dans la direction où regarde le joueur, à 
 
 Ces montures disposent également d'un mode sprint permettant d'augmenter leur vitesse de déplacement. Cette accélération consomme toutefois l'endurance de la monture.
 
+---
+
 ### 🚗 Véhicule
 
 Le style **Véhicule** adopte un fonctionnement proche de celui des bateaux de Minecraft.
@@ -46,11 +48,15 @@ Son fonctionnement est similaire à celui des bateaux de Minecraft : la directio
 
 Ce style est conçu pour les déplacements à la surface de l'eau et offre une prise en main simple et intuitive.
 
+---
+
 ### 🌊 Sous-marin
 
 Le style **Sous-marin** reprend les bases du style **Bateau**, tout en offrant la possibilité de plonger sous la surface.
 
 En plus de naviguer sur l'eau, ces montures peuvent s'immerger et se déplacer librement dans les profondeurs, ce qui les rend particulièrement adaptées à l'exploration sous-marine.
+
+---
 
 ### 🐬 Dauphin
 
@@ -69,6 +75,8 @@ Il permet de voler librement et de rester en vol stationnaire. Les déplacements
 
 Ces montures disposent également d'un second mode de vol inspiré du fonctionnement des élytres de Minecraft. Dans ce mode, les déplacements reposent davantage sur l'orientation du joueur, offrant une sensation de vol plus dynamique et adaptée aux longs trajets.
 
+---
+
 ### ✈️ Jet
 
 Le style **Jet** privilégie la vitesse et les déplacements rapides dans les airs.
@@ -77,6 +85,8 @@ Son fonctionnement se rapproche de celui des bateaux de Minecraft : la direction
 
 Contrairement au style **Oiseau**, les montures de type **Jet** ne peuvent pas effectuer de vol stationnaire. En contrepartie, elles bénéficient généralement d'une vitesse de déplacement plus élevée. L'altitude peut être ajustée à l'aide des touches de saut et d'accroupissement pour monter ou descendre.
 
+---
+
 ### 🛸 Vol stationnaire
 
 Le style **Vol stationnaire** offre une liberté de déplacement totale dans les airs.
@@ -84,6 +94,8 @@ Le style **Vol stationnaire** offre une liberté de déplacement totale dans les
 À l'image du mode Créatif ou Spectateur de Minecraft, ces montures peuvent se déplacer dans toutes les directions tout en restant parfaitement stables en vol. Elles sont particulièrement adaptées aux déplacements précis et à l'exploration.
 
 En contrepartie, leur vitesse est généralement plus faible que celle des autres montures aériennes. De plus, leur altitude maximale dépend de leur statistique de **Saut** : dépasser cette limite entraîne une consommation progressive de l'endurance.
+
+---
 
 ### 🚀 Fusée
 
@@ -107,17 +119,23 @@ La statistique **Vitesse** détermine la vitesse maximale que peut atteindre une
 
 Plus cette valeur est élevée, plus le Pokémon pourra se déplacer rapidement lorsqu'il est utilisé comme monture.
 
+---
+
 ### 🏃 Accélération
 
 La statistique **Accélération** détermine la rapidité avec laquelle la monture gagne en vitesse lors de ses déplacements.
 
 Plus cette valeur est élevée, plus la monture atteint rapidement sa vitesse maximale.
 
+---
+
 ### 🎯 Maniabilité
 
 La statistique **Maniabilité** détermine la réactivité des changements de direction lorsqu'une monture est utilisée.
 
 Une valeur plus élevée permet d'effectuer des virages plus serrés et précis. Dans le cas du style **Vol stationnaire**, cette statistique influence plutôt la capacité à ralentir plus ou moins rapidement.
+
+---
 
 ### 🦘 Saut
 
@@ -131,6 +149,8 @@ De manière générale, elle influence la hauteur de saut. Cependant, son effet 
 - Pour les styles **Jet**, elle réduit la vitesse nécessaire pour commencer à voler.
 - Pour les styles **Vol stationnaire**, elle augmente la hauteur maximale avant que l'endurance ne commence à diminuer.
 - Pour les styles **Fusée**, elle augmente la vitesse de montée.
+
+---
 
 ### 💨 Endurance
 
