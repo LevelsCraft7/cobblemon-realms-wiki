@@ -1,6 +1,6 @@
 # 🚀 Bien démarrer
 
-[🌍 Retour vers le sélecteur de langue](https://app.gitbook.com/o/OxqthcidTBoux86jZcUE/s/MoNV72ip5YoBD0RvKQwp/)
+## 🧭 Faites vos premiers pas
 
 Voici les premières étapes recommandées pour bien commencer votre aventure sur Cobblemon Realms.
 
