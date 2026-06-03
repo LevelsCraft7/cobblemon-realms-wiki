@@ -58,11 +58,11 @@ Chaque seuil atteint débloque un bonus supplémentaire.
 La qualité d'un Aprijuice dépend du nombre total de bonus de statistiques qu'il confère.
 Cette qualité n'influence pas ses effets et sert uniquement d'indicateur visuel.
 
-| Qualité | Nom | Bonus total |
-|:---:|:---:|:---:|
-| Faible | Basique | < 4 |
-| Moyenne | Savoureux | 4 – 7 |
-| Élevée | Délicieux | 8+ |
+| Sprite | Qualité | Nom | Bonus total |
+|:---:|:---:|:---:|:---:|
+| | Faible | Basique | < 4 |
+| | Moyenne | Savoureux | 4 – 7 |
+| | Élevée | Délicieux | 8+ |
 
 ---
 
