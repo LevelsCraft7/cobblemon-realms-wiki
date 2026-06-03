@@ -133,12 +133,15 @@ Cela met à jour votre instance vers la dernière version en toute sécurité sa
 
 ---
 
-## 💡 Bonnes pratiques
+<details>
+<summary align="center"><strong>💡 Bonnes pratiques</strong></summary>
 
 - 💾 Effectuez toujours une **sauvegarde de votre monde** avant une mise à jour ou une modification importante.
 - 🔄 Vérifiez que le **serveur** et les **clients** utilisent la même version du modpack.
 - 🛠️ En cas de problème, supprimez les dossiers `config/` et `defaultconfigs/`, puis relancez le jeu afin de régénérer les configurations.
 - ❓ Consultez notre [FAQ](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/faq.md) pour obtenir une aide supplémentaire.
+
+</details>
 
 ---
 
