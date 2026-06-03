@@ -76,7 +76,7 @@ Voici comment procéder manuellement.
 
 ---
 
-### ☁️ Hébergement avec un fournisseur (Recommandé)
+### ☁️ Hébergement avec un fournisseur (recommandé)
 
 🟢 Cobblemon Realms est en partenariat avec **Bisect Hosting**, et vous pouvez installer **Cobblemon Realms en un clic** via leur pannel.
 
@@ -85,7 +85,7 @@ Voici comment procéder manuellement.
 - 📍 **Localisations mondiales**, stockage SSD, protection DDoS et prise en charge complète des mods
 - 🧩 Entièrement compatible avec CurseForge, garantissant la synchronisation de vos configurations
 
-## 🎉 Réduction partenaire
+### 🎉 Réduction partenaire
 
 Dans le cadre de notre partenariat, vous pouvez utiliser le code [**OurStory**] lors du paiement pour obtenir **25 % DE RÉDUCTION** sur votre 1er mois.
 
