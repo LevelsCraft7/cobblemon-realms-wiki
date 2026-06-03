@@ -235,12 +235,10 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 </details>
 
-**Important :** les statistiques affichées sont fournies à titre indicatif et peuvent changer dans de futures mises à jour.
-
 ---
 
-## 📣 Ce que cela signifie pour le modpack
+## ℹ️ Informations
 
-- Si votre Pokémon préféré n’est pas encore montable, pas d’inquiétude : il pourra être ajouté progressivement à mesure que les mécaniques officielles évoluent.
-- Pour le moment, certaines fonctionnalités de monture présentes dans les versions précédentes peuvent ne plus être disponibles.
-- Nous suivons de près les mises à jour du mod et intégrerons les nouvelles options de monture dès qu’elles seront accessibles.
+- La liste des Pokémon montables dépend du système officiel de Cobblemon et peut évoluer au fil des mises à jour.
+- Certains Pokémon ou fonctionnalités de monture disponibles auparavant peuvent ne plus être pris en charge actuellement.
+- Les statistiques affichées sont fournies à titre indicatif et sont susceptibles d'être modifiées lors de futures mises à jour.
