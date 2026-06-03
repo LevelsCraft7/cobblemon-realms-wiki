@@ -1,8 +1,8 @@
 # 🤝 Contribution
 
-## 🤝 Contribution
+## 🌟 Participer au projet
 
-Le wiki Cobblemon Realms est un projet communautaire. Chaque contribution, même minime, aide à améliorer la qualité de la documentation pour l'ensemble des joueurs.
+Le wiki Cobblemon Realms est un projet communautaire. Chaque contribution, même minime, aide à améliorer la documentation pour l'ensemble des joueurs.
 
 ---
 
@@ -21,22 +21,22 @@ Vous pouvez participer de différentes manières :
 
 ## 🌍 Traductions et documentation
 
-L'ensemble de la documentation est géré via GitHub et publié automatiquement sur GitBook.
+Toute la documentation est gérée via GitHub et publiée automatiquement sur GitBook.
 
 Vous pouvez notamment :
 
-- Corriger des textes existants
-- Ajouter de nouvelles informations
-- Traduire des pages dans d'autres langues
-- Améliorer la mise en page et la lisibilité
-- Proposer vos modifications via une Pull Request
+- ✏️ Corriger des textes existants
+- ➕ Ajouter de nouvelles informations
+- 🌐 Traduire des pages dans d'autres langues
+- 🎨 Améliorer la mise en page et la lisibilité
+- 🔀 Proposer vos modifications via une Pull Request
 
 ---
 
 ## 🛠️ Outils utilisés
 
 | 💻 Plateforme | 📋 Utilisation |
-|------------|------------|
+|--------------|----------------|
 | GitHub | Gestion des fichiers, suivi des modifications et contributions |
 | GitBook | Publication et organisation de la documentation |
 
@@ -46,10 +46,10 @@ Vous pouvez notamment :
 
 Avant de proposer une contribution :
 
-- Vérifiez l'exactitude des informations
-- Conservez une mise en page cohérente
-- Utilisez un langage clair et compréhensible
-- Évitez les doublons lorsque cela est possible
+- ✅ Vérifiez l'exactitude des informations
+- 📚 Conservez une mise en page cohérente
+- 💬 Utilisez un langage clair et compréhensible
+- 🔍 Évitez les doublons lorsque cela est possible
 
 ---
 
