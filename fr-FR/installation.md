@@ -1,6 +1,6 @@
-# 🖱️ Installation
+# 📦 Installation
 
-## 🖱️ Installation
+## 📦 Installation
 
 Ce guide vous aidera à configurer votre jeu de la meilleure façon possible, que vous jouiez en solo ou avec des amis.
 
