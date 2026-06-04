@@ -2,7 +2,7 @@
 
 ### 📜 **Liste des invocations de la Première Génération**
 
-| 🍃 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🌍 Biomes |
+| 🍃 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🧭 Localisation |
 |:----------:|:----------:|:----------:|:----------:|
 | ![](https://play.pokemonshowdown.com/sprites/ani/raikou.gif)<br>**Raikou** | Clear Bell | ⚡ 3 Pierres Foudre | Plains, Savanna, Savanna Plateau |
 | ![](https://play.pokemonshowdown.com/sprites/ani/entei.gif)<br>**Entei** | Clear Bell | 🔥 3 Pierres Feu | Badlands, Eroded Badlands, Nether Wastes, Savanna, Windswept Forest, Windswept Hills |
