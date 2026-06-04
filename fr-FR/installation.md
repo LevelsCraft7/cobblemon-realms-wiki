@@ -528,19 +528,6 @@ Vous pouvez ainsi vous concentrer sur votre aventure plutôt que sur l'administr
 
 {% endtab %}
 
-{% tab title="BisectHosting" %}
-
-{% hint style="success" %}
-☁️ Avec **BisectHosting**, les mises à jour du modpack peuvent être effectuées directement depuis le panneau d'administration grâce au bouton **Mettre à jour / Réinstaller le modpack**.
-{% endhint %}
-
-{% hint style="info" %}
-🛡️ Même avec une mise à jour automatique, il est fortement recommandé d'effectuer une sauvegarde de votre monde avant toute opération importante.
-{% endhint %}
-
-{% endtab %}
-{% endtabs %}
-
 {% hint style="danger" %}
 🚫 Ne supprimez jamais :
 
