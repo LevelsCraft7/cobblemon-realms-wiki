@@ -50,7 +50,7 @@ Le launcher gère automatiquement les dépendances, les configurations et les mi
 
 Exemple dans `user_jvm_args.txt` :
 
-```txt
+```
 -Xms8G
 -Xmx8G
 ```
@@ -125,19 +125,19 @@ Utilisez le code **OurStory** pour obtenir 25 % de réduction sur votre premier 
 
 ### Windows
 
-```bat
+```
 run.bat
 ```
 
 ### Linux / MacOS
 
-```bash
+```
 ./run.sh
 ```
 
 4. Modifiez :
 
-```txt
+```
 eula=true
 ```
 
