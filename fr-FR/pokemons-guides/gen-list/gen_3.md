@@ -2,6 +2,10 @@
 
 ### 📜 **Liste des invocations de la Première Génération**
 
+<p align="center">
+D'anciens titans sommeillent sous les terres de Hoenn. Entre océans déchaînés, continents mouvants et cieux infinis, ces Pokémon incarnent les forces primordiales de la nature.
+</p>
+
 | 🌊 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🧭 Localisation |
 |:----------:|:----------:|:----------:|:----------:|
 | ![](https://play.pokemonshowdown.com/sprites/ani/regirock.gif)<br>**Regirock** | Steel Tablet / Ancient Tablet | ⬇️ Niveau Y max : 63 | Desert, Ancient Sands, Ashen Savanna, Desert Caves, Desert Canyon, Desert Oasis, Desert Spires, Lush Desert, Red Oasis, Sandstone Valley, Warped Mesa, White Mesa, Badlands Desert, Danakil Desert, Desert Island, Kwongan Heath, Outback Desert, Red Desert, Sandy Jungle |
