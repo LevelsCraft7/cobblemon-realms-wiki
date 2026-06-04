@@ -3,11 +3,14 @@
 ## 🤖 Présentation
 
 {% hint style="info" %}
-CobbleWorkers permet d’assigner des tâches à vos Pokémon afin d’automatiser votre base.  
-Chaque Pokémon possède des rôles spécifiques selon son type, son espèce ou ses capacités.
+<p align="center">
+CobbleWorkers permet d'assigner certaines tâches à vos Pokémon afin d'automatiser différentes activités au sein de votre base. Chaque rôle dispose de capacités spécifiques et peut contribuer à la production ou à la collecte de ressources.
+</p>
 {% endhint %}
 
-Cette page présente les rôles disponibles et les Pokémon associés.
+<p align="center">
+Cette page détaille les différents métiers disponibles ainsi que les Pokémon pouvant les exercer.
+</p>
 
 ---
 
