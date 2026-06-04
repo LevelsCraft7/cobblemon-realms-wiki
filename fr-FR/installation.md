@@ -201,7 +201,7 @@ Le launcher gère automatiquement les dépendances, les configurations et les mi
 {% endtabs %}
 
 {% hint style="warning" %}
-:warning: Avant d'ouvrir un ticket sur [Discord](https://discord.com/channels/272468475287437312/971152376549507173/1448052227976466463), assurez-vous d'avoir suivi l'intégralité de ce guide et vérifié que votre installation fonctionne correctement. De nombreux problèmes sont résolus en vérifiant la version de Java, la RAM allouée ou en réinstallant le modpack.
+:warning: Avant d'ouvrir un ticket sur [Discord](https://discord.gg/kb8NSTF45n), assurez-vous d'avoir suivi l'intégralité de ce guide et vérifié que votre installation fonctionne correctement. De nombreux problèmes sont résolus en vérifiant la version de Java, la RAM allouée ou en réinstallant le modpack.
 {% endhint %}
 
 ---
@@ -313,7 +313,7 @@ Une connaissance basique du terminal Linux est recommandée.
 {% hint style="info" %}
 💡 Vous ne souhaitez pas gérer l'installation manuellement ou configurer une redirection de ports ?
 
-Utilisez notre partenaire officiel : [**BisectHosting**](https://bisecthosting.com/)
+Utilisez notre partenaire officiel : [**BisectHosting**](https://bisecthosting.com/OurStory)
 {% endhint %}
 
 {% tabs %}
@@ -546,10 +546,12 @@ La suppression de l'un de ces éléments peut entraîner la perte de votre monde
 {% hint style="success" %}
 ### 💡 Bonnes pratiques
 
-- 💾 Effectuez toujours une **sauvegarde de votre monde** avant une mise à jour ou une modification importante.
-- 🔄 Vérifiez que le **serveur** et les **clients** utilisent la même version du modpack.
-- 🛠️ En cas de problème, supprimez les dossiers `config/` et `defaultconfigs/`, puis relancez le jeu afin de régénérer les configurations.
-- ❓ Consultez notre [FAQ](faq.md) pour obtenir une aide supplémentaire.
+- 💾 Avant toute mise à jour ou modification importante, assurez-vous de disposer d'une sauvegarde récente de votre monde.
+- 🔄 Vérifiez que le serveur et les clients utilisent exactement la même version du modpack.
+- 🛠️ En cas de problème, supprimez les dossiers `config/` et `defaultconfigs/`, puis relancez le jeu afin de régénérer automatiquement les configurations.
+- ❓ Consultez notre [FAQ](faq.md) si vous rencontrez un problème ou avez besoin d'informations complémentaires.
+
+- 🤖 Rejoignez notre serveur [Discord](https://discord.gg/kb8NSTF45n) pour obtenir de l'aide, signaler un problème ou échanger avec la communauté.
 {% endhint %}
 
 ---
