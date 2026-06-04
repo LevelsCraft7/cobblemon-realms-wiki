@@ -21,10 +21,6 @@ Prenez un Pokémon adapté à votre style de jeu :
 - 📈 Progression rapide
 - 📚 Collection
 
-{% hint style="info" %}
-💡 Ce choix n’est pas définitif : vous pourrez capturer de nombreux autres Pokémon au fil de votre aventure.
-{% endhint %}
-
 ---
 
 ## 🌍 2. Explorez le monde
