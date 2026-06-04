@@ -32,7 +32,7 @@ Par défaut, la majorité des rôles étaient attribués à **Pikachu**, avec qu
 
 {% hint style="info" %}
 <p align="center">
-Cobblemon Realms utilise une configuration personnalisée afin d'attribuer des rôles plus cohérents avec le <font color="green"><strong>type</strong></font>, les <font color="orange"><strong>capacités</strong></font> ou le <font color="purple"><strong>lore</strong></font> des Pokémon. Cette approche permet à davantage d'espèces d'avoir une utilité unique au sein de votre base.
+Cobblemon Realms utilise une configuration personnalisée afin d'attribuer des rôles plus cohérents avec le <strong>type</strong>, les <strong>capacités</strong> ou le <strong>lore</strong> des Pokémon. Cette approche permet à davantage d'espèces d'avoir une utilité unique au sein de votre base.
 </p>
 {% endhint %}
 
