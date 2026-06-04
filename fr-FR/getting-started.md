@@ -72,7 +72,7 @@ Les quêtes permettent notamment de :
 - 🔓 Débloquer certains contenus
 - ⚙️ Comprendre les systèmes exclusifs du modpack
 
-{% hint style="success" %}
+{% hint style="info" %}
 ✨ Il est fortement recommandé de suivre les quêtes au début de votre aventure.
 {% endhint %}
 
