@@ -527,6 +527,7 @@ Vous pouvez ainsi vous concentrer sur votre aventure plutôt que sur l'administr
 {% endstepper %}
 
 {% endtab %}
+{% endtabs %}
 
 {% hint style="danger" %}
 🚫 Ne supprimez jamais :
