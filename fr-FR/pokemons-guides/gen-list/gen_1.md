@@ -2,6 +2,10 @@
 
 ### 📜 **Liste des invocations de la Première Génération**
 
+<p align="center">
+Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oiseaux élémentaires aux mystérieux Mew et Mewtwo, ces créatures ont marqué le début de toutes les aventures.
+</p>
+
 | 🌿 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🧭 Localisation |
 |:----------:|:----------:|:----------:|:----------:|
 | ![](https://play.pokemonshowdown.com/sprites/ani/articuno.gif)<br>**Artikodin** | Tidal Bell | 🧊 3 Pierres Glace | Frozen biomes |
