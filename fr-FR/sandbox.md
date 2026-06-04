@@ -35,7 +35,8 @@
 {% endstepper %}
 
 {% hint style="success" %}
-CurseForge est recommandé pour garantir une installation complète et éviter les problèmes de configuration.
+Pour la meilleure expérience possible, nous recommandons l'utilisation de CurseForge.
+Le launcher gère automatiquement les dépendances, les configurations et les mises à jour du modpack.
 {% endhint %}
 
 ### ⚙️ Configuration recommandée
