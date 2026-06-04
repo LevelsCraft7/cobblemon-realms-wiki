@@ -1,5 +1,7 @@
 # 🌍 Référence des Tags de Biomes
 
+## 🌍 Référence des Tags de Biomes
+
 Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. Chaque tag regroupe des biomes partageant des caractéristiques communes et est utilisé pour définir les conditions d’apparition des Pokémon.
 
 ---
@@ -22,1126 +24,138 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 
 ## ❄️ Neige et Glace
 
-### `is_freezing`
+* **`is_freezing`** : `frozen_river`, `jagged_peaks`, `snowy_beach`, `snowy_plains`, `snowy_slopes`, `cardinal_tundra`, `emerald_peaks`, `scarlet_mountains`, `skylands_winter`, `snowy_badlands`, `frosted_hills`, `#cobblemon:(is_frozen, is_glacial, is_snowy, is_frozen_ocean, is_snowy_forest)`, `#byg:is_snowy`, `#c:snowy`
+* **`is_frozen`** / **`is_frozen_ocean`** : `deep_frozen_ocean`, `frozen_ocean`, `frozen_cliffs`
+* **`is_glacial`** : `frozen_peaks`, `ice_spikes`, `frostfire_caves`, `frozen_cliffs`, `glacial_chasm`, `frosted_caves`, `spires`, `#byg:is_icy`, `#c:icy`
+* **`is_nether_frozen`** : `subzero_hypogeal`
+* **`is_snowy`** : `grove`, `snowy_taiga`, `alpha_islands_winter`, `alpine_grove`, `ice_marsh`, `siberian_grove`, `snowy_maple_forest`, `snowy_shield`, `wintry_forest`, `wintry_lowlands`, `#byg:is_snowy`
+* **`is_snowy_forest`** : `grove`, `snowy_taiga`, `cold_boreal_taiga`, `cold_deciduous_forest`, `frozen_pine_taiga`, `alpha_islands_winter`, `alpine_grove`, `ice_marsh`, `siberian_grove`, `snowy_maple_forest`, `snowy_shield`, `wintry_forest`, `wintry_lowlands`, `snowy_coniferous_forest`, `glacarian_taiga`
+* **`is_snowy_taiga`** : `cold_boreal_taiga`, `frozen_pine_taiga`, `spires`, `icy_heights`
 
-**Includes:**
-
-- `minecraft:frozen_river`
-- `minecraft:jagged_peaks`
-- `minecraft:snowy_beach`
-- `minecraft:snowy_plains`
-- `minecraft:snowy_slopes`
-- `#cobblemon:is_frozen`
-- `#cobblemon:is_glacial`
-- `#cobblemon:is_snowy`
-- `#cobblemon:is_frozen_ocean`
-- `#cobblemon:is_snowy_forest`
-- `byg:cardinal_tundra`
-- `#byg:is_snowy`
-- `#c:snowy`
-- `#forge:is_snowy`
-- `byg:cardinal_tundra`
-- `terralith:emerald_peaks`
-- `terralith:scarlet_mountains`
-- `terralith:skylands_winter`
-- `terralith:snowy_badlands`
-- `stellarity:frosted_hills`
-
-### `is_frozen`
-
-**Includes:**
-
-- `minecraft:deep_frozen_ocean`
-- `minecraft:frozen_ocean`
-
-### `is_frozen_ocean`
-
-**Includes:**
-
-- `minecraft:deep_frozen_ocean`
-- `minecraft:frozen_ocean`
-- `terralith:frozen_cliffs`
-
-### `is_glacial`
-
-**Includes:**
-
-- `minecraft:frozen_peaks`
-- `minecraft:ice_spikes`
-- `#byg:is_icy`
-- `#c:icy`
-- `terralith:cave/frostfire_caves`
-- `terralith:frozen_cliffs`
-- `terralith:glacial_chasm`
-- `yungscavebiomes:frosted_caves`
-- `regions_unexplored:spires`
-
-### `is_nether_frozen`
-
-**Includes:**
-
-- `byg:subzero_hypogeal`
-
-### `is_snowy`
-
-**Includes:**
-
-- `minecraft:grove`
-- `minecraft:snowy_taiga`
-- `#byg:is_snowy`
-- `terralith:alpha_islands_winter`
-- `terralith:alpine_grove`
-- `terralith:ice_marsh`
-- `terralith:siberian_grove`
-- `terralith:snowy_maple_forest`
-- `terralith:snowy_shield`
-- `terralith:wintry_forest`
-- `terralith:wintry_lowlands`
-
-### `is_snowy_forest`
-
-**Includes:**
-
-- `minecraft:grove`
-- `minecraft:snowy_taiga`
-- `regions_unexplored:cold_boreal_taiga`
-- `regions_unexplored:cold_deciduous_forest`
-- `regions_unexplored:frozen_pine_taiga`
-- `terralith:alpha_islands_winter`
-- `terralith:alpine_grove`
-- `terralith:ice_marsh`
-- `terralith:siberian_grove`
-- `terralith:snowy_maple_forest`
-- `terralith:snowy_shield`
-- `terralith:wintry_forest`
-- `terralith:wintry_lowlands`
-- `traverse:snowy_coniferous_forest`
-- `promenade:glacarian_taiga`
-- `regions_unexplored:cold_deciduous_forest`
-
-### `is_snowy_taiga`
-
-**Includes:**
-
-- `regions_unexplored:cold_boreal_taiga`
-- `regions_unexplored:frozen_pine_taiga`
-- `regions_unexplored:spires`
-- `regions_unexplored:icy_heights`
+---
 
 ## ⛰️ Montagnes et Hautes Terres
 
-### `is_highlands`
+* **`is_highlands`** : `meadow`, `alpine_highlands`, `arid_highlands`, `blooming_plateau`, `highlands`, `highland_fields`
+* **`is_mountain`** : `stony_spires`, `volcanic_peaks`, `windswept_spires`, `yosemite_cliffs`, `the_hallow`, `mountains`, `arid_mountains`, `towering_cliffs`, `#minecraft:is_mountain`, `#cobblemon:is_hills`, `#forge:is_mountain`
+* **`is_nether_mountain`** : `basalt_deltas`, `volcanic_deltas`
+* **`is_peak`** : `frozen_peaks`, `jagged_peaks`, `snowy_slopes`, `stony_peaks`, `emerald_peaks`, `rocky_mountains`, `scarlet_mountains`, `windswept_spires`, `icy_heights`, `#c:mountain_peak`, `#forge:is_peak`
 
-**Includes:**
-
-- `minecraft:meadow`
-- `terralith:alpine_highlands`
-- `terralith:arid_highlands`
-- `terralith:blooming_plateau`
-- `terralith:highlands`
-- `regions_unexplored:highland_fields`
-
-### `is_mountain`
-
-**Includes:**
-
-- `#minecraft:is_mountain`
-- `#cobblemon:is_hills`
-- `terralith:stony_spires`
-- `terralith:volcanic_peaks`
-- `terralith:windswept_spires`
-- `terralith:yosemite_cliffs`
-- `stellarity:the_hallow`
-- `#forge:is_mountain`
-- `regions_unexplored:mountains`
-- `regions_unexplored:arid_mountains`
-- `regions_unexplored:towering_cliffs`
-
-### `is_nether_mountain`
-
-**Includes:**
-
-- `minecraft:basalt_deltas`
-- `incendium:volcanic_deltas`
-
-### `is_peak`
-
-**Includes:**
-
-- `minecraft:frozen_peaks`
-- `minecraft:jagged_peaks`
-- `minecraft:snowy_slopes`
-- `minecraft:stony_peaks`
-- `#c:mountain_peak`
-- `#forge:is_peak`
-- `terralith:emerald_peaks`
-- `terralith:rocky_mountains`
-- `terralith:scarlet_mountains`
-- `terralith:windswept_spires`
-- `regions_unexplored:icy_heights`
+---
 
 ## ⛏️ Grottes et Souterrain
 
-### `is_cave`
+* **`is_cave`** : `dripstone_caves`, `lush_caves`, `andesite_caves`, `desert_caves`, `diorite_caves`, `fungal_caves`, `granite_caves`, `infested_caves`, `thermal_caves`, `underground_jungle`, `ancient_delta`, `bioshroom_caves`, `prismachasm`, `redstone_caves`, `scorching_caves`, `#c:(caves, underground)`, `#forge:is_underground`
+* **`is_deep_dark`** : `deep_dark`, `blooming_caverns`, `deeplands`, `echoing_forest`, `overcast_columns`, `crystal_caves`, `deep_caves`, `frostfire_caves`, `mantle_caves`, `tuff_caves`, `sculk_overgrowth`
+* **`is_dripstone`** : `dripstone_caves`, `fractured_savanna`, `stony_spires`, `prismachasm`, `redstone_caves`
 
-**Includes:**
-
-- `minecraft:dripstone_caves`
-- `minecraft:lush_caves`
-- `terralith:andesite_caves`
-- `terralith:desert_caves`
-- `terralith:diorite_caves`
-- `terralith:fungal_caves`
-- `terralith:granite_caves`
-- `terralith:infested_caves`
-- `terralith:thermal_caves`
-- `terralith:underground_jungle`
-- `#c:caves`
-- `#c:underground`
-- `#forge:is_underground`
-- `regions_unexplored:ancient_delta`
-- `regions_unexplored:bioshroom_caves`
-- `regions_unexplored:prismachasm`
-- `regions_unexplored:redstone_caves`
-- `regions_unexplored:scorching_caves`
-- `regions_unexplored:prismachasm`
-- `regions_unexplored:redstone_caves`
-- `regions_unexplored:ancient_delta`
-- `regions_unexplored:bioshroom_caves`
-- `regions_unexplored:scorching_caves`
-
-### `is_deep_dark`
-
-**Includes:**
-
-- `minecraft:deep_dark`
-- `deeperdarker:blooming_caverns`
-- `deeperdarker:deeplands`
-- `deeperdarker:echoing_forest`
-- `deeperdarker:overcast_columns`
-- `terralith:cave/crystal_caves`
-- `terralith:cave/deep_caves`
-- `terralith:cave/frostfire_caves`
-- `terralith:cave/mantle_caves`
-- `terralith:cave/tuff_caves`
-- `stellarity:sculk_overgrowth`
-
-### `is_dripstone`
-
-**Includes:**
-
-- `minecraft:dripstone_caves`
-- `terralith:fractured_savanna`
-- `terralith:stony_spires`
-- `regions_unexplored:prismachasm`
-- `regions_unexplored:redstone_caves`
+---
 
 ## 🌊 Océans, Rivières et Côtes
 
-### `is_beach`
+* **`is_beach`** : `lagoon`, `dead_coral_reef`, `rocky_reef`, `tropicraft:beach`, `grassy_beach`, `gravel_beach`, `#minecraft:is_beach`
+* **`is_coast`** : `stony_shore`, `white_cliffs`, `basalt_cliffs`, `granite_cliffs`, `volcanic_island`, `rocky_reef`, `chalk_cliffs`, `#minecraft:is_beach`, `#cobblemon:is_beach`, `#c:stony_shores`
+* **`is_cold_ocean`** : `cold_ocean`, `deep_cold_ocean`, `#cobblemon:is_frozen_ocean`
+* **`is_deep_ocean`** : `hyacinth_deeps`, `volcanic_island`, `#minecraft:is_deep_ocean`, `#c:deep_ocean`
+* **`is_lukewarm_ocean`** : `deep_lukewarm_ocean`, `lukewarm_ocean`, `rocky_reef`, `tropics`
+* **`is_ocean`** : `tropicraft:ocean`, `hyacinth_deeps`, `#minecraft:is_ocean`, `#cobblemon:(is_coast, is_cold_ocean, is_deep_ocean, is_frozen_ocean, is_lukewarm_ocean, is_warm_ocean)`
+* **`is_river`** : `warm_river`, `tropicraft:river`, `cold_river`, `muddy_river`, `tropical_river`, `#minecraft:is_river`
+* **`is_warm_ocean`** : `warm_ocean`, `lush_stacks`, `#cobblemon:is_kelp`
 
-**Includes:**
-
-- `#minecraft:is_beach`
-- `mysticsbiomes:lagoon`
-- `nyctophobia:dead_coral_reef`
-- `regions_unexplored:rocky_reef`
-- `tropicraft:beach`
-- `regions_unexplored:grassy_beach`
-- `regions_unexplored:gravel_beach`
-
-### `is_coast`
-
-**Includes:**
-
-- `#minecraft:is_beach`
-- `minecraft:stony_shore`
-- `#cobblemon:is_beach`
-- `terralith:white_cliffs`
-- `#c:stony_shores`
-- `regions_unexplored:rocky_reef`
-- `terralith:basalt_cliffs`
-- `terralith:granite_cliffs`
-- `terralith:white_cliffs`
-- `terrestria:volcanic_island`
-- `regions_unexplored:rocky_reef`
-- `regions_unexplored:chalk_cliffs`
-
-### `is_cold_ocean`
-
-**Includes:**
-
-- `minecraft:cold_ocean`
-- `minecraft:deep_cold_ocean`
-- `#cobblemon:is_frozen_ocean`
-
-### `is_deep_ocean`
-
-**Includes:**
-
-- `#minecraft:is_deep_ocean`
-- `#c:deep_ocean`
-- `regions_unexplored:hyacinth_deeps`
-- `regions_unexplored:volcanic_island`
-
-### `is_lukewarm_ocean`
-
-**Includes:**
-
-- `minecraft:deep_lukewarm_ocean`
-- `minecraft:lukewarm_ocean`
-- `regions_unexplored:rocky_reef`
-- `regions_unexplored:tropics`
-
-### `is_ocean`
-
-**Includes:**
-
-- `#minecraft:is_ocean`
-- `#cobblemon:is_coast`
-- `#cobblemon:is_cold_ocean`
-- `#cobblemon:is_deep_ocean`
-- `#cobblemon:is_frozen_ocean`
-- `#cobblemon:is_lukewarm_ocean`
-- `#cobblemon:is_warm_ocean`
-- `tropicraft:ocean`
-- `regions_unexplored:hyacinth_deeps`
-
-### `is_river`
-
-**Includes:**
-
-- `#minecraft:is_river`
-- `terralith:warm_river`
-- `tropicraft:river`
-- `regions_unexplored:cold_river`
-- `regions_unexplored:muddy_river`
-- `regions_unexplored:tropical_river`
-
-### `is_warm_ocean`
-
-**Includes:**
-
-- `minecraft:warm_ocean`
-- `#cobblemon:is_kelp`
-- `byg:lush_stacks`
+---
 
 ## 🌳 Forêts et Jungles
 
-### `is_forest`
+* **`is_forest`** : `cherry_grove`, `alpha_islands(_winter)`, `blooming_valley`, `forested_highlands`, `lavender_forest`, `lavender_valley`, `mirage_isles`, `sakura_grove`, `sakura_valley`, `temperate_highlands`, `woodlands`, `alpha_grove`, `autumnal_maple_forest`, `deciduous_forest`, `maple_forest`, `redwoods`, `sparse_redwoods`, `magnolia_woodland`, `mauve_hills`, `mountains`, `orchard`, `pine_slopes`, `silver_birch_forest`, `temperate_grove`, `willow_forest`, `#minecraft:is_forest`, `#c:(flower_forests, tree_deciduous)`
+* **`is_jungle`** : `underground_jungle`, `tropics`, `osa_rainforest`, `rainforest`, `tropical_peaks`, `sparse_rainforest`, `eucalyptus_forest`, `#minecraft:is_jungle`
+* **`is_nether_forest`** : `nether_jungle`, `nether_swampland(_terraces)`, `weeping_mire`, `withering_woods`
 
-**Includes:**
-
-- `#minecraft:is_forest`
-- `minecraft:cherry_grove`
-- `terralith:alpha_islands`
-- `terralith:alpha_islands_winter`
-- `terralith:blooming_valley`
-- `terralith:forested_highlands`
-- `terralith:lavender_forest`
-- `terralith:lavender_valley`
-- `terralith:mirage_isles`
-- `terralith:sakura_grove`
-- `terralith:sakura_valley`
-- `terralith:temperate_highlands`
-- `#c:flower_forests`
-- `#c:tree_deciduous`
-- `traverse:woodlands`
-- `regions_unexplored:alpha_grove`
-- `regions_unexplored:autumnal_maple_forest`
-- `regions_unexplored:deciduous_forest`
-- `regions_unexplored:maple_forest`
-- `regions_unexplored:redwoods`
-- `regions_unexplored:sparse_redwoods`
-- `regions_unexplored:magnolia_woodland`
-- `regions_unexplored:mauve_hills`
-- `regions_unexplored:mountains`
-- `regions_unexplored:orchard`
-- `regions_unexplored:pine_slopes`
-- `regions_unexplored:silver_birch_forest`
-- `regions_unexplored:temperate_grove`
-- `regions_unexplored:willow_forest`
-
-### `is_jungle`
-
-**Includes:**
-
-- `#minecraft:is_jungle`
-- `terralith:underground_jungle`
-- `mysticsbiomes:tropics`
-- `terralith:cave/underground_jungle`
-- `tropicraft:osa_rainforest`
-- `tropicraft:rainforest`
-- `tropicraft:tropical_peaks`
-- `regions_unexplored:rainforest`
-- `regions_unexplored:sparse_rainforest`
-- `regions_unexplored:eucalyptus_forest`
-
-### `is_nether_forest`
-
-**Includes:**
-
-- `betternether:nether_jungle`
-- `betternether:nether_swampland`
-- `betternether:nether_swampland_terraces`
-- `byg:weeping_mire`
-- `byg:withering_woods`
+---
 
 ## 🌾 Plaines et Prairies
 
-### `is_grassland`
+* **`is_grassland`** : `#cobblemon:(is_plains, is_savanna)`
+* **`is_plains`** : `plains`, `sunflower_plains`, `brushland`, `steppe`, `valley_clearing`, `flatlands`, `barley_fields`, `shrubland`, `clover_plains`, `grassland`, `prairie`, `flower_fields`, `#cobblemon:is_highlands`, `#byg:is_plain`, `#c:plains`, `#forge:is_plains`
 
-**Includes:**
-
-- `#cobblemon:is_plains`
-- `#cobblemon:is_savanna`
-
-### `is_plains`
-
-**Includes:**
-
-- `minecraft:plains`
-- `minecraft:sunflower_plains`
-- `#cobblemon:is_highlands`
-- `#byg:is_plain`
-- `#byg:is_plain`
-- `#c:plains`
-- `#forge:is_plains`
-- `terralith:brushland`
-- `terralith:steppe`
-- `terralith:valley_clearing`
-- `traverse:flatlands`
-- `regions_unexplored:barley_fields`
-- `regions_unexplored:shrubland`
-- `regions_unexplored:clover_plains`
-- `regions_unexplored:grassland`
-- `regions_unexplored:prairie`
-- `regions_unexplored:flower_fields`
+---
 
 ## 🏜️ Déserts et Zones Arides
 
-### `is_arid`
+* **`is_arid`** : `#cobblemon:(is_sandy, is_savanna)`
+* **`is_badlands`** : `ashen_savanna`, `red_oasis`, `warped_mesa`, `white_mesa`, `arid_mountains`, `outback`, `#minecraft:is_badlands`, `#c:mesa`
+* **`is_desert`** : `desert`, `ancient_sands`, `desert_canyon`, `desert_caves`, `desert_oasis`, `desert_spires`, `lush_desert`, `red_oasis`, `sandstone_valley`, `lost_caves`, `saguaro_desert`, `joshua_desert`, `#byg:is_desert`
+* **`is_nether_desert`** : `soul_sand_valley`, `gravel_desert`, `quartz_desert`, `warped_desert`, `infernal_dunes`, `weeping_valley`
+* **`is_savanna`** : `arid_highlands`, `ashen_savanna`, `brushland`, `desert_oasis`, `fractured_savanna`, `hot_shrubland`, `red_oasis`, `savanna_badlands`, `savanna_slopes`, `shrubland`, `desert_shrubland`, `baobab_savanna`, `steppe`, `#minecraft:is_savanna`
 
-**Includes:**
-
-- `#cobblemon:is_sandy`
-- `#cobblemon:is_savanna`
-
-### `is_badlands`
-
-**Includes:**
-
-- `#minecraft:is_badlands`
-- `terralith:ashen_savanna`
-- `terralith:red_oasis`
-- `terralith:warped_mesa`
-- `terralith:white_mesa`
-- `#c:mesa`
-- `terralith:ashen_savanna`
-- `terralith:red_oasis`
-- `terralith:warped_mesa`
-- `terralith:white_mesa`
-- `regions_unexplored:arid_mountains`
-- `regions_unexplored:outback`
-
-### `is_desert`
-
-**Includes:**
-
-- `minecraft:desert`
-- `#byg:is_desert`
-- `terralith:ancient_sands`
-- `terralith:desert_canyon`
-- `terralith:desert_caves`
-- `terralith:desert_oasis`
-- `terralith:desert_spires`
-- `terralith:lush_desert`
-- `terralith:red_oasis`
-- `terralith:sandstone_valley`
-- `yungscavebiomes:lost_caves`
-- `regions_unexplored:saguaro_desert`
-- `regions_unexplored:joshua_desert`
-
-### `is_nether_desert`
-
-**Includes:**
-
-- `minecraft:soul_sand_valley`
-- `betternether:gravel_desert`
-- `byg:quartz_desert`
-- `byg:warped_desert`
-- `incendium:infernal_dunes`
-- `incendium:weeping_valley`
-
-### `is_savanna`
-
-**Includes:**
-
-- `#minecraft:is_savanna`
-- `terralith:arid_highlands`
-- `terralith:ashen_savanna`
-- `terralith:brushland`
-- `terralith:desert_oasis`
-- `terralith:fractured_savanna`
-- `terralith:hot_shrubland`
-- `terralith:red_oasis`
-- `terralith:savanna_badlands`
-- `terralith:savanna_slopes`
-- `terralith:shrubland`
-- `traverse:desert_shrubland`
-- `regions_unexplored:baobab_savanna`
-- `regions_unexplored:steppe`
+---
 
 ## 🌺 Biomes Floraux et Prairies Fleuries
 
-### `is_floral`
+* **`is_floral`** : `flower_forest`, `meadow`, `sunflower_plains`, `cherry_grove`, `blooming_plateau`, `blooming_valley`, `lavender_forest`, `lavender_valley`, `sakura_grove`, `sakura_valley`, `blush_sakura_grove`, `cotton_sakura_grove`, `amaranth_fields`, `allium_fields`, `rose_fields`, `skyris_vale`, `cherry_blossom_forest`, `orchard`, `lavender_meadow`, `strawberry_fields`, `clover_fields`, `ecalyptus_forest`, `flower_fields`, `fungal_fen`, `highland_fields`, `magnolia_woodland`, `maple_forest`, `mauve_hills`, `poppy_fields`, `rocky_meadow`, `temperate_grove`, `#byg:is_floral`, `#c:(floral, flower_forests)`
 
-**Includes:**
-
-- `minecraft:flower_forest`
-- `minecraft:meadow`
-- `minecraft:sunflower_plains`
-- `minecraft:cherry_grove`
-- `#byg:is_floral`
-- `terralith:blooming_plateau`
-- `terralith:blooming_valley`
-- `terralith:lavender_forest`
-- `terralith:lavender_valley`
-- `terralith:sakura_grove`
-- `terralith:sakura_valley`
-- `promenade:blush_sakura_grove`
-- `promenade:cotton_sakura_grove`
-- `#c:floral`
-- `#c:flower_forests`
-- `byg:amaranth_fields`
-- `byg:allium_fields`
-- `byg:rose_fields`
-- `byg:skyris_vale`
-- `byg:cherry_blossom_forest`
-- `byg:orchard`
-- `mysticsbiomes:lavender_meadow`
-- `mysticsbiomes:strawberry_fields`
-- `regions_unexplored:clover_fields`
-- `regions_unexplored:ecalyptus_forest`
-- `regions_unexplored:flower_fields`
-- `regions_unexplored:fungal_fen`
-- `regions_unexplored:highland_fields`
-- `regions_unexplored:magnolia_woodland`
-- `regions_unexplored:maple_forest`
-- `regions_unexplored:mauve_hills`
-- `regions_unexplored:orchard`
-- `regions_unexplored:poppy_fields`
-- `regions_unexplored:rocky_meadow`
-- `regions_unexplored:temperate_grove`
-- `regions_unexplored:flower_fields`
-- `regions_unexplored:rocky_meadow`
-- `regions_unexplored:highland_fields`
-- `regions_unexplored:poppy_fields`
-- `regions_unexplored:poppy_fields`
-- `regions_unexplored:mauve_hills`
-- `regions_unexplored:temperate_grove`
+---
 
 ## 🍄 Champignons et Biomes Magiques
 
-### `is_magical`
+* **`is_magical`** : `dark_forest`, `skyris_vale`, `amethyst_canyon`, `amethyst_rainforest`, `mirage_isles`, `moonlight_grove`, `moonlight_valley`, `blackwood_taiga`, `bioshroom_caves`, `clover_field`, `eucalyptus_forest`, `fungal_fen`, `magnolia_woodland`, `mauve_hills`, `prismachasm`, `redwoods`, `rocky_meadow`, `silver_birch_forest`, `japanese_maple_forest`, `rainbow_forest`, `sakura_forest`, `enchanted_tangle`, `forgotten_forest`, `skyrise_vale`, `weeping_witch_forest`, `ancient_delta`, `#byg:is_magical`
+* **`is_mushroom`** : `dark_forest`, `mushroom_fields`, `fungal_caves`, `mirage_isles`, `lichen_caves`, `deep_dark_forest`, `bioshroom_caves`, `blackwood_taiga`, `fungal_fen`, `#c:mushroom`, `#forge:is_mushroom`
 
-**Includes:**
-
-- `minecraft:dark_forest`
-- `#byg:is_magical`
-- `byg:skyris_vale`
-- `terralith:amethyst_canyon`
-- `terralith:amethyst_rainforest`
-- `terralith:mirage_isles`
-- `terralith:moonlight_grove`
-- `terralith:moonlight_valley`
-- `regions_unexplored:blackwood_taiga`
-- `regions_unexplored:bioshroom_caves`
-- `regions_unexplored:clover_field`
-- `regions_unexplored:eucalyptus_forest`
-- `regions_unexplored:fungal_fen`
-- `regions_unexplored:magnolia_woodland`
-- `regions_unexplored:mauve_hills`
-- `regions_unexplored:prismachasm`
-- `regions_unexplored:redwoods`
-- `regions_unexplored:rocky_meadow`
-- `regions_unexplored:silver_birch_forest`
-- `terrestria:japanese_maple_forest`
-- `terrestria:rainbow_forest`
-- `terrestria:sakura_forest`
-- `biomeswevegone:enchanted_tangle`
-- `biomeswevegone:forgotten_forest`
-- `biomeswevegone:skyrise_vale`
-- `biomeswevegone:weeping_witch_forest`
-- `regions_unexplored:prismachasm`
-- `regions_unexplored:ancient_delta`
-- `regions_unexplored:blackwood_taiga`
-- `regions_unexplored:fungal_fen`
-- `regions_unexplored:mauve_hills`
-
-### `is_mushroom`
-
-**Includes:**
-
-- `minecraft:dark_forest`
-- `minecraft:mushroom_fields`
-- `terralith:fungal_caves`
-- `terralith:mirage_isles`
-- `#c:mushroom`
-- `#forge:is_mushroom`
-- `galosphere:lichen_caves`
-- `nyctophobia:deep_dark_forest`
-- `regions_unexplored:bioshroom_caves`
-- `regions_unexplored:blackwood_taiga`
-- `regions_unexplored:fungal_fen`
+---
 
 ## 🌀 Dimensions Spéciales
 
-### `is_aether`
+* **`is_aether`** : `skyroot_forest`, `skyroot_grove`, `skyroot_meadow`, `skyroot_woodland`
+* **`is_sky`** : `skylands_autumn`, `skylands_spring`, `skylands_summer`, `skylands_winter`
 
-**Includes:**
-
-- `aether:skyroot_forest`
-- `aether:skyroot_grove`
-- `aether:skyroot_meadow`
-- `aether:skyroot_woodland`
-
-### `is_sky`
-
-**Includes:**
-
-- `terralith:skylands_autumn`
-- `terralith:skylands_spring`
-- `terralith:skylands_summer`
-- `terralith:skylands_winter`
+---
 
 ## 📦 Autres Tags
 
-### `is_autumn`
-
-**Includes:**
-
-- `#cobblemon:is_arid`
-- `#cobblemon:is_cold_ocean`
-- `#cobblemon:is_mountain`
-- `#cobblemon:is_mushroom`
-- `#cobblemon:is_taiga`
-- `mysticsbiomes:autumnal_grove`
-- `regions_unexplored:autumnal_maple_forest`
-- `regions_unexplored:golden_boreal_taiga`
-- `regions_unexplored:maple_forest`
-- `regions_unexplored:orchard`
-- `terralith:skylands_autumn`
-- `traverse:autumnal_woods`
-- `promenade:carnelian_treeway`
-- `terralith:skylands_autumn`
-
-### `is_bamboo`
-
-**Includes:**
-
-- `minecraft:bamboo_jungle`
-- `mysticsbiomes:bamboo_blossom_forest`
-- `regions_unexplored:bamboo_forest`
-- `tropicraft:bamboo_rainforest`
-
-### `is_cold`
-
-**Includes:**
-
-- `#cobblemon:is_freezing`
-- `#cobblemon:is_frigid`
-- `#cobblemon:is_peak`
-- `#cobblemon:is_taiga`
-- `#cobblemon:is_tundra`
-- `#cobblemon:is_cold_ocean`
-- `#byg:is_cold`
-- `#c:climate_cold`
-- `#forge:is_cold/overworld`
-- `regions_unexplored:cold_river`
-
-### `is_crystal`
-
-**Includes:**
-
-- `galosphere:crystal_canyons`
-- `stellarity:crystal_crags`
-
-### `is_deep`
-
-**Includes:**
-
-- `#minecraft:is_deep_ocean`
-
-### `is_dense`
-
-**Includes:**
-
-- `minecraft:dark_forest`
-- `minecraft:mangrove_swamp`
-- `#cobblemon:is_jungle`
-- `#c:vegetation_dense`
-- `#forge:is_dense`
-- `#forge:is_dense/overworld`
-
-### `is_freshwater`
-
-**Includes:**
-
-- `#cobblemon:is_river`
-- `#cobblemon:is_swamp`
-
-### `is_frigid`
-
-**Includes:**
-
-- `minecraft:cold_ocean`
-- `minecraft:deep_cold_ocean`
-- `#cobblemon:is_frozen`
-
-### `is_haunted`
-
-**Includes:**
-
-### `is_hills`
-
-**Includes:**
-
-- `#minecraft:is_hill`
-- `#cobblemon:is_highlands`
-- `terralith:blooming_valley`
-- `terralith:forested_highlands`
-- `terralith:lavender_valley`
-- `terralith:lush_valley`
-- `terralith:moonlight_valley`
-- `terralith:sakura_valley`
-- `terralith:savanna_slopes`
-- `terralith:temperate_highlands`
-- `terralith:yosemite_lowlands`
-- `#c:mountain_slope`
-- `#forge:is_slope`
-- `regions_unexplored:mauve_hills`
-- `regions_unexplored:poppy_fields`
-
-### `is_infested`
-
-**Includes:**
-
-- `#byg:is_spooky`
-
-### `is_island`
-
-**Includes:**
-
-- `minecraft:mushroom_fields`
-- `#cobblemon:is_tropical_island`
-- `byg:lush_stacks`
-- `terralith:alpha_islands`
-- `terralith:alpha_islands_winter`
-- `terralith:mirage_isles`
-- `terralith:warped_mesa`
-- `terrestria:volcanic_island`
-
-### `is_kelp`
-
-**Includes:**
-
-- `tropicraft:kelp_forest`
-
-### `is_lukewarm`
-
-**Includes:**
-
-- `minecraft:deep_lukewarm_ocean`
-- `minecraft:lukewarm_ocean`
-
-### `is_lush`
-
-**Includes:**
-
-- `minecraft:lush_caves`
-- `byg:lush_stacks`
-- `terralith:underground_jungle`
-- `deeperdarker:blooming_caverns`
-- `regions_unexplored:ancient_delta`
-- `terralith:cave/underground_jungle`
-- `#forge:is_lush`
-- `regions_unexplored:ancient_delta`
-
-### `is_nether_basalt`
-
-**Includes:**
-
-- `minecraft:basalt_deltas`
-- `cinderscapes:blackstone_shales`
-- `incendium:ash_barrens`
-- `incendium:volcanic_deltas`
-- `incendium:withered_forest`
-- `stellarity:blazing_dunes`
-
-### `is_nether_crimson`
-
-**Includes:**
-
-- `minecraft:crimson_forest`
-- `betternether:crimson_glowing_woods`
-- `betternether:crimson_pinewood`
-- `betternether:nether_swampland`
-- `betternether:nether_swampland_terraces`
-- `byg:crimson_gardens`
-- `gardens_of_the_dead:whistling_woods`
-
-### `is_nether_fungus`
-
-**Includes:**
-
-- `minecraft:crimson_forest`
-- `minecraft:warped_forest`
-- `betternether:crimson_glowing_woods`
-- `betternether:crimson_pinewood`
-- `betternether:mushroom_forest`
-- `betternether:mushroom_forest_edge`
-- `betternether:nether_jungle`
-- `betternether:old_fungiwoods`
-- `betternether:old_warped_woods`
-- `byg:crimson_gardens`
-- `byg:embur_bog`
-- `byg:glowstone_garden`
-- `byg:wailing_garth`
-- `cinderscapes:luminous_grove`
-- `gardens_of_the_dead:whistling_woods`
-- `gardens_of_the_dead:soulblight_forest`
-- `incendium:inverted_forest`
-
-### `is_nether_overgrowth`
-
-**Includes:**
-
-- `betternether:bone_reef`
-- `betternether:nether_grasslands`
-- `betternether:soul_plain`
-- `betternether:sulfuric_bone_reef`
-- `byg:sythian_torrids`
-
-### `is_nether_quartz`
-
-**Includes:**
-
-- `byg:quartz_desert`
-- `cinderscapes:quartz_cavern`
-- `incendium:quartz_flats`
-
-### `is_nether_soul_fire`
-
-**Includes:**
-
-- `minecraft:soul_sand_valley`
-- `byg:subzero_hypogeal`
-- `byg:warped_desert`
-- `incendium:quartz_flats`
-- `incendium:weeping_valley`
-
-### `is_nether_soul_sand`
-
-**Includes:**
-
-- `minecraft:soul_sand_valley`
-- `betternether:soul_plain`
-- `betternether:wart_forest`
-- `betternether:wart_forest_edge`
-- `byg:wailing_garth`
-- `byg:warped_desert`
-- `cinderscapes:ashy_shoals`
-- `cinderscapes:blackstone_shales`
-- `gardens_of_the_dead:soulblight_forest`
-- `incendium:weeping_valley`
-
-### `is_nether_toxic`
-
-**Includes:**
-
-- `byg:brimstone_caverns`
-- `byg:wailing_garth`
-- `incendium:toxic_heap`
-- `regions_unexplored:mycotoxic_undergrowth`
-- `betternether:nether_jungle`
-
-### `is_nether_warped`
-
-**Includes:**
-
-- `minecraft:warped_forest`
-- `betternether:nether_jungle`
-- `betternether:old_warped_woods`
-- `byg:wailing_garth`
-- `byg:warped_desert`
-
-### `is_nether_wasteland`
-
-**Includes:**
-
-- `minecraft:nether_wastes`
-- `betternether:magma_land`
-- `betternether:poor_nether_grasslands`
-- `byg:brimstone_caverns`
-- `byg:magma_wastes`
-- `cinderscapes:ashy_shoals`
-- `cinderscapes:quartz_cavern`
-- `incendium:ash_barrens`
-- `incendium:toxic_heap`
-- `regions_unexplored:infernal_holt`
-
-### `is_overworld`
-
-**Includes:**
-
-- `#cobblemon:is_arid`
-- `#cobblemon:is_cave`
-- `#cobblemon:is_coast`
-- `#cobblemon:is_deep_dark`
-- `#cobblemon:is_floral`
-- `#cobblemon:is_forest`
-- `#cobblemon:is_freshwater`
-- `#cobblemon:is_grassland`
-- `#cobblemon:is_highlands`
-- `#cobblemon:is_island`
-- `#cobblemon:is_jungle`
-- `#cobblemon:is_magical`
-- `#cobblemon:is_mountain`
-- `#cobblemon:is_mushroom`
-- `#cobblemon:is_ocean`
-- `#minecraft:is_overworld`
-- `#cobblemon:is_sky`
-- `#cobblemon:is_spooky`
-- `#cobblemon:is_temperate`
-- `#cobblemon:is_thermal`
-- `#cobblemon:is_volcanic`
-- `#c:is_overworld`
-
-### `is_plateau`
-
-**Includes:**
-
-- `minecraft:savanna_plateau`
-- `#byg:is_plateau`
-- `#forge:is_plateau`
-- `regions_unexplored:barley_fields`
-- `regions_unexplored:prairie`
-- `regions_unexplored:steppe`
-
-### `is_reef`
-
-**Includes:**
-
-- `minecraft:warm_ocean`
-- `terralith:lush_stacks`
-
-### `is_salt`
-
-**Includes:**
-
-- `galosphere:pink_salt_caves`
-- `regions_unexplored:chalk_cliffs`
-
-### `is_sandy`
-
-**Includes:**
-
-- `#cobblemon:is_badlands`
-- `#cobblemon:is_desert`
-- `#byg:is_sandy`
-
-### `is_shrubland`
-
-**Includes:**
-
-- `regions_unexplored:shrubland`
-- `regions_unexplored:dry_bushland`
-
-### `is_sparse`
-
-**Includes:**
-
-- `#cobblemon:is_arid`
-- `#cobblemon:is_grassland`
-- `#cobblemon:is_tundra`
-- `#c:vegetation_sparse`
-- `#forge:is_sparse`
-- `#forge:is_sparse/overworld`
-- `regions_unexplored:sparse_rainforest`
-- `regions_unexplored:sparse_redwoods`
-
-### `is_spooky`
-
-**Includes:**
-
-- `minecraft:dark_forest`
-- `nyctophobia:dead_coral_reef`
-- `nyctophobia:eroded_haunted_forest`
-- `nyctophobia:haunted_forest`
-- `regions_unexplored:ashen_woodland`
-- `regions_unexplored:blackwood_taiga`
-- `regions_unexplored:redwoods`
-- `regions_unexplored:willow_forest`
-- `#byg:is_spooky`
-- `#forge:is_spooky`
-- `byg:ebony_woods`
-- `promenade:dark_amaranth_forest`
-- `promenade:tall_dark_amaranth_forest`
-- `regions_unexplored:blackwood_taiga`
-- `regions_unexplored:pumpkin_fields`
-
-### `is_spring`
-
-**Includes:**
-
-- `#cobblemon:is_floral`
-- `#cobblemon:is_lukewarm`
-- `#cobblemon:is_magical`
-- `#cobblemon:is_plains`
-- `terralith:skylands_spring`
-- `the_bumblezone:floral_meadow`
-
-### `is_summer`
-
-**Includes:**
-
-- `#cobblemon:is_forest`
-- `#cobblemon:is_jungle`
-- `#cobblemon:is_lush`
-- `#cobblemon:is_reef`
-- `#cobblemon:is_warm_ocean`
-- `#cobblemon:is_swamp`
-- `terralith:skylands_summer`
-- `#byg:is_swamp`
-- `#c:swamp`
-- `#forge:is_swamp`
-- `terralith:ice_marsh`
-- `traverse:lush_swamp`
-- `tropicraft:mangroves`
-- `stellarity:prismarine_forest`
-
-### `is_swamp`
-
-**Includes:**
-
-- `minecraft:mangrove_swamp`
-- `minecraft:swamp`
-- `#byg:is_swamp`
-- `terralith:ice_marsh`
-- `terralith:orchid_swamp`
-- `regions_unexplored:bayou`
-- `regions_unexplored:fen`
-- `regions_unexplored:marsh`
-- `regions_unexplored:muddy_river`
-- `regions_unexplored:old_growth_bayou`
-
-### `is_taiga`
-
-**Includes:**
-
-- `#minecraft:is_taiga`
-- `minecraft:grove`
-- `terralith:alpine_grove`
-- `terralith:haze_mountain`
-- `terralith:ice_marsh`
-- `terralith:moonlight_grove`
-- `terralith:moonlight_valley`
-- `terralith:shield_clearing`
-- `terralith:siberian_grove`
-- `terralith:siberian_taiga`
-- `terralith:snowy_maple_forest`
-- `terralith:snowy_shield`
-- `terralith:wintry_lowlands`
-- `#c:tree_coniferous`
-- `#forge:is_coniferous`
-- `traverse:coniferous_forest`
-- `regions_unexplored:blackwood_taiga`
-- `regions_unexplored:boreal_taiga`
-- `regions_unexplored:golden_boreal_taiga`
-- `regions_unexplored:pine_taiga`
-
-### `is_temperate`
-
-**Includes:**
-
-- `#cobblemon:is_forest`
-- `#cobblemon:is_plains`
-
-### `is_thermal`
-
-**Includes:**
-
-- `terralith:caldera`
-- `terralith:thermal_caves`
-- `terralith:yellowstone`
-- `regions_unexplored:scorching_caves`
-- `regions_unexplored:tropical_river`
-
-### `is_tropical`
-
-**Includes:**
-
-- `regions_unexplored:tropics`
-- `regions_unexplored:tropical_river`
-- `terrestria:volcanic_island`
-
-### `is_tropical_island`
-
-**Includes:**
-
-- `terrestria:volcanic_island`
-- `regions_unexplored:tropics`
-- `regions_unexplored:rocky_reef`
-
-### `is_tundra`
-
-**Includes:**
-
-- `minecraft:ice_spikes`
-- `minecraft:snowy_plains`
-- `byg:cardinal_tundra`
-- `terralith:cold_shrubland`
-- `terralith:gravel_desert`
-- `terralith:rocky_shrubland`
-- `terralith:snowy_badlands`
-- `terralith:yellowstone`
-- `#c:snowy_plains`
-- `regions_unexplored:frozen_tundra`
-
-### `is_void`
-
-**Includes:**
-
-- `minecraft:the_void`
-- `#byg:is_void`
-
-### `is_volcanic`
-
-**Includes:**
-
-- `terralith:mantle_caves`
-- `terralith:volcanic_crater`
-- `terralith:volcanic_peaks`
-- `regions_unexplored:scorching_caves`
-- `terrestria:volcanic_island`
-- `regions_unexplored:ashen_woodland`
-- `regions_unexplored:scorching_caves`
-
-### `is_winter`
-
-**Includes:**
-
-- `#cobblemon:is_freezing`
-- `terralith:skylands_winter`
-
-### `is_abyss`
-
-**Includes:**
-
-- `minecraft:deep_dark`
-- `terralith:crystal_caves`
-- `terralith:deep_caves`
-- `terralith:frostfire_caves`
-- `terralith:mantle_caves`
-- `terralith:tuff_caves`
+| Tag | Contenu principal / Biomes inclus |
+| --- | --- |
+| **`is_autumn`** | `autumnal_grove`, `autumnal_maple_forest`, `golden_boreal_taiga`, `maple_forest`, `orchard`, `skylands_autumn`, `autumnal_woods`, `carnelian_treeway`, `#cobblemon:(is_arid, is_cold_ocean, is_mountain, is_mushroom, is_taiga)` |
+| **`is_bamboo`** | `bamboo_jungle`, `bamboo_blossom_forest`, `bamboo_forest`, `bamboo_rainforest` |
+| **`is_cold`** | `cold_river`, `#cobblemon:(is_freezing, is_frigid, is_peak, is_taiga, is_tundra, is_cold_ocean)`, `#byg:is_cold`, `#c:climate_cold`, `#forge:is_cold/overworld` |
+| **`is_crystal`** | `crystal_canyons`, `crystal_crags` |
+| **`is_deep`** | `#minecraft:is_deep_ocean` |
+| **`is_dense`** | `dark_forest`, `mangrove_swamp`, `#cobblemon:is_jungle`, `#c:vegetation_dense`, `#forge:is_dense(_overworld)` |
+| **`is_freshwater`** | `#cobblemon:(is_river, is_swamp)` |
+| **`is_frigid`** | `cold_ocean`, `deep_cold_ocean`, `#cobblemon:is_frozen` |
+| **`is_haunted`** | *(Aucun biome spécifié)* |
+| **`is_hills`** | `blooming_valley`, `forested_highlands`, `lavender_valley`, `lush_valley`, `moonlight_valley`, `sakura_valley`, `savanna_slopes`, `temperate_highlands`, `yosemite_lowlands`, `mauve_hills`, `poppy_fields`, `#minecraft:is_hill`, `#cobblemon:is_highlands`, `#c:mountain_slope`, `#forge:is_slope` |
+| **`is_infested`** | `#byg:is_spooky` |
+| **`is_island`** | `mushroom_fields`, `lush_stacks`, `alpha_islands(_winter)`, `mirage_isles`, `warped_mesa`, `volcanic_island`, `#cobblemon:is_tropical_island` |
+| **`is_kelp`** | `kelp_forest` |
+| **`is_lukewarm`** | `deep_lukewarm_ocean`, `lukewarm_ocean` |
+| **`is_lush`** | `lush_caves`, `lush_stacks`, `underground_jungle`, `blooming_caverns`, `ancient_delta`, `#forge:is_lush` |
+| **`is_nether_basalt`** | `basalt_deltas`, `blackstone_shales`, `ash_barrens`, `volcanic_deltas`, `withered_forest`, `blazing_dunes` |
+| **`is_nether_crimson`** | `crimson_forest`, `crimson_glowing_woods`, `crimson_pinewood`, `nether_swampland(_terraces)`, `crimson_gardens`, `whistling_woods` |
+| **`is_nether_fungus`** | `crimson_forest`, `warped_forest`, `crimson_glowing_woods`, `crimson_pinewood`, `mushroom_forest(_edge)`, `nether_jungle`, `old_fungiwoods`, `old_warped_woods`, `crimson_gardens`, `embur_bog`, `glowstone_garden`, `wailing_garth`, `luminous_grove`, `whistling_woods`, `soulblight_forest`, `inverted_forest` |
+| **`is_nether_overgrowth`** | `bone_reef`, `nether_grasslands`, `soul_plain`, `sulfuric_bone_reef`, `sythian_torrids` |
+| **`is_nether_quartz`** | `quartz_desert`, `quartz_cavern`, `quartz_flats` |
+| **`is_nether_soul_fire`** | `soul_sand_valley`, `subzero_hypogeal`, `warped_desert`, `quartz_flats`, `weeping_valley` |
+| **`is_nether_soul_sand`** | `soul_sand_valley`, `soul_plain`, `wart_forest(_edge)`, `wailing_garth`, `warped_desert`, `ashy_shoals`, `blackstone_shales`, `soulblight_forest`, `weeping_valley` |
+| **`is_nether_toxic`** | `brimstone_caverns`, `wailing_garth`, `toxic_heap`, `mycotoxic_undergrowth`, `nether_jungle` |
+| **`is_nether_warped`** | `warped_forest`, `nether_jungle`, `old_warped_woods`, `wailing_garth`, `warped_desert` |
+| **`is_nether_wasteland`** | `nether_wastes`, `magma_land`, `poor_nether_grasslands`, `brimstone_caverns`, `magma_wastes`, `ashy_shoals`, `quartz_cavern`, `ash_barrens`, `toxic_heap`, `infernal_holt` |
+| **`is_overworld`** | `#minecraft:is_overworld`, `#c:is_overworld`, `#cobblemon:(is_arid, is_cave, is_coast, is_deep_dark, is_floral, is_forest, is_freshwater, is_grassland, is_highlands, is_island, is_jungle, is_magical, is_mountain, is_mushroom, is_ocean, is_sky, is_spooky, is_temperate, is_thermal, is_volcanic)` |
+| **`is_plateau`** | `savanna_plateau`, `barley_fields`, `prairie`, `steppe`, `#byg:is_plateau`, `#forge:is_plateau` |
+| **`is_reef`** | `warm_ocean`, `lush_stacks` |
+| **`is_salt`** | `pink_salt_caves`, `chalk_cliffs` |
+| **`is_sandy`** | `#cobblemon:(is_badlands, is_desert)`, `#byg:is_sandy` |
+| **`is_shrubland`** | `shrubland`, `dry_bushland` |
+| **`is_sparse`** | `sparse_rainforest`, `sparse_redwoods`, `#cobblemon:(is_arid, is_grassland, is_tundra)`, `#c:vegetation_sparse`, `#forge:is_sparse(_overworld)` |
+| **`is_spooky`** | `dark_forest`, `dead_coral_reef`, `eroded_haunted_forest`, `haunted_forest`, `ashen_woodland`, `blackwood_taiga`, `redwoods`, `willow_forest`, `ebony_woods`, `dark_amaranth_forest`, `tall_dark_amaranth_forest`, `pumpkin_fields`, `#byg:is_spooky`, `#forge:is_spooky` |
+| **`is_spring`** | `skylands_spring`, `floral_meadow`, `#cobblemon:(is_floral, is_lukewarm, is_magical, is_plains)` |
+| **`is_summer`** | `skylands_summer`, `ice_marsh`, `lush_swamp`, `mangroves`, `prismarine_forest`, `#cobblemon:(is_forest, is_jungle, is_lush, is_reef, is_warm_ocean, is_swamp)`, `#byg:is_swamp`, `#c:swamp`, `#forge:is_swamp` |
+| **`is_swamp`** | `mangrove_swamp`, `swamp`, `ice_marsh`, `orchid_swamp`, `bayou`, `fen`, `marsh`, `muddy_river`, `old_growth_bayou`, `#byg:is_swamp` |
+| **`is_taiga`** | `grove`, `alpine_grove`, `haze_mountain`, `ice_marsh`, `moonlight_grove`, `moonlight_valley`, `shield_clearing`, `siberian_grove`, `siberian_taiga`, `snowy_maple_forest`, `snowy_shield`, `wintry_lowlands`, `coniferous_forest`, `blackwood_taiga`, `boreal_taiga`, `golden_boreal_taiga`, `pine_taiga`, `#minecraft:is_taiga`, `#c:tree_coniferous`, `#forge:is_coniferous` |
+| **`is_temperate`** | `#cobblemon:(is_forest, is_plains)` |
+| **`is_thermal`** | `caldera`, `thermal_caves`, `yellowstone`, `scorching_caves`, `tropical_river` |
+| **`is_tropical`** | `tropics`, `tropical_river`, `volcanic_island` |
+| **`is_tropical_island`** | `volcanic_island`, `tropics`, `rocky_reef` |
+| **`is_tundra`** | `ice_spikes`, `snowy_plains`, `cardinal_tundra`, `cold_shrubland`, `gravel_desert`, `rocky_shrubland`, `snowy_badlands`, `yellowstone`, `frozen_tundra`, `#c:snowy_plains` |
+| **`is_void`** | `the_void`, `#byg:is_void` |
+| **`is_volcanic`** | `mantle_caves`, `volcanic_crater`, `volcanic_peaks`, `scorching_caves`, `volcanic_island`, `ashen_woodland` |
+| **`is_winter`** | `skylands_winter`, `#cobblemon:is_freezing` |
+| **`is_abyss`** | `deep_dark`, `crystal_caves`, `deep_caves`, `frostfire_caves`, `mantle_caves`, `tuff_caves` |
