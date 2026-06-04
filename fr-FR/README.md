@@ -84,9 +84,7 @@ Vous pouvez contribuer en :
 - 🌍 Proposant des corrections ou des traductions
 
 {% hint style="info" %}
-<p align="center">
 👉🏼 Commencez ici pour : <a href="contributing.md">Contribuer</a>
-</p>
 {% endhint %}
 
 ---
