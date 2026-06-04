@@ -30,7 +30,11 @@ Par défaut, la majorité des rôles étaient attribués à **Pikachu**, avec qu
 - **Apitrini** pour le miel
 - **Leveinard** pour les soins
 
+{% hint style="info" %}
+<p align="center">
 Cobblemon Realms utilise une configuration personnalisée afin d'attribuer des rôles plus cohérents avec le **type**, les **capacités** ou le **lore** des Pokémon. Cette approche permet à davantage d'espèces d'avoir une utilité unique au sein de votre base.
+</p>
+{% endhint %}
 
 ---
 
