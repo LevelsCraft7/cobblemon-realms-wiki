@@ -75,7 +75,7 @@ Si vous découvrez le modpack, nous vous conseillons de suivre cet ordre :
 
 ## 🤝 Communauté & Contributions
 
-Cette documentation est collaborative et continuera d’évoluer avec le temps.
+📌 Cette documentation est collaborative et continuera d’évoluer avec le temps.
 
 Vous pouvez contribuer en :
 
