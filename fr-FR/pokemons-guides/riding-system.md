@@ -26,6 +26,7 @@ Chaque Pokémon montable possède un ou plusieurs **styles de monture** qui déf
 
 {% hint style="info" %}
 ## 💡
+
 Un même Pokémon peut disposer de plusieurs styles.
 {% endhint %}
 
