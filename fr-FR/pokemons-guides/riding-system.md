@@ -1,8 +1,8 @@
 # 🐎 Nouveau système de montures (v1.7)
 
-{% hint style="warning" %}
+{% hint style="info" %}
 <p align="center">
-Depuis la version **1.7**, Cobblemon Realms utilise désormais le système officiel de montures de Cobblemon.
+Depuis la version <strong>1.7</strong>, Cobblemon Realms utilise désormais le système de montures officiel.
 </p>
 {% endhint %}
 
