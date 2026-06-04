@@ -452,7 +452,7 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 ---
 
 {% hint style="warning" %}
-## ⚠️ Préavis :
+## Préavis :
  
 Certains Pokémon, styles de monture et statistiques peuvent être ajoutés, modifiés ou supprimés au fil des mises à jour du mod. Nous ne sommes donc pas responsables de ce que prévoit Cobblemon.
 {% endhint %}
