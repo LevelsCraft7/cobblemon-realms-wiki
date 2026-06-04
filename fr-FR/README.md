@@ -5,11 +5,9 @@
 [🌐 Retour vers le sélecteur de langue](https://app.gitbook.com/s/MoNV72ip5YoBD0RvKQwp/)
 
 {% hint style="info" %}
-
 <p align="center">
 <b>Cobblemon Realms</b> est un modpack axé sur la <b>progression</b>, l'<b>exploration</b>, la <b>collection de Pokémon</b>, les <b>systèmes personnalisés</b> et l’aventure sur le long terme.
 </p>
-
 {% endhint %}
 
 Ce wiki a été conçu pour vous aider à :
