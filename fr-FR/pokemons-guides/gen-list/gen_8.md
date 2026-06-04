@@ -2,7 +2,7 @@
 
 ### 📜 **Liste des invocations de la Première Génération**
 
-| 👑 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🌍 Biomes |
+| 👑 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🧭 Localisation |
 |:----------:|:----------:|:----------:|:----------:|
 | ![](https://play.pokemonshowdown.com/sprites/ani/zacian.gif)<br>**Zacian** | Rusted Sword | Aucune | Flower Forest, Meadow |
 | ![](https://play.pokemonshowdown.com/sprites/ani/zamazenta.gif)<br>**Zamazenta** | Rusted Shield | Aucune | Taiga, Windswept Forest |
