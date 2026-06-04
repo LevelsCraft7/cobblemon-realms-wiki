@@ -2,7 +2,7 @@
 
 ### 📜 **Liste des invocations de la Première Génération**
 
-| 🌿 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🌍 Biomes |
+| 🏙️ Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🌍 Biomes |
 |:----------:|:----------:|:----------:|:----------:|
 | ![](https://play.pokemonshowdown.com/sprites/ani/victini.gif)<br>**Victini** | Liberty Pass | Aucune | Badlands, Eroded Badlands, Savanna |
 | ![](https://play.pokemonshowdown.com/sprites/ani/cobalion.gif)<br>**Cobalion** | Ironwill Sword | Aucune | Blooming Valley, Forested Highlands, Lavender Valley, Lush Valley, Moonlight Valley, Sakura Valley, Savanna Slopes |
