@@ -2,141 +2,105 @@
 
 ## 📖 Questions fréquentes
 
-Retrouvez les réponses aux questions les plus courantes sur l'installation, les performances, les serveurs et la progression.
+Retrouvez ici les réponses aux questions les plus fréquentes concernant l'installation, les performances, les serveurs et la progression.
 
 ---
 
 ## 🚫 Mon jeu plante au lancement du modpack
 
-Vérifiez les points suivants :
+La majorité des crashs sont liés à une mauvaise version de Java ou à un manque de mémoire allouée.
 
-- ☕ Utiliser **Java 21 ou supérieur**
-- 💾 Allouer au moins **8 Go de RAM**
-- 🖥️ Fermer les applications gourmandes
-- ⚙️ Utiliser les flags JVM recommandés en solo
+Vérifiez que vous utilisez **Java 21** et que **8 Go de RAM** sont alloués au jeu.
 
-📘 [Guide d'optimisation solo](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/settings/optimize-solo-performance.md)
+📘 [Guide d'installation](installation.md)
 
 ---
 
 ## 🐾 Je ne trouve aucun Pokémon
 
-Si aucun Pokémon n'apparaît autour de vous, vérifiez les conditions d'apparition de votre zone.
+Les apparitions dépendent du biome, de l'heure, de la météo et de votre position.
 
-| 🌿 Facteur | 📋 Exemple |
-|---|---|
-| Biome | Forêt, désert, océan… |
-| Heure | Jour / nuit |
-| Météo | Pluie, orage… |
-| Zone | Grottes, altitude… |
-
-### 🔎 Commande utile
+Utilisez la commande :
 
 `/checkspawns`
 
-➡️ Affiche les Pokémon pouvant apparaître autour de vous.
+pour afficher les Pokémon pouvant apparaître autour de vous.
 
-📘 [Guide des apparitions](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/pokemon-and-spawns.md)
+📘 [Guide des apparitions](pokemon-and-spawns.md)
 
 ---
 
 ## 🧩 Puis-je ajouter d'autres mods ?
 
-> ⚠️ Oui, mais cela n'est pas recommandé.
+Oui, mais cela n'est pas recommandé.
 
-Les problèmes les plus fréquents sont :
+Des mods supplémentaires peuvent provoquer des conflits, des crashs ou modifier l'équilibrage du modpack.
 
-- Déséquilibre du gameplay
-- Conflits entre mods
-- Bugs ou crashs
-- Baisse des performances
-
-> 🧪 Testez toujours les mods supplémentaires individuellement.
+⚠️ Tout problème rencontré avec un mod ajouté manuellement ne pourra pas être pris en charge.
 
 ---
 
-## 👥 Puis-je commencer en solo puis passer en serveur ?
+## 👥 Puis-je commencer en solo puis passer sur un serveur ?
 
-✅ Oui. Votre monde solo peut être transféré vers un serveur à tout moment.
+✅ Oui.
 
-💡 Pour simplifier l'installation, nous recommandons l'utilisation du **server pack CurseForge**.
+Votre monde solo peut être transféré vers un serveur à tout moment sans recommencer votre progression.
+
+📘 [Guide d'installation](installation.md)
 
 ---
 
 ## 🖥️ Puis-je utiliser Aternos, Minehut ou un hébergeur gratuit ?
 
-Ce type d'hébergement est rarement adapté à un modpack aussi lourd.
+Techniquement oui, mais les performances sont souvent insuffisantes pour faire fonctionner correctement le modpack.
 
-### ✅ Hébergement recommandé
-
-- 💾 RAM suffisante
-- ☕ Support Java 21
-- 📂 Accès FTP
-- ⚙️ Gestion correcte des mods
+Nous recommandons un hébergeur disposant d'au moins **8 Go de RAM**, du support **Java 21** et d'un accès FTP.
 
 ---
 
-## ⚙️ Le modpack demande-t-il une configuration particulière ?
+## ⚙️ Quelle configuration est recommandée ?
 
-### ✅ Configuration recommandée
+Pour profiter pleinement du modpack, nous recommandons :
 
-| ⚙️ Élément | 📋 Recommandation |
-|---|---|
-| Java | Version 21+ |
-| RAM | 8 Go minimum |
-| GPU | Carte graphique dédiée recommandée |
-| Shaders | Optionnels mais gourmands |
+- ☕ Java 21 ou supérieur
+- 💾 8 Go de RAM alloués
+- 🎮 Des pilotes graphiques à jour
+- 🚀 Une installation sur SSD
 
-📘 [Guide d'installation](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/installation.md)
+📘 [Guide d'installation](installation.md)
 
 ---
 
-## 🌍 Puis-je aider à traduire ou améliorer le wiki ?
+## 🌍 Puis-je aider à améliorer le wiki ?
 
-**Oui, les contributions sont les bienvenues.**
+Oui, les contributions sont les bienvenues.
 
-Vous pouvez notamment :
+Vous pouvez corriger des erreurs, améliorer des guides, proposer des traductions ou ajouter du contenu.
 
-- ✏️ Corriger des erreurs
-- 📖 Améliorer les textes
-- 🌐 Traduire des pages
-- ➕ Ajouter du contenu
-
-Le wiki est maintenu sur **GitHub** et **GitBook**.
+📘 [Guide de contribution](contributing.md)
 
 ---
 
-## ✨ Existe-t-il des formes ou évolutions exclusives ?
+## ✨ Existe-t-il des contenus exclusifs ?
 
-✅ Oui. Le modpack ajoute plusieurs contenus exclusifs :
+Oui.
 
-- Formes spéciales
-- Mécaniques exclusives
-- Évolutions uniques
+Cobblemon Realms ajoute plusieurs contenus exclusifs, notamment des formes spéciales, des mécaniques inédites et des évolutions uniques.
 
-📘 [Voir les formes exclusives](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/pokemons-exclusives/mewtwo-exclusive-forms.md)
+📘 [Voir les contenus exclusifs](pokemons-exclusives/mewtwo-exclusive-forms.md)
 
 ---
 
 ## 🏆 Où trouver les informations sur les dresseurs et les level caps ?
 
-Le guide dédié couvre :
+Toutes les informations concernant la progression, les arènes, les champions et les level caps sont regroupées dans un guide dédié.
 
-- 📈 La progression principale
-- 🧢 Les level caps
-- 🏟️ Les arènes
-- 👑 Les champions
-
-📘 [Guide des dresseurs](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/pokemons-guides/levelcap-and-trainers.md)
+📘 [Guide des dresseurs et level caps](pokemons-guides/levelcap-and-trainers.md)
 
 ---
 
-## 💬 Encore des questions ?
+## 💬 Je n'ai pas trouvé ma réponse
 
-Rejoignez le serveur Discord pour :
-
-- 🆘 Obtenir de l'aide
-- 🐛 Signaler un problème
-- 💬 Discuter avec la communauté
+Si votre problème n'est pas abordé dans cette FAQ ou dans les guides du wiki, rejoignez notre serveur Discord.
 
 🔗 [Rejoindre le Discord](https://discord.gg/kb8NSTF45n)
