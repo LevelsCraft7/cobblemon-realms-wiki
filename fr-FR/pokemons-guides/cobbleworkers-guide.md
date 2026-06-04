@@ -28,7 +28,7 @@ Cette page détaille les différents métiers disponibles ainsi que les Pokémon
 Par défaut, la majorité des rôles étaient attribués à **Pikachu**, avec quelques exceptions comme :
 
 - **Apitrini** pour le miel
-- **Leveinard** pour les soins
+- **Leveinard** pour les soins...
 
 {% hint style="info" %}
 <p align="center">
