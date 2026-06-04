@@ -72,9 +72,12 @@ Cobblemon Realms utilise une configuration personnalisée afin d'attribuer des r
 
 ---
 
-## 💡 Conseils
+## ☝🏼 Conseils
 
 {% hint style="success" %}
+
+✅ Conseils pratique :
+
 - Configurez les Workers via `cobbleworkers.json`
 - Associez les Pokémon à leur environnement (type → logique de base)
 - Spécialisez les rôles pour gagner en efficacité
