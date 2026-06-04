@@ -2,7 +2,7 @@
 
 ### 📜 **Liste des invocations de la Première Génération**
 
-| 🌿 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🌍 Biomes |
+| ✨ Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🌍 Biomes |
 |:----------:|:----------:|:----------:|:----------:|
 | ![](https://play.pokemonshowdown.com/sprites/ani/xerneas.gif)<br>**Xerneas** | Sapling Of Life | Aucune | Flower Forest, Forest, Meadow |
 | ![](https://play.pokemonshowdown.com/sprites/ani/yveltal.gif)<br>**Yveltal** | Cocoon Of Destruction | Aucune | Dark Forest, Swamp |
