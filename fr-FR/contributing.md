@@ -46,7 +46,7 @@ Vous pouvez notamment :
 
 {% hint style="success" %}
 
-☝🏼 ## Avant de proposer une contribution :
+## ☝🏼 Avant de proposer une contribution :
 
 - ✅ Vérifiez l'exactitude des informations
 - 📚 Conservez une mise en page cohérente
