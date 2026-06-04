@@ -11,13 +11,13 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 - ❄️ [Neige & Glace](#neige-et-glace)
 - ⛰️ [Montagnes & Hautes Terres](#montagnes-et-hautes-terres)
 - ⛏️ [Grottes & Souterrain](#grottes-et-souterrain)
-- 🌊 [Océans, Rivières & Côtes](#océans-rivières-et-côtes)
-- 🌳 [Forêts & Jungles](#forêts-et-jungles)
+- 🌊 [Océans, Rivières & Côtes](#oceans-rivieres-et-cotes)
+- 🌳 [Forêts & Jungles](#forets-et-jungles)
 - 🌾 [Plaines & Prairies](#plaines-et-prairies)
-- 🏜️ [Déserts & Zones Arides](#déserts-et-zones-arides)
+- 🏜️ [Déserts & Zones Arides](#deserts-et-zones-arides)
 - 🌺 [Biomes Floraux & Prairies Fleuries](#biomes-floraux-et-prairies-fleuries)
 - 🍄 [Champignons & Biomes Magiques](#champignons-et-biomes-magiques)
-- 🌀 [Dimensions Spéciales](#dimensions-spéciales)
+- 🌀 [Dimensions Spéciales](#dimensions-speciales)
 - 📦 [Autres Tags](#autres-tags)
 
 ---
