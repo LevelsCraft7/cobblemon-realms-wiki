@@ -3,81 +3,75 @@
 ## 🤖 Présentation
 
 {% hint style="info" %}
-<p align="center">
-CobbleWorkers permet d'assigner certaines tâches à vos Pokémon afin d'automatiser différentes activités au sein de votre base. Chaque rôle dispose de capacités spécifiques et peut contribuer à la production ou à la collecte de ressources.
-</p>
+CobbleWorkers permet d’assigner des tâches à vos Pokémon afin d’automatiser votre base.  
+Chaque Pokémon possède des rôles spécifiques selon son type, son espèce ou ses capacités.
 {% endhint %}
 
-<p align="center">
-Cette page détaille les différents métiers disponibles ainsi que les Pokémon pouvant les exercer.
-</p>
+Cette page présente les rôles disponibles et les Pokémon associés.
 
 ---
 
 ## ⚙️ Fonctionnement
 
-- Placez vos Pokémon dans le monde en tant que **CobbleWorker**
-- Chaque Pokémon dispose d'un ou plusieurs **rôles de travail** selon son type ou son espèce
-- Les workers effectuent automatiquement leurs tâches dans un rayon configurable via `cobbleworkers.json`
-- Certains rôles possèdent un temps de recharge (génération d'eau, de lave, etc.)
+- Placez vos Pokémon en tant que **CobbleWorkers**
+- Chaque Pokémon dispose d’un ou plusieurs rôles selon son profil
+- Les tâches sont exécutées automatiquement dans un rayon défini (`cobbleworkers.json`)
+- Certains rôles incluent des temps de recharge (eau, lave, etc.)
 
 ---
 
-## 🌱 Configuration personnalisée
+## 🧬 Configuration
 
-Par défaut, la majorité des rôles étaient attribués à **Pikachu**, avec quelques exceptions comme **Apitrini** pour le miel ou **Leveinard** pour les soins.
+Par défaut, certains rôles étaient attribués à des Pokémon génériques comme **Pikachu**, **Apitrini** ou **Leveinard**.
 
-Cobblemon Realms utilise une configuration personnalisée afin d'attribuer des rôles plus cohérents avec le **type**, les **capacités** ou le **lore** des Pokémon. Cette approche permet à davantage d'espèces d'avoir une utilité unique au sein de votre base.
+Cobblemon Realms utilise une configuration personnalisée basée sur :
+- le **type**
+- les **capacités**
+- le **lore**
+
+Cela permet de diversifier les Pokémon utiles en base.
 
 ---
 
 ## 🧑‍🌾 Rôles des Workers
 
-### 🌾 Récolte & agriculture
+### 🌱 Agriculture
+- **Apricorns (Insecte)** : Insécateur, Scarhino, Rubombelle  
+- **Baies (Plante)** : Germignon, Tortipouss, Ouistempo  
+- **Cultures (Plante)** : Bulbizarre, Brindibou, Phyllali  
+- **Netherwart (Spectre)** : Fantominus, Skelénox, Mimiqui  
+- **Menthes (Fée)** : Nymphali, Tarsal, Togepi  
 
-- **Récolte d’Apricorns (Insecte)** : Insécateur, Scarhino, Rubombelle
-- **Récolte de baies (Plante)** : Germignon, Tortipouss, Ouistempo
-- **Récolte de cultures (Plante)** : Bulbizarre, Brindibou, Phyllali
-- **Irrigation des cultures (Eau)** : Carapuce, Gobou, Psykokwak
-- **Récolte de Netherwart (Spectre)** : Fantominus, Skelénox, Mimiqui
-- **Récolte de menthes (Fée)** : Nymphali, Tarsal, Togepi
-
-### ⛏️ Minage & ressources
-
-- **Extraction d’améthyste (Roche)** : Racaillou, Onix, Tarinor
-- **Extraction de Tumblestone (Acier)** : Magnéti, Galekid, Terhal
+### ⛏️ Ressources
+- **Améthyste (Roche)** : Racaillou, Onix, Tarinor  
+- **Tumblestone (Acier)** : Magnéti, Galekid, Terhal  
 
 ### 🔥 Générateurs
-
-- **Génération de lave (Feu)** : Salamèche, Limagma, Chartor
-- **Génération d’eau (Eau)** : Axoloto, Kaiminus, Gobou
-- **Génération de poudreuse (Glace)** : Blizzi, Stalgamin, Sorbébé
-- **Génération de carburant (Feu)** : Poussifeu, Funécire, Chamallot
-- **Carburant pour table de brassage (Dragon)** : Minidraco, Coupenotte, Griknot
+- **Lave (Feu)** : Salamèche, Limagma, Chartor  
+- **Eau (Eau)** : Axoloto, Kaiminus, Gobou  
+- **Poudreuse (Glace)** : Blizzi, Stalgamin, Sorbébé  
+- **Carburant (Feu)** : Poussifeu, Funécire, Chamallot  
+- **Brassage (Dragon)** : Minidraco, Coupenotte, Griknot  
 
 ### 📦 Collecte
+- **Miel** : Apitrini, Apireine, Teddiursa, Pikachu  
+- **Pêche (Eau)** : Magicarpe, Barpau, Rémoraid  
+- **Pick Up** : tout Pokémon avec le talent **Pick Up**  
+- **Dive Loot** : tout Pokémon connaissant **Dive**  
+- **Ramassage (Psychique)** : Abra, Tarsal, Mentali  
 
-- **Collecte de miel** : Apitrini, Apireine, Teddiursa, Pikachu
-- **Loot de pêche (Eau)** : Magicarpe, Barpau, Rémoraid
-- **Génération de ramassage (Pick Up)** : Tout Pokémon possédant le talent **Pick Up**
-- **Loot de plongée (Dive)** : Tout Pokémon connaissant **Dive**
-- **Ramassage d’objets au sol (Psychique)** : Abra, Tarsal, Mentali
-
-### 🛠️ Support & utilitaire
-
-- **Soigneurs** : Ptiravi, Leveinard, Leuphorie, Nanméouïe, Pikachu  
-  _Soignent les joueurs proches grâce à des capacités de soin comme Vœu, Soin ou E-Coque._
-
-- **Extincteurs (Eau)** : Carapuce, Tiplouf, Moustillon
+### 🛠️ Support
+- **Soins** : Ptiravi, Leveinard, Leuphorie, Nanméouïe, Pikachu  
+  → Soignent les joueurs proches via des capacités de soin (Vœu, Soin, etc.)
+- **Extinction (Eau)** : Carapuce, Tiplouf, Moustillon  
 
 ---
 
 ## 💡 Conseils
 
 {% hint style="success" %}
-
-- Configurez le comportement des Workers via `cobbleworkers.json`.
-- Assignez des Pokémon selon leur environnement (Plante aux fermes, Feu près des fours, etc.).
-- Spécialisez vos Workers pour optimiser les tâches et la productivité.
-- Utilisez des Pokémon soigneurs dans les zones fréquentées (bases, villages).
+- Configurez les Workers via `cobbleworkers.json`
+- Associez les Pokémon à leur environnement (type → logique de base)
+- Spécialisez les rôles pour gagner en efficacité
+- Placez des soigneurs dans les zones fréquentées
 {% endhint %}
