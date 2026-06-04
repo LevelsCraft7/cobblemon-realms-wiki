@@ -308,16 +308,132 @@ Une connaissance basique du terminal Linux est recommandée.
 
 ---
 
-## 🛠️ Installation manuelle du serveur (Local ou FTP)
+## 🛠️ Installation manuelle du serveur
 
-1. Vous ne voulez pas vous compliquer la vie avec une installation manuelle ou une redirection de ports ?\
-   Utilisez notre **partenaire officiel** : [**BisectHosting**](https://bisecthosting.com/)
-2. Extrayez le fichier ZIP dans un dossier vide.
-3. Lancez :
-   - Double-cliquez sur le fichier `run.bat`
-   - Sur **Mac/Linux** : utilisez le script `run.sh`
-4. Acceptez l’EULA (`eula.txt → true`) puis relancez le fichier.
-5. Ajustez `server.properties` selon vos préférences.
+{% hint style="info" %}
+💡 Vous ne souhaitez pas gérer l'installation manuellement ou configurer une redirection de ports ?
+
+Utilisez notre partenaire officiel : [**BisectHosting**](https://bisecthosting.com/)
+{% endhint %}
+
+{% tabs %}
+{% tab title="Windows" %}
+
+{% stepper %}
+{% step %}
+📦 Téléchargez le Server Pack de Cobblemon Realms
+{% endstep %}
+
+{% step %}
+📂 Extrayez l'archive dans un dossier vide
+{% endstep %}
+
+{% step %}
+🖱️ Double-cliquez sur le fichier `run.bat`
+{% endstep %}
+
+{% step %}
+📜 Ouvrez le fichier `eula.txt` et remplacez :
+
+```txt
+eula=false
+```
+
+par :
+
+```txt
+eula=true
+```
+{% endstep %}
+
+{% step %}
+🚀 Relancez `run.bat` puis configurez `server.properties` selon vos besoins
+{% endstep %}
+{% endstepper %}
+
+{% endtab %}
+
+{% tab title="MacOS" %}
+
+{% stepper %}
+{% step %}
+📦 Téléchargez le Server Pack de Cobblemon Realms
+{% endstep %}
+
+{% step %}
+📂 Extrayez l'archive dans un dossier vide
+{% endstep %}
+
+{% step %}
+🖥️ Ouvrez un terminal dans le dossier du serveur puis exécutez :
+
+```bash
+./run.sh
+```
+{% endstep %}
+
+{% step %}
+📜 Ouvrez le fichier `eula.txt` et remplacez :
+
+```txt
+eula=false
+```
+
+par :
+
+```txt
+eula=true
+```
+{% endstep %}
+
+{% step %}
+🚀 Relancez `run.sh` puis configurez `server.properties` selon vos besoins
+{% endstep %}
+{% endstepper %}
+
+{% endtab %}
+
+{% tab title="Linux" %}
+
+{% stepper %}
+{% step %}
+📦 Téléchargez le Server Pack de Cobblemon Realms
+{% endstep %}
+
+{% step %}
+📂 Extrayez l'archive dans un dossier vide
+{% endstep %}
+
+{% step %}
+🖥️ Rendez le script exécutable puis lancez-le :
+
+```bash
+chmod +x run.sh
+./run.sh
+```
+{% endstep %}
+
+{% step %}
+📜 Ouvrez le fichier `eula.txt` et remplacez :
+
+```txt
+eula=false
+```
+
+par :
+
+```txt
+eula=true
+```
+{% endstep %}
+
+{% step %}
+🚀 Relancez `run.sh` puis configurez `server.properties` selon vos besoins
+{% endstep %}
+{% endstepper %}
+
+{% endtab %}
+{% endtabs %}
 
 ---
 
