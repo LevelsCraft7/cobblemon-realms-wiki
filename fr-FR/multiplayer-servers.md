@@ -1,62 +1,86 @@
 # 🌐 Serveurs Multijoueur
 
-## 🚀 Créer ou rejoindre un serveur
+## 🚀 Jouer avec d'autres dresseurs
 
-Envie de jouer à Cobblemon Realms avec des amis ou une communauté ? Voici les différentes options pour rejoindre ou héberger un serveur.
-
----
-
-## 🧑‍🤝‍🧑 Rejoindre un serveur existant
-
-Vous pouvez trouver des serveurs mis en avant ou partenaires directement depuis le menu principal du modpack.
+{% hint style="success" %}
+<p align="center">
+Cobblemon Realms peut être joué aussi bien en solo qu'en multijoueur. Que vous souhaitiez rejoindre une communauté existante ou créer votre propre aventure entre amis, plusieurs solutions s'offrent à vous.
+</p>
+{% endhint %}
 
 ---
 
-## 🌐 Héberger votre propre serveur
+## 🧑‍🤝‍🧑 Rejoindre un serveur
 
-Vous souhaitez disposer d’un contrôle total sur votre monde ? Héberger votre propre serveur est une excellente option pour jouer entre amis ou créer une communauté.
+Vous pouvez rejoindre n'importe quel serveur compatible avec la version actuelle de Cobblemon Realms.
 
-👉 Suivez le [Guide d’installation](installation.md) pour obtenir des instructions détaillées.
+Avant de vous connecter, assurez-vous que :
 
----
+- 📦 Vous utilisez la dernière version du modpack
+- ☕ Java 21 est correctement installé
+- 🔄 Votre client correspond à la version du serveur
 
-## ✅ Configuration requise
-
-Avant de lancer votre serveur, assurez-vous de respecter les prérequis suivants :
-
-- ☕ Utiliser **Java 21**
-- 💾 Allouer **au moins 8 Go de RAM**
-- 🌐 Ouvrir ou rediriger le **port 25565** si le serveur est accessible depuis Internet
-- ⚙️ Configurer votre fichier `server.properties` selon vos besoins
+{% hint style="info" %}
+💡 Certains serveurs peuvent utiliser des règles, des mods additionnels ou des systèmes personnalisés différents de ceux présents dans le modpack de base.
+{% endhint %}
 
 ---
 
-## 🚀 Hébergement avec BisectHosting
+## 🌐 Créer votre propre serveur
 
-**[BisectHosting](https://bisecthosting.com/CobblemonRealms)** est notre partenaire officiel et propose une installation simplifiée de Cobblemon Realms.
+Créer votre propre serveur vous permet de jouer avec vos amis, de personnaliser votre expérience et de gérer votre propre communauté.
+
+### ✅ Configuration recommandée
+
+| ⚙️ Ressource | 📋 Recommandation |
+| --- | --- |
+| ☕ Java | Version 21 |
+| 💾 RAM | 8 Go minimum |
+| 🌐 Réseau | Connexion stable |
+| 💽 Stockage | SSD recommandé |
+| 🔓 Port | 25565 (si accessible depuis Internet) |
+
+📘 Consultez le [Guide d'installation](installation.md) pour installer ou mettre à jour un serveur.
+
+---
+
+## ☁️ Hébergement recommandé
+
+Pour éviter les contraintes liées à l'hébergement local (ouverture des ports, maintenance, sauvegardes et disponibilité), nous recommandons l'utilisation d'un hébergeur spécialisé.
+
+### 🚀 BisectHosting
+
+**BisectHosting** est le partenaire officiel de Cobblemon Realms.
 
 ### ✨ Avantages
 
-- Installation du modpack en un clic
-- Serveurs mondiaux à faible latence
-- Support intégré
-- Mises à jour simplifiées du modpack
+- ⚡ Installation du modpack en un clic
+- 🌍 Centres de données dans le monde entier
+- 🛡️ Protection DDoS intégrée
+- 💾 Sauvegardes simplifiées
+- 🔄 Gestion facile des mises à jour
+- 📂 Accès complet aux fichiers du serveur
 
-### 🎁 Offre partenaire
+{% hint style="success" %}
+🎁 Utilisez le code `OURSTORY` lors de votre commande pour bénéficier de **25 % de réduction sur votre premier mois d'hébergement**.
+{% endhint %}
 
-Utilisez le code promo :
-
-`OURSTORY`
-
-pour bénéficier de **25 % de réduction sur votre premier mois**.
+🔗 https://bisecthosting.com/CobblemonRealms
 
 ---
 
 ## 🔐 Bonnes pratiques
 
-Pour une expérience optimale :
+{% hint style="success" %}
+Pour garantir la stabilité de votre serveur :
 
-- ✅ Utilisez une **liste blanche (whitelist)** pour contrôler les accès
-- 🧱 Pré-générez votre monde avec des outils comme [Chunky](mods-guides/chunky.md) afin d'améliorer les performances
-- 🕓 Planifiez des **sauvegardes automatiques** pour éviter toute perte de données
-- 🛑 Ajustez les règles du serveur, notamment le **grief des mobs**, selon votre style de jeu
+- 💾 Effectuez régulièrement des sauvegardes
+- 🔄 Gardez le serveur à jour
+- 🧱 Pré-générez votre monde avec [Chunky](mods-guides/chunky.md)
+- ✅ Utilisez une whitelist pour contrôler les accès
+- 📋 Vérifiez les logs en cas d'erreur ou de crash
+{% endhint %}
+
+{% hint style="warning" %}
+⚠️ Avant chaque mise à jour importante, réalisez une sauvegarde complète de votre monde et de vos fichiers de configuration.
+{% endhint %}
