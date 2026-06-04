@@ -42,10 +42,11 @@ Vous pouvez notamment :
 
 ---
 
-{% hint style="success" %}
 ### 💡 Bonnes pratiques
 
-Avant de proposer une contribution :
+{% hint style="success" %}
+
+☝🏼 Avant de proposer une contribution :
 
 - ✅ Vérifiez l'exactitude des informations
 - 📚 Conservez une mise en page cohérente
