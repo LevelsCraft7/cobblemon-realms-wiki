@@ -169,3 +169,30 @@ Une grande partie des problèmes rencontrés provient d'un client ou d'un serveu
 # 🎉 Bon jeu !
 
 Partez à l'aventure, capturez des Pokémon, construisez votre équipe et explorez le monde de **Cobblemon Realms** !
+
+
+{% tabs %}
+{% tab title="Windows" %}
+
+1. Blablabla
+2. Blablabla
+3. Blablabla
+
+{% endtab %}
+
+{% tab title="MacOS" %}
+
+1. Blablabla
+2. Blablabla
+3. Blablabla
+
+{% endtab %}
+
+{% tab title="Linux" %}
+
+1. Blablabla
+2. Blablabla
+3. Blablabla
+
+{% endtab %}
+{% endtabs %}
