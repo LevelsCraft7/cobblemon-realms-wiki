@@ -2,6 +2,10 @@
 
 ### 📜 **Liste des invocations de la Première Génération**
 
+<p align="center">
+Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie ou d'apporter la destruction. Ces légendes sont liées à l'équilibre fragile du monde.
+</p>
+
 | ✨ Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🧭 Localisation |
 |:----------:|:----------:|:----------:|:----------:|
 | ![](https://play.pokemonshowdown.com/sprites/ani/xerneas.gif)<br>**Xerneas** | Sapling Of Life | Aucune | Flower Forest, Forest, Meadow |
