@@ -2,7 +2,7 @@
 
 ### 📜 **Liste des invocations de la Première Génération**
 
-| Pokémon | Objet requis | Conditions | Biomes |
+| 🎓 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🧭 Localisation |
 |:----------:|:----------:|:----------:|:----------:|
 | ![](https://play.pokemonshowdown.com/sprites/home/koraidon.png)<br>**Koraidon** | Scarlet Book | Aucune | Badlands, Eroded Badlands, Savanna, Savanna Plateau |
 | ![](https://play.pokemonshowdown.com/sprites/home/miraidon.png)<br>**Miraidon** | Violet Book | Aucune | Deep Dark, Windswept Gravelly Hills |
