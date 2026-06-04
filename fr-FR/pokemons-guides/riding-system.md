@@ -25,9 +25,7 @@ L'add-on **Cobblemon: Ride On!** a été retiré du modpack et remplacé par le 
 Chaque Pokémon montable possède un ou plusieurs **styles de monture** qui définissent sa manière de se déplacer.
 
 {% hint style="info" %}
-## 💡
-
-Un même Pokémon peut disposer de plusieurs styles.
+💡 Un même Pokémon peut disposer de plusieurs styles.
 {% endhint %}
 
 **Exemple :**
