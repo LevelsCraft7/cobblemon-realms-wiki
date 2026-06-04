@@ -25,14 +25,10 @@ Cette page détaille les différents métiers disponibles ainsi que les Pokémon
 
 ## 🧬 Configuration
 
-Par défaut, certains rôles étaient attribués à des Pokémon génériques comme **Pikachu**, **Apitrini** ou **Leveinard**.
+À l’origine, certains rôles reposaient sur des Pokémon assez génériques comme **Pikachu**, **Apitrini** ou **Leveinard**.
 
-Cobblemon Realms utilise une configuration personnalisée basée sur :
-- le **type**
-- les **capacités**
-- le **lore**
-
-Cela permet de diversifier les Pokémon utiles en base.
+Dans Cobblemon Realms, cette logique a été repensée.  
+Les rôles sont maintenant attribués selon le **type**, les **capacités** et le **lore des Pokémon**, pour proposer une utilisation plus cohérente et plus immersive en base.
 
 ---
 
