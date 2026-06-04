@@ -212,8 +212,8 @@ Lorsqu’une nouvelle version de Cobblemon Realms est publiée, suivez ces étap
 
 ### 🧭 Sur CurseForge
 
-1. Ouvrez l’**Application CurseForge** et allez dans `Mes modpacks**.
-2. Survolez _Cobblemon Realms_ et cliquez sur la **flèche** à côté de `Jouer`.
+1. Ouvrez l’**Application CurseForge** et allez dans **`Mes modpacks`**.
+2. Survolez _Cobblemon Realms_ et cliquez sur la **flèche** à côté de **`Jouer`**.
 3. Si une mise à jour est disponible, vous verrez **`Mise à jour disponible`**.
 4. Sélectionnez la **`dernière version`** puis cliquez sur **`Continuer`**.
 5. Attendez la fin de l’installation puis cliquez sur **`Jouer`**.
