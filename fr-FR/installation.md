@@ -458,7 +458,7 @@ Vous pouvez ainsi vous concentrer sur votre aventure plutôt que sur l'administr
 {% hint style="info" %}
 ### 🎉 Réduction partenaire
 
-:gift: En utilisant le code `OurStory` lors de votre commande, vous bénéficiez de **25 % de réduction sur votre premier mois d'hébergement**, de quoi lancer votre serveur [Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms) à moindre coût et de soutenir notre projet !
+:gift: En utilisant le code `OurStory` lors de votre commande, vous bénéficiez de **25 % de réduction sur votre premier mois d'hébergement**. Une excellente façon de lancer votre serveur [Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms) à moindre coût tout en soutenant le développement du projet.
 {% endhint %}
 
 ---
