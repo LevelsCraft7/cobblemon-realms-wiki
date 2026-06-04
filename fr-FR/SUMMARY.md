@@ -33,7 +33,7 @@
    - [🌊 Génération 3 - Hoenn](pokemons-guides/gen-list/gen_3.md)
    - [❄️ Génération 4 - Sinnoh](pokemons-guides/gen-list/gen_4.md)
    - [🏙️ Génération 5 - Unys](pokemons-guides/gen-list/gen_5.md)
-   - [✨ Génération 6 - Kalos](pokemons-guides/gen-list/genn_6.md)
+   - [✨ Génération 6 - Kalos](pokemons-guides/gen-list/gen_6.md)
    - [🏝️ Génération 7 - Alola](pokemons-guides/gen-list/gen_7.md)
    - [👑 Génération 8 - Galar/Hisui](pokemons-guides/gen-list/gen_8.md)
    - [🎓 Génération 9 - Paldea/Kitakami](pokemons-guides/gen-list/gen_9.md)
