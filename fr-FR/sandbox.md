@@ -200,6 +200,10 @@ Le launcher gère automatiquement les dépendances, les configurations et les mi
 {% endtab %}
 {% endtabs %}
 
+{% hint style="success" %}
+💡 Les textes affichés en bleu sont cliquables et vous redirigeront automatiquement vers la page ou le téléchargement correspondant à votre système.
+{% endhint %}
+
 ---
 
 ## 🔄 Mettre à jour le modpack
