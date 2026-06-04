@@ -73,7 +73,7 @@ Si vous découvrez le modpack, nous vous conseillons de suivre cet ordre :
 
 ---
 
-### 🤝 Communauté & Contributions
+## 🤝 Communauté & Contributions
 
 Cette documentation est collaborative et continuera d’évoluer avec le temps.
 
@@ -85,12 +85,13 @@ Vous pouvez contribuer en :
 - 🌍 Proposant des corrections ou des traductions
 
 {% hint style="info" %}
-👉 Commencez ici : [Contribuer](contributing.md)
-
+<p align="center">
+👉🏼 Commencez ici pour : [Contribuer](contributing.md)
+</p>
 {% endhint %}
 
 ---
 
-### ✨ Bon voyage sur Cobblemon Realms
+## ✨ Bon voyage sur Cobblemon Realms
 
 Que vous soyez débutant(e) ou dresseur/dresseuse confirmé(e), ce wiki vous donnera une base claire pour profiter pleinement de l’expérience **Cobblemon Realms**.
