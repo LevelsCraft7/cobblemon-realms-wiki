@@ -2,7 +2,11 @@
 
 ## 📈 Suivi de progression
 
+{% hint style="info" %}
+<p align="center">
 Certaines fonctionnalités du modpack suivent vos captures et vos combats contre les Pokémon sauvages. Cette page présente les différents systèmes concernés et leur fonctionnement.
+</p>
+{% endhint %}
 
 ---
 
@@ -36,7 +40,9 @@ La probabilité qu’un Pokémon sauvage apparaisse avec son **talent caché** a
 - Vous êtes le **dernier joueur** à avoir mis K.O. cette espèce.
 - Ou vous avez mis K.O. **au moins 99 Pokémon** de cette espèce.
 
+{% hint style="success" %}
 ➡️ Par défaut : **20 % de chance** (1 sur 5) si une des conditions est remplie.
+{% endhint %}
 
 ---
 
@@ -51,7 +57,9 @@ Les taux d’apparition de Pokémon shiny augmentent selon votre **série de K.O
 | 300+ | 3 / 8196 |
 | 500+ | 4 / 8196 |
 
+{% hint style="success" %}
 ➡️ Garder une longue série de K.O. sur une espèce augmente vos **chances de rencontrer un shiny**.
+{% endhint %}
 
 ---
 
@@ -66,7 +74,9 @@ Le nombre d’**IV parfaits garantis** pour un Pokémon sauvage dépend de votre
 | 20+ | 3 |
 | 30+ | — |
 
-➡️ Plus vous capturez la même espèce à la suite, meilleure sera la qualité des IV des prochaines apparitions.
+{% hint style="success" %}
+💡 Plus vous capturez la même espèce à la suite, meilleure sera la qualité des IV des prochaines apparitions.
+{% endhint %}
 
 ---
 
