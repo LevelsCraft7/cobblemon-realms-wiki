@@ -14,27 +14,49 @@
 
 ### 🖥️ Jouer en solo
 
+{% tabs %}
+{% tab title="Windows" %}
+
 {% stepper %}
 {% step %}
-📥 Installez l'[Application CurseForge](https://www.curseforge.com/download/app)
+:inbox_tray: Installez l'[Application CurseForge](https://www.curseforge.com/download/app)
 {% endstep %}
 
 {% step %}
-🔎 Recherchez **Cobblemon Realms**
+:mag_right: Recherchez [Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)
 {% endstep %}
 
 {% step %}
-📦 Cliquez sur **Installer**
+:package: Cliquez sur `Installer`
 {% endstep %}
 
 {% step %}
-⏳ Patientez pendant le téléchargement et l'installation des mods
+:hourglass_flowing_sand: Patientez pendant le téléchargement et l'installation des mods
 {% endstep %}
 
 {% step %}
-🚀 Lancez le modpack et commencez votre aventure !
+:rocket: Lancez le modpack et commencez votre aventure !
 {% endstep %}
 {% endstepper %}
+
+{% endtab %}
+
+{% tab title="MacOS" %}
+
+1. Blablabla
+2. Blablabla
+3. Blablabla
+
+{% endtab %}
+
+{% tab title="Linux" %}
+
+1. Blablabla
+2. Blablabla
+3. Blablabla
+
+{% endtab %}
+{% endtabs %}
 
 {% hint style="success" %}
 Pour la meilleure expérience possible, nous recommandons l'utilisation de CurseForge.
