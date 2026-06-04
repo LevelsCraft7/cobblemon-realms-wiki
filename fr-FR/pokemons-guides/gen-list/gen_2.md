@@ -2,6 +2,10 @@
 
 ### 📜 **Liste des invocations de la Première Génération**
 
+<p align="center">
+Les légendes de Johto racontent l'histoire de gardiens sacrés veillant sur l'équilibre du monde. Entre les fauves légendaires et les oiseaux divins, leur héritage traverse les âges.
+</p>
+
 | 🍃 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🧭 Localisation |
 |:----------:|:----------:|:----------:|:----------:|
 | ![](https://play.pokemonshowdown.com/sprites/ani/raikou.gif)<br>**Raikou** | Clear Bell | ⚡ 3 Pierres Foudre | Plains, Savanna, Savanna Plateau |
