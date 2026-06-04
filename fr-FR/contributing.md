@@ -42,7 +42,8 @@ Vous pouvez notamment :
 
 ---
 
-## 📌 Bonnes pratiques
+{% hint style="success" %}
+### 💡 Bonnes pratiques
 
 Avant de proposer une contribution :
 
@@ -50,6 +51,8 @@ Avant de proposer une contribution :
 - 📚 Conservez une mise en page cohérente
 - 💬 Utilisez un langage clair et compréhensible
 - 🔍 Évitez les doublons lorsque cela est possible
+- 💬 Besoin d'aide ? Rejoignez notre serveur [Discord](https://discord.gg/kb8NSTF45n).
+{% endhint %}
 
 ---
 
