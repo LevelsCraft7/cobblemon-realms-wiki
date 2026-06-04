@@ -43,6 +43,8 @@
 
 {% tab title="MacOS" %}
 
+### 🖥️ Jouer en solo
+
 {% stepper %}
 {% step %}
 :inbox_tray: Installez l'[Application CurseForge](https://www.curseforge.com/download/app#download-options)
@@ -72,6 +74,8 @@
 {% endtab %}
 
 {% tab title="Linux" %}
+
+### 🖥️ Jouer en solo
 
 {% stepper %}
 {% step %}
