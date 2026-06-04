@@ -2,8 +2,6 @@
 
 ## 🌍 Bienvenue sur **Cobblemon Realms** ✨
 
-[🌐 Retour vers le sélecteur de langue](https://app.gitbook.com/s/MoNV72ip5YoBD0RvKQwp/)
-
 {% hint style="info" %}
 <p align="center">
 <b>Cobblemon Realms</b> est un modpack axé sur la <b>progression</b>, l'<b>exploration</b>, la <b>collection de Pokémon</b>,
