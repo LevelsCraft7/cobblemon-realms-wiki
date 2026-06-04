@@ -73,9 +73,31 @@
 
 {% tab title="Linux" %}
 
-1. Blablabla
-2. Blablabla
-3. Blablabla
+{% stepper %}
+{% step %}
+:inbox_tray: Installez l'[Application CurseForge](https://www.curseforge.com/download/app)
+{% endstep %}
+
+{% step %}
+:mag_right: Recherchez [Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)
+{% endstep %}
+
+{% step %}
+:package: Cliquez sur `Installer`
+{% endstep %}
+
+{% step %}
+:apple: Si nécessaire, autorisez CurseForge dans les réglages de sécurité de macOS
+{% endstep %}
+
+{% step %}
+:hourglass_flowing_sand: Patientez pendant le téléchargement et l'installation des mods
+{% endstep %}
+
+{% step %}
+:rocket: Lancez le modpack et commencez votre aventure !
+{% endstep %}
+{% endstepper %}
 
 {% endtab %}
 {% endtabs %}
