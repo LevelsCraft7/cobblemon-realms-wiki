@@ -206,7 +206,7 @@ Le launcher gère automatiquement les dépendances, les configurations et les mi
 
 ---
 
-### 🔄 Mettre à jour votre version du jeu (Client)
+## 🔄 Mise à jour du client
 
 Lorsqu’une nouvelle version de Cobblemon Realms est publiée, suivez ces étapes pour rester à jour.
 
