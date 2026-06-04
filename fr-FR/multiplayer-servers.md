@@ -62,10 +62,8 @@ Pour éviter les contraintes liées à l'hébergement local (ouverture des ports
 - 📂 Accès complet aux fichiers du serveur
 
 {% hint style="success" %}
-🎁 Utilisez le code `OURSTORY` lors de votre commande pour bénéficier de **25 % de réduction sur votre premier mois d'hébergement**.
+🎁 Utilisez le code `OURSTORY` sur [BisectHosting](https://bisecthosting.com/OurStory) lors de votre commande pour bénéficier de **25 % de réduction sur votre premier mois d'hébergement**.
 {% endhint %}
-
-🔗 https://bisecthosting.com/CobblemonRealms
 
 ---
 
