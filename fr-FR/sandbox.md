@@ -1,5 +1,3 @@
-# 📦 Installation
-
 ## 📦 Guide d'installation 
 
 Ce guide vous accompagnera pour installer le modpack, le maintenir à jour et héberger un serveur multijoueur dans les meilleures conditions.
