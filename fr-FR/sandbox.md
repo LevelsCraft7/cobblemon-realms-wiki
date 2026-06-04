@@ -1,10 +1,8 @@
 ## 📦 Guide d'installation 
 
-Ce guide vous accompagnera pour installer le modpack, le maintenir à jour et héberger un serveur multijoueur dans les meilleures conditions.
-
 {% hint style="info" %}
 <p align="center">
-<strong>Cobblemon Realms</strong> est un modpack axé sur la progression, l'exploration, la collection de Pokémon, les systèmes personnalisés et l’aventure sur le long terme.
+<strong>Ce guide</strong> vous accompagnera pour installer le modpack, le maintenir à jour et héberger un serveur multijoueur dans les meilleures conditions.
 </p>
 {% endhint %}
 
