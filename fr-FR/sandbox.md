@@ -12,11 +12,27 @@
 
 ### 🖥️ Jouer en solo
 
-1. Téléchargez et installez l'[Application CurseForge](https://www.curseforge.com/download/app)
-2. Recherchez [Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)
-3. Cliquez sur `Installer`
-4. Attendez la fin du téléchargement...
-5. Lancez le jeu !
+{% stepper %}
+{% step %}
+Téléchargez et installez l'[Application CurseForge](https://www.curseforge.com/download/app)
+{% endstep %}
+
+{% step %}
+Recherchez [Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)
+{% endstep %}
+
+{% step %}
+Cliquez sur `Installer`
+{% endstep %}
+
+{% step %}
+Attendez la fin du téléchargement...
+{% endstep %}
+
+{% step %}
+Lancez le jeu !
+{% endstep %}
+{% endstepper %}
 
 {% hint style="success" %}
 CurseForge est recommandé pour garantir une installation complète et éviter les problèmes de configuration.
