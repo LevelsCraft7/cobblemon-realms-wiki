@@ -1,25 +1,208 @@
 # 📦 Installation
 
-## 📦 Installation
+## 📦 Guide d'installation 
 
-Ce guide vous aidera à configurer votre jeu de la meilleure façon possible, que vous jouiez en solo ou avec des amis.
+{% hint style="info" %}
+<p align="center">
+<strong>Ce guide</strong> vous accompagnera pour installer le modpack, le maintenir à jour et héberger un serveur multijoueur dans les meilleures conditions.
+</p>
+{% endhint %}
 
 ---
 
+## 🎮 Installation du modpack
+
+{% tabs %}
+{% tab title="Windows" %}
+
 ### 🖥️ Jouer en solo
 
-Pour profiter du modpack en mode solo :
+{% stepper %}
+{% step %}
+:inbox_tray: Installez l'[Application CurseForge](https://www.curseforge.com/download/app#download-options)
+{% endstep %}
 
-1. Ouvrez l’[Application CurseForge](https://www.curseforge.com/download/app)
-2. Recherchez “[Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)”
-3. Cliquez sur **Installer**, puis attendez la fin du téléchargement.
-4. Une fois installé, appuyez sur **Jouer** pour lancer le jeu avec tous les mods requis.
+{% step %}
+:mag_right: Recherchez [Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)
+{% endstep %}
 
-- **🛠️ Étape 1 : Configurer la RAM (facultatif mais recommandé)**\
-  Ouvrez le fichier `user_jvm_args.txt` et modifiez les valeurs de mémoire :
-  `-Xmx8G -Xms8G`
-- Utilisez **Java 21** pour une meilleure compatibilité et de meilleures performances.
-- Assurez-vous que les pilotes de votre carte graphique ainsi que Minecraft sont à jour.
+{% step %}
+:package: Cliquez sur `Installer`
+{% endstep %}
+
+{% step %}
+:hourglass_flowing_sand: Patientez pendant le téléchargement et l'installation des mods
+{% endstep %}
+
+{% step %}
+:rocket: Lancez le modpack et commencez votre aventure !
+{% endstep %}
+{% endstepper %}
+
+{% endtab %}
+
+{% tab title="MacOS" %}
+
+### 🖥️ Jouer en solo
+
+{% stepper %}
+{% step %}
+:inbox_tray: Installez l'[Application CurseForge](https://www.curseforge.com/download/app#download-options)
+{% endstep %}
+
+{% step %}
+:mag_right: Recherchez [Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)
+{% endstep %}
+
+{% step %}
+:package: Cliquez sur `Installer`
+{% endstep %}
+
+{% step %}
+:apple: Si nécessaire, autorisez CurseForge dans les réglages de sécurité de macOS
+{% endstep %}
+
+{% step %}
+:hourglass_flowing_sand: Patientez pendant le téléchargement et l'installation des mods
+{% endstep %}
+
+{% step %}
+:rocket: Lancez le modpack et commencez votre aventure !
+{% endstep %}
+{% endstepper %}
+
+{% endtab %}
+
+{% tab title="Linux" %}
+
+### 🖥️ Jouer en solo
+
+{% stepper %}
+{% step %}
+:inbox_tray: Installez l'[Application CurseForge](https://www.curseforge.com/download/app#download-options)
+{% endstep %}
+
+{% step %}
+:mag_right: Recherchez [Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)
+{% endstep %}
+
+{% step %}
+:package: Cliquez sur `Installer`
+{% endstep %}
+
+{% step %}
+:coffee: Assurez-vous que Java 21 est installé sur votre système
+{% endstep %}
+
+{% step %}
+:hourglass_flowing_sand: Patientez pendant le téléchargement et l'installation des mods
+{% endstep %}
+
+{% step %}
+:rocket: Lancez le modpack et commencez votre aventure !
+{% endstep %}
+{% endstepper %}
+
+{% endtab %}
+{% endtabs %}
+
+{% hint style="success" %}
+Pour la meilleure expérience possible, nous recommandons l'utilisation de CurseForge.
+Le launcher gère automatiquement les dépendances, les configurations et les mises à jour du modpack.
+{% endhint %}
+
+{% tabs %}
+{% tab title="Windows" %}
+
+## ⚙️ Configuration recommandée
+
+{% stepper %}
+{% step %}
+☕ Vérifiez que **[Java 21](https://www.oracle.com/fr/java/technologies/downloads/#jdk21-windows)** est installé sur votre ordinateur.
+{% endstep %}
+
+{% step %}
+💾 Allouez **8 Go de RAM** au modpack dans les paramètres CurseForge.
+
+```
+-Xms8G
+-Xmx8G
+```
+{% endstep %}
+
+{% step %}
+🎮 Mettez à jour les pilotes de votre carte graphique (NVIDIA, AMD ou Intel).
+{% endstep %}
+
+{% step %}
+🚀 Installez le modpack sur un **SSD** si possible pour réduire les temps de chargement.
+{% endstep %}
+{% endstepper %}
+
+{% endtab %}
+
+{% tab title="MacOS" %}
+
+## ⚙️ Configuration recommandée
+
+{% stepper %}
+{% step %}
+☕ Vérifiez que **[Java 21](https://www.oracle.com/fr/java/technologies/downloads/#jdk21-mac)** est installé sur votre Mac.
+{% endstep %}
+
+{% step %}
+💾 Allouez **8 Go de RAM** au modpack.
+
+```
+-Xms8G
+-Xmx8G
+```
+{% endstep %}
+
+{% step %}
+🍎 Maintenez macOS à jour afin de bénéficier des dernières optimisations graphiques.
+{% endstep %}
+
+{% step %}
+🚀 Utilisez de préférence un **SSD** pour de meilleures performances.
+{% endstep %}
+{% endstepper %}
+
+{% endtab %}
+
+{% tab title="Linux" %}
+
+## ⚙️ Configuration recommandée
+
+{% stepper %}
+{% step %}
+☕ Assurez-vous d'utiliser **[Java 21](https://www.oracle.com/fr/java/technologies/downloads/#jdk21-linux)** sur votre distribution.
+{% endstep %}
+
+{% step %}
+💾 Allouez **8 Go de RAM** au modpack.
+
+```
+-Xms8G
+-Xmx8G
+```
+{% endstep %}
+
+{% step %}
+🎮 Vérifiez que vos pilotes graphiques (Mesa, NVIDIA ou AMD) sont à jour.
+{% endstep %}
+
+{% step %}
+🚀 Installez le modpack sur un **SSD** pour des chargements plus rapides.
+{% endstep %}
+{% endstepper %}
+
+{% endtab %}
+{% endtabs %}
+
+{% hint style="warning" %}
+:warning: Avant d'ouvrir un ticket sur [Discord](https://discord.com/channels/272468475287437312/971152376549507173/1448052227976466463), assurez-vous d'avoir suivi l'intégralité de ce guide et vérifié que votre installation fonctionne correctement. De nombreux problèmes sont résolus en vérifiant la version de Java, la RAM allouée ou en réinstallant le modpack.
+{% endhint %}
 
 ---
 
