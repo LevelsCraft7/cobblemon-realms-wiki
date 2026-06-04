@@ -19,7 +19,7 @@
 
 {% stepper %}
 {% step %}
-:inbox_tray: Installez l'[Application CurseForge](https://www.curseforge.com/download/app)
+:inbox_tray: Installez l'[Application CurseForge](https://www.curseforge.com/download/app#download-options)
 {% endstep %}
 
 {% step %}
@@ -45,7 +45,7 @@
 
 {% stepper %}
 {% step %}
-:inbox_tray: Installez l'[Application CurseForge](https://www.curseforge.com/download/app)
+:inbox_tray: Installez l'[Application CurseForge](https://www.curseforge.com/download/app#download-options)
 {% endstep %}
 
 {% step %}
@@ -75,7 +75,7 @@
 
 {% stepper %}
 {% step %}
-:inbox_tray: Installez l'[Application CurseForge](https://www.curseforge.com/download/app)
+:inbox_tray: Installez l'[Application CurseForge](https://www.curseforge.com/download/app#download-options)
 {% endstep %}
 
 {% step %}
