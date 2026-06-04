@@ -67,8 +67,9 @@ Si vous découvrez le modpack, nous vous conseillons de suivre cet ordre :
 5. 🏆 [Cap de niveau et dresseurs](pokemons-guides/levelcap-and-trainers.md)
 
 {% hint style="info" %}
-💡 Ce parcours donne une vue d’ensemble rapide de la façon dont **Cobblemon Realms** est pensé.
-
+<p align="center">
+💡 Ce parcours donne une vue d’ensemble rapide de la façon dont Cobblemon Realms est pensé.
+</p>
 {% endhint %}
 
 ---
