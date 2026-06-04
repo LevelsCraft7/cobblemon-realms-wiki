@@ -2,7 +2,7 @@
 
 ### 📜 **Liste des invocations de la Première Génération**
 
-| 🌿 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🌍 Biomes |
+| 🏝️ Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🌍 Biomes |
 |:----------:|:----------:|:----------:|:----------:|
 | ![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/772.gif)<br>**Type: Null** | Type Null Mask | Aucune | End biomes |
 | ![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/785.gif)<br>**Tapu Koko** | Koko Totem | Aucune | Beaches, Jungle, Tropical biomes |
