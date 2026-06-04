@@ -87,7 +87,7 @@
 {% endstep %}
 
 {% step %}
-:apple: Si nécessaire, autorisez CurseForge dans les réglages de sécurité de macOS
+:coffee: Assurez-vous que Java 21 est installé sur votre système
 {% endstep %}
 
 {% step %}
