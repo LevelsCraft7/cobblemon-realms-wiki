@@ -2,6 +2,10 @@
 
 ### 📜 **Liste des invocations de la Première Génération**
 
+<p align="center">
+Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, de nouvelles légendes émergent. Certaines sont connues depuis des siècles, d'autres restent encore entourées de mystère.
+</p>
+
 | 🎓 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🧭 Localisation |
 |:----------:|:----------:|:----------:|:----------:|
 | ![](https://play.pokemonshowdown.com/sprites/home/koraidon.png)<br>**Koraidon** | Scarlet Book | Aucune | Badlands, Eroded Badlands, Savanna, Savanna Plateau |
