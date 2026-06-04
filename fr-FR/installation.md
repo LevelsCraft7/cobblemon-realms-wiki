@@ -463,43 +463,93 @@ Vous pouvez ainsi vous concentrer sur votre aventure plutôt que sur l'administr
 
 ---
 
-### 🧰 Installation manuelle (Si nécessaire)
+## 📦 Installation ou mise à jour manuelle d'un serveur
 
-Si vous préférez importer le pack serveur manuellement :
+{% hint style="warning" %}
+⚠️ Effectuez toujours une sauvegarde complète de votre serveur avant toute installation ou mise à jour.
+{% endhint %}
 
-1. Téléchargez le **Server Pack** depuis la section **Fichiers**.
-2. Extrayez-le dans le dossier de votre serveur.
-3. Remplacez uniquement ces dossiers du nouveau pack :
-   - `mods/`
-   - `config/`
-   - `kubejs/`
-   - `defaultconfigs/`
-4. Ne supprimez jamais :
-   - `world/`
-   - `libraries/`
-   - les fichiers `.jar`
+{% tabs %}
+{% tab title="Installation" %}
 
-> 💡 **BisectHosting** gère automatiquement les mises à jour et optimisations, rendant les mises à jour manuelles inutiles dans la plupart des cas.
+{% stepper %}
+{% step %}
+📥 Téléchargez la dernière version du **Server Pack** depuis la section **Fichiers**.
+{% endstep %}
 
----
+{% step %}
+📂 Extrayez l'archive dans un dossier vide ou sur votre serveur.
+{% endstep %}
 
-## 🔄 Mettre à jour un pack serveur
+{% step %}
+📋 Copiez les dossiers suivants :
 
-### 🧰 Méthode manuelle
+- `mods/`
+- `config/`
+- `kubejs/`
+- `defaultconfigs/`
+{% endstep %}
 
-1. 🔄 **Étape 3 : Relancer le serveur**
-2. Supprimez les dossiers obsolètes (`mods`, `config`, `defaultconfigs`, `kubejs`).
-3. Remplacez-les par les nouveaux contenus du fichier `.zip`.
-4. Lancez le serveur :
+{% step %}
+🚀 Lancez le serveur et vérifiez que son démarrage s'effectue sans erreur.
+{% endstep %}
+{% endstepper %}
 
-### ☁️ Via le panneau d’hébergement (BisectHosting)
+{% endtab %}
 
-**BisectHosting** inclut un bouton **“Mettre à jour / Réinstaller le modpack”** sur votre panneau.  
-Cela met à jour votre instance vers la dernière version en toute sécurité sans affecter les données de votre monde.
+{% tab title="Mise à jour" %}
 
-> 🟢 Installation de serveur Cobblemon Realms en un clic\
-> 🟢 Excellentes performances et support mondial\
-> 🟢 Sauvegardes automatiques, protection DDoS et mises à jour du modpack
+{% stepper %}
+{% step %}
+📥 Téléchargez la dernière version du **Server Pack**.
+{% endstep %}
+
+{% step %}
+🛑 Arrêtez complètement votre serveur.
+{% endstep %}
+
+{% step %}
+🗑️ Supprimez les anciens dossiers :
+
+- `mods/`
+- `config/`
+- `kubejs/`
+- `defaultconfigs/`
+{% endstep %}
+
+{% step %}
+📂 Remplacez-les par ceux contenus dans la nouvelle archive.
+{% endstep %}
+
+{% step %}
+🚀 Redémarrez le serveur.
+{% endstep %}
+{% endstepper %}
+
+{% endtab %}
+
+{% tab title="BisectHosting" %}
+
+{% hint style="success" %}
+☁️ Avec **BisectHosting**, les mises à jour du modpack peuvent être effectuées directement depuis le panneau d'administration grâce au bouton **Mettre à jour / Réinstaller le modpack**.
+{% endhint %}
+
+{% hint style="info" %}
+🛡️ Même avec une mise à jour automatique, il est fortement recommandé d'effectuer une sauvegarde de votre monde avant toute opération importante.
+{% endhint %}
+
+{% endtab %}
+{% endtabs %}
+
+{% hint style="danger" %}
+🚫 Ne supprimez jamais :
+
+- `world/`
+- `libraries/`
+- les fichiers `.jar`
+
+Ces fichiers contiennent votre monde ou sont indispensables au bon fonctionnement du serveur.
+{% endhint %}
 
 ---
 
