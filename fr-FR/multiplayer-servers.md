@@ -2,7 +2,7 @@
 
 ## 🚀 Jouer avec d'autres dresseurs
 
-{% hint style="success" %}
+{% hint style="info" %}
 <p align="center">
 Cobblemon Realms peut être joué aussi bien en solo qu'en multijoueur. Que vous souhaitiez rejoindre une communauté existante ou créer votre propre aventure entre amis, plusieurs solutions s'offrent à vous.
 </p>
