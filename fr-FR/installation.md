@@ -437,20 +437,29 @@ eula=true
 
 ---
 
-### ☁️ Hébergement avec un fournisseur (recommandé)
+{% hint style="success" %}
+### ☁️ Hébergement recommandé : BisectHosting
 
-🟢 Cobblemon Realms est en partenariat avec **Bisect Hosting**, et vous pouvez installer **Cobblemon Realms en un clic** via leur pannel.
+Cobblemon Realms est partenaire de **BisectHosting**, ce qui vous permet d'installer le modpack en quelques clics sans configuration complexe.
 
-- 🔧 **Installation instantanée** sans aucun upload ou réglage manuel requis
-- 💾 **Mises à jour automatiques**, sauvegardes **régulières** et performances **optimisées**
-- 📍 **Localisations mondiales**, stockage SSD, protection DDoS et prise en charge complète des mods
-- 🧩 Entièrement compatible avec CurseForge, garantissant la synchronisation de vos configurations
+**Pourquoi choisir BisectHosting ?**
 
+- 🚀 Installation du modpack en un clic
+- 💾 Sauvegardes automatiques
+- 🔄 Mises à jour simplifiées
+- 🛡️ Protection DDoS incluse
+- 🌍 Serveurs disponibles dans plusieurs régions du monde
+- ⚡ Stockage SSD et performances optimisées
+- 🧩 Compatibilité complète avec CurseForge
+
+Vous pouvez ainsi vous concentrer sur votre aventure plutôt que sur l'administration du serveur.
+{% endhint %}
+
+{% hint style="info" %}
 ### 🎉 Réduction partenaire
 
-Dans le cadre de notre partenariat, vous pouvez utiliser le code [**OurStory**] lors du paiement pour obtenir **25 % DE RÉDUCTION** sur votre 1er mois.
-
-Profitez d’un hébergement fluide afin de vous concentrer sur **l’exploration, la capture et l’aventure** et non sur la maintenance du serveur !
+Utilisez le code **`OurStory`** lors de votre commande pour bénéficier de **25 % de réduction sur votre premier mois d'hébergement**.
+{% endhint %}
 
 ---
 
