@@ -28,11 +28,11 @@ Cette page détaille les différents métiers disponibles ainsi que les Pokémon
 Par défaut, la majorité des rôles étaient attribués à **Pikachu**, avec quelques exceptions comme :
 
 - **Apitrini** pour le miel
-- **Leveinard** pour les soins...
+- **Leveinard** pour les soins
 
 {% hint style="info" %}
 <p align="center">
-Cobblemon Realms utilise une configuration personnalisée afin d'attribuer des rôles plus cohérents avec le <span style="color:#4CAF50"><strong>type</strong></span>, les <span style="color:#FF9800"><strong>capacités</strong></span> ou le <span style="color:#9C27B0"><strong>lore</strong></span> des Pokémon. Cette approche permet à davantage d'espèces d'avoir une utilité unique au sein de votre base.
+Cobblemon Realms utilise une configuration personnalisée afin d'attribuer des rôles plus cohérents avec le <font color="green"><strong>type</strong></font>, les <font color="orange"><strong>capacités</strong></font> ou le <font color="purple"><strong>lore</strong></font> des Pokémon. Cette approche permet à davantage d'espèces d'avoir une utilité unique au sein de votre base.
 </p>
 {% endhint %}
 
