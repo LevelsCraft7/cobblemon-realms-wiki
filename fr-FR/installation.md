@@ -532,11 +532,11 @@ Vous pouvez ainsi vous concentrer sur votre aventure plutôt que sur l'administr
 {% hint style="danger" %}
 🚫 Ne supprimez jamais :
 
-- `world/`
-- `libraries/`
+- le dossier `world/`
+- le dossier `libraries/`
 - les fichiers `.jar`
 
-Ces fichiers contiennent votre monde ou sont indispensables au bon fonctionnement du serveur.
+Ces fichiers contiennent votre monde ou sont **indispensables** au bon fonctionnement du serveur.
 {% endhint %}
 
 ---
