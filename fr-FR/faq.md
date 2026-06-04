@@ -1,12 +1,12 @@
-# ❓ Foire aux questions
+# ❓ FAQ
 
-## 📖 Questions fréquentes
+{% hint style="info" %}
+💡 Retrouvez ici les réponses aux questions les plus fréquentes concernant Cobblemon Realms.
+{% endhint %}
 
-Retrouvez ici les réponses aux questions les plus fréquentes concernant l'installation, les performances, les serveurs et la progression.
+{% tabs %}
 
----
-
-## 🚫 Mon jeu plante au lancement du modpack
+{% tab title="🚫 Jeu qui plante" %}
 
 La majorité des crashs sont liés à une mauvaise version de Java ou à un manque de mémoire allouée.
 
@@ -14,9 +14,9 @@ Vérifiez que vous utilisez **Java 21** et que **8 Go de RAM** sont alloués au 
 
 📘 [Guide d'installation](installation.md)
 
----
+{% endtab %}
 
-## 🐾 Je ne trouve aucun Pokémon
+{% tab title="🐾 Aucun Pokémon" %}
 
 Les apparitions dépendent du biome, de l'heure, de la météo et de votre position.
 
@@ -28,19 +28,19 @@ pour afficher les Pokémon pouvant apparaître autour de vous.
 
 📘 [Guide des apparitions](pokemon-and-spawns.md)
 
----
+{% endtab %}
 
-## 🧩 Puis-je ajouter d'autres mods ?
+{% tab title="🧩 Ajouter des mods" %}
 
 Oui, mais cela n'est pas recommandé.
 
-Des mods supplémentaires peuvent provoquer des conflits, des crashs ou modifier l'équilibrage du modpack.
+{% hint style="warning" %}
+⚠️ Les mods ajoutés manuellement peuvent provoquer des conflits, des crashs ou des problèmes d'équilibrage.
+{% endhint %}
 
-⚠️ Tout problème rencontré avec un mod ajouté manuellement ne pourra pas être pris en charge.
+{% endtab %}
 
----
-
-## 👥 Puis-je commencer en solo puis passer sur un serveur ?
+{% tab title="👥 Solo vers serveur" %}
 
 ✅ Oui.
 
@@ -48,17 +48,21 @@ Votre monde solo peut être transféré vers un serveur à tout moment sans reco
 
 📘 [Guide d'installation](installation.md)
 
----
+{% endtab %}
 
-## 🖥️ Puis-je utiliser Aternos, Minehut ou un hébergeur gratuit ?
+{% tab title="🖥️ Hébergeur gratuit" %}
 
 Techniquement oui, mais les performances sont souvent insuffisantes pour faire fonctionner correctement le modpack.
 
-Nous recommandons un hébergeur disposant d'au moins **8 Go de RAM**, du support **Java 21** et d'un accès FTP.
+Nous recommandons un hébergeur disposant au minimum de :
 
----
+- 💾 8 Go de RAM
+- ☕ Java 21
+- 📂 Un accès FTP
 
-## ⚙️ Quelle configuration est recommandée ?
+{% endtab %}
+
+{% tab title="⚙️ Configuration recommandée" %}
 
 Pour profiter pleinement du modpack, nous recommandons :
 
@@ -69,38 +73,51 @@ Pour profiter pleinement du modpack, nous recommandons :
 
 📘 [Guide d'installation](installation.md)
 
----
+{% endtab %}
 
-## 🌍 Puis-je aider à améliorer le wiki ?
+{% tab title="🌍 Contribuer au wiki" %}
 
 Oui, les contributions sont les bienvenues.
 
-Vous pouvez corriger des erreurs, améliorer des guides, proposer des traductions ou ajouter du contenu.
+Vous pouvez notamment :
+
+- ✏️ Corriger des erreurs
+- 📖 Améliorer les guides
+- 🌐 Traduire du contenu
+- ➕ Ajouter des informations
 
 📘 [Guide de contribution](contributing.md)
 
----
+{% endtab %}
 
-## ✨ Existe-t-il des contenus exclusifs ?
+{% tab title="✨ Contenus exclusifs" %}
 
-Oui.
+Cobblemon Realms ajoute plusieurs contenus exclusifs :
 
-Cobblemon Realms ajoute plusieurs contenus exclusifs, notamment des formes spéciales, des mécaniques inédites et des évolutions uniques.
+- ✨ Formes spéciales
+- 🧬 Évolutions uniques
+- ⚙️ Mécaniques inédites
 
 📘 [Voir les contenus exclusifs](pokemons-exclusives/mewtwo-exclusive-forms.md)
 
----
+{% endtab %}
 
-## 🏆 Où trouver les informations sur les dresseurs et les level caps ?
+{% tab title="🏆 Dresseurs & Level Caps" %}
 
 Toutes les informations concernant la progression, les arènes, les champions et les level caps sont regroupées dans un guide dédié.
 
-📘 [Guide des dresseurs et level caps](pokemons-guides/levelcap-and-trainers.md)
+📘 [Guide des dresseurs](pokemons-guides/levelcap-and-trainers.md)
 
----
+{% endtab %}
 
-## 💬 Je n'ai pas trouvé ma réponse
+{% tab title="💬 Besoin d'aide ?" %}
 
-Si votre problème n'est pas abordé dans cette FAQ ou dans les guides du wiki, rejoignez notre serveur Discord.
+{% hint style="success" %}
+Vous n'avez pas trouvé votre réponse ? Rejoignez notre serveur Discord.
+{% endhint %}
 
 🔗 [Rejoindre le Discord](https://discord.gg/kb8NSTF45n)
+
+{% endtab %}
+
+{% endtabs %}
