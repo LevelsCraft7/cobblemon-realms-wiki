@@ -200,8 +200,10 @@ Le launcher gère automatiquement les dépendances, les configurations et les mi
 {% endtab %}
 {% endtabs %}
 
-{% hint style="success" %}
-💡 Les textes affichés en bleu sont cliquables et vous redirigeront automatiquement vers la page ou le téléchargement correspondant à votre système.
+{% hint style="warning" %}
+⚠️ Avant d'ouvrir un ticket sur [Discord](https://discord.com/channels/272468475287437312/971152376549507173/1448052227976466463), assurez-vous d'avoir suivi l'intégralité de ce guide et vérifié que votre installation fonctionne correctement.
+
+De nombreux problèmes sont résolus en vérifiant la version de Java, la RAM allouée ou en réinstallant le modpack.
 {% endhint %}
 
 ---
