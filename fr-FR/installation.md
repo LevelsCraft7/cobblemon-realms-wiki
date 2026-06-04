@@ -232,17 +232,81 @@ Si vous utilisez un autre launcher :
 
 ## 🎮 Héberger un serveur multijoueur
 
-Vous voulez jouer avec des amis ou héberger un serveur communautaire ? 
-Voici comment procéder manuellement.
+{% tabs %}
+{% tab title="Windows" %}
 
-### ⚙️ Configuration minimale requise
+📌 Jouez avec vos amis ou créez votre propre communauté en hébergeant un serveur Cobblemon Realms.
 
-| ⚠️ **Pré-requis :** | Valeur recommandée |
-| ----------------------------------- | ------------------------------------------------------------------------------------------ |
-| RAM                                 | Au moins **8 Go de RAM libre** (16 Go au total recommandé) |
-| Version de Java                     | Version 21 |
-| Internet                            | Une connexion internet stable |
-| Connaissances                       | Savoir exécuter des scripts `.bat` ou `.sh`, redirection de ports (facultatif en LAN) |
+{% stepper %}
+{% step %}
+☕ Installez **[Java 21](https://www.oracle.com/fr/java/technologies/downloads/#jdk21-windows)**
+{% endstep %}
+
+{% step %}
+💾 Prévoyez au minimum **8 Go de RAM dédiés au serveur**
+{% endstep %}
+
+{% step %}
+🌐 Assurez-vous de disposer d'une connexion internet stable
+{% endstep %}
+
+{% step %}
+🛠️ Vous devrez être capable d'exécuter des fichiers `.bat`
+
+Une redirection de ports peut être nécessaire pour permettre aux joueurs externes de rejoindre votre serveur.
+{% endstep %}
+{% endstepper %}
+
+{% endtab %}
+
+{% tab title="MacOS" %}
+
+{% stepper %}
+{% step %}
+☕ Installez **[Java 21](https://www.oracle.com/fr/java/technologies/downloads/#jdk21-mac)**
+{% endstep %}
+
+{% step %}
+💾 Prévoyez au minimum **8 Go de RAM dédiés au serveur**
+{% endstep %}
+
+{% step %}
+🌐 Assurez-vous de disposer d'une connexion internet stable
+{% endstep %}
+
+{% step %}
+🛠️ Vous devrez être capable d'exécuter des scripts `.sh`
+
+Selon votre configuration réseau, une redirection de ports peut être nécessaire.
+{% endstep %}
+{% endstepper %}
+
+{% endtab %}
+
+{% tab title="Linux" %}
+
+{% stepper %}
+{% step %}
+☕ Installez [**Java 21**](https://www.oracle.com/fr/java/technologies/downloads/#jdk21-linux)
+{% endstep %}
+
+{% step %}
+💾 Prévoyez au minimum **8 Go de RAM dédiés au serveur**
+{% endstep %}
+
+{% step %}
+🌐 Assurez-vous de disposer d'une connexion internet stable
+{% endstep %}
+
+{% step %}
+🛠️ Vous devrez être capable d'exécuter des scripts `.sh`
+
+Une connaissance basique du terminal Linux est recommandée.
+{% endstep %}
+{% endstepper %}
+
+{% endtab %}
+{% endtabs %}
 
 ---
 
