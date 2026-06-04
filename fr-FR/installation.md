@@ -235,8 +235,6 @@ Si vous utilisez un autre launcher :
 {% tabs %}
 {% tab title="Windows" %}
 
-📌 Jouez avec vos amis ou créez votre propre communauté en hébergeant un serveur Cobblemon Realms.
-
 {% stepper %}
 {% step %}
 ☕ Installez **[Java 21](https://www.oracle.com/fr/java/technologies/downloads/#jdk21-windows)**
