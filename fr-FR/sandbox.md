@@ -118,7 +118,7 @@ Le launcher gère automatiquement les dépendances, les configurations et les mi
 
 {% stepper %}
 {% step %}
-☕ Vérifiez que **Java 21** est installé sur votre ordinateur.
+☕ Vérifiez que **[Java 21](https://www.oracle.com/fr/java/technologies/downloads/#jdk21-windows)** est installé sur votre ordinateur.
 {% endstep %}
 
 {% step %}
@@ -147,7 +147,7 @@ Le launcher gère automatiquement les dépendances, les configurations et les mi
 
 {% stepper %}
 {% step %}
-☕ Vérifiez que **Java 21** est installé sur votre Mac.
+☕ Vérifiez que **[Java 21](https://www.oracle.com/fr/java/technologies/downloads/#jdk21-mac)** est installé sur votre Mac.
 {% endstep %}
 
 {% step %}
@@ -176,7 +176,7 @@ Le launcher gère automatiquement les dépendances, les configurations et les mi
 
 {% stepper %}
 {% step %}
-☕ Assurez-vous d'utiliser **Java 21** sur votre distribution.
+☕ Assurez-vous d'utiliser **[Java 21](https://www.oracle.com/fr/java/technologies/downloads/#jdk21-linux)** sur votre distribution.
 {% endstep %}
 
 {% step %}
