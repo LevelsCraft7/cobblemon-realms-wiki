@@ -87,7 +87,7 @@ Vous pouvez contribuer en :
 
 {% hint style="info" %}
 <p align="center">
-👉🏼 Commencez ici pour : [Contribuer](contributing.md)
+👉🏼 Commencez ici pour : <a href="contributing.md">Contribuer</a>
 </p>
 {% endhint %}
 
