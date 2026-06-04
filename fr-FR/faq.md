@@ -1,5 +1,7 @@
 # ❓ Foire aux questions
 
+## 📖 Questions les plus fréquentes
+
 {% hint style="info" %}
 <p align="center">
 💡 Cette page répond aux questions les plus fréquentes concernant l'installation, les performances, les serveurs et la progression sur Cobblemon Realms.
