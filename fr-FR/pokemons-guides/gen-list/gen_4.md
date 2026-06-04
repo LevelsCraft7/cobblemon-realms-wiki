@@ -2,7 +2,7 @@
 
 ### 📜 **Liste des invocations de la Première Génération**
 
-| 🌿 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🌍 Biomes |
+| ❄️ Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🌍 Biomes |
 |:----------:|:----------:|:----------:|:----------:|
 | ![](https://play.pokemonshowdown.com/sprites/ani/mesprit.gif)<br>**Mesprit** | Mesprit Plume | Aucune | Mangrove Swamp, Swamp, Ice Marsh, Orchid Swamp, Billabong, Lantern River, Tropical Forest River |
 | ![](https://play.pokemonshowdown.com/sprites/ani/azelf.gif)<br>**Azelf** | Azelf Fang | Aucune | Mangrove Swamp, Swamp, Ice Marsh, Orchid Swamp, Billabong, Lantern River, Tropical Forest River |
