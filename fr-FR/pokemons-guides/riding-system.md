@@ -1,6 +1,10 @@
 # 🐎 Nouveau système de montures (v1.7)
 
-> Depuis la version **1.7**, Cobblemon Realms utilise désormais le système officiel de montures de Cobblemon.
+{% hint style="warning" %}
+<p align="center">
+Depuis la version **1.7**, Cobblemon Realms utilise désormais le système officiel de montures de Cobblemon.
+</p>
+{% endhint %}
 
 ---
 
@@ -164,7 +168,9 @@ Comparable au mode Créatif ou Spectateur de Minecraft.
 
 Chaque Pokémon possède ses propres statistiques de monture.
 
-> ⚠️ Ces statistiques sont totalement indépendantes des statistiques de combat du Pokémon.
+{% hint style="warning" %}
+⚠️ Ces statistiques sont totalement indépendantes des statistiques de combat du Pokémon.
+{% endhint %}
 
 ℹ️ Il est également possible de modifier certaines de ces caractéristiques grâce aux [Aprijuices](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/cobblemon-craft/aprijuice-guide.md).
 
@@ -259,7 +265,9 @@ Lorsque l'endurance est épuisée, la capacité concernée devient temporairemen
 }
 ```
 
+{% hint style="info" %}
 💡 Si vous souffrez du mal des transports, définissez `"disableRoll": true`.
+{% endhint %}
 
 ---
 
@@ -441,4 +449,6 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 ---
 
-> ⚠️ Certains Pokémon, styles de monture ou statistiques peuvent être ajoutés, modifiés ou retirés au fil des mises à jour.
+{% hint style="warning" %}
+ ⚠️ Certains Pokémon, styles de monture ou statistiques peuvent être ajoutés, modifiés ou retirés au fil des mises à jour.
+{% endhint %}
