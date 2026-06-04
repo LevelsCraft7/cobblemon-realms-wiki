@@ -1,21 +1,27 @@
 {% tabs %}
 {% tab title="Windows" %}
-1.
-2. 
-3. 
+
+1. Blablabla
+2. Blablabla
+3. Blablabla
+
 {% endhint %}
 {% endtab %}
 
 {% tab title="MacOS" %}
-1.
-2.
-3.
+
+1. Blablabla
+2. Blablabla
+3. Blablabla
+
 {% endhint %}
 {% endtab %}
 
 {% tab title="Linux" %}
-1.
-2.
-3.
+
+1. Blablabla
+2. Blablabla
+3. Blablabla
+
 {% endhint %}
 {% endtab %}
