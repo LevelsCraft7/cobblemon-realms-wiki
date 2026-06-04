@@ -15,9 +15,3 @@ Aller à une région :
 - [Génération 7 [Alola]](#generation-7-alola)
 - [Génération 8 [Galar/Hisui]](#generation-8-galar-hisui)
 - [Génération 9 [Paldea/Kitakami]](#generation-9-paldea-kitakami)
-
-{% hint style="info" %}
-**Comment gagner des territoires ?**
-
-La seule méthode pour le moment c'est d'inviter des ami(e)s dans votre Guilde. Une personne invitée vous permet de gagner 5 territoires.
-{% endhint %}
