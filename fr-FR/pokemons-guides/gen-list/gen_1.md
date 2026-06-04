@@ -1,10 +1,6 @@
 # 🌿 Génération 1 - Kanto
 
-<p align="center">
-  
-📜 **Liste des invocations de la Première Génération**
-  
-<p/>
+### 📜 **Liste des invocations de la Première Génération**
 
 | 🌿 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🌍 Biomes |
 |:----------:|:----------:|:----------:|:----------:|
