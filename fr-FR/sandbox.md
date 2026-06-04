@@ -12,10 +12,10 @@
 
 ## 🎮 Installation du modpack
 
-### 🖥️ Jouer en solo
-
 {% tabs %}
 {% tab title="Windows" %}
+
+### 🖥️ Jouer en solo
 
 {% stepper %}
 {% step %}
