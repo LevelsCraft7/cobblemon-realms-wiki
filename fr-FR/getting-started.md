@@ -41,7 +41,9 @@ Commencez par :
 - 🏠 Construire une petite base
 - 📍 Trouver une zone sûre
 
-> 🧭 L’exploration est essentielle pour découvrir de nouveaux Pokémon et progresser efficacement.
+{% hint style="info" %}
+🧭 L’exploration est essentielle pour découvrir de nouveaux Pokémon et progresser efficacement.
+</p>
 
 ---
 
@@ -55,7 +57,9 @@ Certaines espèces apparaissent uniquement :
 - 🌧️ Sous certaines conditions météo
 - 🌿 Dans des biomes spécifiques
 
+{% hint style="success" %}
 📘 Consultez la page [`Pokémon et apparitions`](pokemon-and-spawns.md) pour plus d’informations.
+</p>
 
 ---
 
@@ -70,7 +74,9 @@ Les quêtes permettent notamment de :
 - 🔓 Débloquer certains contenus
 - ⚙️ Comprendre les systèmes exclusifs du modpack
 
-> ✨ Il est fortement recommandé de suivre les quêtes au début de votre aventure.
+{% hint style="success" %}
+✨ Il est fortement recommandé de suivre les quêtes au début de votre aventure.
+</p>
 
 ---
 
