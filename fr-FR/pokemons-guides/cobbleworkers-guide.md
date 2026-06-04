@@ -74,7 +74,10 @@ Cobblemon Realms utilise une configuration personnalisée afin d'attribuer des r
 
 ## 💡 Conseils
 
+{% hint style="success" %}
+
 - Configurez le comportement des workers via le fichier `cobbleworkers.json`
 - Utilisez des Pokémon adaptés à leur environnement (types Plante dans les fermes, types Feu près des fours, etc.)
 - Multipliez les workers afin de spécialiser les tâches et améliorer l'efficacité de votre base
 - Les Pokémon soigneurs sont particulièrement utiles dans les zones fréquentées, comme les bases ou les villages
+{% endhint %}
