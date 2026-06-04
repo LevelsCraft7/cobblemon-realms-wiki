@@ -2,7 +2,9 @@
 
 ## 🌟 Participer au projet
 
-Le wiki Cobblemon Realms est un projet communautaire. Chaque contribution, même minime, aide à améliorer la documentation pour l'ensemble des joueurs.
+{% hint style="success" %}
+Le Wiki de Cobblemon Realms est un projet communautaire. Chaque contribution, même minime, aide à améliorer la documentation pour l'ensemble des joueurs.
+{% endhint %}
 
 ---
 
