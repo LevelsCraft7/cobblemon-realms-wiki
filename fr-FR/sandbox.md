@@ -5,7 +5,6 @@
 2. Blablabla
 3. Blablabla
 
-{% endhint %}
 {% endtab %}
 
 {% tab title="MacOS" %}
@@ -14,7 +13,6 @@
 2. Blablabla
 3. Blablabla
 
-{% endhint %}
 {% endtab %}
 
 {% tab title="Linux" %}
@@ -23,6 +21,5 @@
 2. Blablabla
 3. Blablabla
 
-{% endhint %}
 {% endtab %}
 {% endtabs %}
