@@ -1,12 +1,10 @@
-<div align="center">
-
 # 🌿 Génération 1 - Kanto
 
+<div align="center">
+  
 ## Liste des invocations de la Première Génération
 
 Les Pokémon ci-dessous peuvent être invoqués en utilisant un objet spécifique et en respectant certaines conditions particulières.
-
-<div align="center">
 
 | Pokémon | Objet | Condition | Biomes |
 |:----------:|:----------:|:----------:|:----------:|
