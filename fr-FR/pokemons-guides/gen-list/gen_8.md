@@ -2,6 +2,10 @@
 
 ### 📜 **Liste des invocations de la Première Génération**
 
+<p align="center">
+Les légendes de Galar racontent les exploits de héros oubliés et de puissants souverains. Dans les terres sauvages d'Hisui, d'anciennes créatures continuent également de faire parler d'elles.
+</p>
+
 | 👑 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🧭 Localisation |
 |:----------:|:----------:|:----------:|:----------:|
 | ![](https://play.pokemonshowdown.com/sprites/ani/zacian.gif)<br>**Zacian** | Rusted Sword | Aucune | Flower Forest, Meadow |
