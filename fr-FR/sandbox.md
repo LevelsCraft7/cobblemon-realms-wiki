@@ -111,19 +111,94 @@ Pour la meilleure expérience possible, nous recommandons l'utilisation de Curse
 Le launcher gère automatiquement les dépendances, les configurations et les mises à jour du modpack.
 {% endhint %}
 
-### ⚙️ Configuration recommandée
+{% tabs %}
+{% tab title="Windows" %}
 
-- ☕ Utiliser **Java 21**
-- 💾 Allouer **8 Go de RAM**
-- 🎮 Mettre à jour les pilotes graphiques
-- 🚀 Installer le jeu sur un SSD si possible
+## ⚙️ Configuration recommandée
 
-Exemple dans `user_jvm_args.txt` :
+{% stepper %}
+{% step %}
+☕ Vérifiez que **Java 21** est installé sur votre ordinateur.
+{% endstep %}
+
+{% step %}
+💾 Allouez **8 Go de RAM** au modpack dans les paramètres CurseForge.
 
 ```
 -Xms8G
 -Xmx8G
 ```
+{% endstep %}
+
+{% step %}
+🎮 Mettez à jour les pilotes de votre carte graphique (NVIDIA, AMD ou Intel).
+{% endstep %}
+
+{% step %}
+🚀 Installez le modpack sur un **SSD** si possible pour réduire les temps de chargement.
+{% endstep %}
+{% endstepper %}
+
+{% endtab %}
+
+{% tab title="MacOS" %}
+
+## ⚙️ Configuration recommandée
+
+{% stepper %}
+{% step %}
+☕ Vérifiez que **Java 21** est installé sur votre Mac.
+{% endstep %}
+
+{% step %}
+💾 Allouez **8 Go de RAM** au modpack.
+
+```
+-Xms8G
+-Xmx8G
+```
+{% endstep %}
+
+{% step %}
+🍎 Maintenez macOS à jour afin de bénéficier des dernières optimisations graphiques.
+{% endstep %}
+
+{% step %}
+🚀 Utilisez de préférence un **SSD** pour de meilleures performances.
+{% endstep %}
+{% endstepper %}
+
+{% endtab %}
+
+{% tab title="Linux" %}
+
+## ⚙️ Configuration recommandée
+
+{% stepper %}
+{% step %}
+☕ Assurez-vous d'utiliser **Java 21** sur votre distribution.
+{% endstep %}
+
+{% step %}
+💾 Allouez **8 Go de RAM** au modpack.
+
+```
+-Xms8G
+-Xmx8G
+```
+{% endstep %}
+
+{% step %}
+🎮 Vérifiez que vos pilotes graphiques (Mesa, NVIDIA ou AMD) sont à jour.
+{% endstep %}
+
+{% step %}
+🚀 Installez le modpack sur un **SSD** pour des chargements plus rapides.
+{% endstep %}
+{% endstepper %}
+
+{% endtab %}
+{% endtabs %}
 
 ---
 
