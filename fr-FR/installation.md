@@ -546,12 +546,11 @@ La suppression de l'un de ces éléments peut entraîner la perte de votre monde
 {% hint style="success" %}
 ### 💡 Bonnes pratiques
 
-- 💾 Avant toute mise à jour ou modification importante, assurez-vous de disposer d'une sauvegarde récente de votre monde.
-- 🔄 Vérifiez que le serveur et les clients utilisent exactement la même version du modpack.
-- 🛠️ En cas de problème, supprimez les dossiers `config/` et `defaultconfigs/`, puis relancez le jeu afin de régénérer automatiquement les configurations.
-- ❓ Consultez notre [FAQ](faq.md) si vous rencontrez un problème ou avez besoin d'informations complémentaires.
-
-- 🤖 Rejoignez notre serveur [Discord](https://discord.gg/kb8NSTF45n) pour obtenir de l'aide, signaler un problème ou échanger avec la communauté.
+- 💾 Conservez toujours une sauvegarde récente de votre monde.
+- 🔄 Vérifiez que le serveur et les joueurs utilisent la même version du modpack.
+- 🛠️ En cas de problème, supprimez `config/` et `defaultconfigs/` puis relancez le jeu.
+- ❓ Consultez notre [FAQ](faq.md) pour les questions les plus fréquentes.
+- 💬 Besoin d'aide ? Rejoignez notre serveur [Discord](https://discord.gg/kb8NSTF45n).
 {% endhint %}
 
 ---
