@@ -530,13 +530,15 @@ Vous pouvez ainsi vous concentrer sur votre aventure plutôt que sur l'administr
 {% endtabs %}
 
 {% hint style="danger" %}
-🚫 Ne supprimez jamais :
+### ⚠️ Fichiers à ne jamais supprimer
 
-- le dossier `world/`
-- le dossier `libraries/`
-- les fichiers `.jar`
+Les éléments suivants sont essentiels au fonctionnement de votre serveur :
 
-Ces fichiers contiennent votre monde ou sont **indispensables** au bon fonctionnement du serveur.
+- 🌍 `world/` → contient votre monde et toutes les données de jeu
+- 📚 `libraries/` → contient les bibliothèques nécessaires au lancement
+- ⚙️ fichiers `.jar` → indispensables au démarrage du serveur
+
+La suppression de l'un de ces éléments peut entraîner la perte de votre monde ou empêcher complètement le démarrage du serveur.
 {% endhint %}
 
 ---
