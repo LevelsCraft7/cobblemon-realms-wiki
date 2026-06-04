@@ -2,7 +2,7 @@
 
 ### 📜 **Liste des invocations de la Première Génération**
 
-| 🌿 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🌍 Biomes |
+| 🌿 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🧭 Localisation |
 |:----------:|:----------:|:----------:|:----------:|
 | ![](https://play.pokemonshowdown.com/sprites/ani/articuno.gif)<br>**Artikodin** | Tidal Bell | 🧊 3 Pierres Glace | Frozen biomes |
 | ![](https://play.pokemonshowdown.com/sprites/ani/zapdos.gif)<br>**Électhor** | Tidal Bell | ⚡ 3 Pierres Foudre | Plains, Savanna |
