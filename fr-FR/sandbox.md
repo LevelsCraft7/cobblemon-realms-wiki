@@ -14,23 +14,23 @@
 
 {% stepper %}
 {% step %}
-Téléchargez et installez l'[Application CurseForge](https://www.curseforge.com/download/app)
+📥 Installez l'[Application CurseForge](https://www.curseforge.com/download/app)
 {% endstep %}
 
 {% step %}
-Recherchez [Cobblemon Realms](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms)
+🔎 Recherchez **Cobblemon Realms**
 {% endstep %}
 
 {% step %}
-Cliquez sur `Installer`
+📦 Cliquez sur **Installer**
 {% endstep %}
 
 {% step %}
-Attendez la fin du téléchargement...
+⏳ Patientez pendant le téléchargement et l'installation des mods
 {% endstep %}
 
 {% step %}
-Lancez le jeu !
+🚀 Lancez le modpack et commencez votre aventure !
 {% endstep %}
 {% endstepper %}
 
