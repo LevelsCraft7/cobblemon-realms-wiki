@@ -43,7 +43,7 @@ Commencez par :
 
 {% hint style="info" %}
 🧭 L’exploration est essentielle pour découvrir de nouveaux Pokémon et progresser efficacement.
-</p>
+{% endhint %}
 
 ---
 
@@ -59,7 +59,7 @@ Certaines espèces apparaissent uniquement :
 
 {% hint style="success" %}
 📘 Consultez la page [`Pokémon et apparitions`](pokemon-and-spawns.md) pour plus d’informations.
-</p>
+{% endhint %}
 
 ---
 
@@ -76,7 +76,7 @@ Les quêtes permettent notamment de :
 
 {% hint style="success" %}
 ✨ Il est fortement recommandé de suivre les quêtes au début de votre aventure.
-</p>
+{% endhint %}
 
 ---
 
