@@ -20,7 +20,7 @@ Ce wiki a été conçu pour vous aider à :
 
 ## 📖 Ce que vous découvrirez ici
 
-## 🛠️ Installation & Configuration
+### 🛠️ Installation & Configuration
 
 - 📦 Aide à l’installation et aux mises à jour
 - 🚀 Optimisation des performances et de la fluidité
@@ -29,7 +29,7 @@ Ce wiki a été conçu pour vous aider à :
 
 ---
 
-## 🧭 Progression & Aventure
+### 🧭 Progression & Aventure
 
 - 🏆 Systèmes de progression personnalisés
 - 🎯 Dresseurs, level caps et défis
@@ -38,7 +38,7 @@ Ce wiki a été conçu pour vous aider à :
 
 ---
 
-## 🌍 Exploration & Pokémon
+### 🌍 Exploration & Pokémon
 
 - 🌍 Apparitions et comportements des Pokémon
 - 🗺️ Biomes, dimensions et conditions de spawn
@@ -47,7 +47,7 @@ Ce wiki a été conçu pour vous aider à :
 
 ---
 
-## 🧑‍🤝‍🧑 Multijoueur & Serveurs
+### 🧑‍🤝‍🧑 Multijoueur & Serveurs
 
 - 🌐 Rejoindre un serveur multijoueur
 - 🖥️ Héberger votre propre monde
@@ -56,7 +56,7 @@ Ce wiki a été conçu pour vous aider à :
 
 ---
 
-## 🚀 Par où commencer ?
+### 🚀 Par où commencer ?
 
 Si vous découvrez le modpack, nous vous conseillons de suivre cet ordre :
 
@@ -73,7 +73,7 @@ Si vous découvrez le modpack, nous vous conseillons de suivre cet ordre :
 
 ---
 
-## 🤝 Communauté & Contributions
+### 🤝 Communauté & Contributions
 
 Cette documentation est collaborative et continuera d’évoluer avec le temps.
 
