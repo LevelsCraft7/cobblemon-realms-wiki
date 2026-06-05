@@ -51,13 +51,13 @@ Notre serveur Discord propose une intégration puissante via le bot **@Our Story
 
 ### 📋 Commandes disponibles :
 
-* 🇬🇧 Anglais :
+- 🇬🇧 Anglais :
   `/where <pokemon_name>`
-* 🇫🇷 Français :
+- 🇫🇷 Français :
   `/tesou <pokemon_name>`
-* 🇩🇪 Allemand :
+- 🇩🇪 Allemand :
   `/wobistdu <pokemon_name>`
-* 🇯🇵 Japonais (Rōmaji) :
+- 🇯🇵 Japonais (Rōmaji) :
   `/doko <pokemon_name>`
 
 Vous recevrez un résultat détaillé avec tous les biomes connus pour cette espèce.
@@ -71,9 +71,9 @@ Certains Pokémon communs peuvent retourner une liste de **100+ biomes possibles
 
 ## 🧠 Conseils supplémentaires
 
-* Utilisez la commande `/checkspawns` en explorant pour trouver des Pokémon liés à votre zone.
-* Utilisez le bot si vous voulez **suivre des Pokémon spécifiques** dans le monde.
-* N’oubliez pas que **Cobblemon Realms** inclut des **évolutions personnalisées**, des **formes exclusives** et des **mécaniques de spawn uniques** 
+- Utilisez la commande `/checkspawns` en explorant pour trouver des Pokémon liés à votre zone.
+- Utilisez le bot si vous voulez **suivre des Pokémon spécifiques** dans le monde.
+- N’oubliez pas que **Cobblemon Realms** inclut des **évolutions personnalisées**, des **formes exclusives** et des **mécaniques de spawn uniques** 
 
 ⮕ Consultez la section [Formes exclusives](../pokemons-exclusives/mewtwo-exclusive-forms.md) pour en savoir plus !
 
