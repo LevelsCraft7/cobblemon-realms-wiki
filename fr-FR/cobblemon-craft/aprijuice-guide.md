@@ -55,7 +55,7 @@ Chaque seuil atteint débloque un bonus supplémentaire.
 | 75 | +5 |
 | 105 | +6 |
 
-{% hint style="success" %}
+{% hint style="info" %}
 Seul le seuil le plus élevé atteint est appliqué pour chaque type de saveur.
 {% endhint %}
 
