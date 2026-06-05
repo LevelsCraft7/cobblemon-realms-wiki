@@ -82,7 +82,8 @@ Certains Pokémon communs peuvent retourner une liste de **100+ biomes possibles
 {% hint style="success" %}
 ## 💁🏼‍♂️ Besoin d’aide ou envie de signaler un problème de spawn ?
 
-<p align="center">[Notre Discord](https://discord.gg/kb8NSTF45n)</p>
+<p align="center">
+[Notre Discord](https://discord.gg/kb8NSTF45n)</p>
 {% endhint %}
 
 Utilisez cette fonctionnalité pour **planifier votre aventure** ou optimiser vos chasses aux shiny/rares.
