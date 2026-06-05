@@ -11,7 +11,7 @@ Les montures d'épaule sont des Pokémon que vous pouvez placer sur votre épaul
 {% endhint %}
 
 <p align="center">
-> ℹ️ *Les effets restent actifs tant que le Pokémon est sur votre épaule.*
+ℹ️ *Les effets restent actifs tant que le Pokémon est sur votre épaule.*
 </p>
 
 ## ⚙️ Informations
