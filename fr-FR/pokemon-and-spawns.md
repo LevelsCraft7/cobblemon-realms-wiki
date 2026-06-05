@@ -64,7 +64,7 @@ Vous recevrez un résultat détaillé avec tous les biomes connus pour cette esp
 Certains Pokémon communs peuvent retourner une liste de **100+ biomes possibles**.
 
 {% hint style="info" %}
-💡 Utilisez cette fonctionnalité pour <strong>planifier votre aventure<\strong> ou optimiser vos chasses aux shiny/rares.
+💡 Utilisez cette fonctionnalité pour <strong>planifier votre aventure</strong> ou optimiser vos chasses aux shiny/rares.
 {% endhint %}
 
 ---
