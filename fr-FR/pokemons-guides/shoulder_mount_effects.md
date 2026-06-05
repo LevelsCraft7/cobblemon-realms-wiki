@@ -2,9 +2,17 @@
 
 ## 🎒 Effets des Pokémon sur l'Épaule (v5.0)
 
-Cette page recense tous les Pokémon capables d'appliquer des effets lorsqu'ils sont placés sur votre épaule dans Cobblemon Realms.
+Les montures d'épaule sont des Pokémon que vous pouvez placer sur votre épaule pour obtenir des bonus uniques. Utilisez cette fonction /shoulderpour consulter tous les Pokémon disponibles pour les montures d'épaule et leurs effets. Pour équiper une monture d'épaule et activer son bonus, relâchez votre Pokémon, appuyez sur Maj + clic droit et  sélectionnez « Épaule » . Certains bonus et effets nécessitent l'équipement de deux montures d'épaule.
 
-> ℹ️ Les effets restent actifs tant que le Pokémon est sur votre épaule.
+{% hint style="info" %}
+<p align="center">
+<strong>Les montures d'épaule sont des Pokémon que vous pouvez placer <strong> sur votre épaule</strong> pour obtenir des bonus uniques. Utilisez cette fonction <code><code>/shoulder</code> pour consulter tous les Pokémon disponibles pour les montures d'épaule et leurs effets. Pour équiper une monture d'épaule et activer son bonus, relâchez votre Pokémon, appuyez sur <code></code>Maj + clic droit</code> et sélectionnez <strong>Épaule</strong>. Certains bonus et effets nécessitent l'équipement de deux montures d'épaule.
+</p>
+{% endhint %}
+
+<p align="center">
+> ℹ️ *Les effets restent actifs tant que le Pokémon est sur votre épaule.*
+</p>
 
 ## ⚙️ Informations
 
