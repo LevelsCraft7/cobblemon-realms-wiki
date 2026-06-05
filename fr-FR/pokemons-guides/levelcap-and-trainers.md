@@ -9,7 +9,9 @@ Cette page présente les principes généraux du système ainsi que les informat
 ---
 
 <details>
-<summary align="center"><strong>🌍 Guide Freeroam - Jouer sans Level Cap</strong></summary>
+<summary align="center">
+<strong>🌍 Guide Freeroam - Jouer sans Level Cap</strong>
+</summary>
 
 # 🌍 Mode Freeroam
 
