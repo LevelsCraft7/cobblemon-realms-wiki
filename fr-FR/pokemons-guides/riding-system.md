@@ -174,7 +174,10 @@ Chaque Pokémon possède ses propres statistiques de monture.
 ⚠️ Ces statistiques sont totalement indépendantes des statistiques de combat du Pokémon.
 {% endhint %}
 
-ℹ️ Il est également possible de modifier certaines de ces caractéristiques grâce aux [Aprijuices](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/cobblemon-craft/aprijuice-guide.md).
+{% hint style="success" %} 
+Il est également possible de modifier certaines de ces caractéristiques grâce aux<p align="center"> <a href="https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/fr-FR/cobblemon-craft/aprijuice-guide.md">Aprijuices</a> 
+</p> 
+{% endhint %}
 
 ---
 
