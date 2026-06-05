@@ -4,7 +4,7 @@
 
 {% hint style="info" %}
 <p align="center">
-Les <strong>montures d'épaule</strong> sont des Pokémon que vous pouvez placer <strong>sur votre épaule</strong> pour obtenir des bonus uniques. Utilisez la commande <code>/shoulder</code> pour consulter tous les Pokémon disponibles comme montures d'épaule ainsi que leurs effets. Pour équiper une monture d'épaule et activer son bonus, relâchez votre Pokémon, appuyez sur <code>Maj + clic droit</code> et sélectionnez <strong>Épaule</strong>. Certains bonus et effets nécessitent l'équipement de deux montures d'épaule.
+Les <strong>montures d'épaule</strong> sont des Pokémon pouvant être placés sur vos épaules afin de vous conférer des <strong>bonus passifs uniques</strong>. Utilisez la commande <code>/shoulder</code> pour consulter la liste complète des montures disponibles ainsi que leurs effets. Pour équiper une monture d'épaule, faites apparaître votre Pokémon, maintenez <code>Maj + clic droit</code> dessus puis sélectionnez <strong>Épaule</strong>. Certains effets nécessitent l'équipement simultané de deux montures d'épaule pour être activés.
 </p>
 {% endhint %}
 
