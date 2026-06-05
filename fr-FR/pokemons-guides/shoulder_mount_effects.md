@@ -9,7 +9,7 @@ Les <strong>montures d'épaule</strong> sont des Pokémon pouvant être placés 
 {% endhint %}
 
 <p align="center">
-ℹ️ *Les effets restent actifs tant que le Pokémon est sur votre épaule.*
+ℹ️ <em>Les effets restent actifs tant que le Pokémon est sur votre épaule.</em>
 </p>
 
 ## ⚙️ Informations
