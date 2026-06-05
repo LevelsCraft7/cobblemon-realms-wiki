@@ -2,7 +2,11 @@
 
 ## 🌍 Comprendre les apparitions
 
+{% hint style="info" %}
+<p align="center">
 Cobblemon Realms utilise un système d’apparition personnalisé afin de proposer des rencontres plus cohérentes, variées et adaptées à chaque environnement. Comprendre son fonctionnement vous aidera à trouver plus facilement les Pokémon que vous recherchez.
+</p>
+{% endhint %}
 
 ---
 
@@ -59,7 +63,9 @@ Notre serveur Discord propose une intégration puissante via le bot **@Our Story
 Vous recevrez un résultat détaillé avec tous les biomes connus pour cette espèce.
 Certains Pokémon communs peuvent retourner une liste de **100+ biomes possibles**.
 
-> 💡 Utilisez cette fonctionnalité pour **planifier votre aventure** ou optimiser vos chasses aux shiny/rares.
+{% hint style="info" %}
+💡 Utilisez cette fonctionnalité pour <strong>planifier votre aventure<\strong> ou optimiser vos chasses aux shiny/rares.
+{% endhint %}
 
 ---
 
@@ -73,4 +79,10 @@ Certains Pokémon communs peuvent retourner une liste de **100+ biomes possibles
 
 ---
 
-Besoin d’aide ou envie de signaler un problème de spawn ? Rejoignez-nous sur [Notre Discord](https://discord.gg/kb8NSTF45n) !
+Besoin d’aide ou envie de signaler un problème de spawn ? Rejoignez-nous sur [Notre Discord](https://discord.gg/kb8NSTF45n)
+
+{% hint style="success" %}
+## 💁🏼‍♂️ Besoin d’aide ou envie de signaler un problème de spawn ?
+
+Utilisez cette fonctionnalité pour <strong>planifier votre aventure<\strong> ou optimiser vos chasses aux shiny/rares.
+{% endhint %}
