@@ -1,10 +1,10 @@
 # 🧃 Aprijuice
 
-{% hint style="success" %}
+{% hint style="info" %}
 <p align="center">
-
-L’<strong>Aprijuice</strong> est un objet consommable préparé dans une <code>Marmite à feu</code> sur un <code>Feu de camp</code>. Pendant sa cuisson, il absorbe différents arômes issus des ingrédients utilisés, ce qui permet de modifier durablement les statistiques de monture d’un Pokémon.
-
+## L’<strong>Aprijuice</strong>
+  
+est un objet consommable préparé dans une <code>Marmite à feu</code> sur un <code>Feu de camp</code>. Pendant sa cuisson, il absorbe différents arômes issus des ingrédients utilisés, ce qui permet de modifier durablement les statistiques de monture d’un Pokémon.
 </p>
 {% endhint %}
 
