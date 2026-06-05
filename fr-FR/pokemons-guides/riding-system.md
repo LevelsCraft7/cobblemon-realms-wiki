@@ -273,9 +273,7 @@ Lorsque l'endurance est épuisée, la capacité concernée devient temporairemen
 {% hint style="info" %}
 ## Vous souffrez du mal des transports ?
 
-<p align="center">
-💡 Définissez `"disableRoll": true`.
-</p>
+💡 Définissez : `"disableRoll": true`.
 {% endhint %}
 
 ---
