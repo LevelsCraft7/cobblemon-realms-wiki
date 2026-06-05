@@ -4,9 +4,12 @@
 
 {% hint style="warning" %}
 <p align="center">
-## Cette page est en cours de révision.
+<strong>🚧 Cette page est en cours de révision</strong>
+</p>
 
-Certaines informations peuvent être incorrectes ou ne plus correspondre à la version actuelle du modpack. Merci de vous référer aux autres guides du wiki en attendant sa mise à jour.
+<p align="center">
+Certaines informations peuvent être incorrectes ou ne plus correspondre à la version actuelle du modpack.
+Merci de vous référer aux autres guides du wiki en attendant sa mise à jour.
 </p>
 {% endhint %}
 
