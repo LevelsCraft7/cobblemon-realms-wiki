@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 <p align="center">
-## Qu'est-ce qu l’<strong>Aprijuice</strong> ?
+Qu'est-ce qu l’<strong>Aprijuice</strong> ?
 </p>
 
 <p align="center">
