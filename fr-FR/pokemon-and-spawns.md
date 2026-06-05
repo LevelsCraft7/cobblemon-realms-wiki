@@ -84,5 +84,5 @@ Besoin d’aide ou envie de signaler un problème de spawn ? Rejoignez-nous sur 
 {% hint style="success" %}
 ## 💁🏼‍♂️ Besoin d’aide ou envie de signaler un problème de spawn ?
 
-Utilisez cette fonctionnalité pour <b>planifier votre aventure</b> ou optimiser vos chasses aux shiny/rares.
+Utilisez cette fonctionnalité pour <strong>planifier votre aventure</strong> ou optimiser vos chasses aux shiny/rares.
 {% endhint %}
