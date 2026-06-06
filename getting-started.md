@@ -1,134 +1,96 @@
-# Getting Started
+# 🧭 Getting Started
 
-[🌍 Return to language selection](https://app.gitbook.com/o/OxqthcidTBoux86jZcUE/s/MoNV72ip5YoBD0RvKQwp/)
+## 🎒 The Basics of Your Adventure
 
-Welcome to **Cobblemon Realms**.
-This modpack is designed around progression, exploration, custom systems, and long-term adventure.
-
-Here is what you should do when launching the modpack for the first time.
-
----
-
-## 1. Create your world properly
-
-* Make sure you are using the official version of the modpack.
-* Do not add extra mods before your first launch.
-* Let the game finish generating data and loading datapacks.
-
-If something seems broken on first load, restart the game once before troubleshooting further.
+{% hint style="info" %}
+<p align="center">
+Before setting off on your adventure, here are the main steps to help you get started in <strong>Cobblemon Realms</strong>.
+</p>
+{% endhint %}
 
 ---
 
-## 2. Choose your starter Pokémon
+## 🐾 1. Choose Your Starter Pokémon
 
-You will be prompted to select your starter.
+When you first join the game, you'll need to select a starter Pokémon.
 
-Your choice matters early game, so consider:
+Choose one that fits your preferred playstyle:
 
-* Type advantages
-* Your preferred playstyle
-* The biome you plan to explore first
-
-After selecting your starter, your adventure officially begins.
-
----
-
-## 3. Open the Quest Book
-
-Cobblemon Realms is built around structured progression.
-
-Open your **Quest Book** immediately after spawning.
-It will:
-
-* Guide your early survival
-* Introduce core mechanics
-* Explain custom systems
-* Provide structured objectives
-
-The questlines are designed to prevent confusion and give direction.
+- 🧭 Exploration
+- ⚔️ Battles
+- 📈 Fast progression
+- 📚 Collection
 
 ---
 
-## 4. Explore the World
+## 🌍 2. Explore the World
 
-World generation includes multiple biome and structure expansions.
+The world of Cobblemon Realms is filled with things to discover:
 
-You are encouraged to:
+- 🌿 Unique biomes
+- 🏛️ Rare structures
+- ✨ Special events
+- 🐾 Specific Pokémon spawn areas
 
-* Explore different biome types
-* Discover custom structures
-* Search for rare spawn conditions
-* Locate strategic base locations
+Start by:
 
-Certain Pokémon only spawn under specific biome, time, or environmental conditions.
+- 🪵 Gathering resources
+- ⛏️ Crafting your first tools
+- 🏠 Building a small base
+- 📍 Finding a safe location
 
-Exploration is not optional. It is part of progression.
-
----
-
-## 5. Train and Catch Pokémon
-
-Catching and training Pokémon is central to progression.
-
-* Use crafted Poké Balls
-* Learn spawn patterns
-* Train your team strategically
-* Prepare for tougher encounters and raids
-
-Some systems, events, and challenges are balanced around team strength.
+{% hint style="info" %}
+🧭 Exploration is essential for discovering new Pokémon and progressing efficiently.
+{% endhint %}
 
 ---
 
-## 6. Understand the Custom Systems
+## 🎯 3. Catch and Train Your Pokémon
 
-Cobblemon Realms includes custom systems that expand beyond default Cobblemon gameplay.
+Use Poké Balls to expand your team and take on stronger Pokémon.
 
-Depending on your version, this may include:
+Some species only appear:
 
-* Custom economy elements
-* Realms Coins integration
-* Custom progression adjustments
-* Additional mechanics tied to quests
+- 🌙 At specific times of day
+- 🌧️ Under certain weather conditions
+- 🌿 In specific biomes
 
-These systems are explained gradually through quests and documentation.
-
----
-
-## 7. Multiplayer Recommended
-
-While fully playable in singleplayer, the experience is enhanced in multiplayer.
-
-Multiplayer enables:
-
-* Trading
-* Raids
-* Economy interactions
-* Community events
-
-If you join the official server, follow its specific rules and setup instructions.
+{% hint style="success" %}
+📘 Check out the [`Pokémon & Spawns`](pokemon-and-spawns.md) page for more information.
+{% endhint %}
 
 ---
 
-## 8. Keep Your Game Stable
+## 📖 4. Follow the Quests and Objectives
 
-For the best experience:
+The modpack includes several quests and progression systems designed to guide new players.
 
-* Do not modify the modpack unless you understand the consequences.
-* Avoid removing core mods.
-* Always back up your world before updating.
+Quests help you:
 
-If issues occur after modifying the pack, revert to the official version before seeking support.
+- 🧠 Learn important mechanics
+- 🎁 Earn rewards
+- 🔓 Unlock certain content
+- ⚙️ Understand the modpack's exclusive systems
+
+{% hint style="info" %}
+✨ Following the quests is highly recommended at the beginning of your adventure.
+{% endhint %}
 
 ---
 
+## 📚 Useful Links
+
+- [`FAQ`](faq.md)
+- [`Quests`](quests.md)
+- [`Level Caps & Trainers`](pokemons-guides/levelcap-and-trainers.md)
+- [`Pokémon & Spawns`](pokemon-and-spawns.md)
+
 ---
 
-## 🧠 If You Feel Lost
+{% hint style="success" %}
+## 🧠 Tip
 
-Start here:
-
-* [`FAQ`](faq.md)
-* [`Quests`](quests.md)
-
-The modpack is designed to guide you.
-If you follow the questlines, progression will make sense.
+<p align="center">
+Cobblemon Realms is designed for long-term progression, with plenty of exploration, discovery, and goals to unlock over time.
+</p>
+{% endhint %}
