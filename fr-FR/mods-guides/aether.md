@@ -11,7 +11,7 @@
 # 📚 Ce que couvre ce guide
 
 | 📌 Sujet | 📋 Contenu |
-|---|---|
+|:---:|:---:|
 | ☁️ Présentation | Ce qui rend l’Aether unique |
 | 🚪 Accès | Activation du portail |
 | 🐾 Spawns Cobblemon | Pokémon exclusifs et rares |
@@ -44,7 +44,7 @@ Dans **Cobblemon Realms**, l’Aether est surtout connue pour :
 la dimension inclut notamment :
 
 | Catégorie | Exemples de Pokémon |
-|---|---|
+|:---:|:---:|
 | ✨ Pokémon Fée | Mélo, Mélofée, Mélodelfe |
 | 🕊️ Pokémon Vol | Tylton, Altaria, Nirondelle, Hélédelle |
 | 👻 Pokémon étranges et spectraux | Fantominus, Ectoplasma, Feuforêve, Lampignon |
@@ -62,7 +62,7 @@ Les biomes les plus ouverts et lisibles de l’Aether.
 ## 🐾 Spawns notables
 
 | Catégorie | Pokémon |
-|---|---|
+|:---:|:---:|
 | ✨ Rares | Absol, Nanméouïe, Gallame, Gardevoir, Altaria |
 | 🏆 Légendaires | Shaymin, Rayquaza, Fulguris, Boréas |
 | ⚠️ Paradoxes | Ire-Foudre, Pelage-Sable |
@@ -70,7 +70,7 @@ Les biomes les plus ouverts et lisibles de l’Aether.
 ## 📌 Pourquoi ces biomes sont importants ?
 
 | 🌿 Points forts |
-|---|
+|:---:|
 | 👀 Très bonne visibilité |
 | 🧭 Exploration facile |
 | ✨ Spawns rares |
@@ -85,7 +85,7 @@ Biomes plus denses et plus dangereux visuellement.
 ![Skyroot Forest](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Skyroot_Forest.png) ![Woodland](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Skyroot_Woodland.png)
 
 | Catégorie | Pokémon |
-|---|---|
+|:---:|:---:|
 | 🏆 Légendaires | Xerneas, Cosmog, Terapagos |
 | 👽 Ultra-Chimères | Vémini, Mouscoto, Pierroteknik, Câblifère |
 | ⚠️ Paradoxes | Rugit-Lune, Hurle-Queue, Fongus-Furie |
@@ -93,7 +93,7 @@ Biomes plus denses et plus dangereux visuellement.
 ## 📌 Intérêt principal
 
 | ⚠️ Contenu late-game |
-|---|
+|:---:|
 | 👽 Ultra-Chimères |
 | ⚠️ Pokémon Paradoxes |
 | 🏆 Légendaires |
@@ -106,7 +106,7 @@ Biomes plus denses et plus dangereux visuellement.
 L’Aether mélange plusieurs styles de rencontres :
 
 | Types dominants |
-|---|
+|:---:|
 | 🌈 Fée • ☁️ Vol • 🐉 Dragons • ⚠️ Paradoxes • 👽 Ultra-Chimères • 🏆 Late-game |
 
 ➡️ Dans Cobblemon Realms, l’Aether est une véritable zone de progression et de chasse avancée.
