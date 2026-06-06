@@ -1,86 +1,121 @@
-# Frequently Asked Questions (FAQ)
+# ❓ Frequently Asked Questions
+
+## 📖 Most Frequently Asked Questions
+
+{% hint style="info" %}
+<p align="center">
+💡 This page answers the most common questions regarding installation, performance, servers, and progression in Cobblemon Realms.
+</p>
+{% endhint %}
 
 ---
 
-## "My game crashes when launching the modpack"
+## 🚫 My game crashes when launching the modpack
 
-- Make sure you're using **Java 21 or higher**.
-- Allocate at least **8 GB of RAM** in your launcher. 10 to 12 GB is recommended.
-- Avoid having other heavy applications open while launching the game.
-- For solo play, use the recommended JVM flags for better stability.
+Most crashes are caused by an incorrect Java version or insufficient allocated memory.
 
-[See the Solo Optimization Guide](settings/optimize-solo-performance.md)
+Make sure you are using **Java 21** and have allocated **8 GB of RAM** to the game.
 
----
-
-## "I can't find any Pokemon"
-
-- Explore different biomes because spawn variety depends on location.
-- Some Pokemon only appear at night, in caves, or during specific weather.
-- Use `/checkspawns` in-game to see nearby spawn chances.
-
-[Read the Pokemon Spawns Guide](pokemon-and-spawns.md)
+📘 [Installation Guide](installation.md)
 
 ---
 
-## "Can I add more mods?"
+## 🐾 I can't find any Pokémon
 
-- Technically yes, but it is strongly discouraged.
-- Extra mods can break balance, progression, performance, and compatibility.
-- If you do add mods, test them one by one and be ready to remove them if issues appear.
+Spawns depend on the biome, time of day, weather, and your location.
 
----
+Use the command:
 
-## "Can I start solo and invite friends later?"
+`/checkspawns`
 
-- Yes. You can move your singleplayer world to a server later.
-- Use the server pack from CurseForge to make setup easier.
+to display which Pokémon can spawn around you.
 
----
-
-## "Can I use Aternos, Minehut, or another free host?"
-
-- Not recommended for a large modpack like this.
-- Choose a host with enough RAM, Java 21, and FTP access.
+📘 [Spawn Guide](pokemon-and-spawns.md)
 
 ---
 
-## "Does the modpack require special setup?"
+## 🧩 Can I add other mods?
 
-- Yes. Use **Java 21 or higher**.
-- Allocate at least **8 GB of RAM**.
-- A dedicated GPU is strongly recommended for shader performance.
+Yes, but it is not recommended.
 
-[Follow the Installation Guide](installation.md)
+Additional mods may cause conflicts, crashes, or alter the balance of the modpack.
 
----
-
-## "Can I translate or help improve the wiki?"
-
-- Yes. Contributions are welcome, especially translations.
-- The wiki is now managed through **GitHub** and **GitBook** only.
-- You can suggest corrections, improve wording, or submit translated pages through GitHub.
+{% hint style="warning" %}
+⚠️ Any issues caused by manually added mods cannot be supported.
+{% endhint %}
 
 ---
 
-## "Are there unique forms or evolutions?"
+## 👥 Can I start in singleplayer and move to a server later?
 
-- Yes. The modpack includes several exclusive forms and special content.
+✅ Yes.
 
-[See Pokemon Exclusive Forms](pokemons-exclusives/mewtwo-exclusive-forms.md)
+Your singleplayer world can be transferred to a server at any time without restarting your progression.
 
----
-
-## "Where can I learn more about trainers, level caps, and gyms?"
-
-- Check the trainer progression guide for level caps, key trainers, gym leaders, and progression details.
-
-[Read the Level Cap and Trainers Guide](pokemons-guides/levelcap-and-trainers.md)
+📘 [Installation Guide](installation.md)
 
 ---
 
-## Still have questions?
+## 🖥️ Can I use Aternos, Minehut, or a free hosting provider?
 
-Join the Discord server for help, discussion, or bug reports:
+Technically yes, but performance is often insufficient to properly run the modpack.
 
-[https://discord.gg/kb8NSTF45n](https://discord.gg/kb8NSTF45n)
+{% hint style="warning" %}
+⚠️ We recommend a hosting provider with at least **8 GB of RAM**, **Java 21** support, and FTP access.
+{% endhint %}
+
+---
+
+## ⚙️ What configuration is recommended?
+
+To fully enjoy the modpack, we recommend:
+
+- ☕ Java 21 or newer
+- 💾 8 GB of allocated RAM
+- 🎮 Up-to-date graphics drivers
+- 🚀 Installation on an SSD
+
+📘 [Installation Guide](installation.md)
+
+---
+
+## 🌍 Can I help improve the wiki?
+
+Yes, contributions are welcome.
+
+You can:
+
+- ✏️ Correct mistakes
+- 📖 Improve existing guides
+- 🌐 Translate content
+- ➕ Add new information
+
+📘 [Contribution Guide](contributing.md)
+
+---
+
+## ✨ Is there exclusive content?
+
+Yes.
+
+Cobblemon Realms adds multiple exclusive features, including special forms, unique mechanics, and exclusive evolutions.
+
+📘 [View Exclusive Content](pokemons-exclusives/mewtwo-exclusive-forms.md)
+
+---
+
+## 🏆 Where can I find information about trainers and level caps?
+
+All information regarding progression, gyms, champions, and level caps is grouped into a dedicated guide.
+
+📘 [Trainer & Level Cap Guide](pokemons-guides/levelcap-and-trainers.md)
+
+---
+
+{% hint style="success" %}
+## 💬 I didn't find my answer
+
+Join our Discord server to get help from the community and the team.
+{% endhint %}
+
+🔗 [Join the Discord](https://discord.gg/kb8NSTF45n)
