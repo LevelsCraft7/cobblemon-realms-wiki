@@ -1,13 +1,8 @@
 # 🌑 Plongée dans les Profondeurs Oubliées
 
-**Deeper and Darker** ajoute une dimension souterraine oppressante nommée **The Otherside**, centrée sur :
-
-- 🌑 L’obscurité
-- 🔊 Des sons et les vibrations
-- 🧭 L’exploration prudente
-- 💀 Du loot à haut risque
-
-Dans **Cobblemon Realms**, cette dimension devient encore plus importante grâce à ses nombreux **spawns Cobblemon personnalisés**, incluant plusieurs rencontres rares et late-game.
+{% hint style="info" %}
+<strong>The Otherside</strong> est une dimension ajoutée par Deeper and Darker, centrée sur l'exploration, l'obscurité et les récompenses à haut risque. Sur Cobblemon Realms, elle accueille également de nombreux spawns Cobblemon exclusifs et late-game.
+{% endhint %}
 
 ![Otherside Portal](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Deeper-and-Darker/Otherside_Portal.png)
 
@@ -27,7 +22,53 @@ Dans **Cobblemon Realms**, cette dimension devient encore plus importante grâce
 
 ---
 
+# 🚪 Comment accéder à The Otherside
+
+{% hint style="warning" %}
+L'accès à The Otherside nécessite de vaincre ou d'affronter le Warden afin d'obtenir un <strong>Heart of the Deep</strong>.
+{% endhint %}
+
+## ✅ Étapes
+
+1. Trouver une **Ancient City**
+2. Repérer la structure de portail en **Reinforced Deepslate**
+3. Obtenir un **Heart of the Deep** sur le **Warden**
+4. Nettoyer le sculk dans le portail
+5. Activer le portail avec le Heart of the Deep
+
+---
+
+# ⚠️ Avant de partir
+
+## 🎒 Équipement recommandé
+
+- 🛡️ Bonne armure
+- 🍖 Nourriture
+- ❤️ Soins
+- 🧱 Blocs de construction
+- 🧭 Moyens de repérage
+- 👁️ Warden Helmet recommandé
+
+{% hint style="danger" %}
+Le danger ne provient pas uniquement des créatures. L'obscurité, le relief et la difficulté à s'orienter rendent The Otherside particulièrement hostile aux joueurs mal préparés.
+{% endhint %}
+
+## ⚠️ Important
+
+Le danger ne vient pas uniquement des mobs :
+
+- 🌑 visibilité réduite
+- 🕳️ terrain dangereux
+- 🧭 orientation difficile
+- 👻 ambiance oppressante
+
+---
+
 # 🐾 Spawns Cobblemon dans The Otherside
+
+{% hint style="success" %}
+The Otherside est l'une des dimensions les plus intéressantes pour la capture de Pokémon rares, de dragons, de paradoxes et de nombreuses espèces Spectre ou Ténèbres.
+{% endhint %}
 
 Sur **Cobblemon Realms**, The Otherside est surtout connue pour ses nombreux spawns personnalisés orientés :
 
@@ -62,6 +103,10 @@ Les **Deeplands** représentent le cœur hostile de la dimension.
 
 - **Type:0**
 - **Marshadow**
+
+{% hint style="warning" %}
+Les Deeplands abritent plusieurs des rencontres les plus rares de toute la dimension.
+{% endhint %}
 
 ## 📌 Pourquoi explorer ce biome ?
 
@@ -157,6 +202,10 @@ Biome rocheux composé d’immenses colonnes minérales.
 - **Pelage-Sable**
 - **Feu-Perçant**
 
+{% hint style="warning" %}
+Les Overcast Columns sont actuellement le biome le plus intéressant pour la recherche de Pokémon Paradoxes.
+{% endhint %}
+
 ## 📌 Pourquoi ce biome est important ?
 
 | ⚔️ Spécialités |
@@ -168,70 +217,26 @@ Biome rocheux composé d’immenses colonnes minérales.
 
 ---
 
-# 🏛️ Spawns liés aux structures
-
-Certaines apparitions dépendent directement de structures spécifiques.
-
-## 🏛️ Ancient Temple
-
-Peut faire apparaître :
-
-- 🐱 Miaouss d’Alola
-- 👑 Persian d’Alola
-
-Certaines règles utilisent aussi :
-
-`#cobblemon:is_deep_dark`
-
-➡️ Cela renforce l’identité unique de la dimension dans Cobblemon Realms.
-
----
-
-# 🚪 Comment accéder à The Otherside
-
-## ✅ Étapes
-
-1. Trouver une **Ancient City**
-2. Repérer la structure de portail en **Reinforced Deepslate**
-3. Obtenir un **Heart of the Deep** sur le **Warden**
-4. Nettoyer le sculk dans le portail
-5. Activer le portail avec le Heart of the Deep
-
----
-
-# ⚠️ Avant de partir
-
-The Otherside punit rapidement les erreurs.
-
-## 🎒 Équipement recommandé
-
-- 🛡️ Bonne armure
-- 🍖 Nourriture
-- ❤️ Soins
-- 🧱 Blocs de construction
-- 🧭 Moyens de repérage
-- 👁️ Warden Helmet recommandé
-
-## ⚠️ Important
-
-Le danger ne vient pas uniquement des mobs :
-
-- 🌑 visibilité réduite
-- 🕳️ terrain dangereux
-- 🧭 orientation difficile
-- 👻 ambiance oppressante
-
----
-
-# 🏛️ Structures importantes
-
-## 🏛️ Ancient Temple
+# 🏛️ Ancient Temple
 
 Structure principale des Deeplands.
 
 ![Ancient Temple](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Deeper-and-Darker/Ancient_Temple.png)
 
-## 📌 Pourquoi elle est importante ?
+## 🐾 Pokémon liés à la structure
+
+Peut faire apparaître :
+
+- 🐱 Miaouss d'Alola
+- 👑 Persian d'Alola
+
+Certaines règles utilisent également :
+
+`#cobblemon:is_deep_dark`
+
+➡️ Cela renforce l'identité unique de la dimension dans Cobblemon Realms.
+
+## 📌 Pourquoi l'explorer ?
 
 | 🏛️ Ancient Temple |
 |---|
@@ -275,26 +280,30 @@ Structure principale des Deeplands.
 
 ---
 
-# 📌 À retenir
+{% hint style="success" %}
+## 📌 À retenir
+
+<strong>The Otherside</strong> est une dimension dangereuse mais extrêmement rentable pour les joueurs cherchant des Pokémon rares, des paradoxes, des dragons et des récompenses exclusives. L'Ancient Temple constitue l'un des principaux objectifs d'exploration.
 
 - 🌑 The Otherside est une dimension très dangereuse
 - 🐾 Les spawns Cobblemon y sont extrêmement intéressants
 - 🏛️ L’Ancient Temple est une structure clé
 - ⚠️ Préparez toujours votre exploration
 - 🧭 Notez vos coordonnées avant de partir loin
+{% endhint %}
 
 ---
 
 # 📚 Sources utiles
 
-- [Wiki officiel — The Otherside](https://github-wiki-see.page/m/KyaniteMods/DeeperAndDarker/wiki/The-Otherside)
-- [Wiki officiel — Starting Guide](https://github-wiki-see.page/m/KyaniteMods/DeeperAndDarker/wiki/Starting-Guide)
-- [Minecraft Guides — Otherside Portal](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/otherside-portal/)
-- [Minecraft Guides — Ancient Temple](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/ancient-temple/)
-- [Minecraft Guides — Echoing Forest](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/echoing-forest/)
-- [Minecraft Guides — Blooming Caverns](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/blooming-caverns/)
-- [Minecraft Guides — Overcast Columns](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/overcast-columns/)
+- [Wiki officiel - The Otherside](https://github-wiki-see.page/m/KyaniteMods/DeeperAndDarker/wiki/The-Otherside)
+- [Wiki officiel - Starting Guide](https://github-wiki-see.page/m/KyaniteMods/DeeperAndDarker/wiki/Starting-Guide)
+- [Minecraft Guides - Otherside Portal](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/otherside-portal/)
+- [Minecraft Guides - Ancient Temple](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/ancient-temple/)
+- [Minecraft Guides - Echoing Forest](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/echoing-forest/)
+- [Minecraft Guides - Blooming Caverns](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/blooming-caverns/)
+- [Minecraft Guides - Overcast Columns](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/overcast-columns/)
 
----
-
-> 📘 Les informations Cobblemon Realms présentées ci-dessus sont basées sur la configuration actuelle des spawns personnalisés utilisés dans la dimension.
+{% hint style="info" %}
+Les informations Cobblemon Realms présentées ci-dessus sont basées sur la configuration actuelle des spawns personnalisés utilisés dans la dimension.
+{% endhint %}
