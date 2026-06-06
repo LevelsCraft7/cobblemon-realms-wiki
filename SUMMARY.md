@@ -2,57 +2,72 @@
 
 ## Welcome
 
-* [👋 Welcome](README.md)
+- [👋 Introduction](README.md)
 
 ## Information
 
-* [📦 Installation Guide](installation.md)
-* [🧭 First Steps](getting-started.md)
-* [❓ Frequently Asked Questions](faq.md)
-* [🛠️ Contributing](contributing.md)
+- [📦 Installation](installation.md)
+- [🧭 Getting started](getting-started.md)
+- [❓ FAQ](faq.md)
+- [🛠️ Contribution](contributing.md)
 
 ## Cobblemon Realms
 
-* [📜 Quests](quests.md)
-* [🌐 Multiplayer Servers](multiplayer-servers.md)
-* [🐾 Pokemon and Spawns](pokemon-and-spawns.md)
-* [🎯 Level Cap and Trainers](pokemons-guides/levelcap-and-trainers.md)
-* [✨ Wild Boost Mechanics](pokemons-guides/wild-boost-mechanics.md)
-* [🧰 Pokemon Workers Guide](pokemons-guides/cobbleworkers-guide.md)
-* [🐎 Riding System (Mounts)](pokemons-guides/riding-system.md)
-* [🦜 Pokemon Shoulder Mount](pokemons-guides/shoulder_mount_effects.md)
-* [🦴 Fossils](pokemons-guides/fossils.md)
-* [🗺️ Biome Tags Reference](pokemons-guides/biome-tags-reference.md)
+- [📜 Quests](quests.md)
+- [🌐 Multiplayer servers](multiplayer-servers.md)
+- [🐾 Pokémon and spawns](pokemon-and-spawns.md)
+- [🎯 Level cap and trainers](pokemons-guides/levelcap-and-trainers.md)
+- [✨ Spawn improvements](pokemons-guides/wild-boost-mechanics.md)
+- [📘 Pokémon Workers guide](pokemons-guides/cobbleworkers-guide.md)
+- [🐎 Mount system](pokemons-guides/riding-system.md)
+   - [🧃 Aprijuice system](cobblemon-craft/aprijuice-guide.md)
+- [🦜 Shoulder Pokémon](pokemons-guides/shoulder_mount_effects.md)
+- [🦴 Fossils](pokemons-guides/fossils.md)
+- [🗺️ Biome tag reference](pokemons-guides/biome-tags-reference.md)
 
 ## Myths and Legends
 
-* [🌟 Legendary Items and Biomes](pokemons-guides/myths-and-legends-legendaries.md)
+- [🌟 Legendary items and biomes](pokemons-guides/myths-and-legends-legendaries.md)
+   - [🌿 Generation 1 - Kanto](pokemons-guides/gen-list/gen_1.md)
+   - [🍃 Generation 2 - Johto](pokemons-guides/gen-list/gen_2.md)
+   - [🌊 Generation 3 - Hoenn](pokemons-guides/gen-list/gen_3.md)
+   - [❄️ Generation 4 - Sinnoh](pokemons-guides/gen-list/gen_4.md)
+   - [🏙️ Generation 5 - Unys](pokemons-guides/gen-list/gen_5.md)
+   - [✨ Generation 6 - Kalos](pokemons-guides/gen-list/gen_6.md)
+   - [🏝️ Generation 7 - Alola](pokemons-guides/gen-list/gen_7.md)
+   - [👑 Generation 8 - Galar/Hisui](pokemons-guides/gen-list/gen_8.md)
+   - [🎓 Generation 9 - Paldea/Kitakami](pokemons-guides/gen-list/gen_9.md)
 
 ## Pokemon Exclusives
 
-* [👶 Baby Legends](pokemons-exclusives/baby-legends.md)
-* [🌊 Ash Greninja](pokemons-exclusives/ash-greninja.md)
-* [🧬 Mewtwo Exclusive Forms](pokemons-exclusives/mewtwo-exclusive-forms.md)
-* [🌑 Shadow Lugia](pokemons-exclusives/shadow-lugia.md)
-* [☀️ Necrozma Fusions](pokemons-exclusives/necrozma-fusions.md)
-* [🌕 Bloodmoon Ursaluna](pokemons-exclusives/bloodmoon-ursaluna.md)
-* [💎 Crystal Onix](pokemons-exclusives/crystal-onix.md)
-* [🥋 Kubfu Evolutions](pokemons-exclusives/kubfu-evolutions.md)
-* [⚡ Meltan Charged Form](pokemons-exclusives/meltan-charged.md)
-* [🦊 Additional Eevee Evolutions](pokemons-exclusives/extra-eevee.md)
-* [🔌 Rotom Appliance Forms](pokemons-exclusives/rotom-forms.md)
-* [✂️ Furfrou Trims](pokemons-exclusives/furfrou-trims.md)
-* [🌀 Therian Forms](pokemons-exclusives/therian-forms.md)
+- [👶 Baby Legends](pokemons-exclusives/baby-legends.md)
+- [🌊 Ash Greninja](pokemons-exclusives/ash-greninja.md)
+- [🧬 Exclusive Mewtwo forms](pokemons-exclusives/mewtwo-exclusive-forms.md)
+- [🌑 Shadow Lugia](pokemons-exclusives/shadow-lugia.md)
+- [🦠 Groudon Virus](pokemons-exclusives/virus-groudon.md)
+- [☀️ Necrozma Fusions](pokemons-exclusives/necrozma-fusions.md)
+- [🌕 Bloodmoon Ursaluna](pokemons-exclusives/bloodmoon-ursaluna.md)
+- [💎 Crystal Onix & Steelix](pokemons-exclusives/crystal-onix.md)
+- [🥋 Kubfu Evolutions](pokemons-exclusives/kubfu-evolutions.md)
+- [⚡ Charged Meltan Form](pokemons-exclusives/meltan-charged.md)
+- [🦊 Additional Eevee Evolutions](pokemons-exclusives/extra-eevee.md)
+- [🔌 Rotom Appliance Forms](pokemons-exclusives/rotom-forms.md)
+- [🌀 Therian Forms](pokemons-exclusives/therian-forms.md)
+
+## Cosmétiques Pokémon
+
+- [✂️ Furfrou Hairstyles](pokemons-exclusives/furfrou-trims.md)
 
 ## Mod Guides
 
-* [🎵 Music Interface](mods-guides/musicinterface.md)
-* [🧱 Chunky for World Pregeneration](mods-guides/chunky.md)
-* [🧳 Luggage](mods-guides/luggage.md)
-* [🕳️ Deeper and Darker](mods-guides/deeper_and_darker.md)
-* [☁️ The Aether](mods-guides/aether.md)
+- [🎵 Music Interface](mods-guides/musicinterface.md)
+- [🍃 Rustling Spots](mods-guides/rustling_spots.md)
+- [🧱 Chunky World Pre-generation](mods-guides/chunky.md)
+- [🧳 Luggage](mods-guides/luggage.md)
+- [🕳️ Deeper and Darker](mods-guides/deeper_and_darker.md)
+- [☁️ The Aether](mods-guides/aether.md)
 
 ## Settings
 
-* [🚫 Disable Cave-Only Hostile Mobs](settings/cavesonly.md)
-* [⚙️ Optimize Solo Performance](settings/optimize-solo-performance.md)
+- [🚫 Disable hostile mobs](settings/cavesonly.md)
+- [⚙️ Optimize solo performance](settings/optimize-solo-performance.md)
