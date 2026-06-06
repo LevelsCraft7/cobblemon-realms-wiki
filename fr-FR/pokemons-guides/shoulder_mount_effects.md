@@ -2,6 +2,12 @@
 
 ## 🎒 Effets des Pokémon sur l'Épaule (v5.0)
 
+{% hint style="warning" %}
+<p align="center">
+Les informations présentes sur cette page ne sont plus à jour. Les fichiers/dossiers concernés n'étant plus présents dans le datapack, ces fonctionnalités sont actuellement en <strong>pause</strong>, le temps qu'ils soient de nouveau réintégrés au modpack.
+</p>
+{% endhint %}
+
 {% hint style="info" %}
 <p align="center">
 Les <strong>montures d'épaule</strong> sont des Pokémon pouvant être placés sur vos épaules afin de vous conférer des <strong>bonus passifs uniques</strong>. Utilisez la commande <code>/shoulder</code> pour consulter la liste complète des montures disponibles ainsi que leurs effets. Pour équiper une monture d'épaule, faites apparaître votre Pokémon, maintenez <code>Maj + clic droit</code> dessus puis sélectionnez <strong>Épaule</strong>. Certains effets nécessitent l'équipement simultané de deux montures d'épaule pour être activés.
