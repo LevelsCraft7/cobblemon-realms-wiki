@@ -55,24 +55,27 @@ CurseForge ajoute automatiquement certains arguments Java. Les dernières valeur
 
 # 📈 Ce que ces réglages améliorent
 
-- ✅ Réduction des freezes
-- ✅ Réduction des micro-lags
-- ✅ Meilleure gestion de la mémoire
+- ✅ Réduction des freezes et micro-lags
+- ✅ Meilleure gestion de la mémoire (GC)
 - ✅ Moins de rollbacks en solo
 - ✅ Sessions de jeu plus stables
-- ✅ Performances générales améliorées
+- ✅ Meilleures performances globales
 
 ---
 
-# 💡 Conseils complémentaires
+{% hint style="info" %}
+## 💡 Conseils complémentaires
 
 - ❌ Évitez les applications gourmandes en arrière-plan
 - 🎮 Limitez les shaders très exigeants
 - 📦 Maintenez vos pilotes graphiques à jour
 - 🗺️ Utilisez Chunky pour pré-générer les chunks de vos mondes
+{% endhint %}
 
 ---
 
 {% hint style="success" %}
-Avec Java 21 et ces réglages JVM, Cobblemon Realms devrait offrir une expérience plus fluide et plus stable, particulièrement sur les mondes avancés ou lors de longues sessions de jeu.
+<p align="center">
+Avec Java 21 et ces réglages JVM, Cobblemon Realms devrait être plus fluide et plus stable, notamment sur les mondes avancés et lors des longues sessions de jeu.
+</p>
 {% endhint %}
