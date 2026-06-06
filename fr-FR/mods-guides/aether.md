@@ -43,45 +43,13 @@ Dans **Cobblemon Realms**, l’Aether est surtout connue pour :
 
 la dimension inclut notamment :
 
-## ✨ Pokémon Fée
-
-- Mélo
-- Mélofée
-- Mélodelfe
-
-## 🕊️ Pokémon Vol
-
-- Tylton
-- Altaria
-- Nirondelle
-- Hélédelle
-
-## 👻 Pokémon étranges et spectraux
-
-- Fantominus
-- Ectoplasma
-- Feuforêve
-- Lampignon
-
-## 🐉 Dragons et pseudo-légendaires
-
-- Minidraco
-- Draco
-- Dracolosse
-- Griknot
-- Carmache
-- Carchacrok
-- Draby
-- Drackhaus
-- Drattak
-
-## 🌍 Variantes régionales
-
-- Raichu d’Alola
-- Triopikeur d’Alola
-- Ponyta de Galar
-- Zorua de Hisui
-- Zoroark de Hisui
+| Catégorie | Exemples de Pokémon |
+|---|---|
+| ✨ Pokémon Fée | Mélo, Mélofée, Mélodelfe |
+| 🕊️ Pokémon Vol | Tylton, Altaria, Nirondelle, Hélédelle |
+| 👻 Pokémon étranges et spectraux | Fantominus, Ectoplasma, Feuforêve, Lampignon |
+| 🐉 Dragons et pseudo-légendaires | Minidraco, Draco, Dracolosse, Griknot, Carmache, Carchacrok, Draby, Drackhaus, Drattak |
+| 🌍 Variantes régionales | Raichu d’Alola, Triopikeur d’Alola, Ponyta de Galar, Zorua de Hisui, Zoroark de Hisui |
 
 ---
 
@@ -93,17 +61,11 @@ Les biomes les plus ouverts et lisibles de l’Aether.
 
 ## 🐾 Spawns notables
 
-- Absol
-- Nanméouïe
-- Gallame
-- Gardevoir
-- Altaria
-- Shaymin
-- Rayquaza
-- Fulguris
-- Boréas
-- Ire-Foudre
-- Pelage-Sable
+| Catégorie | Pokémon |
+|---|---|
+| ✨ Rares | Absol, Nanméouïe, Gallame, Gardevoir, Altaria |
+| 🏆 Légendaires | Shaymin, Rayquaza, Fulguris, Boréas |
+| ⚠️ Paradoxes | Ire-Foudre, Pelage-Sable |
 
 ## 📌 Pourquoi ces biomes sont importants ?
 
@@ -122,18 +84,11 @@ Biomes plus denses et plus dangereux visuellement.
 
 ![Skyroot Forest](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Skyroot_Forest.png) ![Woodland](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Skyroot_Woodland.png)
 
-## 🐾 Spawns importants
-
-- Xerneas
-- Cosmog
-- Vémini
-- Terapagos
-- Rugit-Lune
-- Hurle-Queue
-- Fongus-Furie
-- Mouscoto
-- Pierroteknik
-- Câblifère
+| Catégorie | Pokémon |
+|---|---|
+| 🏆 Légendaires | Xerneas, Cosmog, Terapagos |
+| 👽 Ultra-Chimères | Vémini, Mouscoto, Pierroteknik, Câblifère |
+| ⚠️ Paradoxes | Rugit-Lune, Hurle-Queue, Fongus-Furie |
 
 ## 📌 Intérêt principal
 
@@ -150,14 +105,9 @@ Biomes plus denses et plus dangereux visuellement.
 
 L’Aether mélange plusieurs styles de rencontres :
 
-| ✨ Types dominants |
+| Types dominants |
 |---|
-| 🌈 Pokémon Fée |
-| ☁️ Pokémon Vol |
-| 🐉 Dragons |
-| ⚠️ Pokémon Paradoxes |
-| 👽 Ultra-Chimères |
-| 🏆 Rencontres late-game |
+| 🌈 Fée • ☁️ Vol • 🐉 Dragons • ⚠️ Paradoxes • 👽 Ultra-Chimères • 🏆 Late-game |
 
 ➡️ Dans Cobblemon Realms, l’Aether est une véritable zone de progression et de chasse avancée.
 
