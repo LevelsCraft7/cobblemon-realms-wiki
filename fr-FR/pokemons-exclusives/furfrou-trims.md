@@ -2,7 +2,11 @@
 
 ## 🐩 Liste des différents coupes de Couafarel
 
+{% hint style="info" %}
+<p align="center">
 Couafarel peut changer de coupe afin d'adopter différentes apparences !
+</p>
+{% endhint %}
 
 ---
 
