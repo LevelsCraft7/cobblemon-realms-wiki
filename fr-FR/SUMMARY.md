@@ -3,7 +3,6 @@
 ## Présentation
 
 - [👋 Introduction](README.md)
-                                  - [Sanbox pour Fab](sandbox.md)
 
 ## Informations
 
