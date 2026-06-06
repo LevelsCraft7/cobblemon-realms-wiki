@@ -1,83 +1,29 @@
-# Optimiser les performances en solo dans Cobblemon Realms
-
-Si vous rencontrez des **rollbacks, des freezes ou de mauvaises performances** en jouant a Cobblemon Realms en solo, ajuster les arguments JVM dans CurseForge peut nettement ameliorer la stabilite du jeu.
-
----
-
-## Arguments JVM recommandes
-
-```
--Xms10G
--Xmx10G
--XX:+UseG1GC
--XX:MaxGCPauseMillis=100
--XX:InitiatingHeapOccupancyPercent=30
--XX:+ExplicitGCInvokesConcurrent
-```
-
----
-
-## Comment les appliquer dans CurseForge
-
-1. Ouvrez l'application **CurseForge**.
-2. Cliquez sur l'icone **engrenage** en bas a gauche pour ouvrir les **parametres**.
-3. Allez dans **Game Specific > Minecraft**.
-4. Descendez jusqu'a **Java Settings**.
-5. Desactivez **Use System Memory Settings**.
-6. Reglez le curseur de memoire sur **8 a 10 Go minimum**.
-7. Dans **Additional Java Arguments**, collez exactement les arguments ci-dessus en les separant par des espaces.
-8. Sauvegardez puis redemarrez le modpack.
-
-> CurseForge ajoute automatiquement certains arguments Java, mais les dernieres valeurs `-Xms` et `-Xmx` renseignees restent prioritaires.
-
----
-
-## Resumé
-
-En combinant **Java 21** avec ces reglages JVM, vous pouvez corriger une grande partie des problemes de performances en solo dans Cobblemon Realms, notamment les pics de lag, les soucis de nettoyage memoire et certains rollbacks.
-
-Le résultat attendu est un jeu plus fluide et plus stable.
-
----
-
 # ⚡ Optimiser les performances en solo
 
-Si vous rencontrez des :
-
-- ❄️ Freezes
-- 🔁 Rollbacks
-- 📉 Chutes de FPS
-- 🧠 Ralentissements mémoire
-- ⏳ Temps de chargement élevés
-
-...sur **Cobblemon Realms** en solo, ajuster les arguments JVM peut améliorer nettement la stabilité du jeu.
+{% hint style="info" %}
+<p align="center">
+Si vous rencontrez des freezes, rollbacks, ralentissements mémoire ou des problèmes de performances en solo sur Cobblemon Realms, ajuster les arguments JVM peut améliorer significativement la stabilité du jeu.
+</p>
+{% endhint %}
 
 ---
 
-# 🧩 Configuration recommandée
+# 📋 Configuration recommandée
 
-## ☕ Java
-
-Utilisez impérativement :
-
-- **Java 21 ou plus**
-
----
-
-## 💾 RAM recommandée
-
-Allouez au minimum :
-
-- **8 Go de RAM**
-- idéalement **10 Go** pour une meilleure stabilité
+| Élément | Recommandation |
+|---|---|
+| ☕ Java | Java 21 ou supérieur |
+| 💾 RAM | 8 Go minimum |
+| 💾 RAM conseillée | 10 Go |
+| ⚙️ Garbage Collector | G1GC |
 
 ---
 
 # ⚙️ Arguments JVM recommandés
 
-Copiez exactement ceci dans les arguments Java supplémentaires :
+Copiez les arguments suivants dans les paramètres Java supplémentaires :
 
-```
+```text
 -Xms10G
 -Xmx10G
 -XX:+UseG1GC
@@ -88,106 +34,45 @@ Copiez exactement ceci dans les arguments Java supplémentaires :
 
 ---
 
-# 🛠️ Comment appliquer ces réglages dans CurseForge
+# 🛠️ Configuration dans CurseForge
 
-## 1️⃣ Ouvrir les paramètres CurseForge
+## Étapes
 
-- Lancez **CurseForge**
-- Cliquez sur l’icône ⚙️ en bas à gauche
+1. Ouvrez **CurseForge**.
+2. Cliquez sur l'icône **⚙️ Paramètres**.
+3. Rendez-vous dans **Game Specific → Minecraft**.
+4. Descendez jusqu'à **Java Settings**.
+5. Désactivez **Use System Memory Settings**.
+6. Allouez entre **8 et 10 Go de RAM**.
+7. Collez les arguments JVM ci-dessus dans **Additional Java Arguments**.
+8. Sauvegardez puis redémarrez le modpack.
 
----
-
-## 2️⃣ Accéder aux paramètres Minecraft
-
-Allez dans :
-
-```
-Game Specific → Minecraft
-```
-
----
-
-## 3️⃣ Configurer la mémoire
-
-Dans la section **Java Settings** :
-
-- désactivez :
-  
-```
-Use System Memory Settings
-```
-
-- réglez ensuite la mémoire sur :
-
-```
-8 à 10 Go minimum
-```
+{% hint style="warning" %}
+CurseForge ajoute automatiquement certains arguments Java. Les dernières valeurs définies pour <code>-Xms</code> et <code>-Xmx</code> restent toutefois prioritaires.
+{% endhint %}
 
 ---
 
-## 4️⃣ Ajouter les arguments JVM
+# 📈 Ce que ces réglages améliorent
 
-Dans :
-
-```text
-Additional Java Arguments
-```
-
-Collez les arguments précédents en les séparant par des espaces.
-
----
-
-## 5️⃣ Redémarrer le modpack
-
-Une fois les modifications appliquées :
-
-- Sauvegardez les paramètres
-- Redémarrez complètement le jeu
+- ✅ Réduction des freezes
+- ✅ Réduction des micro-lags
+- ✅ Meilleure gestion de la mémoire
+- ✅ Moins de rollbacks en solo
+- ✅ Sessions de jeu plus stables
+- ✅ Performances générales améliorées
 
 ---
 
-# 📌 Ce que ces réglages améliorent
+# 💡 Conseils complémentaires
 
-Ces paramètres permettent notamment de :
-
-- ✅ Réduire les freezes
-- ✅ Limiter les micro-lags
-- ✅ Améliorer le nettoyage mémoire (GC)
-- ✅ Réduire certains rollbacks en solo
-- ✅ Stabiliser les longues sessions de jeu
-- ✅ Améliorer les performances générales du modpack
+- ❌ Évitez les applications gourmandes en arrière-plan
+- 🎮 Limitez les shaders très exigeants
+- 📦 Maintenez vos pilotes graphiques à jour
+- 🗺️ Utilisez Chunky pour pré-générer les chunks de vos mondes
 
 ---
 
-# ⚠️ Important
-
-> CurseForge ajoute déjà certains arguments Java automatiquement.
-
-Cependant :
-
-- Les dernières valeurs `-Xms` et `-Xmx` renseignées restent prioritaires
-
----
-
-# 🧠 Conseils supplémentaires
-
-Pour de meilleures performances :
-
-- ❌ Évitez les applications lourdes en arrière-plan
-- 🎮 Limitez les shaders trop exigeants
-- 📦 Gardez vos drivers graphiques à jour
-- 🗺️ Pré-générez les chunks avec Chunky si vous jouez longtemps sur le même monde
-
----
-
-# ✅ Résumé rapide
-
-| Élément | Recommandation |
-|---|---|
-| ☕ Java | Java 21+ |
-| 💾 RAM | 8–10 Go |
-| ⚙️ GC | G1GC |
-| 🎮 Usage conseillé | Solo longue durée |
-| 🧩 Effet principal | Jeu plus fluide et stable |
-
-Avec ces réglages, **Cobblemon Realms** devrait être nettement plus agréable à jouer en solo, surtout sur les longues sessions ou les mondes avancés.
+{% hint style="success" %}
+Avec Java 21 et ces réglages JVM, Cobblemon Realms devrait offrir une expérience plus fluide et plus stable, particulièrement sur les mondes avancés ou lors de longues sessions de jeu.
+{% endhint %}
