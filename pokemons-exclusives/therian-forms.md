@@ -1,50 +1,143 @@
-# 🌪️ Therian Forms – Thundurus, Tornadus & Landorus
+# 🐉 Therian Forms - Forces of Nature Trio
 
-Some Legendary Pokémon from the Forces of Nature trio (Thundurus, Tornadus, and Landorus) can shift into their **Therian Forms** using a special item: the **Reveal Glass**.
+## 🌩️ Thundurus Therian Form
 
----
+### 🧾 General Information
 
-## 🪞 The Reveal Glass
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/53d73265-51ff-43a4-85b3-066dcbd729d9" />
-
-<img width="1064" height="138" alt="Sans titre" src="https://github.com/user-attachments/assets/159d9253-4e5c-4d6f-8cbb-5a54db2de1f3" />
-
-
-- **Item ID**: `mega_showdown:reveal_glass`  
-- **Description**: *A mysterious mirror that reveals the true forms of certain Pokémon.*  
-
-The Reveal Glass is a unique tool capable of switching the forms of these Pokémon at will.
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_electrique.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_vol.png) 
 
 ---
 
-## 🔄 How to Transform
+### 📊 Stats
 
-1. Make sure you have a **Reveal Glass** in your inventory.  
-2. Hold it in your hand.  
-3. **Right-click** on one of the following Pokémon:
-   - ⚡ **Thundurus**
-   - 🌪️ **Tornadus**
-   - 🌍 **Landorus**
-4. The Pokémon will instantly change into its **Therian Form**.  
+| Stat            | Value |
+| --------------- | ------ |
+| ❤️ HP           | 79      |
+| ⚔️ Attack       | 105     |
+| 🛡️ Defense      | 70    |
+| ✨ Sp. Attack   | 145    |
+| 🌙 Sp. Defense  | 80    |
+| ⚡ Speed        | 101     |
 
-➡️ Right-clicking again will revert it back to its **Incarnate Form**.
-
----
-
-## 📊 Therian vs Incarnate Forms
-
-- **Therian Forms** emphasize **different stats and appearances**:
-  - Thundurus-Therian: stronger Special Attack.  
-  - Tornadus-Therian: improved Speed and utility.  
-  - Landorus-Therian: boosted Attack and Defense.  
-- The transformation is **reversible at any time**.
+![Thundurus Therian Form](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/fulguris_tot%C3%A9mique.png) ![Thundurus Therian Form Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/fulguris_tot%C3%A9mique_shiny.png)
 
 ---
 
-## ✅ Summary
+### 🎯 Form Ability
 
-- Obtain a **Reveal Glass** (`mega_showdown:reveal_glass`).  
-- Hold it and **right-click** on Thundurus, Tornadus, or Landorus.  
-- Toggle freely between **Incarnate** and **Therian** forms.  
+- **Ability:** Volt Absorb
 
-Unleash the full potential of the **Forces of Nature** with the Reveal Glass! 🪞✨
+---
+
+### 🔮 Item Crafting
+
+![Sacred Mirror Crafting Recipe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/miroir_sacr%C3%A9.png)
+
+---
+
+### 🔄 Usage
+
+- 🖱️ Right-click on Thundurus with the `Sacred Mirror`
+- ℹ️ The same item can both activate and revert the transformation
+
+---
+
+### 📜 Description
+
+> Revealing its true appearance in the form of a legendary bird, Thundurus races through the skies at incredible speed and unleashes powerful storms wherever it goes.
+
+&#8203;  
+&#8203;
+
+## 🌪️ Tornadus Therian Form
+
+### 🧾 General Information
+
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_vol.png)
+
+---
+
+### 📊 Stats
+
+| Stat            | Value |
+| --------------- | ------ |
+| ❤️ HP           | 79      |
+| ⚔️ Attack       | 100     |
+| 🛡️ Defense      | 80    |
+| ✨ Sp. Attack   | 110    |
+| 🌙 Sp. Defense  | 90    |
+| ⚡ Speed        | 121     |
+
+![Tornadus Therian Form](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/bor%C3%A9as_tot%C3%A9mique.png) ![Tornadus Therian Form Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/bor%C3%A9as_totemique_shiny.png)
+
+---
+
+### 🎯 Form Ability
+
+- **Ability:** Regenerator
+
+---
+
+### 🔮 Item Crafting
+
+![Sacred Mirror Crafting Recipe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/miroir_sacr%C3%A9.png)
+
+---
+
+### 🔄 Usage
+
+- 🖱️ Right-click on Tornadus with the `Sacred Mirror`
+- ℹ️ The same item can both activate and revert the transformation
+
+---
+
+### 📜 Description
+
+> In its Therian Form, Tornadus takes the appearance of a celestial beast. It commands the winds with terrifying precision and can unleash devastating storms in an instant.
+
+&#8203;  
+&#8203;
+
+## ⛰️ Landorus Therian Form
+
+### 🧾 General Information
+
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_sol.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_vol.png)
+
+---
+
+### 📊 Stats
+
+| Stat            | Value |
+| --------------- | ------ |
+| ❤️ HP           | 89     |
+| ⚔️ Attack       | 145     |
+| 🛡️ Defense      | 90    |
+| ✨ Sp. Attack   | 145    |
+| 🌙 Sp. Defense  | 80    |
+| ⚡ Speed        | 91     |
+
+![Landorus Therian Form](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/d%C3%A9m%C3%A9t%C3%A9ros_tot%C3%A9mique.png) ![Landorus Therian Form Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/d%C3%A9m%C3%A9t%C3%A9ros_tot%C3%A9mique_shiny.png)
+
+---
+
+### 🎯 Form Ability
+
+- **Ability:** Intimidate
+
+---
+
+### 🔮 Item Crafting
+
+![Sacred Mirror Crafting Recipe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/miroir_sacr%C3%A9.png)
+
+---
+
+### 🔄 Usage
+
+- 🖱️ Right-click on Landorus with the `Sacred Mirror`
+- ℹ️ The same item can both activate and revert the transformation
+
+### 📜 Description
+
+> Taking the appearance of a sacred tiger, Landorus watches over fertile lands. Its presence encourages abundant harvests, but its anger can also unleash the forces of nature.
