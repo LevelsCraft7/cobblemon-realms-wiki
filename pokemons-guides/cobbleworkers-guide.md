@@ -1,83 +1,85 @@
 # 📘 CobbleWorkers Guide
 
-CobbleWorkers is a **utility mod** for Cobblemon that allows certain Pokémon to automatically perform useful tasks in your Minecraft world. Instead of just battling, your Pokémon can now act as **helpers** for farming, gathering, generating resources, and more.
+## 🤖 Overview
 
-This makes your Pokémon team not only essential for combat but also a vital part of your **base automation**.
+{% hint style="info" %}
+<p align="center">
+CobbleWorkers allows you to assign specific tasks to your Pokémon in order to automate various activities around your base. Each role has unique abilities and can contribute to resource production or gathering.
+</p>
+{% endhint %}
+
+<p align="center">
+This page details the different available jobs and the Pokémon capable of performing them.
+</p>
 
 ---
 
 ## ⚙️ How It Works
 
-* Place your Pokémon in the world as a **CobbleWorker**.
-* Each Pokémon has a **job role** depending on its typing or species.
-* Workers will automatically perform their job in a radius around them (configurable in `cobbleworkers.json`).
-* Some roles require **cooldowns** (e.g., generating water/lava).
+- Assign your Pokémon as **CobbleWorkers**
+- Each Pokémon has one or more possible roles depending on its profile
+- Tasks are automatically performed within a defined radius (`cobbleworkers.json`)
+- Some roles include cooldowns (water, lava, etc.)
 
 ---
 
-## 🌱 Default vs Custom Config
+## 🧬 Custom Configuration
 
-By default, almost every role was handled by **Pikachu**, with just a few exceptions (Combee for honey, Chansey for healing, etc.).
+By default, most roles were originally assigned to **Pikachu**, with a few exceptions such as:
 
-In this pack, we use a **customized config** where different Pokémon fulfill jobs more logically according to their **type and lore**.
-Pikachu is still included in important roles (Honey collecting + Healing), but other Pokémon now have unique utility.
+- **Combee** for honey production
+- **Chansey** for healing
 
----
-
-## 🧑‍🌾 Worker Roles & Pokémon
-
-Here is the full list of jobs and which Pokémon can perform them in the customized config:
-
-### Harvesting & Farming
-
-* **Apricorn Harvesting (Bug):** Scyther, Heracross, Ribombee
-* **Berry Harvesting (Grass):** Chikorita, Turtwig, Grookey
-* **Crop Harvesting (Grass):** Bulbasaur, Rowlet, Leafeon
-* **Crop Irrigation (Water):** Squirtle, Mudkip, Psyduck
-* **Netherwart Harvesting (Ghost):** Gastly, Duskull, Mimikyu
-* **Mint Harvesting (Fairy):** Sylveon, Ralts, Togepi
-
-### Mining & Resources
-
-* **Amethyst Mining (Rock):** Geodude, Onix, Nosepass
-* **Tumblestone Mining (Steel):** Magnemite, Aron, Beldum
-
-### Generators
-
-* **Lava Generation (Fire):** Charmander, Slugma, Torkoal
-* **Water Generation (Water):** Wooper, Totodile, Mudkip
-* **Powder Snow Generation (Ice):** Snover, Snorunt, Vanillite
-* **Fuel Generation (Fire):** Torchic, Litwick, Numel
-* **Brewing Stand Fuel (Dragon):** Dratini, Axew, Gible
-
-### Collecting
-
-* **Honey Collecting:** Combee, Vespiquen, Teddiursa, Pikachu
-* **Fishing Loot Generation (Water):** Magikarp, Feebas, Remoraid
-* **Pick-up Loot Generation:** Any Pokémon with the **Pick-up** ability
-* **Dive Loot Generation:** Any Pokémon that **knows Dive**
-* **Ground Item Gathering (Psychic):** Abra, Ralts, Espeon
-
-### Support & Utility
-
-* **Healers:** Happiny, Chansey, Blissey, Audino, Pikachu
-  *Heal nearby players with healing moves (Wish, Recover, Softboiled, etc.).*
-* **Fire Extinguishers (Water):** Squirtle, Piplup, Oshawott
+{% hint style="info" %}
+<p align="center">
+Cobblemon Realms uses a custom configuration to assign roles that better match Pokémon <strong>types</strong>, <strong>abilities</strong>, or <strong>lore</strong>. This approach allows more species to have a unique purpose within your base.
+</p>
+{% endhint %}
 
 ---
 
-## 📝 Tips for Players
+## 🧑‍🌾 Worker Roles
 
-* You can configure worker behavior in the `cobbleworkers.json` file.
-* Use Pokémon that **fit your base’s needs** — e.g., keep Fire-types near furnaces for fuel, or Grass-types in farms.
-* Place multiple workers to **specialize tasks** and improve efficiency.
-* Healing Pokémon are best placed in **communal areas** like bases or towns.
+### 🌱 Farming
+- **Apricorns (Bug)**: Scyther, Heracross, Ribombee  
+- **Berries (Grass)**: Chikorita, Turtwig, Grookey  
+- **Crops (Grass)**: Bulbasaur, Rowlet, Leafeon  
+- **Nether Wart (Ghost)**: Gastly, Duskull, Mimikyu  
+- **Mints (Fairy)**: Sylveon, Ralts, Togepi  
+
+### ⛏️ Resources
+- **Amethyst (Rock)**: Geodude, Onix, Nosepass  
+- **Tumblestone (Steel)**: Magnemite, Aron, Beldum  
+
+### 🔥 Generators
+- **Lava (Fire)**: Charmander, Slugma, Torkoal  
+- **Water (Water)**: Wooper, Totodile, Mudkip  
+- **Powder Snow (Ice)**: Snover, Snorunt, Vanillite  
+- **Fuel (Fire)**: Torchic, Litwick, Numel  
+- **Brewing (Dragon)**: Dratini, Axew, Gible  
+
+### 📦 Gathering
+- **Honey**: Combee, Vespiquen, Teddiursa, Pikachu  
+- **Fishing (Water)**: Magikarp, Feebas, Remoraid  
+- **Pick Up**: Any Pokémon with the **Pickup** ability  
+- **Dive Loot**: Any Pokémon that knows **Dive**  
+- **Scavenging (Psychic)**: Abra, Ralts, Espeon  
+
+### 🛠️ Support
+- **Healing**: Happiny, Chansey, Blissey, Audino, Pikachu  
+  → Heal nearby players using healing moves (Wish, Heal Pulse, etc.)
+- **Fire Extinguishing (Water)**: Squirtle, Piplup, Oshawott  
 
 ---
 
-## 🎯 Conclusion
+## ☝🏼 Tips
 
-CobbleWorkers adds depth to your Pokémon adventure by making your team more useful **outside of battles**.
-With this custom setup, every Pokémon role feels natural and helps bring your base to life.
+{% hint style="success" %}
 
-> ✨ *Your Pokémon are no longer just companions — they are true workers in your Minecraft world!*
+### ✅ Practical Tips:
+
+- Configure Workers through `cobbleworkers.json`
+- Match Pokémon to their environment (type → logical role)
+- Specialize roles for better efficiency
+- Place healers near frequently visited areas
+{% endhint %}
