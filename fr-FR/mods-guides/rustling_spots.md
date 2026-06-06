@@ -7,7 +7,9 @@
 {% endhint %}
 
 {% hint style="success" %}
+<p align="center">
 Le mod ne modifie pas la génération du monde et reste entièrement compatible avec les sauvegardes existantes.
+</p>
 {% endhint %}
 
 ---
