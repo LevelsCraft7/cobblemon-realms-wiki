@@ -1,17 +1,15 @@
 # 🗿 Mythes & Légendes — Objets et Biomes Légendaires
 
-<a id="top"></a>
-
-# 🧭 Navigation rapide
+## 🧭 Navigation rapide
 
 Aller à une région :
 
-- [Génération 1 [Kanto]](#generation-1-kanto)
-- [Génération 2 [Johto]](#generation-2-johto)
-- [Génération 3 [Hoenn]](#generation-3-hoenn)
-- [Génération 4 [Sinnoh]](#generation-4-sinnoh)
-- [Génération 5 [Unys]](#generation-5-unys)
-- [Génération 6 [Kalos]](#generation-6-kalos)
-- [Génération 7 [Alola]](#generation-7-alola)
-- [Génération 8 [Galar/Hisui]](#generation-8-galar-hisui)
-- [Génération 9 [Paldea/Kitakami]](#generation-9-paldea-kitakami)
+- [Génération 1 [Kanto]](pokemons-guides/gen-list/gen_1.md)
+- [Génération 2 [Johto]](pokemons-guides/gen-list/gen_2.md)
+- [Génération 3 [Hoenn]](pokemons-guides/gen-list/gen_3.md)
+- [Génération 4 [Sinnoh]](pokemons-guides/gen-list/gen_4.md)
+- [Génération 5 [Unys]](pokemons-guides/gen-list/gen_5.md)
+- [Génération 6 [Kalos]](pokemons-guides/gen-list/gen_6.md)
+- [Génération 7 [Alola]](pokemons-guides/gen-list/gen_7.md)
+- [Génération 8 [Galar/Hisui]](pokemons-guides/gen-list/gen_8.md)
+- [Génération 9 [Paldea/Kitakami]](pokemons-guides/gen-list/gen_9.md)
