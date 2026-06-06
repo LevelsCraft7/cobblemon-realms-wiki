@@ -1,5 +1,11 @@
 # ⚡ Forme chargée de Meltan
 
+{% hint style="warning" %}
+<p align="center">
+Les formes n'existent pas dans le mod officiel de Cobblemon. Les illustrations représentent donc les formes normales, mais chargées de Melmetal. Si des modèles venaient à être créés, ils seraient directement intégrés au modpack et les illustrations seraient mises à jour en conséquence.
+</p>
+{% endhint %}
+
 ## ⚡ Forme chargée de Meltan
 
 ### 🧾 Informations générales
