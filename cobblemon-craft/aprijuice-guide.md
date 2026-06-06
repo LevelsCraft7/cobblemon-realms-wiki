@@ -76,8 +76,7 @@ Quality does not influence its effects and serves only as a visual indicator.
 
 ## 🍶 Obtaining Aprijuice
 
-Aprijuice is created by cooking Apricorns together with berries in a `Campfire Pot` placed on a `Campfire`.  
-The ingredient combination determines its final effects.
+Aprijuice is created by cooking Apricorns together with berries in a `Campfire Pot` placed on a `Campfire`. The ingredient combination determines its final effects.
 
 ### 🍳 Preparation
 
