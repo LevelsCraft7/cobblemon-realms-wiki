@@ -290,89 +290,89 @@ Statistics are shown by mount type and come directly from the official Cobblemon
 
 ---
 
-| N° Dex | Nom du Pokémon | Places | Style de monture terrestre | Statistiques de monture |
+| Dex No. | Pokémon Name | Seats | Land Ride Style | Ride Stats |
 | :---: | :---: | :---: | :---: | :---: |
-| Accél. | Maniab. | Vit. | End. | Saut |
+| Accel. | Skill | Speed | Stam. | Jump |
 | --- | --- | --- | --- | --- |
-| 003 | Florizarre | 1 | Standard | 40-75 | 10-40 | 30-55 | 45-85 | 40-60 |
-| 006 | Dracaufeu | 1 | Standard | 55-65 | 10-25 | 25-40 | 20-30 | 15-25 |
-| 009 | Tortank | 2 | Standard | 30-50 | 10-35 | 30-65 | 15-35 | 15-30 |
+| 003 | Venusaur | 1 | Standard | 40-75 | 10-40 | 30-55 | 45-85 | 40-60 |
+| 006 | Charizard | 1 | Standard | 55-65 | 10-25 | 25-40 | 20-30 | 15-25 |
+| 009 | Blastoise | 2 | Standard | 30-50 | 10-35 | 30-65 | 15-35 | 15-30 |
 | 047 | Parasect | 1 | Standard | 50-70 | 45-65 | 15-30 | 15-30 | 0-15 |
-| 059 | Arcanin | 1 | Standard | 70-90 | 40-80 | 45-70 | 35-80 | 45-65 |
-| 087 | Lamantine | 2 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
-| 111 | Rhinocorne | 1 | Standard | 5-20 | 5-25 | 25-60 | 40-80 | 5-15 |
-| 112 | Rhinoféros | 1 | Standard | 55-75 | 30-60 | 5-15 | 55-90 | 20-30 |
+| 059 | Arcanine | 1 | Standard | 70-90 | 40-80 | 45-70 | 35-80 | 45-65 |
+| 087 | Dewgong | 2 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
+| 111 | Rhyhorn | 1 | Standard | 5-20 | 5-25 | 25-60 | 40-80 | 5-15 |
+| 112 | Rhydon | 1 | Standard | 55-75 | 30-60 | 5-15 | 55-90 | 20-30 |
 | 122 | Mr. Mime | 1 | Standard | 20-40 | 15-45 | 25-45 | 35-60 | 15-35 |
 | 128 | Tauros | 1 | Standard | 15-50 | 15-30 | 55-75 | 35-55 | 25-35 |
 | 128 | Tauros (Paldea-Aqua) | 1 | Standard | 15-50 | 15-30 | 50-70 | 40-60 | 25-30 |
 | 128 | Tauros (Paldea-Blaze) | 1 | Standard | 20-55 | 15-30 | 55-75 | 30-50 | 25-40 |
 | 128 | Tauros (Paldea-Combat) | 1 | Standard | 15-50 | 15-30 | 55-75 | 35-55 | 25-35 |
-| 130 | Léviator | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
-| 131 | Lokhlass | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
-| 142 | Ptéra | 1 | Standard | 55-75 | 15-45 | 10-20 | 20-45 | 25-35 |
-| 144 | Artikodin | 1 | Standard | 70-90 | 30-60 | 10-20 | 40-80 | 25-50 |
-| 145 | Électhor | 1 | Standard | 70-90 | 30-60 | 10-20 | 40-80 | 25-50 |
-| 146 | Sulfura | 1 | Standard | 70-90 | 30-60 | 10-20 | 40-80 | 25-50 |
-| 149 | Dracolosse | 2 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
-| 168 | Migalos | 1 | Standard | 55-85 | 45-65 | 30-45 | 15-30 | 25-45 |
+| 130 | Gyarados | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
+| 131 | Lapras | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
+| 142 | Aerodactyl | 1 | Standard | 55-75 | 15-45 | 10-20 | 20-45 | 25-35 |
+| 144 | Articuno | 1 | Standard | 70-90 | 30-60 | 10-20 | 40-80 | 25-50 |
+| 145 | Zapdos | 1 | Standard | 70-90 | 30-60 | 10-20 | 40-80 | 25-50 |
+| 146 | Moltres | 1 | Standard | 70-90 | 30-60 | 10-20 | 40-80 | 25-50 |
+| 149 | Dragonite | 2 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
+| 168 | Ariados | 1 | Standard | 55-85 | 45-65 | 30-45 | 15-30 | 25-45 |
 | 203 | Girafarig | 1 | Standard | 40-65 | 20-35 | 25-45 | 30-50 | 30-45 |
-| 214 | Scarhino | 1 | Standard | 55-70 | 40-65 | 15-30 | 35-50 | 35-50 |
+| 214 | Heracross | 1 | Standard | 55-70 | 40-65 | 15-30 | 35-50 | 35-50 |
 | 217 | Ursaring | 1 | Standard | 45-80 | 20-45 | 30-40 | 30-65 | 25-40 |
-| 221 | Cochignon | 1 | Standard | 30-50 | 30-45 | 10-25 | 35-70 | 5-10 |
-| 226 | Démanta | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
+| 221 | Piloswine | 1 | Standard | 30-50 | 30-45 | 10-25 | 35-70 | 5-10 |
+| 226 | Mantine | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
 | 249 | Lugia | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
 | 250 | Ho-Oh | 2 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
-| 289 | Monaflèmit | 1 | Standard | 0-20 | 0-20 | 25-65 | 60-100 | 25-40 |
+| 289 | Slaking | 1 | Standard | 0-20 | 0-20 | 25-65 | 60-100 | 25-40 |
 | 320 | Wailmer | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
 | 321 | Wailord | 19 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
-| 323 | Camérupt | 6 | Standard | 45-60 | 10-30 | 25-35 | 50-80 | 10-25 |
-| 330 | Libégon | 1 | Standard | 60-75 | 15-25 | 15-25 | 25-40 | 15-30 |
+| 323 | Camerupt | 6 | Standard | 45-60 | 10-30 | 25-35 | 50-80 | 10-25 |
+| 330 | Flygon | 1 | Standard | 60-75 | 15-25 | 15-25 | 25-40 | 15-30 |
 | 334 | Altaria | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
 | 357 | Tropius | 2 | Standard | 30-50 | 30-50 | 15-25 | 55-85 | 10-20 |
-| 373 | Drattak | 2 | Standard | 60-80 | 5-20 | 10-20 | 35-70 | 15-25 |
-| 376 | Métalosse | 4 | Standard | 50-70 | 35-50 | 10-20 | 55-70 | 30-45 |
+| 373 | Salamence | 2 | Standard | 60-80 | 5-20 | 10-20 | 35-70 | 15-25 |
+| 376 | Metagross | 4 | Standard | 50-70 | 35-50 | 10-20 | 55-70 | 30-45 |
 | 380 | Latias | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
 | 381 | Latios | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
-| 398 | Étouraptor | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
+| 398 | Staraptor | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
 | 411 | Bastiodon | 2 | Standard | 15-25 | 0-5 | 15-35 | 50-90 | 0-5 |
-| 423 | Tritosor | 1 | Standard | 70-90 | 0-15 | 5-10 | 10-20 | 0-10 |
-| 430 | Corboss | 1 | Standard | 55-65 | 10-25 | 25-40 | 20-30 | 15-25 |
-| 445 | Carchacrok | 1 | Standard | 65-75 | 40-70 | 40-55 | 30-45 | 30-50 |
-| 463 | Coudlangue | 2 | Standard | 0-15 | 0-5 | 10-25 | 20-40 | 40-60 |
-| 464 | Rhinastoc | 1 | Standard | 45-75 | 25-55 | 5-15 | 75-100 | 10-25 |
+| 423 | Gastrodon | 1 | Standard | 70-90 | 0-15 | 5-10 | 10-20 | 0-10 |
+| 430 | Honchkrow | 1 | Standard | 55-65 | 10-25 | 25-40 | 20-30 | 15-25 |
+| 445 | Garchomp | 1 | Standard | 65-75 | 40-70 | 40-55 | 30-45 | 30-50 |
+| 463 | Lickilicky | 2 | Standard | 0-15 | 0-5 | 10-25 | 20-40 | 40-60 |
+| 464 | Rhyperior | 1 | Standard | 45-75 | 25-55 | 5-15 | 75-100 | 10-25 |
 | 468 | Togekiss | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
-| 473 | Mammochon | 3 | Standard | 30-40 | 20-30 | 20-35 | 60-90 | 10-20 |
-| 497 | Majaspic | 1 | Standard | 65-80 | 0-30 | 25-45 | 35-55 | 0-5 |
-| 523 | Zéblitz | 1 | Standard | 65-85 | 45-65 | 35-75 | 25-45 | 35-45 |
-| 545 | Brutapode | 1 | Standard | 20-25 | 25-35 | 45-75 | 50-70 | 25-35 |
-| 555 | Darumacho | 1 | Standard | 45-65 | 15-25 | 40-50 | 35-60 | 35-45 |
-| 558 | Crabaraque | 4 | Standard | 15-45 | 25-35 | 1-5 | 60-85 | 0-5 |
-| 623 | Golemastoc | 3 | Standard | 65-80 | 40-65 | 35-50 | 60-85 | 40-60 |
+| 473 | Mamoswine | 3 | Standard | 30-40 | 20-30 | 20-35 | 60-90 | 10-20 |
+| 497 | Serperior | 1 | Standard | 65-80 | 0-30 | 25-45 | 35-55 | 0-5 |
+| 523 | Zebstrika | 1 | Standard | 65-85 | 45-65 | 35-75 | 25-45 | 35-45 |
+| 545 | Scolipede | 1 | Standard | 20-25 | 25-35 | 45-75 | 50-70 | 25-35 |
+| 555 | Darmanitan | 1 | Standard | 45-65 | 15-25 | 40-50 | 35-60 | 35-45 |
+| 558 | Crustle | 4 | Standard | 15-45 | 25-35 | 1-5 | 60-85 | 0-5 |
+| 623 | Golurk | 3 | Standard | 65-80 | 40-65 | 35-50 | 60-85 | 40-60 |
 | 626 | Frison | 1 | Standard | 50-75 | 15-30 | 45-65 | 55-70 | 20-30 |
-| 628 | Gueriaigle | 1 | Standard | 90-100 | 15-30 | 10-20 | 15-30 | 10-20 |
-| 628 | Gueriaigle (Hisui) | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
-| 635 | Trioxhydre | 2 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
-| 637 | Pyrax | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
-| 672 | Cabriolaine | 1 | Standard | 40-65 | 20-40 | 30-45 | 30-45 | 30-40 |
-| 673 | Chevroum | 1 | Standard | 65-75 | 40-60 | 45-65 | 45-65 | 40-60 |
-| 697 | Rexillius | 2 | Standard | 50-70 | 40-60 | 20-30 | 70-100 | 40-55 |
-| 715 | Bruyverne | 1 | Standard | 65-85 | 30-50 | 35-50 | 10-20 | 30-45 |
-| 750 | Bourrinos | 1 | Standard | 50-70 | 30-60 | 30-40 | 70-100 | 30-40 |
-| 781 | Sinistrail | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
-| 823 | Corvaillus | 2 | Standard | 60-80 | 30-50 | 15-30 | 60-80 | 30-45 |
-| 887 | Lanssorien | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
-| 899 | Cerbyllin | 1 | Standard | 60-80 | 40-60 | 45-65 | 55-70 | 45-55 |
-| 901 | Ursaking | 2 | Standard | 30-40 | 10-25 | 40-65 | 65-85 | 25-35 |
-| 903 | Farfurex | 1 | Standard | 75-90 | 65-85 | 35-45 | 10-20 | 30-40 |
-| 941 | Fulgulairo | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
-| 956 | Cléopsytra | 1 | Standard | 30-65 | 15-40 | 55-70 | 25-35 | 40-55 |
-| 966 | Vrombotor | 2 | Standard | 0-5 | 25-40 | 70-85 | 20-40 | 15-20 |
-| 967 | Motorizard | 1 | Standard | 65-85 | 35-60 | 50-85 | 30-60 | 35-45 |
-| 968 | Ferdeter | 1 | Standard | 15-25 | 0-15 | 30-40 | 25-75 | 0-5 |
-| 977 | Oyacata | 7 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
+| 628 | Braviary | 1 | Standard | 90-100 | 15-30 | 10-20 | 15-30 | 10-20 |
+| 628 | Braviary (Hisui) | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
+| 635 | Hydreigon | 2 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
+| 637 | Volcarona | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
+| 672 | Skiddo | 1 | Standard | 40-65 | 20-40 | 30-45 | 30-45 | 30-40 |
+| 673 | Gogoat | 1 | Standard | 65-75 | 40-60 | 45-65 | 45-65 | 40-60 |
+| 697 | Tyrantrum | 2 | Standard | 50-70 | 40-60 | 20-30 | 70-100 | 40-55 |
+| 715 | Noivern | 1 | Standard | 65-85 | 30-50 | 35-50 | 10-20 | 30-45 |
+| 750 | Mudsdale | 1 | Standard | 50-70 | 30-60 | 30-40 | 70-100 | 30-40 |
+| 781 | Dhelmise | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
+| 823 | Corviknight | 2 | Standard | 60-80 | 30-50 | 15-30 | 60-80 | 30-45 |
+| 887 | Dragapult | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
+| 899 | Wyrdeer | 1 | Standard | 60-80 | 40-60 | 45-65 | 55-70 | 45-55 |
+| 901 | Ursaluna | 2 | Standard | 30-40 | 10-25 | 40-65 | 65-85 | 25-35 |
+| 903 | Sneasler | 1 | Standard | 75-90 | 65-85 | 35-45 | 10-20 | 30-40 |
+| 941 | Kilowattrel | 1 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
+| 956 | Espathra | 1 | Standard | 30-65 | 15-40 | 55-70 | 25-35 | 40-55 |
+| 966 | Revavroom | 2 | Standard | 0-5 | 25-40 | 70-85 | 20-40 | 15-20 |
+| 967 | Cyclizar | 1 | Standard | 65-85 | 35-60 | 50-85 | 30-60 | 35-45 |
+| 968 | Orthworm | 1 | Standard | 15-25 | 0-15 | 30-40 | 25-75 | 0-5 |
+| 977 | Dondozo | 7 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
 | 981 | Farigiraf | 1 | Standard | 40-60 | 35-50 | 45-60 | 50-70 | 45-55 |
-| 982 | Deusolourdo | 2 | Standard | 30-50 | 30-40 | 5-25 | 30-75 | 20-45 |
-| 982 | Deusolourdo (Forme Triple) | 2 | Standard | 35-60 | 30-40 | 5-25 | 35-85 | 25-55 |
+| 982 | Dudunsparce | 2 | Standard | 30-50 | 30-40 | 5-25 | 30-75 | 20-45 |
+| 982 | Dudunsparce (Three-Segment) | 2 | Standard | 35-60 | 30-40 | 5-25 | 35-85 | 25-55 |
 
 </details>
 
@@ -380,27 +380,27 @@ Statistics are shown by mount type and come directly from the official Cobblemon
 
 <details><summary><strong>🌊 Water Mount List</strong></summary>
 
-| N° Dex | Nom du Pokémon | Places | Style de monture aquatique | Statistiques de monture |
+| Dex No. | Pokémon Name | Seats | Liquid Ride Style | Ride Stats |
 | :---: | :---: | :---: | :---: | :---: |
-| Accél. | Maniab. | Vit. | End. | Saut |
+| Accel. | Skill | Speed | Stam. | Jump |
 | --- | --- | --- | --- | --- |
-| 009 | Tortank | 2 | Sous-marin | 45-65 | 50-75 | 35-65 | 35-70 | 30-50 |
-| 087 | Lamantine | 2 | Dauphin | 50-75 | 30-65 | 25-45 | 25-50 | 25-50 |
-| 119 | Poissoroy | 1 | Sous-marin  | 35-70 | 25-55 | 35-65 | 20-40 | 15-35 |
+| 009 | Blastoise | 2 | Sous-marin | 45-65 | 50-75 | 35-65 | 35-70 | 30-50 |
+| 087 | Dewgong | 2 | Dauphin | 50-75 | 30-65 | 25-45 | 25-50 | 25-50 |
+| 119 | Seaking | 1 | Sous-marin  | 35-70 | 25-55 | 35-65 | 20-40 | 15-35 |
 | 128 | Tauros (Paldea-Aqua) | 1 | Bateau | 55-65 | 40-55 | 30-40 | 30-65 | 20-30 |
-| 130 | Léviator | 1 | Dauphin | 40-60 | 35-65 | 30-55 | 45-75 | 40-70 |
-| 131 | Lokhlass | 1 | Bateau | 30-55 | 50-75 | 25-40 | 45-75 | 20-30 |
-| 149 | Dracolosse | 2 | Dauphin | 30-65 | 35-50 | 30-50 | 60-90 | 55-85 |
-| 226 | Démanta | 1 | Dauphin | 30-55 | 45-75 | 20-40 | 20-40 | 40-80 |
+| 130 | Gyarados | 1 | Dauphin | 40-60 | 35-65 | 30-55 | 45-75 | 40-70 |
+| 131 | Lapras | 1 | Bateau | 30-55 | 50-75 | 25-40 | 45-75 | 20-30 |
+| 149 | Dragonite | 2 | Dauphin | 30-65 | 35-50 | 30-50 | 60-90 | 55-85 |
+| 226 | Mantine | 1 | Dauphin | 30-55 | 45-75 | 20-40 | 20-40 | 40-80 |
 | 249 | Lugia | 1 | Dauphin | 80-100 | 75-95 | 60-80 | 80-100 | 75-90 |
 | 319 | Sharpedo | 1 | Dauphin | 55-85 | 25-65 | 55-85 | 20-45 | 45-75 |
 | 320 | Wailmer | 1 | Sous-marin | 30-55 | 30-55 | 30-50 | 40-85 | 25-40 |
 | 321 | Wailord | 19 | Sous-marin | 20-45 | 30-55 | 20-40 | 65-100 | 40-55 |
 | 369 | Relicanth | 1 | Sous-marin | 25-40 | 40-80 | 15-35 | 50-90 | 50-75 |
-| 445 | Carchacrok | 1 | Bateau | 75-85 | 10-25 | 35-60 | 5-10 | 40-80 |
-| 781 | Sinistrail | 1 | Sous-marin | 40-55 | 20-30 | 15-30 | 45-65 | 70-100 |
-| 887 | Lanssorien | 1 | Dauphin | 60-85 | 55-70 | 50-65 | 25-35 | 40-55 |
-| 977 | Oyacata | 7 | Sous-marin | 45-65 | 50-75 | 25-45 | 60-75 | 10-25 |
+| 445 | Garchomp | 1 | Bateau | 75-85 | 10-25 | 35-60 | 5-10 | 40-80 |
+| 781 | Dhelmise | 1 | Sous-marin | 40-55 | 20-30 | 15-30 | 45-65 | 70-100 |
+| 887 | Dragapult | 1 | Dauphin | 60-85 | 55-70 | 50-65 | 25-35 | 40-55 |
+| 977 | Dondozo | 7 | Sous-marin | 45-65 | 50-75 | 25-45 | 60-75 | 10-25 |
 
 </details>
 
@@ -408,49 +408,49 @@ Statistics are shown by mount type and come directly from the official Cobblemon
 
 <details><summary><strong>🪶 Flying Mount List</strong></summary>
 
-| N° Dex | Nom du Pokémon | Places | Style de monture aérienne | Statistiques de monture |
+| Dex No. | Pokémon Name | Seats | Air Ride Style | Ride Stats |
 | :---: | :---: | :---: | :---: | :---: |
-| Accél. | Maniab. | Vit. | End. | Saut |
+| Accel. | Skill | Speed | Stam. | Jump |
 | --- | --- | --- | --- | --- |
-| 006 | Dracaufeu | 1 | Oiseau | 45-75 | 55-85 | 30-65 | 45-75 | 30-65 |
-| 009 | Tortank | 2 | Fusée | 5-40 | 30-60 | 5-15 | 2-20 | 10-20 |
-| 130 | Léviator | 1 | Jet | 35-60 | 45-65 | 15-50 | 15-55 | 20-45 |
-| 142 | Ptéra | 1 | Oiseau | 35-65 | 35-70 | 45-75 | 40-65 | 45-75 |
-| 144 | Artikodin | 1 | Oiseau | 70-85 | 80-100 | 65-90 | 70-90 | 65-90 |
-| 145 | Électhor | 1 | Oiseau | 65-90 | 70-85 | 80-100 | 65-85 | 70-85 |
-| 146 | Sulfura | 1 | Oiseau | 70-85 | 65-90 | 70-85 | 80-100 | 65-90 |
-| 149 | Dracolosse | 2 | Jet | 35-50 | 50-85 | 40-60 | 50-85 | 50-70 |
-| 205 | Forêtress | 1 | Stationnaire | 20-40 | 25-45 | 15-25 | 0-5 | 5-10 |
-| 214 | Scarhino | 1 | Oiseau | 40-65 | 55-85 | 35-50 | 35-55 | 0-5 |
-| 226 | Démanta | 1 | Oiseau | 75-100 | 30-50 | 20-40 | 0-0 | 25-45 |
+| 006 | Charizard | 1 | Oiseau | 45-75 | 55-85 | 30-65 | 45-75 | 30-65 |
+| 009 | Blastoise | 2 | Fusée | 5-40 | 30-60 | 5-15 | 2-20 | 10-20 |
+| 130 | Gyarados | 1 | Jet | 35-60 | 45-65 | 15-50 | 15-55 | 20-45 |
+| 142 | Aerodactyl | 1 | Oiseau | 35-65 | 35-70 | 45-75 | 40-65 | 45-75 |
+| 144 | Articuno | 1 | Oiseau | 70-85 | 80-100 | 65-90 | 70-90 | 65-90 |
+| 145 | Zapdos | 1 | Oiseau | 65-90 | 70-85 | 80-100 | 65-85 | 70-85 |
+| 146 | Moltres | 1 | Oiseau | 70-85 | 65-90 | 70-85 | 80-100 | 65-90 |
+| 149 | Dragonite | 2 | Jet | 35-50 | 50-85 | 40-60 | 50-85 | 50-70 |
+| 205 | Forretress | 1 | Stationnaire | 20-40 | 25-45 | 15-25 | 0-5 | 5-10 |
+| 214 | Heracross | 1 | Oiseau | 40-65 | 55-85 | 35-50 | 35-55 | 0-5 |
+| 226 | Mantine | 1 | Oiseau | 75-100 | 30-50 | 20-40 | 0-0 | 25-45 |
 | 249 | Lugia | 1 | Oiseau | 65-85 | 60-80 | 60-80 | 65-90 | 75-90 |
 | 250 | Ho-Oh | 2 | Oiseau | 75-95 | 65-85 | 75-90 | 80-100 | 75-100 |
-| 330 | Libégon | 1 | Oiseau | 40-75 | 40-85 | 50-80 | 45-65 | 45-60 |
+| 330 | Flygon | 1 | Oiseau | 40-75 | 40-85 | 50-80 | 45-65 | 45-60 |
 | 334 | Altaria | 1 | Oiseau | 25-45 | 40-50 | 25-35 | 70-90 | 25-45 |
-| 344 | Kaorine | 1 | Stationnaire | 65-85 | 50-70 | 10-20 | 5-10 | 35-70 |
+| 344 | Claydol | 1 | Stationnaire | 65-85 | 50-70 | 10-20 | 5-10 | 35-70 |
 | 357 | Tropius | 2 | Oiseau | 20-45 | 20-40 | 20-45 | 55-80 | 70-90 |
-| 373 | Drattak | 2 | Oiseau | 60-75 | 40-65 | 60-75 | 65-85 | 60-85 |
-| 376 | Métalosse | 4 | Stationnaire | 60-75 | 35-55 | 45-75 | 10-25 | 25-45 |
+| 373 | Salamence | 2 | Oiseau | 60-75 | 40-65 | 60-75 | 65-85 | 60-85 |
+| 376 | Metagross | 4 | Stationnaire | 60-75 | 35-55 | 45-75 | 10-25 | 25-45 |
 | 380 | Latias | 1 | Jet | 70-95 | 70-95 | 75-90 | 85-100 | 85-100 |
 | 381 | Latios | 1 | Jet | 70-95 | 70-95 | 85-100 | 70-95 | 80-100 |
-| 398 | Étouraptor | 1 | Oiseau | 45-70 | 25-45 | 35-55 | 45-70 | 45-65 |
-| 426 | Grodrive | 1 | Stationnaire | 10-20 | 15-25 | 5-15 | 40-80 | 60-100 |
-| 430 | Corboss | 1 | Oiseau | 20-40 | 30-50 | 20-35 | 55-75 | 50-70 |
-| 437 | Archéodong | 2 | Stationnaire | 40-65 | 25-40 | 15-30 | 10-20 | 30-50 |
-| 445 | Carchacrok | 1 | Jet | 50-70 | 50-60 | 70-80 | 30-50 | 20-70 |
-| 462 | Magnézone | 1 | Stationnaire | 65-90 | 35-50 | 20-35 | 5-15 | 45-65 |
+| 398 | Staraptor | 1 | Oiseau | 45-70 | 25-45 | 35-55 | 45-70 | 45-65 |
+| 426 | Drifblim | 1 | Stationnaire | 10-20 | 15-25 | 5-15 | 40-80 | 60-100 |
+| 430 | Honchkrow | 1 | Oiseau | 20-40 | 30-50 | 20-35 | 55-75 | 50-70 |
+| 437 | Bronzong | 2 | Stationnaire | 40-65 | 25-40 | 15-30 | 10-20 | 30-50 |
+| 445 | Garchomp | 1 | Jet | 50-70 | 50-60 | 70-80 | 30-50 | 20-70 |
+| 462 | Magnezone | 1 | Stationnaire | 65-90 | 35-50 | 20-35 | 5-15 | 45-65 |
 | 468 | Togekiss | 1 | Jet | 20-30 | 45-65 | 20-30 | 70-100 | 10-20 |
-| 477 | Noctunoir | 1 | Stationnaire | 45-60 | 60-70 | 15-25 | 0-5 | 45-80 |
-| 601 | Cliticlic | 1 | Stationnaire | 40-60 | 40-60 | 30-40 | 5-10 | 15-25 |
-| 623 | Golemastoc | 3 | Fusée | 10-35 | 15-30 | 45-75 | 30-50 | 25-40 |
-| 628 | Gueriaigle | 1 | Oiseau | 35-55 | 30-50 | 45-70 | 55-85 | 35-55 |
-| 628 | Gueriaigle (Hisui) | 1 | Bird | 30-50 | 30-50 | 40-65 | 60-90 | 40-60 |
-| 635 | Trioxhydre | 2 | Oiseau | 35-55 | 30-60 | 45-60 | 75-100 | 5-10 |
-| 637 | Pyrax | 1 | Oiseau | 45-65 | 55-75 | 30-50 | 65-90 | 25-35 |
-| 715 | Bruyverne | 1 | Oiseau | 40-65 | 50-85 | 55-90 | 30-45 | 55-85 |
-| 823 | Corvaillus | 2 | Oiseau | 35-55 | 20-35 | 25-40 | 80-100 | 80-100 |
-| 887 | Lanssorien | 1 | Jet | 60-85 | 55-70 | 55-90 | 25-35 | 45-80 |
-| 941 | Fulgulairo | 1 | Oiseau | 35-50 | 40-65 | 30-45 | 40-65 | 50-70 |
+| 477 | Dusknoir | 1 | Stationnaire | 45-60 | 60-70 | 15-25 | 0-5 | 45-80 |
+| 601 | Klinklang | 1 | Stationnaire | 40-60 | 40-60 | 30-40 | 5-10 | 15-25 |
+| 623 | Golurk | 3 | Fusée | 10-35 | 15-30 | 45-75 | 30-50 | 25-40 |
+| 628 | Braviary | 1 | Oiseau | 35-55 | 30-50 | 45-70 | 55-85 | 35-55 |
+| 628 | Braviary (Hisui) | 1 | Bird | 30-50 | 30-50 | 40-65 | 60-90 | 40-60 |
+| 635 | Hydreigon | 2 | Oiseau | 35-55 | 30-60 | 45-60 | 75-100 | 5-10 |
+| 637 | Volcarona | 1 | Oiseau | 45-65 | 55-75 | 30-50 | 65-90 | 25-35 |
+| 715 | Noivern | 1 | Oiseau | 40-65 | 50-85 | 55-90 | 30-45 | 55-85 |
+| 823 | Corviknight | 2 | Oiseau | 35-55 | 20-35 | 25-40 | 80-100 | 80-100 |
+| 887 | Dragapult | 1 | Jet | 60-85 | 55-70 | 55-90 | 25-35 | 45-80 |
+| 941 | Kilowattrel | 1 | Oiseau | 35-50 | 40-65 | 30-45 | 40-65 | 50-70 |
 
 </details>
 
