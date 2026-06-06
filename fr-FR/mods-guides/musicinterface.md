@@ -1,8 +1,12 @@
-# Wiki — Créer un pack de musique pour Music Interface 🎵
+# Wiki - Créer un pack de musique pour Music Interface 🎵
 
 ## 🎯 Objectif
 
-Cette page explique comment créer un ressource pack compatible avec **Music Interface** afin d’ajouter vos propres musiques dans Minecraft. Le mod utilise un pack de ressources Minecraft classique, avec quelques fichiers spécifiques à fournir.
+{% hint style="info" %}
+<p align="center">
+Cette page explique comment créer un ressource pack compatible avec <strong>Music Interface</strong> afin d’ajouter vos propres musiques dans Minecraft. Le mod utilise un pack de ressources Minecraft classique, avec quelques fichiers spécifiques à fournir.
+</p>
+{% endhint %}
 
 ---
 
