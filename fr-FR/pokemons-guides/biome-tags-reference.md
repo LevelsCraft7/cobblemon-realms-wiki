@@ -2,7 +2,11 @@
 
 ## 🌍 Référence des Tags de Biomes
 
+{% hint style="info" %}
+<p align="center">
 Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. Chaque tag regroupe des biomes partageant des caractéristiques communes et est utilisé pour définir les conditions d’apparition des Pokémon.
+</p>
+{% endhint %}
 
 ---
 
