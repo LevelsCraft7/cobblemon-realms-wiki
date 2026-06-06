@@ -410,10 +410,12 @@ L’addon Baby Legends ajoute des formes bébé de Pokémon légendaires à la p
 
 ---
 
-## 🧠 Notes de gameplay
+{% hint style="info" %}
+## 📝 Notes de gameplay
 
-- L’amitié est centrale dans plusieurs évolutions
-- Les conditions météo sont très importantes
-- Beaucoup d’évolutions nécessitent des objets spécifiques
-- Les taux de capture sont globalement faibles
-- Exploration multi-biomes fortement encouragée
+- 💞 L’amitié est centrale dans plusieurs évolutions  
+- ⛈️ Les conditions météo sont très importantes  
+- 🔮 Beaucoup d’évolutions nécessitent des objets spécifiques  
+- 🎯 Les taux de capture sont globalement faibles  
+- 🧭 Exploration multi-biomes fortement encouragée  
+{% endhint %}
