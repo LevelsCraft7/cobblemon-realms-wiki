@@ -130,7 +130,7 @@ Le mod dispose de plusieurs fichiers de configuration :
 
 ## 🌿 Multiplicateurs par défaut
 
-```yaml
+```
 grass: 1.0
 sand: 1.0
 water: 1.0
@@ -148,7 +148,7 @@ soulflame: 1.0
 
 ## Commandes joueur
 
-```text
+```
 /rustlingspots messages
 /rustlingspots messages on
 /rustlingspots messages off
@@ -163,7 +163,7 @@ soulflame: 1.0
 Ces commandes sont principalement destinées aux administrateurs et au débogage du mod.
 {% endhint %}
 
-```text
+```
 /rustlingspots spawn grass
 /rustlingspots spawn rustlingspots:grass
 /rustlingspots spawn <namespace:spot_id>
