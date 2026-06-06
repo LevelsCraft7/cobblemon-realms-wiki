@@ -1,4 +1,4 @@
-# ⚡ Optimiser les performances en solo
+## ⚡ Optimiser vos perfs 
 
 {% hint style="info" %}
 <p align="center">
