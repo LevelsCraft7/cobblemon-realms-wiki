@@ -349,12 +349,6 @@ Boss : **Sun Spirit**
 {% hint style="success" %}
 ## 📌 À retenir
 L'Aether est une dimension accessible rapidement mais qui cache une importante progression orientée exploration, donjons, boss et Pokémon rares. La mobilité et la prudence sont les clés de la survie.
-
-- ☁️ Glowstone + Eau pour le portail
-- 🐾 Très gros spawns Cobblemon
-- ⚔️ Les boss donnent les meilleures récompenses
-- 🧭 La mobilité est essentielle
-- ☁️ Les chutes sont le principal danger
 {% endhint %}
 
 ---
