@@ -23,7 +23,7 @@ Si vous rencontrez des freezes, rollbacks, ralentissements mémoire ou des probl
 
 Copiez les arguments suivants dans les paramètres Java supplémentaires :
 
-```text
+```
 -Xms10G
 -Xmx10G
 -XX:+UseG1GC
@@ -36,15 +36,15 @@ Copiez les arguments suivants dans les paramètres Java supplémentaires :
 
 # 🛠️ Configuration dans CurseForge
 
-## Étapes
+## ☝🏼 Étapes
 
-1. Ouvrez **CurseForge**.
-2. Cliquez sur l'icône **⚙️ Paramètres**.
-3. Rendez-vous dans **Game Specific → Minecraft**.
-4. Descendez jusqu'à **Java Settings**.
-5. Désactivez **Use System Memory Settings**.
-6. Allouez entre **8 et 10 Go de RAM**.
-7. Collez les arguments JVM ci-dessus dans **Additional Java Arguments**.
+1. Ouvrez `CurseForge`.
+2. Cliquez sur `⚙️ Paramètres`.
+3. Rendez-vous dans `Game Specific → Minecraft`.
+4. Descendez jusqu'à `Java Settings`.
+5. Désactivez `Use System Memory Settings`.
+6. Allouez entre `8 et 10 Go de RAM`.
+7. Collez les arguments JVM ci-dessus dans `Additional Java Arguments`.
 8. Sauvegardez puis redémarrez le modpack.
 
 {% hint style="warning" %}
