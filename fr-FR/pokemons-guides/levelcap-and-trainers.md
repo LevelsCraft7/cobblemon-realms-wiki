@@ -257,16 +257,19 @@ Affiche :
 
 ---
 
-## 💡 Conseils pour réussir
+{% hint style="success" %}
+## :bulb: Conseils pour réussir :
 
-- 🧠 Faites tourner votre équipe pour éviter de bloquer l’XP avec un seul Pokémon.
-- 🎯 Priorisez les combats de dresseurs dès le début pour débloquer rapidement les arènes et séries.
-- 🗺 Consultez souvent votre Carte de Dresseur ; en particulier pour les indices de biome et de dimension.
-- 📖 Surveillez l’onglet Avancements pour les objectifs cachés.
+- :brain: Faites tourner votre équipe pour éviter de bloquer l’XP avec un seul Pokémon.
+- :dart: Priorisez les combats de dresseurs dès le début pour débloquer rapidement les arènes et séries.
+- :map: Consultez souvent votre Carte de Dresseur ; en particulier pour les indices de biome et de dimension.
+- :book: Surveillez l’onglet Avancements pour les objectifs cachés.
+- :speech_balloon: Besoin d'aide ? Rejoignez notre serveur [Discord](https://discord.gg/kb8NSTF45n).
+{% endhint %}
 
 ---
 
 ## ℹ️ En savoir plus
 
-- **Documentation officielle Radical Trainers** : https://srcmc.gitlab.io/rct/docs/0.13/
-- **More Radical Trainers (Datapack)** : https://modrinth.com/datapack/more-radical-trainers
+- [**Documentation officielle Radical Trainers**](https://srcmc.gitlab.io/rct/docs/0.13/)
+- [**More Radical Trainers (Datapack)**](https://modrinth.com/datapack/more-radical-trainers)
