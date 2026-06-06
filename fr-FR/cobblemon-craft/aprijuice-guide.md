@@ -76,8 +76,7 @@ Cette qualité n'influence pas ses effets et sert uniquement d'indicateur visuel
 
 ## 🍶 Obtention
 
-L’Aprijuice se prépare en cuisinant des Apricorns avec des baies dans une `Marmite à feu` sur un `Feu de camp`.  
-La combinaison des ingrédients détermine ses effets finaux.
+L’Aprijuice se prépare en cuisinant des Apricorns avec des baies dans une `Marmite à feu` sur un `Feu de camp`. La combinaison des ingrédients détermine ses effets finaux.
 
 ### 🍳 Préparation
 
