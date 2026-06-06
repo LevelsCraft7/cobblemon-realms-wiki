@@ -271,9 +271,9 @@ Les **Zephyrs** sont des mobs hostiles ressemblant à des nuages vivants.
 
 ![Zephyrs](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Zephyr.png)
 
-### ⚠️ Danger
-
-Ils rendent les traversées aériennes beaucoup plus dangereuses.
+{% hint style="warning" %}
+Le principal danger de l'Aether n'est pas toujours les monstres. Les chutes dans le vide représentent la première cause de mort dans la dimension.
+{% endhint %}
 
 ---
 
