@@ -3,7 +3,10 @@
 ## 🧑🏼‍🔧 Fonctionnement de Rustling Spots
 
 {% hint style="info" %}
+<p align="center">
+  
 <strong>Rustling Spots</strong> est un mod inspiré des herbes frémissantes de Pokémon Noir & Blanc. Lors de votre exploration, des événements temporaires peuvent apparaître autour de vous et déclencher des rencontres Pokémon, des récompenses ou d'autres surprises.
+</p>
 {% endhint %}
 
 {% hint style="success" %}
@@ -206,7 +209,7 @@ Il est possible d'ajouter :
 
 ## 📥 Guide & exemple
 
-- https://www.curseforge.com/minecraft/data-packs/rustling-spots-example-addon-datapack
+- [Rustling Spots - Addon Datapack](https://www.curseforge.com/minecraft/data-packs/rustling-spots-example-addon-datapack)
 
 ---
 
