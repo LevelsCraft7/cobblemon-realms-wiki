@@ -1,7 +1,9 @@
 # 🌑 Plongée dans les Profondeurs Oubliées
 
 {% hint style="info" %}
+<p align="center">
 <strong>The Otherside</strong> est une dimension ajoutée par Deeper and Darker, centrée sur l'exploration, l'obscurité et les récompenses à haut risque. Sur Cobblemon Realms, elle accueille également de nombreux spawns Cobblemon exclusifs et late-game.
+</p>
 {% endhint %}
 
 ![Otherside Portal](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Deeper-and-Darker/Otherside_Portal.png)
