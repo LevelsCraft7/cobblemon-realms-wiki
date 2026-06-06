@@ -4,7 +4,6 @@
 
 {% hint style="info" %}
 <p align="center">
-  
 <strong>Rustling Spots</strong> est un mod inspiré des herbes frémissantes de Pokémon Noir & Blanc. Lors de votre exploration, des événements temporaires peuvent apparaître autour de vous et déclencher des rencontres Pokémon, des récompenses ou d'autres surprises.
 </p>
 {% endhint %}
