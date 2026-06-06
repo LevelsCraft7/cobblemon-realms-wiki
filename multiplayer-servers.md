@@ -1,116 +1,84 @@
 # 🌐 Multiplayer Servers
 
-Cobblemon Realms is designed to shine in multiplayer.
-Whether you want to join an existing world or build your own community, here’s everything you need to know.
+## 🚀 Play with Other Trainers
+
+{% hint style="info" %}
+<p align="center">
+Cobblemon Realms can be played both in singleplayer and multiplayer. Whether you want to join an existing community or create your own adventure with friends, several options are available.
+</p>
+{% endhint %}
 
 ---
 
-# 🧑‍🤝‍🧑 Join an Existing Server
+## 🧑‍🤝‍🧑 Joining a Server
 
-## ▶ Featured & Partner Servers
+You can join any server compatible with the current version of Cobblemon Realms.
 
-Some servers are accessible **directly from the modpack main menu**.
+Before connecting, make sure that:
 
-These servers:
+- 📦 You are using the latest version of the modpack
+- ☕ Java 21 is properly installed
+- 🔄 Your client version matches the server version
 
-* Run the official Cobblemon Realms modpack
-* Stay up to date
-* Follow the core progression philosophy
-
----
-
-## 🔒 Semi-Private Official Server
-
-The **Classic version** of Cobblemon Realms is available on a semi-private server.
-
-Access is granted exclusively to:
-
-* Members of the official Discord community
-
-You can easily request access inside the Discord.
-Staff will review your request.
-
-This keeps the environment stable, respectful, and aligned with the project vision.
+{% hint style="info" %}
+💡 Some servers may use custom rules, additional mods, or unique systems that differ from the base modpack.
+{% endhint %}
 
 ---
 
-# 🛠️ Host Your Own Server
+## 🌐 Create Your Own Server
 
-Want full control? Hosting your own server is ideal for:
+Creating your own server allows you to play with friends, customize your experience, and manage your own community.
 
-* Small friend groups
-* Content creators
-* Large public communities
+### ✅ Recommended Configuration
 
-👉 Full setup instructions are available in the [Installation Guide](installation.md)
+| ⚙️ Resource | 📋 Recommendation |
+| --- | --- |
+| ☕ Java | Version 21 |
+| 💾 RAM | Minimum 8 GB |
+| 🌐 Network | Stable connection |
+| 💽 Storage | SSD recommended |
+| 🔓 Port | 25565 (if accessible from the internet) |
 
----
-
-## ✅ Core Requirements
-
-* Java 21
-* Minimum 8 GB RAM
-* Port 25565 open if hosting publicly
-* Properly configured `server.properties`
-
-Client and server must always use the same modpack version.
+📘 Check the [Installation Guide](installation.md) to install or update a server.
 
 ---
 
-# 🚀 Recommended Hosting — BisectHosting
+## ☁️ Recommended Hosting
 
-For the easiest and most reliable setup:
+To avoid the constraints of self-hosting (port forwarding, maintenance, backups, and uptime), we recommend using a dedicated hosting provider.
 
-## 👉 [https://bisecthosting.com/OurStory](https://bisecthosting.com/OurStory)
+### 🚀 BisectHosting
 
-Official Cobblemon Realms Partner
+**BisectHosting** is the official partner of Cobblemon Realms.
 
-Benefits:
+### ✨ Benefits
 
-* One click installation
-* Automatic updates
-* Automatic backups
-* Optimized hardware for large modpacks
-* Global low latency locations
-* DDoS protection
+- ⚡ One-click modpack installation
+- 🌍 Data centers worldwide
+- 🛡️ Built-in DDoS protection
+- 💾 Simplified backups
+- 🔄 Easy update management
+- 📂 Full access to server files
 
-🎉 Use code **OurStory** for 25% OFF your first month.
-
-If you want stability without manual configuration, this is the recommended option.
-
----
-
-# 📢 Promote Your Server
-
-If you own a server running the **official Cobblemon Realms modpack**, you may request:
-
-* Inclusion directly inside the modpack server list
-* Promotion on this wiki page
-
-This is available only if:
-
-* Your server runs the official modpack
-* You respect the project identity and structure
-
-If a server advertises unrelated content or misuses the Cobblemon Realms name, moderation actions may be taken.
-
-To request listing, contact the staff team on Discord.
+{% hint style="success" %}
+🎁 Use the code `OURSTORY` on [BisectHosting](https://bisecthosting.com/OurStory) during checkout to receive **25% off your first month of hosting**.
+{% endhint %}
 
 ---
 
-# 🔐 Best Practices for Server Owners
+## 🔐 Best Practices
 
-* Use a whitelist to control access
-* Pre generate your world using tools like Chunky
-* Schedule automatic backups
-* Keep your pack updated
-* Avoid modifying core systems unless you understand the impact
+{% hint style="success" %}
+To ensure server stability:
 
----
+- 💾 Create regular backups
+- 🔄 Keep the server updated
+- 🧱 Pre-generate your world using [Chunky](mods-guides/chunky.md)
+- ✅ Use a whitelist to control access
+- 📋 Check logs when errors or crashes occur
+{% endhint %}
 
-Cobblemon Realms multiplayer is built around progression, balance, and long term community building.
-
-Choose your path:
-Join.
-Host.
-Or build something legendary.
+{% hint style="warning" %}
+⚠️ Before every major update, create a full backup of your world and configuration files.
+{% endhint %}
