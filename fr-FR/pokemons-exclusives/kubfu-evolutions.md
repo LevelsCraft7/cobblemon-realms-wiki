@@ -2,7 +2,7 @@
 
 {% hint style="warning" %}
 <p align="center">
-Les formes n'existent pas dans le mod officiel de Cobblemon. Il ne s'agit ni d'une erreur ni d'un oubli. Vous pouvez voir leur forme changer depuis le menu <code>Équipe</code> du modpack, mais une fois en jeu, elles conservent leur apparence normale. Ceci est <strong>normal</strong>. Je ne mets donc aucune image, mais je conserve les textes alternatifs au cas où ces formes seraient ajoutées ultérieurement.
+Les formes n'existent pas dans le mod officiel de Cobblemon. Il ne s'agit ni d'une erreur ni d'un oubli. Bien qu'elles puissent apparaître dans le menu <code>Équipe</code>, elles conservent leur apparence normale en jeu. Ceci est <strong>normal</strong>. Aucune image n'est donc affichée, mais les textes alternatifs sont conservés en prévision d'un éventuel ajout futur.
 </p>
 {% endhint %}
 
