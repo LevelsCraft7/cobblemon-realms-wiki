@@ -48,7 +48,9 @@ Copiez les arguments suivants dans les paramètres Java supplémentaires :
 8. Sauvegardez puis redémarrez le modpack.
 
 {% hint style="warning" %}
+<p align="center">
 CurseForge ajoute automatiquement certains arguments Java. Les dernières valeurs définies pour <code>-Xms</code> et <code>-Xmx</code> restent toutefois prioritaires.
+</p>
 {% endhint %}
 
 ---
