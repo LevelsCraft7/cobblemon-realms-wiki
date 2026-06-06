@@ -1,4 +1,4 @@
-## ⚡ Optimiser vos perfs 
+
 
 {% hint style="info" %}
 <p align="center">
