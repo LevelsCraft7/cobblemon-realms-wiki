@@ -1,736 +1,596 @@
-# Extra Eeveelutions
+# ✨ Extra Eeveelutions
 
-The **Extra Eeveelutions** datapack adds several new variants of Eevee, each with unique abilities, stats, and evolution methods.  
-This page lists every custom Eeveelution, with stats, locations, evolution conditions, learnsets, and flavor text.
+{% hint style="info" %}
+<p align="center">
+The <strong>Extra Eeveelutions</strong> datapack adds many new Eevee evolutions to discover throughout your adventure. This page lists all of these Eeveelutions along with their evolution methods.
+</p>
+{% endhint %}
 
----
+<p align="center">
+Each Eeveelution has its own characteristics:
 
-## FAQs
-
-### Q: Does Eevee evolve into Evereon only by fighting wild Eeveelutions, or can Trainer battles be used? Does Eevee have to fight them, or can I use any Pokémon?  
-**A:** Some players report that Trainer battles work, others say they do not. In my tests it did not work, but that could be due to setup. You can try both methods.  
-Eevee itself must land the finishing blow on all **18 Eeveelutions** from the base mod and this addon.
-
-### Q: I cannot see the Eeveelutions in the Pokédex  
-**A:** They have their own dedicated section in the **Regions** tab.
-
-### Q: What Flying-type move can Eevee learn?  
-**A:** In this datapack, Eevee can learn **Mirror Move** at **Level 20**.
+- 📊 Custom stats
+- ✨ Unique abilities
+- 🔮 New evolution methods
+- 🌍 Specific spawning conditions
+</p>
 
 ---
 
-## Spectreon
+<details>
+<summary align="center"><strong>❓ Quick FAQ</strong></summary>
 
-**Type:** Ghost  
+## 🧬 How do I evolve Eevee into Evereon?
 
-**Stats**
+According to player feedback, Trainer battles may sometimes work, but results seem inconsistent.
 
-| Stat  | Value |
-| ----- | ----- |
-| HP    | 65    |
-| ATK   | 65    |
-| DEF   | 60    |
-| Sp. ATK | 130 |
-| Sp. DEF | 95  |
-| SPD   | 110   |
+To maximize your chances:
 
-**Abilities**
+- Eevee must land the **final hit**
+- On all **11 Eeveelutions**
+- From both the main datapack **and** the addon
 
-- **Ability:** Prankster  
-- **Hidden Ability:** Perish Body  
-
-**Spawn Locations**
-
-- Magical biomes *(Ultra Rare)*  
-- Soul Sand Valley *(Rare)*  
-
-**Evolution Method**
-
-- High Friendship in a **Soul Sand Valley** biome.
-
-> Spectreon tend to lurk in dark forests, waiting for the day their Trainer comes back for them.  
-> Most of them are not even aware that they have passed away and will wander forever.
-
-### Learnset
-
-#### Level-up Moves
-
-- Lv. 1  Bite, Growl, Fake Tears, Smokescreen, Helping Hand, Sand Attack  
-- Lv. 5  Hex  
-- Lv. 8  Hypnosis  
-- Lv. 12 Shadow Ball  
-- Lv. 14 Bitter Malice  
-- Lv. 17 Night Shade  
-- Lv. 18 Nasty Plot  
-- Lv. 22 Phantom Force  
-- Lv. 26 Destiny Bond  
-- Lv. 30 Confusion  
-- Lv. 34 Dream Eater  
-- Lv. 37 Ally Switch  
-- Lv. 40 Amnesia  
-- Lv. 43 Worry Seed  
-- Lv. 50 Nightmare  
-- Lv. 54 Thief  
-- Lv. 57 Energy Ball  
-- Lv. 60 Will-O-Wisp  
-- Lv. 67 Frost Breath  
-- Lv. 73 Quash  
-- Lv. 76 Torment  
-- Lv. 80 Double Team  
-
-#### TMs
-
-Rest, Calm Mind, Charm, Confuse Ray, Draining Kiss, Grass Knot, Leech Seed, Imprison, Magic Room, Light Screen, Protect, Skill Swap, Snore, Stored Power, Swagger, Tera Blast, Zen Headbutt, Poltergeist  
-
-![Spectreon](https://github.com/user-attachments/assets/28254552-80eb-497a-8dd4-935b7fd4f358)
+> ⚠️ Battles against wild Pokémon remain the most reliable method.
 
 ---
 
-## Acideon
+## 📖 I can't find the Eeveelutions in the Pokédex
 
-**Type:** Poison  
+Custom Eeveelutions are not listed in the classic regions.
 
-**Stats**
+You can find them in:
 
-| Stat  | Value |
-| ----- | ----- |
-| HP    | 95    |
-| ATK   | 65    |
-| DEF   | 65    |
-| Sp. ATK | 130 |
-| Sp. DEF | 110 |
-| SPD   | 60    |
-
-**Abilities**
-
-- **Abilities:** Poison Point, Liquid Ooze  
-- **Hidden Ability:** Corrosion  
-
-**Spawn Locations**
-
-- Swamp biomes  
-
-**Evolution Method**
-
-- Level **24**, while in the same party as a **Muk**.
-
-> The orb at the end of Acideon’s tail is so poisonous that even lightly touching it can cause life-long damage.
-
-### Learnset
-
-#### Level-up Moves
-
-- Lv. 1  Bite, Growl, Fake Tears, Smokescreen, Helping Hand, Sand Attack, Harden  
-- Lv. 4  Poison Sting  
-- Lv. 7  Knock Off  
-- Lv. 9  Screech  
-- Lv. 12 Acid  
-- Lv. 15 Crunch  
-- Lv. 19 Acid Spray  
-- Lv. 23 Poison Gas  
-- Lv. 27 Clear Smog  
-- Lv. 29 Pain Split  
-- Lv. 32 Metal Claw  
-- Lv. 34 Toxic  
-- Lv. 38 Sludge Bomb  
-- Lv. 42 Gunk Shot  
-- Lv. 46 Minimize  
-- Lv. 50 Acid Armor  
-- Lv. 53 Poison Tail  
-- Lv. 58 Yawn  
-- Lv. 60 Cross Poison  
-
-#### TMs
-
-Rest, Calm Mind, Charm, Confuse Ray, Venoshock, Double Team, Sludge Wave, Leech Seed, Imprison, Mud Bomb, Spikes, Toxic Spikes, Hyper Beam, Protect, Payback, Brutal Strength, Stored Power, Poison Jab, Tera Blast, Shadow Ball, Trick Room  
-
-![Acideon](https://github.com/user-attachments/assets/337c2728-f144-493c-9702-82530f0aecc7)
+**Pokédex → Regions**
 
 ---
 
-## Champeon
+## 🪽 What Flying-type move can Eevee learn?
 
-**Type:** Fighting  
+Eevee can learn **Mirror Shot** starting at **level 20**.
 
-**Stats**
-
-| Stat  | Value |
-| ----- | ----- |
-| HP    | 65    |
-| ATK   | 130   |
-| DEF   | 110   |
-| Sp. ATK | 65  |
-| Sp. DEF | 60  |
-| SPD   | 95    |
-
-**Abilities**
-
-- **Abilities:** Fur Coat, Defiant  
-- **Hidden Ability:** Scrappy  
-
-**Spawn Locations**
-
-- Windswept Savanna  
-
-**Evolution Method**
-
-- Level **36** while holding a **Focus Band**.
-
-> When an Eevee becomes inspired by a fighter’s spirit, it trains for many years until it finally becomes a Champeon.
-
-### Learnset
-
-#### Level-up Moves
-
-- Lv. 1  Assurance, Growl, Tail Whip, Helping Hand, Sand Attack, Fire Punch, Ice Punch, Thunder Punch  
-- Lv. 5  Vacuum Wave  
-- Lv. 8  Mach Punch  
-- Lv. 12 Quick Guard  
-- Lv. 14 Agility  
-- Lv. 17 Drain Punch  
-- Lv. 18 Bullet Punch  
-- Lv. 22 Protect  
-- Lv. 26 Counter  
-- Lv. 30 Feint  
-- Lv. 34 Pursuit  
-- Lv. 37 Mega Punch  
-- Lv. 40 Sky Uppercut  
-- Lv. 43 Frustration  
-- Lv. 50 Round  
-- Lv. 54 Fling  
-- Lv. 57 Stone Edge  
-- Lv. 60 Brick Break  
-- Lv. 67 Close Combat  
-- Lv. 73 Bulk Up  
-- Lv. 76 Torment  
-- Lv. 80 Detect  
-
-#### TMs
-
-Body Press, Iron Defense, Substitute, Arm Thrust, Focus Punch, Force Palm, High Jump Kick, Karate Chop, Low Kick, Low Sweep, Mat Block, Revenge, Rolling Kick, Triple Kick, Cross Chop, Darkest Lariat, Foul Play, Beat Up, Parting Shot  
-
-![Champeon](https://github.com/user-attachments/assets/63f7d08d-292f-41d9-9398-7ba3b5b818d0)
+</details>
 
 ---
 
-## Aereon
+# 👻 Spectreon
 
-**Type:** Flying  
+## 🧾 General Information
 
-**Stats**
-
-| Stat  | Value |
-| ----- | ----- |
-| HP    | 65    |
-| ATK   | 110   |
-| DEF   | 95    |
-| Sp. ATK | 65  |
-| Sp. DEF | 60  |
-| SPD   | 130   |
-
-**Abilities**
-
-- **Abilities:** Unburden, Hustle  
-- **Hidden Ability:** Simple  
-
-**Spawn Locations**
-
-- Meadow biomes  
-- Windswept Hills  
-
-**Evolution Method**
-
-- Right-click Eevee with an **Air Balloon**.
-
-> Aereon like to swim among the clouds alongside other Flying-type Pokémon.  
-> Much like its ocean counterpart Vaporeon, Aereon can turn into clouds as a defense mechanism.
-
-### Learnset
-
-#### Level-up Moves
-
-- Lv. 1  Gust, Growl, Tail Whip, Helping Hand, Sand Attack  
-- Lv. 5  Leer  
-- Lv. 8  Air Cutter  
-- Lv. 12 Bite  
-- Lv. 14 Agility  
-- Lv. 17 Rain Dance  
-- Lv. 18 Air Slash  
-- Lv. 22 Tailwind  
-- Lv. 24 Defog  
-- Lv. 26 Acrobatics  
-- Lv. 30 Scald  
-- Lv. 34 Thunder  
-- Lv. 37 Snowscape, Blizzard  
-- Lv. 40 Ice Beam  
-- Lv. 43 Aerial Ace  
-- Lv. 50 Whirlwind  
-- Lv. 54 Double Team  
-- Lv. 57 Roost  
-- Lv. 60 Fly  
-- Lv. 64 Freeze Shock  
-- Lv. 67 Heat Wave  
-- Lv. 73 Solar Beam  
-- Lv. 76 Feather Dance  
-- Lv. 80 Sky Drop  
-
-#### TMs
-
-Hurricane, Swords Dance, Fling, Brave Bird, Wing Attack, Sky Attack, Bounce, Ice Shard, Nuzzle, Spark, Heat Crash, Overheat, Sunny Day, Thunder Wave, Charge, Hail, Aurora Veil, Mist  
-
-![Aereon](https://github.com/user-attachments/assets/c737dfec-c903-4e66-a411-98cf66c5261b)
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_spectre.png)
 
 ---
 
-## Minereon
+## 📊 Stats
 
-**Type:** Rock  
+| Stat | Value |
+|---|---|
+| ❤️ HP | 65 |
+| ⚔️ Attack | 110 |
+| 🛡️ Defense | 130 |
+| ✨ Sp. Attack | 95 |
+| 🌙 Sp. Defense | 60 |
+| ⚡ Speed | 65 |
 
-**Stats**
-
-| Stat  | Value |
-| ----- | ----- |
-| HP    | 95    |
-| ATK   | 110   |
-| DEF   | 130   |
-| Sp. ATK | 60  |
-| Sp. DEF | 65  |
-| SPD   | 65    |
-
-**Abilities**
-
-- **Abilities:** Sand Force, Sturdy  
-- **Hidden Ability:** Keen Eye  
-
-**Spawn Locations**
-
-- Any underground biome  
-  - **Except:** Deep Dark or Abyss-like biomes  
-
-**Evolution Method**
-
-- While holding an **Iron Pickaxe**, in a **Dripstone Cave**.
-
-> Minereon use the spike on the end of their tail to carve ores and gemstones from caves.  
-> The metal tips on their ears help clear excess rock, and their eyes let them see clearly deep underground.
-
-### Learnset
-
-#### Level-up Moves
-
-- Lv. 1  Rollout, Growl, Tail Whip, Tackle, Sand Attack  
-- Lv. 5  Rock Polish  
-- Lv. 8  Sandstorm  
-- Lv. 12 Harden  
-- Lv. 14 Rock Throw  
-- Lv. 17 Self-Destruct  
-- Lv. 18 Stealth Rock  
-- Lv. 22 Bulldoze  
-- Lv. 24 Ancient Power  
-- Lv. 26 Head Smash  
-- Lv. 30 Rock Smash  
-- Lv. 34 Power Gem  
-- Lv. 37 Tar Shot, Iron Defense  
-- Lv. 40 Headbutt  
-- Lv. 43 Mud-Slap  
-- Lv. 50 Rock Tomb  
-- Lv. 54 Rock Slide  
-- Lv. 57 Protect  
-- Lv. 60 Superpower  
-- Lv. 67 Stone Edge  
-- Lv. 73 Facade  
-- Lv. 76 Bulldoze  
-- Lv. 80 Earthquake  
-
-#### TMs
-
-Dazzling Gleam, Explosion, Reflect, Iron Head, Recover, Destiny Bond, Giga Impact, Smack Down, Rock Wrecker, Wide Guard, High Horsepower, Dig, Mud Shot, Meteor Mash, Iron Tail, Heavy Slam, Foul Play, Snatch, Eruption, Lava Plume  
-
-![Minereon](https://github.com/user-attachments/assets/b57a2fc4-6e2b-4978-b53d-8b1170c31254)
+![Spectreon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon.png) ![Spectreon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon_shiny.png)
 
 ---
 
-## Hiveon
+## 🎯 Abilities
 
-**Type:** Bug  
-
-**Stats**
-
-| Stat  | Value |
-| ----- | ----- |
-| HP    | 65    |
-| ATK   | 130   |
-| DEF   | 95    |
-| Sp. ATK | 60  |
-| Sp. DEF | 65  |
-| SPD   | 110   |
-
-**Abilities**
-
-- **Abilities:** Compound Eyes, Swarm  
-- **Hidden Ability:** Pressure  
-
-**Spawn Locations**
-
-- Near **Bee Nests**
-
-**Evolution Method**
-
-- Eevee holding a **Beehive**, with a **Beedrill** in the party.
-
-> Hiveon like to camp in trees, leaving their beehive-like tails dangling from the branches.  
-> Their tail attracts unsuspecting Bewear, then injects them with a powerful poison.
-
-### Learnset
-
-#### Level-up Moves
-
-- Lv. 1  Bug Bite, Growl, Tail Whip, Tackle, Absorb  
-- Lv. 5  String Shot  
-- Lv. 9  Poison Sting  
-- Lv. 13 Fury Attack  
-- Lv. 16 Laser Focus  
-- Lv. 17 Quiver Dance  
-- Lv. 20 Spikes  
-- Lv. 23 Assurance  
-- Lv. 24 Sticky Web  
-- Lv. 27 Pin Missile  
-- Lv. 30 U-turn  
-- Lv. 33 Struggle Bug  
-- Lv. 37 First Impression  
-- Lv. 39 Pounce  
-- Lv. 41 Leech Life  
-- Lv. 43 Bug Buzz  
-- Lv. 50 Fell Stinger  
-- Lv. 54 Venoshock  
-- Lv. 57 Protect  
-- Lv. 60 Giga Drain  
-- Lv. 67 Swords Dance  
-- Lv. 73 Facade  
-- Lv. 76 False Swipe  
-- Lv. 80 Syrup Bomb  
-
-#### TMs
-
-Sludge Bomb, Earthquake, Air Slash, Lunge, Wood Hammer, Horn Leech, Leafage, Grass Whistle, Tailwind, Gust, Wing Attack, Venom Drench, Cross Poison, Acid Spray, Poison Powder, Poison Fang, Purify, Megahorn, Sweet Scent  
-
-![Hiveon](https://github.com/user-attachments/assets/407859e4-dc98-4e62-9581-b6367afb7be6)
+- **Ability:** Prankster
+- **Hidden Ability:** Cursed Body
 
 ---
 
-## Automeon
+## 🌍 Spawn Locations
 
-**Type:** Steel  
-
-**Stats**
-
-| Stat  | Value |
-| ----- | ----- |
-| HP    | 65    |
-| ATK   | 110   |
-| DEF   | 130   |
-| Sp. ATK | 65  |
-| Sp. DEF | 65  |
-| SPD   | 60    |
-
-**Abilities**
-
-- **Abilities:** Battle Armor, Clear Body  
-- **Hidden Ability:** Analytic  
-
-**Spawn Locations**
-
-- Near **Redstone Torches** and **Iron Blocks**
-
-**Evolution Method**
-
-- Use a **Redstone Block** on Eevee while it is holding a **Lever**.
-
-> Rumor has it that when an Automeon takes a fatal blow in battle, its eyes flicker in a strange pattern.  
-> No one has yet deciphered what the signal means.
-
-### Learnset
-
-#### Level-up Moves
-
-- Lv. 1  Charge Beam, Gear Up, Tail Whip, Tackle, Thunder Shock  
-- Lv. 5  Metal Sound  
-- Lv. 8  Charge  
-- Lv. 12 Charge Beam  
-- Lv. 14 Autotomize  
-- Lv. 17 Discharge  
-- Lv. 18 Gear Grind  
-- Lv. 22 Lock-On  
-- Lv. 24 Stomp  
-- Lv. 26 Iron Defense  
-- Lv. 30 Heavy Slam  
-- Lv. 34 Zap Cannon  
-- Lv. 37 Self-Destruct, Iron Head  
-- Lv. 40 Stealth Rock  
-- Lv. 43 Thunder Wave  
-- Lv. 50 Steel Roller  
-- Lv. 54 Metal Claw  
-- Lv. 55 Parabolic Charge  
-- Lv. 57 Meteor Mash  
-- Lv. 60 Magnet Rise  
-- Lv. 67 Swords Dance  
-- Lv. 73 Bullet Punch  
-- Lv. 76 Gyro Ball  
-- Lv. 80 Hone Claws  
-
-#### TMs
-
-Shift Gear, Trick Room, Recover, Explosion, Smart Strike, Bolt Strike, Thunder Fang, Volt Tackle, Thunder, Overheat, Searing Shot, Heat Wave, Incinerate, Blast Burn, Amnesia, Disable, Detect, Flash, Future Sight  
-
-![Automeon](https://github.com/user-attachments/assets/f1b97202-919b-40b9-b210-ca63ee6cea93)
+- ✨ Magical Biomes *(Ultra Rare)*
+- 🏜️ Soul Sand Valley *(Rare)*
 
 ---
 
-## Wyveon
+## 🔮 Evolution Method
 
-**Type:** Dragon  
-
-**Stats**
-
-| Stat  | Value |
-| ----- | ----- |
-| HP    | 65    |
-| ATK   | 110   |
-| DEF   | 95    |
-| Sp. ATK | 130 |
-| Sp. DEF | 65  |
-| SPD   | 60    |
-
-**Abilities**
-
-- **Abilities:** Rivalry, Overcoat  
-- **Hidden Ability:** Rock Head  
-
-**Spawn Locations**
-
-- Tall Mountain biomes  
-  - **Except:** Snowy variants  
-
-**Evolution Method**
-
-- High Friendship in **The End** dimension.
-
-> Wyveon tend to bring different evolutionary stones to ancient ruins, trying to summon a mythical Eevee that has mastered every element.
-
-### Learnset
-
-#### Level-up Moves
-
-- Lv. 1  Scratch, Take Down, Tail Whip, Leer, False Swipe  
-- Lv. 5  Assurance  
-- Lv. 8  Dragon Claw  
-- Lv. 12 Metal Claw  
-- Lv. 18 Dragon Breath  
-- Lv. 22 Blizzard  
-- Lv. 24 Head Charge  
-- Lv. 26 Flare Blitz  
-- Lv. 30 Outrage  
-- Lv. 34 Thunderbolt  
-- Lv. 37 Steel Beam, Acid Armor  
-- Lv. 40 Shadow Claw  
-- Lv. 43 Stealth Rock  
-- Lv. 50 Iron Tail  
-- Lv. 54 Metal Claw  
-- Lv. 57 Substitute  
-- Lv. 60 Snarl  
-- Lv. 67 Dragon Dance  
-- Lv. 73 Dragon Hammer  
-- Lv. 76 Dual Chop  
-- Lv. 80 Draco Meteor  
-
-#### TMs
-
-Rest, Sleep Talk, Agility, Sky Attack, Brave Bird, Wave Crash, Twister, Nasty Plot, Swords Dance, Fly, Extrasensory, Heal Block, Heavy Slam, Flash Cannon, Dark Pulse, Pin Missile, Rock Throw, Ice Beam, Mist, Astonish  
-
-![Wyveon](https://github.com/user-attachments/assets/45559d11-a328-4fa5-aef0-f15c016869ca)
+- High friendship in a **Soul Sand Valley** biome
 
 ---
 
-## Dungeon
+## 📜 Description
 
-**Type:** Ground  
-
-**Stats**
-
-| Stat  | Value |
-| ----- | ----- |
-| HP    | 65    |
-| ATK   | 110   |
-| DEF   | 130   |
-| Sp. ATK | 95  |
-| Sp. DEF | 65  |
-| SPD   | 60    |
-
-**Abilities**
-
-- **Abilities:** Arena Trap, Own Tempo  
-- **Hidden Ability:** Mold Breaker  
-
-**Spawn Locations**
-
-- Badlands biomes *(Ultra Rare)*  
-- Deep Dark / Abyss-like biomes *(Rare)*  
-
-**Evolution Method**
-
-- While holding a **Lantern**, in the **Deep Dark**.
-
-> When Trainers get lost underground, Dungeon use their lanterns to guide them back to the cave entrance.  
-> Sometimes Dungeon decide to leave the cave and join those Trainers on their journey.
-
-### Learnset
-
-#### Level-up Moves
-
-- Lv. 1  Scratch, Growl, Tail Whip, Tackle, Sand Attack  
-- Lv. 5  Sand Tomb  
-- Lv. 8  Sandstorm  
-- Lv. 12 Mud-Slap  
-- Lv. 14 Sucker Punch  
-- Lv. 17 Dig  
-- Lv. 22 Bulldoze  
-- Lv. 24 Ancient Power  
-- Lv. 26 Earth Power  
-- Lv. 30 Mud Shot  
-- Lv. 34 Rock Blast  
-- Lv. 37 Sludge Bomb, Substitute  
-- Lv. 40 Giga Impact  
-- Lv. 43 Metal Claw  
-- Lv. 50 Rock Tomb  
-- Lv. 54 Rock Slide  
-- Lv. 57 Bone Rush  
-- Lv. 60 Bonemerang  
-- Lv. 67 Stone Edge  
-- Lv. 73 Stomping Tantrum  
-- Lv. 80 Fissure  
-
-#### TMs
-
-Recover, Explosion, Stealth Rock, Imprison, Earthquake, Headlong Rush, Drill Run, Night Slash, Throat Chop, Dark Pulse, Knock Off, Endure, Follow Me, Grudge, Harden, Mean Look, Nasty Plot, Brick Break, Dragon Hammer, False Swipe  
-
-![Dungeon](https://github.com/user-attachments/assets/aa4b42a5-17a9-4245-a5dc-00055967e137)
+> Spectreon tends to wander through dark forests, patiently waiting for the day its trainer returns. Most of them do not even realize they have died and continue wandering endlessly through these places. When a wild Spectreon meets a trainer, it is initially cautious, but if the trainer shows affection, Spectreon develops an intense bond with them. Most Spectreon were once abandoned Eevee.
 
 ---
 
-## Eeveeon
+# ☣️ Acidon
 
-**Type:** Normal  
+## 🧾 General Information
 
-**Stats**
-
-| Stat  | Value |
-| ----- | ----- |
-| HP    | 85    |
-| ATK   | 105   |
-| DEF   | 85    |
-| Sp. ATK | 100 |
-| Sp. DEF | 95  |
-| SPD   | 110   |
-
-**Abilities**
-
-- **Abilities:** Adaptability, Anticipation  
-- **Hidden Ability:** Normalize  
-
-**Spawn Locations**
-
-- Anywhere in the **Overworld**
-
-**Evolution Method**
-
-- Max Friendship while Eevee knows **Last Resort**.
-
-> Eeveeon are closely tied to a mythical Eevee that can wield every type.  
-> Wyveon respect Eeveeon for this and often gift them special stones or access to their territories as a sign of peace.
-
-### Learnset
-
-#### Level-up Moves
-
-- Lv. 1  Scratch, Growl, Tail Whip, Tackle, Sand Attack, Last Resort  
-- Lv. 5  Fake Out  
-- Lv. 8  Feint  
-- Lv. 12 Bite  
-- Lv. 14 Taunt  
-- Lv. 17 Assurance  
-- Lv. 18 Fury Swipes  
-- Lv. 22 Slash  
-- Lv. 24 Play Rough  
-- Lv. 26 Headbutt  
-- Lv. 30 Stomp  
-- Lv. 34 Crunch  
-- Lv. 37 Reversal, Protect  
-- Lv. 40 Head Smash  
-- Lv. 43 Defense Curl  
-- Lv. 50 Baton Pass  
-- Lv. 54 Agility  
-- Lv. 57 Bounce  
-- Lv. 60 Healing Wish  
-- Lv. 67 Mach Punch  
-- Lv. 73 Facade  
-- Lv. 76 Hyper Beam  
-- Lv. 80 Giga Impact  
-
-#### TMs
-
-Flamethrower, Surf, Energy Ball, Ice Beam, Play Rough, Iron Head, Psychic, Attract, Belly Drum, Chip Away, Howl, Hyper Fang, Noble Roar, Reflect Type, Relic Song, Thunder Wave, Smelling Salts, First Impression, Nuzzle, Power Trip, Rage, Return  
-
-![Eeveeon](https://github.com/user-attachments/assets/1bf0b5d1-c683-40b4-b435-1da498d09cb4)
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_poison.png)
 
 ---
 
-## Evereon
+## 📊 Stats
 
-**Type:** Normal  
-**Special:** Can change types  
+| Stat | Value |
+|---|---|
+| ❤️ HP | 95 |
+| ⚔️ Attack | 65 |
+| 🛡️ Defense | 65 |
+| ✨ Sp. Attack | 130 |
+| 🌙 Sp. Defense | 110 |
+| ⚡ Speed | 60 |
 
-**Stats**
+![Acideon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/acideon.png) ![Acideon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/acideon_shiny.png)
 
-| Stat  | Value |
-| ----- | ----- |
-| HP    | 98    |
-| ATK   | 115   |
-| DEF   | 90    |
-| Sp. ATK | 115 |
-| Sp. DEF | 90  |
-| SPD   | 92    |
+---
 
-**Abilities**
+## 🎯 Abilities
 
-- **Abilities:** Protean, Libero  
-- **Hidden Ability:** Pure Power  
+- **Abilities:** Poison Point, Ooze
+- **Hidden Ability:** Corrosion
 
-**Spawn Locations**
+---
 
-- None *(cannot be found in the wild)*
+## 🌍 Spawn Locations
 
-**Evolution Method**
+- 🐸 Swamp Biomes
 
-- Defeat **all 18 Eeveelutions** from the base mod and addon, with **Eevee landing the final hit** each time.
+---
 
-> Evereon existed only in myth until recently.  
-> A particularly strong Eevee trained hard and defeated all of its evolutionary counterparts, awakening the ancient legend within its soul and evolving into Evereon.
+## 🔮 Evolution Method
 
-### Learnset
+- Level **24**
+- with a **Muk** in the party
 
-#### Level-up Moves
+---
 
-- Lv. 1  Conversion, Swift, Tackle, Quick Attack, Tail Whip, Growl  
-- Lv. 5  Reflect Type  
-- Lv. 10 Copycat  
-- Lv. 15 Mimic  
-- Lv. 20 Conversion 2  
-- Lv. 25 Protect  
-- Lv. 30 Metronome  
-- Lv. 35 Transform  
-- Lv. 40 Recover  
-- Lv. 45 Extreme Speed  
-- Lv. 50 Hyper Beam  
-- Lv. 55 Last Resort  
+## 📜 Description
 
-![Evereon](https://github.com/user-attachments/assets/d5f3c80b-f0a6-4c72-94c8-eecc6e79447c)
+> Acideon loves rolling around in swamp mud to strengthen its toxicity. The orb on its tail is the source of the toxins it injects into enemies. The orb at the end of Acideon’s tail is so venomous that even lightly touching it can cause long-term damage.
+
+---
+
+# 🥊 Champeon
+
+## 🧾 General Information
+
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_combat.png)
+
+---
+
+## 📊 Stats
+
+| Stat | Value |
+|---|---|
+| ❤️ HP | 95 |
+| ⚔️ Attack | 130 |
+| 🛡️ Defense | 110 |
+| ✨ Sp. Attack | 65 |
+| 🌙 Sp. Defense | 60 |
+| ⚡ Speed | 65 |
+
+![Champeon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/champeon.png) ![Champeon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/champeon_shiny.png)
+
+---
+
+## 🎯 Abilities
+
+- **Abilities:** Thick Fur, Defiant
+- **Hidden Ability:** Scrappy
+
+---
+
+## 🌍 Spawn Locations
+
+- 🌾 Windswept Savanna
+
+---
+
+## 🔮 Evolution Method
+
+- Level **36**
+- while holding a **Choice Band**
+
+---
+
+## 📜 Description
+
+> When an Eevee becomes passionate about the spirit of a fighter, it trains for years, eventually becoming a Champeon. Champeon enjoys training together in large mountains to avoid disturbing towns and villages.
+
+---
+
+# 🪽 Aereon
+
+## 🧾 General Information
+
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_vol.png)
+
+---
+
+## 📊 Stats
+
+| Stat | Value |
+|---|---|
+| ❤️ HP | 65 |
+| ⚔️ Attack | 110 |
+| 🛡️ Defense | 130 |
+| ✨ Sp. Attack | 60 |
+| 🌙 Sp. Defense | 65 |
+| ⚡ Speed | 95 |
+
+![Aereon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/aereon.png) ![Aereon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/aereon_shiny.png)
+
+---
+
+## 🎯 Abilities
+
+- **Abilities:** Unburden, Hustle
+- **Hidden Ability:** Simple
+
+---
+
+## 🌍 Spawn Locations
+
+- 🌼 Meadow Biomes
+- ⛰️ Windswept Hills
+
+---
+
+## 🔮 Evolution Method
+
+- Right-click Eevee with an **Air Balloon**
+
+---
+
+## 📜 Description
+
+> Aereon loves swimming among the clouds alongside other Flying-type Pokémon. Like its cousin Vaporeon, it can transform into a cloud as a defensive measure. The clouds in Aereon’s fur change according to its mood, becoming stormy, rainy, warm, or cold.
+
+---
+
+# ⛏️ Minereon
+
+## 🧾 General Information
+
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_roche.png)
+
+---
+
+## 📊 Stats
+
+| Stat | Value |
+|---|---|
+| ❤️ HP | 95 |
+| ⚔️ Attack | 110 |
+| 🛡️ Defense | 130 |
+| ✨ Sp. Attack | 60 |
+| 🌙 Sp. Defense | 65 |
+| ⚡ Speed | 65 |
+
+![Minereon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/minereon.png) ![Minereon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/minereon_shiny.png)
+
+---
+
+## 🎯 Abilities
+
+- **Abilities:** Sand Force, Sturdy
+- **Hidden Ability:** Keen Eye
+
+---
+
+## 🌍 Spawn Locations
+
+- 🕳️ All underground biomes
+- ❌ Except: Deep Dark / Abyss-like biomes
+
+---
+
+## 🔮 Evolution Method
+
+- Hold an **Iron Pickaxe**
+- while inside a **Dripstone Cave**
+
+---
+
+## 📜 Description
+
+> Minereon uses the spikes on the end of its tail to dig through rocks and extract ores and precious gems, while the metallic tips on its ears remove excess stone. Its eyes allow it to see what it is digging deep underground. When threatened, Minereon slams its tail into the ground, launching stone spikes into the air before batting them toward enemies like baseballs.
+
+---
+
+# 🐝 Hiveon
+
+## 🧾 General Information
+
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_insecte.png)
+
+---
+
+## 📊 Stats
+
+| Stat | Value |
+|---|---|
+| ❤️ HP | 98 |
+| ⚔️ Attack | 130 |
+| 🛡️ Defense | 65 |
+| ✨ Sp. Attack | 60 |
+| 🌙 Sp. Defense | 65 |
+| ⚡ Speed | 110 |
+
+![Hiveon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/hiveon.png) ![Hiveon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/hiveon_shiny.png)
+
+---
+
+## 🎯 Abilities
+
+- **Abilities:** Compound Eyes, Swarm
+- **Hidden Ability:** Pressure
+
+---
+
+## 🌍 Spawn Locations
+
+- 🍯 Near Bee Nests
+
+---
+
+## 🔮 Evolution Method
+
+- Eevee holding a **Beehive**
+- with a **Beedrill** in the party
+
+---
+
+## 📜 Description
+
+> Hiveon enjoys resting in trees with its hive-shaped tail hanging in the air. Its tail attracts unsuspecting creatures, which it then injects with painful venom. The pollen Hiveon collects comes from Oran Berries, and strangely enough, it can use this pollen to create powerful toxins.
+
+---
+
+# 🤖 Automeon
+
+## 🧾 General Information
+
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_acier.png)
+
+---
+
+## 📊 Stats
+
+| Stat | Value |
+|---|---|
+| ❤️ HP | 65 |
+| ⚔️ Attack | 110 |
+| 🛡️ Defense | 60 |
+| ✨ Sp. Attack | 130 |
+| 🌙 Sp. Defense | 65 |
+| ⚡ Speed | 65 |
+
+![Automeon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/automeon.png) ![Automeon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/automeon_shiny.png)
+
+---
+
+## 🎯 Abilities
+
+- **Abilities:** Weak Armor, Clear Body
+- **Hidden Ability:** Analytic
+
+---
+
+## 🌍 Spawn Locations
+
+- 🔴 Near Redstone Torches
+- 🧱 Near Iron Blocks
+
+---
+
+## 🔮 Evolution Method
+
+- Use a **Block of Redstone**
+- on Eevee holding a **Lever**
+
+---
+
+## 📜 Description
+
+> Rumors say that when an Automeon receives a fatal blow in battle, its eyes begin blinking in a strange and irregular way. No one has managed to understand what this phenomenon means. Once thought to be connected to incidents in Paldea, Automeon is now closely studied and sent on expeditions by scientists.
+
+---
+
+# 🐉 Draceon
+
+## 🧾 General Information
+
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_dragon.png)
+
+---
+
+## 📊 Stats
+
+| Stat | Value |
+|---|---|
+| ❤️ HP | 65 |
+| ⚔️ Attack | 110 |
+| 🛡️ Defense | 95 |
+| ✨ Sp. Attack | 130 |
+| 🌙 Sp. Defense | 65 |
+| ⚡ Speed | 60 |
+
+![Draceon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/wyveon.png) ![Draceon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/wyveon_shiny.png)
+
+---
+
+## 🎯 Abilities
+
+- **Abilities:** Rivalry, Overcoat
+- **Hidden Ability:** Rock Head
+
+---
+
+## 🌍 Spawn Locations
+
+- ⛰️ Tall Mountain Biomes
+- ❌ Except snowy variants
+
+---
+
+## 🔮 Evolution Method
+
+- High friendship in **The End**
+
+---
+
+## 📜 Description
+
+> The crystals on Draceon’s tail are actually hardened scales. When threatened, Draceon can launch these scales at enemies. Draceon is extremely territorial.
+
+---
+
+# 🏮 Dungeoneon
+
+## 🧾 General Information
+
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_sol.png)
+
+---
+
+## 📊 Stats
+
+| Stat | Value |
+|---|---|
+| ❤️ HP | 65 |
+| ⚔️ Attack | 130 |
+| 🛡️ Defense | 110 |
+| ✨ Sp. Attack | 95 |
+| 🌙 Sp. Defense | 65 |
+| ⚡ Speed | 60 |
+
+![Dungeoneon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/dungeon.png) ![Dungeoneon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/dungeon_shiny.png)
+
+---
+
+## 🎯 Abilities
+
+- **Abilities:** Sand Trap, Own Tempo
+- **Hidden Ability:** Mold Breaker
+
+---
+
+## 🌍 Spawn Locations
+
+- 🏜️ Badlands *(Ultra Rare)*
+- 🌑 Deep Dark / Abyss-like *(Rare)*
+
+---
+
+## 🔮 Evolution Method
+
+- Hold a **Lantern**
+- while inside the **Deep Dark**
+
+---
+
+## 📜 Description
+
+> Dungeoneon roams deep within caves where some trainers never dare venture. The lantern hanging from its tail can be used as bait to attract Pokémon wandering in the darkness. When lonely, Dungeoneon sometimes carves stone statues that it considers its only companions. It is said that when the light of its lantern goes out… Dungeoneon is already dead.
+
+---
+
+# 🌈 Evereon
+
+## 🧾 General Information
+
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_normal.png)
+- **Special Trait:** Can change type
+
+---
+
+## 📊 Stats
+
+| Stat | Value |
+|---|---|
+| ❤️ HP | 98 |
+| ⚔️ Attack | 115 |
+| 🛡️ Defense | 90 |
+| ✨ Sp. Attack | 115 |
+| 🌙 Sp. Defense | 90 |
+| ⚡ Speed | 92 |
+
+![Evereon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/evereon.png) ![Evereon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/evereon_shiny.png) 
+
+---
+
+## 🎯 Abilities
+
+- **Abilities:** Protean, Libero
+- **Hidden Ability:** Pure Power
+
+---
+
+## 🌍 Spawn Locations
+
+- ❌ None
+- *(Cannot be found in the wild)*
+
+---
+
+## 🔮 Evolution Method
+
+- Defeat all **11 Eeveelutions**
+- from the base mod **and** the addon
+- with **Eevee landing the final hit**
+
+---
+
+## 📜 Description
+
+> Evereon, long considered nothing more than a legend, appears when an exceptional Eevee manages to surpass all of its evolutions. This achievement awakens an ancient power hidden deep within its soul and causes it to evolve into Evereon.
+
+---
+
+# 🌟 Eeveeon
+
+## 🧾 General Information
+
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_normal.png)
+
+---
+
+## 📊 Stats
+
+| Stat | Value |
+|---|---|
+| ❤️ HP | 85 |
+| ⚔️ Attack | 105 |
+| 🛡️ Defense | 85 |
+| ✨ Sp. Attack | 100 |
+| 🌙 Sp. Defense | 95 |
+| ⚡ Speed | 110 |
+
+![Eeveeon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/eeveeon.png) ![Eeveeon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/eeveeon_shiny.png)
+
+---
+
+## 🎯 Abilities
+
+- **Abilities:** Adaptability, Anticipation
+- **Hidden Ability:** Normalize
+
+---
+
+## 🌍 Spawn Locations
+
+- 🌍 Everywhere in the Overworld
+
+---
+
+## 🔮 Evolution Method
+
+- Maximum friendship
+- while Eevee learns **Last Resort**
+
+---
+
+## 📜 Description
+
+> When an Eevee delays evolving for too long, its DNA naturally stabilizes, allowing it to develop greater endurance and enhanced combat abilities. Scientists originally nicknamed it "Eeveeon" as a joke, but the name eventually became official after multiple specimens began appearing.
