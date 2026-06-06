@@ -1,82 +1,105 @@
-# 🌊 Ash Greninja (Battle Bond Form)
+# 🌊 Ash Greninja
 
-Ash Greninja is a special alternate form of Greninja inspired by the bond between Ash and his partner in the Pokémon anime.
-In **Cobblemon Realms**, this form can appear in two different ways: a **cosmetic form** or through the **Battle Bond ability**.
+## 🐸 Ash Greninja - Form with Ability
 
----
+### 🧾 General Information
 
-## 💧 Cosmetic Ash Greninja (Water Shuriken)
-
-The simplest way to obtain the Ash Greninja appearance is by using the **Water Shuriken item**.
-
-### How to obtain
-
-1. Give **Greninja** a **Water Shuriken**.
-2. Place it in the **cosmetic slot**.
-
-➡️ Greninja will display the **Ash Greninja appearance**.
-
-### Changes
-
-* This transformation is **purely cosmetic**.
-* **No stat changes**
-* **No ability changes**
-
-It only modifies Greninja’s **visual appearance**, including the iconic **dark head pattern**.
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_eau.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_tenebres.png)
 
 ---
 
-## 🔥 Battle Bond Ash Greninja
+### 📊 Stats
 
-Ash’s Greninja is also known for its unique ability **Battle Bond**.
+| Stat            | Value |
+| --------------- | ------ |
+| ❤️ HP           | 72      |
+| ⚔️ Attack       | 145     |
+| 🛡️ Defense      | 67    |
+| ✨ Sp. Attack   | 153    |
+| 🌙 Sp. Defense  | 71    |
+| ⚡ Speed        | 132     |
 
-When Greninja has this ability, it can temporarily transform during battle.
-
-### How it works
-
-If a **Greninja with Battle Bond** defeats another Pokémon using a damaging move:
-
-* Greninja transforms into **Ash-Greninja**
-* The transformation lasts **until the end of the battle**
-
-After the battle ends, Greninja **returns to its normal form**.
+![Ash Greninja](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/ash_greninja.png) ![Ash Greninja Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/ash_greninja_shiny.png)
 
 ---
 
-## 🤝 Friendship Mechanic
+### 🎯 Form Ability
 
-The exact behavior depends on Greninja’s **friendship level**.
-
-* **Friendship ≥ 250**
-  ➜ Uses the **Generation 7 mechanic**
-  Greninja transforms into **Ash-Greninja during battle**.
-
-* **Friendship < 250**
-  ➜ Uses the **modern generation mechanic**
-  Battle Bond provides **stat boosts instead of a form change**.
-
-This hybrid system is implemented by the **Mega Showdown** mechanics used in the modpack.
+* **Ability:** Battle Bond
 
 ---
 
-## 🎩 How to obtain Battle Bond
+### 🔮 Item Crafting
 
-To obtain a Greninja with the **Battle Bond** ability:
-
-1. Hold an **Ash Cap** (`mega_showdown:ash_cap`) in your main hand.
-2. **Right-click Greninja**.
-
-➡️ Greninja will gain the **Battle Bond ability**.
-
-⚠️ If Battle Bond is applied using **commands**, the ability may not function correctly.
+![Ash Cap Crafting Recipe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/ash_cap.png)
 
 ---
 
-## 📌 Summary
+### 🔄 Usage
 
-There are **two ways** to obtain Ash Greninja:
+- 🖱️ Right-click Greninja with the `Ash Cap` item to give it the `Battle Bond` ability
+- ℹ️ Requires a friendship level above 200.
+> ![]()💡 When a Greninja with this ability knocks out another Pokémon using an offensive move, unless the battle ends immediately afterward, it transforms into Ash Greninja. After the battle, it returns to its original form.
 
-| Method                                             | Result                                |
-| -------------------------------------------------- | ------------------------------------- |
-| Give Greninja a **Water Shuriken** (cosmetic slot) | Cosmetic Ash Greninja appearance      |
-| Use an **Ash Cap** to give **Battle Bond**         | Temporary Ash Greninja form in battle |
+---
+
+### ℹ️ Additional Information
+
+* If Greninja has less than 250 friendship points, it will use the `Battle Bond` introduced in Generation 9, granting only a stat boost without transformation.
+* If Greninja has more than 250 friendship points, it will use the Generation 7 version of `Battle Bond`, granting both stat boosts and the transformation into Ash Greninja.
+
+---
+
+### 📜 Description
+
+> Thanks to its exceptional bond with Ash, Greninja surpasses its limits and reaches a unique form where their thoughts and movements become one.
+
+&#8203;
+&#8203;
+
+## 🐸 Ash Greninja - Form without Ability
+
+### 🧾 General Information
+
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_eau.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_tenebres.png)
+
+---
+
+### 📊 Stats
+
+| Stat            | Value |
+| --------------- | ------ |
+| ❤️ HP           | 72      |
+| ⚔️ Attack       | 95     |
+| 🛡️ Defense      | 67    |
+| ✨ Sp. Attack   | 103    |
+| 🌙 Sp. Defense  | 71    |
+| ⚡ Speed        | 122     |
+
+![Ash Greninja](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/ash_greninja.png) ![Ash Greninja Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/ash_greninja_shiny.png)
+
+---
+
+### 🎯 Form Ability
+
+- **Ability:** Torrent
+- **Hidden Ability:** Protean
+
+---
+
+### 🔮 Item Crafting
+
+![Ash Cap Crafting Recipe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/ash_cap.png)
+
+---
+
+### 🔄 Usage
+
+- 🖱️ Right-click Greninja with the `Ash Cap` item to change its appearance.
+- ℹ️ This version is purely cosmetic and provides no advantages.
+
+---
+
+### 📜 Description
+
+> Thanks to its exceptional bond with Ash, Greninja surpasses its limits and reaches a unique form where their thoughts and movements become one.
