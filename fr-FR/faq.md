@@ -112,10 +112,10 @@ Toutes les informations concernant la progression, les arènes, les champions et
 
 ---
 
+{% hint style="success" %}
 ## 💬 Je n'ai pas trouvé ma réponse
 
-{% hint style="success" %}
-💬 Vous n'avez pas trouvé votre réponse ? Rejoignez notre serveur Discord pour obtenir de l'aide auprès de la communauté et de l'équipe.
+Rejoignez notre serveur Discord pour obtenir de l'aide auprès de la communauté et de l'équipe.
 {% endhint %}
 
 🔗 [Rejoindre le Discord](https://discord.gg/kb8NSTF45n)
