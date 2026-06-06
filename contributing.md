@@ -1,86 +1,66 @@
-# Contributing
+# 🤝 Contribution
 
-Cobblemon Realms is a community-driven project.
-If you want to help it grow, there are several meaningful ways to contribute.
+## 🌟 Contribute to the Project
 
----
-
-## Support the Project
-
-### Patreon
-
-The most impactful way to support development today is through Patreon:
-
-[https://www.patreon.com/8678221/join](https://www.patreon.com/8678221/join)
-
-Patreon directly supports:
-
-* Ongoing development
-* Server infrastructure
-* Custom systems and features
-* Long-term sustainability of the project
-
-Every membership tier helps move the project forward.
+{% hint style="info" %}
+<p align="center">
+The Cobblemon Realms Wiki is a community-driven project. Every contribution, no matter how small, helps improve the documentation for all players.
+</p>
+{% endhint %}
 
 ---
 
-### Boost Our Discord Server
+## 🧭 How to Contribute?
 
-You can also support us by boosting our Discord server.
-Server boosts improve audio quality, unlock better features, and help us create a more premium community experience.
+You can contribute in different ways:
 
-Join us here:
-[https://discord.gg/kb8NSTF45n](https://discord.gg/kb8NSTF45n)
-
-Even a single boost makes a difference.
-
----
-
-### Free Support
-
-You can also support the project for free:
-
-* Add reactions and emotes on official community posts
-* Engage with announcements on platforms like the official Cobblemon Discord
-* Share the project with friends
-
-Small interactions significantly increase visibility and help the project grow organically.
-
-Thank you to everyone who takes the time to support.
+| ✨ Contribution Type | 📋 Examples |
+|----------------------|------------|
+| 📝 Corrections | Typos, mistakes, outdated information |
+| 📚 Documentation | Guides, tutorials, mod pages, or mechanics |
+| 🌍 Translations | Adding or improving available languages |
+| 💡 Suggestions | Ideas to improve content or navigation |
 
 ---
 
-## Improve the Wiki
+## 🌍 Translations and Documentation
 
-We welcome community contributions to the documentation.
+All documentation is managed through GitHub and automatically published to GitBook.
 
-### How you can help
+You can notably:
 
-* Fix typos or unclear explanations
-* Expand existing guides
-* Create new guides for specific mods
-* Improve structure and clarity
-
----
-
-## Translations
-
-Translations are now managed directly through GitHub and GitBook.
-
-If you want to help:
-
-* Edit or translate pages in GitBook if you have access
-* Open a pull request on GitHub for wording, fixes, or full translated pages
-* Suggest corrections through the community if you spot unclear text
+- ✏️ Correct existing text
+- ➕ Add new information
+- 🌐 Translate pages into other languages
+- 🎨 Improve formatting and readability
+- 🔀 Submit your changes through a Pull Request
 
 ---
 
-## Developers and Writers
+## 🛠️ Tools Used
 
-The documentation workflow is now centered on GitBook and GitHub only.
-
-Contributions that improve clarity, accuracy, and accessibility are always appreciated.
+| 💻 Platform | 📋 Usage |
+|-------------|----------|
+| GitHub | File management, change tracking, and contributions |
+| GitBook | Documentation publishing and organization |
 
 ---
 
-Thank you for helping improve Cobblemon Realms.
+### 💡 Best Practices
+
+{% hint style="success" %}
+
+## ☝🏼 Before submitting a contribution:
+
+- ✅ Verify the accuracy of information
+- 📚 Keep formatting consistent
+- 💬 Use clear and understandable language
+- 🔍 Avoid duplicates whenever possible
+- 💬 Need help? Join our [Discord server](https://discord.gg/kb8NSTF45n).
+{% endhint %}
+
+---
+
+## 🙏 Thank You
+
+Thank you to everyone helping improve the documentation and contributing to the growth of Cobblemon Realms.
