@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 <p align="center">
-Le datapack <strong>Extra Eeveelutions</strong> ajoute de nombreuses nouvelles évolutions d'Évoli à découvrir au cours de votre aventure.
+Le datapack <strong>Extra Eeveelutions</strong> ajoute de nombreuses nouvelles évolutions d'Évoli à découvrir au cours de votre aventure. Cette page recense l'ensemble de ces Eeveelutions ainsi que leurs méthodes d'obtention.
 </p>
 {% endhint %}
 
@@ -13,10 +13,6 @@ Chaque Eeveelution possède ses propres caractéristiques :
 - ✨ Talents uniques
 - 🔮 Méthodes d'évolution inédites
 - 🌍 Conditions d'apparition spécifiques
-</p>
-
-<p align="center">
-<em>Cette page regroupe l'ensemble des Eeveelutions ajoutées par le datapack ainsi que leurs méthodes d'obtention.</em>
 </p>
 
 ---
