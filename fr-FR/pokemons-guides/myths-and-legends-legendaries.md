@@ -3,7 +3,6 @@
 ## 🧭 Navigation rapide
 
 <p align="center">
-
 Aller à une région :
 
 - [Génération 1 [Kanto]](pokemons-guides/gen-list/gen_1.md)
@@ -15,5 +14,4 @@ Aller à une région :
 - [Génération 7 [Alola]](pokemons-guides/gen-list/gen_7.md)
 - [Génération 8 [Galar/Hisui]](pokemons-guides/gen-list/gen_8.md)
 - [Génération 9 [Paldea/Kitakami]](pokemons-guides/gen-list/gen_9.md)
-
 </p>
