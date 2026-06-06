@@ -1,8 +1,13 @@
 # 🦴 Fossils
 
-**Fossils** are rare items that allow you to resurrect **prehistoric Pokémon** in Cobblemon. They encourage exploration, curiosity, and the discovery of ancient locations scattered throughout the world.
+{% hint style="info" %}
+<p align="center">
+<strong>Fossils</strong> are rare items that allow you to resurrect <strong>prehistoric Pokémon</strong> in Cobblemon. They encourage exploration, curiosity, and the discovery of ancient locations scattered throughout the world.
+</p>
+{% endhint %}
 
-This page details:
+This page explains:
+
 - 📍 Where to find fossils
 - ⚙️ How to use them
 - 🧬 Which Pokémon they can revive
@@ -12,14 +17,15 @@ This page details:
 ## ⚙️ How Fossils Work
 
 A fossil represents the remains of an ancient Pokémon preserved through time.  
-Once collected, it can be processed using a **Resurrection Machine**.
+Once obtained, it can be processed using a **resurrection machine**.
 
 🧭 General process:
+
 1. 🔎 Find a fossil while exploring
 2. 🖌️ Extract it using a brush if required
-3. 🧪 Place it inside a Resurrection Machine
+3. 🧪 Place it inside a resurrection machine
 4. ⚡ Power the machine (using food)
-5. 🐣 Retrieve the resurrected Pokémon
+5. 🐣 Collect the resurrected Pokémon
 
 ---
 
@@ -29,27 +35,33 @@ Fossils are mainly obtained through:
 
 - 🧱 Suspicious blocks (sand and gravel)
 - 🏛️ Ancient structures
-- 🌍 Biome-specific areas
+- 🌍 Specific areas depending on the biome
 
-Each fossil is tied to **specific environments**, making certain Pokémon rarer than others.
+Each fossil is associated with **specific environments**, making some Pokémon rarer than others.
 
 ---
 
-## 🦖 Standard Fossils
+## 🦖 Fossiles standards
 
-| 🦴 Fossil | Pokémon | 📍 Spawn Locations |
-|---------|---------|------------------|
-| Armor Fossil ![Armor Fossil](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Fossile-Armure.png) | ![Shieldon](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Dinoclier.png) | Eroded Pillar, Lush Den, Mud Pit, Powdered Deposit, Sandy Den, Sunscorched Den |
-| Claw Fossil ![Claw Fossil](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Fossile-Griffe.png) | ![Anorith](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Anorith.png) | Dripstone Oasis, Frozen Spike, Mossy Pond, Preserved Skeleton, Submerged Impact, Submerged Spike, Underwater Fissure |
-| Cover Fossil ![Cover Fossil](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Fossile-Plaque.png) | ![Tirtouga](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Carapagos.png) | Frozen Pond, Hydrothermal Vents, Preserved Skeleton, Submerged Impact, Submerged Spike, Underwater Fissure, Vibrant Hydrothermal Vents |
-| Dome Fossil ![Dome Fossil](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Fossile-D%C3%B4me.png) | ![Kabuto](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Kabuto.png) | Enhydro Agate, Hydrothermal Vents, Rooted Pit, Sunscorched Den, Suspicious Mound |
-| Helix Fossil ![Helix Fossil](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Fossile-Nautile.png) | ![Omanyte](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Amonita.png) | Dripstone Oasis, Enhydro Agate, Eroded Pillar, Preserved Skeleton, Sandy Den, Vibrant Hydrothermal Vents |
-| Jaw Fossil ![Jaw Fossil](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Fossile-M%C3%A2choire.png) | ![Tyrunt](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Ptyranidur.png) | Eroded Pillar, Lush Den, Mud Pit, Sunscorched Den, Sunscorched Remains |
-| Old Amber ![Old Amber](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Vieil-Ambre.png) | ![Aerodactyl](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Ptera.png) | Frozen Pond, Lush Den, Oak Tree, Spruce Tree |
-| Plume Fossil ![Plume Fossil](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Fossile-Plume.png) | ![Archen](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Arkeapti.png) | Birch Tree, Mossy Pond, Powdered Deposit, Rooted Pit, Spruce Tree, Suspicious Mound |
-| Root Fossil ![Root Fossil](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Fossile-Racine.png) | ![Lileep](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Lilia.png) | Hydrothermal Vents, Rooted Pit, Sandy Den, Submerged Impact, Submerged Spike, Sunscorched Remains, Underwater Fissure, Vibrant Hydrothermal Vents |
-| Fin Fossil ![Fin Fossil](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Fossile-Nageoire.png) | ![Amaura](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Amagara.png) | Eroded Pillar, Frozen Pond, Frozen Spike, Powdered Deposit, Spruce Tree |
-| Skull Fossil ![Skull Fossil](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Fossile-Cr%C3%A2ne.png) | ![Cranidos](https://raw.githubusercontent.com/Anxiolytiques/Wiki-Cobblemon-Realms/refs/heads/main/imgwiki/page-fossiles/Kranidos.png) | Birch Tree, Mossy Pond, Mud Pit, Oak Tree, Suspicious Mound |
+| 🦴 Fossile                                                                                                                                                                  | Pokémon                                                                                                                                                 | 📍 Spawn Locations                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fossile Armure ![Fossile Armure](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_Armure.png)            | ![Dinoclier](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Dinoclier.png)                 | Eroded Pillar, Lush Den, Mud Pit, Powdered Deposit, Sandy Den, **Sunchorched Den**                                                                    |
+| Fossile Griffe ![Fossile Griffe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_Griffe.png)            | ![Anorith.png](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Anorith.png) | **Dripstone Oasis**, Frozen Spike, **Mossy Pond**, Preserved Skeleton, Submerged Impact, Submerged Spike, Underwater Fissure                              |
+| Fossile Plaque ![Fossile Plaque](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_Plaque.png)            | ![Carapagos](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Carapagos.png)                 | Frozen Pond, Hydrothermal Vents, Preserved Skeleton, Submerged Impact, **Submerged Spike**, **Underwater Fissure**, **Vibrant Hydrothermal Vents**            |
+| Fossile Dôme ![Fossile Dôme](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_D%C3%B4me.png)             | ![Kabuto](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Kabuto.png)                       | Enhydro Agate, **Hydrothermal Vents**, Rooted Pit, Sunchorched Den, Suspicious Mound                                                                  |
+| Fossile Nautile ![Fossile Nautile](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_Nautile.png)         | ![Amonita](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Amonita.png)                     | Dripstone Oasis, Enhydro Agate, Eroded Pillar, Preserved Skeleton, **Sandy Den**, Vibrant Hydrothermal Vents                                          |
+| Fossile Mâchoire ![Fossile Mâchoire](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_M%C3%A2choire.png) | ![Ptyranidur](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Ptyranidur.png)               | **Eroded Pillar**, **Lush Den**, Mud Pit, Sunchorched Den, Sunchorched Remains                                                                            |
+| Vieil Ambre ![Vieil Ambre](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_Vieille_Ambre.png)                     | ![Ptera](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Ptera.png)                         | Frozen Pond, Lush Den, **Oak Tree**, **Spruce Tree**                                                                                                      |
+| Fossile Plume ![Fossile Plume](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_Plume.png)               | ![Arkeapti](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Arkeapti.png)                   | **Birch Tree**, Mossy Pond, **Powdered Deposit**, Rooted Pit, Spruce Tree, Suspicious Mound                                                               |
+| Fossile Racine ![Fossile Racine](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_Racine.png)            | ![Lilia](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Lilia.png)                         | Hydrothermal Vents, **Rooted Pit**, Sandy Den, Submerged Impact, Submerged Spike, Sunchorched Remains, Underwater Fissure, Vibrant Hydrothermal Vents |
+| Fossile Nageoire ![Fossile Nageoire](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_Nageoire.png)      | ![Amagara](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Amagara.png)                     | Eroded Pillar, **Frozen Pond**, Frozen Spike, Powdered Deposit, Spruce Tree                                                                           |
+| Fossile Crâne ![Fossile Crâne](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_Cr%C3%A2ne.png)          | ![Kranidos](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Kranidos.png)                   | Birch Tree, Mossy Pond, **Mud Pit**, Oak Tree, Suspicious Mound                                                                                       |
+| Fossile Oiseau ![Fossile Oiseau](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_Oiseau.png)          | ![Galvagla](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Galvagla.png) ![Galvagon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Galvagon.png)                 | Birch Tree, Mossy Pond, Oak Tree, Powdered Deposit, **Preserved Skeleton** (sand), Spruce Tree, **Suspicious Mound**                                                                                       |
+| Fossile Poisson ![Fossile Poisson](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_Poisson.png)          | ![Hydragla](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Hydragla.png) ![Hydragon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Hydragon.png)                  | Dripstone Oasis, **Enhydro Agate**, Frozen Spike, Hydrothermal Vents, **Preserved Skeleton** (sand), **Submerged Impact**, Submerged Spike, Underwater Fissure, Vibrant Hydrothermal Vents                                                                                       |
+| Fossile Dragon ![Fossile Dragon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_Dragon.png)          | ![Hydragon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Hydragon.png) ![Galvagon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Galvagon.png)                   | Birch Tree, Lush Den, Mud Pit,**Preserved Skeleton** (gravel), Rooted Pit, Sunscorched Den, **Sunscorched Remains**                                                                                       |
+| Fossile Aileron ![Fossile Aileron](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Fossile_Aileron.png)          | ![Galvagla](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Galvagla.png) ![Hydragla](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Fossiles/Pok%C3%A9mons/Hydragla.png)                  | Frozen Pond, **Frozen Spike**, Oak Tree, Powdered Deposit, **Preserved Skeleton** (gravel), Sandy Den                                                                                       |
+
+> 💡 **Tip:** Structures shown in **bold** always guarantee the presence of the corresponding fossil.
 
 ---
 
@@ -61,45 +73,48 @@ Each fossil is tied to **specific environments**, making certain Pokémon rarer 
 
 ## 🔀 Combined Fossils (Generation 8+)
 
-⚠️ Starting from **Generation 8**, you can **combine two hybrid fossils** in the Resurrection Machine to guarantee the desired Pokémon.
+⚠️ Since **Generation 8**, it is possible to **combine two hybrid fossils** in the resurrection machine to guarantee the Pokémon you want.
+
+{% hint style="success" %}
+<p align="center">
+Since <strong>Generation 8</strong>, it is possible to <strong>combine two hybrid fossils</strong> in the resurrection machine to guarantee the Pokémon you want.
+</p>
+{% endhint %}
 
 ---
 
 ## 🧪 Resurrection Machine
 
-The **Resurrection Machine** allows you to bring discovered fossils back to life.
+The **resurrection machine** allows you to bring discovered fossils back to life.
 
 🛠️ Steps:
-1. Open the machine interface
-2. Insert the fossil
-3. Provide the required energy
-4. Start the process
-5. Retrieve the Pokémon
 
-> ⏳ Processing time: **10 minutes**
+1. Open the machine interface.
+2. Insert the fossil.
+3. Provide the required energy.
+4. Start the process.
+5. Collect your Pokémon.
+
+> ⏳ Processing time is 10 minutes.
 
 ---
 
+{% hint style="success" %}
 ## 💡 Exploration Tips
-
-- 🗺️ Explore a wide variety of biomes
+  
+- 🗺️ Explore different biomes
 - 🌋 Volcanic and aquatic areas are highly rewarding
 - 🧭 Mark important structures
-- 🎯 Hybrid fossils offer strategic choices
+- 🎯 Hybrid fossils provide strategic choices
+{% endhint %}
 
 ---
 
+{% hint style="important" %}
 ## 📌 Important Notes
 
-- ❗ Not all fossils yield a unique Pokémon
-- 🔧 Spawn rates may be adjusted
-- 🦴 Some fossils are intentionally rare
-
----
-
-## 🔗 See Also
-
-- 📘 Archaeology - *Coming soon*
-- 🏛️ Structures - *Coming soon*
-- 🌍 Biomes - *Coming soon*
-- ⚙️ Machines - *Coming soon*
+- ❗ Not all fossils revive a unique Pokémon.
+- 🔧 Spawn rates may be adjusted.
+- 🦴 Some fossils are intentionally rare.
+</p>
+{% endhint %}
