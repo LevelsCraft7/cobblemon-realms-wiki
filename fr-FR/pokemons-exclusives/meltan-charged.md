@@ -45,5 +45,3 @@ Les formes n'existent pas dans le mod officiel de Cobblemon. Les illustrations r
 ### 📜 Description
 
 > Autrefois vénéré pour son aptitude à produire du fer, ce Pokémon a mystérieusement ressuscité après 3 000 ans.
-
-## 
