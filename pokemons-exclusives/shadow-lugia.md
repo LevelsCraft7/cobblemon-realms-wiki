@@ -1,42 +1,48 @@
-# 🦅 Shadow Lugia
+# 🌑 Shadow Lugia
 
-Shadow Lugia is a corrupted variant inspired by **Pokémon XD: Gale of Darkness** and **Pokkén Tournament**.
+## 🦅 Shadow Lugia
 
----
+### 🧾 General Information
 
-## 📊 Details
-
-- **Stats**: Same as regular Lugia  
-- **Abilities**:  
-  - Shadow Pressure  
-  - Shadow Guard  
-  *(functionally identical to Lugia’s regular abilities, but renamed for the Shadow form)*
-
-### Moves
-
-Regular Lugia movepool plus:
-
-- Shadow Blast  
-- Shadow Shed  
-- Shadow Down  
-- Shadow Storm  
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_shadow.png)
 
 ---
 
-## 🧪 How to Obtain
+### 📊 Stats
 
-Craft **Shadow Energy**, then use it on Lugia.
+| Stat            | Value |
+| --------------- | ------ |
+| ❤️ HP           | 106     |
+| ⚔️ Attack       | 90     |
+| 🛡️ Defense      | 130    |
+| ✨ Sp. Attack   | 90    |
+| 🌙 Sp. Defense  | 154    |
+| ⚡ Speed        | 110     |
 
-➡️ Right-click **Lugia** with **Shadow Energy** to transform it into **Shadow Lugia**.  
-➡️ Requires **at least 250 friendship**, which resets to **0 after transformation**.  
-➡️ Using the item again **reverts the form**.
-
-<img width="666" height="300" alt="image" src="https://github.com/user-attachments/assets/6d806a95-d7a0-4002-802a-fd2c4bbdc15c" />
-
+![Shadow Lugia](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/lugia_shadow.png) ![Shadow Lugia Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/lugia_shadow_shiny.png)
 
 ---
 
-## 📝 Notes
+### 🎯 Form Ability
 
-- Shadow Lugia keeps the **same base stats as regular Lugia**.  
-- Gains access to several **exclusive Shadow-type moves**.
+* **Ability:** Shadow Pressure & Shadow Guard *(same abilities as Lugia, different names)*
+
+---
+
+### 🔮 Item Crafting
+
+![Shadow Energy Crafting Recipe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/shadow_energy_update2.png)
+
+---
+
+### 🔄 Usage
+
+- 🖱️ Right-click Lugia with the `Shadow Energy` item
+- ℹ️ Requires a friendship level above 250 and resets friendship back to 0.
+> ![]()💡 The effect can be reversed by using the energy again.
+
+---
+
+### 📜 Description
+
+> Lugia, after falling into the hands of Team Cipher, underwent a series of experiments that transformed it into a Shadow Pokémon resistant to purification. Its corruption is so extreme that its appearance itself changed, gaining a dark blue coloration and red eyes, whereas Shadow Pokémon are usually only recognizable by the aura they emit.
