@@ -41,5 +41,3 @@
 ### 📜 Description
 
 > It crossed the sea to settle in a new land. Surviving there changed both its appearance and abilities.
-
-## 
