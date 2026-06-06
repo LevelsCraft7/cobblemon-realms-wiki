@@ -70,5 +70,5 @@
 
 ## Paramètres
 
-- [🚫 Désactiver les mobs hostiles hors des grottes](settings/cavesonly.md)
+- [🚫 Désactiver les mobs hostiles](settings/cavesonly.md)
 - [⚙️ Optimiser les performances en solo](settings/optimize-solo-performance.md)
