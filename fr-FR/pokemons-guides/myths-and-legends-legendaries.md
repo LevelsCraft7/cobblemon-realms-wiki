@@ -3,8 +3,7 @@
 ## 🧭 Navigation rapide
 
 <p align="center">
-Aller à une région :
-
+  
 - [Génération 1 - Kanto](https://our-story-network.gitbook.io/cr-wiki/cr-fr/myths-and-legends/myths-and-legends-legendaries/gen_1)
 - [Génération 2 - Johto](https://our-story-network.gitbook.io/cr-wiki/cr-fr/myths-and-legends/myths-and-legends-legendaries/gen_2)
 - [Génération 3 - Hoenn](https://our-story-network.gitbook.io/cr-wiki/cr-fr/myths-and-legends/myths-and-legends-legendaries/gen_3)
