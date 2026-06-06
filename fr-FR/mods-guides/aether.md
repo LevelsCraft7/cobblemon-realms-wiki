@@ -109,7 +109,9 @@ L’Aether mélange plusieurs styles de rencontres :
 |:---:|
 | 🌈 Fée • ☁️ Vol • 🐉 Dragons • ⚠️ Paradoxes • 👽 Ultra-Chimères • 🏆 Late-game |
 
+{% hint style="info" %}
 ➡️ Dans Cobblemon Realms, l’Aether est une véritable zone de progression et de chasse avancée.
+{% endhint %}
 
 ---
 
