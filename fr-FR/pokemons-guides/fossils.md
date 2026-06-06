@@ -101,13 +101,11 @@ La **machine de résurrection** permet de redonner vie aux fossiles découverts.
 
 {% hint style="success" %}
 ## 💡 Conseils d’exploration
-
-<p align="center">
+  
 - 🗺️ Variez les biomes explorés
 - 🌋 Les zones volcaniques et aquatiques sont très rentables
 - 🧭 Marquez les structures importantes
 - 🎯 Les fossiles hybrides offrent des choix stratégiques
-</p>
 {% endhint %}
 
 ---
@@ -115,7 +113,6 @@ La **machine de résurrection** permet de redonner vie aux fossiles découverts.
 {% hint style="important" %}
 ## 📌 Notes importantes
 
-<p align="center">
 - ❗ Tous les fossiles ne donnent pas un Pokémon unique.
 - 🔧 Les taux d’apparition peuvent être ajustés.
 - 🦴 Certains fossiles sont volontairement rares.
