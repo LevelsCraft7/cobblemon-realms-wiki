@@ -1,261 +1,419 @@
-# Baby Legends
+# 🗿 Baby Legends
 
-The **Baby Legends** addon adds baby forms of Legendary Pokemon to Cobblemon progression.
+{% hint style="info" %}
+<p align="center">
+The Baby Legends addon introduces baby forms of Legendary Pokémon into Cobblemon’s progression. Instead of directly capturing the final legendaries, players must first find their pre-evolutions and evolve them through various conditions: biome, weather, friendship, level, items, or trading.
+</p>
+{% endhint %}
 
-Instead of finding the final legendary right away, players first catch a smaller pre-evolution and then evolve it through biome, weather, friendship, level, item, or trade conditions.
-
-This page is kept up to date for the current Baby Legends setup used in the modpack and focuses on the information players actually need: where to find each baby, how it evolves, and what kind of stat profile it has.
-
----
-
-## Overworld Baby Legends
-
-### Xerfawn
-
-- **Spawn:** Floral biomes during the day
-- **Extra note:** It can also appear in Aether floral environments
-- **Evolution:** Evolves into **Xerneas** with high friendship in Cherry Groves
-- **Type:** Fairy
-- **Ability:** Fairy Aura
-- **Stat profile:** Specially oriented, with decent mixed bulk and low catch rate
-
-![Xerfawn](https://github.com/user-attachments/assets/5fe0378f-fa5b-4dc4-b618-a10b0407d726)
-
-### Creslume
-
-- **Spawn:** Floral biomes
-- **Evolution:** Evolves into **Cresselia** with high friendship at night
-- **Type:** Psychic
-- **Ability:** Levitate
-- **Stat profile:** Defensive and utility-focused, with low Speed and strong special bulk
-
-![Creslume](https://github.com/user-attachments/assets/f487b64f-a454-4ed7-9548-868f59b8e2a9)
-
-### Raygul
-
-- **Spawn:** Mountain biomes, especially during the day
-- **Evolution:** Evolves into **Rayquaza** by using a **Dragon Fang** at level `50`
-- **Type:** Dragon / Flying
-- **Ability:** Air Lock
-- **Stat profile:** One of the strongest babies statistically, with high mixed offenses and good Speed
-
-![Raygul](https://github.com/user-attachments/assets/fd971347-c857-42ec-9605-9921a74fc18b)
-
-### Latot
-
-- **Spawn:** Forests
-- **Evolution:** Evolves with high friendship
-- **Female:** evolves into **Latias**
-- **Male:** evolves into **Latios**
-- **Type:** Psychic
-- **Ability:** Levitate
-- **Stat profile:** Fast and balanced, with good all-around offensive pressure
-
-![Latot](https://github.com/user-attachments/assets/935f4ff2-75e3-4756-9e1b-f82a59bf2d70)
-
-### Yangram
-
-- **Spawn:** Snowy biomes during the day
-- **Evolution:** Evolves into **Zekrom** at level `60` while it is thundering
-- **Evolution:** Evolves into **Reshiram** at level `60` during clear skies
-- **Evolution:** Evolves into **Kyurem** at level `70` after using an **Ice Stone**
-- **Type:** Dragon
-- **Ability:** Pressure
-- **Stat profile:** Flexible mixed attacker, but less bulky than several other babies
-
-### Saladune
-
-- **Spawn:** Deserts during the day
-- **Evolution:** Evolves into **Groudon** by using a **Fire Stone** at level `60`
-- **Type:** Ground
-- **Ability:** Dry Skin
-- **Stat profile:** Physically oriented, with strong Attack and Defense for an early-stage legendary line
-
-![Saladune](https://github.com/user-attachments/assets/60c7a7b8-03c4-49e4-b81b-3a3c252474be)
-
-### Courpup
-
-- **Spawn:** Forests
-- **Evolution:** Evolves with high friendship
-- **Female:** evolves into **Zacian**
-- **Male:** evolves into **Zamazenta**
-- **Type:** Steel
-- **Abilities:** Justified, Hidden Ability `Guard Dog`
-- **Stat profile:** Surprisingly strong special attacker with solid bulk
-
-### Karfoal
-
-- **Spawn:** Forests
-- **Evolution:** Evolves into **Keldeo** while holding a **Diamond Sword** at level `50+`
-- **Type:** Water / Normal
-- **Ability:** Friend Guard
-- **Stat profile:** Fast support-leaning baby with better Special Attack than Attack
+<p align="center">
+<em>This page is kept up to date according to the current modpack configuration. It focuses on useful in-game information: baby form locations, evolution conditions, and the stat profile of each evolutionary line.</em>
+</p>
 
 ---
 
-## Ocean and Water Variants
-
-### Delcalf
-
-- **Spawn:** Deep Oceans
-- **Spawn:** Can also be fished up in regular oceans
-- **Evolution:** Evolves into **Kyogre** at level `60` while it is thundering
-- **Type:** Water
-- **Ability:** Torrent
-- **Stat profile:** Balanced special-leaning water baby with a very low catch rate
-
-![Delcalf](https://github.com/user-attachments/assets/38934e50-a8bd-41cd-b896-846ed6adf64a)
+## 🌍 Overworld Baby Legends
 
 ---
 
-## Underground Variants
+### ✨ Xerfawn
 
-### Zerpint
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Floral biomes - Daytime |
+| 🔁 Evolution | Xerneas |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_fee.png) |
+| 🧬 Ability | Fairy Aura |
+| 📊 Stats | Bulky Special Attacker |
 
-- **Spawn:** Lush Caves
-- **Evolution:** Evolves into **Zygarde (50%)** with high friendship at night
-- **Type:** Dragon / Ground
-- **Ability:** Shed Skin
-- **Stat profile:** Defensive baby with a low catch rate and modest offenses
+💡 Xerfawn evolves in **Cherry Groves** with **high friendship**
 
-### Regiclay
-
-- **Spawn:** Dripstone Caves
-- **Evolution:** Evolves into **Registeel** while holding a **Metal Coat** and being traded
-- **Evolution:** Evolves into **Regirock** while holding a **Smooth Rock** and being traded
-- **Evolution:** Evolves into **Regice** while holding a **Never-Melt Ice** and being traded
-- **Evolution:** Evolves into **Regigigas** at level `100`
-- **Note:** The Regigigas path is expected to change in a future update
-- **Type:** Normal
-- **Abilities:** Clear Body, Hidden Ability `Sturdy`
-- **Stat profile:** Extremely defensive baby with very low Speed and a very low catch rate
-
-![Regiclay](https://github.com/user-attachments/assets/a3ef8099-58aa-46bc-ba76-1c17f182e566)
-
-### Royal Carbink
-
-- **Form:** This is a special **Royal Carbink** form rather than a separate base species
-- **Evolution:** Evolves into **Diancie** by using a **King's Rock**
-- **Spawn:** Rare in floral/Aether-style environments
-- **Type:** Rock / Fairy
-- **Abilities:** Clear Body, Hidden Ability `Sturdy`
-- **Stat profile:** Much bulkier than most babies and clearly designed as a rare premium form
+![Xerfawn](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Xerfawn.png) ![Xerfawn Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Xerfawn_shiny.png)
 
 ---
 
-## Dimension Exclusives
+### 🌙 Creslume
 
-### Giragrub
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Floral biomes |
+| 🔁 Evolution | Cresselia |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png) |
+| 🧬 Ability | Levitate |
+| 📊 Stats | Slow Special Wall |
 
-- **Spawn:** Nether
-- **Evolution:** Evolves into **Giratina** at level `60` after using a **Dusk Stone**
-- **Type:** Ghost
-- **Ability:** Levitate
-- **Stat profile:** Bulky and slow, with balanced mixed offenses
+💡 Creslume evolves **at night** with **high friendship**
 
-### Temga
-
-- **Spawn:** End
-- **Evolution:** Evolves into **Dialga** with high friendship at night
-- **Type:** Steel
-- **Ability:** Sturdy
-- **Stat profile:** Specially focused with solid defenses and low Speed
-
-### Neonite
-
-- **Spawn:** End
-- **Evolution:** Evolves into **Necrozma** after using a **Dragon Egg** at level `70`
-- **Note:** This mechanic is marked as temporary
-- **Type:** Psychic
-- **Ability:** Prism Armor
-- **Stat profile:** Specially oriented and fairly rare, with a very low catch rate
+![Creslume](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Creslume.png) ![Creslume Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Creslume_shiny.png)
 
 ---
 
-## Elemental Trio
+### 🐉 Raygul
 
-![Baby Legendary Birds](https://github.com/user-attachments/assets/c3bbe935-a9d0-4e70-a33d-5930b925b21d)
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Mountain biomes - Daytime |
+| 🔁 Evolution | Rayquaza |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_dragon.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_vol.png) |
+| 🧬 Ability | Air Lock |
+| 📊 Stats | Fast Mixed Sweeper |
 
-### Rotisikree
+💡 Raygul evolves at **level 50** with the **Dragon Fang** item
 
-- **Spawn:** Savannas
-- **Evolution:** Evolves into **Moltres** at level `50` after using a **Fire Stone**
-- **Type:** Fire
-- **Ability:** Flame Body
-- **Stat profile:** Special attacker with average bulk and a low catch rate
-
-### Articoo
-
-- **Spawn:** Snowy Plains
-- **Evolution:** Evolves into **Articuno** at level `50` after using an **Ice Stone**
-- **Type:** Ice
-- **Ability:** Ice Body
-- **Stat profile:** More defensive than offensive, especially on the special side
-
-### Statchic
-
-- **Spawn:** Mountain biomes
-- **Evolution:** Evolves into **Zapdos** at level `50` after using a **Thunder Stone**
-- **Type:** Ground
-- **Ability:** Static
-- **Stat profile:** Frailer than the other elemental babies but with good Special Attack for its stage
+![Raygul](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Raygul.png) ![Raygul Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Raygul_Shiny.png)
 
 ---
 
-## Dark and Special Variants
+### 🧭 Latot
 
-### Yivpip
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Forests |
+| 🔁 Evolution | Latias (♀) / Latios (♂) |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png) |
+| 🧬 Ability | Levitate |
+| 📊 Stats | Balanced Fast Sweeper |
 
-- **Spawn:** Dark Forests or biomes tagged with `#is_spooky`
-- **Evolution:** Evolves into **Yveltal** by using a **Dusk Stone** at level `60`
-- **Type:** Dark
-- **Ability:** Dark Aura
-- **Stat profile:** Strong mixed attacker with decent HP and a low catch rate
+💡 Latot evolves with **high friendship**
 
-![Yivpip](https://github.com/user-attachments/assets/6c2a6733-0122-4ebf-a9bb-ab9f0ddaa30e)
-
-### Oh-Ho
-
-- **Spawn:** Ultra rarely near **bells**
-- **Evolution:** Evolves into **Ho-Oh** at level `50` after using a **Fire Stone**
-- **Type:** Fire
-- **Ability:** Pressure
-- **Stat profile:** Specially bulky baby with a low catch rate
-
-### Haidon
-
-- **Spawn:** Sandy biomes
-- **Evolution:** Evolves into **Koraidon** by trading it while it holds a **Dragon Fang**
-- **Type:** Fighting
-- **Ability:** Flash Fire
-- **Stat profile:** Fast physical baby with balanced bulk and a low catch rate
-
-![Haidon and Kaidon](https://github.com/user-attachments/assets/01f29a28-f0b3-4844-9cd6-f6f61e016521)
-
-### Kaidon
-
-- **Spawn:** Plains and hills
-- **Extra note:** Thunderstorms strongly improve its spawn chance
-- **Evolution:** Evolves into **Miraidon** by trading it while it holds an **Electirizer**
-- **Type:** Electric
-- **Ability:** Volt Absorb
-- **Stat profile:** Fast special baby with a low catch rate
-
-### Beta
-
-- **Spawn:** Forests
-- **Evolution:** Evolves into **Arceus** by using a **Nether Star** at level `80`
-- **Type:** Normal
-- **Ability:** Adaptability
-- **Stat profile:** Perfectly even base stat spread, but still very hard to catch
+![Latot Male](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Loat_male.png) ![Latot Male Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Loat_male_shiny.png) ![Latot Female](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Loat_femelle.png) ![Latot Female Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Loat_femelle_shiny.png)
 
 ---
 
-## Gameplay Notes
+### ⚡ Yangram
 
-- Friendship matters a lot across this addon.
-- Weather-based evolutions are a major part of progression.
-- Several babies use item interactions instead of normal leveling.
-- Catch rates are often very low, so proper preparation helps a lot.
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Snowy biomes (daytime) |
+| 🔁 Evolutions | Zekrom / Reshiram / Kyurem |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_dragon.png) |
+| 🧬 Ability | Pressure |
+| 📊 Stats | Flexible Mixed Attacker |
 
-Baby Legends adds a much longer legendary progression path and rewards players who explore multiple biome types and dimensions.
+💡 Yangram evolves into:
+- Zekrom at **level 60** during a thunderstorm  
+- Reshiram at **level 60** in clear weather  
+- Kyurem at **level 70** with an **Ice Stone**
+
+![Yangram](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Yangram.png) ![Yangram Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Yangram_shiny.png)
+
+---
+
+### 🌋 Saladune
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Deserts - Daytime |
+| 🔁 Evolution | Groudon |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_sol.png) |
+| 🧬 Ability | Dry Skin |
+| 📊 Stats | Bulky Physical Attacker |
+
+💡 Saladune evolves at **level 60** with a **Fire Stone**
+
+![Saladune](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Saladune.png) ![Saladune Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Saladune_shiny.png)
+
+---
+
+### 🛡️ Courpup
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Forests |
+| 🔁 Evolution | Zacian (♀) / Zamazenta (♂) |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_acier.png) |
+| 🧬 Ability | Justified / Guard Dog (Hidden) |
+| 📊 Stats | Solid Physical Tank |
+
+💡 Courpup evolves with **high friendship**
+
+![Courpup Male](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Courpup_male.png) ![Courpup Male Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Courpup_male_shiny.png) ![Courpup Female](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Courpup_femelle.png) ![Courpup Female Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Courpup_femelle_shiny.png)
+
+---
+
+### 🐎 Karfoal
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Forests |
+| 🔁 Evolution | Keldeo |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_eau.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_normal.png) |
+| 🧬 Ability | Friend Guard |
+| 📊 Stats | Fast Special Support |
+
+💡 Karfoal evolves at **level 50** with the **Diamond Sword** item
+
+![Karfoal](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Karfoal.png) ![Karfoal Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Karfoal_shiny.png)
+
+---
+
+## 🌊 Ocean Variants
+
+---
+
+### 🌊 Delcalf
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Deep Ocean / Fishing |
+| 🔁 Evolution | Kyogre |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_eau.png) |
+| 🧬 Ability | Torrent |
+| 📊 Stats | Bulky Special Attacker |
+
+💡 Delcalf evolves at **level 50** during a thunderstorm
+
+![Delcalf](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Delcalf.png) ![Delcalf Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Delcalf_shiny.png)
+
+---
+
+## 🪨 Underground Variants
+
+---
+
+### 🧬 Zerpint
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Lush Caves |
+| 🔁 Evolution | Zygarde (50%) |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_dragon.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_sol.png) |
+| 🧬 Ability | Shed Skin |
+| 📊 Stats | Slow Physical Wall |
+
+💡 Zerpint evolves **at night** with **high friendship**
+
+![Zerpint](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Zerpint.png) ![Zerpint Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Zerpint_shiny.png)
+
+---
+
+### 🧱 Regiclay
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Dripstone Caves |
+| 🔁 Evolutions | Registeel / Regirock / Regice via items + trading |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_normal.png) |
+| 🧬 Ability | Clear Body / Sturdy (Hidden) |
+| 📊 Stats | Extremely Slow Wall |
+
+💡 Regiclay evolves into:
+
+- Registeel (to be completed)  
+- Regirock (to be completed)  
+- Regice (to be completed)
+
+![Regiclay](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Regiclay.png) ![Regiclay Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Regiclay_shiny.png)
+
+---
+
+### 💎 Royal Carbink
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Floral / Rare Aether biomes |
+| 🔁 Evolution | Diancie |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_roche.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_fee.png) |
+| 🧬 Ability | Clear Body / Sturdy (Hidden) |
+| 📊 Stats | Premium Bulky Tank |
+
+💡 Royal Carbink evolves with the **King’s Rock** item
+
+![Royal Carbink](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Royal_carbink.png) ![Royal Carbink Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Royal_carbink_shiny.png)
+
+---
+
+## 🌌 Dimensions
+
+---
+
+### 👁️ Giragrub
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Nether |
+| 🔁 Evolution | Giratina |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_spectre.png) |
+| 🧬 Ability | Levitate |
+| 📊 Stats | Slow Mixed Tank |
+
+💡 Giragrub evolves at **level 60** with a **Dusk Stone**
+
+![Giragrub](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Giragrub.png) ![Giragrub Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Giragrub_shiny.png)
+
+---
+
+### ⏳ Temga
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | End |
+| 🔁 Evolution | Dialga |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_acier.png) |
+| 🧬 Ability | Sturdy |
+| 📊 Stats | Slow Special Wall |
+
+💡 Temga evolves **at night** with **high friendship**
+
+![Temga](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Temga.png) ![Temga Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Temga_shiny.png)
+
+---
+
+### 🧬 Neonite
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | End |
+| 🔁 Evolution | Necrozma |
+| ⚠️ Note | Temporary mechanic |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png) |
+| 🧬 Ability | Prism Armor |
+| 📊 Stats | Rare Special Attacker |
+
+💡 Neonite evolves at **level 70** with the **Dragon Egg** item
+
+![Neonite](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Neonite.png)
+
+---
+
+## 🐦 Elemental Trio
+
+### 🔥 Rotisikree
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Savannas |
+| 🔁 Evolution | Moltres |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_feu.png) |
+| 🧬 Ability | Flame Body |
+| 📊 Stats | Average Special Attacker |
+
+💡 Rotisikree evolves at **level 50** with a **Fire Stone**
+
+![Rotisikree](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Rotisikree.png) ![Rotisikree Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Rotisikree_shiny.png)
+
+---
+
+### ❄️ Articoo
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Snowy Plains |
+| 🔁 Evolution | Articuno |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_glace.png) |
+| 🧬 Ability | Ice Body |
+| 📊 Stats | Solid Special Wall |
+
+💡 Articoo evolves at **level 50** with an **Ice Stone**
+
+![Articoo](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Articoo.png) ![Articoo Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Articoo_shiny.png)
+
+---
+
+### ⚡ Statchic
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Mountains |
+| 🔁 Evolution | Zapdos |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_sol.png) |
+| 🧬 Ability | Static |
+| 📊 Stats | Fragile Special Sweeper |
+
+💡 Statchic evolves at **level 50** with a **Thunder Stone**
+
+![Statchic](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Statchic.png) ![Statchic Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Statchic_shiny.png)
+
+---
+
+## 🌑 Special Variants
+
+---
+
+### 🌑 Yivpip
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Dark Forest |
+| 🔁 Evolution | Yveltal |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_tenebres.png) |
+| 🧬 Ability | Dark Aura |
+| 📊 Stats | Offensive Mixed Attacker |
+
+💡 Yivpip evolves at **level 60** with a **Dusk Stone**
+
+![Yivpip](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Yivpip.png) ![Yivpip Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Yivpip_shiny.png)
+
+---
+
+### 🐎 Oh-Ho
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Rare bell-related areas |
+| 🔁 Evolution | Ho-Oh |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_feu.png) |
+| 🧬 Ability | Pressure |
+| 📊 Stats | Solid Special Attacker |
+
+💡 Oh-Ho evolves at **level 50** with a **Fire Stone**
+
+![Oh-Ho](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Oh-Ho.png) ![Oh-Ho Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Oh-Ho_shiny.png)
+
+---
+
+### 🐎 Haidon
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Deserts |
+| 🔁 Evolution | Koraidon (trade + Dragon Fang) |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_combat.png) |
+| 🧬 Ability | Flash Fire |
+| 📊 Stats | Fast Physical Sweeper |
+
+💡 Haidon evolves by **trading** while holding a **Dragon Fang**
+
+![Haidon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Haidon.png) ![Haidon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Haidon_shiny.png)
+
+---
+
+### ⚡ Kaidon
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Plains / Hills |
+| 🔁 Evolution | Miraidon |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_electrique.png) |
+| 🧬 Ability | Volt Absorb |
+| 📊 Stats | Fast Special Sweeper |
+
+💡 Kaidon evolves by **trading** while holding an **Electirizer**
+
+![Kaidon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Kaidon.png) ![Kaidon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Kaidon_shiny.png)
+
+---
+
+### 🌑 Beta
+
+| 📌 Information | 📋 Details |
+|---|---|
+| 🌍 Spawn | Forests |
+| 🔁 Evolution | Arceus |
+| ⚔️ Type | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_normal.png) |
+| 🧬 Ability | Adaptability |
+| 📊 Stats | Balanced Stats |
+
+💡 Beta evolves at **level 80** with the **Nether Star** item
+
+![Beta](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Beta.png) ![Beta Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Baby-Legends/Beta_shiny.png)
+
+---
+
+## 🧠 Gameplay Notes
+
+- Friendship is central to many evolutions  
+- Weather conditions are very important  
+- Many evolutions require specific items  
+- Capture rates are generally low  
+- Exploring multiple biomes is highly encouraged
