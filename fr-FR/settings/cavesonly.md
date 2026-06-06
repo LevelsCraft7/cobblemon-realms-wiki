@@ -1,7 +1,9 @@
 # 👹 Désactiver la restriction des mobs hostiles
 
 {% hint style="info" %}
+<p align="center">
 Par défaut, Cobblemon Realms limite l'apparition des mobs hostiles principalement aux grottes grâce au mod <strong>In Control!</strong>. Si vous souhaitez retrouver un comportement plus proche de Minecraft vanilla, il suffit de retirer ce mod.
+</p>
 {% endhint %}
 
 ---
@@ -22,7 +24,7 @@ Les mobs hostiles réapparaîtront alors normalement à la surface, comme dans M
 # 📌 Conséquences
 
 | Changement | Impact |
-|---|---|
+|:---:|:---:|
 | 🌙 Apparitions en surface | Les monstres peuvent de nouveau apparaître la nuit |
 | ⚔️ Difficulté | Les nuits deviennent plus dangereuses |
 | 🏞️ Exploration | Le gameplay se rapproche davantage du vanilla |
