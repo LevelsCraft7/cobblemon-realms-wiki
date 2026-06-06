@@ -3,7 +3,9 @@
 ## ℹ️ Fonctionnement de Luggage
 
 {% hint style="info" %}
+<p align="center">
 <strong>Luggage</strong> est un coffre vivant capable de vous accompagner dans vos aventures. Il vous suit automatiquement, ramasse les objets au sol et transporte votre matériel où que vous alliez.
+</p>
 {% endhint %}
 
 ---
