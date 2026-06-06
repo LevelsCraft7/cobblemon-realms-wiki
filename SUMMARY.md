@@ -1,6 +1,6 @@
 # Table of Contents
 
-## Welcome
+## Presentation
 
 - [👋 Introduction](README.md)
 
