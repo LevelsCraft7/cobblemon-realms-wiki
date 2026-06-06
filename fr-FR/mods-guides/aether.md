@@ -1,7 +1,9 @@
 # ☁️ Voyage dans les Îles Célestes
 
 {% hint style="info" %}
+<p align="center">
 <strong>The Aether</strong> est une dimension céleste composée d'îles flottantes, de donjons, de boss et de nombreuses récompenses uniques. Sur Cobblemon Realms, elle accueille également de nombreux Pokémon rares, légendaires et late-game.
+</p>
 {% endhint %}
 
 ---
