@@ -1,70 +1,154 @@
-# Chunky Pregenerator Tutorial
+# ⚙️ Chunky Pregenerator
 
-## Introduction
+## 🎯 Introduction
 
-Chunky Pregenerator is a mod designed to pre-generate chunks in your Minecraft world,  
-which helps reduce lag and improve overall performance during exploration.  
-By generating chunks in advance, your server will experience fewer slowdowns,  
-especially during high-activity sessions or intense exploration.
+{% hint style="info" %}
+<p align="center">
+<strong>Chunky</strong> is a mod that allows you to pre-generate chunks in a Minecraft world in order to reduce lag and improve server performance during exploration.
+</p>
+{% endhint %}
 
-## Features
+{% hint style="success" %}
+<p align="center">
+By generating terrain in advance, the server no longer needs to calculate chunks in real time when players discover new areas.
+</p>
+{% endhint %}
 
-- Pre-generates chunks in a specified area or radius.
-- Can be run manually or automatically on server startup.
-- Reduces in-game lag and improves server performance.
-- Configurable settings for generation speed and radius.
+---
 
-## How It Works
+# ✨ Features
 
-Chunky generates terrain in chunks before players visit those areas.  
-This process creates a "pre-generated" world where terrain, structures, and resources  
-are already loaded, meaning the server doesn’t have to generate chunks on the fly  
-when players enter new zones.
+- 🗺️ Pre-generate chunks within a defined area or radius
+- ⚙️ Manual or automatic startup generation
+- 📉 Significant reduction in exploration-related lag
+- 🔧 Fully configurable settings
 
-## Commands & Usage
+---
 
-1. **Basic Command:**  
-   Use the command:  
-   `/chunky radius <radius>`  
-   This will start pregenerating chunks in the specified radius from the spawn point.  
-   Example:  
-   `/chunky start`  
-   This command starts generating all chunks within the previously set radius.
+# 🧠 How it Works
 
-2. **Check Status:**  
-   To monitor the pregeneration progress:  
-   `/chunky status`  
-   This will display current progress and performance details.
+Chunky generates the world **before players arrive**.
 
-3. **Cancel Generation:**  
-   If needed, you can cancel the pregeneration process with:  
-   `/chunky cancel`
+This means:
 
-4. **Advanced Settings:**
+- terrain is already created;
+- structures are already generated;
+- resources are already in place.
 
-- Some settings can be adjusted in the mod’s configuration files.
-- Modify the generation speed or maximum number of chunks generated.
-- Check the config file (usually found in the server's `config` folder)  
-  for more detailed options.
+➡️ When a player enters a pre-generated area, the server has almost nothing left to calculate live.
 
-## Tips & Best Practices
+---
 
-- It’s recommended to run pregeneration during off-peak hours or before opening the server to players.
-- Start with a small radius to test the impact on performance, then gradually increase.
-- For large maps, schedule pregeneration tasks during maintenance windows.
-- Regularly use the `/chunky status` command to monitor progress and avoid overloading the server.
-- If possible, automate the process on server startup with a script containing `/chunky start`.  
-  This can be done via a startup script or a server plugin that supports automation.
+# ⌨️ Main Commands
 
-## Additional Resources
+## 📍 Define an Area
 
-- CurseForge: https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge  
-- Chunky Wiki (Guides): https://github.com/pop4959/Chunky/wiki/How-To%27s  
-- Chunky Wiki (Pregeneration): https://github.com/pop4959/Chunky/wiki/Pregeneration  
+```
+/chunky radius <radius>
+```
 
-## Conclusion
+{% hint style="info" %}
+Defines the pre-generation radius around the starting point.
+{% endhint %}
 
-Using Chunky Pregenerator effectively can greatly improve your server’s performance  
-by reducing exploration lag. Experiment with different radii and settings  
-to find the right balance for your world.  
-Enjoy smoother gameplay and a more stable server!
+---
+
+## ▶️ Start Generation
+
+```
+/chunky start
+```
+
+{% hint style="info" %}
+Starts chunk pre-generation within the defined area.
+{% endhint %}
+
+---
+
+## 📊 Check Progress
+
+```
+/chunky status
+```
+
+{% hint style="info" %}
+Displays the current generation status and progress.
+{% endhint %}
+
+---
+
+## ❌ Cancel Generation
+
+```
+/chunky cancel
+```
+
+{% hint style="info" %}
+Immediately stops the current pre-generation process.
+{% endhint %}
+
+---
+
+# ⚙️ Advanced Settings
+
+Chunky allows you to configure:
+
+- generation speed;
+- number of chunks generated simultaneously;
+- general settings through files located in the `config` folder.
+
+{% hint style="warning" %}
+Generating chunks too quickly may temporarily impact server performance. Adjust settings according to available resources.
+{% endhint %}
+
+---
+
+# 💡 Best Practices
+
+For the best results:
+
+- ⏰ Run generation during off-peak hours.
+- 📉 Start with a smaller radius, then gradually increase it.
+- 🧪 Test performance before launching massive generation jobs.
+- 📊 Regularly monitor progress with `/chunky status`.
+- 🤖 Automate generation at server startup if needed.
+
+---
+
+# 🎯 Why Use Chunky?
+
+Pre-generation helps:
+
+- reduce lag spikes during exploration;
+- improve overall server stability;
+- create smoother gameplay experiences;
+- minimize slowdowns caused by loading new chunks.
+
+{% hint style="success" %}
+The more your world is pre-generated, the fewer slowdowns players will experience while exploring.
+{% endhint %}
+
+---
+
+# 🔗 Useful Resources
+
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge)
+- [Chunky Wiki - Guide](https://github.com/pop4959/Chunky/wiki/How-To%27s)
+- [Chunky Wiki - Pregeneration](https://github.com/pop4959/Chunky/wiki/Pregeneration)
+
+---
+
+# 🧾 Summary
+
+Chunky is an essential tool for servers aiming to provide smooth exploration.
+
+By pre-generating the world ahead of time:
+
+- ✅ less lag;
+- ✅ improved stability;
+- ✅ smoother exploration;
+- ✅ a better experience for all players.
+
+{% hint style="info" %}
+A well pre-generated server is a more enjoyable server to explore.
+{% endhint %}
