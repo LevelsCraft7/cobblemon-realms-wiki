@@ -1,12 +1,47 @@
-# 🛡️ Disabling Hostile Mobs Restriction to Caves
 
-In the **Cobblemon Realms** modpack, hostile mobs are restricted to caves thanks to the **In Control!** mod.  
-If you want to completely disable hostile mob restrictions, simply remove this mod.
 
-## 🔧 Steps
+{% hint style="info" %}
+<p align="center">
+By default, Cobblemon Realms limits hostile mob spawns mainly to caves thanks to the mod <strong>In Control!</strong>. If you want behavior closer to vanilla Minecraft, simply remove this mod.
+</p>
+{% endhint %}
 
-1. Open the `mods` folder in your Cobblemon Realms installation.  
-2. Delete the `InControl` mod file (typically named `InControl-*.jar`).  
-3. Restart the game.
+---
 
-After removing the mod, hostile mobs will no longer be restricted to caves and will spawn according to Minecraft’s default behavior.
+# ⚙️ Steps to Follow
+
+1. Open the `mods` folder of your Cobblemon Realms installation.
+2. Look for the file `InControl-*.jar`.
+3. Delete it.
+4. Restart Minecraft.
+
+{% hint style="success" %}
+Hostile mobs will then start spawning normally on the surface again, just like in vanilla Minecraft.
+{% endhint %}
+
+---
+
+# 📌 Consequences
+
+| Change | Impact |
+|:---:|:---:|
+| 🌙 Surface Spawns | Monsters can spawn on the surface at night again |
+| ⚔️ Difficulty | Nights become more dangerous |
+| 🏞️ Exploration | Gameplay becomes closer to vanilla |
+| 👹 Hostile Population | More hostile mobs spawn overall |
+
+---
+
+# ⚠️ Important
+
+{% hint style="warning" %}
+### 🌐 On a Server
+
+This modification must be done server-side. Removing the mod only on the client side will have no effect on mob spawning.
+{% endhint %}
+
+{% hint style="danger" %}
+## ⚖️ Modpack Balance
+
+Cobblemon Realms was designed around this limitation. Removing <strong>In Control!</strong> may significantly increase difficulty and alter the exploration experience.
+{% endhint %}
