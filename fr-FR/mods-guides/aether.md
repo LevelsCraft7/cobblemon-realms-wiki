@@ -1,14 +1,8 @@
 # ☁️ Voyage dans les Îles Célestes
 
-**The Aether** ajoute une dimension céleste remplie :
-
-- ☁️ D’îles flottantes
-- 🏛️ De donjons
-- ⚔️ De boss
-- 🐉 De créatures uniques
-- ✨ D’objets et accessoires spéciaux
-
-Dans **Cobblemon Realms**, cette dimension devient encore plus importante grâce à ses nombreux **spawns Cobblemon personnalisés**, incluant plusieurs Pokémon rares, légendaires et late-game.
+{% hint style="info" %}
+<strong>The Aether</strong> est une dimension céleste composée d'îles flottantes, de donjons, de boss et de nombreuses récompenses uniques. Sur Cobblemon Realms, elle accueille également de nombreux Pokémon rares, légendaires et late-game.
+{% endhint %}
 
 ---
 
@@ -177,11 +171,13 @@ L’Aether mélange plusieurs styles de rencontres :
 
 ![Portail de l'Aether](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Portail_Aether.jpg)
 
+{% hint style="success" %}
+Contrairement au Nether ou à The Otherside, l'Aether est accessible très tôt dans une partie.
+{% endhint %}
+
 ---
 
-# ⚠️ Important avant d’entrer
-
-L’Aether est une dimension très verticale.
+# ⚠️ Préparer son exploration
 
 ## 🎒 Préparation recommandée
 
@@ -190,7 +186,9 @@ L’Aether est une dimension très verticale.
 - 🏹 Arme à distance
 - 🧭 Moyens de repérage
 
-## ⚠️ Danger principal
+{% hint style="danger" %}
+Le principal danger de l'Aether n'est pas toujours les monstres. Les chutes dans le vide représentent la première cause de mort dans la dimension.
+{% endhint %}
 
 | ⚠️ Risques |
 |---|
@@ -237,56 +235,6 @@ L’Aether possède sa propre boucle de progression basée sur :
 
 ---
 
-# 🌍 Biomes principaux
-
-## 🌿 Skyroot Meadow
-
-Biome très ouvert.
-
-### ✅ Idéal pour
-
-- 🧭 Exploration
-- 🏛️ Repérer les structures
-- ✨ Chercher des spawns rares
-
----
-
-## 🌱 Skyroot Grove
-
-Biome intermédiaire.
-
-### ✅ Points forts
-
-- 🌿 Bonne visibilité
-- 🐾 Très bons spawns custom
-- 🧭 Exploration agréable
-
----
-
-## 🌲 Skyroot Forest
-
-Biome plus dense et plus dangereux.
-
-### ✅ Intérêt
-
-- 🐉 Dragons
-- 🌈 Pokémon Fée
-- ⚠️ Pokémon Paradoxes
-
----
-
-## 🌳 Skyroot Woodland
-
-Biome plus rare et plus hostile.
-
-### ✅ Connu pour
-
-- 🏆 Rencontres spéciales
-- ⚠️ Spawns puissants
-- 🌌 Exploration avancée
-
----
-
 # ⚔️ Progression principale
 
 ## 🧭 Boucle générale
@@ -302,11 +250,11 @@ Biome plus rare et plus hostile.
 
 # 🐉 Créatures emblématiques
 
-# 🐦 Moas
+## 🐦 Moas
 
 Les **Moas** sont les montures emblématiques de l’Aether.
 
-## 📌 Particularités
+### 📌 Particularités
 
 - 🐦 Oiseaux géants
 - 🪶 Plusieurs couleurs
@@ -315,13 +263,13 @@ Les **Moas** sont les montures emblématiques de l’Aether.
 
 ---
 
-# ☁️ Zephyrs
+## ☁️ Zephyrs
 
 Les **Zephyrs** sont des mobs hostiles ressemblant à des nuages vivants.
 
 ![Zephyrs](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Zephyr.png)
 
-## ⚠️ Danger
+### ⚠️ Danger
 
 Ils rendent les traversées aériennes beaucoup plus dangereuses.
 
@@ -342,7 +290,7 @@ L’Aether possède :
 
 # 🏛️ Donjons et boss
 
-# 🥉 Bronze Dungeon
+## 🥉 Bronze Dungeon
 
 Premier grand donjon de l’Aether.
 
@@ -350,7 +298,7 @@ Boss : **Slider**
 
 ![Slider](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Modern_Slider_Inactive.png)
 
-## 📌 Informations
+### 📌 Informations
 
 | ⚔️ Slider |
 |---|
@@ -360,7 +308,7 @@ Boss : **Slider**
 
 ---
 
-# 🥈 Silver Dungeon
+## 🥈 Silver Dungeon
 
 Temple des Valkyries.
 
@@ -368,7 +316,7 @@ Boss : **Valkyrie Queen**
 
 ![Valkyrie Queen](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Valkyrie_Queen_Render.png)
 
-## 📌 Informations
+### 📌 Informations
 
 | ⚔️ Valkyrie Queen |
 |---|
@@ -378,7 +326,7 @@ Boss : **Valkyrie Queen**
 
 ---
 
-# 🥇 Gold Dungeon
+## 🥇 Gold Dungeon
 
 Dernier grand donjon principal.
 
@@ -386,7 +334,7 @@ Boss : **Sun Spirit**
 
 ![Sun Spirit](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/The-Aether/Modern_Sun_Spirit.png)
 
-## 📌 Informations
+### 📌 Informations
 
 | ⚔️ Sun Spirit |
 |---|
@@ -396,22 +344,23 @@ Boss : **Sun Spirit**
 
 ---
 
-# 📌 À retenir
+{% hint style="success" %}
+## 📌 À retenir
+L'Aether est une dimension accessible rapidement mais qui cache une importante progression orientée exploration, donjons, boss et Pokémon rares. La mobilité et la prudence sont les clés de la survie.
 
-| ✅ Important |
-|---|
-| ☁️ Glowstone + Eau pour le portail |
-| 🐾 Très gros spawns Cobblemon |
-| ⚔️ Les boss donnent les meilleures récompenses |
-| 🧭 La mobilité est essentielle |
-| ☁️ Les chutes sont le principal danger |
+- ☁️ Glowstone + Eau pour le portail
+- 🐾 Très gros spawns Cobblemon
+- ⚔️ Les boss donnent les meilleures récompenses
+- 🧭 La mobilité est essentielle
+- ☁️ Les chutes sont le principal danger
+{% endhint %}
 
 ---
 
 # 📚 Sources utiles
 
 - [Official Aether Project Wiki](https://aether.wiki.gg/)
-- [The Aether — Wiki officiel](https://aether.wiki.gg/wiki/The_Aether/Skyroot_Grove)
+- [The Aether - Wiki officiel](https://aether.wiki.gg/wiki/The_Aether/Skyroot_Grove)
 - [Bronze Dungeon](https://aether.wiki.gg/wiki/The_Aether/Bronze_Dungeon)
 - [Silver Dungeon](https://aether.wiki.gg/wiki/The_Aether/Silver_Dungeon)
 - [Slider](https://aether.wiki.gg/wiki/The_Aether/Slider)
@@ -419,8 +368,10 @@ Boss : **Sun Spirit**
 - [Sun Spirit](https://aether.wiki.gg/wiki/The_Aether/Sun_Spirit)
 - [Moa](https://aether.wiki.gg/wiki/The_Aether/Moa)
 - [Zephyr](https://aether.wiki.gg/wiki/The_Aether/Zephyr)
-- [CurseForge — The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)
+- [CurseForge - The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)
 
 ---
 
-> 📘 Les informations Cobblemon Realms présentées ci-dessus sont basées sur la configuration actuelle des spawns personnalisés de la dimension Aether dans le modpack.
+{% hint style="info" %}
+Les informations Cobblemon Realms présentées ci-dessus sont basées sur la configuration actuelle des spawns personnalisés de la dimension Aether dans le modpack.
+{% endhint %}
