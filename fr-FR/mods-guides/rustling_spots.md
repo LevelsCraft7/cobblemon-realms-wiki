@@ -1,7 +1,5 @@
 # 🌿 Rustling Spots
 
-## 🧑🏼‍🔧 Fonctionnement de Rustling Spots
-
 {% hint style="info" %}
 <p align="center">
 <strong>Rustling Spots</strong> est un mod inspiré des herbes frémissantes de Pokémon Noir & Blanc. Lors de votre exploration, des événements temporaires peuvent apparaître autour de vous et déclencher des rencontres Pokémon, des récompenses ou d'autres surprises.
@@ -14,7 +12,7 @@ Le mod ne modifie pas la génération du monde et reste entièrement compatible 
 
 ---
 
-# ✨ Fonctionnement
+# ✨ Fonctionnement de Rustling Spots
 
 Lorsqu'un joueur explore le monde :
 
