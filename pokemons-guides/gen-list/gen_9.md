@@ -1,15 +1,15 @@
-# 🎓 Génération 9 - Paldea/Kitakami
+# 🎓 Generation 9 - Paldea/Kitakami
 
-### 📜 **Liste des invocations de la Première Génération**
+### 📜 **Ninth Generation Summon List**
 
 <p align="center">
-Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, de nouvelles légendes émergent. Certaines sont connues depuis des siècles, d'autres restent encore entourées de mystère.
+From the depths of the Great Crater of Paldea to the folk tales of Kitakami, new legends emerge. Some have been known for centuries, while others remain shrouded in mystery.
 </p>
 
-| 🎓 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🧭 Localisation |
+| 🎓 Pokémon | 📦 Required Item | ⚙️ Required Conditions | 🧭 Location |
 |:----------:|:----------:|:----------:|:----------:|
-| ![](https://play.pokemonshowdown.com/sprites/ani/koraidon.gif)<br>**Koraidon** | Scarlet Book | Aucune | Badlands, Eroded Badlands, Savanna, Savanna Plateau |
-| ![](https://play.pokemonshowdown.com/sprites/home/miraidon.png)<br>**Miraidon** | Violet Book | Aucune | Deep Dark, Windswept Gravelly Hills |
-| ![](https://play.pokemonshowdown.com/sprites/home/ogerpon.png)<br>**Ogerpon** | Teal Mask | 🌙 Lune gibbeuse décroissante | Bamboo, Floral, Jungle |
-| ![](https://play.pokemonshowdown.com/sprites/home/pecharunt.png)<br>**Pecharunt** | Mythical Pecha Berry | Aucune | Dark Forest, Swamp, Pillager structures |
-| ![](https://play.pokemonshowdown.com/sprites/home/terapagos.png)<br>**Terapagos** | Prismatic Shell | Aucune | Jungle, Mountain, River, Magical biomes |
+| ![](https://play.pokemonshowdown.com/sprites/ani/koraidon.gif)<br>**Koraidon** | Scarlet Book | None | Badlands, Eroded Badlands, Savanna, Savanna Plateau |
+| ![](https://play.pokemonshowdown.com/sprites/home/miraidon.png)<br>**Miraidon** | Violet Book | None | Deep Dark, Windswept Gravelly Hills |
+| ![](https://play.pokemonshowdown.com/sprites/home/ogerpon.png)<br>**Ogerpon** | Teal Mask | 🌙 Waning Gibbous Moon | Bamboo, Floral, Jungle |
+| ![](https://play.pokemonshowdown.com/sprites/home/pecharunt.png)<br>**Pecharunt** | Mythical Pecha Berry | None | Dark Forest, Swamp, Pillager structures |
+| ![](https://play.pokemonshowdown.com/sprites/home/terapagos.png)<br>**Terapagos** | Prismatic Shell | None | Jungle, Mountain, River, Magical biomes |
