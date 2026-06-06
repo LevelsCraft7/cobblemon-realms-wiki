@@ -1,49 +1,88 @@
-# 🧳 Luggage
 
-The **Luggage** mod brings back the iconic walking chest from OpenBlocks for modern Minecraft versions. It follows you, automatically scoops up dropped items, and offers a few quality‑of‑life controls to manage it easily.
 
----
+## ℹ️ How Luggage Works
 
-## ✨ Main Features
-
-- **Follows you & picks up items**  
-  Luggage trails its owner and automatically collects nearby dropped items into its internal storage.
-
-- **Open inventory**  
-  Right‑click Luggage to access its storage at any time.
-
-- **Pick up as an item (data is preserved)**  
-  **Shift + Right‑click** Luggage to convert it back into an item.  
-  Its **contents, charged state, and custom name** are saved on the item.
-
-- **Charged Luggage = more space**  
-  If **struck by lightning**, Luggage becomes **charged** and its inventory size **doubles**.  
-  This state is also reflected by a different texture.
+{% hint style="info" %}
+<p align="center">
+<strong>Luggage</strong> is a living chest capable of accompanying you on your adventures. It automatically follows you, picks up nearby items, and carries your equipment wherever you go.
+</p>
+{% endhint %}
 
 ---
 
-## 🎮 Controls (Whistles)
+# ✨ Features
 
-- **Call Whistle** — press the **\`** key  
-  Calls **all** Luggages you own to your position (they must be in **loaded chunks**).  
-  After calling, there is a **10‑second cooldown** during which Luggage won’t collect items.
+- 🚶 Automatically follows its owner
+- 🧲 Picks up nearby dropped items
+- 📦 Inventory accessible with right-click
+- 🎒 Can be picked up as an item using <kbd>Shift + Right Click</kbd>
+- 💾 Keeps its inventory, name, and state
 
-- **Wait Whistle** — **Alt + \`**  
-  Toggles **wait** for your nearby Luggages (within 8 blocks).  
-  While waiting, they visibly “sweat”. Press again to release them.
-
-> You can rebind these keys in the game controls menu.
-
----
-
-## 🔧 Tips
-
-- Use Luggage as a **mobile mining bag** so you waste less time managing drops.  
-- Convert it to an **item** when you need to move bases or keep it safe during travel.  
-- If it wanders off or gets stuck, **Call Whistle** to bring it back instantly (as long as it’s loaded).
+{% hint style="success" %}
+Unlike a regular chest, a Luggage keeps all of its data when picked up as an item.
+{% endhint %}
 
 ---
 
-## 📌 Summary
+# ⚡ Charged Luggage
 
-**Luggage** is a compact, reliable companion: it follows you, picks up loot, can be stowed as an item with all data preserved, and can be **charged** by lightning to double its storage. The whistle controls make handling multiple Luggages simple and efficient.
+When a Luggage is struck by lightning, it becomes a **Charged Luggage**.
+
+## Advantages
+
+- 📦 Doubled inventory capacity
+- ✨ Unique appearance
+
+{% hint style="warning" %}
+A lightning strike permanently transforms the Luggage into its charged version while keeping all stored contents.
+{% endhint %}
+
+---
+
+# 🎮 Controls
+
+## 📣 Recall Whistle
+
+**Key:** <kbd>`</kbd>
+
+Instantly recalls all your Luggages to your location.
+
+### Effects
+
+- Teleports all your Luggages near you
+- Only works if chunks are loaded
+- ⏳ Cooldown: **10 seconds**
+- 🚫 No items are collected during cooldown
+
+---
+
+## ⏸️ Wait Whistle
+
+**Keys:** <kbd>Alt</kbd> + <kbd>`</kbd>
+
+Orders nearby Luggages to stay in place.
+
+### Effects
+
+- Immobilizes Luggages within an **8-block radius**
+- Temporarily pauses following behavior
+- Press again to cancel the wait command
+
+---
+
+# 💡 Recommended Uses
+
+Luggages are especially useful for:
+
+- ⛏️ Increasing storage capacity while mining
+- 🌍 Carrying resources during long expeditions
+- 🔍 Easily finding a lost Luggage with the recall whistle
+- 🎒 Quickly packing up your storage as an item
+
+---
+
+{% hint style="info" %}
+## 📝 Tip
+
+Always keep at least one inventory slot free so you can quickly pick up your Luggage while traveling.
+{% endhint %}
