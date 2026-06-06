@@ -101,7 +101,7 @@ Eevee can learn **Mirror Shot** starting at **level 20**.
 
 ---
 
-# ☣️ Acidon
+# ☣️ Acideon
 
 ## 🧾 General Information
 
@@ -397,7 +397,7 @@ Eevee can learn **Mirror Shot** starting at **level 20**.
 
 ---
 
-# 🐉 Draceon
+# 🐉 Wyveon
 
 ## 🧾 General Information
 
@@ -416,7 +416,7 @@ Eevee can learn **Mirror Shot** starting at **level 20**.
 | 🌙 Sp. Defense | 65 |
 | ⚡ Speed | 60 |
 
-![Draceon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/wyveon.png) ![Draceon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/wyveon_shiny.png)
+![Wyveon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/wyveon.png) ![Wyveon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/wyveon_shiny.png)
 
 ---
 
@@ -442,11 +442,11 @@ Eevee can learn **Mirror Shot** starting at **level 20**.
 
 ## 📜 Description
 
-> The crystals on Draceon’s tail are actually hardened scales. When threatened, Draceon can launch these scales at enemies. Draceon is extremely territorial.
+> The crystals on Wyveon tail are actually hardened scales. When threatened, Draceon can launch these scales at enemies. Draceon is extremely territorial.
 
 ---
 
-# 🏮 Dungeoneon
+# 🏮 Dungeon
 
 ## 🧾 General Information
 
@@ -465,7 +465,7 @@ Eevee can learn **Mirror Shot** starting at **level 20**.
 | 🌙 Sp. Defense | 65 |
 | ⚡ Speed | 60 |
 
-![Dungeoneon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/dungeon.png) ![Dungeoneon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/dungeon_shiny.png)
+![Dungeon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/dungeon.png) ![Dungeon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/dungeon_shiny.png)
 
 ---
 
@@ -492,7 +492,7 @@ Eevee can learn **Mirror Shot** starting at **level 20**.
 
 ## 📜 Description
 
-> Dungeoneon roams deep within caves where some trainers never dare venture. The lantern hanging from its tail can be used as bait to attract Pokémon wandering in the darkness. When lonely, Dungeoneon sometimes carves stone statues that it considers its only companions. It is said that when the light of its lantern goes out… Dungeoneon is already dead.
+> Dungeon roams deep within caves where some trainers never dare venture. The lantern hanging from its tail can be used as bait to attract Pokémon wandering in the darkness. When lonely, Dungeon sometimes carves stone statues that it considers its only companions. It is said that when the light of its lantern goes out… Dungeon is already dead.
 
 ---
 
