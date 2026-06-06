@@ -20,7 +20,7 @@
 - [✨ Spawn improvements](pokemons-guides/wild-boost-mechanics.md)
 - [📘 Pokémon Workers guide](pokemons-guides/cobbleworkers-guide.md)
 - [🐎 Mount system](pokemons-guides/riding-system.md)
-   - [🧃 Aprijuice system](cobblemon-craft/aprijuice-guide.md)
+   - [🧃 Aprijuice system](cobblemon-craft/en_aprijuice-guide.md)
 - [🦜 Shoulder Pokémon](pokemons-guides/shoulder_mount_effects.md)
 - [🦴 Fossils](pokemons-guides/fossils.md)
 - [🗺️ Biome tag reference](pokemons-guides/biome-tags-reference.md)
