@@ -257,16 +257,19 @@ Displays:
 
 ---
 
-## 💡 Tips for Success
+{% hint style="success" %}
+## :bulb: Tips for Success :
 
-- 🧠 Rotate your team to avoid blocking XP with a single Pokémon.
-- 🎯 Prioritize trainer battles early to quickly unlock gyms and series.
-- 🗺 Check your Trainer Card often, especially for biome and dimension hints.
-- 📖 Keep an eye on the Advancements tab for hidden objectives.
+- :brain: Rotate your team to avoid blocking XP with a single Pokémon.
+- :dart: Prioritize trainer battles early to quickly unlock gyms and series.
+- :map: Check your Trainer Card often, especially for biome and dimension hints.
+- :book: Keep an eye on the Advancements tab for hidden objectives.
+- :speech_balloon: Besoin d'aide ? Rejoignez notre serveur [Discord](https://discord.gg/kb8NSTF45n).
+{% endhint %}
 
 ---
 
 ## ℹ️ Learn More
 
-- **Official Radical Trainers Documentation**: https://srcmc.gitlab.io/rct/docs/0.13/
-- **More Radical Trainers (Datapack)**: https://modrinth.com/datapack/more-radical-trainers
+- [**Official Radical Trainers Documentation**](https://srcmc.gitlab.io/rct/docs/0.13/)
+- [**More Radical Trainers (Datapack)**](https://modrinth.com/datapack/more-radical-trainers)
