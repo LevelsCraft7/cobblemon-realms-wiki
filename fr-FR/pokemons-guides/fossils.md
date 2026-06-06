@@ -1,6 +1,10 @@
 # 🦴 Fossiles
 
-Les **fossiles** sont des objets rares permettant de ressusciter des **Pokémon préhistoriques** dans Cobblemon. Ils encouragent l’exploration, la curiosité et la découverte de lieux anciens disséminés dans le monde.
+{% hint style="info" %}
+<p align="center">
+Les <strong>fossiles</strong> sont des objets rares permettant de ressusciter des <strong>Pokémon préhistoriques</strong> dans Cobblemon. Ils encouragent l’exploration, la curiosité et la découverte de lieux anciens disséminés dans le monde.
+</p>
+{% endhint %}
 
 Cette page détaille :
 
@@ -71,6 +75,12 @@ Chaque fossile est associé à des **environnements précis**, rendant certains 
 
 ⚠️ Depuis la **8ᵉ génération**, il est possible de **combiner deux fossiles hybrides** dans la machine de résurrection pour obtenir le Pokémon que vous souhaitez à coup sûr.
 
+{% hint style="success" %}
+<p align="center">
+Depuis la <strong>8ᵉ génération</strong>, il est possible de <strong>combiner deux fossiles hybrides</strong> dans la machine de résurrection pour obtenir le Pokémon que vous souhaitez à coup sûr.
+</p>
+{% endhint %}
+
 ---
 
 ## 🧪 Machine de résurrection
@@ -89,26 +99,25 @@ La **machine de résurrection** permet de redonner vie aux fossiles découverts.
 
 ---
 
+{% hint style="success" %}
 ## 💡 Conseils d’exploration
 
+<p align="center">
 - 🗺️ Variez les biomes explorés
 - 🌋 Les zones volcaniques et aquatiques sont très rentables
 - 🧭 Marquez les structures importantes
 - 🎯 Les fossiles hybrides offrent des choix stratégiques
+</p>
+{% endhint %}
 
 ---
 
+{% hint style="important" %}
 ## 📌 Notes importantes
 
+<p align="center">
 - ❗ Tous les fossiles ne donnent pas un Pokémon unique.
 - 🔧 Les taux d’apparition peuvent être ajustés.
 - 🦴 Certains fossiles sont volontairement rares.
-
----
-
-## 🔗 Voir aussi
-
-- 📘 Archéologie - _Bientôt disponible_
-- 🏛️ Structures - _Bientôt disponible_
-- 🌍 Biomes - _Bientôt disponible_
-- ⚙️ Machines - _Bientôt disponible_
+</p>
+{% endhint %}
