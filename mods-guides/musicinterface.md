@@ -1,18 +1,16 @@
-# Wiki - Creating a Music Pack for Music Interface
+# Wiki - Creating a Music Pack for Music Interface 🎵
 
-## Overview
+## 🎯 Goal
 
-This page explains how to create a resource pack compatible with **Music Interface** so players can add their own music to the mod.
-
-The mod reads music from a standard Minecraft resource pack, with a few specific files that must be provided.
+This page explains how to create a resource pack compatible with **Music Interface** to add your own music into Minecraft. The mod uses a standard Minecraft resource pack structure, with a few specific files that must be provided.
 
 ---
 
-## Minimum Pack Structure
+## 📦 Minimum Pack Structure
 
-Your pack should look like this:
+Your pack must follow this structure:
 
-```text
+```
 My Music Pack/
 |-- pack.mcmeta
 |-- pack.png                      <- optional, but recommended
@@ -22,33 +20,33 @@ My Music Pack/
         |-- sounds.json
         |-- sounds/
         |   \-- custom/
-        |       |-- my_first_track.ogg
-        |       \-- battle_theme.ogg
+        |       |-- my_first_music.ogg
+        |       \-- my_battle_theme.ogg
         \-- textures/
             \-- covers/
-                |-- my_first_track.png
-                \-- battle_theme.png
+                |-- my_first_music.png
+                \-- my_battle_theme.png
 ```
 
-The namespace used by the mod is **`musicinterface`**, so this folder name must match exactly.
+📌 The namespace used by the mod is **`musicinterface`** → this must be respected exactly.
 
 ---
 
-## Pack Location
+## 📁 Pack Location
 
-Place your pack inside:
+Place your pack folder inside:
 
-```text
+```
 .minecraft/resourcepacks/
 ```
 
 ---
 
-## 1. The `pack.mcmeta` File
+## ⚙️ 1. The `pack.mcmeta` File
 
 Simple example:
 
-```json
+```
 {
   "pack": {
     "pack_format": 34,
@@ -57,55 +55,56 @@ Simple example:
 }
 ```
 
-Notes:
+### 🧾 Notes
 
-- `pack_format` must match the Minecraft version targeted by the mod
-- if you are unsure, use the value that matches your Minecraft version
+- `pack_format` must match the targeted Minecraft version
+- If unsure, use the version matching your modpack
 
 ---
 
-## 2. Audio Files
+## 🎧 2. Audio Files
 
-Music files must be placed in:
+Music files must be placed here:
 
-```text
+```
 assets/musicinterface/sounds/custom/
 ```
 
 Example:
 
-```text
-assets/musicinterface/sounds/custom/my_first_track.ogg
+```
+assets/musicinterface/sounds/custom/my_first_music.ogg
 ```
 
-Recommendations:
+✅ Recommendations
 
-- use the **`.ogg`** format
-- avoid spaces and accented characters in file names
-- prefer simple names such as `battle_theme.ogg`, `route_01.ogg`, `legendary_theme.ogg`
+- Use the **`.ogg`** format
+- Avoid spaces and accents in file names
+- Prefer simple names such as:
+   - `legendary_theme.ogg`
+   - `battle_theme.ogg`
+   - `route_01.ogg`
 
 ---
 
-## 3. The `sounds.json` File
+## 🔊 3. The `sounds.json` File
 
-This file registers your sounds with Minecraft.
+This file registers sounds on the Minecraft side.
 
-Example:
-
-```json
+```
 {
-  "custom/my_first_track": {
+  "custom/my_first_music": {
     "sounds": [
       {
-        "name": "musicinterface:custom/my_first_track",
+        "name": "musicinterface:custom/my_first_music",
         "stream": true
       }
     ]
   },
-  "custom/battle_theme": {
+  "custom/my_battle_theme": {
     "sounds": [
       {
-        "name": "musicinterface:custom/battle_theme",
+        "name": "musicinterface:custom/my_battle_theme",
         "stream": true
       }
     ]
@@ -113,96 +112,94 @@ Example:
 }
 ```
 
-Important:
+📌 Important points
 
-- the key on the left must match the declared music entry
-- the `name` field must point to the correct audio file
-- for a file located at `sounds/custom/my_first_track.ogg`, the safe value is:
-  `musicinterface:custom/my_first_track`
-- keep `stream: true` for long music tracks
+- The key on the left must match the declared music entry
+- The `name` field must point to the correct audio file
+- For a file located at `sounds/custom/my_first_music.ogg`, the correct value is:
+  - `musicinterface:custom/my_first_music`
+- Keeping `stream: true` is recommended for long music tracks
 
 ---
 
-## 4. The `music_data.json` File
+## 🎼 4. The `music_data.json` File
 
-This is the file **Music Interface** reads to display and play tracks.
+This file is used by **Music Interface** to display music tracks in-game.
 
-Example:
-
-```json
+```
 [
   {
-    "id": "my_first_track",
-    "title": "My First Track",
+    "id": "my_first_music",
+    "title": "My First Music",
     "author": "Your Name",
     "album": "My Album",
-    "sound": "musicinterface:custom/my_first_track",
-    "cover": "musicinterface:textures/covers/my_first_track.png",
+    "sound": "musicinterface:custom/my_first_music",
+    "cover": "musicinterface:textures/covers/my_first_music.png",
     "enabled": true,
     "weight": 1
   },
   {
-    "id": "battle_theme",
-    "title": "Battle Theme",
+    "id": "my_battle_theme",
+    "title": "My Battle Theme",
     "author": "Your Name",
     "album": "My Album",
-    "sound": "musicinterface:custom/battle_theme",
-    "cover": "musicinterface:textures/covers/battle_theme.png",
+    "sound": "musicinterface:custom/my_battle_theme",
+    "cover": "musicinterface:textures/covers/my_battle_theme.png",
     "enabled": true,
     "weight": 1
   }
 ]
 ```
 
-### Field Reference
+### 🧩 Field Explanations
 
-- `id`: unique track identifier
-- `title`: track name shown in-game
-- `author`: artist / composer
-- `album`: album or collection name
-- `sound`: sound resource declared in `sounds.json`
-- `cover`: cover image resource
-- `duration`: displayed duration, free text
-- `enabled`: whether the track is enabled by default
-- `weight`: weighted value if the system randomly chooses between tracks
+- `id`: Unique identifier  
+- `title`: Displayed title in-game  
+- `author`: Author / Composer  
+- `album`: Album or collection  
+- `sound`: Sound resource declared in `sounds.json`  
+- `cover`: Cover image  
+- `duration`: Displayed duration, free text field  
+- `enabled`: Enables or disables the track by default  
+- `weight`: Selection weight if the system randomly chooses between multiple tracks  
 
-Tips:
+###### ⚠️ Reminder:
 
-- every `id` must be unique
-- every `sound` value must match a valid declared entry
-- if you do not want to manage duration, you can leave it as an empty string
+- Each `id` must be unique  
+- Each `sound` value must correspond to a valid entry  
+- If you do not want to manage duration, you can leave it as an empty string  
 
 ---
 
-## 5. Cover Images
+## 🖼️ 5. Covers
 
 Cover images must be placed here:
 
-```text
+```
 assets/musicinterface/textures/covers/
 ```
 
 Example:
 
-```text
-assets/musicinterface/textures/covers/my_first_track.png
+```
+assets/musicinterface/textures/covers/my_first_music.png
 ```
 
-Then reference them like this in `music_data.json`:
+Then reference them like this inside `music_data.json`:
 
-```json
-"cover": "musicinterface:textures/covers/my_first_track.png"
+```
+"cover": "musicinterface:textures/covers/my_first_music.png"
 ```
 
-If a cover is missing or invalid, the mod may fall back to a default image, but providing a cover for each track is strongly recommended.
+📌 If a cover is missing or invalid, the mod may use a fallback image, but it is **recommended** to **always** provide one.
 
 ---
 
-## Full Example Ready to Copy
+## 🧪 Complete Copy-Paste Example
 
-### Folder Structure
+### 📁 Folder Structure
 
-```text
+```
 My Music Pack/
 |-- pack.mcmeta
 \-- assets/
@@ -217,9 +214,9 @@ My Music Pack/
                 \-- route_01.png
 ```
 
-### `pack.mcmeta`
+### ⚙️ `pack.mcmeta`
 
-```json
+```
 {
   "pack": {
     "pack_format": 34,
@@ -228,9 +225,9 @@ My Music Pack/
 }
 ```
 
-### `sounds.json`
+### 🔊 `sounds.json`
 
-```json
+```
 {
   "custom/route_01": {
     "sounds": [
@@ -243,9 +240,9 @@ My Music Pack/
 }
 ```
 
-### `music_data.json`
+### 🎼 `music_data.json`
 
-```json
+```
 [
   {
     "id": "route_01",
@@ -262,79 +259,79 @@ My Music Pack/
 
 ---
 
-## Enabling the Pack In-Game
+## ▶️ Enable the Pack In-Game
 
 1. Place the pack inside the `resourcepacks` folder.
 2. Launch Minecraft with the mod installed.
-3. Enable the resource pack from the resource packs menu.
-4. Open the mod interface and verify that your tracks are listed.
+3. Enable the resource pack in the resource packs menu.
+4. Then check the mod interface to verify that the tracks appear correctly.
 
 ---
 
-## Common Issues
+## ⚠️ Common Errors
 
-### The music does not appear
+### 🎵 Music Does Not Appear
 
-Check that:
+Make sure:
 
-- `music_data.json` is located in `assets/musicinterface/`
+- `music_data.json` is correctly placed inside `assets/musicinterface/`
 - the JSON is valid
-- every `id` is unique
-- the pack is enabled in-game
+- the `id` is unique
+- the pack is **properly enabled** in-game
 
-### The music appears but does not play
+### 🔇 Music Appears but Does Not Play
 
-Check that:
+Make sure:
 
 - the `.ogg` file actually exists
-- the file name matches the entry in `sounds.json`
-- the `sound` field in `music_data.json` matches the declared sound entry
+- the filename exactly matches the entry in `sounds.json`
+- `sound` inside `music_data.json` correctly matches the declared entry
 
 Correct example:
 
-```json
+```
 "sound": "musicinterface:custom/route_01"
 ```
 
-### The cover does not show
+### 🖼️ Cover Does Not Display
 
-Check that:
+Make sure:
 
-- the image is located in `assets/musicinterface/textures/covers/`
+- the image is inside `assets/musicinterface/textures/covers/`
 - the path in `cover` is correct
 - the file is a `.png`
 
 ---
 
-## Best Practices
+## 🧠 Best Practices
 
-- keep file names lowercase
-- replace spaces with underscores `_`
-- use one cover image per track whenever possible
-- test with one track first before adding a full pack
-
----
-
-## Recommended Starting Point
-
-The easiest approach is to create a new pack folder, then add the following step by step:
-
-- the `pack.mcmeta` file
-- your `.ogg` audio files
-- the `sounds.json` file
-- the `music_data.json` file
-- your `.png` cover images
+- Keep filenames lowercase
+- Replace spaces with underscores `_`
+- Use one cover image per track whenever possible
+- Test with a single track first before adding many
 
 ---
 
-## Quick Summary
+## 🧱 Recommended Workflow
+
+The easiest approach is to create a new pack folder, then gradually add:
+
+- The `pack.mcmeta` file
+- Your `.ogg` audio files
+- The `sounds.json` file
+- The `music_data.json` file
+- Your `.png` cover images
+
+---
+
+## 🧾 Summary
 
 For a pack to work, you need at minimum:
 
-- a `pack.mcmeta`
-- one or more `.ogg` files
-- a `sounds.json`
-- a `music_data.json`
-- ideally one `.png` cover per track
+- One `pack.mcmeta`
+- One or more `.ogg` files
+- A `sounds.json`
+- A `music_data.json`
+- Ideally one `.png` image per track
 
 If you follow the structure and paths shown on this page, your pack will be compatible with **Music Interface**.
