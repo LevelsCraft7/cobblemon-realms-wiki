@@ -1,135 +1,194 @@
-# Mewtwo Exclusive Forms
+# 🧬 Exclusive Mewtwo Forms
 
-Mewtwo has access to several exclusive forms in Cobblemon Realms:
+## 🛡️ Armored Mewtwo
 
-- **Armored Mewtwo**
-- **Shadow Mewtwo**
-- **Shadow Mewtwo Mega X**
-- **Shadow Mewtwo Mega Y**
+### 🧾 General Information
 
----
-
-## Armored Mewtwo
-
-A defensive Psychic/Steel variant inspired by Mewtwo's armored appearance.
-
-### Details
-
-- **Stats**: HP 106 / Atk 130 / Def 110 / SpA 90 / SpD 154 / Spe 90
-- **Typing**: Psychic / Steel
-- **Ability**: Battle Armor
-
-### Added Moves
-
-Regular Mewtwo movepool plus:
-
-- Metal Claw
-- Iron Defense
-- Iron Head
-- Bullet Punch
-- Screech
-- Smart Strike
-- Flash Cannon
-- Iron Tail
-- Meteor Mash
-- Sunsteel Strike
-
-### How to Obtain
-
-Craft **Binding Armor** and use it on Mewtwo.
-
-- Right-click Mewtwo with the item to transform it.
-- Use the same item again to revert the form.
-
-### Notes
-
-- Armored Mewtwo can still Mega Evolve into the regular Mega Mewtwo X or Y forms.
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_acier.png) 
 
 ---
 
-## Shadow Mewtwo
+### 📊 Stats
 
-An offensive Psychic/Dark variant inspired by Pokken Tournament and related spin-off material.
+| Stat            | Value |
+| --------------- | ------ |
+| ❤️ HP           | 106      |
+| ⚔️ Attack       | 130     |
+| 🛡️ Defense      | 110    |
+| ✨ Sp. Attack   | 90    |
+| 🌙 Sp. Defense  | 154    |
+| ⚡ Speed        | 90     |
 
-### Details
-
-- **Stats**: roughly +20% Attack and Special Attack, with reduced Defense and Speed
-- **Typing**: Psychic / Dark
-- **Ability**: Shadow Boost or Neuroforce-style super-effective pressure, depending on the implementation used in your pack version
-
-### Added Moves
-
-Shadow Mewtwo may gain shadow-themed or dark offensive options such as:
-
-- Shadow Blast
-- Shadow Shed
-- Shadow Down
-- Shadow Storm
-- Dark Pulse
-- Night Slash
-- Sucker Punch
-- Nasty Plot
-
-### How to Obtain
-
-Craft **Shadow Energy** and use it on Mewtwo.
-
-- Right-click Mewtwo with **Shadow Energy** to transform it.
-- The transformation requires at least **250 friendship**.
-- Friendship resets after the transformation.
-- Use the item again to revert the form.
+![Armored Mewtwo](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/armored_mewtwo_update.png) ![Armored Mewtwo Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/armored_mewtwo_shiny_update.png)
 
 ---
 
-## Shadow Mewtwo Mega X
+### 🎯 Form Ability
 
-This is the Mega X evolution of Shadow Mewtwo.
-
-### Details
-
-- **Typing**: Dark / Fighting
-- Built for aggressive physical offense
-
-### How to Obtain
-
-- Craft or obtain **Shadow Mewtwonite X**
-- Equip it to **Shadow Mewtwo**
-
-If your pack recipe is enabled, it is crafted from:
-
-- **Dark Gem**
-- **Mewtwonite X**
-- **Dark Gem**
+- **Ability:** Battle Armor
 
 ---
 
-## Shadow Mewtwo Mega Y
+### 🔮 Item Crafting
 
-This is the Mega Y evolution of Shadow Mewtwo.
-
-### Details
-
-- **Typing**: Psychic / Dark
-- More focused on special pressure and fragile power
-
-### How to Obtain
-
-- Craft or obtain **Shadow Mewtwonite Y**
-- Equip it to **Shadow Mewtwo**
-
-If your pack recipe is enabled, it is crafted from:
-
-- **Dark Gem**
-- **Mewtwonite Y**
-- **Dark Gem**
+![Binding Armor Crafting Recipe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/binding_armor.png)
 
 ---
 
-## Summary
+### 🔄 Usage
 
-Mewtwo can be adapted to several playstyles:
+- 🖱️ Right-click Mewtwo with the `Binding Armor` item
+- ℹ️ The same item can be used to activate or cancel the transformation
 
-- **Armored Mewtwo** for a bulkier steel-themed build
-- **Shadow Mewtwo** for raw offensive pressure
-- **Shadow Mega X** for physical dark/fighting aggression
-- **Shadow Mega Y** for special dark psychic power
+---
+
+### 📜 Description
+
+> To limit its immense power, Mewtwo is equipped with armor designed to control and contain its psychic abilities.
+
+&#8203;
+&#8203;
+
+## 🕶️ Shadow Mewtwo
+
+### 🧾 General Information
+
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_shadow.png)
+
+---
+
+### 📊 Stats
+
+| Stat            | Value |
+| --------------- | ------ |
+| ❤️ HP           | 106      |
+| ⚔️ Attack       | 130     |
+| 🛡️ Defense      | 110    |
+| ✨ Sp. Attack   | 90    |
+| 🌙 Sp. Defense  | 154    |
+| ⚡ Speed        | 90     |
+
+![Shadow Mewtwo](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/shadow_mewtwo_update.png) ![Shadow Mewtwo Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/shawdow_mewtwo_shiny_update.png)
+
+---
+
+### 🎯 Form Ability
+
+- **Ability:** Neuroforce
+
+---
+
+### 🔮 Item Crafting
+
+![Shadow Energy Crafting Recipe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/shadow_energy_update2.png)
+
+---
+
+### 🔄 Usage
+
+- 🖱️ Right-click Mewtwo with the `Shadow Energy` item
+- ℹ️ The same item can be used to activate or cancel the transformation
+
+---
+
+### 📜 Description
+
+> Created by mankind and consumed by dark energy, Mewtwo loses control and becomes a destructive force driven by anger and suffering.
+
+&#8203;
+&#8203;
+
+## 🔥 Shadow Mewtwo - Mega X
+
+### 🧾 General Information
+
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_shadow.png)
+
+---
+
+### 📊 Stats
+
+| Stat            | Value |
+| --------------- | ------ |
+| ❤️ HP           | 106      |
+| ⚔️ Attack       | 190     |
+| 🛡️ Defense      | 100    |
+| ✨ Sp. Attack   | 154    |
+| 🌙 Sp. Defense  | 100    |
+| ⚡ Speed        | 130     |
+
+![Shadow Mewtwo Mega X](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/mewtwo_shadow_mega_x_update.png) ![Shadow Mewtwo Mega X Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/mewtwo_shadow_mega_x_shiny_udpate.png)
+
+---
+
+### 🎯 Form Ability
+
+- **Ability:** /
+
+---
+
+### 🔮 Item Crafting
+
+![Shadow Mewtwonite X Crafting Recipe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/shadow_mewtwonite_x.png)
+
+---
+
+### 🔄 Usage
+
+- 🖱️ Right-click Mewtwo with the `Shadow Mewtwonite X` item
+- ℹ️ The same item can be used to activate or cancel the transformation
+
+---
+
+### 📜 Description
+
+> A Mewtwo already corrupted by darkness that unleashes even more power through Mega Evolution, becoming an almost uncontrollable force.
+
+&#8203;
+&#8203;
+
+## 🌑 Shadow Mewtwo - Mega Y
+
+### 🧾 General Information
+
+- **Type:** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_shadow.png)
+
+---
+
+### 📊 Stats
+
+| Stat            | Value |
+| --------------- | ------ |
+| ❤️ HP           | 106      |
+| ⚔️ Attack       | 190     |
+| 🛡️ Defense      | 100    |
+| ✨ Sp. Attack   | 154    |
+| 🌙 Sp. Defense  | 100    |
+| ⚡ Speed        | 130     |
+
+![Shadow Mewtwo Mega Y](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/mewtwo_shadow_mega_y_update.png) ![Shadow Mewtwo Mega Y Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/mewtwo_shadow_mega_y_shiny.png)
+
+---
+
+### 🎯 Form Ability
+
+* **Ability:** /
+
+---
+
+### 🔮 Item Crafting
+
+![Shadow Mewtwonite Y Crafting Recipe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/shadow_mewtwonite_x.png)
+
+---
+
+### 🔄 Usage
+
+- 🖱️ Right-click Mewtwo with the `Shadow Mewtwonite Y` item
+- ℹ️ The same item can be used to activate or cancel the transformation
+
+---
+
+### 📜 Description
+
+> Corrupted by dark energy and amplified by Mega Evolution Y, Mewtwo reaches a terrifying level of psychic power, consumed by darkness.
