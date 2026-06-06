@@ -2,7 +2,7 @@
 
 ## 🧭 Navigation rapide
 
-<p align="center">
+## ✨ Toutes les générations disponible :
   
 - [Génération 1 - Kanto](https://our-story-network.gitbook.io/cr-wiki/cr-fr/myths-and-legends/myths-and-legends-legendaries/gen_1)
 - [Génération 2 - Johto](https://our-story-network.gitbook.io/cr-wiki/cr-fr/myths-and-legends/myths-and-legends-legendaries/gen_2)
@@ -13,4 +13,3 @@
 - [Génération 7 - Alola](https://our-story-network.gitbook.io/cr-wiki/cr-fr/myths-and-legends/myths-and-legends-legendaries/gen_7)
 - [Génération 8 - Galar/Hisui](https://our-story-network.gitbook.io/cr-wiki/cr-fr/myths-and-legends/myths-and-legends-legendaries/gen_8)
 - [Génération 9 - Paldea/Kitakami](https://our-story-network.gitbook.io/cr-wiki/cr-fr/myths-and-legends/myths-and-legends-legendaries/gen_9)
-</p>
