@@ -1,59 +1,94 @@
-# Welcome
+# 📜 Welcome to **Cobblemon Realms** ✨
 
-[Return to language selection](https://app.gitbook.com/s/MoNV72ip5YoBD0RvKQwp/)
+## 🌍 Welcome to **Cobblemon Realms** ✨
 
-**Cobblemon Realms** is a progression-focused modpack that blends Minecraft exploration, Pokemon collection, custom systems, and long-term adventure.
+{% hint style="info" %}
+<p align="center">
+<b>Cobblemon Realms</b> is a modpack focused on <b>progression</b>, <b>exploration</b>, <b>Pokémon collection</b>,
+<b>custom systems</b> and long-term adventure.
+</p>
+{% endhint %}
 
-This wiki is here to help you get set up quickly, understand the modpack's core mechanics, and find the right guide when you need it.
+This wiki has been designed to help you:
 
----
-
-## What You Will Find Here
-
-- installation and update help
-- first-step guidance for new players
-- Pokemon spawn and progression systems
-- trainer, quest, and multiplayer information
-- guides for exclusive forms, major mechanics, and supported mods
-
----
-
-## Recommended Starting Path
-
-If you are new to the modpack, start with these pages:
-
-1. [Installation Guide](installation.md)
-2. [First Steps](getting-started.md)
-3. [Frequently Asked Questions](faq.md)
-4. [Pokemon and Spawns](pokemon-and-spawns.md)
-5. [Level Cap and Trainers](pokemons-guides/levelcap-and-trainers.md)
-
-This path gives you the fastest overview of how Cobblemon Realms is meant to be played.
+- 🚀 Get started quickly
+- 🧭 Understand the core mechanics of the modpack
+- 📚 Easily find the guides you need
+- 🎯 Track your progression and discover all the content in the pack
 
 ---
 
-## Useful Sections
+## 📖 What you will find here
 
-- Want to understand progression? Read [Level Cap and Trainers](pokemons-guides/levelcap-and-trainers.md)
-- Looking for legendary or exclusive content? Visit [Myths and Legends](pokemons-guides/myths-and-legends-legendaries.md) and [Pokemon Exclusive Forms](pokemons-exclusives/mewtwo-exclusive-forms.md)
-- Playing with friends? Check [Multiplayer Servers](multiplayer-servers.md)
-- Tweaking performance or settings? Open [Settings](settings/optimize-solo-performance.md)
+### 🛠️ Installation & Configuration
 
----
-
-## Community and Contributions
-
-This documentation is community-driven and will keep improving over time.
-
-If you want to help:
-
-- fix unclear wording
-- improve guides
-- add missing information
-- contribute translations and corrections
-
-Start here: [Contributing](contributing.md)
+- 📦 Installation and update support
+- 🚀 Performance and smoothness optimization
+- ⚙️ Recommended settings and configurations
+- 🌐 Singleplayer and multiplayer setup
 
 ---
 
-Whether you are a new player or an experienced trainer, this wiki should give you a solid base to explore Cobblemon Realms with confidence.
+### 🧭 Progression & Adventure
+
+- 🏆 Custom progression systems
+- 🎯 Trainers, level caps and challenges
+- 📜 Quests, objectives and progression
+- ✨ Exclusive content and unique modpack mechanics
+
+---
+
+### 🌍 Exploration & Pokémon
+
+- 🌍 Pokémon spawns and behaviors
+- 🗺️ Biomes, dimensions and spawn conditions
+- ✨ Exclusive forms and special variants
+- 🏆 Legendaries, mythicals and unique mechanics
+
+---
+
+### 🧑‍🤝‍🧑 Multiplayer & Servers
+
+- 🌐 Joining a multiplayer server
+- 🖥️ Hosting your own world
+- 👥 Tips for communities and groups
+- ⚙️ Server compatibility, configuration and performance
+
+---
+
+### 🚀 Where to start?
+
+If you are new to the modpack, we recommend following this order:
+
+1. 📦 [Installation guide](installation.md)
+2. 🧭 [Getting started](getting-started.md)
+3. ❓ [FAQ](faq.md)
+4. 🌍 [Pokémon and spawns](pokemon-and-spawns.md)
+5. 🏆 [Level cap and trainers](pokemons-guides/levelcap-and-trainers.md)
+
+{% hint style="info" %}
+💡 This path gives you a quick overview of how Cobblemon Realms is designed.
+{% endhint %}
+
+---
+
+## 🤝 Community & Contributions
+
+📌 This documentation is collaborative and will continue to evolve over time.
+
+You can contribute by:
+
+- ✏️ Fixing wording or phrasing
+- 📖 Improving existing guides
+- ➕ Adding missing information
+- 🌍 Suggesting corrections or translations
+
+{% hint style="info" %}
+👉🏼 Start here to: <a href="contributing.md">Contribute</a>
+{% endhint %}
+
+---
+
+## ✨ Have a great journey in Cobblemon Realms
+
+Whether you are a beginner or an experienced trainer, this wiki will give you a clear foundation to fully enjoy the **Cobblemon Realms** experience.
