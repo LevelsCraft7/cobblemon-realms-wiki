@@ -1,7 +1,5 @@
 # ⚡ Motisma - Formes
 
-Motisma peut changer de forme en possédant différents appareils.
-
 ---
 
 ## 📍 Localisation
@@ -48,6 +46,8 @@ Motisma peut changer de forme en possédant différents appareils.
 | 🌙 Défense Spé. | 107 |
 | ⚡ Vitesse | 86 |
 
+![Motisma Tonde](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_mow.png) ![Motisma Tonde Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_mow_shiny.png) 
+
 ---
 
 ## 🎯 Talent de la forme
@@ -65,10 +65,6 @@ Motisma peut changer de forme en possédant différents appareils.
 ## 📜 Description
 
 > Sous cette forme, Motisma adore utiliser les plantes pour faire des bêtises, comme arracher les fleurs cultivées avec amour.
-
----
-
-![Motisma Tonde](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_mow.png) ![Motisma Tonde Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_mow_shiny.png) 
 
 ---
 
@@ -91,6 +87,8 @@ Motisma peut changer de forme en possédant différents appareils.
 | 🌙 Défense Spé. | 107 |
 | ⚡ Vitesse | 86 |
 
+![Motisma Chaleur](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_heat.png) ![Motisma Chaleur Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_heat_shiny.png) 
+
 ---
 
 ## 🎯 Talents
@@ -108,10 +106,6 @@ Motisma peut changer de forme en possédant différents appareils.
 ## 📜 Description
 
 > Sous cette forme, Motisma adore utiliser la chaleur pour faire des bêtises, comme brûler les vêtements favoris des gens.
-
----
-
-![Motisma Chaleur](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_heat.png) ![Motisma Chaleur Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_heat_shiny.png) 
 
 ---
 
@@ -134,6 +128,8 @@ Motisma peut changer de forme en possédant différents appareils.
 | 🌙 Défense Spé. | 107 |
 | ⚡ Vitesse | 86 |
 
+![Motisma Froid](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_frost.png) ![Motisma Froid Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_frost_shiny.png) 
+
 ---
 
 ## 🎯 Talents
@@ -151,10 +147,6 @@ Motisma peut changer de forme en possédant différents appareils.
 ## 📜 Description
 
 > Sous cette forme, Motisma adore utiliser l’air froid pour faire des bêtises, comme geler le bain chaud d’une personne avant qu’elle n’y mette le pied.
-
----
-
-![Motisma Froid](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_frost.png) ![Motisma Froid Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_frost_shiny.png) 
 
 ---
 
@@ -177,6 +169,8 @@ Motisma peut changer de forme en possédant différents appareils.
 | 🌙 Défense Spé. | 107 |
 | ⚡ Vitesse | 86 |
 
+![Motisma Lavage](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_wash.png) ![Motisma Lavage Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_wash_shiny.png) 
+
 ---
 
 ## 🎯 Talents
@@ -194,10 +188,6 @@ Motisma peut changer de forme en possédant différents appareils.
 ## 📜 Description
 
 > Sous cette forme, Motisma adore utiliser de l’eau pour faire des bêtises, comme complètement inonder les pièces à vivre.
-
----
-
-![Motisma Lavage](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_wash.png) ![Motisma Lavage Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_wash_shiny.png) 
 
 ---
 
@@ -220,6 +210,8 @@ Motisma peut changer de forme en possédant différents appareils.
 | 🌙 Défense Spé. | 107 |
 | ⚡ Vitesse | 86 |
 
+![Motisma Hélice](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_fan.png) ![Motisma Hélice Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_fan_shiny.png) 
+
 ---
 
 ## 🎯 Talents
@@ -240,11 +232,9 @@ Motisma peut changer de forme en possédant différents appareils.
 
 ---
 
-![Motisma Hélice](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_fan.png) ![Motisma Hélice Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/rotom_fan_shiny.png) 
-
----
-
+{% hint style="info" %}
 ## 📝 Notes
 
 - Les formes dépendent de l’appareil ciblé
 - Motisma conserve ses stats de base
+{% endhint %}
