@@ -410,10 +410,12 @@ The Baby Legends addon introduces baby forms of Legendary Pokémon into Cobblemo
 
 ---
 
-## 🧠 Gameplay Notes
+{% hint style="info" %}
+## 📝 Gameplay Notes
 
-- Friendship is central to many evolutions  
-- Weather conditions are very important  
-- Many evolutions require specific items  
-- Capture rates are generally low  
-- Exploring multiple biomes is highly encouraged
+- 💞 Friendship plays a central role in several evolutions  
+- ⛈️ Weather conditions are very important  
+- 🔮 Many evolutions require specific items  
+- 🎯 Capture rates are generally low  
+- 🧭 Multi-biome exploration is strongly encouraged  
+{% endhint %}
