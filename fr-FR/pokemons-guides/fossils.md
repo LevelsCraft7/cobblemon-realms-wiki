@@ -89,11 +89,32 @@ La **machine de résurrection** permet de redonner vie aux fossiles découverts.
 
 🛠️ Étapes :
 
-1. Ouvrez l’interface de la machine
-2. Insérez le fossile
-3. Fournissez l’énergie requise
-4. Lancez la procédure
-5. Récupérez le Pokémon
+{% stepper %}
+{% step %}
+### Ouvrez l'interface de la machine
+Interagissez avec la machine pour accéder à son interface.
+{% endstep %}
+
+{% step %}
+### Insérez le fossile
+Placez le fossile de votre choix dans l'emplacement prévu.
+{% endstep %}
+
+{% step %}
+### Fournissez l'énergie requise
+Assurez-vous que la machine dispose de suffisamment d'énergie pour fonctionner.
+{% endstep %}
+
+{% step %}
+### Lancez la procédure
+Démarrez le processus de restauration du fossile.
+{% endstep %}
+
+{% step %}
+### Récupérez le Pokémon
+Une fois la procédure terminée, récupérez votre Pokémon restauré.
+{% endstep %}
+{% endstepper %}
 
 > ⏳ Le temps de traitement est de 10 minutes.
 
