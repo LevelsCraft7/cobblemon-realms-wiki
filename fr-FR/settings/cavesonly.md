@@ -1,84 +1,45 @@
-# 👹 Désactiver la restriction des mobs hostiles aux grottes
+# 👹 Désactiver la restriction des mobs hostiles
 
-Dans **Cobblemon Realms**, les mobs hostiles sont principalement limités aux grottes grâce au mod **In Control!**.
-
-Si vous souhaitez retrouver un comportement plus proche de **Minecraft vanilla**, avec des monstres apparaissant normalement en surface, vous pouvez désactiver cette restriction en retirant simplement le mod concerné.
+{% hint style="info" %}
+Par défaut, Cobblemon Realms limite l'apparition des mobs hostiles principalement aux grottes grâce au mod <strong>In Control!</strong>. Si vous souhaitez retrouver un comportement plus proche de Minecraft vanilla, il suffit de retirer ce mod.
+{% endhint %}
 
 ---
 
 # ⚙️ Étapes à suivre
 
-## 📂 1. Ouvrir le dossier du modpack
+1. Ouvrez le dossier `mods` de votre installation Cobblemon Realms.
+2. Recherchez le fichier `InControl-*.jar`.
+3. Supprimez-le.
+4. Redémarrez Minecraft.
 
-Accédez au dossier : `mods` de votre installation **Cobblemon Realms**.
-
----
-
-## 🔎 2. Trouver le mod concerné
-
-Repérez le fichier correspondant à : **In Control!**
-
-Le fichier ressemble généralement à : `InControl-*.jar`
+{% hint style="success" %}
+Les mobs hostiles réapparaîtront alors normalement à la surface, comme dans Minecraft vanilla.
+{% endhint %}
 
 ---
 
-## 🗑️ 3. Supprimer le mod
+# 📌 Conséquences
 
-Supprimez simplement le fichier : `InControl-*.jar`
-
----
-
-## 🔄 4. Redémarrer le jeu
-
-Relancez Minecraft.
-
-Les mobs hostiles réapparaîtront alors selon le comportement classique du jeu.
+| Changement | Impact |
+|---|---|
+| 🌙 Apparitions en surface | Les monstres peuvent de nouveau apparaître la nuit |
+| ⚔️ Difficulté | Les nuits deviennent plus dangereuses |
+| 🏞️ Exploration | Le gameplay se rapproche davantage du vanilla |
+| 👹 Population hostile | Davantage de mobs apparaissent globalement |
 
 ---
 
-# 📌 Ce que cela change
+# ⚠️ Important
 
-Une fois le mod retiré :
+{% hint style="warning" %}
+### 🌐 Sur un serveur
 
-| ✅ Comportement |
-|---|
-| 🌙 Les mobs hostiles peuvent réapparaître en surface |
-| 🌧️ Les nuits deviennent plus dangereuses |
-| ⚔️ Le gameplay se rapproche du vanilla |
-| 👹 Beaucoup plus de monstres apparaîtront globalement |
+Cette modification doit être effectuée côté serveur. Supprimer le mod uniquement côté client n'aura aucun effet sur les apparitions de mobs.
+{% endhint %}
 
----
+{% hint style="danger" %}
+## ⚖️ Équilibrage du modpack
 
-# ⚠️ À savoir
-
-## 🎮 En solo
-
-Ce changement est entièrement local.
-
-➡️ Il affecte uniquement votre propre partie.
-
----
-
-## 🌐 En serveur
-
-Pour que cela fonctionne réellement :
-
-- la modification doit être faite **côté serveur**
-- retirer le mod uniquement côté client ne suffit pas
-
----
-
-# ⚖️ Impact sur l’équilibrage
-
-Le modpack est conçu autour de cette limitation.
-
-Retirer **In Control!** peut donc :
-
-- Augmenter fortement la difficulté
-- Rendre les nuits beaucoup plus agressives
-- Modifier l’exploration de surface
-- Augmenter le nombre global de mobs hostiles
-
----
-
-> 💡 Recommandé uniquement si vous souhaitez une expérience plus proche du Minecraft vanilla classique.
+Cobblemon Realms a été conçu autour de cette limitation. Retirer <strong>In Control!</strong> peut augmenter sensiblement la difficulté et modifier l'expérience d'exploration.
+{% endhint %}
