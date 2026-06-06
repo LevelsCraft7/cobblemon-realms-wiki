@@ -51,7 +51,7 @@ L'accès à The Otherside nécessite de vaincre ou d'affronter le Warden afin d'
 - 🧭 Moyens de repérage
 - 👁️ Warden Helmet recommandé
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 Le danger ne provient pas uniquement des créatures. L'obscurité, le relief et la difficulté à s'orienter rendent The Otherside particulièrement hostile aux joueurs mal préparés.
 {% endhint %}
 
