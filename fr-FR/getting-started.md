@@ -87,8 +87,10 @@ Les quêtes permettent notamment de :
 
 ---
 
+{% hint style="success" %}
 ## 🧠 Astuce
 
-Prenez votre temps
-
+<p align="center">
 Cobblemon Realms est pensé pour une progression sur le long terme, avec beaucoup d’exploration, de découverte et d’objectifs à débloquer progressivement.
+</p>
+{% endhint %}
