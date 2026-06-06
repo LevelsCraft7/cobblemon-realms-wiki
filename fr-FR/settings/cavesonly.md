@@ -1,4 +1,4 @@
-# 👹 Désactiver la restriction des mobs hostiles
+
 
 {% hint style="info" %}
 <p align="center">
