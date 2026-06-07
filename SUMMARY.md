@@ -54,7 +54,7 @@
 - [🔌 Rotom Appliance Forms](pokemons-exclusives/rotom-forms.md)
 - [🌀 Therian Forms](pokemons-exclusives/therian-forms.md)
 
-## Cosmétiques Pokémon
+## Pokémon Cosmetics
 
 - [✂️ Furfrou Hairstyles](pokemons-exclusives/cosmetics/furfrou-trims.md)
 - [🕶️ Item Cosmetics](pokemons-exclusives/cosmetics/item-cosmetics.md)
