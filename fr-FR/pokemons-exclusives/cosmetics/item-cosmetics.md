@@ -6,6 +6,12 @@ Ces modifications cosmétiques consistent à équiper un accessoire dans l’emp
 </p>
 {% endhint %}
 
+{% hint style="warning" %}
+<p align="center">
+Les différents craft seront bientôt disponible !
+</p>
+{% endhint %}
+
 ---
 
 ## 🕶️ Les lunettes de Carapuce, Carabaffe et Tortank
