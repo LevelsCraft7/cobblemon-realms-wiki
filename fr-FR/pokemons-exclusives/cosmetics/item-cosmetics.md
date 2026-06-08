@@ -55,6 +55,8 @@ Ces modifications cosmétiques consistent à équiper un accessoire dans l’emp
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/raichu/raichu_detective_cap.png) | Donne à Raichu une casquette marron de type **deerstalker** (casquette de détective). Basé sur l’apparence de Détective Pikachu dans la série dérivée *Détective Pikachu* ainsi que dans le film du même nom. |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/raichu/raichu_hair_cut.png) | Donne à Raichu une petite mèche de cheveux dépassant du haut de son front. Basé sur l’apparence du Pikachu de Régis, nommé **Sparky**, dans la série animée Pokémon, apparaissant pour la première fois dans l’épisode 78 de la série originale, intitulé *Un ami qui vous veut du bien* (*A Friend In Deed*). |
 
+---
+
 ## 🖍️ Rondoudou, Alakazam et Ectoplasma
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
@@ -63,6 +65,8 @@ Ces modifications cosmétiques consistent à équiper un accessoire dans l’emp
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/alakazam_ancient.png) |Donne à Alakazam des marques noires autour de son corps. Basé sur l’apparence du gigantesque Alakazam antique apparaissant dans l’épisode 72 de la série animée Pokémon originale, intitulé *L’énigme antique de Pokémopolis* (*The Ancient Puzzle of Pokémopolis*). |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gengar_ancient.png) | Donne à Ectoplasma des marques vertes autour de son corps. Basé sur l’apparence du gigantesque Ectoplasma antique apparaissant dans l’épisode 72 de la série animée Pokémon originale, intitulé *L’énigme antique de Pokémopolis* (*The Ancient Puzzle of Pokémopolis*). |
 
+---
+
 ## 🍉 Électrode en pasthèque
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
@@ -70,11 +74,15 @@ Ces modifications cosmétiques consistent à équiper un accessoire dans l’emp
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/electrode_melon.png) | Transforme Électrode afin qu’il ressemble à un melon. Basé sur l’apparence de l’Électrode de Natasha apparaissant dans l’épisode 41 de la série animée Pokémon *Rubis et Saphir*, intitulé *On récolte ce que l’on sème* (*What You Seed Is What You Get*). |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/electrode_minecraft_melon.png) | Transforme Électrode afin qu’il ressemble à une pastèque de Minecraft. En plus de son inspiration venant de Minecraft, il est également basé sur l’apparence de l’Électrode de Natasha apparaissant dans l’épisode 41 de la série animée Pokémon *Rubis et Saphir*, intitulé *On récolte ce que l’on sème* (*What You Seed Is What You Get*). |
 
+---
+
 ## ✉️ Dracolosse le facteur
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/dragonite_messenger.png) | Donne à Dracolosse un sac de livraison marron porté grâce à une sangle passant sur son épaule droite. Basé sur l’apparence du Dracolosse apparaissant dans le film Pokémon *Mewtwo contre-attaque*. |
+
+---
 
 ## 🧢 Les casquettes de Pichu
 
@@ -93,11 +101,17 @@ Ces modifications cosmétiques consistent à équiper un accessoire dans l’emp
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/pichu/pichu_ukulele.png) | Donne à Pichu un ukulélé cyan et jaune avec des bordures marron, porté grâce à une sangle verte autour de ses épaules. Basé sur l’apparence de Pichu Ukulélé, le Pokémon partenaire du joueur dans le jeu dérivé *Pokémon Ranger : Sillages de Lumière*. |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/pichu/pichu_hair_cut.png) | Donne à Pichu une petite mèche de cheveux dépassant du haut de son front. Basé sur l’apparence du Grand Pichu des Frères Pichu dans la série animée Pokémon, apparaissant pour la première fois dans le septième court-métrage Pikachu, intitulé *Pikachu & Pichu*. |
 
+---
+
 ## 🪙 Simularbre doré
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/sudowoodo_golden.png) | Transforme Simularbre afin qu’il devienne entièrement doré. Basé sur l’apparence de Simularbre apparaissant dans l’épisode 173 de la série animée Pokémon *Rubis et Saphir*, intitulé *Tout ce qui brille n’est pas or !* (*All That Glitters Is Not Golden!*). |
+
+---
+
+## 🌿 Brindille d'Arcko, Massko et Jungko
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
@@ -105,11 +119,15 @@ Ces modifications cosmétiques consistent à équiper un accessoire dans l’emp
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/grovyle_twig.png) | Donne à Massko une petite brindille avec une minuscule branche, tenue dans sa bouche. Basé sur l’apparence du Massko de Sacha dans la série animée Pokémon. |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/sceptile_twig.png) | Donne à Jungko une petite brindille avec une minuscule branche, tenue dans sa bouche. Basé sur l’apparence du Jungko de Sacha dans la série animée Pokémon. |
 
+---
+
 ## 🦪 Spoink Perle de l'Ender
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/spoink_ender_pearl.png) | Remplace la perle de Spoink par une Perle de l'Ender provenant de Minecraft. |
+
+---
 
 ## 🪵 Les bûches de Charpenti, Ouvrifier et Bétochef
 
@@ -119,6 +137,8 @@ Ces modifications cosmétiques consistent à équiper un accessoire dans l’emp
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/gurdurr_metal.gif) | Transforme la poutre portée par Ouvrifier afin qu’elle ressemble au métal Minecraft donné. |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/conkeldurr_pillars.gif) | Transforme les piliers portés par Bétochef afin qu’ils prennent la couleur du béton Minecraft donné. |
 
+---
+
 ## 🕶️ Les lunettes de Mascaïman, Escroco et Crocrorible
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
@@ -127,6 +147,8 @@ Ces modifications cosmétiques consistent à équiper un accessoire dans l’emp
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/krokorok_sunglasses.png) | Donne à Escroco une paire de lunettes de soleil rouges. Basé sur l’apparence de l’Escroco de Sacha dans la série animée Pokémon. |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/krookodile_sunglasses.png) | Donne à Crocorible une paire de lunettes de soleil rouges. Basé sur l’apparence du Crocorible de Sacha dans la série animée Pokémon. |
 
+---
+
 ## 🎀 Les rubans de Roussil et Goupelin
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
@@ -134,11 +156,15 @@ Ces modifications cosmétiques consistent à équiper un accessoire dans l’emp
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/braixen_ribbon.png) | Donne à Roussil un ruban rouge sur son bâton. Basé sur l’apparence du Roussil de Serena dans la série animée Pokémon *XY*, où le bâton orné d’un ruban apparaît pour la première fois dans l’épisode 85, intitulé *Réparer un esprit brisé !* (*Mending a Broken Spirit!*). |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/delphox_ribbon.png) | Donne à Goupelin un ruban rouge sur son bâton. Basé sur l’apparence du Goupelin de Serena dans la série animée Pokémon *Les Voyages Pokémon*. Le bâton orné d’un ruban apparaît initialement lorsque Serena possède encore un Roussil, dans l’épisode 85 de la série *XY*, intitulé *Réparer un esprit brisé !* (*Mending a Broken Spirit!*). Plus précisément, le Goupelin de Serena apparaît pour la première fois dans l’épisode 105 de *Les Voyages Pokémon*, intitulé *Des retrouvailles pour la première fois !* (*Reuniting for the First Time!*). |
 
+---
+
 ## 🟢 Le masque vert de Brutalibré
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/hawlucha_masked.png) | Donne à Brutalibré un masque vert par-dessus son masque habituel. Basé sur l’apparence du Brutalibré de Sacha lors de sa première apparition dans la série animée Pokémon *XY*, apparaissant pour la première fois dans l’épisode 35, intitulé *Le champion de la forêt !* (*The Forest Champion!*). |
+
+---
 
 ## 🪵 Les bûches de Dodoala
 
@@ -146,11 +172,15 @@ Ces modifications cosmétiques consistent à équiper un accessoire dans l’emp
 | :---: | :---: | :---: |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/komala_log.gif) | Transforme la bûche portée par Dodoala afin qu’elle ressemble à la bûche Minecraft donnée. |
 
+---
+
 ## 🧺 Le panier de Farfurex
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/sneasler.gif) | Donne à Farfurex un panier en osier porté sur son dos. Monter un Farfurex avec ce cosmétique fera entrer le joueur dans le panier, laissant uniquement ses yeux dépasser du petit trou. Basé sur le Pokémon de monte Farfurex de *Pokémon Legends: Arceus*. |
+
+---
 
 ## 🎤 Le microphone de Forgerette, Forgella et Forgelina
 
@@ -159,6 +189,8 @@ Ces modifications cosmétiques consistent à équiper un accessoire dans l’emp
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/tinkatink_microphone.png) | Donne à Forgerette un microphone rose à la place de sa masse habituelle. Basé sur l’apparence de la Forgerette de Dot dans la série animée Pokémon *Horizons*, apparaissant pour la première fois dans l’épisode 39, intitulé *Le marteau idéal de Forgerette* (*Tinkatink's Ideal Hammer*). |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/tinkatuff_microphone.png) | Donne au marteau de Forgella une poignée en forme de microphone rose ainsi qu’un écusson rose en forme de croix sur le côté de la tête du marteau. Basé sur l’apparence de la Forgella de Dot dans la série animée Pokémon *Horizons*, apparaissant pour la première fois dans l’épisode 70, intitulé *Le marteau de Forgerette ne s’est pas fait en un jour* (*Tinkatink's Hammer Wasn't Made in a Day*). |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/tinkaton_microphone.png) | Donne au marteau de Forgelina des accents roses sur l’ensemble de sa surface, avec un microphone intégré au centre de la tête du marteau, visible à travers le trou sur le côté, remplaçant la forme cubique habituelle. Basé sur l’apparence de la Forgelina de Dot dans la série animée Pokémon *Horizons*, apparaissant pour la première fois dans l’épisode 109, intitulé *Le marteau de Forgella ne s’est pas fait en un an !* (*Tinkatuff's Hammer Wasn't Made in a Year!*). |
+
+---
 
 ## 🧰 Le coffre doré de Mordudor et Gromago
 
