@@ -40,6 +40,16 @@ Ces modifications cosmétiques consistent à équiper un accessoire dans l’emp
 
 ---
 
+## 🕶️ Les lunettes de Mascaïman, Escroco et Crocrorible
+
+| 📋 Prérequis | 🖼️ Forme | 📝 Description |
+| :---: | :---: | :---: |
+| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/sandile_sunglasses.png) | Donne à Mascaïman une paire de lunettes de soleil rouges. Basé sur l’apparence du Mascaïman de Sacha dans la série animée Pokémon. |
+| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/krokorok_sunglasses.png) | Donne à Escroco une paire de lunettes de soleil rouges. Basé sur l’apparence de l’Escroco de Sacha dans la série animée Pokémon. |
+| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/krookodile_sunglasses.png) | Donne à Crocorible une paire de lunettes de soleil rouges. Basé sur l’apparence du Crocorible de Sacha dans la série animée Pokémon. |
+
+---
+
 ## 🧢 Les casquettes de Pikachu
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
@@ -136,16 +146,6 @@ Ces modifications cosmétiques consistent à équiper un accessoire dans l’emp
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/timburr_log.gif) | Transforme la bûche portée par Charpenti afin qu’elle ressemble à la bûche Minecraft donnée. |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/gurdurr_metal.gif) | Transforme la poutre portée par Ouvrifier afin qu’elle ressemble au métal Minecraft donné. |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/conkeldurr_pillars.gif) | Transforme les piliers portés par Bétochef afin qu’ils prennent la couleur du béton Minecraft donné. |
-
----
-
-## 🕶️ Les lunettes de Mascaïman, Escroco et Crocrorible
-
-| 📋 Prérequis | 🖼️ Forme | 📝 Description |
-| :---: | :---: | :---: |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/sandile_sunglasses.png) | Donne à Mascaïman une paire de lunettes de soleil rouges. Basé sur l’apparence du Mascaïman de Sacha dans la série animée Pokémon. |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/krokorok_sunglasses.png) | Donne à Escroco une paire de lunettes de soleil rouges. Basé sur l’apparence de l’Escroco de Sacha dans la série animée Pokémon. |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/krookodile_sunglasses.png) | Donne à Crocorible une paire de lunettes de soleil rouges. Basé sur l’apparence du Crocorible de Sacha dans la série animée Pokémon. |
 
 ---
 
