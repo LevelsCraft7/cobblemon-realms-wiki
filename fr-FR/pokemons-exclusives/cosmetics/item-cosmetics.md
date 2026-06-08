@@ -149,6 +149,14 @@ Ces modifications cosmétiques consistent à équiper un accessoire dans l’emp
 
 ---
 
+## 🪵 Les bûches de Dodoala
+
+| 📋 Prérequis | 🖼️ Forme | 📝 Description |
+| :---: | :---: | :---: |
+| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/komala_log.gif) | Transforme la bûche portée par Dodoala afin qu’elle ressemble à la bûche Minecraft donnée. |
+
+---
+
 ## 🎀 Les rubans de Roussil et Goupelin
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
@@ -163,14 +171,6 @@ Ces modifications cosmétiques consistent à équiper un accessoire dans l’emp
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
 | | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/hawlucha_masked.png) | Donne à Brutalibré un masque vert par-dessus son masque habituel. Basé sur l’apparence du Brutalibré de Sacha lors de sa première apparition dans la série animée Pokémon *XY*, apparaissant pour la première fois dans l’épisode 35, intitulé *Le champion de la forêt !* (*The Forest Champion!*). |
-
----
-
-## 🪵 Les bûches de Dodoala
-
-| 📋 Prérequis | 🖼️ Forme | 📝 Description |
-| :---: | :---: | :---: |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/komala_log.gif) | Transforme la bûche portée par Dodoala afin qu’elle ressemble à la bûche Minecraft donnée. |
 
 ---
 
