@@ -41,3 +41,13 @@ Couafarel peut changer de coupe afin d'adopter différentes apparences !
 | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/coupe_couafarel/couafarel_dandy.png) | Dandy | Vert clair | Coiffe Furfrou d'un haut-de-forme et d'une queue rectangulaire à plusieurs niveaux, avec des reflets vert citron. |
 
 > 💡 La coupe **Naturelle** est la forme par défaut de Couafarel.
+
+---
+
+{% hint style="success" %}
+## Nous contactez
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
