@@ -594,3 +594,13 @@ Eevee can learn **Mirror Shot** starting at **level 20**.
 ## 📜 Description
 
 > When an Eevee delays evolving for too long, its DNA naturally stabilizes, allowing it to develop greater endurance and enhanced combat abilities. Scientists originally nicknamed it "Eeveeon" as a joke, but the name eventually became official after multiple specimens began appearing.
+
+---
+
+{% hint style="success" %}
+## Contact Us
+
+<p align="center">
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
+</p>
+{% endhint %}
