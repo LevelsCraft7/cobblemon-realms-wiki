@@ -461,3 +461,13 @@ Statistics are shown by mount type and come directly from the official Cobblemon
  
 Some Pokémon, mount styles, and statistics may be added, modified, or removed over time as the mod receives updates. Therefore, we are not responsible for changes made by Cobblemon itself.
 {% endhint %}
+
+---
+
+{% hint style="success" %}
+## Contact Us
+
+<p align="center">
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
+</p>
+{% endhint %}
