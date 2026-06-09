@@ -141,7 +141,7 @@ Les différents craft seront bientôt disponible !
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
-| ![](https://minecraft.wiki/images/Ender_Pearl_JE3_BE2.png)*Perle de l'Ender | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/spoink_ender_pearl.png) | Remplace la perle de Spoink par une Perle de l'Ender provenant de Minecraft. |
+| ![](https://minecraft.wiki/images/Ender_Pearl_JE3_BE2.png)*Perle de l'Ender* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/spoink_ender_pearl.png) | Remplace la perle de Spoink par une Perle de l'Ender provenant de Minecraft. |
 
 ---
 
@@ -176,7 +176,7 @@ Les différents craft seront bientôt disponible !
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/hawlucha_masked.png) | Donne à Brutalibré un masque vert par-dessus son masque habituel. Basé sur l’apparence du Brutalibré de Sacha lors de sa première apparition dans la série animée Pokémon *XY*, apparaissant pour la première fois dans l’épisode 35, intitulé *Le champion de la forêt !* (*The Forest Champion!*). |
+| *N'importe quelle feuilles* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/hawlucha_masked.png) | Donne à Brutalibré un masque vert par-dessus son masque habituel. Basé sur l’apparence du Brutalibré de Sacha lors de sa première apparition dans la série animée Pokémon *XY*, apparaissant pour la première fois dans l’épisode 35, intitulé *Le champion de la forêt !* (*The Forest Champion!*). |
 
 ---
 
@@ -184,7 +184,7 @@ Les différents craft seront bientôt disponible !
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/sneasler.gif) | Donne à Farfurex un panier en osier porté sur son dos. Monter un Farfurex avec ce cosmétique fera entrer le joueur dans le panier, laissant uniquement ses yeux dépasser du petit trou. Basé sur le Pokémon de monte Farfurex de *Pokémon Legends: Arceus*. |
+| ![](https://minecraft.wiki/images/Composter_JE1.png)*Composteur* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/sneasler.gif) | Donne à Farfurex un panier en osier porté sur son dos. Monter un Farfurex avec ce cosmétique fera entrer le joueur dans le panier, laissant uniquement ses yeux dépasser du petit trou. Basé sur le Pokémon de monte Farfurex de *Pokémon Legends: Arceus*. |
 
 ---
 
@@ -192,9 +192,9 @@ Les différents craft seront bientôt disponible !
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/tinkatink_microphone.png) | Donne à Forgerette un microphone rose à la place de sa masse habituelle. Basé sur l’apparence de la Forgerette de Dot dans la série animée Pokémon *Horizons*, apparaissant pour la première fois dans l’épisode 39, intitulé *Le marteau idéal de Forgerette* (*Tinkatink's Ideal Hammer*). |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/tinkatuff_microphone.png) | Donne au marteau de Forgella une poignée en forme de microphone rose ainsi qu’un écusson rose en forme de croix sur le côté de la tête du marteau. Basé sur l’apparence de la Forgella de Dot dans la série animée Pokémon *Horizons*, apparaissant pour la première fois dans l’épisode 70, intitulé *Le marteau de Forgerette ne s’est pas fait en un jour* (*Tinkatink's Hammer Wasn't Made in a Day*). |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/tinkaton_microphone.png) | Donne au marteau de Forgelina des accents roses sur l’ensemble de sa surface, avec un microphone intégré au centre de la tête du marteau, visible à travers le trou sur le côté, remplaçant la forme cubique habituelle. Basé sur l’apparence de la Forgelina de Dot dans la série animée Pokémon *Horizons*, apparaissant pour la première fois dans l’épisode 109, intitulé *Le marteau de Forgella ne s’est pas fait en un an !* (*Tinkatuff's Hammer Wasn't Made in a Year!*). |
+| ![](https://minecraft.wiki/images/Note_Block_JE2_BE2.png)*Bloc musical* ![](https://minecraft.wiki/images/Jukebox_JE2_BE2.png)*Jukebox* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/tinkatink_microphone.png) | Donne à Forgerette un microphone rose à la place de sa masse habituelle. Basé sur l’apparence de la Forgerette de Dot dans la série animée Pokémon *Horizons*, apparaissant pour la première fois dans l’épisode 39, intitulé *Le marteau idéal de Forgerette* (*Tinkatink's Ideal Hammer*). |
+| ![](https://minecraft.wiki/images/Note_Block_JE2_BE2.png)*Bloc musical* ![](https://minecraft.wiki/images/Jukebox_JE2_BE2.png)*Jukebox* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/tinkatuff_microphone.png) | Donne au marteau de Forgella une poignée en forme de microphone rose ainsi qu’un écusson rose en forme de croix sur le côté de la tête du marteau. Basé sur l’apparence de la Forgella de Dot dans la série animée Pokémon *Horizons*, apparaissant pour la première fois dans l’épisode 70, intitulé *Le marteau de Forgerette ne s’est pas fait en un jour* (*Tinkatink's Hammer Wasn't Made in a Day*). |
+| ![](https://minecraft.wiki/images/Note_Block_JE2_BE2.png)*Bloc musical* ![](https://minecraft.wiki/images/Jukebox_JE2_BE2.png)*Jukebox* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/tinkaton_microphone.png) | Donne au marteau de Forgelina des accents roses sur l’ensemble de sa surface, avec un microphone intégré au centre de la tête du marteau, visible à travers le trou sur le côté, remplaçant la forme cubique habituelle. Basé sur l’apparence de la Forgelina de Dot dans la série animée Pokémon *Horizons*, apparaissant pour la première fois dans l’épisode 109, intitulé *Le marteau de Forgella ne s’est pas fait en un an !* (*Tinkatuff's Hammer Wasn't Made in a Year!*). |
 
 ---
 
@@ -202,5 +202,5 @@ Les différents craft seront bientôt disponible !
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/gimmighoul_gilded_chest.gif) | Transforme le coffre doré de Mordudor afin qu’il prenne la couleur du coffre doré donné. Bien qu’il s’agisse d’un cosmétique, un coffre doré rouge ne modifiera pas l’apparence de la forme de base de Mordudor, les deux étant identiques. |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/gholdengo_gilded_chest.gif) | Transforme la sacoche dorée de Gromago afin qu’elle adopte une couleur mise en avant selon la couleur du coffre doré utilisé. Bien qu’il s’agisse d’un cosmétique, un coffre doré rouge ne modifiera pas l’apparence de la forme de base de Gromago, les deux étant identiques. |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_article_cosmetics/gilded_chests/gilded_chests.gif)*Coffre doré* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/gimmighoul_gilded_chest.gif) | Transforme le coffre doré de Mordudor afin qu’il prenne la couleur du coffre doré donné. Bien qu’il s’agisse d’un cosmétique, un coffre doré rouge ne modifiera pas l’apparence de la forme de base de Mordudor, les deux étant identiques. |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_article_cosmetics/gilded_chests/gilded_chests.gif)*Coffre doré* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/gholdengo_gilded_chest.gif) | Transforme la sacoche dorée de Gromago afin qu’elle adopte une couleur mise en avant selon la couleur du coffre doré utilisé. Bien qu’il s’agisse d’un cosmétique, un coffre doré rouge ne modifiera pas l’apparence de la forme de base de Gromago, les deux étant identiques. |
