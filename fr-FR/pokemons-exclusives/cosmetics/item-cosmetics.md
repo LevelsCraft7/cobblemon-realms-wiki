@@ -141,7 +141,7 @@ Les différents craft seront bientôt disponible !
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
-| ![](https://minecraft.wiki/images/Ender_Pearl_JE3_BE2.png)*Perle de l'Ender* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/spoink_ender_pearl.png) | Remplace la perle de Spoink par une Perle de l'Ender provenant de Minecraft. |
+| *Perle de l'Ender* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/spoink_ender_pearl.png) | Remplace la perle de Spoink par une Perle de l'Ender provenant de Minecraft. |
 
 ---
 
