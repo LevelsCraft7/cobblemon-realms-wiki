@@ -14,3 +14,11 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 | ![](https://play.pokemonshowdown.com/sprites/ani/diancie.gif)<br>**Diancie** | Diancie's Crown | ⬇️ Y : -64 à 10 | Dripstone Caves, Lush Caves, various cave biomes |
 | ![](https://play.pokemonshowdown.com/sprites/ani/hoopa.gif)<br>**Hoopa** | Hoopa Ring / Prism Bottle | Aucune | End Barrens, End Highlands, End Midlands, Small End Islands, The End |
 | ![](https://play.pokemonshowdown.com/sprites/ani/volcanion.gif)<br>**Volcanion** | Steam Valve | Aucune | Volcanic Peaks, Volcanic Crater, Volcano, Nether |
+
+{% hint style="success" %}
+## Nous contactez
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
