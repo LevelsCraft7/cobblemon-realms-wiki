@@ -81,3 +81,13 @@ CurseForge ajoute automatiquement certains arguments Java. Les dernières valeur
 Avec Java 21 et ces réglages JVM, Cobblemon Realms devrait être plus fluide et plus stable, notamment sur les mondes avancés et lors des longues sessions de jeu.
 </p>
 {% endhint %}
+
+---
+
+{% hint style="success" %}
+## Nous contactez
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
