@@ -163,3 +163,13 @@ This page lists all biome tags used in Cobblemon Realms. Each tag groups togethe
 | **`is_volcanic`** | `mantle_caves`, `volcanic_crater`, `volcanic_peaks`, `scorching_caves`, `volcanic_island`, `ashen_woodland` |
 | **`is_winter`** | `skylands_winter`, `#cobblemon:is_freezing` |
 | **`is_abyss`** | `deep_dark`, `crystal_caves`, `deep_caves`, `frostfire_caves`, `mantle_caves`, `tuff_caves` |
+
+---
+
+{% hint style="success" %}
+## Contact Us
+
+<p align="center">
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
+</p>
+{% endhint %}
