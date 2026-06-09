@@ -21,3 +21,11 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 | ![](https://play.pokemonshowdown.com/sprites/ani/marshadow.gif)<br>**Marshadow** | Marshadow Hood | Aucune | Dark / Swamp |
 | ![](https://play.pokemonshowdown.com/sprites/ani/zeraora.gif)<br>**Zeraora** | Thunderclaw | Aucune | Savanna, Tropical |
 | ![](https://play.pokemonshowdown.com/sprites/ani/meltan.gif)<br>**Meltan** | Mystery Box | 🧱 Bloc de fer à proximité | Mountains, Taiga |
+
+{% hint style="success" %}
+## Nous contactez
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
