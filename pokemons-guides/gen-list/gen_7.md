@@ -21,3 +21,13 @@ On the islands of Alola, guardian deities coexist with creatures from other dime
 | ![](https://play.pokemonshowdown.com/sprites/ani/marshadow.gif)<br>**Marshadow** | Marshadow Hood | None | Dark / Swamp |
 | ![](https://play.pokemonshowdown.com/sprites/ani/zeraora.gif)<br>**Zeraora** | Thunderclaw | None | Savanna, Tropical |
 | ![](https://play.pokemonshowdown.com/sprites/ani/meltan.gif)<br>**Meltan** | Mystery Box | 🧱 Nearby Iron Block required | Mountains, Taiga |
+
+---
+
+{% hint style="success" %}
+## Contact Us
+
+<p align="center">
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
+</p>
+{% endhint %}
