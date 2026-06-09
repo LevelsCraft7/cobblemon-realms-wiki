@@ -141,3 +141,13 @@
 ### 📜 Description
 
 > Taking the appearance of a sacred tiger, Landorus watches over fertile lands. Its presence encourages abundant harvests, but its anger can also unleash the forces of nature.
+
+---
+
+{% hint style="success" %}
+## Contact Us
+
+<p align="center">
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
+</p>
+{% endhint %}
