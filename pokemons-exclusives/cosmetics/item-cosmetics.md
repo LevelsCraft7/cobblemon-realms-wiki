@@ -204,3 +204,13 @@ Some crafting recipes are currently not working; they have already been reported
 | :---: | :---: | :---: |
 | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_article_cosmetics/gilded_chests/gilded_chests.gif)*Any Gilded Chest* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/gimmighoul_gilded_chest.gif) | Changes Gimmighoul's gilded chest to the given gilded chest color. Despite being a cosmetic, a red gilded chest will not change the appearance from Gimmighoul's base form, being identical. |
 | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_article_cosmetics/gilded_chests/gilded_chests.gif)*Any Gilded Chest* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/gholdengo_gilded_chest.gif) | Changes Gholdengo's gilded satchel to have a highlighted color depending on the given gilded chest color. Despite being a cosmetic, a red gilded chest will not change the appearance from Gholdengo's base form, being identical. |
+
+---
+
+{% hint style="success" %}
+## Contact Us
+
+<p align="center">
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
+</p>
+{% endhint %}
