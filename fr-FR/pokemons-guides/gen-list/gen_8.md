@@ -19,3 +19,11 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 | ![](https://play.pokemonshowdown.com/sprites/ani/spectrier.gif)<br>**Spectrier** | Shaderoot Carrot | Aucune | Dark Forest, Plains |
 | ![](https://play.pokemonshowdown.com/sprites/ani/calyrex.gif)<br>**Calyrex** | Reins Of Unity | Aucune | Flower Forest, Autumn biomes |
 | ![](https://play.pokemonshowdown.com/sprites/ani/enamorus.gif)<br>**Enamorus** | Reveal Glass | 🌩️ Tonnerre uniquement | Cherry Grove, Flower Forest, Meadow |
+
+{% hint style="success" %}
+## Nous contactez
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
