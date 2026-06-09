@@ -113,9 +113,9 @@ Toutes les informations concernant la progression, les arènes, les champions et
 ---
 
 {% hint style="success" %}
-## 💬 Je n'ai pas trouvé ma réponse
+## Nous contactez
 
-Rejoignez notre serveur Discord pour obtenir de l'aide auprès de la communauté et de l'équipe.
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
 {% endhint %}
-
-🔗 [Rejoindre le Discord](https://discord.gg/kb8NSTF45n)
