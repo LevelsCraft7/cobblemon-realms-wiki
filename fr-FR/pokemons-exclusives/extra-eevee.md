@@ -594,3 +594,13 @@ Vous les trouverez dans :
 ## 📜 Description
 
 > Lorsqu’un Évoli tarde à évoluer, son ADN se stabilise naturellement et il développe une endurance ainsi que des capacités de combat supérieures. Les scientifiques l’avaient d’abord surnommé « Évolili » comme une plaisanterie, mais ce nom est finalement devenu son appellation officielle après l’apparition de plusieurs spécimens.
+
+---
+
+{% hint style="success" %}
+## Nous contactez
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
