@@ -14,3 +14,11 @@ Les légendes de Johto racontent l'histoire de gardiens sacrés veillant sur l'�
 | ![](https://play.pokemonshowdown.com/sprites/ani/lugia.gif)<br>**Lugia** | Tidal Bell / Silver Wing | Aucune | Deep Ocean, Ocean |
 | ![](https://www.pkparaiso.com/imagenes/xy/sprites/animados/ho-oh.gif)<br>**Ho-Oh** | Clear Bell / Rainbow Wing | Aucune | Flower Forest, Meadow, Sunflower Plains |
 | ![](https://play.pokemonshowdown.com/sprites/ani/celebi.gif)<br>**Celebi** | GS Ball | Aucune | Birch Forest, Cherry Grove, Dark Forest, Flower Forest, Forest, Jungle, Mangrove Swamp, Meadow, Old Growth Birch Forest, Old Growth Pine Taiga, Old Growth Spruce Taiga, Swamp |
+
+{% hint style="success" %}
+## Nous contactez
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
