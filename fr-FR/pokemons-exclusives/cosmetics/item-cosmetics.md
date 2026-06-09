@@ -8,7 +8,7 @@ Ces modifications cosmétiques consistent à équiper un accessoire dans l’emp
 
 {% hint style="warning" %}
 <p align="center">
-Les différents craft seront bientôt disponible !
+Certaines recettes de fabrication ne fonctionnent actuellement pas; elles ont déjà été signalées.
 </p>
 {% endhint %}
 
