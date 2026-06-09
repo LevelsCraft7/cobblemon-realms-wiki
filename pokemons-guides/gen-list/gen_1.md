@@ -13,3 +13,13 @@ At the heart of Kanto lie the first legends of the Pokémon world. From the elem
 | ![](https://play.pokemonshowdown.com/sprites/ani/moltres.gif)<br>**Moltres** | Tidal Bell | 🔥 3 Fire Stones | Badlands |
 | ![](https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif)<br>**Mewtwo** | Dr. Fuji's Diary | None | Deep Dark |
 | ![Mew*](https://play.pokemonshowdown.com/sprites/ani/mew.gif)<br>**Mew** | Old Sea Map | None | Jungle |
+
+---
+
+{% hint style="success" %}
+## Contact Us
+
+<p align="center">
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
+</p>
+{% endhint %}
