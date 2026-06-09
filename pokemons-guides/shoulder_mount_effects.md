@@ -120,3 +120,13 @@ The information on this page is no longer up to date. Since the related files/fo
 | ![Zigzagoon](https://play.pokemonshowdown.com/sprites/ani/zigzagoon.gif)<br>**Zigzagoon** | Haste I |
 | ![Zorua](https://play.pokemonshowdown.com/sprites/ani/zorua.gif)<br>**Zorua** | Invisibility I • Speed I |
 | ![Zubat](https://play.pokemonshowdown.com/sprites/ani/zubat.gif)<br>**Zubat** | Slow Falling I • Blindness I |
+
+---
+
+{% hint style="success" %}
+## Contact Us
+
+<p align="center">
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
+</p>
+{% endhint %}
