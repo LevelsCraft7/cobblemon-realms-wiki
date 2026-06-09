@@ -98,7 +98,7 @@ Les différents craft seront bientôt disponible !
 | :---: | :---: | :---: |
 | ![](https://minecraft.wiki/images/Black_Dye_JE2_BE2.png)*Teinture Noire* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/jigglypuff_ancient.png) | Donne à Rondoudou des marques rouge cramoisi autour de son corps. Basé sur l’apparence du gigantesque Rondoudou antique apparaissant dans l’épisode 72 de la série animée Pokémon originale, intitulé *L’énigme antique de Pokémopolis* (*The Ancient Puzzle of Pokémopolis*). |
 | ![](https://minecraft.wiki/images/Black_Dye_JE2_BE2.png)*Teinture Noire* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/alakazam_ancient.png) |Donne à Alakazam des marques noires autour de son corps. Basé sur l’apparence du gigantesque Alakazam antique apparaissant dans l’épisode 72 de la série animée Pokémon originale, intitulé *L’énigme antique de Pokémopolis* (*The Ancient Puzzle of Pokémopolis*). |
-| ![](https://minecraft.wiki/images/Black_Dye_JE2_BE2.png)*Teinture Noire* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gengar_ancient.png) | Donne à Ectoplasma des marques vertes autour de son corps. Basé sur l’apparence du gigantesque Ectoplasma antique apparaissant dans l’épisode 72 de la série animée Pokémon originale, intitulé *L’énigme antique de Pokémopolis* (*The Ancient Puzzle of Pokémopolis*). |
+| ![](https://minecraft.wiki/images/Green_Dye_JE4_BE4.png)*Teinture Verte* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gengar_ancient.png) | Donne à Ectoplasma des marques vertes autour de son corps. Basé sur l’apparence du gigantesque Ectoplasma antique apparaissant dans l’épisode 72 de la série animée Pokémon originale, intitulé *L’énigme antique de Pokémopolis* (*The Ancient Puzzle of Pokémopolis*). |
 
 ---
 
@@ -106,8 +106,8 @@ Les différents craft seront bientôt disponible !
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/electrode_melon.png) | Transforme Électrode afin qu’il ressemble à un melon. Basé sur l’apparence de l’Électrode de Natasha apparaissant dans l’épisode 41 de la série animée Pokémon *Rubis et Saphir*, intitulé *On récolte ce que l’on sème* (*What You Seed Is What You Get*). |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/electrode_minecraft_melon.png) | Transforme Électrode afin qu’il ressemble à une pastèque de Minecraft. En plus de son inspiration venant de Minecraft, il est également basé sur l’apparence de l’Électrode de Natasha apparaissant dans l’épisode 41 de la série animée Pokémon *Rubis et Saphir*, intitulé *On récolte ce que l’on sème* (*What You Seed Is What You Get*). |
+| ![](https://minecraft.wiki/images/Green_Dye_JE4_BE4.png)*Teinture verte* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/electrode_melon.png) | Transforme Électrode afin qu’il ressemble à un melon. Basé sur l’apparence de l’Électrode de Natasha apparaissant dans l’épisode 41 de la série animée Pokémon *Rubis et Saphir*, intitulé *On récolte ce que l’on sème* (*What You Seed Is What You Get*). |
+| ![](https://minecraft.wiki/images/Lime_Dye_JE3_BE3.png)*Teinture vert clair* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/electrode_minecraft_melon.png) | Transforme Électrode afin qu’il ressemble à une pastèque de Minecraft. En plus de son inspiration venant de Minecraft, il est également basé sur l’apparence de l’Électrode de Natasha apparaissant dans l’épisode 41 de la série animée Pokémon *Rubis et Saphir*, intitulé *On récolte ce que l’on sème* (*What You Seed Is What You Get*). |
 
 ---
 
@@ -115,7 +115,7 @@ Les différents craft seront bientôt disponible !
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/dragonite_messenger.png) | Donne à Dracolosse un sac de livraison marron porté grâce à une sangle passant sur son épaule droite. Basé sur l’apparence du Dracolosse apparaissant dans le film Pokémon *Mewtwo contre-attaque*. |
+| ![](https://minecraft.wiki/images/Bundle_JE2_BE2.png)*Sac* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/dragonite_messenger.png) | Donne à Dracolosse un sac de livraison marron porté grâce à une sangle passant sur son épaule droite. Basé sur l’apparence du Dracolosse apparaissant dans le film Pokémon *Mewtwo contre-attaque*. |
 
 ---
 
@@ -123,7 +123,7 @@ Les différents craft seront bientôt disponible !
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/sudowoodo_golden.png) | Transforme Simularbre afin qu’il devienne entièrement doré. Basé sur l’apparence de Simularbre apparaissant dans l’épisode 173 de la série animée Pokémon *Rubis et Saphir*, intitulé *Tout ce qui brille n’est pas or !* (*All That Glitters Is Not Golden!*). |
+| *N'importe quelle armure dorée* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/sudowoodo_golden.png) | Transforme Simularbre afin qu’il devienne entièrement doré. Basé sur l’apparence de Simularbre apparaissant dans l’épisode 173 de la série animée Pokémon *Rubis et Saphir*, intitulé *Tout ce qui brille n’est pas or !* (*All That Glitters Is Not Golden!*). |
 
 ---
 
@@ -131,9 +131,9 @@ Les différents craft seront bientôt disponible !
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/treecko_twig.png) | Donne à Arcko une petite brindille avec une minuscule feuille attachée, tenue dans sa bouche. Basé sur l’apparence de l’Arcko de Sacha dans la série animée Pokémon. |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/grovyle_twig.png) | Donne à Massko une petite brindille avec une minuscule branche, tenue dans sa bouche. Basé sur l’apparence du Massko de Sacha dans la série animée Pokémon. |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/sceptile_twig.png) | Donne à Jungko une petite brindille avec une minuscule branche, tenue dans sa bouche. Basé sur l’apparence du Jungko de Sacha dans la série animée Pokémon. |
+| ![](https://minecraft.wiki/images/Stick_JE1_BE1.png)*Bâton* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/treecko_twig.png) | Donne à Arcko une petite brindille avec une minuscule feuille attachée, tenue dans sa bouche. Basé sur l’apparence de l’Arcko de Sacha dans la série animée Pokémon. |
+| ![](https://minecraft.wiki/images/Stick_JE1_BE1.png)*Bâton* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/grovyle_twig.png) | Donne à Massko une petite brindille avec une minuscule branche, tenue dans sa bouche. Basé sur l’apparence du Massko de Sacha dans la série animée Pokémon. |
+| ![](https://minecraft.wiki/images/Stick_JE1_BE1.png)*Bâton* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/sceptile_twig.png) | Donne à Jungko une petite brindille avec une minuscule branche, tenue dans sa bouche. Basé sur l’apparence du Jungko de Sacha dans la série animée Pokémon. |
 
 ---
 
@@ -141,7 +141,7 @@ Les différents craft seront bientôt disponible !
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/spoink_ender_pearl.png) | Remplace la perle de Spoink par une Perle de l'Ender provenant de Minecraft. |
+| ![](https://minecraft.wiki/images/Ender_Pearl_JE3_BE2.png)*Perle de l'Ender | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/spoink_ender_pearl.png) | Remplace la perle de Spoink par une Perle de l'Ender provenant de Minecraft. |
 
 ---
 
@@ -149,9 +149,9 @@ Les différents craft seront bientôt disponible !
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/timburr_log.gif) | Transforme la bûche portée par Charpenti afin qu’elle ressemble à la bûche Minecraft donnée. |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/gurdurr_metal.gif) | Transforme la poutre portée par Ouvrifier afin qu’elle ressemble au métal Minecraft donné. |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/conkeldurr_pillars.gif) | Transforme les piliers portés par Bétochef afin qu’ils prennent la couleur du béton Minecraft donné. |
+| *N'importe quelle bûche et n'importe quelle bûche écorcée* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/timburr_log.gif) | Transforme la bûche portée par Charpenti afin qu’elle ressemble à la bûche Minecraft donnée. |
+| *N'importe quel lingot en métal* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/gurdurr_metal.gif) | Transforme la poutre portée par Ouvrifier afin qu’elle ressemble au métal Minecraft donné. |
+| *N'importe quel béton* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/conkeldurr_pillars.gif) | Transforme les piliers portés par Bétochef afin qu’ils prennent la couleur du béton Minecraft donné. |
 
 ---
 
@@ -159,7 +159,7 @@ Les différents craft seront bientôt disponible !
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/komala_log.gif) | Transforme la bûche portée par Dodoala afin qu’elle ressemble à la bûche Minecraft donnée. |
+| *N'importe quelle bûche et n'importe quelle bûche écorcée* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/komala_log.gif) | Transforme la bûche portée par Dodoala afin qu’elle ressemble à la bûche Minecraft donnée. |
 
 ---
 
@@ -167,8 +167,8 @@ Les différents craft seront bientôt disponible !
 
 | 📋 Prérequis | 🖼️ Forme | 📝 Description |
 | :---: | :---: | :---: |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/braixen_ribbon.png) | Donne à Roussil un ruban rouge sur son bâton. Basé sur l’apparence du Roussil de Serena dans la série animée Pokémon *XY*, où le bâton orné d’un ruban apparaît pour la première fois dans l’épisode 85, intitulé *Réparer un esprit brisé !* (*Mending a Broken Spirit!*). |
-| | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/delphox_ribbon.png) | Donne à Goupelin un ruban rouge sur son bâton. Basé sur l’apparence du Goupelin de Serena dans la série animée Pokémon *Les Voyages Pokémon*. Le bâton orné d’un ruban apparaît initialement lorsque Serena possède encore un Roussil, dans l’épisode 85 de la série *XY*, intitulé *Réparer un esprit brisé !* (*Mending a Broken Spirit!*). Plus précisément, le Goupelin de Serena apparaît pour la première fois dans l’épisode 105 de *Les Voyages Pokémon*, intitulé *Des retrouvailles pour la première fois !* (*Reuniting for the First Time!*). |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_article_cosmetics/autres/silk_scarf.png)*Mouchoir Soie* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/braixen_ribbon.png) | Donne à Roussil un ruban rouge sur son bâton. Basé sur l’apparence du Roussil de Serena dans la série animée Pokémon *XY*, où le bâton orné d’un ruban apparaît pour la première fois dans l’épisode 85, intitulé *Réparer un esprit brisé !* (*Mending a Broken Spirit!*). |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_article_cosmetics/autres/silk_scarf.png)*Mouchoir Soie* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/delphox_ribbon.png) | Donne à Goupelin un ruban rouge sur son bâton. Basé sur l’apparence du Goupelin de Serena dans la série animée Pokémon *Les Voyages Pokémon*. Le bâton orné d’un ruban apparaît initialement lorsque Serena possède encore un Roussil, dans l’épisode 85 de la série *XY*, intitulé *Réparer un esprit brisé !* (*Mending a Broken Spirit!*). Plus précisément, le Goupelin de Serena apparaît pour la première fois dans l’épisode 105 de *Les Voyages Pokémon*, intitulé *Des retrouvailles pour la première fois !* (*Reuniting for the First Time!*). |
 
 ---
 
