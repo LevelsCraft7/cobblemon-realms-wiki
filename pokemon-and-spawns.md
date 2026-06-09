@@ -80,11 +80,9 @@ Some common Pokémon may return a list containing **100+ possible biomes**.
 ---
 
 {% hint style="success" %}
-## 💁🏼‍♂️ Need help or want to report a spawn issue?
+## Contact Us
 
 <p align="center">
-Feel free to join our <a href="https://discord.gg/kb8NSTF45n">Discord</a>
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
 </p>
 {% endhint %}
-
-Use these tools to **plan your adventure** and optimize your shiny or rare Pokémon hunts.
