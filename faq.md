@@ -113,9 +113,9 @@ All information regarding progression, gyms, champions, and level caps is groupe
 ---
 
 {% hint style="success" %}
-## 💬 I didn't find my answer
+## Contact Us
 
-Join our Discord server to get help from the community and the team.
+<p align="center">
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
+</p>
 {% endhint %}
-
-🔗 [Join the Discord](https://discord.gg/kb8NSTF45n)
