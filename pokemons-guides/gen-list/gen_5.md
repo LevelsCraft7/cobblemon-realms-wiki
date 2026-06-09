@@ -20,3 +20,13 @@ Unova’s heroes were born from the clash between ideals and truth. Their legend
 | ![](https://play.pokemonshowdown.com/sprites/ani/keldeo.gif)<br>**Keldeo** | Sacred Sword | None | Blooming Valley, Forested Highlands, Lavender Valley, Lush Valley, Moonlight Valley, Sakura Valley |
 | ![](https://play.pokemonshowdown.com/sprites/ani/meloetta.gif)<br>**Meloetta** | Meloetta Headset | None | Flower Forest, Meadow, Sunflower Plains, Cherry Grove |
 | ![](https://play.pokemonshowdown.com/sprites/ani/genesect.gif)<br>**Genesect** | Genesect Drive | 🧱 Nearby Iron Block required | End Barrens, End Highlands, End Midlands, Small End Islands, The End |
+
+---
+
+{% hint style="success" %}
+## Contact Us
+
+<p align="center">
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
+</p>
+{% endhint %}
