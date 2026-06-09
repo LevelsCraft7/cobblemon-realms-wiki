@@ -13,3 +13,11 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 | ![](https://play.pokemonshowdown.com/sprites/home/ogerpon.png)<br>**Ogerpon** | Teal Mask | 🌙 Lune gibbeuse décroissante | Bamboo, Floral, Jungle |
 | ![](https://play.pokemonshowdown.com/sprites/home/pecharunt.png)<br>**Pecharunt** | Mythical Pecha Berry | Aucune | Dark Forest, Swamp, Pillager structures |
 | ![](https://play.pokemonshowdown.com/sprites/home/terapagos.png)<br>**Terapagos** | Prismatic Shell | Aucune | Jungle, Mountain, River, Magical biomes |
+
+{% hint style="success" %}
+## Nous contactez
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
