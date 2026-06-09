@@ -325,3 +325,13 @@ L'Aether est une dimension accessible rapidement mais qui cache une importante p
 Les informations Cobblemon Realms présentées ci-dessus sont basées sur la configuration actuelle des spawns personnalisés de la dimension Aether dans le modpack.
 </p>
 {% endhint %}
+
+---
+
+{% hint style="success" %}
+## Nous contactez
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
