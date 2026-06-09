@@ -3,14 +3,14 @@
 ---
 # Groudon Virus
 
-Cette section sera complétée prochainement avec les différents formes de Groudon Virus.
+This section will be updated soon with the different forms of the Groudon Virus.
 
 ---
 
 {% hint style="success" %}
-## Nous contactez
+## Contact Us
 
 <p align="center">
-Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
 </p>
 {% endhint %}
