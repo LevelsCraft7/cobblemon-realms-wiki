@@ -205,8 +205,12 @@ Certaines recettes de fabrication ne fonctionnent actuellement pas; elles ont d�
 | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_article_cosmetics/gilded_chests/gilded_chests.gif)*Coffre doré* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/gimmighoul_gilded_chest.gif) | Transforme le coffre doré de Mordudor afin qu’il prenne la couleur du coffre doré donné. Bien qu’il s’agisse d’un cosmétique, un coffre doré rouge ne modifiera pas l’apparence de la forme de base de Mordudor, les deux étant identiques. |
 | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_article_cosmetics/gilded_chests/gilded_chests.gif)*Coffre doré* | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/items_cosmetics/gifs/gholdengo_gilded_chest.gif) | Transforme la sacoche dorée de Gromago afin qu’elle adopte une couleur mise en avant selon la couleur du coffre doré utilisé. Bien qu’il s’agisse d’un cosmétique, un coffre doré rouge ne modifiera pas l’apparence de la forme de base de Gromago, les deux étant identiques. |
 
+---
+
 {% hint style="info" %}
+## Nous contactez
+
 <p align="center">
-Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur ![Discord](https://discord.gg/kb8NSTF45n) et à contacter directement @FabLeKebab sur le serveur pour tout ce qui concerne le wiki, ou @Levels pour tout ce qui concerne le modpack.
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement @FabLeKebab sur le serveur pour tout ce qui concerne le wiki, ou @Levels pour tout ce qui concerne le modpack.
 </p>
 {% endhint %}
