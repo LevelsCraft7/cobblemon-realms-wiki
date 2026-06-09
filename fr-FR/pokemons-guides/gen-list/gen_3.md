@@ -18,3 +18,11 @@ D'anciens titans sommeillent sous les terres de Hoenn. Entre océans déchaîné
 | ![](https://play.pokemonshowdown.com/sprites/ani/rayquaza.gif)<br>**Rayquaza** | Jade Orb | Aucune | End Highlands, Skylands Autumn, Skylands Spring, Skylands Summer, Skylands Winter |
 | ![](https://play.pokemonshowdown.com/sprites/ani/jirachi.gif)<br>**Jirachi** | Bonus Disk | Aucune | Mushroom Fields, Windswept Gravelly Hills |
 | ![](https://play.pokemonshowdown.com/sprites/ani/deoxys.gif)<br>**Deoxys** | Aurora Ticket | Aucune | End Barrens, End Highlands, End Midlands, Small End Islands, The End |
+
+{% hint style="success" %}
+## Nous contactez
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
