@@ -273,3 +273,13 @@ Affiche :
 
 - [**Documentation officielle Radical Trainers**](https://srcmc.gitlab.io/rct/docs/0.13/)
 - [**More Radical Trainers (Datapack)**](https://modrinth.com/datapack/more-radical-trainers)
+
+---
+
+{% hint style="success" %}
+## Nous contactez
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
