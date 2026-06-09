@@ -19,3 +19,13 @@ Sinnoh’s myths date back to the creation of the universe itself. Time, space, 
 | ![](https://play.pokemonshowdown.com/sprites/ani/darkrai.gif)<br>**Darkrai** | Member Card | None | Dark Forest, Swamp |
 | ![](https://play.pokemonshowdown.com/sprites/ani/shaymin.gif)<br>**Shaymin** | Oak's Letter | None | Flower Forest, Meadow, Sunflower Plains, Blooming Plateau, Blooming Valley, Lavender Valley, Sakura Grove, Sakura Valley |
 | ![](https://play.pokemonshowdown.com/sprites/ani/arceus.gif)<br>**Arceus** | Azure Flute | None | Dark Forest, End Barrens, End Highlands, End Midlands, Small End Islands, The End, Mirage Isles, Moonlight Grove, Moonlight Valley |
+
+---
+
+{% hint style="success" %}
+## Contact Us
+
+<p align="center">
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
+</p>
+{% endhint %}
