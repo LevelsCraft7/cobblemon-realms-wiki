@@ -9,6 +9,14 @@ les <b>systèmes personnalisés</b> et l’aventure sur le long terme.
 </p>
 {% endhint %}
 
+{% hint style="success" %}
+## Nous contactez
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
+
 Ce wiki a été conçu pour vous aider à :
 
 - 🚀 Démarrer rapidement
