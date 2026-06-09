@@ -18,3 +18,13 @@ Ancient titans sleep beneath the lands of Hoenn. Between raging oceans, shifting
 | ![](https://play.pokemonshowdown.com/sprites/ani/rayquaza.gif)<br>**Rayquaza** | Jade Orb | None | End Highlands, Skylands Autumn, Skylands Spring, Skylands Summer, Skylands Winter |
 | ![](https://play.pokemonshowdown.com/sprites/ani/jirachi.gif)<br>**Jirachi** | Bonus Disk | None | Mushroom Fields, Windswept Gravelly Hills |
 | ![](https://play.pokemonshowdown.com/sprites/ani/deoxys.gif)<br>**Deoxys** | Aurora Ticket | None | End Barrens, End Highlands, End Midlands, Small End Islands, The End |
+
+---
+
+{% hint style="success" %}
+## Contact Us
+
+<p align="center">
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
+</p>
+{% endhint %}
