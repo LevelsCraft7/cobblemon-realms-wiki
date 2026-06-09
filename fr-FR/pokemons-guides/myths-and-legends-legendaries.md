@@ -13,3 +13,11 @@
 - [Génération 7 - Alola](https://our-story-network.gitbook.io/cr-wiki/cr-fr/myths-and-legends/myths-and-legends-legendaries/gen_7)
 - [Génération 8 - Galar/Hisui](https://our-story-network.gitbook.io/cr-wiki/cr-fr/myths-and-legends/myths-and-legends-legendaries/gen_8)
 - [Génération 9 - Paldea/Kitakami](https://our-story-network.gitbook.io/cr-wiki/cr-fr/myths-and-legends/myths-and-legends-legendaries/gen_9)
+
+{% hint style="success" %}
+## Nous contactez
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
