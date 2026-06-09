@@ -339,3 +339,13 @@ Pour qu'un pack fonctionne, il faut au minimum :
 - Idéalement une image `.png` par musique
 
 Si vous respectez la structure et les chemins montres dans cette page, le pack sera compatible avec **Music Interface**.
+
+---
+
+{% hint style="success" %}
+## Nous contactez
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
