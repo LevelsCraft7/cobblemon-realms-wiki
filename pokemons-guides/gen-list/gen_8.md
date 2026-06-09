@@ -19,3 +19,13 @@ The legends of Galar tell stories of forgotten heroes and powerful rulers. In th
 | ![](https://play.pokemonshowdown.com/sprites/ani/spectrier.gif)<br>**Spectrier** | Shaderoot Carrot | None | Dark Forest, Plains |
 | ![](https://play.pokemonshowdown.com/sprites/ani/calyrex.gif)<br>**Calyrex** | Reins Of Unity | None | Flower Forest, Autumn biomes |
 | ![](https://play.pokemonshowdown.com/sprites/ani/enamorus.gif)<br>**Enamorus** | Reveal Glass | 🌩️ Thunderstorm only | Cherry Grove, Flower Forest, Meadow |
+
+---
+
+{% hint style="success" %}
+## Contact Us
+
+<p align="center">
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
+</p>
+{% endhint %}
