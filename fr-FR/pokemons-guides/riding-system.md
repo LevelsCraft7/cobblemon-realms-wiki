@@ -474,15 +474,15 @@ Si vous avez des questions, des suggestions ou des modifications à proposer, n'
 
 ---
 
-| Nom du Pokémon | Places | Monture terrestre | Accél. | Maniab. | Vit. | End. | Saut |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Florizarre | 1 | Standard | 40-75 | 10-40 | 30-55 | 45-85 | 40-60 |
-| Dracaufeu | 1 | Standard | 55-65 | 10-25 | 25-40 | 20-30 | 15-25 |
-| Tortank | 2 | Standard | 30-50 | 10-35 | 30-65 | 15-35 | 15-30 |
-| Parasect | 1 | Standard | 50-70 | 45-65 | 15-30 | 15-30 | 0-15 |
-| Arcanin | 1 | Standard | 70-90 | 40-80 | 45-70 | 35-80 | 45-65 |
-| Lamantine | 2 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
-| Rhinocorne | 1 | Standard | 5-20 | 5-25 | 25-60 | 40-80 | 5-15 |
-| Rhinoféros | 1 | Standard | 55-75 | 30-60 | 5-15 | 55-90 | 20-30 |
-| Mr. Mime | 1 | Standard | 20-40 | 15-45 | 25-45 | 35-60 | 15-35 |
-| Tauros | 1 | Standard | 15-50 | 15-30 | 55-75 | 35-55 | 25-35 |
+| Nom du Pokémon | Places | Accél. | Maniab. | Vit. | End. | Saut |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| Florizarre | 1 | 40-75 | 10-40 | 30-55 | 45-85 | 40-60 |
+| Dracaufeu | 1 | 55-65 | 10-25 | 25-40 | 20-30 | 15-25 |
+| Tortank | 2 | 30-50 | 10-35 | 30-65 | 15-35 | 15-30 |
+| Parasect | 1 | 50-70 | 45-65 | 15-30 | 15-30 | 0-15 |
+| Arcanin | 1 | 70-90 | 40-80 | 45-70 | 35-80 | 45-65 |
+| Lamantine | 2 | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
+| Rhinocorne | 1 | 5-20 | 5-25 | 25-60 | 40-80 | 5-15 |
+| Rhinoféros | 1 | 55-75 | 30-60 | 5-15 | 55-90 | 20-30 |
+| Mr. Mime | 1 | 20-40 | 15-45 | 25-45 | 35-60 | 15-35 |
+| Tauros | 1 | 15-50 | 15-30 | 55-75 | 35-55 | 25-35 |
