@@ -54,7 +54,7 @@ At the moment, the only <strong>Crystal-type</strong> Pokémon belong to the <st
 
 | Power | Accuracy | PP | Category |
 |:---:|:---:|:---:|:---:|
-| — | 100% | 15 | Status |
+| - | 100% | 15 | Status |
 
 #### Effect
 
@@ -79,7 +79,7 @@ At the moment, the only <strong>Crystal-type</strong> Pokémon belong to the <st
 
 | Power | Accuracy | PP | Category |
 |:---:|:---:|:---:|:---:|
-| — | 100% | 15 | Status |
+| - | 100% | 15 | Status |
 
 #### Effect
 
@@ -120,7 +120,7 @@ At the moment, the only <strong>Crystal-type</strong> Pokémon belong to the <st
 
 | Power | Accuracy | PP | Category |
 |:---:|:---:|:---:|:---:|
-| — | 100% | 5 | Status |
+| - | 100% | 5 | Status |
 
 #### Effect
 
