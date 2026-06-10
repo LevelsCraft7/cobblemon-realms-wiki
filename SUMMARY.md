@@ -48,6 +48,7 @@
 - [☀️ Necrozma Fusions](pokemons-exclusives/necrozma-fusions.md)
 - [🌕 Bloodmoon Ursaluna](pokemons-exclusives/bloodmoon-ursaluna.md)
 - [💎 Crystal Onix & Steelix](pokemons-exclusives/crystal-onix.md)
+   - [✨💎 About the Crystal Type](pokemons-exclusives/types_guides/type-cristal.md)
 - [🥋 Kubfu Evolutions](pokemons-exclusives/kubfu-evolutions.md)
 - [⚡ Charged Meltan Form](pokemons-exclusives/meltan-charged.md)
 - [🦊 Additional Eevee Evolutions](pokemons-exclusives/extra-eevee.md)
