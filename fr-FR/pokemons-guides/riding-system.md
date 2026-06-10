@@ -378,27 +378,25 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 <details><summary><strong>🌊 Liste des montures aquatiques</strong></summary>
 
-| N° Dex | Nom du Pokémon | Places | Monture aquatique | Statistiques de monture |
-| :---: | :---: | :---: | :---: | :---: |
-| Accél. | Maniab. | Vit. | End. | Saut |
-| --- | --- | --- | --- | --- |
-| 009 | Tortank | 2 | Sous-marin | 45-65 | 50-75 | 35-65 | 35-70 | 30-50 |
-| 087 | Lamantine | 2 | Dauphin | 50-75 | 30-65 | 25-45 | 25-50 | 25-50 |
-| 119 | Poissoroy | 1 | Sous-marin  | 35-70 | 25-55 | 35-65 | 20-40 | 15-35 |
-| 128 | Tauros (Paldea-Aqua) | 1 | Bateau | 55-65 | 40-55 | 30-40 | 30-65 | 20-30 |
-| 130 | Léviator | 1 | Dauphin | 40-60 | 35-65 | 30-55 | 45-75 | 40-70 |
-| 131 | Lokhlass | 1 | Bateau | 30-55 | 50-75 | 25-40 | 45-75 | 20-30 |
-| 149 | Dracolosse | 2 | Dauphin | 30-65 | 35-50 | 30-50 | 60-90 | 55-85 |
-| 226 | Démanta | 1 | Dauphin | 30-55 | 45-75 | 20-40 | 20-40 | 40-80 |
-| 249 | Lugia | 1 | Dauphin | 80-100 | 75-95 | 60-80 | 80-100 | 75-90 |
-| 319 | Sharpedo | 1 | Dauphin | 55-85 | 25-65 | 55-85 | 20-45 | 45-75 |
-| 320 | Wailmer | 1 | Sous-marin | 30-55 | 30-55 | 30-50 | 40-85 | 25-40 |
-| 321 | Wailord | 19 | Sous-marin | 20-45 | 30-55 | 20-40 | 65-100 | 40-55 |
-| 369 | Relicanth | 1 | Sous-marin | 25-40 | 40-80 | 15-35 | 50-90 | 50-75 |
-| 445 | Carchacrok | 1 | Bateau | 75-85 | 10-25 | 35-60 | 5-10 | 40-80 |
-| 781 | Sinistrail | 1 | Sous-marin | 40-55 | 20-30 | 15-30 | 45-65 | 70-100 |
-| 887 | Lanssorien | 1 | Dauphin | 60-85 | 55-70 | 50-65 | 25-35 | 40-55 |
-| 977 | Oyacata | 7 | Sous-marin | 45-65 | 50-75 | 25-45 | 60-75 | 10-25 |
+| Pokémon | Accél. | Maniab. | Vit. | End. | Saut |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Tortank | 45-65 | 50-75 | 35-65 | 35-70 | 30-50 |
+| Lamantine | 50-75 | 30-65 | 25-45 | 25-50 | 25-50 |
+| Poissoroy | 35-70 | 25-55 | 35-65 | 20-40 | 15-35 |
+| Tauros (Paldea-Aqua) | 55-65 | 40-55 | 30-40 | 30-65 | 20-30 |
+| Léviator | 40-60 | 35-65 | 30-55 | 45-75 | 40-70 |
+| Lokhlass | 30-55 | 50-75 | 25-40 | 45-75 | 20-30 |
+| Dracolosse | 30-65 | 35-50 | 30-50 | 60-90 | 55-85 |
+| Démanta | 30-55 | 45-75 | 20-40 | 20-40 | 40-80 |
+| Lugia | 80-100 | 75-95 | 60-80 | 80-100 | 75-90 |
+| Sharpedo | 55-85 | 25-65 | 55-85 | 20-45 | 45-75 |
+| Wailmer | 30-55 | 30-55 | 30-50 | 40-85 | 25-40 |
+| Wailord | 20-45 | 30-55 | 20-40 | 65-100 | 40-55 |
+| Relicanth | 25-40 | 40-80 | 15-35 | 50-90 | 50-75 |
+| Carchacrok | 75-85 | 10-25 | 35-60 | 5-10 | 40-80 |
+| Sinistrail | 40-55 | 20-30 | 15-30 | 45-65 | 70-100 |
+| Lanssorien | 60-85 | 55-70 | 50-65 | 25-35 | 40-55 |
+| Oyacata | 45-65 | 50-75 | 25-45 | 60-75 | 10-25 |
 
 </details>
 
@@ -406,49 +404,47 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 <details><summary><strong>🪶 Liste des montures aériennes</strong></summary>
 
-| N° Dex | Nom du Pokémon | Places | Monture aérienne | Statistiques de monture |
-| :---: | :---: | :---: | :---: | :---: |
-| Accél. | Maniab. | Vit. | End. | Saut |
-| --- | --- | --- | --- | --- |
-| 006 | Dracaufeu | 1 | Oiseau | 45-75 | 55-85 | 30-65 | 45-75 | 30-65 |
-| 009 | Tortank | 2 | Fusée | 5-40 | 30-60 | 5-15 | 2-20 | 10-20 |
-| 130 | Léviator | 1 | Jet | 35-60 | 45-65 | 15-50 | 15-55 | 20-45 |
-| 142 | Ptéra | 1 | Oiseau | 35-65 | 35-70 | 45-75 | 40-65 | 45-75 |
-| 144 | Artikodin | 1 | Oiseau | 70-85 | 80-100 | 65-90 | 70-90 | 65-90 |
-| 145 | Électhor | 1 | Oiseau | 65-90 | 70-85 | 80-100 | 65-85 | 70-85 |
-| 146 | Sulfura | 1 | Oiseau | 70-85 | 65-90 | 70-85 | 80-100 | 65-90 |
-| 149 | Dracolosse | 2 | Jet | 35-50 | 50-85 | 40-60 | 50-85 | 50-70 |
-| 205 | Forêtress | 1 | Stationnaire | 20-40 | 25-45 | 15-25 | 0-5 | 5-10 |
-| 214 | Scarhino | 1 | Oiseau | 40-65 | 55-85 | 35-50 | 35-55 | 0-5 |
-| 226 | Démanta | 1 | Oiseau | 75-100 | 30-50 | 20-40 | 0-0 | 25-45 |
-| 249 | Lugia | 1 | Oiseau | 65-85 | 60-80 | 60-80 | 65-90 | 75-90 |
-| 250 | Ho-Oh | 2 | Oiseau | 75-95 | 65-85 | 75-90 | 80-100 | 75-100 |
-| 330 | Libégon | 1 | Oiseau | 40-75 | 40-85 | 50-80 | 45-65 | 45-60 |
-| 334 | Altaria | 1 | Oiseau | 25-45 | 40-50 | 25-35 | 70-90 | 25-45 |
-| 344 | Kaorine | 1 | Stationnaire | 65-85 | 50-70 | 10-20 | 5-10 | 35-70 |
-| 357 | Tropius | 2 | Oiseau | 20-45 | 20-40 | 20-45 | 55-80 | 70-90 |
-| 373 | Drattak | 2 | Oiseau | 60-75 | 40-65 | 60-75 | 65-85 | 60-85 |
-| 376 | Métalosse | 4 | Stationnaire | 60-75 | 35-55 | 45-75 | 10-25 | 25-45 |
-| 380 | Latias | 1 | Jet | 70-95 | 70-95 | 75-90 | 85-100 | 85-100 |
-| 381 | Latios | 1 | Jet | 70-95 | 70-95 | 85-100 | 70-95 | 80-100 |
-| 398 | Étouraptor | 1 | Oiseau | 45-70 | 25-45 | 35-55 | 45-70 | 45-65 |
-| 426 | Grodrive | 1 | Stationnaire | 10-20 | 15-25 | 5-15 | 40-80 | 60-100 |
-| 430 | Corboss | 1 | Oiseau | 20-40 | 30-50 | 20-35 | 55-75 | 50-70 |
-| 437 | Archéodong | 2 | Stationnaire | 40-65 | 25-40 | 15-30 | 10-20 | 30-50 |
-| 445 | Carchacrok | 1 | Jet | 50-70 | 50-60 | 70-80 | 30-50 | 20-70 |
-| 462 | Magnézone | 1 | Stationnaire | 65-90 | 35-50 | 20-35 | 5-15 | 45-65 |
-| 468 | Togekiss | 1 | Jet | 20-30 | 45-65 | 20-30 | 70-100 | 10-20 |
-| 477 | Noctunoir | 1 | Stationnaire | 45-60 | 60-70 | 15-25 | 0-5 | 45-80 |
-| 601 | Cliticlic | 1 | Stationnaire | 40-60 | 40-60 | 30-40 | 5-10 | 15-25 |
-| 623 | Golemastoc | 3 | Fusée | 10-35 | 15-30 | 45-75 | 30-50 | 25-40 |
-| 628 | Gueriaigle | 1 | Oiseau | 35-55 | 30-50 | 45-70 | 55-85 | 35-55 |
-| 628 | Gueriaigle (Hisui) | 1 | Bird | 30-50 | 30-50 | 40-65 | 60-90 | 40-60 |
-| 635 | Trioxhydre | 2 | Oiseau | 35-55 | 30-60 | 45-60 | 75-100 | 5-10 |
-| 637 | Pyrax | 1 | Oiseau | 45-65 | 55-75 | 30-50 | 65-90 | 25-35 |
-| 715 | Bruyverne | 1 | Oiseau | 40-65 | 50-85 | 55-90 | 30-45 | 55-85 |
-| 823 | Corvaillus | 2 | Oiseau | 35-55 | 20-35 | 25-40 | 80-100 | 80-100 |
-| 887 | Lanssorien | 1 | Jet | 60-85 | 55-70 | 55-90 | 25-35 | 45-80 |
-| 941 | Fulgulairo | 1 | Oiseau | 35-50 | 40-65 | 30-45 | 40-65 | 50-70 |
+| Pokémon | Accél. | Maniab. | Vit. | End. | Saut |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Dracaufeu | 45-75 | 55-85 | 30-65 | 45-75 | 30-65 |
+| Tortank | 5-40 | 30-60 | 5-15 | 2-20 | 10-20 |
+| Léviator | 35-60 | 45-65 | 15-50 | 15-55 | 20-45 |
+| Ptéra | 35-65 | 35-70 | 45-75 | 40-65 | 45-75 |
+| Artikodin | 70-85 | 80-100 | 65-90 | 70-90 | 65-90 |
+| Électhor | 65-90 | 70-85 | 80-100 | 65-85 | 70-85 |
+| Sulfura | 70-85 | 65-90 | 70-85 | 80-100 | 65-90 |
+| Dracolosse | 35-50 | 50-85 | 40-60 | 50-85 | 50-70 |
+| Forêtress | 20-40 | 25-45 | 15-25 | 0-5 | 5-10 |
+| Scarhino | 40-65 | 55-85 | 35-50 | 35-55 | 0-5 |
+| Démanta | 75-100 | 30-50 | 20-40 | 0-0 | 25-45 |
+| Lugia | 65-85 | 60-80 | 60-80 | 65-90 | 75-90 |
+| Ho-Oh | 75-95 | 65-85 | 75-90 | 80-100 | 75-100 |
+| Libégon | 40-75 | 40-85 | 50-80 | 45-65 | 45-60 |
+| Altaria | 25-45 | 40-50 | 25-35 | 70-90 | 25-45 |
+| Kaorine | 65-85 | 50-70 | 10-20 | 5-10 | 35-70 |
+| Tropius | 20-45 | 20-40 | 20-45 | 55-80 | 70-90 |
+| Drattak | 60-75 | 40-65 | 60-75 | 65-85 | 60-85 |
+| Métalosse | 60-75 | 35-55 | 45-75 | 10-25 | 25-45 |
+| Latias | 70-95 | 70-95 | 75-90 | 85-100 | 85-100 |
+| Latios | 70-95 | 70-95 | 85-100 | 70-95 | 80-100 |
+| Étouraptor | 45-70 | 25-45 | 35-55 | 45-70 | 45-65 |
+| Grodrive | 10-20 | 15-25 | 5-15 | 40-80 | 60-100 |
+| Corboss | 20-40 | 30-50 | 20-35 | 55-75 | 50-70 |
+| Archéodong | 40-65 | 25-40 | 15-30 | 10-20 | 30-50 |
+| Carchacrok | 50-70 | 50-60 | 70-80 | 30-50 | 20-70 |
+| Magnézone | 65-90 | 35-50 | 20-35 | 5-15 | 45-65 |
+| Togekiss | 20-30 | 45-65 | 20-30 | 70-100 | 10-20 |
+| Noctunoir | 45-60 | 60-70 | 15-25 | 0-5 | 45-80 |
+| Cliticlic | 40-60 | 40-60 | 30-40 | 5-10 | 15-25 |
+| Golemastoc | 10-35 | 15-30 | 45-75 | 30-50 | 25-40 |
+| Gueriaigle | 35-55 | 30-50 | 45-70 | 55-85 | 35-55 |
+| Gueriaigle (Hisui) | 30-50 | 30-50 | 40-65 | 60-90 | 40-60 |
+| Trioxhydre | 35-55 | 30-60 | 45-60 | 75-100 | 5-10 |
+| Pyrax | 45-65 | 55-75 | 30-50 | 65-90 | 25-35 |
+| Bruyverne | 40-65 | 50-85 | 55-90 | 30-45 | 55-85 |
+| Corvaillus | 35-55 | 20-35 | 25-40 | 80-100 | 80-100 |
+| Lanssorien | 60-85 | 55-70 | 55-90 | 25-35 | 45-80 |
+| Fulgulairo | 35-50 | 40-65 | 30-45 | 40-65 | 50-70 |
 
 </details>
 
@@ -469,18 +465,3 @@ Certains Pokémon, styles de monture et statistiques peuvent être ajoutés, mod
 Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
 </p>
 {% endhint %}
-
----
-
-| Pokémon | Places | Accél. | Maniab. | Vitesse | Endur. | Saut |
-| :-------- | :----: | :----: | :-----: | :------: | :----: | :--: |
-| Florizarre | 1 | 40-75 | 10-40 | 30-55 | 45-85 | 40-60 |
-| Dracaufeu | 1 | 55-65 | 10-25 | 25-40 | 20-30 | 15-25 |
-| Tortank | 2 | 30-50 | 10-35 | 30-65 | 15-35 | 15-30 |
-| Parasect | 1 | 50-70 | 45-65 | 15-30 | 15-30 | 0-15 |
-| Arcanin | 1 | 70-90 | 40-80 | 45-70 | 35-80 | 45-65 |
-| Lamantine | 2 | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
-| Rhinocorne | 1 | 5-20 | 5-25 | 25-60 | 40-80 | 5-15 |
-| Rhinoféros | 1 | 55-75 | 30-60 | 5-15 | 55-90 | 20-30 |
-| Mr. Mime | 1 | 20-40 | 15-45 | 25-45 | 35-60 | 15-35 |
-| Tauros | 1 | 15-50 | 15-30 | 55-75 | 35-55 | 25-35 |
