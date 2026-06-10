@@ -290,7 +290,7 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 ---
 
-| N° Dex | Nom du Pokémon | Places | Style de monture terrestre | Statistiques de monture |
+| N° Dex | Nom du Pokémon | Places | Monture terrestre | Statistiques de monture |
 | :---: | :---: | :---: | :---: | :---: | 
 | Accél. | Maniab. | Vit. | End. | Saut |
 | --- | --- | --- | --- | --- |
@@ -380,7 +380,7 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 <details><summary><strong>🌊 Liste des montures aquatiques</strong></summary>
 
-| N° Dex | Nom du Pokémon | Places | Style de monture aquatique | Statistiques de monture |
+| N° Dex | Nom du Pokémon | Places | Monture aquatique | Statistiques de monture |
 | :---: | :---: | :---: | :---: | :---: |
 | Accél. | Maniab. | Vit. | End. | Saut |
 | --- | --- | --- | --- | --- |
@@ -408,7 +408,7 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 <details><summary><strong>🪶 Liste des montures aériennes</strong></summary>
 
-| N° Dex | Nom du Pokémon | Places | Style de monture aérienne | Statistiques de monture |
+| N° Dex | Nom du Pokémon | Places | Monture aérienne | Statistiques de monture |
 | :---: | :---: | :---: | :---: | :---: |
 | Accél. | Maniab. | Vit. | End. | Saut |
 | --- | --- | --- | --- | --- |
