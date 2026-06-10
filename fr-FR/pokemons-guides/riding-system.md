@@ -378,6 +378,8 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 
 <details><summary><strong>🌊 Liste des montures aquatiques</strong></summary>
 
+---
+
 | Pokémon | Accél. | Maniab. | Vit. | End. | Saut |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | Tortank | 45-65 | 50-75 | 35-65 | 35-70 | 30-50 |
@@ -403,6 +405,8 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 ---
 
 <details><summary><strong>🪶 Liste des montures aériennes</strong></summary>
+
+---
 
 | Pokémon | Accél. | Maniab. | Vit. | End. | Saut |
 | :--- | :---: | :---: | :---: | :---: | :---: |
