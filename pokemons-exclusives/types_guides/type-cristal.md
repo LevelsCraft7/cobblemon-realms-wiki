@@ -1,4 +1,4 @@
-## 📖 Crystal Type Overview
+# 📖 Crystal Type Overview
 
 The **Crystal type** has its own unique mechanics:
 
