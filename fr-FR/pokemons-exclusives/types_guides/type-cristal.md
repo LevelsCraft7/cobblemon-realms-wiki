@@ -1,4 +1,4 @@
-# 📖 Présentation du type Cristal
+# ✨💎 À propos du type Cristal
 
 Le **type Cristal** possède ses propres mécaniques :
 
