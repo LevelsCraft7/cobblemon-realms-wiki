@@ -474,8 +474,8 @@ Si vous avez des questions, des suggestions ou des modifications à proposer, n'
 
 ---
 
-| Nom du Pokémon | Places | Accél. | Maniab. | Vit. | End. | Saut |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| Pokémon | Places | Accél. | Maniab. | Vitesse | Endur. | Saut |
+| :-------- | :----: | :----: | :-----: | :------: | :----: | :--: |
 | Florizarre | 1 | 40-75 | 10-40 | 30-55 | 45-85 | 40-60 |
 | Dracaufeu | 1 | 55-65 | 10-25 | 25-40 | 20-30 | 15-25 |
 | Tortank | 2 | 30-50 | 10-35 | 30-65 | 15-35 | 15-30 |
