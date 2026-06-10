@@ -474,54 +474,15 @@ Si vous avez des questions, des suggestions ou des modifications à proposer, n'
 
 ---
 
-<table>
-  <thead>
-    <tr>
-      <th rowspan="2">N° Dex</th>
-      <th rowspan="2">Nom du Pokémon</th>
-      <th rowspan="2">Places</th>
-      <th rowspan="2">Monture terrestre</th>
-      <th colspan="5">Statistiques de monture</th>
-    </tr>
-    <tr>
-      <th>Accél.</th>
-      <th>Maniab.</th>
-      <th>Vit.</th>
-      <th>End.</th>
-      <th>Saut</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>003</td><td>Florizarre</td><td>1</td><td>Standard</td><td>40-75</td><td>10-40</td><td>30-55</td><td>45-85</td><td>40-60</td></tr>
-    <tr><td>006</td><td>Dracaufeu</td><td>1</td><td>Standard</td><td>55-65</td><td>10-25</td><td>25-40</td><td>20-30</td><td>15-25</td></tr>
-    <tr><td>009</td><td>Tortank</td><td>2</td><td>Standard</td><td>30-50</td><td>10-35</td><td>30-65</td><td>15-35</td><td>15-30</td></tr>
-    <tr><td>047</td><td>Parasect</td><td>1</td><td>Standard</td><td>50-70</td><td>45-65</td><td>15-30</td><td>15-30</td><td>0-15</td></tr>
-    <tr><td>059</td><td>Arcanin</td><td>1</td><td>Standard</td><td>70-90</td><td>40-80</td><td>45-70</td><td>35-80</td><td>45-65</td></tr>
-    <tr><td>087</td><td>Lamantine</td><td>2</td><td>Standard</td><td>10-40</td><td>80-100</td><td>10-40</td><td>10-40</td><td>10-40</td></tr>
-    <tr><td>111</td><td>Rhinocorne</td><td>1</td><td>Standard</td><td>5-20</td><td>5-25</td><td>25-60</td><td>40-80</td><td>5-15</td></tr>
-    <tr><td>112</td><td>Rhinoféros</td><td>1</td><td>Standard</td><td>55-75</td><td>30-60</td><td>5-15</td><td>55-90</td><td>20-30</td></tr>
-    <tr><td>122</td><td>Mr. Mime</td><td>1</td><td>Standard</td><td>20-40</td><td>15-45</td><td>25-45</td><td>35-60</td><td>15-35</td></tr>
-    <tr><td>128</td><td>Tauros</td><td>1</td><td>Standard</td><td>15-50</td><td>15-30</td><td>55-75</td><td>35-55</td><td>25-35</td></tr>
-    <tr><td>128</td><td>Tauros (Paldea-Aqua)</td><td>1</td><td>Standard</td><td>15-50</td><td>15-30</td><td>50-70</td><td>40-60</td><td>25-30</td></tr>
-    <tr><td>128</td><td>Tauros (Paldea-Blaze)</td><td>1</td><td>Standard</td><td>20-55</td><td>15-30</td><td>55-75</td><td>30-50</td><td>25-40</td></tr>
-    <tr><td>128</td><td>Tauros (Paldea-Combat)</td><td>1</td><td>Standard</td><td>15-50</td><td>15-30</td><td>55-75</td><td>35-55</td><td>25-35</td></tr>
-    <tr><td>130</td><td>Léviator</td><td>1</td><td>Standard</td><td>10-40</td><td>80-100</td><td>10-40</td><td>10-40</td><td>10-40</td></tr>
-    <tr><td>131</td><td>Lokhlass</td><td>1</td><td>Standard</td><td>10-40</td><td>80-100</td><td>10-40</td><td>10-40</td><td>10-40</td></tr>
-    <tr><td>142</td><td>Ptéra</td><td>1</td><td>Standard</td><td>55-75</td><td>15-45</td><td>10-20</td><td>20-45</td><td>25-35</td></tr>
-    <tr><td>144</td><td>Artikodin</td><td>1</td><td>Standard</td><td>70-90</td><td>30-60</td><td>10-20</td><td>40-80</td><td>25-50</td></tr>
-    <tr><td>145</td><td>Électhor</td><td>1</td><td>Standard</td><td>70-90</td><td>30-60</td><td>10-20</td><td>40-80</td><td>25-50</td></tr>
-    <tr><td>146</td><td>Sulfura</td><td>1</td><td>Standard</td><td>70-90</td><td>30-60</td><td>10-20</td><td>40-80</td><td>25-50</td></tr>
-    <tr><td>149</td><td>Dracolosse</td><td>2</td><td>Standard</td><td>10-40</td><td>80-100</td><td>10-40</td><td>10-40</td><td>10-40</td></tr>
-    <tr><td>168</td><td>Migalos</td><td>1</td><td>Standard</td><td>55-85</td><td>45-65</td><td>30-45</td><td>15-30</td><td>25-45</td></tr>
-    <tr><td>203</td><td>Girafarig</td><td>1</td><td>Standard</td><td>40-65</td><td>20-35</td><td>25-45</td><td>30-50</td><td>30-45</td></tr>
-    <tr><td>214</td><td>Scarhino</td><td>1</td><td>Standard</td><td>55-70</td><td>40-65</td><td>15-30</td><td>35-50</td><td>35-50</td></tr>
-    <tr><td>217</td><td>Ursaring</td><td>1</td><td>Standard</td><td>45-80</td><td>20-45</td><td>30-40</td><td>30-65</td><td>25-40</td></tr>
-    <tr><td>221</td><td>Cochignon</td><td>1</td><td>Standard</td><td>30-50</td><td>30-45</td><td>10-25</td><td>35-70</td><td>5-10</td></tr>
-    <tr><td>226</td><td>Démanta</td><td>1</td><td>Standard</td><td>10-40</td><td>80-100</td><td>10-40</td><td>10-40</td><td>10-40</td></tr>
-    <tr><td>249</td><td>Lugia</td><td>1</td><td>Standard</td><td>10-40</td><td>80-100</td><td>10-40</td><td>10-40</td><td>10-40</td></tr>
-    <tr><td>250</td><td>Ho-Oh</td><td>2</td><td>Standard</td><td>10-40</td><td>80-100</td><td>10-40</td><td>10-40</td><td>10-40</td></tr>
-    <tr><td>289</td><td>Monaflèmit</td><td>1</td><td>Standard</td><td>0-20</td><td>0-20</td><td>25-65</td><td>60-100</td><td>25-40</td></tr>
-    <tr><td>320</td><td>Wailmer</td><td>1</td><td>Standard</td><td>10-40</td><td>80-100</td><td>10-40</td><td>10-40</td><td>10-40</td></tr>
-    <tr><td>321</td><td>Wailord</td><td>19</td><td>Standard</td><td>10-40</td><td>80-100</td><td>10-40</td><td>10-40</td><td>10-40</td></tr>
-  </tbody>
-</table>
+| Nom du Pokémon | Places | Monture terrestre | Accél. | Maniab. | Vit. | End. | Saut |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Florizarre | 1 | Standard | 40-75 | 10-40 | 30-55 | 45-85 | 40-60 |
+| Dracaufeu | 1 | Standard | 55-65 | 10-25 | 25-40 | 20-30 | 15-25 |
+| Tortank | 2 | Standard | 30-50 | 10-35 | 30-65 | 15-35 | 15-30 |
+| Parasect | 1 | Standard | 50-70 | 45-65 | 15-30 | 15-30 | 0-15 |
+| Arcanin | 1 | Standard | 70-90 | 40-80 | 45-70 | 35-80 | 45-65 |
+| Lamantine | 2 | Standard | 10-40 | 80-100 | 10-40 | 10-40 | 10-40 |
+| Rhinocorne | 1 | Standard | 5-20 | 5-25 | 25-60 | 40-80 | 5-15 |
+| Rhinoféros | 1 | Standard | 55-75 | 30-60 | 5-15 | 55-90 | 20-30 |
+| Mr. Mime | 1 | Standard | 20-40 | 15-45 | 25-45 | 35-60 | 15-35 |
+| Tauros | 1 | Standard | 15-50 | 15-30 | 55-75 | 35-55 | 25-35 |
