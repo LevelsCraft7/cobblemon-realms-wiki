@@ -471,6 +471,3 @@ Certains Pokémon, styles de monture et statistiques peuvent être ajoutés, mod
 Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
 </p>
 {% endhint %}
-
-<th style="background-color: #ad5555;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Accel.
-</th>
