@@ -48,6 +48,7 @@
 - [☀️ Fusions de Necrozma](pokemons-exclusives/necrozma-fusions.md)
 - [🌕 Ursaluna Bloodmoon](pokemons-exclusives/bloodmoon-ursaluna.md)
 - [💎 Onix & Steelix de Cristal](pokemons-exclusives/crystal-onix.md)
+   - [✨💎 À propos du type Cristal](pokemons-exclusives/types_guides/type-cristal.md)
 - [🥋 Évolutions de Wushours](pokemons-exclusives/kubfu-evolutions.md)
 - [⚡ Forme chargée de Meltan](pokemons-exclusives/meltan-charged.md)
 - [🦊 Évolutions supplémentaires d'Évoli](pokemons-exclusives/extra-eevee.md)
