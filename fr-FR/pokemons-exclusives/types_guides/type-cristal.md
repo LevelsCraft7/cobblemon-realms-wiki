@@ -1,5 +1,7 @@
 # ✨💎 À propos du type Cristal
 
+## 📖 Présentation du type Cristal
+
 Le **type Cristal** possède ses propres mécaniques :
 
 - ✨ Téracristallisation (Tera)
