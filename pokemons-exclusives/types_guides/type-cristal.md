@@ -1,7 +1,5 @@
 # ✨💎 About the Crystal Type
 
-## 📖 Crystal Type Overview
-
 The **Crystal type** has its own unique mechanics:
 
 - ✨ Exclusive Terastalization (Tera)
