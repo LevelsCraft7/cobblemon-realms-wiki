@@ -291,8 +291,8 @@ Les statistiques sont indiquées par type de monture et proviennent directement 
 ---
 
 | N° Dex | Nom du Pokémon | Places | Style de monture terrestre | Statistiques de monture |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|       |       |       |       |       |       | Accél. | Maniab. | Vit. | End. | Saut |
+| :---: | :---: | :---: | :---: | :---: | 
+| Accél. | Maniab. | Vit. | End. | Saut |
 | --- | --- | --- | --- | --- |
 | 003 | Florizarre | 1 | Standard | 40-75 | 10-40 | 30-55 | 45-85 | 40-60 |
 | 006 | Dracaufeu | 1 | Standard | 55-65 | 10-25 | 25-40 | 20-30 | 15-25 |
