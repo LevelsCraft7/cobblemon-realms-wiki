@@ -23,7 +23,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### 1
+### 🐟 Motifs naturels
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -38,7 +38,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### 2
+### 🌸 Motifs roses
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -48,7 +48,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### 3
+### ⚫ Motifs gris
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -58,7 +58,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### 4
+### 🟣 Motifs violets
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -68,7 +68,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### 5
+### 🐅 Motifs abricot
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -78,7 +78,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### 6
+### 🐻 Motifs bruns
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -88,7 +88,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### 7
+### 🎭 Motifs masqués
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -97,7 +97,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### 8
+### 🎭 Motifs masqués sombres
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -106,7 +106,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### 9
+### 🌊 Motifs aquatiques
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -115,7 +115,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### 10
+### ✨ Motifs mystiques
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
