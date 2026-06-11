@@ -48,7 +48,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### ⚫ Motifs gris
+### ⚫ Motifs gris tachetés
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -58,7 +58,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### 🟣 Motifs violets
+### 🟣 Motifs violets tachetés
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -68,7 +68,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### 🐅 Motifs abricot
+### 🐅 Motifs rayés abricot
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -78,7 +78,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### 🐻 Motifs bruns
+### 🤎 Motifs rayés bruns
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -88,7 +88,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### 🎭 Motifs masqués
+### 🎭 Motifs masqués orange
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -97,7 +97,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### 🎭 Motifs masqués sombres
+### 🎭 Motifs masqués noirs
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -106,7 +106,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### 🌊 Motifs aquatiques
+### 🌊 Motifs Saucy Blue
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -115,7 +115,7 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 ---
 
-### ✨ Motifs mystiques
+### ✨ Motifs Saucy Violet
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
