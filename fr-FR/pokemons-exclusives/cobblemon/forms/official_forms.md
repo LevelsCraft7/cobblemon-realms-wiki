@@ -46,7 +46,7 @@ Vous trouverez ci-dessous la liste des apparences officielles actuellement dispo
 
 ---
 
-### 💗 Pikachu, Axoloto et Barbicha
+### ⚡ Pikachu, 💗 Axoloto et 🐟 Barbicha
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
