@@ -59,6 +59,7 @@
 
 - [✂️ Coupes de Couafarel](pokemons-exclusives/cosmetics/furfrou-trims.md)
 - [🕶️ Article Cosmétique](pokemons-exclusives/cosmetics/item-cosmetics.md)
+- [](pokemons-exclusives/cobblemon/cobblemon-forms.md)
 
 ## Guides des mods
 
