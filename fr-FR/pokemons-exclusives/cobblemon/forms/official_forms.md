@@ -18,6 +18,6 @@ Elles peuvent provenir de différentes sources :
 
 ## 📋 Apparences disponibles
 
-Vous trouverez ci-dessous la liste des apparences officielles actuellement disponibles...
+Vous trouverez ci-dessous la liste des apparences officielles actuellement disponibles.
 
 > *Cette liste pourra être complétée au fil des futures mises à jour.*
