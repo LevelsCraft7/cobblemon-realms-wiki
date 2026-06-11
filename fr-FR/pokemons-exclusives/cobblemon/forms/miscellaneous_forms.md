@@ -24,6 +24,8 @@ Vous trouverez ci-dessous la liste des formes diverses actuellement disponibles.
 
 ---
 
+### 🎭 Formes spéciales
+
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
 | Heart (Arbok) | Aléatoire | []() | Basée sur un motif imaginaire d’Arbok apparaissant dans l’épisode de l’animé « Une opération Leveinard ». Ce motif représente un symbole en forme de cœur. |
