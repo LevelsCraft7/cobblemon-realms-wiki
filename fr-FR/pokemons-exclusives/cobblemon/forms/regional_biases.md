@@ -22,7 +22,7 @@ Vous trouverez ci-dessous la liste des prédispositions régionales actuellement
 
 ---
 
-### Pikachu
+### ⚡ Pikachu
 
 | Nom de l'apparence | Condition d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -30,7 +30,7 @@ Vous trouverez ci-dessous la liste des prédispositions régionales actuellement
 
 ---
 
-### Brindibou et Efflèche
+### 🦉 Brindibou et Efflèche
 
 | Nom de l'apparence | Condition d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -39,7 +39,7 @@ Vous trouverez ci-dessous la liste des prédispositions régionales actuellement
 
 ---
 
-### Héricendre et Feurisson
+### 🔥 Héricendre et Feurisson
 
 | Nom de l'apparence | Condition d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -48,7 +48,7 @@ Vous trouverez ci-dessous la liste des prédispositions régionales actuellement
 
 ---
 
-### Moustillon et Mateloutre
+### 🌊 Moustillon et Mateloutre
 
 | Nom de l'apparence | Condition d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -57,7 +57,7 @@ Vous trouverez ci-dessous la liste des prédispositions régionales actuellement
 
 ---
 
-### Noeunoeuf et Osselait
+### 🥚 Noeunoeuf et 🦴 Osselait
 
 | Nom de l'apparence | Condition d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -66,7 +66,7 @@ Vous trouverez ci-dessous la liste des prédispositions régionales actuellement
 
 ---
 
-### Chlorobule et Mucuscule 
+### 🌿 Chlorobule et 🐌 Mucuscule
 
 | Nom de l'apparence | Condition d'obtention | Apparence classique et chromatique| Description |
 | :---: | :---: | :---: | :---: |
