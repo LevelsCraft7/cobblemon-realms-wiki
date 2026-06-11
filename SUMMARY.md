@@ -57,8 +57,8 @@
 
 ## Pokémon Cosmetics
 
-- [✂️ Furfrou Hairstyles](pokemons-exclusives/cosmetics/furfrou-trims.md)
-- [🕶️ Item Cosmetics](pokemons-exclusives/cosmetics/item-cosmetics.md)
+- [✂️ Furfrou Hairstyles](pokemons-exclusives/cobblemon/cosmetics/furfrou-trims.md)
+- [🕶️ Item Cosmetics](pokemons-exclusives/cobblemon/cosmetics/item-cosmetics.md)
 
 ## Mod Guides
 
