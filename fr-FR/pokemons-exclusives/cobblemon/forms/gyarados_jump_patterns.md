@@ -23,7 +23,7 @@ Vous trouverez ci-dessous la liste des motifs de Léviator Jump actuellement dis
 
 ---
 
-### 1
+### 🐟 Motifs naturels
 
 | Nom de l'apparence | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: |
@@ -35,7 +35,7 @@ Vous trouverez ci-dessous la liste des motifs de Léviator Jump actuellement dis
 
 ---
 
-### 2
+### 🟠 Motifs orange
 
 | Nom de l'apparence | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: |
@@ -45,7 +45,7 @@ Vous trouverez ci-dessous la liste des motifs de Léviator Jump actuellement dis
 
 ---
 
-### 3
+### 🌸 Motifs roses
 
 | Nom de l'apparence | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: |
@@ -55,7 +55,7 @@ Vous trouverez ci-dessous la liste des motifs de Léviator Jump actuellement dis
 
 ---
 
-### 4
+### ⚫ Motifs gris tachetés
 
 | Nom de l'apparence | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: |
@@ -65,7 +65,7 @@ Vous trouverez ci-dessous la liste des motifs de Léviator Jump actuellement dis
 
 ---
 
-### 5
+### 🟣 Motifs violets tachetés
 
 | Nom de l'apparence | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: |
@@ -75,7 +75,7 @@ Vous trouverez ci-dessous la liste des motifs de Léviator Jump actuellement dis
 
 ---
 
-### 6
+### 🐅 Motifs rayés abricot
 
 | Nom de l'apparence | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: |
@@ -85,7 +85,7 @@ Vous trouverez ci-dessous la liste des motifs de Léviator Jump actuellement dis
 
 ---
 
-### 7
+### 🤎 Motifs rayés bruns
 
 | Nom de l'apparence | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: |
@@ -95,7 +95,7 @@ Vous trouverez ci-dessous la liste des motifs de Léviator Jump actuellement dis
 
 ---
 
-### 8
+### 🎭 Motifs masqués orange
 
 | Nom de l'apparence | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: |
@@ -104,7 +104,7 @@ Vous trouverez ci-dessous la liste des motifs de Léviator Jump actuellement dis
 
 ---
 
-### 9
+### 🎭 Motifs masqués noirs
 
 | Nom de l'apparence | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: |
@@ -113,7 +113,7 @@ Vous trouverez ci-dessous la liste des motifs de Léviator Jump actuellement dis
 
 ---
 
-### 10
+### 🌊 Motifs Saucy Blue
 
 | Nom de l'apparence | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: |
@@ -122,7 +122,7 @@ Vous trouverez ci-dessous la liste des motifs de Léviator Jump actuellement dis
 
 ---
 
-### 11
+### ✨ Motifs Saucy Violet
 
 | Nom de l'apparence | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: |
