@@ -20,6 +20,8 @@ Vous trouverez ci-dessous la liste des prédispositions régionales actuellement
 
 > *Cette liste pourra être complétée au fil des futures mises à jour.*
 
+---
+
 ### Pikachu
 
 | Nom de l'apparence | Condition d'obtention | Apparence | Apparence chromatique | Description |
