@@ -21,6 +21,8 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 
 > *Cette liste pourra être complétée au fil des futures mises à jour.*
 
+---
+
 ### 1
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
@@ -119,5 +121,3 @@ Vous trouverez ci-dessous la liste des motifs de Magicarpe actuellement disponib
 | :---: | :---: | :---: | :---: |
 | Saucy Violet | Chance ×3 dans les biomes Jungle ou Effrayant. Chance ×5 dans les biomes Magique. | []() | Remplace la couleur orange par du violet avec un ventre en forme d’éclaboussure violet clair. La forme chromatique remplace le violet par un rose foncé et le violet clair par un rose profond. |
 | Violet Raindrops | Chance ×3 dans les biomes Jungle ou Effrayant. Chance ×5 dans les biomes Magique. | []() | Remplace la couleur orange par du violet avec une grande partie du corps recouverte d’un violet plus clair formant un motif de gouttes de pluie. La forme chromatique remplace le violet par un rose foncé et le violet clair par un rose profond. |
-
----
