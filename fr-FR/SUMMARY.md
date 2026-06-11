@@ -59,7 +59,12 @@
 
 - [✂️ Coupes de Couafarel](pokemons-exclusives/cobblemon/cosmetics/furfrou-trims.md)
 - [🕶️ Article Cosmétique](pokemons-exclusives/cobblemon/cosmetics/item-cosmetics.md)
-- [🎨 Apparences Spéciales](pokemons-exclusives/cobblemon/forms/cobblemon-forms.md) 
+- [🎨 Apparences Spéciales](pokemons-exclusives/cobblemon/forms/cobblemon-forms.md)
+   - [✨ Apparences Officielles](pokemons-exclusives/cobblemon/forms/official_forms.md)
+   - [⛏️ Apparences Minecraft](pokemons-exclusives/cobblemon/forms/minecraft_forms.md)
+   - [🌍 Prédispositions régionales](pokemons-exclusives/cobblemon/forms/regional_biases.md)
+      - [🎣 Magikarp Jump](pokemons-exclusives/cobblemon/forms/magikarp_jump_forms.md)
+      - [🐉 Léviator Jump](pokemons-exclusives/cobblemon/forms/gyarados_jump_patterns.md)
 
 ## Guides des mods
 
