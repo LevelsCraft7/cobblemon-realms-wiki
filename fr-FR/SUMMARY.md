@@ -65,6 +65,7 @@
    - [🌍 Prédispositions régionales](pokemons-exclusives/cobblemon/forms/regional_biases.md)
    - [🎣 Magikarp Jump](pokemons-exclusives/cobblemon/forms/magikarp_jump_forms.md)
    - [🐉 Léviator Jump](pokemons-exclusives/cobblemon/forms/gyarados_jump_patterns.md)
+   - [🎭 Formes Diverses](pokemons-exclusives/cobblemon/forms/miscellaneous_forms.md)
 
 ## Guides des mods
 
