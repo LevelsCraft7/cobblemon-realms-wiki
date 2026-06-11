@@ -22,7 +22,7 @@ Vous trouverez ci-dessous la liste des formes Minecraft actuellement disponibles
 
 > *Cette liste pourra être complétée au fil des futures mises à jour.*
 
-### Foretress et Écrémeuh
+### 🌾 Foretress et Écrémeuh
 
 | Nom de l'apparence | Condition d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -31,7 +31,7 @@ Vous trouverez ci-dessous la liste des formes Minecraft actuellement disponibles
 
 ---
 
-### Torterra
+### 🌳 Torterra
 
 | Nom de l'apparence | Condition d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -48,7 +48,7 @@ Vous trouverez ci-dessous la liste des formes Minecraft actuellement disponibles
 
 ---
 
-### Prismillon
+### 🦋 Prismillon
 
 | Nom de l'apparence | Condition d'obtention | Apparence classique et chromatique| Description |
 | :---: | :---: | :---: | :---: |
@@ -58,7 +58,7 @@ Vous trouverez ci-dessous la liste des formes Minecraft actuellement disponibles
 
 ---
 
-### Gromago 
+### 🪙 Gromago 
 
 | Nom de l'apparence | Condition d'obtention | Apparence | Apparence chromatique |
 | :---: | :---: | :---: | :---: |
