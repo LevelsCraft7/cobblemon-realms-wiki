@@ -57,9 +57,9 @@
 
 ## Cosmétiques Pokémon
 
-- [✂️ Coupes de Couafarel](pokemons-exclusives/cosmetics/furfrou-trims.md)
-- [🕶️ Article Cosmétique](pokemons-exclusives/cosmetics/item-cosmetics.md)
-- [](pokemons-exclusives/cobblemon/cobblemon-forms.md)
+- [✂️ Coupes de Couafarel](pokemons-exclusives/cobblemon/cosmetics/furfrou-trims.md)
+- [🕶️ Article Cosmétique](pokemons-exclusives/cobblemon/cosmetics/item-cosmetics.md)
+- [🎨 Apparences Spéciales](pokemons-exclusives/cobblemon/forms/cobblemon-forms.md) 
 
 ## Guides des mods
 
