@@ -17,32 +17,38 @@ Les <strong>apparences spéciales</strong> regroupent toutes les variantes <stro
 ---
 
 ### ✨ Formes officielles
-Formes ayant déjà fait une apparition dans un média officiel Pokémon (anime, jeux vidéo, manga, etc.), mais qui ne sont pas présentes dans les jeux principaux modernes.
+
+Cette catégorie regroupe des formes issues de l'univers officiel de Pokémon. Qu'elles proviennent de l'anime, du manga ou d'anciens jeux vidéo, ces apparences ont déjà existé dans un média Pokémon, même si elles ne sont plus présentes dans les jeux principaux modernes.
 
 ---
 
 ### ⛏️ Formes Minecraft
-Formes inspirées de l'univers de Minecraft et intégrant des éléments propres au jeu dans leur apparence.
+
+Ces apparences sont inspirées de l'univers de Minecraft. Blocs, créatures emblématiques ou références au jeu peuvent se retrouver dans le design de ces formes exclusives.
 
 ---
 
 ### 🌍 Prédispositions régionales
-Pré-évolutions de Pokémon régionaux permettant d'accéder à certaines formes régionales même lorsqu'aucune pré-évolution régionale officielle n'existe.
+
+Certains Pokémon possèdent une prédisposition naturelle à évoluer vers une forme régionale spécifique. Cette catégorie rassemble les pré-évolutions associées à ces variantes régionales particulières et explique leur fonctionnement.
 
 ---
 
 ### 🎣 Formes de Pokémon : Magikarp Jump
-Motifs exclusifs inspirés du jeu mobile **Pokémon : Magikarp Jump**.
+
+Inspirées du jeu mobile **Pokémon : Magikarp Jump**, ces apparences reprennent les nombreux motifs spéciaux de Magicarpe introduits dans ce titre. Chaque motif possède son propre style et peut être obtenu de différentes manières.
 
 ---
 
 ### 🐉 Motifs de Léviator Jump
-Apparences exclusives des Léviator obtenus à partir des Magicarpe de **Pokémon : Magikarp Jump**.
+
+Les Magicarpe de **Pokémon : Magikarp Jump** conservent leur apparence unique une fois évolués. Cette catégorie présente les différentes variantes de Léviator qui en découlent, ajoutées spécialement par Cobblemon.
 
 ---
 
 ### 📦 Formes diverses
-Toutes les apparences ne correspondant à aucune autre catégorie.
+
+Certaines apparences ne correspondent à aucune catégorie particulière. Cette section regroupe l'ensemble des variantes uniques ou atypiques qui ne trouvent pas leur place ailleurs.
 
 ---
 
