@@ -59,6 +59,7 @@
 
 - [✂️ Furfrou Hairstyles](pokemons-exclusives/cobblemon/cosmetics/furfrou-trims.md)
 - [🕶️ Item Cosmetics](pokemons-exclusives/cobblemon/cosmetics/item-cosmetics.md)
+- [🎨 Special Appearances](pokemons-exclusives/cobblemon/forms/cobblemon-forms.md)
 
 ## Mod Guides
 
