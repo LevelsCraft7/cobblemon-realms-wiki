@@ -41,8 +41,8 @@ Vous trouverez ci-dessous la liste des apparences officielles actuellement dispo
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
-| Valencia | Apparaît dans les biomes Jungle, Île Tropicale et Prairie Fleurie | []() | Basée sur les Papilusion apparaissant sur l'Île Valencia dans l'anime Pokémon. Les Papilusion Valencia possèdent des ailes aux teintes orangées ainsi qu'un motif d'ailes unique. |
-| Valencia | Apparaît dans les biomes Savane et Île Tropicale | []() | Basée sur les Rafflésia apparaissant sur l'Île Valencia dans l'anime Pokémon. Les Rafflésia Valencia possèdent un grand motif circulaire sur leurs pétales au lieu du motif à pois habituel. Leurs pétales et leurs yeux sont orange au lieu d'être rouges. Leur forme chromatique remplace cette couleur par du rose. |
+| Valencia | Apparaît dans les biomes Jungle, Île Tropicale et Prairie Fleurie | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/apparences_speciales/apparences_officielles/butterfree/gif/butterfree_valencia_male.gif) | Basée sur les Papilusion apparaissant sur l'Île Valencia dans l'anime Pokémon. Les Papilusion Valencia possèdent des ailes aux teintes orangées ainsi qu'un motif d'ailes unique. |
+| Valencia | Apparaît dans les biomes Savane et Île Tropicale | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/apparences_speciales/apparences_officielles/vileplume/gif/vileplume.gif) | Basée sur les Rafflésia apparaissant sur l'Île Valencia dans l'anime Pokémon. Les Rafflésia Valencia possèdent un grand motif circulaire sur leurs pétales au lieu du motif à pois habituel. Leurs pétales et leurs yeux sont orange au lieu d'être rouges. Leur forme chromatique remplace cette couleur par du rose. |
 
 ---
 
