@@ -24,7 +24,7 @@ Vous trouverez ci-dessous la liste des apparences officielles actuellement dispo
 
 ---
 
-### Arbok
+### 🐍 Arbok
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -37,7 +37,7 @@ Vous trouverez ci-dessous la liste des apparences officielles actuellement dispo
 
 ---
 
-### Papilusion et Rafflésia
+### 🌺 Papilusion et Rafflésia
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
@@ -46,7 +46,7 @@ Vous trouverez ci-dessous la liste des apparences officielles actuellement dispo
 
 ---
 
-### Pikachu, Axoloto et Barbicha
+### 💗 Pikachu, Axoloto et Barbicha
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
