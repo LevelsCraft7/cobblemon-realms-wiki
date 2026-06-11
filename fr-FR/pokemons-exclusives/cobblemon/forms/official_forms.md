@@ -28,7 +28,7 @@ Vous trouverez ci-dessous la liste des apparences officielles actuellement dispo
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
-| Legacy | Aléatoire | []() | Basée sur le motif ventral apparaissant dans Pokémon Rubis, Saphir et Émeraude. Celui-ci ressemble à un visage avec des yeux arrondis, une bouche rouge bordée de noir, deux crocs noirs ainsi que des sourcils et des cils noirs. |
+| Legacy | Aléatoire | [](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Cosmetiques/apparences_speciales/apparences_officielles/arbok/gif/arbok_attack.gif) | Basée sur le motif ventral apparaissant dans Pokémon Rubis, Saphir et Émeraude. Celui-ci ressemble à un visage avec des yeux arrondis, une bouche rouge bordée de noir, deux crocs noirs ainsi que des sourcils et des cils noirs. |
 | Attack | Aléatoire | []() | Basée sur le motif ventral du même nom apparaissant dans Pokémon Adventures. Il ressemble au motif classique, mais possède une marque en forme de losange au-dessus de la bouche ainsi que des yeux inclinés. |
 | Elusive | Aléatoire | []() | Basée sur le motif ventral d'invulnérabilité apparaissant dans Pokémon Adventures. Il ressemble à un visage souriant avec deux sourcils noirs, des yeux noirs entourés de jaune et une bouche noire formant un large sourire. |
 | Speed | Aléatoire | []() | Basée sur le motif ventral du même nom apparaissant dans Pokémon Adventures. Il représente un visage concentré avec des pupilles inclinées, une marque circulaire au-dessus des yeux, des sourcils rouges, des yeux arrondis et une bouche noire en forme de « V » inversé. |
