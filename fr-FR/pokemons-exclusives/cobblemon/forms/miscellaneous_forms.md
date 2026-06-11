@@ -1,4 +1,28 @@
+# 🎭 Formes Diverses
 
+{% hint style="info" %}
+<p align="center">
+Cette catégorie regroupe différentes apparences spéciales qui ne correspondent à aucune des autres catégories de formes disponibles. Elles proviennent d'inspirations variées, de références à l'animé Pokémon ou encore de variantes exclusives créées spécialement pour Cobblemon.
+</p>
+{% endhint %}
+
+Ces apparences possèdent plusieurs particularités :
+
+- 🎨 Chaque forme possède une origine ou une inspiration unique
+- 🌍 Les conditions d'obtention varient selon l'apparence
+- 📺 Certaines sont inspirées de l'animé Pokémon
+- 🧩 Elles ne peuvent être classées dans aucune autre catégorie de formes
+- ✨ Plusieurs disposent d'une apparence chromatique exclusive
+
+---
+
+## 📋 Apparences disponibles
+
+Vous trouverez ci-dessous la liste des formes diverses actuellement disponibles.
+
+> *Cette liste pourra être complétée au fil des futures mises à jour.*
+
+---
 
 | Nom de l'apparence | Méthode d'obtention | Apparence classique et chromatique | Description |
 | :---: | :---: | :---: | :---: |
