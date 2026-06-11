@@ -26,6 +26,8 @@ Vous trouverez ci-dessous la liste des apparences officielles actuellement dispo
 
 ### Arbok
 
+| Nom de l'apparence | Méthode d'obtention | Apparence | Apparence chromatique | Description |
+| :---: | :---: | :---: | :---: | :---: |
 | Legacy | Aléatoire | ... | ... | Basée sur le motif ventral apparaissant dans Pokémon Rubis, Saphir et Émeraude. Celui-ci ressemble à un visage avec des yeux arrondis, une bouche rouge bordée de noir, deux crocs noirs ainsi que des sourcils et des cils noirs. |
 | Attack | Aléatoire | ... | ... | Basée sur le motif ventral du même nom apparaissant dans Pokémon Adventures. Il ressemble au motif classique, mais possède une marque en forme de losange au-dessus de la bouche ainsi que des yeux inclinés. |
 | Elusive | Aléatoire | ... | ... | Basée sur le motif ventral d'invulnérabilité apparaissant dans Pokémon Adventures. Il ressemble à un visage souriant avec deux sourcils noirs, des yeux noirs entourés de jaune et une bouche noire formant un large sourire. |
@@ -46,6 +48,8 @@ Vous trouverez ci-dessous la liste des apparences officielles actuellement dispo
 
 ### Pikachu, Axoloto et Barbicha
 
+| Nom de l'apparence | Méthode d'obtention | Apparence | Apparence chromatique | Description |
+| :---: | :---: | :---: | :---: | :---: |
 | Prédisposition d'Alola | Apparaît dans les biomes Plage et Île Tropicale | ... | ... | Basée sur l'apparence de Puka, un Pikachu surfeur apparaissant dans l'épisode de l'anime « Le Pi-Kahuna », ainsi que sur celle de Raichu d'Alola. |
 | Marqué d'un cœur | Pêché avec une Poké Canne en utilisant un flotteur Love Ball. Les autres conditions sont identiques à celles d'un Axoloto classique. | ... | ... | Basée sur l'apparence d'un Axoloto appartenant à Olesia dans l'épisode de l'anime « No Big Woop! ». Il est presque identique à un Axoloto normal, à l'exception d'un marquage en forme de cœur sur son torse. |
 | Nero | Pêché avec une Poké Canne en utilisant un flotteur Master Ball. Les autres conditions sont identiques à celles d'un Barbicha classique. | ... | ... | Basée sur Nero, un Barbicha géant apparaissant dans l'épisode de l'anime « Whiscash and Ash ». Il est pratiquement identique à un Barbicha classique, mais possède une taille plus importante. |
