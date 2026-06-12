@@ -22,6 +22,8 @@ Vous trouverez ci-dessous la liste des formes Minecraft actuellement disponibles
 
 > *Cette liste pourra être complétée au fil des futures mises à jour.*
 
+---
+
 ### 🌾 Foretress et 🥛 Écrémeuh
 
 | Condition d'obtention | Apparence classique | Apparence chroma | Description |
