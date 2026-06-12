@@ -15,7 +15,7 @@ The Cobblemon Realms Wiki is now maintained directly by <strong>FabLeKebab</stro
 Even without directly contributing to the wiki, there are several ways you can support the project:
 
 | ✨ Support | 📋 Description |
-| :---: | :---: |
+| :--- | :---: |
 | 💜 Boost Discord | Support the community by boosting the server with <a href="https://discord.gg/kb8NSTF45n">Discord Nitro</a>. |
 | ❤️ Patreon | Help support the development and maintenance of the modpack through <a href="https://www.patreon.com/cw/OurStoryCollection">Patreon</a>. |
 | 🐛 Report Issues | Help keep the wiki accurate by reporting outdated or incorrect information. |
