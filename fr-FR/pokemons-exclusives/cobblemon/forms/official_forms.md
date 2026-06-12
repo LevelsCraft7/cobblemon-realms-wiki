@@ -37,7 +37,7 @@ Vous trouverez ci-dessous la liste des apparences officielles actuellement dispo
 
 ---
 
-### 🌺 Papilusion et Rafflésia
+### 🌺 Butterfree et Vileplume
 
 | Méthode d'obtention | Apparence classique | Apparence chroma | Description |
 | :---: | :---: | :---: | :---: |
@@ -46,7 +46,7 @@ Vous trouverez ci-dessous la liste des apparences officielles actuellement dispo
 
 ---
 
-### ⚡ Pikachu, 💗 Axoloto et 🐟 Barbicha
+### ⚡ Pikachu, 💗 Wooper et 🐟 Whiscash
 
 | Méthode d'obtention | Apparence classique | Apparence chroma | Description |
 | :---: | :---: | :---: | :---: |
