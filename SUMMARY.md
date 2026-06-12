@@ -60,7 +60,7 @@
 - [✂️ Furfrou Hairstyles](pokemons-exclusives/cobblemon/cosmetics/furfrou-trims.md)
 - [🕶️ Item Cosmetics](pokemons-exclusives/cobblemon/cosmetics/item-cosmetics.md)
 - [🎨 Special Appearances](pokemons-exclusives/cobblemon/forms/cobblemon-forms.md)
-- [✨ Official Forms](pokemons-exclusives/cobblemon/forms/official_forms.md)
+   - [✨ Official Forms](pokemons-exclusives/cobblemon/forms/official_forms.md)
    - [⛏️ Minecraft Forms](pokemons-exclusives/cobblemon/forms/minecraft_forms.md)
    - [🌍 Regional Biases](pokemons-exclusives/cobblemon/forms/regional_biases.md)
    - [🎣 Magikarp Jump Forms](pokemons-exclusives/cobblemon/forms/magikarp_jump_forms.md)
