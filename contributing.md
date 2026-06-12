@@ -1,62 +1,35 @@
-# 🤝 Contribution
+# 🤝 Support the Project
 
-## 🌟 Contribute to the Project
+## 🌟 Helping Cobblemon Realms Grow
 
 {% hint style="info" %}
 <p align="center">
-The Cobblemon Realms Wiki is a community-driven project. Every contribution, no matter how small, helps improve the documentation for all players.
+The Cobblemon Realms Wiki is now maintained directly by <strong>FabLeKebab</strong>. Your support helps us continue improving the documentation, the modpack, and the overall experience for the entire community.
 </p>
 {% endhint %}
 
 ---
 
-## 🧭 How to Contribute?
+## 💜 How Can You Help?
 
-You can contribute in different ways:
+Even without directly contributing to the wiki, there are several ways you can support the project:
 
-| ✨ Contribution Type | 📋 Examples |
-|----------------------|------------|
-| 📝 Corrections | Typos, mistakes, outdated information |
-| 📚 Documentation | Guides, tutorials, mod pages, or mechanics |
-| 🌍 Translations | Adding or improving available languages |
-| 💡 Suggestions | Ideas to improve content or navigation |
-
----
-
-## 🌍 Translations and Documentation
-
-All documentation is managed through GitHub and automatically published to GitBook.
-
-You can notably:
-
-- ✏️ Correct existing text
-- ➕ Add new information
-- 🌐 Translate pages into other languages
-- 🎨 Improve formatting and readability
-- 🔀 Submit your changes through a Pull Request
+| ✨ Support | 📋 Description |
+| :---: | :---: |
+| 💜 Boost Discord | Support the community by boosting the server with <a href="https://discord.gg/kb8NSTF45n">Discord Nitro</a>. |
+| ❤️ Patreon | Help support the development and maintenance of the modpack through <a href="https://www.patreon.com/cw/OurStoryCollection">Patreon</a>. |
+| 🐛 Report Issues | Help keep the wiki accurate by reporting outdated or incorrect information. |
+| 💡 Share Your Ideas | Suggest improvements for the server, the modpack, or the documentation. |
+| 📣 Spread the Word | Tell others about Cobblemon Realms and invite more players to join the community. |
 
 ---
 
-## 🛠️ Tools Used
-
-| 💻 Platform | 📋 Usage |
-|-------------|----------|
-| GitHub | File management, change tracking, and contributions |
-| GitBook | Documentation publishing and organization |
-
----
-
-### 💡 Best Practices
+## 🌍 Every Contribution Matters
 
 {% hint style="success" %}
-
-## ☝🏼 Before submitting a contribution:
-
-- ✅ Verify the accuracy of information
-- 📚 Keep formatting consistent
-- 💬 Use clear and understandable language
-- 🔍 Avoid duplicates whenever possible
-- 💬 Need help? Join our [Discord server](https://discord.gg/kb8NSTF45n).
+<p align="center">
+Whether it's a Discord boost, feedback, a suggestion, or simply sharing the project with others, every contribution helps Cobblemon Realms continue to grow.
+</p>
 {% endhint %}
 
 ---
