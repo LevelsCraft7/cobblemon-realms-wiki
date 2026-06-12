@@ -15,6 +15,14 @@ These appearances have several unique characteristics:
 
 ---
 
+## 📋 Available Forms
+
+Below is the list of currently available miscellaneous forms.
+
+> *This list may be expanded in future updates.*
+
+---
+
 ### 🐟 Natural Patterns
 
 | Acquisition Method | Standard Appearance | Shiny Appearance | Description |
