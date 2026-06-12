@@ -14,7 +14,7 @@ Le Wiki de Cobblemon Realms est désormais maintenu directement par <strong>FabL
 
 Même sans contribuer directement au wiki, vous pouvez soutenir le projet de différentes manières :
 
-- 💜 **Discord Nitro** ⮕ Booster le serveur Discord grâce au <a href="https://discord.gg/kb8NSTF45n">Discord Nitro</a>.
+- 💜 **Discord Nitro** ⮕ Booster le serveur Discord avec le <a href="https://discord.gg/kb8NSTF45n">Discord Nitro</a>.
 - ❤️ **Patreon** ⮕ Soutenir le développement du modpack via <a href="https://www.patreon.com/cw/OurStoryCollection">Patreon</a>.
 - 🐛 **Signalements** ⮕ Remonter les erreurs ou informations obsolètes.
 - 💡 **Suggestions** ⮕ Partager vos idées d'amélioration.
