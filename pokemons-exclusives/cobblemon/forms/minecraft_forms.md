@@ -22,6 +22,8 @@ Below is the list of currently available Minecraft forms.
 
 > *This list may be expanded in future updates.*
 
+---
+
 ### 🌾 Forretress et 🥛 Miltank
 
 | Acquisition Method | Standard Appearance | Shiny Appearance | Description |
