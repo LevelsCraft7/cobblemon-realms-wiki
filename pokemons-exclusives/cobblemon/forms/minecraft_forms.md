@@ -73,6 +73,6 @@ Below is the list of currently available Minecraft forms.
 
 {% hint style="info" %}
 <p align="center">
-Plus la Réserve de Ferraille de Mordudor est élevée lors de son évolution, plus le revêtement de Netherite recouvrant Gromago est important.
+Replaces Gholdengo's golden texture to a Netherite texture instead. Depending on the Scrap Stash amount depends on the amount of Netherite covering Gholdengo upon evolution, with 256 being the maximum. The shiny stays the same, having the silver bands on top of the Netherite covering.
 </p>
 {% endhint %}
