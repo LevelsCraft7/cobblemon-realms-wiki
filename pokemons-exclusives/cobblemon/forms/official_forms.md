@@ -22,6 +22,8 @@ Below is the list of currently available official forms.
 
 > *This list may be expanded in future updates.*
 
+---
+
 ### 🐍 Arbok
 
 | Méthode d'obtention | Apparence classique | Apparence chroma | Description |
