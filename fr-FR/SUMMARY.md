@@ -9,7 +9,7 @@
 - [📦 Installation](installation.md)
 - [🧭 Premiers pas](getting-started.md)
 - [❓ Foire aux questions](faq.md)
-- [🛠️ Contribution](contributing.md)
+- [🤝 Soutenir le projet](contributing.md)
 
 ## Cobblemon Realms
 
