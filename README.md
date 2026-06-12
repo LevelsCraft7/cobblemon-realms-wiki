@@ -80,19 +80,20 @@ If you are new to the modpack, we recommend following this order:
 
 ---
 
-## 🤝 Community & Contributions
+## 🤝 Support the Project
 
-📌 This documentation is collaborative and will continue to evolve over time.
+📌 The Cobblemon Realms Wiki is now maintained directly by the team. Even without an open contribution system, you can still help support and keep the project alive.
 
-You can contribute by:
+You can support us by:
 
-- ✏️ Fixing wording or phrasing
-- 📖 Improving existing guides
-- ➕ Adding missing information
-- 🌍 Suggesting corrections or translations
+- 💜 Boosting our Discord server with Discord Nitro
+- ❤️ Supporting the development of the modpack through Patreon
+- 📣 Spreading the word about Cobblemon Realms
+- 🐛 Reporting outdated or incorrect information on Discord
+- 💡 Sharing ideas and suggestions to help improve the player experience
 
 {% hint style="info" %}
-👉🏼 Start here to: <a href="contributing.md">Contribute</a>
+👉🏼 Start here to: <a href="contributing.md">Support the Project</a>
 {% endhint %}
 
 ---
