@@ -15,6 +15,14 @@ These appearances:
 
 ---
 
+## 📋 Available Forms
+
+Below is the list of currently available miscellaneous forms.
+
+> *This list may be expanded in future updates.*
+
+---
+
 ### 🐟 Natural Patterns
 
 | Standard Appearance | Shiny Appearance | Description |
