@@ -73,6 +73,6 @@ Vous trouverez ci-dessous la liste des formes Minecraft actuellement disponibles
 
 {% hint style="info" %}
 <p align="center">
-Plus la Réserve de Ferraille de Mordudor est élevée lors de son évolution, plus le revêtement de Netherite recouvrant Gromago est important.
+Remplace la texture dorée de Gromago par une texture inspirée de la Netherite. La quantité de Revêtement de Ferraille de Mordudor au moment de l'évolution détermine l'étendue du revêtement de Netherite recouvrant Gromago, avec un maximum atteint à 256. La forme chromatique conserve le même principe et ajoute des bandes argentées par-dessus le revêtement de Netherite.
 </p>
 {% endhint %}
