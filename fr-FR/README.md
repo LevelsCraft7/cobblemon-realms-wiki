@@ -80,19 +80,20 @@ Si vous découvrez le modpack, nous vous conseillons de suivre cet ordre :
 
 ---
 
-## 🤝 Communauté & Contributions
+## 🤝 Soutenir le projet
 
-📌 Cette documentation est collaborative et continuera d’évoluer avec le temps.
+📌 Le Wiki de Cobblemon Realms est désormais maintenu directement par l'équipe. Même sans système de contribution ouvert, vous pouvez toujours nous aider à faire vivre le projet.
 
-Vous pouvez contribuer en :
+Vous pouvez nous soutenir en :
 
-- ✏️ Corrigeant des formulations
-- 📖 Améliorant les guides existants
-- ➕ Ajoutant des informations manquantes
-- 🌍 Proposant des corrections ou des traductions
+- 💜 Prenant un abonnement Nitro sur notre serveur Discord
+- ❤️ Soutenant le développement du modpack via Patreon
+- 📣 Faisant connaître Cobblemon Realms autour de vous
+- 🐛 Signalant les erreurs ou informations obsolètes sur Discord
+- 💡 Proposant des idées et suggestions pour améliorer l'expérience des joueurs
 
 {% hint style="info" %}
-👉🏼 Commencez ici pour : <a href="contributing.md">Contribuer</a>
+👉🏼 Commencez ici pour : <a href="contributing.md">Soutenir le projet</a>
 {% endhint %}
 
 ---
