@@ -14,11 +14,11 @@ Le Wiki de Cobblemon Realms est désormais maintenu directement par <strong>FabL
 
 Même sans contribuer directement au wiki, vous pouvez soutenir le projet de différentes manières :
 
-- 💜 **Booster le serveur Discord** ⮕ Soutenez la communauté en boostant le serveur avec <a href="https://discord.gg/kb8NSTF45n">Discord Nitro</a>.
-- ❤️ **Soutenir le modpack sur Patreon** ⮕ Participez au développement et à la maintenance du modpack via <a href="https://www.patreon.com/cw/OurStoryCollection">Patreon</a>.
-- 🐛 **Signaler une erreur** ⮕ Aidez à maintenir un wiki fiable en remontant les informations incorrectes ou obsolètes.
-- 💡 **Partager vos idées** ⮕ Proposez des suggestions pour améliorer le serveur, le modpack ou la documentation.
-- 📣 **Faire connaître le projet** ⮕ Parlez de Cobblemon Realms autour de vous et invitez d'autres joueurs à rejoindre l'aventure.
+- 💜 **Discord Nitro** — Booster le serveur Discord grâce au <a href="https://discord.gg/kb8NSTF45n">Discord Nitro</a>.
+- ❤️ **Patreon** — Soutenir le développement du modpack via <a href="https://www.patreon.com/cw/OurStoryCollection">Patreon</a>.
+- 🐛 **Signalements** — Remonter les erreurs ou informations obsolètes.
+- 💡 **Suggestions** — Partager vos idées d'amélioration.
+- 📣 **Bouche-à-oreille** — Faire découvrir Cobblemon Realms à d'autres joueurs.
 
 ---
 
