@@ -48,6 +48,7 @@
 - [💠 Primal Dialga](pokemons-exclusives/primal_dialga.md)
 - [☀️ Fusions de Necrozma](pokemons-exclusives/necrozma-fusions.md)
 - [🌕 Ursaluna Bloodmoon](pokemons-exclusives/bloodmoon-ursaluna.md)
+- [☃️ Snowman Goinfrex & Ronflex](pokemons-exclusives/snowman_munchlax_snorlax.md)
 - [💎 Onix & Steelix de Cristal](pokemons-exclusives/crystal-onix.md)
    - [✨💎 À propos du type Cristal](pokemons-exclusives/types_guides/type-cristal.md)
 - [🥋 Évolutions de Wushours](pokemons-exclusives/kubfu-evolutions.md)
