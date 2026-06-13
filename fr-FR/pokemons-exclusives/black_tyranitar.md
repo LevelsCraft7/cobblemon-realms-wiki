@@ -35,7 +35,6 @@
 {% hint style="info" %}
 ## Information
 
-<p align="center">
 Apparaît <strong>extrêmement rarement</strong> au niveau 100 dans les villages générés naturellement (Vanilla & BCA).
 </p>
 {% endhint %}
