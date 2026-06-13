@@ -31,7 +31,7 @@
 
 ### 🔮 Fabrication de l'objet
 
-![Recette de fabrication du N-Solarizer](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/n-solarizer.png)
+![Recette de fabrication du N-Solarizer](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/n-solarizer_v2.png)
 
 ---
 
@@ -78,7 +78,7 @@
 
 ### 🔮 Fabrication de l'objet
 
-![Recette de fabrication du N-Lunarizer](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/n-lunarizer.png)
+![Recette de fabrication du N-Lunarizer](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/n-lunarizer_v2.png)
 
 ---
 
@@ -125,7 +125,7 @@
 
 ### 🔮 Fabrication de l'objet
 
-![Recette de fabrication de l'Ultranecrozium Z](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/ultranecrozium-z.png)
+![Recette de fabrication de l'Ultranecrozium Z](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/ultranecrozium-z_v2.png)
 
 ---
 
