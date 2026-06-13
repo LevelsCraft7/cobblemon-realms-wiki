@@ -63,7 +63,7 @@
 | 🌙 Défense Spé. | 110    |
 | ⚡ Vitesse       | 30     |
 
-![Snowman Ronflex](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/snowman_munchlax_snorlax/snowman_munchlax.png) ![Snowman Ronflex Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/snowman_munchlax_snorlax/snowman_munchlax_shiny.png)
+![Snowman Ronflex](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/snowman_munchlax_snorlax/snowman_snorlax.png) ![Snowman Ronflex Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/snowman_munchlax_snorlax/snowman_snorlax_shiny.png)
 
 ---
 
