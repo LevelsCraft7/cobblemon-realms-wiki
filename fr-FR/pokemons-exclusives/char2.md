@@ -19,7 +19,7 @@
 | 🌙 Défense Spé. | 50    |
 | ⚡ Vitesse       | 65     |
 
-![Ursaking Lune Vermeille](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/ursaluna_boodmon.png) ![Ursaking Lune Vermeille Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Mega-Shadown/ursaluna_bloodmon_shiny.png)
+![Salamèche Two](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/char2_bulb_squi2/charmander2.png) ![Salamèche Two Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/char2_bulb_squi2/charmander2_shiny.png)
 
 ---
 
