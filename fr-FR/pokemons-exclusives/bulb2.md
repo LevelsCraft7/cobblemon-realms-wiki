@@ -1,0 +1,67 @@
+# 🌱 Bulbizarre Two
+
+## 🌱 Bulbizarre Two
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_plante.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_poison.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 45      |
+| ⚔️ Attaque      | 49     |
+| 🛡️ Défense     | 49    |
+| ✨ Attaque Spé.  | 65    |
+| 🌙 Défense Spé. | 65    |
+| ⚡ Vitesse       | 45     |
+
+![Bulbizarre Two](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/char2_bulb_squi2/bulbasaur2.png) ![Bulbizarre Two Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/char2_bulb_squi2/bulbasaur2_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Engrais
+- **Talent caché :** Chlorophylle
+
+---
+
+### ❓ Méthode d'obtention
+
+Pour ressusciter des fossiles, il est nécessaire de construire au préalable une **Machine à Résurrection**.
+
+Cette structure est composée des trois blocs suivants :
+
+- `Analyseur de fossiles`
+- `Réservoir de restauration`
+- `Moniteur de données`
+
+Une fois la machine assemblée, vous pourrez restaurer les fossiles obtenus au cours de votre aventure.
+
+---
+
+### 🔄 Utilisation
+
+- 🖱️ Placez une `Étoile du Nether` et une `Graine Migraine` dans l'`Analyseur de fossiles`.
+- 🖱️ Connectez un `Entonnoir` au `Réservoir de restauration`, puis ajoutez-y de la matière organique.
+- 💤 Attendez la fin de la restauration, puis capturez le Pokémon avec une Poké Ball.
+
+---
+
+### 📜 Description
+
+> ///
+
+---
+
+{% hint style="success" %}
+## Nous contactez
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
