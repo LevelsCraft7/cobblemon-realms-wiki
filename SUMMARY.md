@@ -73,9 +73,9 @@
 - [🍃 Rustling Spots](mods-guides/rustling_spots.md)
 - [🧱 Chunky World Pre-generation](mods-guides/chunky.md)
 - [🧳 Luggage](mods-guides/luggage.md)
-- [Worlds and Dimensions](mods-guides/worlds_and_dimensions/worlds_and_dimensions.md)
-- [🕳️ Deeper and Darker](mods-guides/worlds_and_dimensions/deeper_and_darker.md)
-- [☁️ The Aether](mods-guides/worlds_and_dimensions/aether.md)
+- [🧭 Worlds and Dimensions](mods-guides/worlds_and_dimensions/worlds_and_dimensions.md)
+   - [🕳️ Deeper and Darker](mods-guides/worlds_and_dimensions/deeper_and_darker.md)
+   - [☁️ The Aether](mods-guides/worlds_and_dimensions/aether.md)
 
 ## Settings
 
