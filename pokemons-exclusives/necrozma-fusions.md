@@ -31,7 +31,7 @@
 
 ### 🔮 Item Crafting
 
-![N-Solarizer Crafting Recipe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/n-solarizer.png)
+![N-Solarizer Crafting Recipe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/n-solarizer_v2.png)
 
 ---
 
@@ -78,7 +78,7 @@
 
 ### 🔮 Item Crafting
 
-![N-Lunarizer Crafting Recipe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/n-lunarizer.png)
+![N-Lunarizer Crafting Recipe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/n-lunarizer_v2.png)
 
 ---
 
@@ -125,7 +125,7 @@
 
 ### 🔮 Item Crafting
 
-![Ultranecrozium Z Crafting Recipe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/ultranecrozium-z.png)
+![Ultranecrozium Z Crafting Recipe](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_megashowdown/ultranecrozium-z_v2.png)
 
 ---
 
