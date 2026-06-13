@@ -44,7 +44,7 @@
 - [🌊 Ash Greninja](pokemons-exclusives/ash-greninja.md)
 - [🧬 Formes exclusives de Mewtwo](pokemons-exclusives/mewtwo-exclusive-forms.md)
 - [🌑 Lugia Obscur](pokemons-exclusives/shadow-lugia.md)
-- [🦠 Groudon Virus](pokemons-exclusives/virus-groudon.md)
+- [🦠 Meta Groudon](pokemons-exclusives/virus-groudon.md)
 - [☀️ Fusions de Necrozma](pokemons-exclusives/necrozma-fusions.md)
 - [🌕 Ursaluna Bloodmoon](pokemons-exclusives/bloodmoon-ursaluna.md)
 - [💎 Onix & Steelix de Cristal](pokemons-exclusives/crystal-onix.md)
