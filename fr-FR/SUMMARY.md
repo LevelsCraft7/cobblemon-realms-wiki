@@ -46,6 +46,8 @@
 - [🌑 Lugia Obscur](pokemons-exclusives/shadow-lugia.md)
 - [🦠 Meta Groudon](pokemons-exclusives/virus-groudon.md)
 - [💠 Primal Dialga](pokemons-exclusives/primal_dialga.md)
+- [🌌 Rayquaza Illusion](pokemons-exclusives/illusionary_rayquaza.md)
+- [🦖 Tyranocif Noir](pokemons-exclusives/black_tyranitar.md)
 - [☀️ Fusions de Necrozma](pokemons-exclusives/necrozma-fusions.md)
 - [🌕 Ursaluna Bloodmoon](pokemons-exclusives/bloodmoon-ursaluna.md)
 - [☃️ Snowman Goinfrex & Ronflex](pokemons-exclusives/snowman_munchlax_snorlax.md)
@@ -53,9 +55,14 @@
    - [✨💎 À propos du type Cristal](pokemons-exclusives/types_guides/type-cristal.md)
 - [🥋 Évolutions de Wushours](pokemons-exclusives/kubfu-evolutions.md)
 - [⚡ Forme chargée de Meltan](pokemons-exclusives/meltan-charged.md)
+- [🔥🌱💧 Starters Two](pokemons-esclusives/char2_bulb_squi2.md)
+   - [🔥 Salamèche Two](pokemons-esclusives/charmander2.md)
+   - [🌱 Bulbizarre Two](pokemons-esclusives/bulbasaur2.md)
+   - [💧 Carapuce Two](pokemons-esclusives/squirtle2.md)
 - [🦊 Évolutions supplémentaires d'Évoli](pokemons-exclusives/extra-eevee.md)
-- [🔌 Formes appareil de Motisma](pokemons-exclusives/rotom-forms.md)
+- [🔌 Rotom Forms](pokemons-exclusives/rotom-forms.md)
 - [🌀 Formes Totémique](pokemons-exclusives/therian-forms.md)
+- [🤖 MT & MT2](pokemons-exclusives/mt_mt2.md)
 
 ## Cosmétiques Pokémon
 
