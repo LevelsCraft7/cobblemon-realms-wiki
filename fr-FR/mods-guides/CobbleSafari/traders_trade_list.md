@@ -20,13 +20,13 @@ Ils s'intéressent principalement aux différentes sphères récupérées durant
 
 Il existe trois variantes :
 
-- 🔴 Hiker aux petites sphères
-- 🔵 Hiker aux grandes sphères
+- 🟡 Hiker aux petites sphères
+- 🔴 Hiker aux grandes sphères
 - 💎 Hiker aux trésors
 
 ---
 
-## 🔴 Hiker aux petites sphères
+## 🟡 Hiker aux petites sphères
 
 Le **Hiker aux petites sphères** échange principalement les petites sphères contre des objets communs et diverses ressources utiles.
 
@@ -53,7 +53,7 @@ Cette variante propose entre 5 et 8 échanges différents.
 
 ---
 
-## 🔵 Hiker aux grandes sphères
+## 🔴 Hiker aux grandes sphères
 
 Le **Hiker aux grandes sphères** échange les grandes sphères contre des récompenses plus rares et des objets de valeur.
 
