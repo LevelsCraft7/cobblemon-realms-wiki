@@ -24,7 +24,7 @@ Ces commandes permettent de recharger ou réinitialiser certains systèmes de Co
 /cobblesafari refresh
 ```
 
-Recharge les fichiers de configuration du mod sans redémarrer le serveur.
+ℹ️ Recharge les fichiers de configuration du mod sans redémarrer le serveur.
 
 ---
 
@@ -34,7 +34,7 @@ Recharge les fichiers de configuration du mod sans redémarrer le serveur.
 /cobblesafari reset safari
 ```
 
-Réinitialise la Dimension Safari.
+ℹ️ Réinitialise la Dimension Safari.
 
 ---
 
@@ -44,7 +44,7 @@ Réinitialise la Dimension Safari.
 /cobblesafari reset dungeon
 ```
 
-Réinitialise les donjons et supprime les portails actifs.
+ℹ️ Réinitialise les donjons et supprime les portails actifs.
 
 {% hint style="danger" %}
 <p align="center">
@@ -64,7 +64,7 @@ Permet de faire apparaître les marchands CobbleSafari.
 /cobblesafari summon <name> <variant>
 ```
 
-Fait apparaître un marchand à votre position.
+ℹ️ Fait apparaître un marchand à votre position.
 
 ## `/cobblesafari summon_template`
 
@@ -72,7 +72,7 @@ Fait apparaître un marchand à votre position.
 /cobblesafari summon_template <name> <variant>
 ```
 
-Fait apparaître un marchand modèle destiné aux structures.
+ℹ️ Fait apparaître un marchand modèle destiné aux structures.
 
 ---
 
@@ -84,31 +84,31 @@ Fait apparaître un marchand modèle destiné aux structures.
 /cobblesafari timer safari add <joueur> <secondes>
 ```
 
-Ajoute du temps à un joueur dans la Dimension Safari.
+ℹ️ Ajoute du temps à un joueur dans la Dimension Safari.
 
 ```
 /cobblesafari timer safari remove <joueur> <secondes>
 ```
 
-Retire du temps à un joueur.
+ℹ️ Retire du temps à un joueur.
 
 ```
 /cobblesafari timer safari set <joueur> <secondes>
 ```
 
-Définit le temps restant.
+ℹ️ Définit le temps restant.
 
 ```
 /cobblesafari timer safari get <joueur>
 ```
 
-Affiche le temps restant.
+ℹ️ Affiche le temps restant.
 
 ```
 /cobblesafari timer safari toggle <joueur>
 ```
 
-Active ou désactive le bypass du timer.
+ℹ️ Active ou désactive le bypass du timer.
 
 ---
 
@@ -118,7 +118,7 @@ Active ou désactive le bypass du timer.
 /cobblesafari timer dimension set <joueur> <secondes> <dimension>
 ```
 
-Permet de modifier le temps restant d'une dimension configurée.
+ℹ️ Permet de modifier le temps restant d'une dimension configurée.
 
 ---
 
@@ -130,7 +130,7 @@ Permet de modifier le temps restant d'une dimension configurée.
 /cobblesafari dungeon spawn
 ```
 
-Crée un portail Hoopa près du joueur.
+ℹ️ Crée un portail Hoopa près du joueur.
 
 ## Voir les portails actifs
 
@@ -138,7 +138,7 @@ Crée un portail Hoopa près du joueur.
 /cobblesafari dungeon list
 ```
 
-Affiche tous les portails actuellement présents.
+ℹ️ Affiche tous les portails actuellement présents.
 
 ## Afficher les dimensions enregistrées
 
@@ -146,7 +146,7 @@ Affiche tous les portails actuellement présents.
 /cobblesafari dungeon dimensions
 ```
 
-Affiche les dimensions de donjons disponibles ainsi que leur durée configurée.
+ℹ️ Affiche les dimensions de donjons disponibles ainsi que leur durée configurée.
 
 ---
 
