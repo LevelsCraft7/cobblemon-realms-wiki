@@ -142,21 +142,21 @@ Cette variante propose jusqu'à 9 échanges différents.
 
 | Objet vendu | Récompense possible |
 |:---:|:---:|
-| Underground Flag (Regular) |  Small Blue Sphere ou  Small Red Sphere |
-| Underground Flag (Bronze) |  Small Green Sphere ou  Large Green Sphere |
-| Underground Flag (Silver) |  Large Blue Sphere ou  Large Red Sphere |
-| Underground Flag (Gold) |  Small Pale Sphere ou  Small Prism Sphere |
-| Underground Flag (Platinum) |  Large Pale Sphere ou  Large Prism Sphere |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/underground_flag_regular.png) |  Small Blue Sphere ou  Small Red Sphere |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/underground_flag_bronze.png)<sup>(Bronze)</sup> |  Small Green Sphere ou  Large Green Sphere |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/underground_flag_silver.png)<sup>(Argent)</sup> |  Large Blue Sphere ou  Large Red Sphere |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/underground_flag_gold.png)<sup>(Or)</sup> |  Small Pale Sphere ou  Small Prism Sphere |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/underground_flag_platinium.png)<sup>(Platine)</sup> |  Large Pale Sphere ou  Large Prism Sphere |
 
 ### 💎 Objets divers
 
 | Objet vendu | Récompense possible |
 |:---:|:---:|
-|  Star Piece |  Small Pale Sphere ou  Small Prism Sphere |
-|  Heart Scale |  Small Blue Sphere ou  Small Red Sphere |
-|  Relic Coin |  Small Blue Sphere ou  Small Red Sphere |
-|  Revive |  Small Pale Sphere ou  Small Prism Sphere |
-|  Max Revive |  Small Pale Sphere ou  Small Prism Sphere |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/star_piece.png) |  Small Pale Sphere ou  Small Prism Sphere |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/heart_scale.png) |  Small Blue Sphere ou  Small Red Sphere |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/relic_coin.png) |  Small Blue Sphere ou  Small Red Sphere |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/revive.png) |  Small Pale Sphere ou  Small Prism Sphere |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/max_revive.png) |  Small Pale Sphere ou  Small Prism Sphere |
 
 ---
 
