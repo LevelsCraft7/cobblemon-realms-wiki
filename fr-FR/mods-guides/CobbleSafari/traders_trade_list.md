@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 <p align="center">
-Au cours de vos explorations, vous pourrez rencontrer différents Marchands CobbleSafari.
+Au cours de vos explorations, vous pourrez rencontrer différents Marchands CobbleSafari. !!!
 Contrairement aux villageois classiques, ils n'utilisent pas les Émeraudes, mais possèdent leurs propres monnaies et objets d'échange.
 </p>
 {% endhint %}
