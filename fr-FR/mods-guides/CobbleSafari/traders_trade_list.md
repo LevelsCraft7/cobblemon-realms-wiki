@@ -66,11 +66,11 @@ Cette variante propose généralement entre 5 et 8 échanges différents.
 
 | Vous donnez | Vous recevez |
 |---|---|
-|  50 Large Pale Sphere +  50 Large Prism Sphere |  Cherish Ball |
-|  20 Large Pale Sphere +  20 Large Blue Sphere |  Great Shiny Incense |
-|  40 Large Pale Sphere +  40 Large Blue Sphere |  Ultra Shiny Incense |
-|  20 Large Red Sphere +  20 Large Prism Sphere |  Rare Perfume |
-|  40 Large Red Sphere +  40 Large Prism Sphere |  Ultra Rare Perfume |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_pale_sphere.png)<sup>x50</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_prism_sphere.png)<sup>x50</sup> |  Cherish Ball |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_pale_sphere.png)<sup>x20</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_blue_sphere.png)<sup>x20</sup> |  Great Shiny Incense |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_pale_sphere.png)<sup>x40</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_blue_sphere.png)<sup>x40</sup> |  Ultra Shiny Incense |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_red_sphere.png)<sup>x20</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_prism_sphere.png)<sup>x20</sup> |  Rare Perfume |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_red_sphere.png)<sup>x40</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_prism_sphere.png)<sup>x40</sup> |  Ultra Rare Perfume |
 
 ### 🧪 Objets utilitaires
 
