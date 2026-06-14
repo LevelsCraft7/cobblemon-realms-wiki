@@ -132,11 +132,11 @@ Cette variante propose jusqu'à 9 échanges différents.
 
 | Objet vendu | Récompense possible |
 |:---:|:---:|
-| Random Fossil |  Small Pale Sphere ou  Small Prism Sphere |
-| Hidden Ability Fossil |  Large Pale Sphere ou  Large Prism Sphere |
-| Max IV Fossil |  Large Pale Sphere ou  Large Prism Sphere |
-| Shiny Fossil |  Large Pale Sphere ou  Large Prism Sphere |
-| Perfect Fossil |  Large Pale Sphere ou  Large Prism Sphere |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/random_fossil.png) |  Small Pale Sphere ou  Small Prism Sphere |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/hidden_ability_fossil.png) |  Large Pale Sphere ou  Large Prism Sphere |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/max_iv_fossil.png) |  Large Pale Sphere ou  Large Prism Sphere |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/shiny_fossil.png) |  Large Pale Sphere ou  Large Prism Sphere |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/perfect_fossil.png) |  Large Pale Sphere ou  Large Prism Sphere |
 
 ### 🚩 Drapeaux de Base Secrète
 
