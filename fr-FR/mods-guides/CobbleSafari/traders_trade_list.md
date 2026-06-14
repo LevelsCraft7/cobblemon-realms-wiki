@@ -16,7 +16,6 @@ Les marchands proposent des échanges exclusifs liés aux différentes activité
 # ⛏️ Hiker
 
 Les **Hikers** peuvent être rencontrés dans l'Underground de Sinnoh.
-
 Ils s'intéressent principalement aux différentes sphères récupérées durant vos fouilles.
 
 Il existe trois variantes :
