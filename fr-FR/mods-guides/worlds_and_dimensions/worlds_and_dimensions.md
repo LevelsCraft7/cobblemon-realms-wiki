@@ -9,7 +9,7 @@ Le modpack Cobblemon Realms propose plusieurs mondes et dimensions uniques, chac
 ## 🌌 Destinations disponibles
 
 - [☁️ The Aether](aether.md)
-- [🖤 Deeper and Darker](deeper_and_darker.mdd)
+- [🖤 Deeper and Darker](worlds_and_dimensions/deeper_and_darker.md)
 
 ---
 
