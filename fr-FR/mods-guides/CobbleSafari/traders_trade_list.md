@@ -21,9 +21,9 @@ Ils s'intéressent principalement aux différentes sphères récupérées durant
 
 Il existe trois variantes :
 
--  Small Sphere Hiker
--  Large Sphere Hiker
--  Treasure Hiker
+- ![Petite sphère](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_blue_sphere.png)
+- ![Grande sphère](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_blue_sphere.png)
+- ![Treasure](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/underground_flag_platinium.png) 
 
 ---
 
