@@ -20,22 +20,20 @@ Ils s'intéressent principalement aux différentes sphères récupérées durant
 
 Il existe trois variantes :
 
-<ul style="list-style: none; padding-left: 0;">
-  <li style="text-align:center; margin-bottom:12px;">
-    <img src="https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_sphere.gif" width="28"><br>
-    Petite sphère
-  </li>
+<div style="display:flex; align-items:center; gap:8px; margin-bottom:6px;">
+  <img src="https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_sphere.gif" width="40">
+  <span>Petite Sphère</span>
+</div>
 
-  <li style="text-align:center; margin-bottom:12px;">
-    <img src="https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_sphere.gif" width="28"><br>
-    Grande sphère
-  </li>
+<div style="display:flex; align-items:center; gap:8px; margin-bottom:6px;">
+  <img src="https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_sphere.gif" width="40">
+  <span>Grande Sphère</span>
+</div>
 
-  <li style="text-align:center;">
-    <img src="https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/underground_flag_platinium.png" width="28"><br>
-    Treasure
-  </li>
-</ul>
+<div style="display:flex; align-items:center; gap:8px;">
+  <img src="https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/underground_flag_platinium.png" width="40">
+  <span>Trésor</span>
+</div>
 
 ---
 
