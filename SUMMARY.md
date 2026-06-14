@@ -79,7 +79,7 @@
 
 ## Mod Guides
 
-- [🦁 CobbleSafari](mods-guides/cobblesafari.md)
+- [🦁 CobbleSafari](mods-guides/CobbleSafari/cobblesafari.md)
    - [🎡 Safari Dimension](mods-guides/CobbleSafari/safari_dimension.md)
    - [🐾 Wild Pokémon in the Safari](mods-guides/CobbleSafari/wild_pokemon_safari.md)
    - [🌀 Hoopa Portals](mods-guides/CobbleSafari/hoopa_portals.md)
