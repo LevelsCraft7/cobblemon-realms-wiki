@@ -41,14 +41,14 @@ Cette variante propose généralement entre 5 et 8 échanges différents.
 | Vous donnez | Vous recevez |
 |:---:|:---:|
 |  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_red_sphere.png)<sup>x4</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_blue_sphere.png)<sup>x4</sup> |  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/relic_coin.png) |
-|  16 Small Red Sphere +  16 Small Blue Sphere |  Heart Scale |
-|  16 Small Pale Sphere +  16 Small Prism Sphere |  Star Piece |
-|  16 Small Red Sphere |  Tumblestone |
-|  16 Small Green Sphere |  Black Tumblestone |
-|  16 Small Blue Sphere |  Sky Tumblestone |
-|  32 Small Green Sphere |  Heat Rock |
-|  32 Small Blue Sphere |  Damp Rock |
-|  32 Small Green Sphere |  Smooth Rock |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_red_sphere.png)<sup>x16</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_blue_sphere.png)<sup>x16</sup> |  Heart Scale |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_pale_sphere.png)<sup>x16</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_prism_sphere.png)<sup>x16</sup> |  Star Piece |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_red_sphere.png)<sup>x16</sup> |  Tumblestone |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_green_sphere.png)<sup>x16</sup> |  Black Tumblestone |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_blue_sphere.png)<sup>x16</sup> |  Sky Tumblestone |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_green_sphere.png)<sup>x32</sup> |  Heat Rock |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_blue_sphere.png)<sup>x32</sup> |  Damp Rock |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_green_sphere.png)<sup>x32</sup> |  Smooth Rock |
 
 ---
 
