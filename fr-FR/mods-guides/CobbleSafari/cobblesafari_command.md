@@ -2,140 +2,127 @@
 
 {% hint style="info" %}
 <p align="center">
-CobbleSafari ajoute plusieurs commandes destinées aux administrateurs et aux créateurs de serveurs.
-Certaines permettent de recharger la configuration du mod, gérer les dimensions ou encore faire apparaître des portails et des PNJ.
+CobbleSafari propose plusieurs commandes permettant d'administrer les différentes fonctionnalités du mod.
 </p>
 {% endhint %}
-
----
-
-# 🔄 Rechargement de la configuration
-
-## `/cobblesafari refresh`
-
-| Permission requise |
-|---|
-| Niveau 4 |
-
-Recharge l'ensemble des fichiers de configuration du mod sans redémarrer le serveur.
-
-### Fichiers concernés
-
-- 📄 `dimensional_timer_config.json`
-- 📄 `incubator_config.json`
-- 📄 `safari_config.json`
-- 📄 `encounter_boost_config.json`
-- 📄 `dungeon_spawn_config.json`
-- 📄 `dimensional_restrictions_config.json`
-- 📄 `misc_config.json`
-- 📄 `secretbase_pc_config.json`
-- 📄 `randomizer_items_config.json`
-
----
-
-# ♻️ Réinitialisation
-
-## `/cobblesafari reset`
-
-| Permission requise |
-|---|
-| Niveau 4 |
-
-Permet de réinitialiser certaines fonctionnalités de CobbleSafari.
-
-| Sous-commande | Description |
-|---|---|
-| `safari` | Réinitialise la Dimension Safari. |
-| `dungeon` | Réinitialise les donjons et supprime les portails actifs. |
 
 {% hint style="warning" %}
 <p align="center">
-Les donjons ne peuvent pas être réinitialisés si des joueurs se trouvent encore à l'intérieur.
+Cette page s'adresse principalement aux administrateurs et propriétaires de serveurs.
 </p>
 {% endhint %}
 
 ---
 
-# 🤝 Faire apparaître un Marchand
+# 🔄 Gestion de la configuration
+
+Ces commandes permettent de recharger ou réinitialiser certains systèmes de CobbleSafari.
+
+## `/cobblesafari refresh`
+
+```
+/cobblesafari refresh
+```
+
+Recharge les fichiers de configuration du mod sans redémarrer le serveur.
+
+---
+
+## `/cobblesafari reset safari`
+
+```
+/cobblesafari reset safari
+```
+
+Réinitialise la Dimension Safari.
+
+---
+
+## `/cobblesafari reset dungeon`
+
+```
+/cobblesafari reset dungeon
+```
+
+Réinitialise les donjons et supprime les portails actifs.
+
+{% hint style="danger" %}
+<p align="center">
+Les donjons ne peuvent pas être réinitialisés si des joueurs sont encore présents à l'intérieur.
+</p>
+{% endhint %}
+
+---
+
+# 🤝 Gestion des Marchands
+
+Permet de faire apparaître les marchands CobbleSafari.
 
 ## `/cobblesafari summon`
 
+```
+/cobblesafari summon <name> <variant>
+```
+
+Fait apparaître un marchand à votre position.
+
 ## `/cobblesafari summon_template`
 
-| Permission requise |
-|---|
-| Niveau 2 |
-
-Ces commandes permettent de faire apparaître un marchand CobbleSafari.
-
-### Paramètres disponibles
-
-| Argument | Description |
-|---|---|
-| `name` | Identifiant du marchand |
-| `variant` | Variante du marchand |
-
-### Exemple
-
 ```
-/cobblesafari summon hiker basic
+/cobblesafari summon_template <name> <variant>
 ```
 
-{% hint style="info" %}
-<p align="center">
-Ces commandes doivent être exécutées par un joueur.
-</p>
-{% endhint %}
+Fait apparaître un marchand modèle destiné aux structures.
 
 ---
 
-# ⏳ Gestion du temps du Safari
+# ⏳ Gestion des timers
 
-## `/cobblesafari timer safari`
-
-Permet de modifier le temps restant d'un joueur dans le Safari.
-
-### Sous-commandes disponibles
-
-| Commande | Fonction |
-|---|---|
-| `add` | Ajoute du temps |
-| `remove` | Retire du temps |
-| `set` | Définit le temps restant |
-| `get` | Affiche le temps restant |
-| `toggle` | Active ou désactive le bypass |
-
-### Exemple
+## Safari
 
 ```
-/cobblesafari timer safari add PlayerName 300
+/cobblesafari timer safari add <joueur> <secondes>
 ```
+
+Ajoute du temps à un joueur dans la Dimension Safari.
+
+```
+/cobblesafari timer safari remove <joueur> <secondes>
+```
+
+Retire du temps à un joueur.
+
+```
+/cobblesafari timer safari set <joueur> <secondes>
+```
+
+Définit le temps restant.
+
+```
+/cobblesafari timer safari get <joueur>
+```
+
+Affiche le temps restant.
+
+```
+/cobblesafari timer safari toggle <joueur>
+```
+
+Active ou désactive le bypass du timer.
 
 ---
 
-# 🌍 Gestion des dimensions
-
-## `/cobblesafari timer dimension`
-
-Permet de modifier les limites de temps des dimensions configurées.
-
-### Exemple
+## Dimensions personnalisées
 
 ```
-/cobblesafari timer dimension set PlayerName 600 cobblesafari:dungeon_distortion
+/cobblesafari timer dimension set <joueur> <secondes> <dimension>
 ```
+
+Permet de modifier le temps restant d'une dimension configurée.
 
 ---
 
-# 🌀 Gestion des portails Hoopa
-
-## `/cobblesafari dungeon`
-
-| Permission requise |
-|---|
-| Niveau 2 |
-
-Cette commande permet de gérer les donjons et les portails Hoopa.
+# 🌀 Portails Hoopa et Donjons
 
 ## Faire apparaître un portail
 
@@ -143,16 +130,9 @@ Cette commande permet de gérer les donjons et les portails Hoopa.
 /cobblesafari dungeon spawn
 ```
 
-### Variantes disponibles
+Crée un portail Hoopa près du joueur.
 
-- 👤 Portail pour soi-même
-- 👥 Portail pour un autre joueur
-- ⚡ Apparition forcée
-- 🎯 Choix du donjon à ouvrir
-
----
-
-## Lister les portails actifs
+## Voir les portails actifs
 
 ```
 /cobblesafari dungeon list
@@ -160,19 +140,13 @@ Cette commande permet de gérer les donjons et les portails Hoopa.
 
 Affiche tous les portails actuellement présents.
 
----
-
 ## Afficher les dimensions enregistrées
 
 ```
 /cobblesafari dungeon dimensions
 ```
 
-Affiche :
-
-- 🌍 Les dimensions disponibles
-- ⏳ Leur durée maximale
-- 🆔 Leur identifiant interne
+Affiche les dimensions de donjons disponibles ainsi que leur durée configurée.
 
 ---
 
