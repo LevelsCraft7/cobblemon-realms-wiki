@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 <p align="center">
-CobbleSafari propose plusieurs commandes permettant d'administrer les différentes fonctionnalités du mod.
+Cette page répertorie les différentes commandes ajoutées par <strong>CobbleSafari</strong>, permettant notamment de gérer la Dimension Safari, les portails Hoopa, les marchands et plusieurs fonctionnalités du mod.
 </p>
 {% endhint %}
 
