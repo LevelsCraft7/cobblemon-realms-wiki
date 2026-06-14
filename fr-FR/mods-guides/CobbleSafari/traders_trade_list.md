@@ -20,17 +20,9 @@ Ils s'intéressent principalement aux différentes sphères récupérées durant
 
 Il existe trois variantes :
 
-<div style="display:flex; align-items:center; gap:8px; margin-bottom:6px;">
-  <img src="https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_sphere.gif" width="40">
-</div>
-
-<div style="display:flex; align-items:center; gap:8px; margin-bottom:6px;">
-  <img src="https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_sphere.gif" width="40">
-</div>
-
-<div style="display:flex; align-items:center; gap:8px;">
-  <img src="https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/underground_flag_platinium.png" width="40">
-</div>
+- 🟡 Hiker aux petites sphères
+- 🔵 Hiker aux grandes sphères
+- 💎 Hiker aux trésors
 
 ---
 
