@@ -36,7 +36,7 @@ Pour transformer un Pokémon en sa forme **Obscure**, il est nécessaire d'utili
 
 {% hint style="info" %}
 <p align="center">
-Les attaques de type Obscur infligent également des dégâts **×2** aux Pokémon possédant deux types.
+Les attaques de type Obscur infligent également des dégâts <strong>×2</strong> aux Pokémon possédant deux types.
 </p>
 {% endhint %}
 
