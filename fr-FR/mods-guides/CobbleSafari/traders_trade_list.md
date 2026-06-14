@@ -1,4 +1,4 @@
-# 🤝 Liste des échanges des Marchands
+# 🤝 Liste des échanges
 
 {% hint style="info" %}
 <p align="center">
