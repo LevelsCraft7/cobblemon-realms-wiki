@@ -79,6 +79,20 @@
 
 ## Mod Guides
 
+- [🦁 CobbleSafari](mods-guides/cobblesafari.md)
+   - [🎡 Safari Dimension](mods-guides/cobblesafari/safari_dimension.md)
+   - [🐾 Wild Pokémon in the Safari](mods-guides/cobblesafari/wild_pokemon_safari.md)
+   - [🌀 Hoopa Portals](mods-guides/cobblesafari/hoopa_portals.md)
+   - [🌌 Distortion World](mods-guides/cobblesafari/distortion_world.md)
+   - [⛏️ Sinnoh Underground](mods-guides/cobblesafari/sinnoh_underground.md)
+   - [💎 Underground Treasure List](mods-guides/cobblesafari/underground_treasure_list.md)
+   - [🌸 Perfumes, Incenses & Repels](mods-guides/cobblesafari/perfumes_incense_repels.md)
+   - [🥚 Wild Eggs & Incubators](mods-guides/cobblesafari/wild_eggs_incubators.md)
+   - [🎈 Reward Balloons](mods-guides/cobblesafari/reward_balloons.md)
+   - [🏠 Secret Base PC](mods-guides/cobblesafari/secret_base_pc.md)
+   - [🤝 Traders Trade List](mods-guides/cobblesafari/traders_trade_list.md)
+   - [⌨️ /cobblesafari Command](mods-guides/cobblesafari/cobblesafari_command.md)
+   - [🔌 Extra Mod Compatibility](mods-guides/cobblesafari/extra_mod_compatibility.md)
 - [🎵 Music Interface](mods-guides/musicinterface.md)
 - [🍃 Rustling Spots](mods-guides/rustling_spots.md)
 - [🧱 Chunky World Pre-generation](mods-guides/chunky.md)
