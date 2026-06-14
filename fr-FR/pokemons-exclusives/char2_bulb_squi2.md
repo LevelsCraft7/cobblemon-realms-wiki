@@ -8,6 +8,6 @@ Les <strong>Starters Two</strong> regroupent des variantes alternatives des star
 
 Retrouvez leurs informations détaillées dans les pages suivantes :
 
-- [🔥 Salamèche Two](pokemons-exclusives/char2.md)
+- [🔥 Salamèche Two](char2.md)
 - [🌱 Bulbizarre Two](pokemons-exclusives/bulb2.md)
 - [💧 Carapuce Two](pokemons-exclusives/squi2.md)
