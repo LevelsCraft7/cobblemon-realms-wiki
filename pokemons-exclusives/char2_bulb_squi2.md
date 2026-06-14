@@ -8,6 +8,6 @@
 
 Find detailed information about each form on the following pages:
 
-- [🔥 Charmander Two](pokemons-exclusives/char2.md)
-- [🌱 Bulbasaur Two](pokemons-exclusives/bulb2.md)
-- [💧 Squirtle Two](pokemons-exclusives/squi2.md)
+- [🔥 Charmander Two](char2.md)
+- [🌱 Bulbasaur Two](bulb2.md)
+- [💧 Squirtle Two](squi2.md)
