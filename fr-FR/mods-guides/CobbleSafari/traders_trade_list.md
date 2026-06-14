@@ -65,7 +65,7 @@ Cette variante propose généralement entre 5 et 8 échanges différents.
 ### ✨ Objets rares
 
 | Vous donnez | Vous recevez |
-|---|---|
+|:---:|:---:|
 |  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_pale_sphere.png)<sup>x50</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_prism_sphere.png)<sup>x50</sup> |  Cherish Ball |
 |  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_pale_sphere.png)<sup>x20</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_blue_sphere.png)<sup>x20</sup> |  Great Shiny Incense |
 |  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_pale_sphere.png)<sup>x40</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_blue_sphere.png)<sup>x40</sup> |  Ultra Shiny Incense |
@@ -75,30 +75,30 @@ Cette variante propose généralement entre 5 et 8 échanges différents.
 ### 🧪 Objets utilitaires
 
 | Vous donnez | Vous recevez |
-|---|---|
-|  9 Large Green Sphere +  7 Large Prism Sphere |  Max Revive |
-|  9 Large Green Sphere +  7 Large Red Sphere |  Rare Candy |
-|  9 Large Green Sphere +  7 Large Blue Sphere |  Ability Capsule |
-|  9 Large Green Sphere +  7 Large Pale Sphere |  Ability Patch |
+|:---:|:---:|
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_green_sphere.png)<sup>x9</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_prism_sphere.png)<sup>x7</sup> |  Max Revive |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_green_sphere.png)<sup>x9</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_red_sphere.png)<sup>x7</sup> |  Rare Candy |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_green_sphere.png)<sup>x9</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_blue_sphere.png)<sup>x7</sup> |  Ability Capsule |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_green_sphere.png)<sup>x9</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_pale_sphere.png)<sup>x7</sup> |  Ability Patch |
 
 ### 🛡️ Objets spéciaux
 
 | Vous donnez | Vous recevez |
-|---|---|
-|  8 Large Red Sphere +  8 Large Green Sphere |  Auspicious Armor |
-|  8 Large Green Sphere +  8 Large Blue Sphere | Malicious Armor |
-|  10 Large Red Sphere +  6 Large Green Sphere | Chipped Pot |
-|  6 Large Green Sphere +  10 Large Blue Sphere | Masterpiece Teacup |
+|:---:|:---:|
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_red_sphere.png)<sup>x8</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_green_sphere.png)<sup>x8</sup> |  Auspicious Armor |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_green_sphere.png)<sup>x8</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_blue_sphere.png)<sup>x8</sup> | Malicious Armor |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_red_sphere.png)<sup>x10</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_green_sphere.png)<sup>x6</sup> | Chipped Pot |
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_green_sphere.png)<sup>x6</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_blue_sphere.png)<sup>x10</sup> | Masterpiece Teacup |
 
 ### 🔄 Conversion des sphères
 
 | Vous donnez | Vous recevez |
-|---|---|
-| 32 Small Red Sphere | 1 Large Red Sphere |
-| 32 Small Green Sphere | 1 Large Green Sphere |
-| 32 Small Blue Sphere | 1 Large Blue Sphere |
-| 32 Small Prism Sphere | 1 Large Prism Sphere |
-| 32 Small Pale Sphere | 1 Large Pale Sphere |
+|:---:|:---:|
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_red_sphere.png)<sup>x32</sup> | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_red_sphere.png)<sup>x1</sup> |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_green_sphere.png)<sup>x32</sup> | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_green_sphere.png)<sup>x1</sup> |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_blue_sphere.png)<sup>x32</sup> | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_blue_sphere.png)<sup>x1</sup> |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_prism_sphere.png)<sup>x32</sup> | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_prism_sphere.png)<sup>x1</sup> |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_pale_sphere.png)<sup>x32</sup> | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_pale_sphere.png)<sup>x1</sup> |
 
 ---
 
@@ -115,7 +115,7 @@ Cette variante propose jusqu'à 9 échanges différents.
 ### 🦴 Fossiles classiques
 
 | Objet vendu | Récompense possible |
-|---|---|
+|:---:|:---:|
 | Helix Fossil |  Large Blue Sphere ou  Large Prism Sphere |
 | Dome Fossil |  Large Red Sphere ou  Large Prism Sphere |
 | Old Amber |  Large Green Sphere ou  Large Pale Sphere |
@@ -131,7 +131,7 @@ Cette variante propose jusqu'à 9 échanges différents.
 ### ✨ Fossiles spéciaux
 
 | Objet vendu | Récompense possible |
-|---|---|
+|:---:|:---:|
 | Random Fossil |  Small Pale Sphere ou  Small Prism Sphere |
 | Hidden Ability Fossil |  Large Pale Sphere ou  Large Prism Sphere |
 | Max IV Fossil |  Large Pale Sphere ou  Large Prism Sphere |
@@ -141,7 +141,7 @@ Cette variante propose jusqu'à 9 échanges différents.
 ### 🚩 Drapeaux de Base Secrète
 
 | Objet vendu | Récompense possible |
-|---|---|
+|:---:|:---:|
 | Underground Flag (Regular) |  Small Blue Sphere ou  Small Red Sphere |
 | Underground Flag (Bronze) |  Small Green Sphere ou  Large Green Sphere |
 | Underground Flag (Silver) |  Large Blue Sphere ou  Large Red Sphere |
@@ -151,7 +151,7 @@ Cette variante propose jusqu'à 9 échanges différents.
 ### 💎 Objets divers
 
 | Objet vendu | Récompense possible |
-|---|---|
+|:---:|:---:|
 |  Star Piece |  Small Pale Sphere ou  Small Prism Sphere |
 |  Heart Scale |  Small Blue Sphere ou  Small Red Sphere |
 |  Relic Coin |  Small Blue Sphere ou  Small Red Sphere |
