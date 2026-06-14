@@ -54,7 +54,7 @@ Une fois la machine assemblée, vous pourrez restaurer les fossiles obtenus au c
 
 ### 📜 Description
 
-> ///
+> Créé par Mewtwo à partir du Bulbizarre de Sacha, Bulbasaurtwo participa à l'affrontement entre les Pokémon clonés et leurs homologues originaux.
 
 ---
 
