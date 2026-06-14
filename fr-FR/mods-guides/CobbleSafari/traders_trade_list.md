@@ -41,7 +41,7 @@ Cette variante propose généralement entre 5 et 8 échanges différents.
 
 | Vous donnez | Vous recevez |
 |---|---|
-|  4 Small Red Sphere +  4 Small Blue Sphere |  Relic Coin |
+|  Small Red Sphere <sup>x4</sup> +  Small Blue Sphere<sup>x4</sup> |  Relic Coin |
 |  16 Small Red Sphere +  16 Small Blue Sphere |  Heart Scale |
 |  16 Small Pale Sphere +  16 Small Prism Sphere |  Star Piece |
 |  16 Small Red Sphere |  Tumblestone |
