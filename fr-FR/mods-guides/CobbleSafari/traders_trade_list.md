@@ -20,7 +20,7 @@ Ils s'intéressent principalement aux différentes sphères récupérées durant
 
 Il existe trois variantes :
 
-- 🟡 Hiker aux petites sphères
+- 🔴 Hiker aux petites sphères
 - 🔵 Hiker aux grandes sphères
 - 💎 Hiker aux trésors
 
