@@ -2,19 +2,19 @@
 
 {% hint style="info" %}
 <p align="center">
-CobbleSafari ajoute de nouvelles activités à Cobblemon Realms, comme une Dimension Safari, des Portails Hoopa, le Monde Distorsion ou encore l'Underground de Sinnoh.
+CobbleSafari enrichit l'expérience Cobblemon Realms avec de nouvelles dimensions, mécaniques et activités inspirées des jeux Pokémon.
 </p>
 {% endhint %}
 
 {% hint style="info" %}
 <p align="center">
-Certaines informations de cette catégorie sont adaptées et traduites à partir de la <a href="https://cobblesafari.maxigregrze.fr/en">documentation officielle de CobbleSafari</a>.
+Certaines informations de cette catégorie sont adaptées et traduites à partir du <a href="https://cobblesafari.maxigregrze.fr/en">wiki officiel de CobbleSafari</a>.
 </p>
 {% endhint %}
 
 ---
 
-# 📚 Guides disponibles
+## 📚 Guides disponibles
 
 Retrouvez les différentes fonctionnalités de CobbleSafari dans les pages suivantes :
 
