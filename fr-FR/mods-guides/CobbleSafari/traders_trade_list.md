@@ -26,13 +26,13 @@ Il existe trois variantes :
 
 ---
 
-## 🔴 Petite Sphère Hiker
+## 🔴 Hiker aux petites sphères
 
-La **Petite Sphère** échange principalement les petites sphères contre des objets communs et diverses ressources utiles.
+Le **Hiker aux petites sphères** échange principalement les petites sphères contre des objets communs et diverses ressources utiles.
 
 {% hint style="info" %}
 <p align="center">
-Cette variante propose généralement entre 5 et 8 échanges différents.
+Cette variante propose entre 5 et 8 échanges différents.
 </p>
 {% endhint %}
 
@@ -53,9 +53,9 @@ Cette variante propose généralement entre 5 et 8 échanges différents.
 
 ---
 
-## 🔵 Grande Sphère Hiker
+## 🔵 Hiker aux grandes sphères
 
-Le **Grande Sphère** échange les grandes sphères contre des récompenses plus rares et des objets de valeur.
+Le **Hiker aux grandes sphères** échange les grandes sphères contre des récompenses plus rares et des objets de valeur.
 
 {% hint style="info" %}
 <p align="center">
@@ -112,7 +112,7 @@ Cette variante propose généralement entre 5 et 8 échanges différents.
 
 ---
 
-## 💎 Treasure Hiker
+## 💎 Hiker aux trésors
 
 Le **Treasure Hiker** rachète différents objets obtenus dans l'Underground de Sinnoh en échange de sphères.
 
