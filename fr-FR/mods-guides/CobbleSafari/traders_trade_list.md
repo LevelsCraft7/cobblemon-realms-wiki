@@ -156,8 +156,8 @@ Cette variante propose jusqu'à 9 échanges différents.
 |  Star Piece |  Small Pale Sphere ou  Small Prism Sphere |
 |  Heart Scale |  Small Blue Sphere ou  Small Red Sphere |
 |  Relic Coin |  Small Blue Sphere ou  Small Red Sphere |
-| 💚 Revive |  Small Pale Sphere ou  Small Prism Sphere |
-| 💚 Max Revive |  Small Pale Sphere ou  Small Prism Sphere |
+|  Revive |  Small Pale Sphere ou  Small Prism Sphere |
+|  Max Revive |  Small Pale Sphere ou  Small Prism Sphere |
 
 ---
 
