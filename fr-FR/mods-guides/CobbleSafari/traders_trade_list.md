@@ -26,9 +26,9 @@ Il existe trois variantes :
 
 ---
 
-## 🔴 Small Sphere Hiker
+## 🔴 Petite Sphère Hiker
 
-Le **Small Sphere Hiker** échange principalement les petites sphères contre des objets communs et diverses ressources utiles.
+La **Petite Sphère** échange principalement les petites sphères contre des objets communs et diverses ressources utiles.
 
 {% hint style="info" %}
 <p align="center">
@@ -39,8 +39,8 @@ Cette variante propose généralement entre 5 et 8 échanges différents.
 ### 📋 Échanges disponibles
 
 | Vous donnez | Vous recevez |
-|---|---|
-|  Small Red Sphere <sup>x4</sup> +  Small Blue Sphere<sup>x4</sup> |  Relic Coin |
+|:---:|:---:|
+|  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_red_sphere.png)<sup>x4</sup> +  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_blue_sphere.png)<sup>x4</sup> |  ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/relic_coin.png) |
 |  16 Small Red Sphere +  16 Small Blue Sphere |  Heart Scale |
 |  16 Small Pale Sphere +  16 Small Prism Sphere |  Star Piece |
 |  16 Small Red Sphere |  Tumblestone |
@@ -52,9 +52,9 @@ Cette variante propose généralement entre 5 et 8 échanges différents.
 
 ---
 
-## 🔵 Large Sphere Hiker
+## 🔵 Grande Sphère Hiker
 
-Le **Large Sphere Hiker** échange les grandes sphères contre des récompenses plus rares et des objets de valeur.
+Le **Grande Sphère** échange les grandes sphères contre des récompenses plus rares et des objets de valeur.
 
 {% hint style="info" %}
 <p align="center">
