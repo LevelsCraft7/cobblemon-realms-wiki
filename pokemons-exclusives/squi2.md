@@ -50,6 +50,8 @@ Once the machine has been assembled, you will be able to restore the fossils obt
 - 🖱️ Connect a `Hopper` to the `Restoration Tank`, then add organic matter.
 - 💤 Wait for the restoration process to finish, then catch the Pokémon with a Poké Ball.
 
+![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/char2_bulb_squi2/char2_bulb2_squir2.png)
+
 ---
 
 ### 📜 Description
