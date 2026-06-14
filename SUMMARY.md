@@ -44,7 +44,7 @@
 - [🌊 Ash Greninja](pokemons-exclusives/ash-greninja.md)
 - [🧬 Exclusive Mewtwo forms](pokemons-exclusives/mewtwo-exclusive-forms.md)
 - [🌑 Shadow Lugia](pokemons-exclusives/shadow-lugia.md)
-   - [✨🌑 About the Shadow Type](types_guides/type-shadow.md)
+   - [✨🌑 About the Shadow Type](pokemons-exclusives/types_guides/type-shadow.md)
 - [🦠 Meta Virus](pokemons-exclusives/virus-groudon.md)
 - [💠 Primal Dialga](pokemons-exclusives/primal_dialga.md)
 - [🌌 Illusionary Rayquaza](pokemons-exclusives/illusionary_rayquaza.md)
