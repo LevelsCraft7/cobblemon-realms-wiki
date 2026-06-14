@@ -50,6 +50,8 @@ Une fois la machine assemblée, vous pourrez restaurer les fossiles obtenus au c
 - 🖱️ Connectez un `Entonnoir` au `Réservoir de restauration`, puis ajoutez-y de la matière organique.
 - 💤 Attendez la fin de la restauration, puis capturez le Pokémon avec une Poké Ball.
 
+![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Lost-Lore/char2_bulb_squi2/char2_bulb2_squir2.png)
+
 ---
 
 ### 📜 Description
