@@ -21,9 +21,9 @@ Ils s'intéressent principalement aux différentes sphères récupérées durant
 
 Il existe trois variantes :
 
-- <img src="https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_blue_sphere.png" width="28"> Petite sphère
-- <img src="https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_blue_sphere.png" width="28"> Grande sphère
-- <img src="https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/underground_flag_platinium.png" width="28"> Treasure
+- <img src="https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/small_sphere/small_blue_sphere.png" width="28" style="vertical-align: middle;"> Petite sphère
+- <img src="https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/large_sphere/large_blue_sphere.png" width="28" style="vertical-align: middle;"> Grande sphère
+- <img src="https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/item_recieve/underground_flag_platinium.png" width="28" style="vertical-align: middle;"> Treasure
 
 ---
 
