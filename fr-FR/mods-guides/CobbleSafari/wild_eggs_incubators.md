@@ -8,7 +8,7 @@ Dans le safari, vous pouvez parfois trouver des <strong>nids sauvages</strong>. 
 
 ---
 
-## 🔥 Incubateur
+## 🔥 Incubateur d'Œufs
 
 Une fois posé :
 - Faites un clic droit avec un œuf (œuf sauvage ou œuf Cobbreeding) pour l’insérer
