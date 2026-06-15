@@ -2,7 +2,7 @@
 
 Inspirés des cadeaux sponsorisés de Pokémon GO, les **Ballon Récompense** sont de rares événements qui apparaissent dans l’Overworld et contiennent du butin lié aux Cobblemon.
 
-![Ballon Récompense](https://cobblesafari.maxigregrze.fr/assets/cover_balloons-BBBSKmBY.png)
+![Ballon Récompense](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/reward_balloons.png)
 
 ---
 
@@ -54,7 +54,7 @@ Un petit bonus conçu pour faciliter l’exploration du Safari.
 </p>
 {% endhint %}
 
-![Ballon Safari](https://cobblesafari.maxigregrze.fr/assets/img_safariballoon-BxOxn-nq.png)
+![Ballon Safari](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/safari_ballons.png)
 
 ---
 
