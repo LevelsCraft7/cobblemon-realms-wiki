@@ -148,9 +148,10 @@ Effet :
 - ↑ diminue les chances de capture
 
 ![Recette de fabrication de l'Appât](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/app%C3%A2t.png)
-<br>
-Vous vouvez utilisez n'importe quel baie de Cobblemon.
 
+<p align="center">
+ℹ️ Vous pouvez utilisez n'importe quel baie Cobblemon.
+</p>
 👉 Rend le Pokémon plus "calme", mais plus difficile à capturer.
 
 ---
