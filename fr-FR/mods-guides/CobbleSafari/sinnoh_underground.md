@@ -1,11 +1,7 @@
 # ⛏️ Les Souterrains de Sinnoh
 
 {% hint style="info" %}
-<div align="center">
-
 Après avoir traversé un étrange portail, vous voilà dans les **Souterrains de Sinnoh** ! Sous la surface s'étend un immense réseau de galeries oubliées renfermant trésors, fossiles, sphères mystérieuses et anciennes bases secrètes abandonnées. Entre les mini-jeux d'excavation, les cachettes Pokémon et les rencontres avec d'autres explorateurs, chaque expédition réserve son lot de surprises.
-
-</p>
 {% endhint %}
 
 > 💡 **Astuce :** certains fossiles extrêmement rares peuvent même garantir l'obtention d'un **Pokémon chromatique**.
