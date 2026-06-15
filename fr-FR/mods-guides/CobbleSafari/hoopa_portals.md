@@ -69,7 +69,7 @@ Les portails peuvent actuellement mener vers :
 
 - 🌀 **Monde Distorsion**  
   Dimension chaotique de Giratina avec plateformes inversées, labyrinthes d’illusions et combats de Pokémon Distordus.  
-  → [Voir la page](mods-guides/CobbleSafari/distortion_world.md)
+  → [Voir la page](distortion_world.md)
 
 ---
 
