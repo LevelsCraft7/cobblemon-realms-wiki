@@ -42,10 +42,10 @@ Les Pokémon déjà présents ne peuvent pas être reroll par l’encens.
 - ✨ Les effets se cumulent entre catégories différentes.
 
 {% hint style="warning" %}
-<p align="center">
+p align="center">
 Les bonus shiny ne se cumulent pas avec d’autres systèmes de boost issus d’autres mods.
-</p>
-<{% endhint %}
+/p>
+{% endhint %}
 
 ---
 
@@ -73,9 +73,9 @@ Chaque parfum augmente les chances d’apparition de sa table de spawn avec un b
 - ⚠️ Les effets restent séparés mais actifs simultanément.
 
 {% hint style="info" %}
-<p align="center">
+p align="center">
 Le PokéNav n’affiche pas l’influence des parfums sur les taux d’apparition.
-</p>
+/p>
 {% endhint %}
 
 ---
