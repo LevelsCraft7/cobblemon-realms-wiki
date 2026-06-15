@@ -2,11 +2,9 @@
 
 {% hint style="warning" %}
 <p align="center">
-La <strong>Safari Dimension</strong> est une dimension instanciée composée de <strong>18 biomes Pokémon</strong>, chacun basé sur un type élémentaire.
+La <strong>Safari Dimension</strong> est une dimension instanciée composée de <strong>18 biomes Pokémon</strong>, chacun basé sur un type élémentaire. Explorer des habitats uniques et capturer des Pokémon rares dans un environnement à temps limité.
 </p>
 {% endhint %}
-
-🎯 **Objectif :** explorer des habitats uniques et capturer des Pokémon rares dans un environnement à temps limité.
 
 ---
 
@@ -14,7 +12,7 @@ La <strong>Safari Dimension</strong> est une dimension instanciée composée de 
 
 ## 🔹 Téléporteur de Safari
 
-L’entrée se fait via un **Safari Teleporter** :
+L’entrée se fait via un **Téléporteur Safari** :
 
 1. Activation du téléporteur
 2. Interface de confirmation
@@ -22,7 +20,9 @@ L’entrée se fait via un **Safari Teleporter** :
 4. Téléportation dans la dimension
 
 {% hint style="info" %}
+<p align="center">
 📍 Chaque entrée est <strong>unique</strong> : vous n’apparaissez jamais au même endroit.
+</p>
 {% endhint %}
 
 {% hint style="warning" %}
