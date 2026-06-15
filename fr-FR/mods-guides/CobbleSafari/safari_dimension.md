@@ -212,6 +212,7 @@ Mais configurable par serveur/modpack :
 - `dailySafariBallsCount` → nombre de Safari Balls gratuites (défaut : 16)
 - `enableEntryFee` → active les frais d’entrée
 
+ℹ️ Documentation complète :
 https://cobblesafari.maxigregrze.fr/en/addons/config_safari_config
 
 ---
