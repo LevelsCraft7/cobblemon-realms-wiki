@@ -25,6 +25,12 @@ L’entrée se fait via un **Safari Teleporter** :
 📍 Chaque entrée est <strong>unique</strong> : vous n’apparaissez jamais au même endroit.
 {% endhint %}
 
+{% hint style="warning" %}
+<p align="center">
+Dans <strong>Cobblemon Realms</strong>, la fabrication du téléporteur n’est pas possible. Pour y accéder, rendez-vous au spawn avec <strong>/spawn</strong> : le téléporteur se trouve sur votre droite.
+</p>
+{% endhint %}
+
 ---
 
 ## 🔹 Sortie
