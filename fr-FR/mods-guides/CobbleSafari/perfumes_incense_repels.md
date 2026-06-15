@@ -52,6 +52,7 @@ Les bonus shiny ne se cumulent pas avec d’autres systèmes de boost issus d’
 ## 🌸 Parfums (bonus de rareté)
 
 Les parfums augmentent la probabilité d’apparition de Pokémon plus rares dans la nature.
+<br>
 Comme les encens, ils n’agissent que sur les **nouvelles apparitions** autour du joueur.
 
 ### 🧴 Types disponibles
