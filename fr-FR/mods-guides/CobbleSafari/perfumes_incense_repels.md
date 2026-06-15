@@ -2,8 +2,9 @@
 
 {% hint style="info" %}
 <p align="center">
-Les **Encens** et **Parfums** vous permettent d’influencer les rencontres de Pokémon sauvages afin de favoriser certains types ou conditions rares. Ces objets augmentent la probabilité d’apparition de Pokémon possédant des caractéristiques spécifiques.
+Les <strong>Encens</strong> et <strong>Parfums</strong> vous permettent d’influencer les rencontres de Pokémon sauvages afin de favoriser certains types ou conditions rares. Ces objets augmentent la probabilité d’apparition de Pokémon possédant des caractéristiques spécifiques.
 </p>
+{% endhint %}
 
 {% hint style="success" %}
 <p align="center">
