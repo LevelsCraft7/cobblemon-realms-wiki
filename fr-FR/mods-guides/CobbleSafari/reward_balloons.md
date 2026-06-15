@@ -1,7 +1,7 @@
 # 🎈 Ballon Récompense
 
 <p align="center">
-Inspirés des cadeaux sponsorisés de Pokémon GO, les **Ballon Récompense** sont de rares événements qui apparaissent dans l’Overworld et contiennent du butin lié aux Cobblemon.
+Inspirés des cadeaux sponsorisés de Pokémon GO, les <strong>Ballon Récompense</strong> sont de rares événements qui apparaissent dans l’Overworld et contiennent du butin lié aux Cobblemon.
 </p>
 
 ![Ballon Récompense](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/reward_balloons.png)
