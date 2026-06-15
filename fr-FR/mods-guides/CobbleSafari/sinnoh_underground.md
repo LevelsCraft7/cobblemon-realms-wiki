@@ -1,11 +1,12 @@
-# ⛏️ Souterrains de Sinnoh
+# ⛏️ Les Souterrains de Sinnoh
 
-Après avoir traversé un étrange portail, vous voilà dans les **Souterrains de Sinnoh** !
+{% hint style="info" %}
+<div align="center">
+Après avoir traversé un étrange portail, vous voilà dans les **Souterrains de Sinnoh** ! Sous la surface s'étend un immense réseau de galeries oubliées renfermant trésors, fossiles, sphères mystérieuses et anciennes bases secrètes abandonnées. Entre les mini-jeux d'excavation, les cachettes Pokémon et les rencontres avec d'autres explorateurs, chaque expédition réserve son lot de surprises.
+</p>
+{% endhint %}
 
-Sous la surface se cache un immense réseau de galeries oubliées rempli de trésors, de fossiles, de sphères mystérieuses et d'anciennes bases secrètes abandonnées.
-Entre les mini-jeux d'excavation, les cachettes Pokémon et les rencontres inattendues avec d'autres explorateurs, chaque expédition réserve son lot de surprises.
-
-*Peut-être trouverez-vous même certains fossiles extrêmement rares capables de garantir un Pokémon chromatique...*
+> 💡 **Astuce :** certains fossiles extrêmement rares peuvent même garantir l'obtention d'un **Pokémon chromatique**.
 
 ![Mini-jeu d'excavation](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/excavation.png)
 
@@ -25,11 +26,9 @@ Une fois à l'intérieur :
 
 {% hint style="warning" %}
 <div align="center">
-
 Les Souterrains sont une dimension temporaire.
-
+  
 Une fois le portail disparu, tous les joueurs encore présents sont automatiquement expulsés.
-
 </div>
 {% endhint %}
 
