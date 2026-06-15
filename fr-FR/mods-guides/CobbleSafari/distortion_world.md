@@ -7,12 +7,6 @@ Peut-être découvrirez-vous même les mystérieux **Pokémon Distordus** et les
 
 ---
 
-{% hint style="info" %}
-<p align="center">
-Le Monde Distorsion est une <strong>dimension temporaire</strong>. Une fois le portail disparu, tous les joueurs encore présents sont automatiquement expulsés.
-</p>
-{% endhint %}
-
 ## 🚪 Comment y accéder ?
 
 Le Monde Distorsion n'est accessible qu'à travers un **Portail de Hoopa**.
