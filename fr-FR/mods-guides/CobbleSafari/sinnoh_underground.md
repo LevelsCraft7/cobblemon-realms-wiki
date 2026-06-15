@@ -115,14 +115,6 @@ La liste complète des récompenses disponibles est consultable sur la page :
 
 👉 ![Liste des Trésors des Souterrains]()
 
-<details>
-
-<summary>🚫 Zone anti-fun (détails techniques)</summary>
-
-Les probabilités exactes, le poids des objets et les mécaniques internes du mini-jeu peuvent être consultés ici Mais honnêtement ? L'expérience est bien plus amusante lorsqu'on découvre les trésors par soi-même.
-
-</details>
-
 ---
 
 # 🥾 Randonneurs
