@@ -1,6 +1,6 @@
 # 🌿 Parfums, Encens et Repousse
 
-<p align="center">
+{% hint style="info" %}
 Marre du shiny hunting sans fin ?
 </p>
 
@@ -8,7 +8,8 @@ Les **Encens** et **Parfums** vous permettent d’influencer les rencontres de P
 
 {% hint style="info" %}
 <p align="center">
-Contrairement aux potions classiques de Minecraft, utiliser plusieurs parfums ou encens successivement <strong>prolonge la durée totale</strong> au lieu de réinitialiser l’effet.</p>
+Contrairement aux potions classiques de Minecraft, utiliser plusieurs parfums ou encens successivement <strong>prolonge la durée totale</strong> au lieu de réinitialiser l’effet.
+</p>
 {% endhint %}
 
 ---
@@ -60,7 +61,7 @@ Comme les encens, ils n’agissent que sur les **nouvelles apparitions** autour 
 - 🌺 Parfum Rare  
 - 🌼 Parfum Ultra-Rare  
 
-Chaque parfum augmente les chances d’apparition de sa table de spawn avec un bonus de x16.
+Chaque parfum augmente les chances d’apparition de sa table de spawn avec un bonus de x16 (configurable).
 
 ---
 
@@ -115,11 +116,11 @@ Les paramètres de ces systèmes sont définis dans :
 - ⏱️ **Duration Settings** → `durationSettings`  
   Définit la durée des objets donnant les effets.
 
+👉 [Configuration complète](https://cobblesafari.maxigregrze.fr/en/addons/config_encounter_boost_config)
+
 {% hint style="info" %}
 <p align="center">
 Certaines valeurs présentes dans le fichier de configuration ne sont pas encore actives en jeu.
 Elles seront utilisées dans de futures mises à jour.
 </p>
 {% endhint %}
-
-👉 [Configuration complète](https://cobblesafari.maxigregrze.fr/en/addons/config_encounter_boost_config)
