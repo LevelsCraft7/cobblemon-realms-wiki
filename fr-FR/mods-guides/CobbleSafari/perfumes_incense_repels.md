@@ -60,7 +60,7 @@ Comme les encens, ils n’agissent que sur les **nouvelles apparitions** autour 
 - 🌺 Parfum Rare  
 - 🌼 Parfum Ultra-Rare  
 
-Chaque parfum augmente les chances d’apparition de sa table de spawn avec un bonus de x16 (configurable).
+Chaque parfum augmente les chances d’apparition de sa table de spawn avec un bonus de x16.
 
 ---
 
