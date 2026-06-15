@@ -49,16 +49,16 @@ CobbleSafari ajoute ce système via le <strong>Casque du Mineur Chanceux</strong
 
 | Image | Nom | Rareté | Forme | Quantité | Origine |
 |------|------|--------|-------|----------|---------|
-| ![]() | Sphère Bleue S | Commun (137) | ![]() | 1 à 9 | CobbleSafari |
-| ![]() | Sphère Bleue L | Commun (68) | ![]() | 1 à 2 | CobbleSafari |
-| ![]() | Sphère Rouge S | Commun (137) | ![]() | 1 à 9 | CobbleSafari |
-| ![]() | Sphère Rouge L | Commun (68) | ![]() | 1 à 2 | CobbleSafari |
-| ![]() | Sphère Verte S | Commun (107) | ![]() | 1 à 9 | CobbleSafari |
-| ![]() | Sphère Verte L | Peu commun (53) | ![]() | 1 à 2 | CobbleSafari |
-| ![]() | Sphère Pâle S | Commun (100) | ![]() | 1 à 9 | CobbleSafari |
-| ![]() | Sphère Pâle L | Peu commun (35) | ![]() | 1 à 2 | CobbleSafari |
-| ![]() | Sphère Prismatique S | Commun (100) | ![]() | 1 à 9 | CobbleSafari |
-| ![]() | Sphère Prismatique L | Peu commun (35) | ![]() | 1 à 2 | CobbleSafari |
+| ![]() | Petite Sphère Bleue | Commun (137) | ![]() | 1 à 9 | CobbleSafari |
+| ![]() | Grande Sphère Bleue | Commun (68) | ![]() | 1 à 2 | CobbleSafari |
+| ![]() | Petite Sphère Rouge | Commun (137) | ![]() | 1 à 9 | CobbleSafari |
+| ![]() | Grande Sphère Rouge | Commun (68) | ![]() | 1 à 2 | CobbleSafari |
+| ![]() | Petite Sphère Verte | Commun (107) | ![]() | 1 à 9 | CobbleSafari |
+| ![]() | Grande Sphère Verte | Peu commun (53) | ![]() | 1 à 2 | CobbleSafari |
+| ![]() | Petite Sphère Pâle | Commun (100) | ![]() | 1 à 9 | CobbleSafari |
+| ![]() | Grande Sphère Pâle | Peu commun (35) | ![]() | 1 à 2 | CobbleSafari |
+| ![]() | Petite Sphère Prismatique | Commun (100) | ![]() | 1 à 9 | CobbleSafari |
+| ![]() | Grande Sphère Prismatique | Peu commun (35) | ![]() | 1 à 2 | CobbleSafari |
 | ![]() | Galet | Commun (100) | ![]() | 1 à 8 | Cobblemon |
 | ![]() | Galet Noir | Commun (100) | ![]() | 1 à 8 | Cobblemon |
 | ![]() | Galet Azur | Commun (100) | ![]() | 1 à 8 | Cobblemon |
@@ -79,21 +79,21 @@ CobbleSafari ajoute ce système via le <strong>Casque du Mineur Chanceux</strong
 | ![]() | Pierre Soleil | Peu commun (9) | ![]() | 1 | Cobblemon |
 | ![]() | Vieil Ambre | Peu commun (8) | ![]() | 1 | Cobblemon |
 | ![]() | Fossile Dôme | Peu commun (8) | ![]() | 1 | Cobblemon |
-| ![]() | Fossile Helix | Peu commun (8) | ![]() | 1 | Cobblemon |
+| ![]() | Fossile Nautile | Peu commun (8) | ![]() | 1 | Cobblemon |
 | ![]() | Fossile Griffe | Peu commun (8) | ![]() | 1 | Cobblemon |
 | ![]() | Fossile Racine | Peu commun (8) | ![]() | 1 | Cobblemon |
 | ![]() | Fossile Armure | Peu commun (8) | ![]() | 1 | Cobblemon |
 | ![]() | Fossile Crâne | Peu commun (8) | ![]() | 1 | Cobblemon |
-| ![]() | Fossile Couverture | Peu commun (8) | ![]() | 1 | Cobblemon |
+| ![]() | Fossile Plaque | Peu commun (8) | ![]() | 1 | Cobblemon |
 | ![]() | Fossile Plume | Peu commun (8) | ![]() | 1 | Cobblemon |
 | ![]() | Fossile Mâchoire | Peu commun (8) | ![]() | 1 | Cobblemon |
-| ![]() | Fossile Voile | Peu commun (8) | ![]() | 1 | Cobblemon |
+| ![]() | Fossile Nageoire | Peu commun (8) | ![]() | 1 | Cobblemon |
 | ![]() | Fossile Aléatoire | Rare (6) | ![]() | 1 | CobbleSafari |
 | ![]() | Fossile Shiny | Rare (4) | ![]() | 1 | Cobblemon |
 | ![]() | Fossile Talent Caché | Ultra rare (2) | ![]() | 1 | Cobblemon |
 | ![]() | Fossile IV Max | Ultra rare (2) | ![]() | 1 | Cobblemon |
 | ![]() | Fossile Parfait | Légendaire* (0) | ![]() | 1 | Cobblemon |
-| ![]() | Clé de Méga | Rare (4) | ![]() | 1 | Mega Showdown* |
-| ![]() | Méga-Gemme brute | Rare (6) | ![]() | 1 | Mega Showdown* |
-| ![]() | Z-Cristal vide | Rare (6) | ![]() | 1 | Mega Showdown* |
-| ![]() | Tablettes Arceus | Ultra rare (1) | ![]() | 1 | Mega Showdown* |
+| ![]() | Gemme Sésame | Rare (4) | ![]() | 1 | Mega Showdown* |
+| ![]() | Méga-Gemme Brute | Rare (6) | ![]() | 1 | Mega Showdown* |
+| ![]() | Z-Vierge | Rare (6) | ![]() | 1 | Mega Showdown* |
+| ![]() | Plaques Arceus | Ultra rare (1) | ![]() | 1 | Mega Showdown* |
