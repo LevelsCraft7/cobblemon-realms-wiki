@@ -122,6 +122,7 @@ Les paramètres de ces systèmes sont définis dans :
 {% hint style="info" %}
 <p align="center">
 Certaines valeurs présentes dans le fichier de configuration ne sont pas encore actives en jeu.
+<br>
 Elles seront utilisées dans de futures mises à jour.
 </p>
 {% endhint %}
