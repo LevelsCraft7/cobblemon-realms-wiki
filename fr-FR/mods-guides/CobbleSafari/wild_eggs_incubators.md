@@ -17,7 +17,9 @@ Une fois posé :
 
 {% hint style="success" %}
 <p align="center">
-Si vous cassez l’incubateur, le bloc est récupéré et l’œuf (avec sa progression) est sauvegardé. Reposez-le pour reprendre l’incubation.
+Si vous cassez l’incubateur, le bloc est récupéré et l’œuf (avec sa progression) est sauvegardé. 
+<br>
+Reposez-le pour reprendre l’incubation.
 </p>
 {% endhint %}
 
