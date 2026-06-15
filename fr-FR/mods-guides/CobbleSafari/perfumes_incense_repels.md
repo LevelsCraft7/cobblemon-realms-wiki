@@ -1,6 +1,7 @@
 # 🌿 Parfums, Encens et Repousse
 
 {% hint style="info" %}
+<p align="center">
 Marre du shiny hunting sans fin ?
 </p>
 
