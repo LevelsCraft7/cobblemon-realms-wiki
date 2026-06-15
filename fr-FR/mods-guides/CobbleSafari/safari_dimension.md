@@ -67,51 +67,75 @@ Mourir dans le Safari peut entraîner une perte de progression locale.
 Les Pokémon du Safari peuvent fuir lorsqu’ils sont trop perturbés.
 {% endhint %}
 
-## 🔹 Déclenchement
+---
 
-À chaque interaction critique avec un Pokémon :
+## ⚡ Déclenchement des fuites
 
-→ rupture d’une Safari Ball  
-→ utilisation d’un objet  
-→ action directe sur le Pokémon  
+Une fuite peut se déclencher lors d’une interaction critique :
 
-👉 Chaque événement a **23,6% de chances** de déclencher une fuite.
+- ❗ rupture d’une Safari Ball  
+- 🎒 utilisation d’un objet sur le Pokémon  
+- 🎯 action directe sur le Pokémon  
+
+👉 Chaque événement possède **23,6% de chances** de déclencher une fuite.
 
 ---
 
-## 🔹 Phase de fuite
+## ⏳ Phase de fuite
 
-Quand un Pokémon commence à fuir :
+Lorsqu’un Pokémon commence à fuir :
 
-- ⚠️ alerte affichée à l’écran
-- ⏳ 5 secondes de délai
-- 🎯 une dernière tentative de capture possible
+- ⚠️ un avertissement s’affiche à l’écran
+- ⏱️ vous disposez de **5 secondes**
+- 🎯 une dernière action de capture est possible
 
-Sinon :
-> 💨 le Pokémon disparaît <strong>définitivement</strong> !
+Si aucune capture n’aboutit :
+
+> 💨 Le Pokémon s’échappe définitivement.
 
 ---
 
-## 🔹 Logique technique
+## 🧠 Fonctionnement technique
 
 Le système est basé sur le **Great Marsh (DPPt)** :
 
-- un nombre entre **0 et 254** est tiré
-- si ≤ taux de fuite → le Pokémon fuit
+- un nombre aléatoire entre **0 et 254** est généré à chaque tour
+- si la valeur est ≤ au taux de fuite → le Pokémon fuit
 
-📌 Valeur de base :
-> 60 → 23.6% de fuite
+📌 Base du système :
+> 60 → environ **23,6% de chance de fuite**
 
 ---
 
-# 📊 Modificateurs de fuite & capture
+## 📊 Système de modificateurs (fuite & capture)
+
+Les niveaux vont de **-6 à +6** et influencent à la fois la fuite et la capture.
+
+### 🎮 Vue simplifiée
 
 | Niveau | -6 | -3 | 0 | +3 | +6 |
 |--------|----|----|---|----|----|
 | 💨 Fuite | 71% | 47% | 24% | 12% | 8% |
 | 🎯 Capture | x3 | x2 | x1 | x0.5 | x0.33 |
 
-👉 Les valeurs intermédiaires suivent une progression graduelle.
+👉 Plus le niveau est élevé, plus les Pokémon sont faciles à capturer et moins ils fuient.
+
+<details>
+<summary>📈 Voir les valeurs détaillées</summary>
+
+| Niveau | -6 | -5 | -4 | -3 | -2 | -1 | 0 | +1 | +2 | +3 | +4 | +5 | +6 |
+|--------|----|----|----|----|----|----|---|----|----|----|----|----|----|
+| 💨 Modificateur de fuite | 9/3 | 8/3 | 7/3 | 6/3 | 5/3 | 4/3 | 3/3 | 3/4 | 3/5 | 3/6 | 3/7 | 3/8 | 3/9 |
+| 💨 Taux de fuite calculé | 180 | 160 | 140 | 120 | 100 | 80 | 60 | 45 | 36 | 30 | ~25 | ~22 | 20 |
+| 💨 Pourcentage de fuite | 71% | 63% | 55% | 47% | 39% | 31% | 24% | 18% | 14% | 12% | 10% | 9% | 8% |
+| 🎯 Modificateur de capture | 9/3 | 8/3 | 7/3 | 6/3 | 5/3 | 4/3 | 3/3 | 3/4 | 3/5 | 3/6 | 3/7 | 3/8 | 3/9 |
+| 🎯 Bonus de capture | x3 | x2.6 | x2.3 | x2 | x1.6 | x1.3 | x1 | x0.75 | x0.6 | x0.5 | x0.43 | x0.375 | x0.33 |
+
+</details>
+
+{% hint style="info" %}
+Les valeurs intermédiaires suivent une progression continue entre chaque niveau.
+{% endhint %}
 
 ---
 
