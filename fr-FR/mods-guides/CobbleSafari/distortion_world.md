@@ -44,7 +44,7 @@ Tomber dans le vide vous expulse immédiatement du Monde Distorsion et vous renv
 
 *Heureusement, la magie de Hoopa vous évite de dériver éternellement dans cet espace chaotique.*
 
-![Plateforme Distortion](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/platforming.png)
+![Plateforme Distordue](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/platforming.png)
 
 ---
 
@@ -66,7 +66,7 @@ Se perdre dans un labyrinthe d'illusions est plus simple qu'il n'y paraît.
 </p>
 {% endhint %}
 
-![Labyrinth Distortion](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/labyrinth.png)
+![Labyrinth Distordu](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/labyrinth.png)
 
 ---
 
@@ -88,7 +88,7 @@ Même si ces créatures ressemblent à des Pokémon, elles ne sont en réalité 
 </p>
 {% endhint %}
 
-![Distortion arena](https://cobblesafari.maxigregrze.fr/assets/img_distortion_arena-Yl0n4JFb.png)
+![Arène Distordue](https://cobblesafari.maxigregrze.fr/assets/img_distortion_arena-Yl0n4JFb.png)
 
 ---
 
