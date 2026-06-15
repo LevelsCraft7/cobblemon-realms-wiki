@@ -1,4 +1,4 @@
-# 🥚 🥚 Œufs sauvages et Incubateurs
+# 🥚 Œufs sauvages et Incubateurs
 
 {% hint style="info" %}
 <p align="center">
