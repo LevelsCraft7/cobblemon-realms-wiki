@@ -12,7 +12,7 @@ Le détail complet des mécaniques est disponible sur la page <a href="sinnoh_un
 
 ## ⛏️ Fonctionnement
 
-Les cases violettes dans les formes représentent les **emplacements exacts à creuser** pour obtenir un objet. Il n’est pas nécessaire de creuser toute la zone autour.
+Les cases violettes 🟪 dans les formes représentent les **emplacements exacts à creuser** pour obtenir un objet. Il n’est pas nécessaire de creuser toute la zone autour.
 
 ---
 
