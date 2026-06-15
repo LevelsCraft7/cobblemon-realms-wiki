@@ -10,18 +10,6 @@ La <strong>Safari Dimension</strong> est une dimension instanciée composée de 
 
 ---
 
-# ⚡ À lire avant
-
-- ⏳ 15 minutes par session
-- 🧭 entrée aléatoire dans un rayon de 5000 blocs
-- ⚪ uniquement Safari Balls utilisables
-- ❌ pas de combats Pokémon
-- ❌ impossibilité de sortir ses Pokémon
-- 💨 les Pokémon peuvent fuir
-- 🕛 1 entrée par jour (temps limité réel)
-
----
-
 # 🚪 Accéder au Safari
 
 ## 🔹 Téléporteur de Safari
@@ -33,7 +21,9 @@ L’entrée se fait via un **Safari Teleporter** :
 3. Affichage de la destination
 4. Téléportation dans la dimension
 
-📍 Chaque entrée est **unique** : vous n’apparaissez jamais au même endroit.
+{% hint style="info" %}
+📍 Chaque entrée est <strong>unique</strong> : vous n’apparaissez jamais au même endroit.
+{% endhint %}
 
 ---
 
@@ -68,9 +58,7 @@ Mourir dans le Safari peut entraîner une perte de progression locale.
 # 💨 Système de fuite Pokémon
 
 {% hint style="info" %}
-<p align="center">
 Les Pokémon du Safari peuvent fuir lorsqu’ils sont trop perturbés.
-</p>
 {% endhint %}
 
 ## 🔹 Déclenchement
@@ -162,8 +150,7 @@ Chaque biome contient :
 - 🟣 Rare
 - ⭐ Ultra-rare
 
-📖 Liste complète des spawns :
-https://cobblesafari.maxigregrze.fr/en/wiki/safari-dimension-spawnpool
+📖 Liste complète des spawns : ![ici]()
 
 ---
 
@@ -200,29 +187,37 @@ https://cobblesafari.maxigregrze.fr/en/addons/config_safari_config
 
 ---
 
-## 📁 Autres configs
+## 📁 Autres configurations
+
+---
 
 ### 🔒 Restrictions dimensionnelles
 
-- `config/cobblesafari/dimensional_restrictions_config.json`
+📄 `config/cobblesafari/dimensional_restrictions_config.json`
 
-    - objets autorisés/interdits
-    - règles de combat
-    - restrictions d’actions
+Définit les règles de gameplay appliquées dans la Safari Dimension :
 
-ℹ️ Plus d'informations : ![ici]()
+- objets autorisés / interdits
+- règles de combat
+- restrictions d’actions
+
+ℹ️ Documentation complète :
+https://cobblesafari.maxigregrze.fr/en/addons/config_dimensional_restrictions_config
 
 ---
 
 ### ⏱️ Timer & téléportation
 
-- `config/cobblesafari/dimensional_timer_config.json`
+📄 `config/cobblesafari/dimensional_timer_config.json`
 
-    - gestion du temps de session
-    - cooldowns
-    - logique de téléportation
+Gère la logique temporelle et de téléportation :
 
-ℹ️ Plus d'informations : ![ici]()
+- durée des sessions
+- cooldown entre entrées
+- gestion du teleport / exit
+
+ℹ️ Documentation complète :
+https://cobblesafari.maxigregrze.fr/en/addons/config_dimensional_timer_config
 
 ---
 
