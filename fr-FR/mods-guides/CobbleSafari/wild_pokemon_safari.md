@@ -47,7 +47,7 @@ Chaque biome contient 4 niveaux de rareté :
 
 | 🟢 Commun | 🔵 Peu commun | 🟣 Rare | ⭐ Ultra-rare |
 |:---:|:---:|:---:|:---:|
-| Bébécaille | Embrylex, Minidraco, Griknot, Goinfrex, Jangmo-o | Dracolosse, Tranchodon, Brutalibré, Drattak, Altaria, Noivern | Salamèche, Kaiminus |
+| Sonistrelle | Embrylex, Minidraco, Griknot, Goinfrex, Bébécaille | Dracolosse, Tranchodon, Brutalibré, Drattak, Altaria, Bruyverne | Salamèche, Kaiminus |
 
 ---
 
@@ -55,7 +55,7 @@ Chaque biome contient 4 niveaux de rareté :
 
 | 🟢 Commun | 🔵 Peu commun | 🟣 Rare | ⭐ Ultra-rare |
 |:---:|:---:|:---:|:---:|
-| Wattouat, Dedenne, Élekid, Magnéti, Pikachu, Gribouille | Magnézone, Élektek, Luxray, Galvaran, Raichu, Élekable | Motisma, Toxtricity, Voltali | Rotom |
+| Wattouat, Dedenne, Élekid, Magnéti, Pikachu, Gribouille | Magnézone, Élektek, Luxray, Galvaran, Raichu, Élekable | Motisma, Toxtricity, Voltali | Motisma |
 
 ---
 
@@ -127,7 +127,7 @@ Chaque biome contient 4 niveaux de rareté :
 
 | 🟢 Commun | 🔵 Peu commun | 🟣 Rare | ⭐ Ultra-rare |
 |:---:|:---:|:---:|:---:|
-| Zigzaton, Laporeille, Keunotor, Évoli, Rattata | Porygon, Kecleon, Melo, Pijako | Leuphorie, Ronflex, Zangoose | Litten |
+| Zigzaton, Laporeille, Keunotor, Évoli, Rattata | Porygon, Kecleon, Melo, Pijako | Leuphorie, Ronflex, Mangriff | Flamiaou |
 
 ---
 
@@ -143,7 +143,7 @@ Chaque biome contient 4 niveaux de rareté :
 
 | 🟢 Commun | 🔵 Peu commun | 🟣 Rare | ⭐ Ultra-rare |
 |:---:|:---:|:---:|:---:|
-| Abra, Ramoloss, Spoink, Mystherbe, Psykokwak | Kadabra, Flagadoss, Gardevoir, M.Mime | Alakazam, Xatu, Métalosse | Fennekin |
+| Abra, Ramoloss, Spoink, Mystherbe, Psykokwak | Kadabra, Flagadoss, Gardevoir, M.Mime | Alakazam, Xatu, Métalosse | Feunnec |
 
 ---
 
@@ -151,7 +151,7 @@ Chaque biome contient 4 niveaux de rareté :
 
 | 🟢 Commun | 🔵 Peu commun | 🟣 Rare | ⭐ Ultra-rare |
 |:---:|:---:|:---:|:---:|
-| Racaillou, Nodulithe, Rocabot, Onix | Gigalithe, Crabaraque, Tyranocif, Grolem | Lycanroc, Terrakium | Grookey |
+| Racaillou, Nodulithe, Rocabot, Onix | Gigalithe, Crabaraque, Tyranocif, Grolem | Lycanroc, Terrakium | Ouistempo |
 
 ---
 
@@ -159,7 +159,7 @@ Chaque biome contient 4 niveaux de rareté :
 
 | 🟢 Commun | 🔵 Peu commun | 🟣 Rare | ⭐ Ultra-rare |
 |:---:|:---:|:---:|:---:|
-| Magnéti, Mawile, Galvaran, Tarinor | Métang, Airmure, Steelix, Noacier | Métalosse, Cizayox | Otaquin |
+| Magnéti, Mysdibule, Galvaran, Tarinor | Métang, Airmure, Steelix, Noacier | Métalosse, Cizayox | Otaquin |
 
 ---
 
@@ -167,7 +167,7 @@ Chaque biome contient 4 niveaux de rareté :
 
 | 🟢 Commun | 🔵 Peu commun | 🟣 Rare | ⭐ Ultra-rare |
 |:---:|:---:|:---:|:---:|
-| Magicarpe, Carapuce, Psykokwak, Axoloto, Marill | Lokhlass, Leviator, Milobellus, Lombre | Kyogre, Azumarill | Sobble |
+| Magicarpe, Carapuce, Psykokwak, Axoloto, Marill | Lokhlass, Leviator, Milobellus, Lombre | Kyogre, Azumarill | Larméléon |
 
 ---
 
