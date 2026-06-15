@@ -16,7 +16,7 @@ Contrairement aux potions classiques de Minecraft, utiliser plusieurs parfums ou
 
 ## ✨ Encens (bonus Shiny)
 
-Les encens sont connus pour augmenter les chances de rencontrer des Pokémon shiny dans la nature.
+Les encens sont connus pour augmenter les chances de rencontrer des Pokémon shiny.
 <br>
 Ne s’applique que sur les **nouvelles apparitions de Pokémon** autour du joueur affecté.
 
