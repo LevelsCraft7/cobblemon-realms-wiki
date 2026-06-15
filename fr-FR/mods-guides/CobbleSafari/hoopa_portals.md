@@ -6,7 +6,7 @@ Au détour de vos aventures, vous pourrez apercevoir d’étranges portails flot
 Ces failles, que l’on dit créées par <strong>Hoopa lui-même</strong>, permettent d’accéder à des donjons et dimensions inconnus… mais leur stabilité est loin d’être garantie.
 </p>
 
-![Portail Hoopa](https://cobblesafari.maxigregrze.fr/assets/cover_hoopa-Cxwum7YI.png)
+![Portail Hoopa](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/hoopa_portal_v2.png)
 
 ---
 
