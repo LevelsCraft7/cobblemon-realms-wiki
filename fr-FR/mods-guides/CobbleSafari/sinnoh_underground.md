@@ -31,11 +31,6 @@ Une fois le portail disparu, tous les joueurs encore présents sont automatiquem
 </p>
 {% endhint %}
 
-🔩 Comme toutes les dimensions spéciales, ces paramètres peuvent être modifiés via :
-
-- `Dimensional Restrictions`
-- `Dimensional Timer`
-
 ---
 
 # ⛏️ Mini-jeu d'excavation
@@ -44,7 +39,7 @@ Une fois le portail disparu, tous les joueurs encore présents sont automatiquem
 <p align="center">
 En parcourant les galeries, vous remarquerez parfois des reflets inhabituels sur certaines parois.
 <br>
-Ces emplacements spéciaux, appelés **sites d'excavation**, apparaissent dans les murs des tunnels.
+Ces emplacements spéciaux, appelés <strong>sites d'excavation</strong>, apparaissent dans les murs des tunnels.
 </p>
 {% endhint %}
 
