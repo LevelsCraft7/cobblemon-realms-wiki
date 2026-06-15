@@ -2,12 +2,15 @@
 
 Après avoir traversé un étrange portail, vous voilà dans le **Monde Distorsion** !
 Dans cette dimension où les lois de l'espace et de la gravité n'ont plus vraiment de sens, vous devrez progresser à travers des plateformes flottantes, des labyrinthes d'illusions et d'anciens vestiges oubliés.
+
 Peut-être découvrirez-vous même les mystérieux **Pokémon Distordus** et les secrets de Giratina...
 
 ---
 
 {% hint style="info" %}
+<p align="center">
 Le Monde Distorsion est une <strong>dimension temporaire</strong>. Une fois le portail disparu, tous les joueurs encore présents sont automatiquement expulsés.
+</p>
 {% endhint %}
 
 ## 🚪 Comment y accéder ?
@@ -31,12 +34,14 @@ Comme toutes les dimensions spéciales, ces paramètres peuvent être modifiés 
 
 ## 🪨 Plateformes et gravité
 
-Dans le Monde Distorsion, les notions de haut et de bas n'ont plus vraiment de sens. Certaines îles flottent dans le vide, le sol peut devenir un plafond et même les liquides semblent défier les lois de la gravité.
+Dans le Monde Distorsion, les notions de haut et de bas n'ont plus vraiment de sens. Certaines îles flottent dans le vide, le sol peut devenir un plafond et même les liquides semblent défier les lois de la gravité. Pour progresser, il faudra parfois enchaîner quelques sauts bien placés sur des rochers ou des fleurs afin d'atteindre les zones les plus éloignées.
 
-Pour progresser, il faudra parfois enchaîner quelques sauts bien placés sur des rochers ou des fleurs afin d'atteindre les zones les plus éloignées.
 {% hint style="warning" %}
+<p align="center">
 Tomber dans le vide vous expulse immédiatement du Monde Distorsion et vous renvoie à votre point d'entrée. Il vous sera ensuite impossible d'y retourner avant l'apparition d'un nouveau portail.
+</p>
 {% endhint %}
+
 Heureusement, la magie de Hoopa vous évite de dériver éternellement dans cet espace chaotique.
 
 *Malgré les apparences, les murs restent des murs. La gravité du Monde Distorsion est étrange, mais pas à ce point.*
@@ -58,7 +63,9 @@ D'autres sont beaucoup plus sournoises :
 - certaines peuvent transformer un simple chemin en véritable labyrinthe.
 
 {% hint style="danger" %}
+<p align="center">
 Se perdre dans un labyrinthe d'illusions est plus simple qu'il n'y paraît.
+</p>
 {% endhint %}
 
 ![Labyrinth Distortion](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/labyrinth.png)
@@ -78,7 +85,9 @@ Ces créatures :
 - peuvent laisser tomber des **Fragments de Chaîne Rouge** après leur défaite.
 
 {% hint style="success" %}
+<p align="center">
 Même si ces créatures ressemblent à des Pokémon, elles ne sont en réalité que des manifestations de l'énergie du Monde Distorsion.
+</p>
 {% endhint %}
 
 ![Distortion arena](https://cobblesafari.maxigregrze.fr/assets/img_distortion_arena-Yl0n4JFb.png)
@@ -101,7 +110,7 @@ Cependant, Giratina accepte les **Fragments de Chaîne Rouge** et peut les trans
 ## 💎 Cristaux Rouges Distordus
 
 | Variante | Effet |
-|:---:|---|
+|:---:|:---:|
 | [Distorted Red Crystal B](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_b.png) | 🎾 Change aléatoirement la Poké Ball du Pokémon. |
 | [Distorted Red Crystal E](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_e.png) | ✨ Redistribue aléatoirement les EVs. |
 | [Distorted Red Crystal G](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_g.png) | ♀️♂️ Inverse le sexe du Pokémon. |
