@@ -14,7 +14,9 @@ Après avoir traversé un étrange portail, vous voilà dans les <strong>Souterr
 
 Les Souterrains de Sinnoh ne sont accessibles qu'à travers un **Portail de Hoopa**.
 
-Si vous êtes suffisamment chanceux, la destination du portail pourra être les Souterrains. L'écran de confirmation indique toujours la destination avant la téléportation.
+Si vous êtes suffisamment chanceux, la destination du portail pourra être les Souterrains. 
+<br>
+L'écran de confirmation indique toujours la destination avant la téléportation.
 
 Une fois à l'intérieur :
 
