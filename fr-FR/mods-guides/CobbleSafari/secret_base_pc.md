@@ -7,7 +7,11 @@ Le <strong>PC de Base Secrète</strong> est un bloc craftable qui vous permet de
 {% endhint %}
 
 <p align="center">
-Contrairement aux bases secrètes des jeux Pokémon DPPt, ce PC ne sert pas à casser des rochers. Il fonctionne plutôt comme une <strong>Balise</strong>, mais avec une mécanique entièrement revisitée autour de Cobblemon : les <strong>drapeaux trouvés dans les bases souterraines</strong> permettent de débloquer des effets passifs puissants pour votre zone.
+Contrairement aux bases secrètes des jeux Pokémon DPPt, ce PC ne sert pas à casser des rochers. 
+</p>
+
+<p align="center">
+Il fonctionne plutôt comme une <strong>Balise</strong>, mais avec une mécanique entièrement revisitée autour de Cobblemon : les <strong>drapeaux trouvés dans les bases souterraines</strong> permettent de débloquer des effets passifs puissants pour votre zone.
 </p>
 
 ---
