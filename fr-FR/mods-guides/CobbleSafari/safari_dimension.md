@@ -106,7 +106,7 @@ Le système est basé sur le **Great Marsh (DPPt)** :
 - si ≤ taux de fuite → le Pokémon fuit
 
 📌 Valeur de base :
-- 60 → 23.6% de fuite
+> 60 → 23.6% de fuite
 
 ---
 
