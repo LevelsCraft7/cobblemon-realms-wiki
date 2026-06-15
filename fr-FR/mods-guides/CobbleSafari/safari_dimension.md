@@ -123,7 +123,11 @@ Effet :
 - ↓ réduit les chances de fuite
 - ↑ diminue les chances de capture
 
-👉 Rend le Pokémon plus “calme”, mais plus difficile à capturer.
+![Recette de fabrication de l'Appât](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/app%C3%A2t.png)
+<br>
+Vous vouvez utilisez n'importe quel baie de Cobblemon.
+
+👉 Rend le Pokémon plus "calme", mais plus difficile à capturer.
 
 ---
 
@@ -133,15 +137,9 @@ Effet :
 - ↑ augmente les chances de fuite
 - ↑ améliore les chances de capture
 
+![Recette de fabrication de la Boue-Boule](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/imgwiki/CobbleSafari/boue_boule.gif)
+
 👉 Rend la capture plus facile mais plus risquée.
-
----
-
-## 🔧 Obtention
-
-- objets gratuits quotidiens
-- loot via Safari Balloon
-- craft possible
 
 ---
 
