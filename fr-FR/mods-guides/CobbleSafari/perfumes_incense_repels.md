@@ -1,10 +1,10 @@
 # 🌿 Parfums, Encens et Repousse
 
+<p align="center">
 Marre du shiny hunting sans fin ?
+</p>
 
-Les **Encens** et **Parfums** vous permettent d’influencer les rencontres de Pokémon sauvages afin de favoriser certains types ou conditions rares.
-
-Ces objets augmentent la probabilité d’apparition de Pokémon possédant des caractéristiques spécifiques.
+Les **Encens** et **Parfums** vous permettent d’influencer les rencontres de Pokémon sauvages afin de favoriser certains types ou conditions rares. Ces objets augmentent la probabilité d’apparition de Pokémon possédant des caractéristiques spécifiques.
 
 {% hint style="info" %}
 <p align="center">
@@ -44,7 +44,7 @@ Les Pokémon déjà présents ne peuvent pas être reroll par l’encens.
 <p align="center">
 Les bonus shiny ne se cumulent pas avec d’autres systèmes de boost issus d’autres mods.
 </p>
-</{% endhint %}
+<{% endhint %}
 
 ---
 
