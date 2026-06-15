@@ -108,7 +108,7 @@ Cependant, Giratina accepte les **Fragments de Chaîne Rouge** et peut les trans
 ## 💎 Cristaux Rouges Distordus
 
 | Variante | Effet |
-| :--- | :---: |
+| :---: | :---: |
 | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_b.png)*Cristal Rouge Distordu B* | 🎾 Change aléatoirement la Poké Ball du Pokémon. |
 | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_e.png)*Cristal Rouge Distordu E*| ✨ Redistribue aléatoirement les EVs. |
 | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_g.png)*Cristal Rouge Distordu G* | ♀️♂️ Inverse le sexe du Pokémon. |
