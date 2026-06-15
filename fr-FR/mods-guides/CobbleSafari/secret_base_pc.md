@@ -1,10 +1,13 @@
 # 🧪 PC de Base Secrète
 
+{% hint style="info" %}
 <p align="center">
 Le <strong>PC de Base Secrète</strong> est un bloc craftable qui vous permet de créer et gérer votre propre base secrète !
-<br>
-Contrairement aux bases secrètes des jeux Pokémon DPPt, ce PC ne sert pas à casser des rochers.  
-Il fonctionne plutôt comme une <strong>Balise</strong>, mais avec une mécanique entièrement revisitée autour de Cobblemon : les <strong>drapeaux trouvés dans les bases souterraines</strong> permettent de débloquer des effets passifs puissants pour votre zone.
+</p>
+{% endhint %}
+
+<p align="center">
+Contrairement aux bases secrètes des jeux Pokémon DPPt, ce PC ne sert pas à casser des rochers. Il fonctionne plutôt comme une <strong>Balise</strong>, mais avec une mécanique entièrement revisitée autour de Cobblemon : les <strong>drapeaux trouvés dans les bases souterraines</strong> permettent de débloquer des effets passifs puissants pour votre zone.
 </p>
 
 ---
@@ -31,8 +34,10 @@ Le schéma de fabrication du PC de Base Secrète est disponible en jeu via JEI /
 - ⚡ Cliquez sur **“Activate”** pour activer/désactiver l’effet
 
 {% hint style="warning" %}
+<p align="center">
 Casser le PC permet de le récupérer sous forme d’item.  
-Le **niveau, la batterie et la progression sont conservés** dans l’objet.
+Le <strong>niveau, la batterie et la progression sont conservés</strong> dans l’objet.
+</p>
 {% endhint %}
 
 ---
@@ -63,7 +68,9 @@ Chaque montée de rang améliore :
 ![Interface du PC](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/pc_interface.png)
 
 {% hint style="info" %}
+<p align="center">
 Pour améliorer votre PC, insérez simplement un drapeau du rang correspondant.
+</p>
 {% endhint %}
 
 ---
@@ -76,7 +83,9 @@ Le PC de Base Secrète propose 5 types d’effets :
 Empêche les Pokémon de spawn dans la zone.
 
 {% hint style="success" %}
-Cet effet ne consomme **aucune batterie**, quel que soit le rang.
+<p align="center">
+Cet effet ne consomme <strong>aucune batterie</strong>, quel que soit le rang.
+</p>
 {% endhint %}
 
 ---
@@ -97,8 +106,10 @@ Ces effets :
 ---
 
 {% hint style="warning" %}
-Les effets du PC sont basés sur les mécaniques des objets **Parfums et Encens**.  
+<p align="center">
+Les effets du PC sont basés sur les mécaniques des objets <strong>Parfums et Encens</strong>.  
 Leur puissance est donc directement liée à ces systèmes.
+</p>
 {% endhint %}
 
 ---
@@ -114,8 +125,10 @@ Lorsqu’il est inséré dans un PC :
 - 🌍 effets illimités
 
 {% hint style="danger" %}
+<p align="center">
 Attention : le PC reste destructible et modifiable même en mode créatif.  
-Il est fortement recommandé de le **sécuriser dans une structure protégée**.
+Il est fortement recommandé de le <strong>sécuriser dans une structure protégée</strong>.
+</p>
 {% endhint %}
 
 ---
@@ -132,7 +145,9 @@ Les paramètres suivants sont modifiables :
 `secretbase_pc_config.json`
 
 {% hint style="info" %}
+<p align="center">
 Une documentation complète des valeurs est disponible dans la référence de configuration.
+</p>
 {% endhint %}
 
 ---
