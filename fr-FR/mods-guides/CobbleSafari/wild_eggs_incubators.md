@@ -21,7 +21,7 @@ Si vous cassez l’incubateur, le bloc est récupéré et l’œuf (avec sa prog
 </p>
 {% endhint %}
 
-![Recette de fabrication de l’Incubateur]
+![Recette de fabrication de l’Incubateur d'Œufs](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/incubateur_oeuf.png)
 
 ---
 
