@@ -15,17 +15,31 @@ Le Monde Distorsion est une <strong>dimension temporaire</strong>. Une fois le p
 
 ## 🚪 Comment y accéder ?
 
-Le Monde Distorsion n'est accessible qu'à travers un <strong>Portail de Hoopa</strong>.
+Le Monde Distorsion n'est accessible qu'à travers un **Portail de Hoopa**.
 
-Si vous êtes suffisamment chanceux, la destination du portail pourra être le Monde Distorsion. L'écran de confirmation indique toujours la destination avant la téléportation.
+Lorsqu'un portail apparaît, sa destination est indiquée sur l'écran de confirmation avant la téléportation. Avec un peu de chance, celui-ci pourra mener vers le Monde Distorsion.
 
-Une fois à l'intérieur :
+{% hint style="info" %}
+<p align="center">
+Tous les Portails de Hoopa ne mènent pas au Monde Distorsion.
+<br>
+Pensez toujours à vérifier la destination affichée avant d'entrer.
+</p>
+{% endhint %}
+
+Une fois à l'intérieur, plusieurs restrictions s'appliquent :
 
 - ❌ Impossible de casser des blocs ;
 - ❌ Impossible d'en placer ;
-- ⏳ Temps limité à **15 minutes** par défaut.
+- ⏳ Temps de présence limité à **15 minutes** par défaut.
 
-Comme toutes les dimensions spéciales, ces paramètres peuvent être modifiés via les configurations :
+{% hint style="warning" %}
+<p align="center">
+Lorsque le portail disparaît, la dimension s'effondre et tous les joueurs encore présents sont automatiquement expulsés.
+</p>
+{% endhint %}
+
+Comme toutes les dimensions spéciales, le comportement du Monde Distorsion peut être entièrement personnalisé grâce aux configurations suivantes :
 
 - `Dimensional Restrictions`
 - `Dimensional Timer`
