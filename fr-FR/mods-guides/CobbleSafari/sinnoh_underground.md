@@ -31,7 +31,7 @@ Une fois le portail disparu, tous les joueurs encore présents sont automatiquem
 </p>
 {% endhint %}
 
-Comme toutes les dimensions spéciales, ces paramètres peuvent être modifiés via :
+🔩 Comme toutes les dimensions spéciales, ces paramètres peuvent être modifiés via :
 
 - `Dimensional Restrictions`
 - `Dimensional Timer`
@@ -40,23 +40,27 @@ Comme toutes les dimensions spéciales, ces paramètres peuvent être modifiés 
 
 # ⛏️ Mini-jeu d'excavation
 
+{% hint style="warning" %}
+<p align="center">
 En parcourant les galeries, vous remarquerez parfois des reflets inhabituels sur certaines parois.
 <br>
-Ces emplacements spéciaux, appelés **sites d'excavation**, apparaissent aléatoirement dans les murs des tunnels.
-<br>
-Un simple clic droit sur la paroi permet de commencer l'excavation.
+Ces emplacements spéciaux, appelés **sites d'excavation**, apparaissent dans les murs des tunnels.
+</p>
+{% endhint %}
+
+<p align="center">
+ℹ️ Un simple clic droit sur la paroi permet de commencer l'excavation.
+</p>
 
 ![Mini-jeu d'excavation](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/excavation.png)
-
-*Qui sait ce qui se cache derrière cette couche de roche ?*
 
 ---
 
 ## 🎮 Comment jouer ?
 
-Le fonctionnement est directement inspiré du mini-jeu des Souterrains de Pokémon Diamant, Perle et Platine.
-
-Votre objectif est simple : déterrer les trésors cachés avant que le mur ne s'effondre.
+Le fonctionnement est directement inspiré du mini-jeu des Souterrains de Pokémon Diamant & Perle.
+<br>
+🎯 Votre objectif est simple : déterrer les trésors cachés avant que le mur ne s'effondre.
 
 Pour cela, vous disposez de deux outils :
 
@@ -87,7 +91,7 @@ Les fissures visibles en haut de l'écran vous permettent d'estimer son état :
 - plus elles progressent vers la gauche ;
 - plus l'effondrement est proche.
 
-Le Marteau :
+🔨 Le Marteau :
 
 - consomme davantage de stabilité ;
 - applique une pénalité lorsqu'il est utilisé trop tôt.
