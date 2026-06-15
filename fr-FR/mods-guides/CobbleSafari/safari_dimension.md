@@ -2,157 +2,239 @@
 
 {% hint style="warning" %}
 <p align="center">
-Le <strong>Safari Dimension</strong> est une zone instanciée composée de <strong>18 biomes Pokémon</strong>, avec exploration limitée dans le temps.
+La <strong>Safari Dimension</strong> est une dimension instanciée composée de <strong>18 biomes Pokémon</strong>, chacun basé sur un type élémentaire.
 </p>
 {% endhint %}
 
----
-
-# 🎯 Objectif
-
-Explorer un biome, capturer des Pokémon rares et optimiser votre run avant expiration du temps.
-
-👉 Chaque session est :
-- ⏳ limitée dans le temps
-- 🎲 générée de manière aléatoire
-- ⚠️ dangereuse (fuites fréquentes)
+🎯 **Objectif :** explorer des habitats uniques et capturer des Pokémon rares dans un environnement à temps limité.
 
 ---
 
-# ⚡ TL;DR (à lire avant d’entrer)
+# ⚡ À lire avant
 
-- ⏳ 15 minutes par run
-- ⚪ uniquement Safari Balls
-- ❌ pas de combats
-- ❌ pas de Pokémon envoyés
+- ⏳ 15 minutes par session
+- 🧭 entrée aléatoire dans un rayon de 5000 blocs
+- ⚪ uniquement Safari Balls utilisables
+- ❌ pas de combats Pokémon
+- ❌ impossibilité de sortir ses Pokémon
 - 💨 les Pokémon peuvent fuir
-- 📍 spawn aléatoire dans le biome
-- 🎯 objectif : capturer le plus de valeur possible
+- 🕛 1 entrée par jour (temps limité réel)
 
 ---
 
-# 🚪 Accès au Safari
+# 🚪 Accéder au Safari
 
-Le Safari est accessible via un **Téléporteur de Safari** :
+## 🔹 Téléporteur de Safari
+
+L’entrée se fait via un **Safari Teleporter** :
 
 1. Activation du téléporteur
 2. Interface de confirmation
 3. Affichage de la destination
 4. Téléportation dans la dimension
 
+📍 Chaque entrée est **unique** : vous n’apparaissez jamais au même endroit.
+
 ---
 
-# ⏱️ Gestion du temps
+## 🔹 Sortie
 
-- Durée maximale : **15 minutes**
-- Sortie possible à tout moment : `/safariexit`
+- Commande : `/safariexit`
+- Sortie possible à tout moment
 - Le temps restant est **conservé pour la journée**
 
 ---
 
-# 🧭 Règles générales
+# ⏱️ Règles générales
 
-Dans le Safari :
+Dans la Safari Dimension :
 
-- ⚪ Seules les Safari Balls sont autorisées
-- ❌ Aucun combat Pokémon
-- ❌ Aucun Pokémon actif utilisable
-- 🎣 Pêche désactivée
+- ⏳ Vous disposez de **15 minutes maximum**
+- ⚪ Seules les Safari Balls sont utilisables
+- ❌ Aucun combat autorisé
+- ❌ Impossible de sortir ses Pokémon
+- 🎣 La pêche est désactivée
 - 💨 Les Pokémon peuvent fuir
-- 📍 Spawn aléatoire dans un rayon défini
+- 📍 Spawn totalement aléatoire
 
-> ⚠️ Zone dangereuse : mort ou expulsion entraîne une perte de progression locale
-
----
-
-# 💨 Système de fuite
-
-Les Pokémon peuvent fuir à tout moment lors d’une interaction.
-
-### 🎲 Probabilité de base
-- 23.6% de chance (valeur de base)
-- équivalent à un tirage ≤ 60 / 254
-
-### 🔁 Déclencheurs de fuite
-- utilisation d’objet
-- tentative de capture échouée
-- interaction agressive
+{% hint style="warning" %}
+<p align="center">
+Mourir dans le Safari peut entraîner une perte de progression locale.
+</p>
+{% endhint %}
 
 ---
 
-## ⏱️ Phase de fuite
+# 💨 Système de fuite Pokémon
 
-Lorsqu’un Pokémon commence à fuir :
+{% hint style="info" %}
+<p align="center">
+Les Pokémon du Safari peuvent fuir lorsqu’ils sont trop perturbés.
+</p>
+{% endhint %}
 
-- ⚠️ alerte affichée
-- ⏳ 5 secondes restantes
-- 🎯 dernière tentative possible
+## 🔹 Déclenchement
+
+À chaque interaction critique :
+
+- rupture de Safari Ball
+- utilisation d’un objet
+- action sur le Pokémon
+
+👉 Il y a **23.6% de chance** de déclencher une fuite.
+
+---
+
+## 🔹 Phase de fuite
+
+Quand un Pokémon commence à fuir :
+
+- ⚠️ alerte affichée à l’écran
+- ⏳ 5 secondes de délai
+- 🎯 une dernière tentative de capture possible
 
 Sinon :
-> 💨 le Pokémon disparaît définitivement
+> 💨 le Pokémon disparaît <strong>définitivement</strong> !
 
 ---
 
-# 📊 Modificateurs
+## 🔹 Logique technique
 
-## 💨 Fuite / Capture
+Le système est basé sur le **Great Marsh (DPPt)** :
 
-| Niveau | Fuite | Capture |
-|:--:|:--:|:--:|
-| -6 | 71% | x3 |
-| -3 | 47% | x2 |
-| 0 | 24% | x1 |
-| +3 | 12% | x0.5 |
-| +6 | 8% | x0.33 |
+- un nombre entre **0 et 254** est tiré
+- si ≤ taux de fuite → le Pokémon fuit
 
-👉 Les valeurs intermédiaires suivent une progression continue.
+📌 Valeur de base :
+- 60 → 23.6% de fuite
 
 ---
 
-# 🎯 Objets
+# 📊 Modificateurs de fuite & capture
 
-## 🍖 Appâts
+| Niveau | -6 | -3 | 0 | +3 | +6 |
+|--------|----|----|---|----|----|
+| 💨 Fuite | 71% | 47% | 24% | 12% | 8% |
+| 🎯 Capture | x3 | x2 | x1 | x0.5 | x0.33 |
+
+👉 Les valeurs intermédiaires suivent une progression graduelle.
+
+---
+
+# 🎯 Objets du Safari
+
+## 🍖 Bait (Appât)
+
+Effet :
 - ↓ réduit les chances de fuite
-- ↓ augmente la difficulté de capture
+- ↑ diminue les chances de capture
 
-👉 risque plus élevé mais Pokémon plus stable
-
-## 🪨 Boue-Boule
-- ↑ augmente les chances de fuite
-- ↑ facilite la capture
-
-👉 capture plus facile mais risque de disparition rapide
+👉 Rend le Pokémon plus “calme”, mais plus difficile à capturer.
 
 ---
 
-# 🌍 Pokémon & biomes
+## 🪨 Mud Ball (Boue-Boule)
 
-Chaque biome contient 4 niveaux de rareté :
+Effet :
+- ↑ augmente les chances de fuite
+- ↑ améliore les chances de capture
+
+👉 Rend la capture plus facile mais plus risquée.
+
+---
+
+## 🔧 Obtention
+
+- objets gratuits quotidiens
+- loot via Safari Balloon
+- craft possible
+
+---
+
+# 🌍 Biomes & Pokémon
+
+La Safari Dimension contient **18 biomes**, chacun basé sur un type Pokémon.
+
+Chaque biome contient :
 
 - 🟢 Commun
 - 🔵 Peu commun
 - 🟣 Rare
 - ⭐ Ultra-rare
 
-📖 Spawn list : (à compléter)
+📖 Liste complète des spawns :
+https://cobblesafari.maxigregrze.fr/en/wiki/safari-dimension-spawnpool
 
 ---
 
-## ⚙️ Configuration
+# 💰 Entrée au Safari (optionnel)
 
-📁 `config/cobblesafari/safari_config.json`
+Par défaut :
+- Entrée gratuite
 
-Paramètres :
+Mais configurable par serveur/modpack :
 
-- `dailySafariBallsCount` → nombre de Safari Balls gratuites (16)
+## 🔹 Types de paiement possibles
+- 🎟️ item (ex: Safari Ticket)
+- 💰 Realms Coins (ex: 5000)
+
+## 🔹 Options avancées
+- Paiements multiples autorisés
+- Recharge de temps + entrées supplémentaires
+- Reset des récompenses quotidiennes par paiement
+
+---
+
+# ⚙️ Configuration
+
+## 📁 Configuration principale
+
+- `config/cobblesafari/safari_config.json`
+
+### Paramètres :
+
+- `dailySafariBallsCount` → nombre de Safari Balls gratuites (défaut : 16)
 - `enableEntryFee` → active les frais d’entrée
 
+https://cobblesafari.maxigregrze.fr/en/addons/config_safari_config
+
 ---
 
-## 🔧 Autres configs
+## 📁 Autres configs
 
-- Restrictions :
-  📁 `config/cobblesafari/dimensional_restrictions_config.json`
+### 🔒 Restrictions dimensionnelles
 
-- Timer :
-  📁 `config/cobblesafari/dimensional_timer_config.json`
+- `config/cobblesafari/dimensional_restrictions_config.json`
+
+    - objets autorisés/interdits
+    - règles de combat
+    - restrictions d’actions
+
+ℹ️ Plus d'informations : ![ici]()
+
+---
+
+### ⏱️ Timer & téléportation
+
+- `config/cobblesafari/dimensional_timer_config.json`
+
+    - gestion du temps de session
+    - cooldowns
+    - logique de téléportation
+
+ℹ️ Plus d'informations : ![ici]()
+
+---
+
+{% hint style="success" %}
+## 🧠 Notes de design
+
+Le Safari est conçu comme un système de <strong>risk / reward</strong> basé sur la pression temporelle et la prise de décision rapide.
+
+- une expérience <strong>courte mais intense</strong>
+- un système de <strong>risque / récompense</strong>
+- une boucle centrée sur :
+  - gestion du temps ⏳
+  - gestion du risque 💨
+  - optimisation de capture 🎯
+{% endhint %}
