@@ -33,7 +33,7 @@ Dans <strong>Cobblemon Realms</strong>, la fabrication du téléporteur n’est 
 
 ---
 
-## 🔹 Sortie
+## 🔹 Sortir du Safari
 
 - Commande : `/safariexit`
 - Sortie possible à tout moment
@@ -69,13 +69,13 @@ Les Pokémon du Safari peuvent fuir lorsqu’ils sont trop perturbés.
 
 ## 🔹 Déclenchement
 
-À chaque interaction critique :
+À chaque interaction critique avec un Pokémon :
 
-- rupture de Safari Ball
-- utilisation d’un objet
-- action sur le Pokémon
+→ rupture d’une Safari Ball  
+→ utilisation d’un objet  
+→ action directe sur le Pokémon  
 
-👉 Il y a **23.6% de chance** de déclencher une fuite.
+👉 Chaque événement a **23,6% de chances** de déclencher une fuite.
 
 ---
 
