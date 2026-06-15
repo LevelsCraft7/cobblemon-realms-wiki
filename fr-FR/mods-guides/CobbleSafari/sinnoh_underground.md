@@ -27,7 +27,6 @@ Une fois à l'intérieur :
 {% hint style="warning" %}
 <div align="center">
 Les Souterrains sont une dimension temporaire.
-  
 Une fois le portail disparu, tous les joueurs encore présents sont automatiquement expulsés.
 </div>
 {% endhint %}
@@ -71,7 +70,6 @@ Chaque coup retire une partie de la terre et révèle progressivement :
 {% hint style="info" %}
 <div align="center">
 Un objet n'est récupéré que si l'intégralité de son dessin est visible.
-
 Le moindre morceau encore recouvert est perdu.
 </div>
 {% endhint %}
@@ -97,7 +95,6 @@ Les amas de fer sont eux aussi dangereux et provoquent une perte supplémentaire
 {% hint style="danger" %}
 <div align="center">
 Lorsque la stabilité atteint zéro, le mur s'effondre.
-
 Le mini-jeu se termine immédiatement.
 </div>
 {% endhint %}
