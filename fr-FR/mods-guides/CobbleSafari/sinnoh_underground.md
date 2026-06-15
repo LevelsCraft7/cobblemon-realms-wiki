@@ -159,15 +159,7 @@ La grotte restera toutefois entièrement explorable.
 
 Certaines anciennes bases semblent avoir été désertées depuis près de vingt ans.
 
-Les décorations sont toujours là.
-<br>
-Les meubles n'ont pas bougé.
-<br>
-Et les drapeaux flottent encore silencieusement...
-
-Si vous apercevez une étrange ouverture dans un mur, prenez le temps d'aller voir : une ancienne base secrète se cache peut-être derrière.
-
-Vous pourrez alors récupérer le **drapeau** laissé sur le PC et l'utiliser dans votre propre **PC de Base Secrète**.
+Si vous apercevez une étrange ouverture dans un mur, prenez le temps d'aller voir : une ancienne base secrète se cache peut-être derrière. Vous pourrez alors récupérer le **drapeau** laissé sur le PC et l'utiliser dans votre propre **PC de Base Secrète**.
 
 ---
 
