@@ -2,12 +2,10 @@
 
 {% hint style="info" %}
 <p align="center">
-Marre du shiny hunting sans fin ?
+Les **Encens** et **Parfums** vous permettent d’influencer les rencontres de Pokémon sauvages afin de favoriser certains types ou conditions rares. Ces objets augmentent la probabilité d’apparition de Pokémon possédant des caractéristiques spécifiques.
 </p>
 
-Les **Encens** et **Parfums** vous permettent d’influencer les rencontres de Pokémon sauvages afin de favoriser certains types ou conditions rares. Ces objets augmentent la probabilité d’apparition de Pokémon possédant des caractéristiques spécifiques.
-
-{% hint style="info" %}
+{% hint style="success" %}
 <p align="center">
 Contrairement aux potions classiques de Minecraft, utiliser plusieurs parfums ou encens successivement <strong>prolonge la durée totale</strong> au lieu de réinitialiser l’effet.
 </p>
