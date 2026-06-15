@@ -42,9 +42,7 @@ Tomber dans le vide vous expulse immédiatement du Monde Distorsion et vous renv
 </p>
 {% endhint %}
 
-Heureusement, la magie de Hoopa vous évite de dériver éternellement dans cet espace chaotique.
-
-*Malgré les apparences, les murs restent des murs. La gravité du Monde Distorsion est étrange, mais pas à ce point.*
+*Heureusement, la magie de Hoopa vous évite de dériver éternellement dans cet espace chaotique.*
 
 ![Plateforme Distortion](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/platforming.png)
 
