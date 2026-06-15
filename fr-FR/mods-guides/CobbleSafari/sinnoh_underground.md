@@ -1,9 +1,9 @@
 # ⛏️ Les Souterrains de Sinnoh
 
 {% hint style="info" %}
-<div align="center">
+<p align="center">
 Après avoir traversé un étrange portail, vous voilà dans les <strong>Souterrains de Sinnoh</strong> ! Sous la surface s'étend un immense réseau de galeries oubliées renfermant trésors, fossiles, sphères mystérieuses et anciennes bases secrètes abandonnées. Entre les mini-jeux d'excavation, les cachettes Pokémon et les rencontres avec d'autres explorateurs, chaque expédition réserve son lot de surprises.
-</div>
+</p>
 {% endhint %}
 
 > 💡 **Astuce :** certains fossiles extrêmement rares peuvent même garantir l'obtention d'un **Pokémon chromatique**.
@@ -25,10 +25,10 @@ Une fois à l'intérieur :
 - ⏳ Temps limité à **15 minutes** par défaut.
 
 {% hint style="warning" %}
-<div align="center">
+<p align="center">
 Les Souterrains sont une dimension temporaire.
 Une fois le portail disparu, tous les joueurs encore présents sont automatiquement expulsés.
-</div>
+</p>
 {% endhint %}
 
 Comme toutes les dimensions spéciales, ces paramètres peuvent être modifiés via :
@@ -70,10 +70,10 @@ Chaque coup retire une partie de la terre et révèle progressivement :
 - 🟫 différentes couches de roche.
 
 {% hint style="info" %}
-<div align="center">
+<p align="center">
 Un objet n'est récupéré que si l'intégralité de son dessin est visible.
 Le moindre morceau encore recouvert est perdu.
-</div>
+</p>
 {% endhint %}
 
 ---
@@ -95,10 +95,10 @@ Le Marteau :
 Les amas de fer sont eux aussi dangereux et provoquent une perte supplémentaire de stabilité.
 
 {% hint style="danger" %}
-<div align="center">
+<p align="center">
 Lorsque la stabilité atteint zéro, le mur s'effondre.
 Le mini-jeu se termine immédiatement.
-</div>
+</p>
 {% endhint %}
 
 ---
@@ -128,11 +128,10 @@ Les **Randonneurs** parcourent eux aussi les galeries à la recherche de richess
 La plupart proposent des échanges contre vos sphères, tandis que certains rachètent directement les trésors découverts lors de vos excavations.
 
 {% hint style="info" %}
-<div align="center">
+<p align="center">
 Ne sous-estimez jamais les sphères.
-
 Elles valent bien plus qu'elles n'en ont l'air.
-</div>
+</p>
 {% endhint %}
 
 ---
@@ -146,11 +145,10 @@ Ces cavernes isolées abritent différents Pokémon que vous pourrez combattre o
 Vaincre tous les Pokémon présents permet d'obtenir diverses récompenses.
 
 {% hint style="warning" %}
-<div align="center">
+<p align="center">
 Sans Cobblemon Trial Edition, aucun Pokémon n'apparaîtra.
-
 La grotte restera toutefois entièrement explorable.
-</div>
+</p>
 {% endhint %}
 
 ---
@@ -174,7 +172,7 @@ Le système de téléportation ainsi que les minuteries sont quant à eux défin
 - `Dimensional Timer`
 
 {% hint style="info" %}
-<div align="center">
+<p align="center">
 Le détail complet de ces fichiers est disponible dans les pages de configuration correspondantes.
-</div>
+</p>
 {% endhint %}
