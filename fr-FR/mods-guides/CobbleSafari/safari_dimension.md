@@ -1,6 +1,10 @@
 # 🏝️ Safari Dimension
 
-Le **Safari** est une dimension personnalisée composée de **18 biomes différents**, chacun basé sur un type Pokémon.
+{% hint style="warning" %}
+<p align="center">
+Le <strong>Safari</strong> est une dimension personnalisée composée de <strong>18 biomes différents</strong>, chacun basé sur un type Pokémon.
+</p>
+{% endhint %}
 
 Son objectif est simple : explorer, capturer des Pokémon rares et découvrir des mécaniques uniques... mais avec une contrainte majeure :
 **le temps est limité, et l’accès est très restrictif !**
@@ -28,7 +32,7 @@ Mourir ou être expulsé dans cette zone est fortement déconseillé...</p>
 
 ---
 
-## 🚪 Comment y accéder ?
+# 🚪 Comment y accéder ?
 
 L’accès au Safari se fait via un **Téléporteur de Safari**.
 
@@ -110,7 +114,7 @@ Base :
 
 ---
 
-## 🌍 Pokémon disponibles
+# 🌍 Pokémon disponibles
 
 Chaque biome contient 4 raretés :
 
@@ -146,7 +150,7 @@ Option :
 
 ---
 
-## ⚙️ Configuration
+# ⚙️ Configuration
 
 📁 `config/cobblesafari/safari_config.json`
 
