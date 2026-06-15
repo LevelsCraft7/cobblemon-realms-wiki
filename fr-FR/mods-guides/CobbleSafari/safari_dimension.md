@@ -161,7 +161,7 @@ Effet :
 - ↑ augmente les chances de fuite
 - ↑ améliore les chances de capture
 
-![Recette de fabrication de la Boue-Boule](https://github.com/LevelsCraft7/cobblemon-realms-wiki/blob/main/imgwiki/CobbleSafari/boue_boule.gif)
+![Recette de fabrication de la Boue-Boule](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/boue_boule.gif)
 
 👉 Rend la capture plus facile mais plus risquée.
 
