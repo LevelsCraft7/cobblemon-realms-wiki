@@ -111,12 +111,12 @@ Cependant, Giratina accepte les **Fragments de Chaîne Rouge** et peut les trans
 
 | Variante | Effet |
 |:---:|:---:|
-| [Distorted Red Crystal B](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_b.png) | 🎾 Change aléatoirement la Poké Ball du Pokémon. |
-| [Distorted Red Crystal E](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_e.png) | ✨ Redistribue aléatoirement les EVs. |
-| [Distorted Red Crystal G](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_g.png) | ♀️♂️ Inverse le sexe du Pokémon. |
-| [Distorted Red Crystal I](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_i.png) | 📈 Relance tous les IVs. |
-| [Distorted Red Crystal L](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_l.png) | 🔢 Modifie le niveau du Pokémon entre 1 et 100. |
-| [Distorted Red Crystal S](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_s.png) | ⭐ Relance le statut Shiny du Pokémon. |
+| ![Cristal Rouge Distordu B](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_b.png) | 🎾 Change aléatoirement la Poké Ball du Pokémon. |
+| ![Cristal Rouge Distordu E](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_e.png) | ✨ Redistribue aléatoirement les EVs. |
+| ![Cristal Rouge Distordu G](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_g.png) | ♀️♂️ Inverse le sexe du Pokémon. |
+| ![Cristal Rouge Distordu I](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_i.png) | 📈 Relance tous les IVs. |
+| ![Cristal Rouge Distordu L](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_l.png)*Cristal Rouge Distordu L* | 🔢 Modifie le niveau du Pokémon entre 1 et 100. |
+| ![Cristal Rouge Distordu Z](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_z.png)<sup>Cristal Rouge Distordu Z</sup> | ⭐ Relance le statut Shiny du Pokémon. |
 
 {% hint style="info" %}
 Les récompenses de Giratina, les probabilités Shiny ainsi que la liste des Poké Balls disponibles peuvent être modifiées dans les fichiers de configuration.
