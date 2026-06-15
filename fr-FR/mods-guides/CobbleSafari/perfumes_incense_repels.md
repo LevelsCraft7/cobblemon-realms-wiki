@@ -111,10 +111,10 @@ Les paramètres de ces systèmes sont définis dans :
 
 ### 🔧 Catégories principales
 
-- ⚙️ **Effect Settings** → `effectSettings`  
+- ⚙️ **Paramètres d'effet** → `effectSettings`  
   Définit le fonctionnement des effets (y compris ceux d’autres systèmes comme le Secret Base PC).
 
-- ⏱️ **Duration Settings** → `durationSettings`  
+- ⏱️ **Paramètres de durée** → `durationSettings`  
   Définit la durée des objets donnant les effets.
 
 👉 [Configuration complète](https://cobblesafari.maxigregrze.fr/en/addons/config_encounter_boost_config)
