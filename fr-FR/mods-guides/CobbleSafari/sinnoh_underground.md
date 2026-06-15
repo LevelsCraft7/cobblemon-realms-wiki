@@ -8,8 +8,6 @@ Après avoir traversé un étrange portail, vous voilà dans les **Souterrains d
 
 > 💡 **Astuce :** certains fossiles extrêmement rares peuvent même garantir l'obtention d'un **Pokémon chromatique**.
 
-![Mini-jeu d'excavation](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/excavation.png)
-
 ---
 
 ## 🚪 Comment y accéder ?
@@ -45,6 +43,8 @@ En parcourant les galeries, vous remarquerez parfois des reflets inhabituels sur
 Ces emplacements spéciaux, appelés **sites d'excavation**, apparaissent aléatoirement dans les murs des tunnels.
 <br>
 Un simple clic droit sur la paroi permet de commencer l'excavation.
+
+![Mini-jeu d'excavation](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/excavation.png)
 
 *Qui sait ce qui se cache derrière cette couche de roche ?*
 
