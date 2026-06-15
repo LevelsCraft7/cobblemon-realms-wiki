@@ -44,7 +44,7 @@ Les Pokémon déjà présents ne peuvent pas être reroll par l’encens.
 {% hint style="warning" %}
 <p align="center">
 Les bonus shiny ne se cumulent pas avec d’autres systèmes de boost issus d’autres mods.
-/p>
+</p>
 {% endhint %}
 
 ---
