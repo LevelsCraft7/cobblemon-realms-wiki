@@ -85,6 +85,8 @@ Le comportement des portails est défini dans :
 - 🌀 **Durée de vie du portail** → `portalLifetimeMinutes` (défaut : 30)
 - 🔘 **Activer les portails** → `enabled` (true/false)
 
+---
+
 {% hint style="info" %}
 ## Plus d'informations
 
