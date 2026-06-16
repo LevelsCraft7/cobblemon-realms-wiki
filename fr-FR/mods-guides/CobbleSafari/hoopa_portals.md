@@ -86,9 +86,19 @@ Le comportement des portails est défini dans :
 - 🔘 **Activer les portails** → `enabled` (true/false)
 
 {% hint style="info" %}
+## Plus d'informations
+
 <p align="center">
-Le détail complet de la configuration est disponible sur la page dédiée.
+Vous trouverez une description complète du fichier de configuration sur la page officielle du mod : <a href="[ttt](https://cobblesafari.maxigregrze.fr/en/addons/config_dungeon_spawn_config)">dungeon_spawn_config</a>
 </p>
 {% endhint %}
 
-👉 [Configuration complète](À faire)
+---
+
+{% hint style="success" %}
+## Nous contacter
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
