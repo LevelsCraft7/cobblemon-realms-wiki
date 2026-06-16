@@ -1,5 +1,13 @@
 # 🦁 CobbleSafari
 
+{% hint style="warning" %}
+## Warning
+
+<p align="center">
+Currently, the Distorted Dimension is not yet available in CobbleSafari and, therefore, it is also not accessible in the modpack. However, the associated pages are already present, so it is normal that some features mentioned in the wiki are not yet available.
+</p>
+{% endhint %}
+
 {% hint style="info" %}
 <p align="center">
 CobbleSafari enhances the Cobblemon Realms experience with new dimensions, mechanics, and activities inspired by the Pokémon games.
