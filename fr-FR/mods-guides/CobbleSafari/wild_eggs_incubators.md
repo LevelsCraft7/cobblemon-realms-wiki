@@ -67,7 +67,7 @@ Paramètres principaux :
 <p align="center">
 Le détail complet de ce fichier de configuration est disponible sur la page officielle du mod :
 <br>
-<a href="https://cobblesafari.maxigregrze.fr/en/addons/config_incubator_config">Incubator Config</a>
+<a href="https://cobblesafari.maxigregrze.fr/en/addons/config_incubator_config">Configuration de l'Incubateur</a>
 </p>
 {% endhint %}
 
