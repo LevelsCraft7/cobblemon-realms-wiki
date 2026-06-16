@@ -6,7 +6,9 @@ Après avoir traversé un étrange portail, vous voilà dans les <strong>Souterr
 </p>
 {% endhint %}
 
-> 💡 **Astuce :** certains fossiles extrêmement rares peuvent même garantir l'obtention d'un **Pokémon chromatique**.
+<p align="center">
+<em>Certains fossiles extrêmement rares peuvent même garantir l'obtention d'un <strong>Pokémon chromatique</strong>.</em>
+</p>
 
 ---
 
