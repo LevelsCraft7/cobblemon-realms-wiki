@@ -1,16 +1,38 @@
-# 🌿 Pokémon sauvages dans la Dimension Safari
+## 🌌 Biomes de la Dimension Safari
 
-La Dimension Safari contient **18 biomes basés sur les types Pokémon**, chacun disposant de son propre pool de spawn.
+{% hint style="info" %}
+<p align="center">
+La <strong>Dimension Safari</strong> contient <strong>18 biomes basés sur les types Pokémon</strong>, chacun disposant de son propre pool de spawns.
+</p>
+{% endhint %}
+
+---
+
+## 🧭 Inspirations
 
 Les apparitions sont inspirées de :
+
 - 🧭 Pokémon X & Y — Safari des Amis (rencontres par type)
 - 🌌 Pokémon Légendes : Z-A — Méga-Dimensions
 
-Ces spawns ont été ajustés afin de :
-- garder les Pokémon rares réellement rares
-- tout en assurant une exploration variée et intéressante
+---
 
-> ⚠️ Certains Pokémon listés peuvent ne pas être disponibles dans Cobblemon de base et nécessitent un datapack complémentaire.
+## ⚙️ Équilibrage des spawns
+
+Les tables de spawn ont été ajustées afin de :
+
+- conserver les Pokémon rares comme de véritables raretés
+- garantir une exploration variée et intéressante dans chaque biome
+
+---
+
+{% hint style="warning" %}
+## ⚠️ Compatibilité
+
+<p align="center">
+Certains Pokémon listés peuvent ne pas être disponibles dans Cobblemon de base et nécessitent un datapack complémentaire.
+</p>
+{% endhint %}
 
 ---
 
@@ -180,6 +202,8 @@ Les spawns sont définis dans :
 Chaque biome utilise la condition suivante :
 <br>
 ➡️ `"biomes": ["cobblesafari:<type>"]`
+
+---
 
 {% hint style="info" %}
 ## Plus d'informations
