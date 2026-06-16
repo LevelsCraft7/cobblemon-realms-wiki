@@ -5,7 +5,9 @@ Après avoir traversé un étrange portail, vous voilà dans le **Monde Distorsi
 Dans cette dimension où les lois de l'espace et de la gravité n'ont plus vraiment de sens, vous devrez progresser à travers des plateformes flottantes, des labyrinthes d'illusions et d'anciens vestiges oubliés.
 </p>
 
+<p align="center">
 Peut-être découvrirez-vous même les mystérieux **Pokémon Distordus** et les secrets de Giratina...
+</p>
 
 ---
 
