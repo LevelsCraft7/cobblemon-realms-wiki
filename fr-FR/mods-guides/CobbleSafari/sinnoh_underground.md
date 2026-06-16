@@ -114,7 +114,7 @@ Certains objets sont très communs, tandis que d'autres sont extrêmement rares.
 <br>
 La liste complète des récompenses disponibles est consultable sur la page :
 
-👉 ![Liste des Trésors des Souterrains]()
+👉 [💎 Trésors souterrain de Sinnoh](underground_treasure_list.md)
 
 ---
 
@@ -156,7 +156,7 @@ La grotte restera toutefois entièrement explorable.
 
 Certaines anciennes bases semblent avoir été désertées depuis près de vingt ans.
 
-Si vous apercevez une étrange ouverture dans un mur, prenez le temps d'aller voir : une ancienne base secrète se cache peut-être derrière. Vous pourrez alors récupérer le **drapeau** laissé sur le PC et l'utiliser dans votre propre **PC de Base Secrète**.
+Si vous apercevez une étrange ouverture dans un mur, prenez le temps d'aller voir : une ancienne base secrète se cache peut-être derrière. Vous pourrez alors récupérer le **drapeau** laissé sur le PC et l'utiliser dans votre propre **[PC de Base Secrète](secret_base_pc.md)**.
 
 ---
 
@@ -171,7 +171,13 @@ Le système de téléportation ainsi que les minuteries sont quant à eux défin
 - `Dimensional Timer`
 
 {% hint style="info" %}
+## Plus d'informations
+
 <p align="center">
-Le détail complet de ces fichiers est disponible dans les pages de configuration correspondantes.
+Le détail complet de ces fichiers est disponible sur leurs pages de configuration respectives :
+<br>
+<a href="https://cobblesafari.maxigregrze.fr/en/addons/config_dimensional_restrictions_config">Restrictions Dimensionnelles</a>
+<br>
+<a href="https://cobblesafari.maxigregrze.fr/en/addons/config_dimensional_timer_config">Minuteur Dimensionnel</a>
 </p>
 {% endhint %}
