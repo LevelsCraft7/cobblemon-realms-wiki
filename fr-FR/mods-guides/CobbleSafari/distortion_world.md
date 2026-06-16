@@ -136,7 +136,7 @@ Les objets peuvent être rendus inaccessibles en les supprimant de la table de b
 </p>
 
 <p align="center">
-Si vous souhaitez configurer les probabilités de relance des Pokémon chromatiques (shiny) ainsi que la liste des Poké Balls disponibles, consultez la page officielle du mod : <a href="https://cobblesafari.maxigregrze.fr/en/addons/config_randomizer_items_config">config_randomizer_items_config</a>
+Si vous souhaitez configurer les probabilités de relance des Pokémon chromatiques ainsi que la liste des Poké Balls disponibles, consultez la page officielle du mod : <a href="https://cobblesafari.maxigregrze.fr/en/addons/config_randomizer_items_config">config_randomizer_items_config</a>
 </p>
 {% endhint %}
 
