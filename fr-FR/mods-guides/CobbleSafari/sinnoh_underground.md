@@ -164,11 +164,11 @@ Si vous apercevez une étrange ouverture dans un mur, prenez le temps d'aller vo
 
 Les restrictions de la dimension (objets interdits, combats autorisés, etc.) sont définies dans :
 <br>
-- `Dimensional Restrictions`
+➡️ `Dimensional Restrictions`
 
 Le système de téléportation ainsi que les minuteries sont quant à eux définis dans :
 <br>
-- `Dimensional Timer`
+➡️ `Dimensional Timer`
 
 {% hint style="info" %}
 ## Plus d'informations
