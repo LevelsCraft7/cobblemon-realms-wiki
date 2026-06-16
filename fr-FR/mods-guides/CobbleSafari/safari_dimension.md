@@ -205,7 +205,7 @@ Mais configurable par serveur/modpack :
 
 La plupart des paramètres du Safari sont regroupés dans :
 <br>
-`config/cobblesafari/safari_config.json`
+➡️ `config/cobblesafari/safari_config.json`
 
 Quelques options utiles :
 
@@ -227,7 +227,7 @@ Vous trouverez une description complète du fichier de configuration sur la page
 
 Les objets autorisés, les règles de combat et certaines restrictions du Safari sont définis dans :
 <br>
-`config/cobblesafari/dimensional_restrictions_config.json`
+➡️ `config/cobblesafari/dimensional_restrictions_config.json`
 
 {% hint style="info" %}
 ## Plus d'informations
@@ -244,7 +244,7 @@ Le détail complet de cette configuration est disponible sur la page officielle 
 
 La durée des sessions, les délais entre les entrées et la logique de téléportation sont définis dans : 
 <br>
-`config/cobblesafari/dimensional_timer_config.json`
+➡️ `config/cobblesafari/dimensional_timer_config.json`
 
 {% hint style="info" %}
 ## Plus d'informations
