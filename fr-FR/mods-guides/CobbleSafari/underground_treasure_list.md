@@ -100,3 +100,23 @@ CobbleSafari ajoute ce système via le <strong>Casque du Mineur Chanceux</strong
 | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/img_tresors_souterrains/img_autres/raw_megastone.png) | Méga-Gemme Brute | Rare (6) | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/img_tresors_souterrains/formes/block_48.png) | 1 | Mega Showdown* |
 | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/img_tresors_souterrains/img_autres/blanck_z_crystal.png) | Z-Vierge | Rare (6) | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/img_tresors_souterrains/formes/block_49.png) | 1 | Mega Showdown* |
 | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/img_tresors_souterrains/img_plate/plaques_arceus.gif) | Plaques Arceus | Ultra rare (1) | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/img_tresors_souterrains/formes/block_50.png) | 1 | Mega Showdown* |
+
+---
+
+{% hint style="info" %}
+## Plus d'informations
+
+<p align="center">
+Si vous souhaitez créer ou modifier ces trésors, consultez la page officielle : <a href="https://cobblesafari.maxigregrze.fr/en/addons/datapack-underground-treasures">Datapack : Formes et trésors souterrains</a>
+</p>
+{% endhint %}
+
+---
+
+{% hint style="success" %}
+## Nous contacter
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
