@@ -111,17 +111,34 @@ Les paramètres de ces systèmes sont définis dans :
 ### 🔧 Catégories principales
 
 - ⚙️ **Paramètres d'effet** → `effectSettings`  
-  Définit le fonctionnement des effets (y compris ceux d’autres systèmes comme le Secret Base PC).
+  Définit le fonctionnement des effets (y compris ceux d’autres systèmes comme le ![PC de Base Secrète](secret_base_pc.md)).
 
 - ⏱️ **Paramètres de durée** → `durationSettings`  
   Définit la durée des objets donnant les effets.
 
-👉 [Configuration complète](https://cobblesafari.maxigregrze.fr/en/addons/config_encounter_boost_config)
+---
 
 {% hint style="info" %}
+## Plus d'informations
+
 <p align="center">
 Certaines valeurs présentes dans le fichier de configuration ne sont pas encore actives en jeu.
 <br>
 Elles seront utilisées dans de futures mises à jour.
+</p>
+{% endhint %}
+
+<p align="center">
+Vous trouverez une description complète du fichier de configuration sur la page officielle du mod : <a href="https://cobblesafari.maxigregrze.fr/en/addons/config_encounter_boost_config">Encounter_boost_config</a>
+</p>
+{% endhint %}
+
+---
+
+{% hint style="success" %}
+## Nous contacter
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
 </p>
 {% endhint %}
