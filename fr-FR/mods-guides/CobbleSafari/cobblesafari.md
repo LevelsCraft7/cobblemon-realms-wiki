@@ -7,6 +7,7 @@
 Actuellement, la Dimension Distordue n’est pas encore disponible dans CobbleSafari et, par conséquent, elle n’est pas non plus accessible dans le modpack.<br><br>
 
 Toutefois, les pages associées sont déjà présentes : il est donc normal que certaines fonctionnalités mentionnées dans le wiki ne soient pas encore disponibles.
+
 </p>
 {% endhint %}
 
