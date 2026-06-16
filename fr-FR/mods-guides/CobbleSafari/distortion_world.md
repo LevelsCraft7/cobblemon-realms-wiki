@@ -8,7 +8,7 @@ Dans cette dimension où les lois de l'espace et de la gravité n'ont plus vraim
 {% endhint %}
 
 <p align="center">
-Peut-être découvrirez-vous même les mystérieux <strong>Pokémon Distordus</strong> et les secrets de Giratina...
+<em>Peut-être découvrirez-vous même les mystérieux <strong>Pokémon Distordus</strong> et les secrets de Giratina...</em>
 </p>
 
 ---
