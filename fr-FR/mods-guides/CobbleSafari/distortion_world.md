@@ -37,8 +37,8 @@ Lorsque le portail disparaît, la dimension s'effondre et tous les joueurs encor
 
 Comme toutes les dimensions spéciales, le comportement du Monde Distorsion peut être entièrement personnalisé grâce aux configurations suivantes :
 
-- `Dimensional Restrictions`
-- `Dimensional Timer`
+- [Dimensional Restrictions](https://cobblesafari.maxigregrze.fr/en/addons/config_dimensional_restrictions_config)
+- [Dimensional Timer](https://cobblesafari.maxigregrze.fr/en/addons/config_dimensional_timer_config)
 
 ---
 
@@ -126,8 +126,26 @@ Cependant, Giratina accepte les **Fragments de Chaîne Rouge** et peut les trans
 | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_l.png)*Cristal Rouge Distordu L* | 🔢 Modifie le niveau du Pokémon entre 1 et 100. |
 | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/CobbleSafari/distortion_world/distorted_red_crystal_z.png)*Cristal Rouge Distordu Z* | ⭐ Relance le statut Shiny du Pokémon. |
 
+---
+
 {% hint style="info" %}
+## Plus d'informations
+
 <p align="center">
-Les récompenses de Giratina, les probabilités Shiny ainsi que la liste des Poké Balls disponibles peuvent être modifiées dans les fichiers de configuration.
+Les objets peuvent être rendus inaccessibles en les supprimant de la table de butin giratina_core_trade. Vous pouvez également configurer les probabilités de relance des Pokémon chromatiques ainsi que la liste des Poké Balls disponibles dans le fichier de configuration.<br><br>
+</p>
+
+<p align="center">
+Si vous souhaitez configurer les probabilités de relance des Pokémon chromatiques (shiny) ainsi que la liste des Poké Balls disponibles, consultez la page officielle du mod : <a href="https://cobblesafari.maxigregrze.fr/en/addons/config_randomizer_items_config">config_randomizer_items_config</a>
+</p>
+{% endhint %}
+
+---
+
+{% hint style="success" %}
+## Nous contacter
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
 </p>
 {% endhint %}
