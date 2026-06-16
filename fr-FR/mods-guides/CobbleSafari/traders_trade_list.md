@@ -172,6 +172,21 @@ Cette variante propose jusqu'à 9 échanges différents.
 
 ---
 
+{% hint style="info" %}
+## Plus d'informations
+
+<p align="center">
+Les datapacks peuvent ajouter ou remplacer des marchands, des variantes et des échanges.<br>
+Certains modpacks ou serveurs peuvent donc proposer du contenu supplémentaire qui n'est pas listé ici.<br><br>
+</p>
+
+<p align="center">
+Si vous souhaitez créer vos propres marchands, consultez la page officielle du mod : <a href="https://cobblesafari.maxigregrze.fr/en/addons/datapack-cstrader">Datapack - CsTrader</a>
+</p>
+{% endhint %}
+
+---
+
 {% hint style="success" %}
 ## Nous contacter
 
