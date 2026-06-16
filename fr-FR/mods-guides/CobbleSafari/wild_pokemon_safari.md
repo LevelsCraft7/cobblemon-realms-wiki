@@ -12,8 +12,8 @@ La <strong>Dimension Safari</strong> contient <strong>18 biomes basés sur les t
 
 Les apparitions sont inspirées de :
 
-- 🧭 Pokémon X & Y — Safari des Amis (rencontres par type)
-- 🌌 Pokémon Légendes : Z-A — Méga-Dimensions
+- 🧭 Pokémon X & Y - Safari des Amis (rencontres par type)
+- 🌌 Pokémon Légendes : Z-A - Méga-Dimensions
 
 ---
 
