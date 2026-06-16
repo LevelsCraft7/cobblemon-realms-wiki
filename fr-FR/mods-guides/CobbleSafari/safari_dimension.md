@@ -1,6 +1,6 @@
 # 🏝️ Safari Dimension
 
-{% hint style="warning" %}
+{% hint style="info" %}
 <p align="center">
 La <strong>Safari Dimension</strong> est une dimension composée de <strong>18 biomes Pokémon</strong>, chacun basé sur un type élémentaire. Explorer des habitats uniques et capturer des Pokémon rares dans un environnement à temps limité.
 </p>
