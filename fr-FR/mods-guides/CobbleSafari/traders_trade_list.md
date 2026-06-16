@@ -181,7 +181,7 @@ Certains modpacks ou serveurs peuvent donc proposer du contenu supplémentaire q
 </p>
 
 <p align="center">
-Si vous souhaitez créer vos propres marchands, consultez la page officielle du mod : <a href="https://cobblesafari.maxigregrze.fr/en/addons/datapack-cstrader">Datapack - CsTrader</a>
+Si vous souhaitez créer vos propres marchands, consultez la page officielle du mod : <a href="https://cobblesafari.maxigregrze.fr/en/addons/datapack-cstrader">Datapack CsTrader</a>
 </p>
 {% endhint %}
 
