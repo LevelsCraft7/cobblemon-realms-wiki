@@ -14,7 +14,7 @@ Après avoir traversé un étrange portail, vous voilà dans les <strong>Souterr
 
 ## 🚪 Comment y accéder ?
 
-Les Souterrains de Sinnoh ne sont accessibles qu'à travers un **Portail de Hoopa**.
+Les Souterrains de Sinnoh ne sont accessibles qu'à travers un **[Portail de Hoopa](hoopa_portals.md)**.
 
 Si vous êtes suffisamment chanceux, la destination du portail pourra être les Souterrains. 
 <br>
