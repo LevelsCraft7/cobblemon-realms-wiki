@@ -78,11 +78,19 @@ Les fichiers de configuration sont séparés selon le type de ballon :
 ---
 
 {% hint style="info" %}
+## Plus d'informations
+
 <p align="center">
-Une documentation complète des paramètres est disponible sur les pages de configuration dédiées.
+Vous trouverez une description complète du fichier de configuration sur les pages officielle du mod : <a href="https://cobblesafari.maxigregrze.fr/en/addons/config_misc_config">Configuration des Ballons Récompenses</a> et <a href="https://cobblesafari.maxigregrze.fr/en/addons/config_safari_config">Configuration des Ballons du Safari</a>
 </p>
 {% endhint %}
 
-👉 [Ballon Récompense](https://cobblesafari.maxigregrze.fr/en/addons/config_misc_config)
-<br>
-👉 [Ballon Safari](https://cobblesafari.maxigregrze.fr/en/addons/config_safari_config)
+---
+
+{% hint style="success" %}
+## Nous contacter
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
