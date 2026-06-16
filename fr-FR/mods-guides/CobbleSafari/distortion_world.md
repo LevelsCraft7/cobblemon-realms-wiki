@@ -6,7 +6,7 @@ Dans cette dimension où les lois de l'espace et de la gravité n'ont plus vraim
 </p>
 
 <p align="center">
-Peut-être découvrirez-vous même les mystérieux **Pokémon Distordus** et les secrets de Giratina...
+Peut-être découvrirez-vous même les mystérieux <strong>Pokémon Distordus</strong> et les secrets de Giratina...
 </p>
 
 ---
