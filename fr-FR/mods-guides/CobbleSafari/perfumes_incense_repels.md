@@ -111,7 +111,7 @@ Les paramètres de ces systèmes sont définis dans :
 ### 🔧 Catégories principales
 
 - ⚙️ **Paramètres d'effet** → `effectSettings`  
-  Définit le fonctionnement des effets (y compris ceux d’autres systèmes comme le ![PC de Base Secrète](secret_base_pc.md)).
+  Définit le fonctionnement des effets (y compris ceux d’autres systèmes comme le [PC de Base Secrète](secret_base_pc.md)).
 
 - ⏱️ **Paramètres de durée** → `durationSettings`  
   Définit la durée des objets donnant les effets.
