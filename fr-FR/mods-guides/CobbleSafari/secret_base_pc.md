@@ -111,7 +111,8 @@ Ces effets :
 
 {% hint style="warning" %}
 <p align="center">
-Les effets du PC sont basés sur les mécaniques des objets <strong>Parfums et Encens</strong>.  
+Les effets du PC sont basés sur les mécaniques des objets <strong><a href="perfumes_incense_repels.md">Parfums et Encens</a></strong>.
+<br>
 Leur puissance est donc directement liée à ces systèmes.
 </p>
 {% endhint %}
@@ -148,10 +149,22 @@ Les paramètres suivants sont modifiables :
 📁 Fichier de config :
 `secretbase_pc_config.json`
 
+---
+
 {% hint style="info" %}
+## Plus d'informations
+
 <p align="center">
-Une documentation complète des valeurs est disponible dans la référence de configuration.
+Un guide complet pour ajouter ou modifier toutes les limites de batterie de niveau, les coûts des effets et les valeurs de batterie des indicateurs est disponible sur la page officielle du mod : <a href="https://cobblesafari.maxigregrze.fr/en/addons/datapack-safari-spawns">Datapack : Safari Spawns</a>
 </p>
 {% endhint %}
 
 ---
+
+{% hint style="success" %}
+## Nous contacter
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
