@@ -171,18 +171,31 @@ Chaque biome contient 4 niveaux de rareté :
 
 ---
 
-## ⚙ Système de spawn
+## ⚙️ Système de spawn
 
-Les spawns sont définis dans : `data/cobblemon/spawn_pool_world/`
+Les spawns sont définis dans :
 <br>
-Chaque biome utilise : `"biomes": ["cobblesafari:<type>"]`
+➡️ `data/cobblemon/spawn_pool_world/`
+
+Chaque biome utilise la condition suivante :
+<br>
+➡️ `"biomes": ["cobblesafari:<type>"]`
+
+{% hint style="info" %}
+## Plus d'informations
+
+<p align="center">
+Un guide complet pour ajouter ou modifier ces fichiers JSON est disponible sur la page officielle du mod :
+<a href="https://cobblesafari.maxigregrze.fr/en/addons/datapack-safari-spawns">Datapack : Safari Spawns</a>
+</p>
+{% endhint %}
 
 ---
 
-# 📦 Datapack
+{% hint style="success" %}
+## Nous contacter
 
-Vous pouvez ajouter ou modifier les spawns via datapack :
-<br>
-👉 https://cobblesafari.maxigregrze.fr/en/addons/datapack-safari-spawns
-
----
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
