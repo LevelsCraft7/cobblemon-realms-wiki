@@ -89,7 +89,7 @@ Le comportement des portails est défini dans :
 ## Plus d'informations
 
 <p align="center">
-Vous trouverez une description complète du fichier de configuration sur la page officielle du mod : <a href="[ttt](https://cobblesafari.maxigregrze.fr/en/addons/config_dungeon_spawn_config)">dungeon_spawn_config</a>
+Vous trouverez une description complète du fichier de configuration sur la page officielle du mod : <a href="https://cobblesafari.maxigregrze.fr/en/addons/config_dungeon_spawn_config">dungeon_spawn_config</a>
 </p>
 {% endhint %}
 
