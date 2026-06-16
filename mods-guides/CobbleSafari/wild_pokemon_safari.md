@@ -12,8 +12,8 @@ The <strong>Safari Dimension</strong> contains <strong>18 Pokémon-type-based bi
 
 Spawns are inspired by:
 
-- 🧭 Pokémon X & Y — Friend Safari (type-based encounters)
-- 🌌 Pokémon Legends: Z-A — Mega Dimensions
+- 🧭 Pokémon X & Y - Friend Safari (type-based encounters)
+- 🌌 Pokémon Legends: Z-A - Mega Dimensions
 
 ---
 
