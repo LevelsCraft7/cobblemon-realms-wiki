@@ -25,4 +25,3 @@ Retrouvez les différentes fonctionnalités de CobbleSafari dans les pages suiva
 - [🏠 PC de Base Secrète](secret_base_pc.md)
 - [🤝 Liste des échanges des Marchands](traders_trade_list.md)
 - [⌨️ Commande `/cobblesafari`](cobblesafari_command.md)
-- [🔌 Compatibilité avec d'autres mods](extra_mod_compatibility.md)
