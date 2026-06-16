@@ -2,7 +2,7 @@
 
 {% hint style="warning" %}
 <p align="center">
-La <strong>Safari Dimension</strong> est une dimension instanciée composée de <strong>18 biomes Pokémon</strong>, chacun basé sur un type élémentaire. Explorer des habitats uniques et capturer des Pokémon rares dans un environnement à temps limité.
+La <strong>Safari Dimension</strong> est une dimension composée de <strong>18 biomes Pokémon</strong>, chacun basé sur un type élémentaire. Explorer des habitats uniques et capturer des Pokémon rares dans un environnement à temps limité.
 </p>
 {% endhint %}
 
@@ -179,7 +179,7 @@ Chaque biome contient :
 - 🟣 Rare
 - ⭐ Ultra-rare
 
-📖 Liste complète des spawns : ![ici]()
+📖 Liste complète des spawns : ![Pokémon sauvages de la Dimension Safari](wild_pokemon_safari.md)
 
 ---
 
@@ -203,63 +203,64 @@ Mais configurable par serveur/modpack :
 
 # ⚙️ Configuration
 
-## 📁 Configuration principale
+La plupart des paramètres du Safari sont regroupés dans :
+<br>
+`config/cobblesafari/safari_config.json`
 
-- `config/cobblesafari/safari_config.json`
+Quelques options utiles :
 
-### Paramètres :
+- `dailySafariBallsCount` → nombre de Safari Balls gratuites quotidiennes (défaut : `16`)
+- `enableEntryFee` → active les frais d'entrée
 
-- `dailySafariBallsCount` → nombre de Safari Balls gratuites (défaut : 16)
-- `enableEntryFee` → active les frais d’entrée
+{% hint style="info" %}
+## Plus d'informations
 
-ℹ️ Documentation complète :
-https://cobblesafari.maxigregrze.fr/en/addons/config_safari_config
-
----
-
-## 📁 Autres configurations
-
----
-
-### 🔒 Restrictions dimensionnelles
-
-📄 `config/cobblesafari/dimensional_restrictions_config.json`
-
-Définit les règles de gameplay appliquées dans la Safari Dimension :
-
-- objets autorisés / interdits
-- règles de combat
-- restrictions d’actions
-
-ℹ️ Documentation complète :
-https://cobblesafari.maxigregrze.fr/en/addons/config_dimensional_restrictions_config
+<p align="center">
+Vous trouverez une description complète du fichier de configuration sur la page officielle du mod :
+<a href="https://cobblesafari.maxigregrze.fr/en/addons/config_safari_config">Safari_config</a>
+</p>
+{% endhint %}
 
 ---
 
-### ⏱️ Timer & téléportation
+## 🔒 Restrictions dimensionnelles
 
-📄 `config/cobblesafari/dimensional_timer_config.json`
+Les objets autorisés, les règles de combat et certaines restrictions du Safari sont définis dans :
+<br>
+`config/cobblesafari/dimensional_restrictions_config.json`
 
-Gère la logique temporelle et de téléportation :
+{% hint style="info" %}
+## Plus d'informations
 
-- durée des sessions
-- cooldown entre entrées
-- gestion du teleport / exit
+<p align="center">
+Le détail complet de cette configuration est disponible sur la page officielle du mod :
+<a href="https://cobblesafari.maxigregrze.fr/en/addons/config_dimensional_restrictions_config">Configuration des Restrictions Dimensionnelles</a>
+</p>
+{% endhint %}
 
-ℹ️ Documentation complète :
-https://cobblesafari.maxigregrze.fr/en/addons/config_dimensional_timer_config
+---
+
+## ⏱️ Minuteur et téléportation
+
+La durée des sessions, les délais entre les entrées et la logique de téléportation sont définis dans : 
+<br>
+`config/cobblesafari/dimensional_timer_config.json`
+
+{% hint style="info" %}
+## Plus d'informations
+
+<p align="center">
+Le détail complet de cette configuration est disponible sur la page officielle du mod :
+<a href="https://cobblesafari.maxigregrze.fr/en/addons/config_dimensional_timer_config">Configuration du Minuteur Dimensionnel</a>
+</p>
+{% endhint %}
 
 ---
 
 {% hint style="success" %}
-## 🧠 Notes de design
+## Nous contacter
 
-Le Safari est conçu comme un système de <strong>risk / reward</strong> basé sur la pression temporelle et la prise de décision rapide.
-
-- une expérience <strong>courte mais intense</strong>
-- un système de <strong>risque / récompense</strong>
-- une boucle centrée sur :
-  - gestion du temps ⏳
-  - gestion du risque 💨
-  - optimisation de capture 🎯
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
 {% endhint %}
