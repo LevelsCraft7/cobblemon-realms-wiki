@@ -179,7 +179,7 @@ Chaque biome contient :
 - 🟣 Rare
 - ⭐ Ultra-rare
 
-📖 Liste complète des spawns : ![Pokémon sauvages de la Dimension Safari](wild_pokemon_safari.md)
+📖 Liste complète des spawns : [Pokémon sauvages de la Dimension Safari](wild_pokemon_safari.md)
 
 ---
 
