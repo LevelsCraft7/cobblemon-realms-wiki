@@ -1,5 +1,15 @@
 # 🦁 CobbleSafari
 
+{% hint style="warning" %}
+<p align="center">
+## Avertissement
+
+Actuellement, la Dimension Distordue n’est pas encore disponible dans CobbleSafari et, par conséquent, elle n’est pas non plus accessible dans le modpack.<br><br>
+
+Toutefois, les pages associées sont déjà présentes : il est donc normal que certaines fonctionnalités mentionnées dans le wiki ne soient pas encore disponibles.
+</p>
+{% endhint %}
+
 {% hint style="info" %}
 <p align="center">
 CobbleSafari enrichit l'expérience Cobblemon Realms avec de nouvelles dimensions, mécaniques et activités inspirées des jeux Pokémon. Certaines informations de cette catégorie sont adaptées et traduites à partir du <a href="https://cobblesafari.maxigregrze.fr/en">wiki officiel de CobbleSafari</a>.
