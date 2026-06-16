@@ -1,9 +1,11 @@
 # 🌌 Monde Distorsion
 
+{% hint style="info" %}
 <p align="center">
-Après avoir traversé un étrange portail, vous voilà dans le **Monde Distorsion** !
+Après avoir traversé un étrange portail, vous voilà dans le <strong>Monde Distorsion</strong> !
 Dans cette dimension où les lois de l'espace et de la gravité n'ont plus vraiment de sens, vous devrez progresser à travers des plateformes flottantes, des labyrinthes d'illusions et d'anciens vestiges oubliés.
 </p>
+{% endhint %}
 
 <p align="center">
 Peut-être découvrirez-vous même les mystérieux <strong>Pokémon Distordus</strong> et les secrets de Giratina...
