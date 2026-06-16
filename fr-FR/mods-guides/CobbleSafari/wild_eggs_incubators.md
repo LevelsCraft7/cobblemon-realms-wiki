@@ -54,18 +54,20 @@ Pour plus d’informations sur la structure des données, consultez la page offi
 
 ## ⚙️ Configuration
 
-Le fichier `incubator_config.json` permet de personnaliser le système d’incubation.
+Le système d’incubation est entièrement configurable via le fichier `incubator_config.json`.
+<br>
+Il permet notamment de modifier le temps d’éclosion des œufs sauvages ainsi que la vitesse d’incubation des œufs Cobbreeding.
 
-Paramètres principaux :
+### Paramètres principaux
 
 - `defaultWildEggHatchTimeTicks` → temps d’éclosion des œufs sauvages (défaut : `14400`)
-- `cobbreedingHatchSpeedMultiplier` → multiplicateur de vitesse pour les œufs Cobbreeding (défaut : `0.66`)
+- `cobbreedingHatchSpeedMultiplier` → vitesse d’incubation des œufs Cobbreeding (défaut : `0.66`)
 
 {% hint style="info" %}
 ## Plus d'informations
 
 <p align="center">
-Le détail complet de ce fichier de configuration est disponible sur la page officielle du mod :
+Le détail complet de cette configuration est disponible sur la page officielle du mod :
 <br>
 <a href="https://cobblesafari.maxigregrze.fr/en/addons/config_incubator_config">Configuration de l'Incubateur</a>
 </p>
