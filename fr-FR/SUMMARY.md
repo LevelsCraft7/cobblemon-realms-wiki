@@ -61,7 +61,7 @@
    - [🌱 Bulbizarre Two](pokemons-exclusives/bulb2.md)
    - [💧 Carapuce Two](pokemons-exclusives/squi2.md)
 - [🦊 Évolutions supplémentaires d'Évoli](pokemons-exclusives/extra-eevee.md)
-- [🌐 Formes Paradoxales](pokemons-exclusives/paradox-forms.md)
+- [🌐 Formes Paradoxales](pokemons-exclusives/extra_paradox/paradox-forms.md)
 - [🔌 Formes Motisma](pokemons-exclusives/rotom-forms.md)
 - [🌀 Formes Totémique](pokemons-exclusives/therian-forms.md)
 - [🤖 MT & MT2](pokemons-exclusives/mt_mt2.md)
