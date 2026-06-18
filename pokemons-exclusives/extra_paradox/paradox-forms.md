@@ -39,11 +39,16 @@ Les Pokémon sont regroupés en plusieurs familles thématiques :
 Retrouvez les détails de chaque catégorie dans les pages suivantes :
 
 → [Iron Series](iron-series.md)
+<br>
 → [Wild Paradoxes](wild-paradoxes.md)
+<br>
 → [Shadow / Abyss Forms](shadow-abyss.md)
-→ [Storm / Energy Forms](storm-energy.md) 
-→ [Mutation / Bio Anomalies](mutation-bio.md)  
-→ [Ancient Leviathans](ancient-leviathans.md)  
+<br>
+→ [Storm / Energy Forms](storm-energy.md)
+<br>
+→ [Mutation / Bio Anomalies](mutation-bio.md)
+<br>
+→ [Ancient Leviathans](ancient-leviathans.md)
 
 ---
 
