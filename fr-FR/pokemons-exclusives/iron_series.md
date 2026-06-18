@@ -19,7 +19,7 @@
 | 🌙 Défense Spé. | 74    |
 | ⚡ Vitesse       | 122     |
 
-![Iron Beak](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_warp.png) ![Iron Beak Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_warp_shiny.png)
+![Iron Beak](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/iron_warp.png) ![Iron Beak Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/iron_warp_shiny.png)
 
 ---
 
@@ -66,7 +66,7 @@
 | 🌙 Défense Spé. | 106    |
 | ⚡ Vitesse       | 64     |
 
-![Iron Bell](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_bell.png) ![Iron Bell Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_bell_shiny.png)
+![Iron Bell](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/iron_bell.png) ![Iron Bell Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/iron_bell_shiny.png)
 
 ---
 
@@ -113,7 +113,7 @@
 | 🌙 Défense Spé. | 106    |
 | ⚡ Vitesse       | 64     |
 
-![Iron Cocoon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_cocoon.png) ![Iron Cocoon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_cocoon_shiny.png)
+![Iron Cocoon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/iron_cocoon.png) ![Iron Cocoon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/iron_cocoon_shiny.png)
 
 ---
 
@@ -160,7 +160,7 @@
 | 🌙 Défense Spé. | 118    |
 | ⚡ Vitesse       | 60     |
 
-![Iron Drill](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_drill.png) ![Iron Drill Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_drill_shiny.png)
+![Iron Drill](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/iron_drill.png) ![Iron Drill Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/iron_drill_shiny.png)
 
 ---
 
@@ -207,7 +207,7 @@
 | 🌙 Défense Spé. | 84    |
 | ⚡ Vitesse       | 152     |
 
-![Drone-de-Fer](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/drone_de_fer.png) ![Drone-de-Fer Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/drone_de_fer_shiny.png)
+![Drone-de-Fer](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/drone_de_fer.png) ![Drone-de-Fer Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/drone_de_fer_shiny.png)
 
 ---
 
@@ -254,7 +254,7 @@
 | 🌙 Défense Spé. | 78    |
 | ⚡ Vitesse       | 140     |
 
-![Iron Drill](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_flare.png) ![Iron Drill Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_flare_shiny.png)
+![Iron Drill](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/iron_flare.png) ![Iron Drill Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/iron_flare_shiny.png)
 
 ---
 
@@ -301,7 +301,7 @@
 | 🌙 Défense Spé. | 92    |
 | ⚡ Vitesse       | 126     |
 
-![Iron Flux](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_flux.png) ![Iron Flux Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_flux_shiny.png)
+![Iron Flux](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/iron_flux.png) ![Iron Flux Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/iron_flux_shiny.png)
 
 ---
 
@@ -348,7 +348,7 @@
 | 🌙 Défense Spé. | 84    |
 | ⚡ Vitesse       | 126     |
 
-![Justice-de-Fer](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/justice_de_fer.png) ![Justice-de-Fer Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/justice_de_fer_shiny.png)
+![Justice-de-Fer](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/justice_de_fer.png) ![Justice-de-Fer Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/justice_de_fer_shiny.png)
 
 ---
 
@@ -394,7 +394,7 @@
 | 🌙 Défense Spé. | 140    |
 | ⚡ Vitesse       | 74     |
 
-![Iron Sail](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_sail.png) ![Iron Sail Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_sail_shiny.png)
+![Iron Sail](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/iron_sail.png) ![Iron Sail Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/iron_sail_shiny.png)
 
 ---
 
@@ -441,7 +441,7 @@
 | 🌙 Défense Spé. | 98    |
 | ⚡ Vitesse       | 110     |
 
-![Triomphe-de-Fer](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/triomphe_de_fer.png) ![Triomphe-de-Fer Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/triomphe_de_fer_shiny.png)
+![Triomphe-de-Fer](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/triomphe_de_fer.png) ![Triomphe-de-Fer Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/triomphe_de_fer_shiny.png)
 
 ---
 
@@ -488,7 +488,7 @@
 | 🌙 Défense Spé. | 82    |
 | ⚡ Vitesse       | 92     |
 
-![Iron Warp](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_warp.png) ![Iron Warp Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_warp_shiny.png)
+![Iron Warp](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/iron_warp.png) ![Iron Warp Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/iron_warp_shiny.png)
 
 ---
 
@@ -535,7 +535,7 @@
 | 🌙 Défense Spé. | 128    |
 | ⚡ Vitesse       | 52     |
 
-![Coeur-de-Fer](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/coeur_de_fer.png) ![Coeur-de-Fer Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/coeur_de_fer_shiny.png)
+![Coeur-de-Fer](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/coeur_de_fer.png) ![Coeur-de-Fer Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/coeur_de_fer_shiny.png)
 
 ---
 
