@@ -1,29 +1,29 @@
-# 🌐 Formes Paradoxales
+# 🌐 Paradox Forms
 
 {% hint style="info" %}
 <p align="center">
-Créatures inédites inspirées des Pokémon Paradoxes, apparaissant dans différents biomes et environnements selon des conditions spécifiques.
+New creatures inspired by Paradox Pokémon, appearing in different biomes and environments under specific conditions.
 </p>
 {% endhint %}
 
 <p align="center">
-<em>Chaque forme possède son propre thème, ses caractéristiques et son rôle dans l’écosystème du monde.</em>
+<em>Each form has its own theme, characteristics, and role in the world's ecosystem.</em>
 </p>
 
 ---
 
-## 🌍 Fonctionnement
+## 🌍 Functioning
 
-Ces créatures apparaissent naturellement dans le monde selon :
-- le biome exploré  
-- les conditions environnementales  
-- des zones spécifiques définies par le datapack  
+These creatures naturally appear in the world according to:
+- the explored biome  
+- environmental conditions  
+- specific areas defined by the datapack  
 
 ---
 
-## 📚 Catégories
+## 📚 Categories
 
-Les formes sont regroupées en plusieurs familles thématiques :
+The forms are grouped into several thematic families:
 
 - ⚙️ Iron Series  
 - 🌿 Wild Paradoxes  
@@ -36,7 +36,7 @@ Les formes sont regroupées en plusieurs familles thématiques :
 
 ## 📖 Navigation
 
-Retrouvez les détails de chaque catégorie ici :
+Find the details of each category here:
 
 → [⚙️ Iron Series](iron-series.md)  
 → [🌿 Wild Paradoxes](wild-paradoxes.md)  
@@ -48,9 +48,9 @@ Retrouvez les détails de chaque catégorie ici :
 ---
 
 {% hint style="success" %}
-## Nous contactez
+## Contact us
 
 <p align="center">
-Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+If you have any questions, suggestions, or changes to propose, feel free to join our <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
 </p>
 {% endhint %}
