@@ -38,17 +38,17 @@ Les Pokémon sont regroupés en plusieurs familles thématiques :
 
 Retrouvez les détails de chaque catégorie dans les pages suivantes :
 
-→ [Iron Series](iron-series.md)
+→ [⚙️ Iron Series](iron-series.md)
 <br>
-→ [Wild Paradoxes](wild-paradoxes.md)
+→ [🌿 Wild Paradoxes](wild-paradoxes.md)
 <br>
-→ [Shadow / Abyss Forms](shadow-abyss.md)
+→ [🌑 Shadow / Abyss Forms](shadow-abyss.md)
 <br>
-→ [Storm / Energy Forms](storm-energy.md)
+→ [🌪️ Storm / Energy Forms](storm-energy.md)
 <br>
-→ [Mutation / Bio Anomalies](mutation-bio.md)
+→ [🧪 Mutation / Bio Anomalies](mutation-bio.md)
 <br>
-→ [Ancient Leviathans](ancient-leviathans.md)
+→ [🌊 Ancient Leviathans](ancient-leviathans.md)
 
 ---
 
