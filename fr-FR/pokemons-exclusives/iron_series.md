@@ -490,6 +490,8 @@
 
 ![Iron Warp](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/ironwarp.png) ![Iron Warp Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/ironwarp_shiny.png)
 
+![Forme Parfaite](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/ironwarp_perfected.png) ![Forme Parfaite Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/ironwarp_perfected_shiny.png)
+
 ---
 
 ### 🎯 Talent de la forme
