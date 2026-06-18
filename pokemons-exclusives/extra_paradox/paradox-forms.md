@@ -1,8 +1,8 @@
-🌐 Formes Paradoxales
+# 🌐 Formes Paradoxales
 
 {% hint style="info" %}
 <p align="center">
-Les Formes Paradoxales regroupent des créatures inédites inspirées des Pokémon Paradoxes. Elles apparaissent dans différents biomes et environnements spécifiques, selon des conditions propres à chaque espèce.
+Créatures inédites inspirées des Pokémon Paradoxes, apparaissant dans différents biomes et environnements selon des conditions spécifiques.
 </p>
 {% endhint %}
 
@@ -14,16 +14,16 @@ Les Formes Paradoxales regroupent des créatures inédites inspirées des Pokém
 
 ## 🌍 Fonctionnement
 
-Les Formes Paradoxales apparaissent naturellement dans le monde selon :
+Ces créatures apparaissent naturellement dans le monde selon :
 - le biome exploré  
 - les conditions environnementales  
 - des zones spécifiques définies par le datapack  
 
 ---
 
-## 📚 Catégories de Formes Paradoxales
+## 📚 Catégories
 
-Les Pokémon sont regroupés en plusieurs familles thématiques :
+Les formes sont regroupées en plusieurs familles thématiques :
 
 - ⚙️ Iron Series  
 - 🌿 Wild Paradoxes  
@@ -36,19 +36,14 @@ Les Pokémon sont regroupés en plusieurs familles thématiques :
 
 ## 📖 Navigation
 
-Retrouvez les détails de chaque catégorie dans les pages suivantes :
+Retrouvez les détails de chaque catégorie ici :
 
-→ [⚙️ Iron Series](iron-series.md)
-<br>
-→ [🌿 Wild Paradoxes](wild-paradoxes.md)
-<br>
-→ [🌑 Shadow / Abyss Forms](shadow-abyss.md)
-<br>
-→ [🌪️ Storm / Energy Forms](storm-energy.md)
-<br>
-→ [🧪 Mutation / Bio Anomalies](mutation-bio.md)
-<br>
-→ [🌊 Ancient Leviathans](ancient-leviathans.md)
+→ [⚙️ Iron Series](iron-series.md)  
+→ [🌿 Wild Paradoxes](wild-paradoxes.md)  
+→ [🌑 Shadow / Abyss Forms](shadow-abyss.md)  
+→ [🌪️ Storm / Energy Forms](storm-energy.md)  
+→ [🧪 Mutation / Bio Anomalies](mutation-bio.md)  
+→ [🌊 Ancient Leviathans](ancient-leviathans.md)  
 
 ---
 
