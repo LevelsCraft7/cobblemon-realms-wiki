@@ -23,7 +23,7 @@
 
 ---
 
-### 🎯 Ability
+### 🎯 Form Ability
 
 - **Ability :** Quantum Charge
 
@@ -34,7 +34,7 @@
 | 🌍 Biome / Dimension | 📌 Condition |
 | --- | --- |
 | 🌿 Jungle | None |
-| 🌾 Savanna  | None |
+| 🌾 Savanna | None |
 | 🟣 The End | None |
 
 ---
@@ -70,7 +70,7 @@
 
 ---
 
-### 🎯 Ability
+### 🎯 Form Ability
 
 - **Ability :** Quantum Charge
 
@@ -117,7 +117,7 @@
 
 ---
 
-### 🎯 Ability
+### 🎯 Form Ability
 
 - **Ability :** Quantum Charge
 
@@ -164,7 +164,7 @@
 
 ---
 
-### 🎯 Ability
+### 🎯 Form Ability
 
 - **Ability :** Quantum Charge
 
@@ -211,7 +211,7 @@
 
 ---
 
-### 🎯 Ability
+### 🎯 Form Ability
 
 - **Ability :** Quantum Charge
 
@@ -254,11 +254,11 @@
 | 🌙 Special Defense | 78    |
 | ⚡ Speed       | 140     |
 
-![Iron Drill](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/ironflare.png) ![Iron Drill Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/ironflare_shiny.png)
+![Iron Flare](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/ironflare.png) ![Iron Flare Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/iron_series/ironflare_shiny.png)
 
 ---
 
-### 🎯 Ability
+### 🎯 Form Ability
 
 - **Ability :** Quantum Charge
 
@@ -305,11 +305,29 @@
 
 ---
 
-### 🎯 Ability
+### 🎯 Form Ability
 
 - **Ability :** Quantum Charge
 
 ---
+
+## 📍 Location
+
+| 🌍 Biome / Dimension | 📌 Condition |
+| --- | --- |
+| ⛰️ Mountains | None |
+| ❄️ Tundra | None |
+| 🟣 The End | None |
+
+---
+
+### 📜 Description
+
+> No official description available.
+
+&#8203;
+&#8203;
+&#8203;
 
 ## ⚖️ Iron Justice
 
@@ -334,11 +352,28 @@
 
 ---
 
-### 🎯 Ability
+### 🎯 Form Ability
 
 - **Ability :** Quantum Charge
 
 ---
+
+## 📍 Location
+
+| 🌍 Biome / Dimension | 📌 Condition |
+| --- | --- |
+| 🏖️ Beach | None |
+| 🟣 The End | None |
+
+---
+
+### 📜 Description
+
+> No official description available.
+
+&#8203;
+&#8203;
+&#8203;
 
 ## ⛵ Iron Sail
 
@@ -363,11 +398,29 @@
 
 ---
 
-### 🎯 Ability
+### 🎯 Form Ability
 
 - **Ability :** Quantum Charge
 
 ---
+
+## 📍 Location
+
+| 🌍 Biome / Dimension | 📌 Condition |
+| --- | --- |
+| 🏖️ Beach | None |
+| 🎣 Fishing | None |
+| 🟣 The End | None |
+
+---
+
+### 📜 Description
+
+> No official description available.
+
+&#8203;
+&#8203;
+&#8203;
 
 ## 🏆 Iron Victory
 
@@ -392,11 +445,29 @@
 
 ---
 
-### 🎯 Ability
+### 🎯 Form Ability
 
 - **Ability :** Quantum Charge
 
 ---
+
+## 📍 Location
+
+| 🌍 Biome / Dimension | 📌 Condition |
+| --- | --- |
+| ✨ Magical Biomes | None |
+| 🏜️ Desert | None |
+| 🟣 The End | None |
+
+---
+
+### 📜 Description
+
+> No official description available.
+
+&#8203;
+&#8203;
+&#8203;
 
 ## 🌀 Iron Warp
 
@@ -423,11 +494,29 @@
 
 ---
 
-### 🎯 Ability
+### 🎯 Form Ability
 
 - **Ability :** Quantum Charge
 
 ---
+
+## 📍 Location
+
+| 🌍 Biome / Dimension | 📌 Condition |
+| --- | --- |
+| 🏜️ Desert | None |
+| 🕳️ Abyss | None |
+| 🟣 The End | None |
+
+---
+
+### 📜 Description
+
+> No official description available.
+
+&#8203;
+&#8203;
+&#8203;
 
 ## 🧠 Iron Core
 
@@ -452,9 +541,18 @@
 
 ---
 
-### 🎯 Ability
+### 🎯 Form Ability
 
 - **Ability :** Quantum Charge
+
+---
+
+## 📍 Location
+
+| 🌍 Biome / Dimension | 📌 Condition |
+| --- | --- |
+| 🎍 Bamboo | None |
+| 🟣 The End | None |
 
 ---
 
