@@ -61,7 +61,7 @@
    - [🌱 Bulbizarre Two](pokemons-exclusives/bulb2.md)
    - [💧 Carapuce Two](pokemons-exclusives/squi2.md)
 - [🦊 Évolutions supplémentaires d'Évoli](pokemons-exclusives/extra-eevee.md)
-- [🧩 Formes Paradoxales](pokemons-exclusives/extra_paradox/paradox_forms.md)
+- [🧩 Formes Paradoxales](pokemons-exclusives/paradox_forms.md)
    - [⚙️ Série de Fer](pokemons-exclusives/iron_series.md)
    - [🌿 Paradoxes Sauvages](pokemons-exclusives/wild_paradoxes.md)
    - [🌑 Formes Ombre / Abyssales](pokemons-exclusives/shadow_abyss.md)
