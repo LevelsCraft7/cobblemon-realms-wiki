@@ -61,6 +61,7 @@
    - [🌱 Bulbasaur Two](pokemons-exclusives/bulb2.md)
    - [💧 Squirtle Two](pokemons-exclusives/squi2.md)
 - [🦊 Additional Eevee Evolutions](pokemons-exclusives/extra-eevee.md)
+- [🧩 Paradox Forms](pokemons-exclusives/extra_paradox/paradox-forms.md)
 - [🔌 Rotom's Forms](pokemons-exclusives/rotom-forms.md)
 - [🌀 Therian Forms](pokemons-exclusives/therian-forms.md)
 - [🤖 MT & MT2](pokemons-exclusives/mt_mt2.md)
