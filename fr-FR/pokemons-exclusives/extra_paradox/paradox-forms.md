@@ -38,12 +38,12 @@ Les formes sont regroupées en plusieurs familles thématiques :
 
 Retrouvez les détails de chaque catégorie ici :
 
-→ [⚙️ Iron Series](iron-series.md)  
-→ [🌿 Wild Paradoxes](wild-paradoxes.md)  
-→ [🌑 Shadow / Abyss Forms](shadow-abyss.md)  
-→ [🌪️ Storm / Energy Forms](storm-energy.md)  
-→ [🧪 Mutation / Bio Anomalies](mutation-bio.md)  
-→ [🌊 Ancient Leviathans](ancient-leviathans.md)  
+→ [⚙️ Série de Fer](iron-series.md)  
+→ [🌿 Paradoxes Sauvages](wild-paradoxes.md)  
+→ [🌑 Formes Ombre / Abyssales](shadow-abyss.md)  
+→ [🌪️ Formes Tempête / Énergie](storm-energy.md)  
+→ [🧪 Anomalies de Mutation / Biologiques](mutation-bio.md)  
+→ [🌊 Léviathans Anciens](ancient-leviathans.md)
 
 ---
 
