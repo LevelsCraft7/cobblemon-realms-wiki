@@ -38,12 +38,12 @@ Les formes sont regroupées en plusieurs familles thématiques :
 
 Retrouvez les détails de chaque catégorie ici :
 
-   - [⚙️ Série de Fer](pokemons-exclusives/extra_paradox/iron-series.md)
-   - [🌿 Paradoxes Sauvages](pokemons-exclusives/extra_paradox/wild-paradoxes.md)
-   - [🌑 Formes Ombre / Abyssales](pokemons-exclusives/extra_paradox/shadow-abyss.md)
-   - [🌪️ Formes Tempête / Énergie](pokemons-exclusives/extra_paradox/storm-energy.md)
-   - [🧪 Anomalies de Mutation / Biologiques](pokemons-exclusives/extra_paradox/mutation-bio.md)
-   - [🌊 Léviathans Anciens](pokemons-exclusives/extra_paradox/ancient-leviathans.md)
+   - [⚙️ Série de Fer](extra_paradox/iron-series.md)
+   - [🌿 Paradoxes Sauvages](extra_paradox/wild-paradoxes.md)
+   - [🌑 Formes Ombre / Abyssales](extra_paradox/shadow-abyss.md)
+   - [🌪️ Formes Tempête / Énergie](extra_paradox/storm-energy.md)
+   - [🧪 Anomalies de Mutation / Biologiques](extra_paradox/mutation-bio.md)
+   - [🌊 Léviathans Anciens](extra_paradox/ancient-leviathans.md)
 
 ---
 
