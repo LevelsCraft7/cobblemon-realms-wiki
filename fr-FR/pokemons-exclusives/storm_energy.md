@@ -65,7 +65,7 @@
 | 🌙 Défense Spé. | 95    |
 | ⚡ Vitesse       | 109     |
 
-![Lumintail](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/storm_forms/lunarveil.png) ![Lumintail Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/storm_forms/lumintail_shiny.png)
+![Lumintail](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/storm_forms/lumintail.png) ![Lumintail Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/storm_forms/lumintail_shiny.png)
 
 ---
 
