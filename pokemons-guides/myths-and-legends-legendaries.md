@@ -4,15 +4,15 @@
 
 ## ✨ All available generations:
   
-- [Generation 1 - Kanto](https://our-story-network.gitbook.io/cr-wiki/cr-en/myths-and-legends/myths-and-legends-legendaries/gen_1)
-- [Generation 2 - Johto](https://our-story-network.gitbook.io/cr-wiki/cr-en/myths-and-legends/myths-and-legends-legendaries/gen_2)
-- [Generation 3 - Hoenn](https://our-story-network.gitbook.io/cr-wiki/cr-en/myths-and-legends/myths-and-legends-legendaries/gen_3)
-- [Generation 4 - Sinnoh](https://our-story-network.gitbook.io/cr-wiki/cr-en/myths-and-legends/myths-and-legends-legendaries/gen_4)
-- [Generation 5 - Unova](https://our-story-network.gitbook.io/cr-wiki/cr-en/myths-and-legends/myths-and-legends-legendaries/gen_5)
-- [Generation 6 - Kalos](https://our-story-network.gitbook.io/cr-wiki/cr-en/myths-and-legends/myths-and-legends-legendaries/gen_6)
-- [Generation 7 - Alola](https://our-story-network.gitbook.io/cr-wiki/cr-en/myths-and-legends/myths-and-legends-legendaries/gen_7)
-- [Generation 8 - Galar/Hisui](https://our-story-network.gitbook.io/cr-wiki/cr-en/myths-and-legends/myths-and-legends-legendaries/gen_8)
-- [Generation 9 - Paldea/Kitakami](https://our-story-network.gitbook.io/cr-wiki/cr-en/myths-and-legends/myths-and-legends-legendaries/gen_9)
+- [Generation 1 - Kanto](pokemons-guides/gen-list/gen_1.md)
+- [Generation 2 - Johto](pokemons-guides/gen-list/gen_2.md)
+- [Generation 3 - Hoenn](pokemons-guides/gen-list/gen_3.md)
+- [Generation 4 - Sinnoh](pokemons-guides/gen-list/gen_4.md)
+- [Generation 5 - Unova](pokemons-guides/gen-list/gen_5.md)
+- [Generation 6 - Kalos](pokemons-guides/gen-list/gen_6.md)
+- [Generation 7 - Alola](pokemons-guides/gen-list/gen_7.md)
+- [Generation 8 - Galar/Hisui](pokemons-guides/gen-list/gen_8.md)
+- [Generation 9 - Paldea/Kitakami](pokemons-guides/gen-list/gen_9.md)
 
 ---
 
