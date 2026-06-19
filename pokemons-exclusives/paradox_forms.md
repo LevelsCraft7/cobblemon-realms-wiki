@@ -1,4 +1,4 @@
-# 🌐 Paradox Forms
+# 🧩 Paradox Forms
 
 {% hint style="info" %}
 <p align="center">
