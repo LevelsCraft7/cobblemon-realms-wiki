@@ -25,12 +25,12 @@ Ces créatures apparaissent naturellement dans le monde selon :
 
 Les formes sont regroupées en plusieurs familles thématiques :
 
-- ⚙️ Iron Series  
-- 🌿 Wild Paradoxes  
-- 🌑 Shadow / Abyss Forms  
-- 🌪️ Storm / Energy Forms  
-- 🧪 Mutation / Bio Anomalies  
-- 🌊 Ancient Leviathans  
+- 🧲 Série de Fer 
+- 🌿 Paradoxes Sauvages
+- 🌑 Formes Abyssales 
+- 🌪️ Formes Tempête  
+- 🧪 Anomalies Biologiques  
+- 🌊 Léviathans Anciens  
 
 ---
 
@@ -38,11 +38,11 @@ Les formes sont regroupées en plusieurs familles thématiques :
 
 Retrouvez les détails de chaque catégorie ici :
 
-- [⚙️ Série de Fer](iron_series.md)
+- [🧲 Série de Fer](iron_series.md)
 - [🌿 Paradoxes Sauvages](wild_paradoxes.md)
-- [🌑 Formes Ombre / Abyssales](shadow_abyss.md)
-- [🌪️ Formes Tempête / Énergie](storm_energy.md)
-- [🧪 Anomalies de Mutation / Biologiques](mutation_bio.md)
+- [🌑 Formes Abyssales](shadow_abyss.md)
+- [🌪️ Formes Tempête](storm_energy.md)
+- [🧪 Anomalies Biologiques](mutation_bio.md)
 - [🌊 Léviathans Anciens](ancient_leviathans.md)
 
 ---
