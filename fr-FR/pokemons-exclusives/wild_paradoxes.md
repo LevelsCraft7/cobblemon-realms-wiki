@@ -65,7 +65,7 @@
 | 🌙 Défense Spé. | 81    |
 | ⚡ Vitesse       | 127     |
 
-![Gène-Sauvage](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/wild_paradoxes/saberjaw.png) ![Gène-Sauvage Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/wild_paradoxes/saberjaw_shiny.png)
+![Saber Jaw](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/wild_paradoxes/saberjaw.png) ![Saber Jaw Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/wild_paradoxes/saberjaw_shiny.png)
 
 ---
 
