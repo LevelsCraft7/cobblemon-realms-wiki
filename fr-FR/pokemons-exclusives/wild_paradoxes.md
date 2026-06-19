@@ -19,7 +19,7 @@
 | 🌙 Défense Spé. | 123    |
 | ⚡ Vitesse       | 57     |
 
-![Gène-Sauvage](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/wild_paradoxes/genewild.png) ![Gène-Sauvage Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/wild_paradoxes/genewild_shiny.png)
+![Gène-Sauvage](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/wild_paradoxes/wildgene.png) ![Gène-Sauvage Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/wild_paradoxes/wildgene_shiny.png)
 
 ---
 
