@@ -40,7 +40,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 | 🌍 Biomes | 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Biomes enneigés et gelés | Glas Tempête | Au sol | 3 Pierres Glace | Ultra Rare | 50 - 60 |
+| X | Glas Tempête | Au sol | 3 Pierres Glace | Ultra Rare | 50 - 60 |
 
 ---
 
@@ -86,7 +86,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 | 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Plaines, savanes, montagnes | Glas Tempête | Au sol | 3 Pierres Foudre | Ultra Rare | 50 - 60 |
+| X | Glas Tempête | Au sol | 3 Pierres Foudre | Ultra Rare | 50 - 60 |
 
 ---
 
@@ -132,7 +132,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 | 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Zones volcaniques et thermiques, collines ventées, badlands | Glas Tempête | Au sol | 3 Pierres Feu | Ultra Rare | 50 - 60 |
+| X | Glas Tempête | Au sol | 3 Pierres Feu | Ultra Rare | 50 - 60 |
 
 ---
 
@@ -177,7 +177,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 | 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Jungles, jungles de bambou, zones luxuriantes | Vieillecarte | Au sol | Aucune | Ultra Rare | 30 - 70 |
+| X | Vieillecarte | Au sol | Aucune | Ultra Rare | 30 - 70 |
 
 ---
 
@@ -223,7 +223,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 | 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Deep Dark, Grottes, Forêts sombres, Collines graveleuses, Zones inquiétantes | Journal du Dr Fuji | Au sol | Aucune | Ultra Rare | 70 - 75 |
+| X | Journal du Dr Fuji | Au sol | Aucune | Ultra Rare | 70 - 75 |
 
 ---
 
