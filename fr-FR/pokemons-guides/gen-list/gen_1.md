@@ -6,13 +6,237 @@
 Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oiseaux élémentaires aux mystérieux Mew et Mewtwo, ces créatures ont marqué le début de toutes les aventures.
 </p>
 
-| 🌿 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🧭 Localisation |
-|:----------:|:----------:|:----------:|:----------:|
-| ![](https://play.pokemonshowdown.com/sprites/ani/articuno.gif)<br>**Artikodin** | Tidal Bell | 🧊 3 Pierres Glace | Frozen biomes |
-| ![](https://play.pokemonshowdown.com/sprites/ani/zapdos.gif)<br>**Électhor** | Tidal Bell | ⚡ 3 Pierres Foudre | Plains, Savanna |
-| ![](https://play.pokemonshowdown.com/sprites/ani/moltres.gif)<br>**Sulfura** | Tidal Bell | 🔥 3 Pierres Feu | Badlands |
-| ![](https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif)<br>**Mewtwo** | Dr. Fuji's Diary | Aucune | Deep Dark |
-| ![Mew*](https://play.pokemonshowdown.com/sprites/ani/mew.gif)<br>**Mew** | Old Sea Map | Aucune | Jungle |
+## 🧊 Artikodin
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_glace.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_vol.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 90     |
+| ⚔️ Attaque      | 85     |
+| 🛡️ Défense     | 100    |
+| ✨ Attaque Spé.  | 125    |
+| 🌙 Défense Spé. | 85    |
+| ⚡ Vitesse       | 125     |
+
+![Artikodin](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/artikodin.png) ![Artikodin Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/artikodin_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Pression
+- **Talent Caché :** Rideau Neige
+
+---
+
+### 📍 Localisation
+
+| 🌍 Biome | 🌙 Condition |
+|---|---|
+| XXX | XXX |
+| XXX | XXX |
+
+---
+
+### 📜 Description
+
+> Ce Pokémon oiseau légendaire peut provoquer des blizzards en gelant l'humidité de l'air.
+
+&#8203;
+&#8203;
+&#8203;
+
+## ⚡ Électhor
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_electrique.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_vol.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 90     |
+| ⚔️ Attaque      | 90     |
+| 🛡️ Défense     | 85    |
+| ✨ Attaque Spé.  | 125    |
+| 🌙 Défense Spé. | 90    |
+| ⚡ Vitesse       | 100     |
+
+![Électhor](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/electhor.png) ![Électhor Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/electhor_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Pression
+- **Talent Caché :** Statik
+
+---
+
+### 📍 Localisation
+
+| 🌍 Biome | 🌙 Condition |
+|---|---|
+| XXX | XXX |
+| XXX | XXX |
+
+---
+
+### 📜 Description
+
+> Un Pokémon légendaire qui vivrait dans les nuages orageux. Il contrôle la foudre.
+
+&#8203;
+&#8203;
+&#8203;
+
+## 🔥 Sulfura
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_feu.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_vol.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 90     |
+| ⚔️ Attaque      | 100     |
+| 🛡️ Défense     | 90    |
+| ✨ Attaque Spé.  | 125    |
+| 🌙 Défense Spé. | 85    |
+| ⚡ Vitesse       | 90     |
+
+![Sulfura](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/sulfura.png) ![Sulfura Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/sulfura_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Pression
+- **Talent Caché :** Corps Ardent
+
+---
+
+### 📍 Localisation
+
+| 🌍 Biome | 🌙 Condition |
+|---|---|
+| XXX | XXX |
+| XXX | XXX |
+
+---
+
+### 📜 Description
+
+> L'un des Pokémon oiseaux légendaires. On dit que sa venue annonce l'arrivée du printemps.
+
+&#8203;
+&#8203;
+&#8203;
+
+## 🧬 Mew
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 100     |
+| ⚔️ Attaque      | 100     |
+| 🛡️ Défense     | 100    |
+| ✨ Attaque Spé.  | 100    |
+| 🌙 Défense Spé. | 100    |
+| ⚡ Vitesse       | 100     |
+
+![Mew](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/mew.png) ![Mew Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/mew_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Synchro
+
+---
+
+### 📍 Localisation
+
+| 🌍 Biome | 🌙 Condition |
+|---|---|
+| XXX | XXX |
+| XXX | XXX |
+
+---
+
+### 📜 Description
+
+> Nombre de scientifiques voient en lui l'ancêtre des Pokémon car il peut utiliser toutes leurs capacités.
+
+&#8203;
+&#8203;
+&#8203;
+
+## 🧬 Mewtwo
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 106     |
+| ⚔️ Attaque      | 110     |
+| 🛡️ Défense     | 90    |
+| ✨ Attaque Spé.  | 154    |
+| 🌙 Défense Spé. | 90    |
+| ⚡ Vitesse       | 130     |
+
+![Mewtwo](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/gen_1/mewtwo.png) ![Mewtwo Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/mewtwo_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Pression
+- **Talent Caché :** Tension
+
+---
+
+### 📍 Localisation
+
+| 🌍 Biome | 🌙 Condition |
+|---|---|
+| XXX | XXX |
+| XXX | XXX |
+
+---
+
+### 📜 Description
+
+> Un Pokémon conçu en réorganisant les gènes de Mew. On dit que c'est le plus féroce de tous.
+
+---
 
 {% hint style="success" %}
 ## Nous contactez
