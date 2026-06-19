@@ -1,4 +1,4 @@
-# 🗿 Myths & Legends — Legendary Items and Biomes
+# 🗿 Myths & Legends - Legendary Items and Biomes
 
 ## 🧭 Quick Navigation
 
