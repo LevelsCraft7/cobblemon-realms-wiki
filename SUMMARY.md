@@ -62,7 +62,7 @@
    - [💧 Squirtle Two](pokemons-exclusives/squi2.md)
 - [🦊 Additional Eevee Evolutions](pokemons-exclusives/extra-eevee.md)
 - [🧩 Paradox Forms](pokemons-exclusives/paradox_forms.md)
-   - [⚙️ Iron Series](pokemons-exclusives/iron_series.md)
+   - [🧲 Iron Series](pokemons-exclusives/iron_series.md)
    - [🌿 Wild Paradoxes](pokemons-exclusives/wild_paradoxes.md)
    - [🌑 Shadow / Abyss Forms](pokemons-exclusives/shadow_abyss.md)
    - [🌪️ Storm / Energy Forms](pokemons-exclusives/storm_energy.md)
