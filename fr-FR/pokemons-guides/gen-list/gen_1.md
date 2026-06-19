@@ -212,7 +212,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 | 🌙 Défense Spé. | 90    |
 | ⚡ Vitesse       | 130     |
 
-![Mewtwo](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/gen_1/mewtwo.png) ![Mewtwo Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/mewtwo_shiny.png)
+![Mewtwo](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/mewtwo.png) ![Mewtwo Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/mewtwo_shiny.png)
 
 ---
 
