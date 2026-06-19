@@ -19,7 +19,7 @@
 | 🌙 Défense Spé. | 101    |
 | ⚡ Vitesse       | 141     |
 
-![Shiver Shrub](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/wild_paradoxes/shiversrub.png) ![Shiver Shrub Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/wild_paradoxes/shivershrub_shiny.png)
+![Shiver Shrub](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/abyss_forms/shiversrub.png) ![Shiver Shrub Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/abyss_forms/shivershrub_shiny.png)
 
 ---
 
@@ -64,7 +64,7 @@
 | 🌙 Défense Spé. | 115    |
 | ⚡ Vitesse       | 43     |
 
-![Lunar Veil](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/wild_paradoxes/lunarveil.png) ![Lunar Veil Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/wild_paradoxes/lunarveil_shiny.png)
+![Lunar Veil](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/abyss_forms/lunarveil.png) ![Lunar Veil Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/abyss_forms/lunarveil_shiny.png)
 
 ---
 
@@ -110,7 +110,7 @@
 | 🌙 Défense Spé. | 85    |
 | ⚡ Vitesse       | 75     |
 
-![Gloom Shade](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/wild_paradoxes/gloomshade.png) ![Gloom Shade Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/wild_paradoxes/gloomshade_shiny.png)
+![Gloom Shade](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/abyss_forms/gloomshade.png) ![Gloom Shade Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/abyss_forms/gloomshade_shiny.png)
 
 ---
 
