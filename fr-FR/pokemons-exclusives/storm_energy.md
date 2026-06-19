@@ -19,7 +19,7 @@
 | 🌙 Défense Spé. | 81    |
 | ⚡ Vitesse       | 121     |
 
-![Tempest Fang](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/abyss_forms/tempestfang.png) ![Tempest Fang Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/abyss_forms/tempestfang_shiny.png)
+![Tempest Fang](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/storm_forms/tempestfang.png) ![Tempest Fang Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/storm_forms/tempestfang_shiny.png)
 
 ---
 
@@ -65,7 +65,7 @@
 | 🌙 Défense Spé. | 95    |
 | ⚡ Vitesse       | 109     |
 
-![Lumintail](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/abyss_forms/lunarveil.png) ![Lumintail Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/abyss_forms/lumintail_shiny.png)
+![Lumintail](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/storm_forms/lunarveil.png) ![Lumintail Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/storm_forms/lumintail_shiny.png)
 
 ---
 
