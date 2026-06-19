@@ -1,4 +1,4 @@
-# 🌐 Formes Paradoxales
+# 🧩 Formes Paradoxales
 
 {% hint style="info" %}
 <p align="center">
