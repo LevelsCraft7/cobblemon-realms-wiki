@@ -1,4 +1,4 @@
-# 🗿 Mythes & Légendes — Objets et Biomes Légendaires
+# 🗿 Mythes & Légendes - Objets et Biomes Légendaires
 
 ## 🧭 Navigation rapide
 
