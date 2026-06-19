@@ -19,7 +19,7 @@
 | 🌙 Défense Spé. | 101    |
 | ⚡ Vitesse       | 141     |
 
-![Shiver Shrub](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/abyss_forms/shiversrub.png) ![Shiver Shrub Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/abyss_forms/shivershrub_shiny.png)
+![Shiver Shrub](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/abyss_forms/shivershrub.png) ![Shiver Shrub Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/abyss_forms/shivershrub_shiny.png)
 
 ---
 
