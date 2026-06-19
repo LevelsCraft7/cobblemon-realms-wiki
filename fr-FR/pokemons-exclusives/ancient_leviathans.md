@@ -1,4 +1,4 @@
-# 🐉 Léviathans Anciens
+# 🌊 Léviathans Anciens
 
 ## 🐢 Primal Shell
 
