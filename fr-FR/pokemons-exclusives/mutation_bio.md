@@ -157,7 +157,7 @@
 | 🌙 Défense Spé. | 76    |
 | ⚡ Vitesse       | 98     |
 
-![Iron Genesis](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/mutation_bio/irongene.png) ![Iron Genesis Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/mutation_bio/irongene_shiny.png)
+![Iron Genesis](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/mutation_bio/irongenesis.png) ![Iron Genesis Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Formes-Paradoxales/mutation_bio/irongenesis_shiny.png)
 
 ---
 
