@@ -62,7 +62,7 @@
    - [💧 Carapuce Two](pokemons-exclusives/squi2.md)
 - [🦊 Évolutions supplémentaires d'Évoli](pokemons-exclusives/extra-eevee.md)
 - [🧩 Formes Paradoxales](pokemons-exclusives/paradox_forms.md)
-   - [⚙️ Série de Fer](pokemons-exclusives/iron_series.md)
+   - [🧲 Série de Fer](pokemons-exclusives/iron_series.md)
    - [🌿 Paradoxes Sauvages](pokemons-exclusives/wild_paradoxes.md)
    - [🌑 Formes Ombre / Abyssales](pokemons-exclusives/shadow_abyss.md)
    - [🌪️ Formes Tempête / Énergie](pokemons-exclusives/storm_energy.md)
