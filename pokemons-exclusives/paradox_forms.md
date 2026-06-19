@@ -25,7 +25,7 @@ These creatures naturally appear in the world according to:
 
 The forms are grouped into several thematic families:
 
-- ⚙️ Iron Series  
+- 🧲 Iron Series 
 - 🌿 Wild Paradoxes  
 - 🌑 Shadow / Abyss Forms  
 - 🌪️ Storm / Energy Forms  
@@ -38,7 +38,7 @@ The forms are grouped into several thematic families:
 
 Find the details of each category here:
 
-→ [⚙️ Iron Series](iron-series.md)  
+→ [🧲 Iron Series ](iron-series.md)  
 → [🌿 Wild Paradoxes](wild-paradoxes.md)  
 → [🌑 Shadow / Abyss Forms](shadow-abyss.md)  
 → [🌪️ Storm / Energy Forms](storm-energy.md)  
