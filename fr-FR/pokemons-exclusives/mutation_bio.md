@@ -33,8 +33,8 @@
 
 | 🌍 Biome / Dimension | 📌 Condition |
 | --- | --- |
-| 🌿 Jungle | Aucune |
-| 🌾 Savane  | Aucune |
+| 🏞️ Marais | Aucune |
+| 🌿 Jungle  | Aucune |
 
 ---
 
@@ -79,8 +79,8 @@
 
 | 🌍 Biome / Dimension | 📌 Condition |
 | --- | --- |
-| 🌿 Jungle | Aucune |
-| 🌾 Savane  | Aucune |
+| ⛰️ Montagnes | Aucune |
+| 🟣 The End | Aucune |
 
 ---
 
@@ -125,8 +125,8 @@
 
 | 🌍 Biome / Dimension | 📌 Condition |
 | --- | --- |
-| 🌿 Jungle | Aucune |
-| 🌾 Savane  | Aucune |
+| ✨ Biomes Magiques | Aucune |
+| 🟣 The End  | Aucune |
 
 ---
 
@@ -171,8 +171,9 @@
 
 | 🌍 Biome / Dimension | 📌 Condition |
 | --- | --- |
-| 🌿 Jungle | Aucune |
-| 🌾 Savane  | Aucune |
+| ✨ Biomes Magiques | Aucune |
+| ⛰️ Montagnes | Aucune |
+| 🟣 The End  | Aucune |
 
 ---
 
