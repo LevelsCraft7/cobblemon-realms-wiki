@@ -38,6 +38,10 @@
    - [👑 Génération 8 - Galar/Hisui](pokemons-guides/gen-list/gen_8.md)
    - [🎓 Génération 9 - Paldea/Kitakami](pokemons-guides/gen-list/gen_9.md)
 
+## Mega Showdown
+
+- [Bientôt disponible]()
+
 ## Exclusivités Pokémon
 
 - [👶 Baby Legends](pokemons-exclusives/baby-legends.md)
