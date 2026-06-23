@@ -6,18 +6,455 @@
 D'anciens titans sommeillent sous les terres de Hoenn. Entre océans déchaînés, continents mouvants et cieux infinis, ces Pokémon incarnent les forces primordiales de la nature.
 </p>
 
-| 🌊 Pokémon | 📦 Objet requis | ⚙️ Conditions requises | 🧭 Localisation |
-|:----------:|:----------:|:----------:|:----------:|
-| ![](https://play.pokemonshowdown.com/sprites/ani/regirock.gif)<br>**Regirock** | Steel Tablet / Ancient Tablet | ⬇️ Niveau Y max : 63 | Desert, Ancient Sands, Ashen Savanna, Desert Caves, Desert Canyon, Desert Oasis, Desert Spires, Lush Desert, Red Oasis, Sandstone Valley, Warped Mesa, White Mesa, Badlands Desert, Danakil Desert, Desert Island, Kwongan Heath, Outback Desert, Red Desert, Sandy Jungle |
-| ![](https://play.pokemonshowdown.com/sprites/ani/regice.gif)<br>**Regice** | Ice Tablet / Ancient Tablet | Aucune | Frozen River, Jagged Peaks, Snowy Beach, Snowy Plains, Snowy Slopes, Cardinal Tundra, Emerald Peaks, Scarlet Mountains, Skylands Winter, Snowy Badlands, Berry Bog, Crimson Tundra, Frozen Island, Snowy Bog, Snowy Canyon, Snowy Peaks, Snowy Tundra |
-| ![](https://play.pokemonshowdown.com/sprites/ani/registeel.gif)<br>**Registeel** | Stone Tablet / Ancient Tablet | Bloc de fer à proximité | Deep Dark, Village |
-| ![](https://play.pokemonshowdown.com/sprites/ani/latias.gif)<br>**Latias** | Eon Ticket | Aucune | Birch Forest, Flower Forest, Mirage Isles |
-| ![](https://play.pokemonshowdown.com/sprites/ani/latios.gif)<br>**Latios** | Eon Ticket | Aucune | Mountain Edge, Plains, Mirage Isles |
-| ![](https://play.pokemonshowdown.com/sprites/ani/kyogre.gif)<br>**Kyogre** | Blue Orb | Aucune | Deep Cold Ocean, Deep Frozen Ocean, Deep Ocean, Ocean |
-| ![](https://play.pokemonshowdown.com/sprites/ani/groudon.gif)<br>**Groudon** | Red Orb | Aucune | Badlands, Desert, Eroded Badlands |
-| ![](https://play.pokemonshowdown.com/sprites/ani/rayquaza.gif)<br>**Rayquaza** | Jade Orb | Aucune | End Highlands, Skylands Autumn, Skylands Spring, Skylands Summer, Skylands Winter |
-| ![](https://play.pokemonshowdown.com/sprites/ani/jirachi.gif)<br>**Jirachi** | Bonus Disk | Aucune | Mushroom Fields, Windswept Gravelly Hills |
-| ![](https://play.pokemonshowdown.com/sprites/ani/deoxys.gif)<br>**Deoxys** | Aurora Ticket | Aucune | End Barrens, End Highlands, End Midlands, Small End Islands, The End |
+## 🪨 Regirock
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_roche.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 80     |
+| ⚔️ Attaque      | 100     |
+| 🛡️ Défense     | 200    |
+| ✨ Attaque Spé.  | 50    |
+| 🌙 Défense Spé. | 100    |
+| ⚡ Vitesse       | 50     |
+
+![Regirock](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/regirock.png) ![Regirock Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/regirock_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Corps Sain
+- **Talent Caché :** Fermeté
+
+---
+
+### 📍 Localisation
+
+| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| X | Plaque Roc / Tablette ancienne | Au sol | ⬇️ Niveau Y max : 63 | Ultra Rare | 70 |
+
+---
+
+### 📜 Description
+
+> Si ce Pokémon s'ébrèche au combat, il répare son corps entièrement fait de roche en colmatant les trous avec des pierres.
+
+&#8203;
+&#8203;
+&#8203;
+
+## X Regice
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_glace.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 80     |
+| ⚔️ Attaque      | 50     |
+| 🛡️ Défense     | 100    |
+| ✨ Attaque Spé.  | 100    |
+| 🌙 Défense Spé. | 200    |
+| ⚡ Vitesse       | 50     |
+
+![Regice](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/regice.png) ![Regice Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/regice_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Corps Sain
+- **Talent Caché :** Corps Gel
+
+---
+
+### 📍 Localisation
+
+| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+
+---
+
+### 📜 Description
+
+> Ce Pokémon de l’ère glaciaire dont le corps est entièrement composé d’eau gelée serait né sous une épaisse couche de glace.
+
+&#8203;
+&#8203;
+&#8203;
+
+## 🗿 Registeel
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_acier.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 80     |
+| ⚔️ Attaque      | 75     |
+| 🛡️ Défense     | 150    |
+| ✨ Attaque Spé.  | 75    |
+| 🌙 Défense Spé. | 150    |
+| ⚡ Vitesse       | 50     |
+
+![Registeel](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/registeel.png) ![Registeel Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/registeel_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Corps Sain
+- **Talent Caché :** Light Metal
+
+---
+
+### 📍 Localisation
+
+| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+
+---
+
+### 📜 Description
+
+> Il paraît qu’il est né dans le manteau terrestre et qu’il en a émergé il y a environ 10 000 ans.
+
+&#8203;
+&#8203;
+&#8203;
+
+## 🎀 Latias
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_dragon.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 80     |
+| ⚔️ Attaque      | 80     |
+| 🛡️ Défense     | 90    |
+| ✨ Attaque Spé.  | 110    |
+| 🌙 Défense Spé. | 130    |
+| ⚡ Vitesse       | 110     |
+
+![Latias](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/latias.png) ![Latias Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/latias_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Lévitation
+
+---
+
+### 📍 Localisation
+
+| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+
+---
+
+### 📜 Description
+
+> Latias est extrêmement sensible aux émotions des gens. S’il ressent une hostilité, ce Pokémon ébouriffe ses plumes et pousse un cri strident pour intimider son ennemi.
+
+&#8203;
+&#8203;
+&#8203;
+
+## 🩲 Latios
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_dragon.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 80     |
+| ⚔️ Attaque      | 90     |
+| 🛡️ Défense     | 80    |
+| ✨ Attaque Spé.  | 130    |
+| 🌙 Défense Spé. | 110    |
+| ⚡ Vitesse       | 110     |
+
+![Latios](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/latios.png) ![Latios Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/latios_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Lévitation
+
+---
+
+### 📍 Localisation
+
+| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+
+---
+
+### 📜 Description
+
+> Latios a le pouvoir de faire voir à une personne une image provenant de son subconscient. Ce Pokémon est intelligent et comprend le langage humain.
+
+&#8203;
+&#8203;
+&#8203;
+
+## 🌊 Kyogre
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_eau.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 100     |
+| ⚔️ Attaque      | 100     |
+| 🛡️ Défense     | 90    |
+| ✨ Attaque Spé.  | 150    |
+| 🌙 Défense Spé. | 140    |
+| ⚡ Vitesse       | 90     |
+
+![Kyogre](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/kyogre.png) ![Kyogre Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/kyogre_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Crachin
+
+---
+
+### 📍 Localisation
+
+| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+
+---
+
+### 📜 Description
+
+> On dit qu'il a fait monter les eaux en causant des pluies diluviennes. Il somnolait dans une fosse marine.
+
+&#8203;
+&#8203;
+&#8203;
+
+## 🌋 Groudon
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_sol.png)
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 100     |
+| ⚔️ Attaque      | 150     |
+| 🛡️ Défense     | 140    |
+| ✨ Attaque Spé.  | 100    |
+| 🌙 Défense Spé. | 90    |
+| ⚡ Vitesse       | 90     |
+
+![Groudon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/groudon.png) ![Groudon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/groudon_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Sécheresse
+
+---
+
+### 📍 Localisation
+
+| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+
+---
+
+### 📜 Description
+
+> Il dormait dans le magma souterrain depuis sa lutte féroce contre Kyogre, il y a longtemps de cela.
+
+&#8203;
+&#8203;
+&#8203;
+
+## 🐉 Rayquaza
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_plante.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 105     |
+| ⚔️ Attaque      | 150     |
+| 🛡️ Défense     | 90    |
+| ✨ Attaque Spé.  | 150    |
+| 🌙 Défense Spé. | 90    |
+| ⚡ Vitesse       | 95     |
+
+![Rayquaza](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/rayquaza.png) ![Rayquaza Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/rayquaza_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Air Lock
+
+---
+
+### 📍 Localisation
+
+| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+
+---
+
+### 📜 Description
+
+> Il vit dans la couche d'ozone, au dessus des nuages. Il est invisible depuis le sol.
+
+&#8203;
+&#8203;
+&#8203;
+
+## 🎋 Jirachi
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_acier.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 100     |
+| ⚔️ Attaque      | 100     |
+| 🛡️ Défense     | 100    |
+| ✨ Attaque Spé.  | 100    |
+| 🌙 Défense Spé. | 100    |
+| ⚡ Vitesse       | 100     |
+
+![Jirachi](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/jirachi.png) ![Jirachi Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/jirachi_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Sérénité
+
+---
+
+### 📍 Localisation
+
+| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+
+---
+
+### 📜 Description
+
+> On raconte qu'une fois tous les mille ans, il a la capacité d'exaucer tous les vœux durant une semaine.
+
+&#8203;
+&#8203;
+&#8203;
+
+## 👽 Deoxys
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 50     |
+| ⚔️ Attaque      | 150     |
+| 🛡️ Défense     | 50    |
+| ✨ Attaque Spé.  | 150    |
+| 🌙 Défense Spé. | 50    |
+| ⚡ Vitesse       | 150     |
+
+![Deoxys](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/deoxy.png) ![Deoxys Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_3/deoxy_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Pression
+
+---
+
+### 📍 Localisation
+
+| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+
+---
+
+### 📜 Description
+
+> Il vient d'un virus extraterrestre arrivé avec une météorite et ayant subi une mutation génétique.
+
+---
 
 {% hint style="success" %}
 ## Nous contactez
