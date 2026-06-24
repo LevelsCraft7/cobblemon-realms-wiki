@@ -88,6 +88,10 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 ### 📍 Localisation
 
+<p align="center">
+☀️ Habitats : cieux, montagnes, plaines et savanes.
+</p>
+
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
 | Glas Tempête | Au sol | 3 Pierres Foudre | Ultra Rare | 50 - 60 |
