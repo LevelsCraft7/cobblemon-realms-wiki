@@ -52,7 +52,7 @@ D'anciens titans sommeillent sous les terres de Hoenn. Entre océans déchaîné
 &#8203;
 &#8203;
 
-## X Regice
+## 🧊 Regice
 
 ### 🧾 Informations générales
 
