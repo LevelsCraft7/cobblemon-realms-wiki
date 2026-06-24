@@ -141,7 +141,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 &#8203;
 &#8203;
 
-## 🥋 Pêchaminus
+## ☠️ Pêchaminus
 
 ### 🧾 Informations générales
 
@@ -186,7 +186,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 &#8203;
 &#8203;
 
-## 🦍 Terapagos
+## 🌌 Terapagos
 
 ### 🧾 Informations générales
 
