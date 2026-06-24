@@ -40,7 +40,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 | 🌍 Biomes | 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| X | Glas Tempête | Au sol | 3 Pierres Glace | Ultra Rare | 50 - 60 |
+| Se rencontre dans les régions froides : plaines enneigées, taïgas, glaciers et étendues d'eau gelées | Glas Tempête | Au sol | 3 Pierres Glace | Ultra Rare | 50 - 60 |
 
 ---
 
