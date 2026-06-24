@@ -39,7 +39,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 ### 📍 Localisation
 
 <p align="center">
-Se rencontre dans les régions froides : plaines enneigées, taïgas, glaciers et étendues d'eau gelées
+Habitats : Biomes enneigés, taïgas, glaciers, rivières et océans gelés.
 </p>
 
 | 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
