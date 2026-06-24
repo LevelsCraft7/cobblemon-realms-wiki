@@ -88,9 +88,9 @@ Habitats : Biomes enneigés, taïgas, glaciers, rivières et océans gelés.
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| X | Glas Tempête | Au sol | 3 Pierres Foudre | Ultra Rare | 50 - 60 |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| Glas Tempête | Au sol | 3 Pierres Foudre | Ultra Rare | 50 - 60 |
 
 ---
 
@@ -134,9 +134,9 @@ Habitats : Biomes enneigés, taïgas, glaciers, rivières et océans gelés.
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| X | Glas Tempête | Au sol | 3 Pierres Feu | Ultra Rare | 50 - 60 |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| Glas Tempête | Au sol | 3 Pierres Feu | Ultra Rare | 50 - 60 |
 
 ---
 
@@ -179,9 +179,9 @@ Habitats : Biomes enneigés, taïgas, glaciers, rivières et océans gelés.
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| X | Vieillecarte | Au sol | Aucune | Ultra Rare | 30 - 70 |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| Vieillecarte | Au sol | Aucune | Ultra Rare | 30 - 70 |
 
 ---
 
@@ -225,9 +225,9 @@ Habitats : Biomes enneigés, taïgas, glaciers, rivières et océans gelés.
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| X | Journal du Dr Fuji | Au sol | Aucune | Ultra Rare | 70 - 75 |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| Journal du Dr Fuji | Au sol | Aucune | Ultra Rare | 70 - 75 |
 
 ---
 
