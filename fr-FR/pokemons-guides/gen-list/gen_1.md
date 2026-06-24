@@ -39,7 +39,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 ### 📍 Localisation
 
 <p align="center">
-Habitats : Biomes enneigés, taïgas, glaciers, rivières et océans gelés.
+❄️ Habitats : biomes enneigés, taïgas, glaciers, rivières et océans gelés.
 </p>
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
@@ -134,6 +134,10 @@ Habitats : Biomes enneigés, taïgas, glaciers, rivières et océans gelés.
 
 ### 📍 Localisation
 
+<p align="center">
+🔥 Habitats : zones volcaniques et thermales, badlands et collines venteuses.
+</p>
+
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
 | Glas Tempête | Au sol | 3 Pierres Feu | Ultra Rare | 50 - 60 |
@@ -178,6 +182,10 @@ Habitats : Biomes enneigés, taïgas, glaciers, rivières et océans gelés.
 ---
 
 ### 📍 Localisation
+
+<p align="center">
+🌿 Habitats : jungles, jungles de bambou et zones luxuriantes.
+</p>
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
@@ -224,6 +232,10 @@ Habitats : Biomes enneigés, taïgas, glaciers, rivières et océans gelés.
 ---
 
 ### 📍 Localisation
+
+<p align="center">
+🌑 Habitats : deep dark, grottes, forêts sombres et collines graveleuses venteuses.
+</p>
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
