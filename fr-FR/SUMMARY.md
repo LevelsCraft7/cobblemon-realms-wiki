@@ -40,7 +40,7 @@
 
 ## Mega Showdown
 
-- [Bientôt disponible]()
+- [Bientôt disponible](Mega_Showdown/Mega_Showdown.md)
 
 ## Exclusivités Pokémon
 
