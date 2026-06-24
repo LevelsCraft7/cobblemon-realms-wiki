@@ -109,11 +109,11 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | Stat            | Valeur |
 | --------------- | ------ |
-| ❤️ HP           | 108     |
-| ⚔️ Attaque      | 100     |
-| 🛡️ Défense     | 121    |
-| ✨ Attaque Spé.  | 81    |
-| 🌙 Défense Spé. | 95    |
+| ❤️ HP           | 70     |
+| ⚔️ Attaque      | 85     |
+| 🛡️ Défense     | 75    |
+| ✨ Attaque Spé.  | 130    |
+| 🌙 Défense Spé. | 115    |
 | ⚡ Vitesse       | 95     |
 
 ![Tokopiyon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapulele.png) ![Tokopiyon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapulele_shiny.png)
@@ -463,7 +463,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_normal.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png)
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_combat.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_spectre.png)
 
 ---
 
@@ -498,7 +498,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📜 Description
 
-> Il se fond dans l’ombre de son adversaire pour imiter sa force et ses attaques. La copie surpasse alors l’original.
+> En se glissant dans l’ombre de son adversaire, il peut copier ses mouvements et ses forces. C’est un Pokémon au caractère timide et craintif.
 
 &#8203;
 &#8203;
