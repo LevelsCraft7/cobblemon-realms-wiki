@@ -324,7 +324,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_spectre.png)
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_glace.png)
 
 ---
 
@@ -345,7 +345,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 🎯 Talent de la forme
 
-- **Talent :** Spectro-Bouclier
+- **Talent :** Blanche Ruade
 
 ---
 
