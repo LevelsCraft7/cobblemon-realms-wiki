@@ -6,7 +6,7 @@
 Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues d'autres dimensions. Leurs histoires mêlent traditions ancestrales et mystères cosmiques.
 </p>
 
-## X Type:0
+## 🛡️ Type:0
 
 ### 🧾 Informations générales
 
@@ -51,7 +51,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 &#8203;
 &#8203;
 
-## X Tokorico
+## ⚡ Tokorico
 
 ### 🧾 Informations générales
 
@@ -97,7 +97,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 &#8203;
 &#8203;
 
-## X Tokopiyon
+## 🌸 Tokopiyon
 
 ### 🧾 Informations générales
 
@@ -143,7 +143,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 &#8203;
 &#8203;
 
-## X Tokotoro
+## 🌿 Tokotoro
 
 ### 🧾 Informations générales
 
@@ -189,7 +189,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 &#8203;
 &#8203;
 
-## X Tokopisco
+## 🌊 Tokopisco
 
 ### 🧾 Informations générales
 
@@ -235,7 +235,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 &#8203;
 &#8203;
 
-## X Cosmog
+## 💫 Cosmog
 
 ### 🧾 Informations générales
 
@@ -280,7 +280,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 &#8203;
 &#8203;
 
-## X Solgaleo
+## ☀️ Solgaleo
 
 ### 🧾 Informations générales
 
@@ -324,7 +324,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 &#8203;
 &#8203;
 
-## X Lunala
+## 🌙 Lunala
 
 ### 🧾 Informations générales
 
@@ -369,7 +369,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 &#8203;
 &#8203;
 
-## X Necrozma
+## 🖤 Necrozma
 
 ### 🧾 Informations générales
 
@@ -414,7 +414,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 &#8203;
 &#8203;
 
-## X Magearna
+## 🤖 Magearna
 
 ### 🧾 Informations générales
 
@@ -459,7 +459,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 &#8203;
 &#8203;
 
-## X Marshadow
+## 👤 Marshadow
 
 ### 🧾 Informations générales
 
@@ -504,7 +504,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 &#8203;
 &#8203;
 
-## X Zeraora
+## ⚡ Zeraora
 
 ### 🧾 Informations générales
 
@@ -549,7 +549,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 &#8203;
 &#8203;
 
-## X Meltan
+## 🔩 Meltan
 
 ### 🧾 Informations générales
 
