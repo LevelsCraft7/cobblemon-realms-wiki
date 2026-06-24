@@ -42,7 +42,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 Habitats : Biomes enneigés, taïgas, glaciers, rivières et océans gelés.
 </p>
 
-| 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
 | Glas Tempête | Au sol | 3 Pierres Glace | Ultra Rare | 50 - 60 |
 
