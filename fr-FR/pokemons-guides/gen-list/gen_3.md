@@ -38,54 +38,69 @@ D'anciens titans sommeillent sous les terres de Hoenn. Entre océans déchaîné
 
 ### 📍 Localisation
 
-<details>
-<summary>📍 Tags de spawn avec la Plaque Roc</summary>
-
-<pre>
-wythers:outback_desert	
-terralith:white_mesa	
-#wythers:is_desert	
-#minecraft:is_badlands	
-terralith:desert_canyon	
-#c:desert	
-terralith:red_oasis	
-#c:mesa	
-terralith:sandstone_valley	
-wythers:danakil_desert	
-wythers:badlands_desert	
-#byg:is_desert	
-terralith:ashen_savanna	
-wythers:kwongan_heath	
-terralith:desert_oasis	
-minecraft:desert	
-terralith:lush_desert	
-wythers:red_desert	
-terralith:desert_spires	
-terralith:warped_mesa	
-wythers:sandy_jungle	
-wythers:desert_island	
-terralith:cave/desert_caves	
-terralith:ancient_sands	
-</pre>
-</details>
-
-<details>
-<summary>📍 Tags de spawn avec la Plaque Ancienne</summary>
-
-<pre>
-terralith:white_mesa	
-terralith:ashen_savanna	
-#minecraft:is_badlands	
-terralith:warped_mesa	
-terralith:red_oasis	
-#c:mesa	
-wythers:danakil_desert
-</pre>
-</details>
-
 | 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
 | :---: | :---: | :---: | :---: | :---: |
 | Plaque Roc / Plaque Ancienne | Au sol | ⬇️ Niveau Y max : 63 | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏜️ <strong>Déserts et dunes</strong></td>
+    <td>
+      <code>#wythers:is_desert</code><br>
+      <code>#byg:is_desert</code><br>
+      <code>#c:desert</code><br>
+      <code>minecraft:desert</code><br>
+      <code>terralith:desert_oasis</code><br>
+      <code>terralith:lush_desert</code><br>
+      <code>terralith:ancient_sands</code><br>
+      <code>wythers:outback_desert</code><br>
+      <code>wythers:danakil_desert</code><br>
+      <code>wythers:red_desert</code><br>
+      <code>wythers:desert_island</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🪨 <strong>Badlands et mesas</strong></td>
+    <td>
+      <code>#minecraft:is_badlands</code><br>
+      <code>#c:mesa</code><br>
+      <code>minecraft:badlands</code><br>
+      <code>terralith:white_mesa</code><br>
+      <code>terralith:warped_mesa</code><br>
+      <code>terralith:red_oasis</code><br>
+      <code>wythers:badlands_desert</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌵 <strong>Savane aride et zones sèches</strong></td>
+    <td>
+      <code>terralith:desert_canyon</code><br>
+      <code>terralith:sandstone_valley</code><br>
+      <code>terralith:desert_spires</code><br>
+      <code>terralith:ashen_savanna</code><br>
+      <code>wythers:kwongan_heath</code><br>
+      <code>wythers:sandy_jungle</code><br>
+      <code>terralith:cave/desert_caves</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -93,8 +108,6 @@ wythers:danakil_desert
 
 > Si ce Pokémon s'ébrèche au combat, il répare son corps entièrement fait de roche en colmatant les trous avec des pierres.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🧊 Regice
@@ -129,13 +142,79 @@ wythers:danakil_desert
 
 ### 📍 Localisation
 
-<p align="center">
-❄️ Habitats : biomes enneigés, toundras, taïgas, glaciers, océans gelés et sommets montagneux.
-</p>
-
-| 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
 | Plaque Glace / Plaque Ancienne | Au sol | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏔️ <strong>Montagnes et pics</strong></td>
+    <td>
+      <code>#cobblemon:is_peak</code><br>
+      <code>minecraft:jagged_peaks</code><br>
+      <code>terralith:emerald_peaks</code><br>
+      <code>terralith:scarlet_mountains</code><br>
+      <code>wythers:snowy_peaks</code><br>
+      <code>wythers:snowy_canyon</code><br>
+      <code>terralith:snowy_badlands</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>❄️ <strong>Toundra et biomes neigeux</strong></td>
+    <td>
+      <code>#cobblemon:is_tundra</code><br>
+      <code>#byg:is_snowy</code><br>
+      <code>#c:snowy</code><br>
+      <code>#forge:is_snowy</code><br>
+      <code>minecraft:snowy_plains</code><br>
+      <code>minecraft:snowy_slopes</code><br>
+      <code>minecraft:snowy_beach</code><br>
+      <code>byg:cardinal_tundra</code><br>
+      <code>wythers:snowy_tundra</code><br>
+      <code>wythers:crimson_tundra</code><br>
+      <code>wythers:snowy_bog</code></td>
+  </tr>
+
+  <tr>
+    <td>🧊 <strong>Glace et froid extrême</strong></td>
+    <td>
+      <code>#cobblemon:is_glacial</code><br>
+      <code>#cobblemon:is_freezing</code><br>
+      <code>#cobblemon:is_frozen_ocean</code><br>
+      <code>#c:climate_cold</code><br>
+      <code>#byg:is_cold</code><br>
+      <code>#forge:is_cold/overworld</code><br>
+      <code>minecraft:frozen_river</code><br>
+      <code>wythers:frozen_island</code><br>
+      <code>wythers:berry_bog</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌨️ <strong>Forêts et taïgas froides</strong></td>
+    <td>
+      <code>#cobblemon:is_snowy_forest</code><br>
+      <code>#cobblemon:is_taiga</code><br>
+      <code>terralith:skylands_winter</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -179,11 +258,41 @@ wythers:danakil_desert
 
 ### 📍 Localisation
 
-
-
-| 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Tablette d'acier / Tablette Ancienne | Au sol | Proche d'un bloc de fer | Ultra Rare | 40 |
+| Plaque en Acier / Plaque Ancienne | Au sol | Proche d'un bloc de fer | Ultra Rare | 40 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌑 <strong>Profondeurs obscures</strong></td>
+    <td>
+      <code>#cobblemon:is_deep_dark</code><br>
+      <code>minecraft:deep_dark</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🏘️ <strong>Structures et zones habitées</strong></td>
+    <td>
+      <code>#minecraft:village</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -191,8 +300,6 @@ wythers:danakil_desert
 
 > Il paraît qu’il est né dans le manteau terrestre et qu’il en a émergé il y a environ 10 000 ans.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🎀 Latias
@@ -226,9 +333,44 @@ wythers:danakil_desert
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| Passe Éon | Au sol | Aucune | Ultra Rare | 30 - 50 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌸 <strong>Forêts florales et tempérées</strong></td>
+    <td>
+      <code>#cobblemon:is_temperate</code><br>
+      <code>minecraft:flower_forest</code><br>
+      <code>minecraft:birch_forest</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🏝️ <strong>Côtes et zones maritimes</strong></td>
+    <td>
+      <code>#cobblemon:is_beach</code><br>
+      <code>#cobblemon:is_coast</code><br>
+      <code>terralith:mirage_isles</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -236,8 +378,6 @@ wythers:danakil_desert
 
 > Latias est extrêmement sensible aux émotions des gens. S’il ressent une hostilité, ce Pokémon ébouriffe ses plumes et pousse un cri strident pour intimider son ennemi.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🩲 Latios
@@ -271,9 +411,44 @@ wythers:danakil_desert
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| Passe Éon | Au sol | Aucune | Ultra Rare | 30 - 50 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏝️ <strong>Côtes et îles</strong></td>
+    <td>
+      <code>#cobblemon:is_coast</code><br>
+      <code>#cobblemon:is_beach</code><br>
+      <code>#cobblemon:is_temperate</code><br>
+      <code>terralith:mirage_isles</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌿 <strong>Plaines et reliefs doux</strong></td>
+    <td>
+      <code>minecraft:plains</code><br>
+      <code>minecraft:mountain_edge</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -281,8 +456,6 @@ wythers:danakil_desert
 
 > Latios a le pouvoir de faire voir à une personne une image provenant de son subconscient. Ce Pokémon est intelligent et comprend le langage humain.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🌊 Kyogre
@@ -316,9 +489,38 @@ wythers:danakil_desert
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| Orbe Bleu | Sous l'eau | Aucune | Ultra Rare | 45 - 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌊 <strong>Océans</strong></td>
+    <td>
+      <code>#cobblemon:is_ocean</code><br>
+      <code>#cobblemon:is_deep_ocean</code><br>
+      <code>minecraft:ocean</code><br>
+      <code>minecraft:deep_ocean</code><br>
+      <code>minecraft:deep_cold_ocean</code><br>
+      <code>minecraft:deep_frozen_ocean</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -326,8 +528,6 @@ wythers:danakil_desert
 
 > On dit qu'il a fait monter les eaux en causant des pluies diluviennes. Il somnolait dans une fosse marine.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🌋 Groudon
@@ -360,9 +560,39 @@ wythers:danakil_desert
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| Orbe Rouge | Au sol | Aucune | Ultra Rare | 45 - 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏜️ <strong>Déserts et zones arides</strong></td>
+    <td>
+      <code>#cobblemon:is_desert</code><br>
+      <code>#cobblemon:is_arid</code><br>
+      <code>#cobblemon:is_thermal</code><br>
+      <code>#cobblemon:is_volcanic</code><br>
+      <code>minecraft:desert</code><br>
+      <code>minecraft:badlands</code><br>
+      <code>minecraft:eroded_badlands</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -370,8 +600,6 @@ wythers:danakil_desert
 
 > Il dormait dans le magma souterrain depuis sa lutte féroce contre Kyogre, il y a longtemps de cela.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🐉 Rayquaza
@@ -405,9 +633,55 @@ wythers:danakil_desert
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| Orbe Jade | Au sol | Aucune | Ultra Rare | 50 - 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>☁️ <strong>Cieux et skylands</strong></td>
+    <td>
+      <code>#cobblemon:is_sky</code><br>
+      <code>#cobblemon:is_highlands</code><br>
+      <code>terralith:skylands_winter</code><br>
+      <code>terralith:skylands_spring</code><br>
+      <code>terralith:skylands_summer</code><br>
+      <code>terralith:skylands_autumn</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌌 <strong>End et hauteurs extrêmes</strong></td>
+    <td>
+      <code>#cobblemon:is_end</code><br>
+      <code>#minecraft:is_end</code><br>
+      <code>minecraft:end_highlands</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌿 <strong>Forêts / jungles associées</strong></td>
+    <td>
+      <code>#cobblemon:is_jungle</code><br>
+      <code>#minecraft:is_jungle</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -415,8 +689,6 @@ wythers:danakil_desert
 
 > Il vit dans la couche d'ozone, au dessus des nuages. Il est invisible depuis le sol.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🎋 Jirachi
@@ -450,9 +722,42 @@ wythers:danakil_desert
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| Disque Bonus | Au sol | Aucune | Ultra Rare | 5 - 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🍄 <strong>Biomes rares et magiques</strong></td>
+    <td>
+      <code>#cobblemon:is_magical</code><br>
+      <code>minecraft:mushroom_fields</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌬️ <strong>Zones clairsemées et ventées</strong></td>
+    <td>
+      <code>#cobblemon:is_sparse</code><br>
+      <code>minecraft:windswept_gravelly_hills</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -460,8 +765,6 @@ wythers:danakil_desert
 
 > On raconte qu'une fois tous les mille ans, il a la capacité d'exaucer tous les vœux durant une semaine.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 👽 Deoxys
@@ -495,9 +798,38 @@ wythers:danakil_desert
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| Ticketaurora | Au sol | Aucune | Ultra Rare | 75 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌌 <strong>End et dimensions extrêmes</strong></td>
+    <td>
+      <code>#cobblemon:is_end</code><br>
+      <code>minecraft:the_end</code><br>
+      <code>minecraft:end_highlands</code><br>
+      <code>minecraft:end_midlands</code><br>
+      <code>minecraft:end_barrens</code><br>
+      <code>minecraft:small_end_islands</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
