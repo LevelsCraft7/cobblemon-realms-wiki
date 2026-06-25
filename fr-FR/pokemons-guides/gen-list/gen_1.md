@@ -39,30 +39,51 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 ### 📍 Localisation
 
 <details>
-<summary>❄️ Habitats de spawn</summary>
+<summary>❄️ Tags de spawn</summary>
 
-<pre>
-❄️ Biomes enneigés et froids
-- snowy_forest
-- snowy_plains
-- snowy_slopes
-- snowy_beach
-- snowy_taiga
-- frozen_river
+<div align="center">
 
-🧊 Glaces et biomes extrêmes
-- freezing
-- glacial
-- cold
-- frozen_peaks
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
 
-🌊 Océans gelés
-- frozen_ocean
-- frozen_ocean (tag Cobblemon)
+  <tr>
+    <td>❄️ Cobblemon</td>
+    <td>
+      #cobblemon:is_snowy_forest<br>
+      #cobblemon:is_freezing<br>
+      #cobblemon:is_cold<br>
+      #cobblemon:is_glacial<br>
+      #cobblemon:is_frozen_ocean
+    </td>
+  </tr>
 
-🏔️ Autres biomes froids
-- cold ocean
-</pre>
+  <tr>
+    <td>🌨️ Biomes neigeux</td>
+    <td>
+      minecraft:snowy_plains<br>
+      minecraft:snowy_slopes<br>
+      minecraft:snowy_beach<br>
+      minecraft:snowy_taiga
+    </td>
+  </tr>
+
+  <tr>
+    <td>🧊 Zones gelées</td>
+    <td>
+      minecraft:frozen_river<br>
+      minecraft:frozen_ocean<br>
+      minecraft:frozen_peaks
+    </td>
+  </tr>
+</table>
+
+</div>
+
+</details>
+
 </details>
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
