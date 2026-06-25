@@ -38,7 +38,7 @@ D'anciens titans sommeillent sous les terres de Hoenn. Entre océans déchaîné
 
 ### 📍 Localisation
 
-| 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
 | Plaque Roc / Plaque Ancienne | Au sol | Hauteur max : 63 | Ultra Rare | 70 |
 
