@@ -258,7 +258,7 @@ D'anciens titans sommeillent sous les terres de Hoenn. Entre océans déchaîné
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Plaque en Acier / Plaque Ancienne | Au sol | Proche d'un bloc de fer | Ultra Rare | 40 |
+| Plaque Acier / Plaque Ancienne | Au sol | Proche d'un bloc de fer | Ultra Rare | 40 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
@@ -489,7 +489,7 @@ D'anciens titans sommeillent sous les terres de Hoenn. Entre océans déchaîné
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Orbe Bleu | Sous l'eau | Aucune | Ultra Rare | 45 - 70 |
+| Orbe Bleue | Sous l'eau | Aucune | Ultra Rare | 45 - 70 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
