@@ -199,7 +199,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Masque Turquoise | Au sol | 🌒 Premier croissant de lune | Ultra Rare | 40 - 60 |
+| Le Masque Turquoise | Au sol | 🌒 Premier croissant de lune | Ultra Rare | 40 - 60 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
@@ -280,7 +280,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Baie Pêcha Fabuleuse | Au sol | Aucune | Ultra Rare | 70 |
+| Baie Pêcha fabuleuse | Au sol | Aucune | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
