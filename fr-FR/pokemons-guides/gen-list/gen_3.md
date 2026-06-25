@@ -39,19 +39,53 @@ D'anciens titans sommeillent sous les terres de Hoenn. Entre océans déchaîné
 ### 📍 Localisation
 
 <details>
-<summary>📍 Tags de spawn</summary>
+<summary>📍 Tags de spawn avec la Plaque Roc</summary>
 
 <pre>
-minecraft:deep_dark
-#minecraft:village
-#cobblemon:is_deep_dark
+wythers:outback_desert	
+terralith:white_mesa	
+#wythers:is_desert	
+#minecraft:is_badlands	
+terralith:desert_canyon	
+#c:desert	
+terralith:red_oasis	
+#c:mesa	
+terralith:sandstone_valley	
+wythers:danakil_desert	
+wythers:badlands_desert	
+#byg:is_desert	
+terralith:ashen_savanna	
+wythers:kwongan_heath	
+terralith:desert_oasis	
+minecraft:desert	
+terralith:lush_desert	
+wythers:red_desert	
+terralith:desert_spires	
+terralith:warped_mesa	
+wythers:sandy_jungle	
+wythers:desert_island	
+terralith:cave/desert_caves	
+terralith:ancient_sands	
 </pre>
+</details>
 
+<details>
+<summary>📍 Tags de spawn avec la Plaque Ancienne</summary>
+
+<pre>
+terralith:white_mesa	
+terralith:ashen_savanna	
+#minecraft:is_badlands	
+terralith:warped_mesa	
+terralith:red_oasis	
+#c:mesa	
+wythers:danakil_desert
+</pre>
 </details>
 
 | 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
 | :---: | :---: | :---: | :---: | :---: |
-| Plaque Roc / Tablette ancienne | Au sol | ⬇️ Niveau Y max : 63 | Ultra Rare | 70 |
+| Plaque Roc / Plaque Ancienne | Au sol | ⬇️ Niveau Y max : 63 | Ultra Rare | 70 |
 
 ---
 
