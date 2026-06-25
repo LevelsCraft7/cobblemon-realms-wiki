@@ -97,7 +97,6 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 &#8203;
 &#8203;
-&#8203;
 
 ## ⚡ Électhor
 
@@ -180,7 +179,6 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 > Un Pokémon légendaire qui vivrait dans les nuages orageux. Il contrôle la foudre.
 
-&#8203;
 &#8203;
 &#8203;
 
@@ -268,7 +266,6 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 &#8203;
 &#8203;
-&#8203;
 
 ## 🧬 Mew
 
@@ -339,7 +336,6 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 > Nombre de scientifiques voient en lui l'ancêtre des Pokémon car il peut utiliser toutes leurs capacités.
 
-&#8203;
 &#8203;
 &#8203;
 
