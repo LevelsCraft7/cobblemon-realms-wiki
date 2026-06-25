@@ -43,44 +43,53 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 | Glas Tempête | Au sol | 3 Pierres Glace | Ultra Rare | 50 - 60 |
 
 <details>
-<summary>     ❄️ Tags de spawn     </summary>
+<summary>❄️ <strong>Tags de spawn</strong></summary>
+
 <div align="center">
 
-<table>
+<table style="border-collapse: collapse; width: 80%; max-width: 800px;">
+  
   <tr>
-    <th>Catégorie</th>
-    <th>Tags</th>
+    <th style="padding: 10px;">Catégorie</th>
+    <th style="padding: 10px;">Tags</th>
   </tr>
 
   <tr>
-    <td>❄️ Cobblemon</td>
-    <td>
-      #cobblemon:is_snowy_forest<br>
-      #cobblemon:is_freezing<br>
-      #cobblemon:is_cold<br>
-      #cobblemon:is_glacial<br>
-      #cobblemon:is_frozen_ocean
+    <td style="padding: 12px;">
+      ❄️ <strong>Cobblemon</strong>
+    </td>
+    <td style="padding: 12px; line-height: 1.6;">
+      <code>#cobblemon:is_snowy_forest</code><br>
+      <code>#cobblemon:is_freezing</code><br>
+      <code>#cobblemon:is_cold</code><br>
+      <code>#cobblemon:is_glacial</code><br>
+      <code>#cobblemon:is_frozen_ocean</code>
     </td>
   </tr>
 
   <tr>
-    <td>🌨️ Biomes neigeux</td>
-    <td>
-      minecraft:snowy_plains<br>
-      minecraft:snowy_slopes<br>
-      minecraft:snowy_beach<br>
-      minecraft:snowy_taiga
+    <td style="padding: 12px;">
+      🌨️ <strong>Biomes neigeux</strong>
+    </td>
+    <td style="padding: 12px; line-height: 1.6;">
+      <code>minecraft:snowy_plains</code><br>
+      <code>minecraft:snowy_slopes</code><br>
+      <code>minecraft:snowy_beach</code><br>
+      <code>minecraft:snowy_taiga</code>
     </td>
   </tr>
 
   <tr>
-    <td>🧊 Zones gelées</td>
-    <td>
-      minecraft:frozen_river<br>
-      minecraft:frozen_ocean<br>
-      minecraft:frozen_peaks
+    <td style="padding: 12px;">
+      🧊 <strong>Zones gelées</strong>
+    </td>
+    <td style="padding: 12px; line-height: 1.6;">
+      <code>minecraft:frozen_river</code><br>
+      <code>minecraft:frozen_ocean</code><br>
+      <code>minecraft:frozen_peaks</code>
     </td>
   </tr>
+
 </table>
 
 </div>
