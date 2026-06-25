@@ -14,9 +14,9 @@ The legends of Johto tell the story of sacred guardians watching over the balanc
 
 ---
 
-### 📊 Statistiques
+### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 90     |
 | ⚔️ Attack      | 85     |
@@ -87,9 +87,9 @@ The legends of Johto tell the story of sacred guardians watching over the balanc
 
 ---
 
-### 📊 Statistiques
+### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 115     |
 | ⚔️ Attack      | 115     |
@@ -170,9 +170,9 @@ The legends of Johto tell the story of sacred guardians watching over the balanc
 
 ---
 
-### 📊 Statistiques
+### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 100     |
 | ⚔️ Attack      | 75     |
@@ -247,9 +247,9 @@ The legends of Johto tell the story of sacred guardians watching over the balanc
 
 ---
 
-### 📊 Statistiques
+### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 106     |
 | ⚔️ Attack      | 90     |
@@ -319,9 +319,9 @@ The legends of Johto tell the story of sacred guardians watching over the balanc
 
 ---
 
-### 📊 Statistiques
+### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 106     |
 | ⚔️ Attack      | 130     |
@@ -391,9 +391,9 @@ The legends of Johto tell the story of sacred guardians watching over the balanc
 
 ---
 
-### 📊 Statistiques
+### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 100     |
 | ⚔️ Attack      | 100     |
