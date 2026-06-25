@@ -42,7 +42,8 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 | :---: | :---: | :---: | :---: | :---: |
 | Glas Tempête | Au sol | 3 Pierres Glace | Ultra Rare | 50 - 60 |
 
-<summary>❄️ &nbsp;&nbsp;&nbsp;<strong>Tags de spawn</strong>&nbsp;&nbsp;&nbsp;❄️</summary>
+<details>
+<summary>❄️ <span style="display:inline-block; width:100%; text-align:center;"><strong>Tags de spawn</strong></span></summary>
 
 <div>
 
