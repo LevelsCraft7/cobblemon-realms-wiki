@@ -39,7 +39,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Pousse de vie | Au sol | Aucune | Ultra Rare | 50 |
+| Pousse de Vie | Au sol | Aucune | Ultra Rare | 50 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
@@ -123,7 +123,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Cocon de destruction | Au sol | Aucune | Ultra Rare | 50 |
+| Cocon de l'Annihilation | Au sol | Aucune | Ultra Rare | 50 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
@@ -443,7 +443,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Valve à vapeur | Au sol | Aucune | Ultra Rare | 70 |
+| Valve à Vapeur | Au sol | Aucune | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
