@@ -37,9 +37,9 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -47,8 +47,6 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 > D’après la légende, quand ses bois brillent de sept couleurs, cela signifie qu’il prodigue la vie éternelle.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🦇 Yveltal
@@ -82,9 +80,9 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -92,8 +90,6 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 > Il possède un corps et un cœur de fer. Il peut mater les Pokémon les plus agressifs d'un simple regard.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🐍 Zygarde
@@ -128,9 +124,9 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -138,8 +134,6 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 > Lorsque l’écosystème de Kalos est menacé, ce Pokémon apparaît et utilise son mystérieux pouvoir.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 💎 Diancie
@@ -173,9 +167,9 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -183,8 +177,6 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 > Il peut créer une multitude de diamants en un instant en serrant ses mains, simplement en compressant les molécules de carbone contenues dans l’air.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🪄 Hoopa
@@ -218,9 +210,9 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -228,8 +220,6 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 > Il a la faculté de téléporter les choses en les faisant passer au travers de ses anneaux. Il envoie les objets qui lui plaisent dans une cachette connue de lui seul.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🌋 Volcanion
@@ -263,9 +253,9 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
