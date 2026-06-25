@@ -37,9 +37,9 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -47,8 +47,6 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 > On dit qu’il s’agit de la figure fraternelle et du rival de Zamazenta, un Pokémon plongé dans un long sommeil.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🛡️ Zamazenta
@@ -82,9 +80,9 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -92,8 +90,6 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 > Ce Pokémon sauva autrefois Galar en joignant ses forces à celles du roi des Hommes. Il absorbe du métal quand il passe au combat.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🐉 Éthernatos
@@ -127,9 +123,9 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -137,8 +133,6 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 > Il se trouvait dans une météorite qui s’est écrasée il y a 20 000 ans. Il semble y avoir un lien entre ce Pokémon et le phénomène Dynamax.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🥋 Wushours
@@ -172,9 +166,9 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -182,8 +176,6 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 > Il suit un entraînement rigoureux pour parfaire ses techniques. La forme de son évolution dépend des capacités qu’il a assimilées.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🦍 Zarude
@@ -217,9 +209,9 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -227,8 +219,6 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 > Lorsque ses lianes se détachent de son corps, elles fertilisent le sol et favorisent la croissance des plantes de la forêt.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## ⚡ Regieleki
@@ -262,9 +252,9 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -272,8 +262,6 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 > Son corps est un véritable concentré d’énergie électrique. On raconte que si on lui retire ses anneaux, sa puissance cachée se libère.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🐉 Regidrago
@@ -306,9 +294,9 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -316,8 +304,6 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 > Une théorie stipule que ses bras ont la forme de la tête d’un Pokémon Dragon des temps anciens, mais aucune preuve ne l’atteste.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## ❄️ Blizzeval
@@ -351,9 +337,9 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -361,8 +347,6 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 > Violent au point de s’emparer de tout ce qu’il désire par la force, ce Pokémon est capable de libérer un puissant air glacial de ses sabots.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🌑 Spectreval
@@ -396,9 +380,9 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -406,8 +390,6 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 > Il se sert de tous ses sens pour se repérer, sauf celui de la vue. Un coup de ses sabots suffirait à séparer l’âme du corps de sa cible.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 👑 Sylveroy
@@ -441,9 +423,9 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -451,8 +433,6 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 > Ce roi légendaire qui a régné sur Galar il y a fort longtemps possède le pouvoir d’apaiser les cœurs et de faire germer les plantes.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 💕 Amovénus
@@ -487,9 +467,9 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
