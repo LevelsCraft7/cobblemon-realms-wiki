@@ -48,8 +48,6 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 > Il s’agirait d’« Ailes-Royales », une créature qui, d’après un vieux récit d’exploration, aurait fendu la terre par la force de ses poings.
 
 &#8203;
-&#8203;
-&#8203;
 
 ## 🤖 Miraidon
 
@@ -82,9 +80,9 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -92,8 +90,6 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 > On manque d’informations à son sujet. Il ressemble à Motorizard, mais en bien plus fort et cruel.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🎭 Ogerpon
@@ -127,9 +123,9 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -137,8 +133,6 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 > Son type change selon le masque qu’il porte. Son agilité et ses coups de pied habiles lui permettent de malmener ses adversaires.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## ☠️ Pêchaminus
@@ -172,9 +166,9 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -182,8 +176,6 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 > Il fait manger à sa cible un mochi empoisonné qui éveille les désirs et révèle le potentiel. Il la contrôle ensuite grâce à ses chaînes.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🌌 Terapagos
@@ -217,9 +209,9 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
