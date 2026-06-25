@@ -45,7 +45,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 <details>
 <summary>❄️ <strong>Tags de spawn</strong></summary>
 
-<div style="display:flex; justify-content:center;">
+<div align="center">
 
 <table>
   <tr>
@@ -138,6 +138,8 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
 | Glas Tempête | Au sol | 3 Pierres Foudre | Ultra Rare | 50 - 60 |
+
+
 
 ---
 
