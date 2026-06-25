@@ -37,9 +37,9 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -47,8 +47,6 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 > On dit qu'il a apporté aux gens les sentiments comme la joie ou la tristesse.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## ⚔️ Créfadet
@@ -82,9 +80,9 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -92,8 +90,6 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 > On dit qu'il a offert aux gens le courage de faire face à toutes les difficultés.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## ⏳ Dialga
@@ -128,9 +124,9 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -138,8 +134,6 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 > Il maîtrise le flot du temps et peut voyager librement dans le passé ou l'avenir.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🌌 Palkia
@@ -174,9 +168,9 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -184,8 +178,6 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 > En maîtrisant les liens de l'espace, il peut voyager vers une destination lointaine ou une autre dimension.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🌋 Heatran
@@ -220,9 +212,9 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -230,8 +222,6 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 > Le sang de ce Pokémon des cratères bouillonne dans son corps comme du magma.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🗿 Regigigas
@@ -265,9 +255,9 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -275,8 +265,6 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 > Il aurait créé Regirock, Regice et Registeel respectivement avec de la glaise, de la glace et du magma.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 👻 Giratina
@@ -310,9 +298,9 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -320,8 +308,6 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 > Il vit dans le Monde Distorsion, un monde à l'opposé du nôtre qui échappe au sens commun.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🌙 Cresselia
@@ -355,9 +341,9 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -365,8 +351,6 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 > Dormir avec une de ses plumes à la main permet de faire de beaux rêves. On le surnomme « avatar du croissant de lune ».
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 😴 Darkrai
@@ -400,9 +384,9 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -410,8 +394,6 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 > Il endort humains et Pokémon, et leur fait avoir des cauchemars pour les chasser de son territoire.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🌸 Shaymin
@@ -445,9 +427,9 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -486,9 +468,9 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
