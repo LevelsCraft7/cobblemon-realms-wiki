@@ -39,7 +39,36 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Pass Liberté | Au sol | Aucune | Ultra Rare | 70 - 100 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🔥 <strong>Zones thermales et volcaniques</strong></td>
+    <td>
+      <code>#cobblemon:is_thermal</code><br>
+      <code>#cobblemon:is_volcanic</code><br>
+      <code>#cobblemon:is_savanna</code><br>
+      <code>minecraft:savanna</code><br>
+      <code>minecraft:badlands</code><br>
+      <code>minecraft:eroded_badlands</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -82,7 +111,59 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Épée de Fer et de Volonté | Au sol | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏔️ <strong>Montagnes, hauts plateaux et crags</strong></td>
+    <td>
+      <code>#cobblemon:is_highlands</code><br>
+      <code>#cobblemon:is_hills</code><br>
+      <code>#minecraft:is_mountain</code><br>
+      <code>#forge:is_mountain</code><br>
+      <code>#forge:is_slope</code><br>
+      <code>#c:mountain_slope</code><br>
+      <code>minecraft:is_hill</code><br>
+      <code>terralith:forested_highlands</code><br>
+      <code>terralith:temperate_highlands</code><br>
+      <code>terralith:windswept_spires</code><br>
+      <code>terralith:stony_spires</code><br>
+      <code>terralith:volcanic_peaks</code><br>
+      <code>terralith:yosemite_lowlands</code><br>
+      <code>terralith:yosemite_cliffs</code><br>
+      <code>terralith:lush_valley</code><br>
+      <code>terralith:sakura_valley</code><br>
+      <code>terralith:lavender_valley</code><br>
+      <code>terralith:blooming_valley</code><br>
+      <code>terralith:moonlight_valley</code><br>
+      <code>wythers:savanna_slopes</code><br>
+      <code>wythers:thermal_taiga_crags</code><br>
+      <code>wythers:taiga_crags</code><br>
+      <code>wythers:autumnal_crags</code><br>
+      <code>wythers:old_growth_taiga_crags</code><br>
+      <code>wythers:temperate_rainforest_crags</code><br>
+      <code>wythers:icy_crags</code><br>
+      <code>wythers:tibesti_mountains</code><br>
+      <code>wythers:ayers_rock</code><br>
+      <code>wythers:windswept_jungle</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -125,7 +206,59 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Bouclier de la caverne | Au sol | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏔️ <strong>Montagnes, crags et hauts reliefs</strong></td>
+    <td>
+      <code>#cobblemon:is_highlands</code><br>
+      <code>#cobblemon:is_hills</code><br>
+      <code>#minecraft:is_mountain</code><br>
+      <code>#forge:is_mountain</code><br>
+      <code>#forge:is_slope</code><br>
+      <code>#c:mountain_slope</code><br>
+      <code>minecraft:is_hill</code><br>
+      <code>terralith:forested_highlands</code><br>
+      <code>terralith:temperate_highlands</code><br>
+      <code>terralith:windswept_spires</code><br>
+      <code>terralith:stony_spires</code><br>
+      <code>terralith:volcanic_peaks</code><br>
+      <code>terralith:yosemite_lowlands</code><br>
+      <code>terralith:yosemite_cliffs</code><br>
+      <code>terralith:savanna_slopes</code><br>
+      <code>terralith:lush_valley</code><br>
+      <code>terralith:sakura_valley</code><br>
+      <code>terralith:lavender_valley</code><br>
+      <code>terralith:blooming_valley</code><br>
+      <code>terralith:moonlight_valley</code><br>
+      <code>wythers:thermal_taiga_crags</code><br>
+      <code>wythers:taiga_crags</code><br>
+      <code>wythers:autumnal_crags</code><br>
+      <code>wythers:old_growth_taiga_crags</code><br>
+      <code>wythers:temperate_rainforest_crags</code><br>
+      <code>wythers:icy_crags</code><br>
+      <code>wythers:tibesti_mountains</code><br>
+      <code>wythers:ayers_rock</code><br>
+      <code>wythers:windswept_jungle</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -168,7 +301,59 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Lame des prairies | Au sol | XXX | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏔️ <strong>Montagnes, crags et hauts reliefs</strong></td>
+    <td>
+      <code>#cobblemon:is_highlands</code><br>
+      <code>#cobblemon:is_hills</code><br>
+      <code>#minecraft:is_mountain</code><br>
+      <code>#forge:is_mountain</code><br>
+      <code>#forge:is_slope</code><br>
+      <code>#c:mountain_slope</code><br>
+      <code>minecraft:is_hill</code><br>
+      <code>terralith:forested_highlands</code><br>
+      <code>terralith:temperate_highlands</code><br>
+      <code>terralith:windswept_spires</code><br>
+      <code>terralith:stony_spires</code><br>
+      <code>terralith:volcanic_peaks</code><br>
+      <code>terralith:yosemite_lowlands</code><br>
+      <code>terralith:yosemite_cliffs</code><br>
+      <code>terralith:savanna_slopes</code><br>
+      <code>terralith:lush_valley</code><br>
+      <code>terralith:sakura_valley</code><br>
+      <code>terralith:lavender_valley</code><br>
+      <code>terralith:blooming_valley</code><br>
+      <code>terralith:moonlight_valley</code><br>
+      <code>wythers:thermal_taiga_crags</code><br>
+      <code>wythers:taiga_crags</code><br>
+      <code>wythers:autumnal_crags</code><br>
+      <code>wythers:old_growth_taiga_crags</code><br>
+      <code>wythers:temperate_rainforest_crags</code><br>
+      <code>wythers:icy_crags</code><br>
+      <code>wythers:tibesti_mountains</code><br>
+      <code>wythers:ayers_rock</code><br>
+      <code>wythers:windswept_jungle</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -212,7 +397,33 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Miroir Sacré | Au sol | Orage actif | Ultra Rare | 50 - 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌴 <strong>Jungles et forêts tropicales</strong></td>
+    <td>
+      <code>minecraft:jungle</code><br>
+      <code>minecraft:bamboo_jungle</code><br>
+      <code>minecraft:jungle_edge</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -256,7 +467,45 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Miroir Sacré | Au sol | Orage actif | Ultra Rare | 50 - 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏜️ <strong>Badlands</strong></td>
+    <td>
+      <code>minecraft:badlands</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌿 <strong>Plaines</strong></td>
+    <td>
+      <code>minecraft:plains</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🏔️ <strong>Montagnes</strong></td>
+    <td>
+      <code>minecraft:mountains</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -298,7 +547,45 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Galet Blanc | Au sol | Luminosité : 8 - 15 | Ultra Rare | 60 - 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌻 <strong>Plaines ensoleillées</strong></td>
+    <td>
+      <code>minecraft:sunflower_plains</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🏜️ <strong>Désert</strong></td>
+    <td>
+      <code>minecraft:desert</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌾 <strong>Savane</strong></td>
+    <td>
+      <code>minecraft:savanna</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -341,7 +628,39 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Galet Noir | Au sol | Luminosité max : 7 | Ultra Rare | 60 - 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌲 <strong>Forêts sombres</strong></td>
+    <td>
+      <code>minecraft:dark_forest</code><br>
+      <code>minecraft:roofed_forest</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🪷 <strong>Marais</strong></td>
+    <td>
+      <code>minecraft:swamp</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -384,7 +703,42 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Pointeau ADN | Au sol | Aucune | Ultra Rare | 75 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌲 <strong>Forêts enneigées</strong></td>
+    <td>
+      <code>#cobblemon:is_snowy_forest</code><br>
+      <code>minecraft:snowy_taiga</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>❄️ <strong>Zones glacées et froid extrême</strong></td>
+    <td>
+      <code>#cobblemon:is_freezing</code><br>
+      <code>#cobblemon:is_glacial</code><br>
+      <code>minecraft:snowy_slopes</code><br>
+      <code>minecraft:frozen_peaks</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -427,7 +781,59 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Lame Sainte | Au sol | Auucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏔️ <strong>Montagnes, hauts plateaux et crags</strong></td>
+    <td>
+      <code>#cobblemon:is_highlands</code><br>
+      <code>#cobblemon:is_hills</code><br>
+      <code>#minecraft:is_mountain</code><br>
+      <code>#forge:is_mountain</code><br>
+      <code>#forge:is_slope</code><br>
+      <code>#c:mountain_slope</code><br>
+      <code>minecraft:is_hill</code><br>
+      <code>terralith:forested_highlands</code><br>
+      <code>terralith:temperate_highlands</code><br>
+      <code>terralith:windswept_spires</code><br>
+      <code>terralith:stony_spires</code><br>
+      <code>terralith:volcanic_peaks</code><br>
+      <code>terralith:yosemite_lowlands</code><br>
+      <code>terralith:yosemite_cliffs</code><br>
+      <code>terralith:savanna_slopes</code><br>
+      <code>terralith:lush_valley</code><br>
+      <code>terralith:sakura_valley</code><br>
+      <code>terralith:lavender_valley</code><br>
+      <code>terralith:blooming_valley</code><br>
+      <code>terralith:moonlight_valley</code><br>
+      <code>wythers:thermal_taiga_crags</code><br>
+      <code>wythers:taiga_crags</code><br>
+      <code>wythers:autumnal_crags</code><br>
+      <code>wythers:old_growth_taiga_crags</code><br>
+      <code>wythers:temperate_rainforest_crags</code><br>
+      <code>wythers:icy_crags</code><br>
+      <code>wythers:tibesti_mountains</code><br>
+      <code>wythers:ayers_rock</code><br>
+      <code>wythers:windswept_jungle</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -472,7 +878,56 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Casque de Meloetta | Au sol | Aucune | Ultra Rare | 50 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌸 <strong>Forêts florales et biomes fleuris</strong></td>
+    <td>
+      <code>#c:floral</code><br>
+      <code>#c:flower_forests</code><br>
+      <code>#byg:is_floral</code><br>
+      <code>minecraft:flower_forest</code><br>
+      <code>minecraft:cherry_grove</code><br>
+      <code>minecraft:meadow</code><br>
+      <code>minecraft:sunflower_plains</code><br>
+      <code>terralith:sakura_valley</code><br>
+      <code>terralith:lavender_valley</code><br>
+      <code>terralith:blooming_valley</code><br>
+      <code>terralith:blooming_plateau</code><br>
+      <code>terralith:sakura_grove</code><br>
+      <code>terralith:lavender_forest</code><br>
+      <code>wythers:autumnal_flower_forest</code><br>
+      <code>wythers:sakura_forest</code><br>
+      <code>wythers:spring_flower_fields</code><br>
+      <code>wythers:spring_flower_forest</code><br>
+      <code>wythers:flowering_pantanal</code><br>
+      <code>wythers:jacaranda_savanna</code><br>
+      <code>wythers:lapacho_plains</code><br>
+      <code>byg:allium_fields</code><br>
+      <code>byg:cherry_blossom_forest</code><br>
+      <code>byg:rose_fields</code><br>
+      <code>byg:amaranth_fields</code><br>
+      <code>byg:orchard</code><br>
+      <code>byg:skyris_vale</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -515,7 +970,36 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Module de Genesect | Au sol | Bloc de fer à proximité | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌌 <strong>End et dimensions extrêmes</strong></td>
+    <td>
+      <code>#cobblemon:is_deep_dark</code><br>
+      <code>minecraft:the_end</code><br>
+      <code>minecraft:end_highlands</code><br>
+      <code>minecraft:end_midlands</code><br>
+      <code>minecraft:end_barrens</code><br>
+      <code>minecraft:small_end_islands</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
