@@ -37,7 +37,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 📍 Localisation
 
-| 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
 | Livre Écarlate | Au sol | Aucune | Ultra Rare | 68 - 72 |
 
