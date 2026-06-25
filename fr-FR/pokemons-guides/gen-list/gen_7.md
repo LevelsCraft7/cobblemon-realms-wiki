@@ -112,7 +112,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Totem Tokorico | Au sol | Aucune | Ultra Rare | 60 |
+| Totem de Tokorico | Au sol | Aucune | Ultra Rare | 60 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
@@ -225,7 +225,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Totem Tokopiyon | Au sol | Aucune | Ultra Rare | 60 |
+| Totem de Tokopiyon | Au sol | Aucune | Ultra Rare | 60 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
@@ -337,7 +337,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Totem Tokotoro | Au sol | Aucune | Ultra Rare | 60 |
+| Totem de Tokotoro | Au sol | Aucune | Ultra Rare | 60 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
@@ -449,7 +449,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Totem Tokopisco | Au sol | Aucune | Ultra Rare | 60 |
+| Totem de Tokopisco | Au sol | Aucune | Ultra Rare | 60 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
@@ -1033,7 +1033,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Griffe foudroyante de Zeraora | Au sol | Aucune | Ultra Rare | 70 |
+| Griffe Foudroyante de Zeraora | Au sol | Aucune | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
