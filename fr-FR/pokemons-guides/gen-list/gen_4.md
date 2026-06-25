@@ -39,7 +39,50 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Aile de Créfollet | En surface | Aucune | Ultra Rare | 50 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🪷 <strong>Marais et zones humides</strong></td>
+    <td>
+      <code>#wythers:is_swamp</code><br>
+      <code>#c:swamp</code><br>
+      <code>#forge:is_swamp</code><br>
+      <code>#byg:is_swamp</code><br>
+      <code>minecraft:swamp</code><br>
+      <code>minecraft:mangrove_swamp</code><br>
+      <code>terralith:orchid_swamp</code><br>
+      <code>terralith:ice_marsh</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌊 <strong>Rivières et eaux douces</strong></td>
+    <td>
+      <code>#cobblemon:is_freshwater</code><br>
+      <code>#cobblemon:is_river</code><br>
+      <code>minecraft:river</code><br>
+      <code>wythers:billabong</code><br>
+      <code>wythers:lantern_river</code><br>
+      <code>wythers:tropical_forest_river</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -82,7 +125,50 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Croc de Créfadet | En surface | Aucune | Ultra Rare | 50 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🪷 <strong>Marais et zones humides</strong></td>
+    <td>
+      <code>#wythers:is_swamp</code><br>
+      <code>#c:swamp</code><br>
+      <code>#forge:is_swamp</code><br>
+      <code>#byg:is_swamp</code><br>
+      <code>minecraft:swamp</code><br>
+      <code>minecraft:mangrove_swamp</code><br>
+      <code>terralith:orchid_swampc</code><br>
+      <code>terralith:ice_marsh</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌊 <strong>Rivières et eaux douces</strong></td>
+    <td>
+      <code>#cobblemon:is_freshwater</code><br>
+      <code>#cobblemon:is_river</code><br>
+      <code>minecraft:river</code><br>
+      <code>wythers:billabong</code><br>
+      <code>wythers:lantern_river</code><br>
+      <code>wythers:tropical_forest_river</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -126,7 +212,35 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Orbe Adamant | Au sol | Aucune | Ultra Rare | 45 - 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏔️ <strong>Montagnes et hautes terres</strong></td>
+    <td>
+      <code>#cobblemon:is_mountain</code><br>
+      <code>#cobblemon:is_peak</code><br>
+      <code>#cobblemon:is_highlands</code><br>
+      <code>minecraft:stony_peaks</code><br>
+      <code>minecraft:mountain_edge</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -170,7 +284,37 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Orbe Perlé | Au sol | Aucune | Ultra Rare | 45 - 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌌 <strong>End et dimensions extrêmes</strong></td>
+    <td>
+      <code>#cobblemon:is_end</code><br>
+      <code>minecraft:the_end</code><br>
+      <code>minecraft:end_highlands</code><br>
+      <code>minecraft:end_midlands</code><br>
+      <code>minecraft:end_barrens</code><br>
+      <code>minecraft:small_end_islands</code><br>
+      <code>terralith:skylands_winter</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -214,7 +358,33 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Pierre Magma | Au sol | Aucune | Ultra Rare | 50 - 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🔥 <strong>Nether et zones infernales</strong></td>
+    <td>
+      <code>minecraft:nether_wastes</code><br>
+      <code>minecraft:basalt_deltas</code><br>
+      <code>minecraft:crimson_forest</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -257,7 +427,44 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Plaque Ancienne | Au sol | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌾 <strong>Savanes et zones sèches</strong></td>
+    <td>
+      <code>#cobblemon:is_savanna</code><br>
+      <code>#minecraft:is_savanna</code><br>
+      <code>minecraft:savanna_plateau</code><br>
+      <code>terralith:fractured_savanna</code><br>
+      <code>terralith:ashen_savanna</code><br>
+      <code>terralith:savanna_slopes</code><br>
+      <code>terralith:savanna_badlands</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌑 <strong>Zones sombres et ombragées</strong></td>
+    <td>
+      <code>#wythers:is_dark_forest</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -300,7 +507,41 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Orbe Platiné | Au sol | Aucune | Ultra Rare | 45 - 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🔥 <strong>Nether et zones infernales</strong></td>
+    <td>
+      <code>#cobblemon:is_nether</code><br>
+      <code>#cobblemon:is_nether_wasteland</code><br>
+      <code>#cobblemon:is_spooky</code><br>
+      <code>minecraft:soul_sand_valley</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌌 <strong>Dimensions extrêmes</strong></td>
+    <td>
+      <code>minecraft:the_end</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -343,7 +584,39 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Plume Lune | Au sol | 🌒 Lune 1 : premier croissant<br>Ciel ouvert et heure définie | Ultra Rare | 50 - 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🍄 <strong>Champs de champignons</strong></td>
+    <td>
+      <code>minecraft:mushroom_fields</code><br>
+      <code>minecraft:mushroom_field_shore</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>❄️ <strong>Zones froides</strong></td>
+    <td>
+      <code>minecraft:snowy_tundra</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -386,7 +659,41 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Carte Membre | Au sol | Aucune | Ultra Rare | 40 - 50 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌑 <strong>Zones sombres et inquiétantes</strong></td>
+    <td>
+      <code>#cobblemon:is_deep_dark</code><br>
+      <code>#cobblemon:is_spooky</code><br>
+      <code>#cobblemon:is_dark</code><br>
+      <code>minecraft:dark_forest</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🪷 <strong>Marais et zones humides</strong></td>
+    <td>
+      <code>minecraft:swamp</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -429,7 +736,41 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Lettre Chen | Au sol | Auucne | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌸 <strong>Champs floraux et vallées fleuries</strong></td>
+    <td>
+      <code>#cobblemon:is_floral</code><br>
+      <code>#cobblemon:is_grassland</code><br>
+      <code>#cobblemon:is_lush</code><br>
+      <code>minecraft:flower_forest</code><br>
+      <code>minecraft:meadow</code><br>
+      <code>minecraft:sunflower_plains</code><br>
+      <code>terralith:blooming_plateau</code><br>
+      <code>terralith:blooming_valley</code><br>
+      <code>terralith:sakura_grove</code><br>
+      <code>terralith:sakura_valley</code><br>
+      <code>terralith:lavender_valley</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -470,7 +811,72 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Flûte Azur | Au sol | Aucune | Ultra Rare | 80 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>✨ <strong>Biomes magiques et féériques</strong></td>
+    <td>
+      <code>#byg:is_magical</code><br>
+      <code>terralith:amethyst_rainforest</code><br>
+      <code>terralith:moonlight_grove</code><br>
+      <code>terralith:moonlight_valley</code><br>
+      <code>terralith:amethyst_canyon</code><br>
+      <code>byg:skyris_vale</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌌 <strong>End et dimensions extrêmes</strong></td>
+    <td>
+      <code>#cobblemon:is_end</code><br>
+      <code>minecraft:the_end</code><br>
+      <code>minecraft:end_highlands</code><br>
+      <code>minecraft:end_midlands</code><br>
+      <code>minecraft:end_barrens</code><br>
+      <code>minecraft:small_end_islands</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌑 <strong>Zones sombres et forestières</strong></td>
+    <td>
+      <code>minecraft:dark_forest</code><br>
+      <code>#wythers:is_dark_forest</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌿 <strong>Zones naturelles et mixtes</strong></td>
+    <td>
+      <code>terralith:mirage_isles</code><br>
+      <code>wythers:lantern_river</code><br>
+      <code>wythers:mushroom_island</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>❄️ <strong>Zones froides spécifiques</strong></td>
+    <td>
+      <code>wythers:snowy_thermal_taiga</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
