@@ -216,13 +216,49 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 ### 📍 Localisation
 
-<p align="center">
-🔥 Habitats : zones volcaniques et thermales, badlands et collines venteuses.
-</p>
-
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
 | Glas Tempête | Au sol | 3 Pierres Feu | Ultra Rare | 50 - 60 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🔥 <strong>Zones thermales et volcaniques</strong></td>
+    <td>
+      <code>#cobblemon:is_thermal</code><br>
+      <code>#cobblemon:is_volcanic</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>☁️ <strong>Cieux</strong></td>
+    <td>
+      <code>#cobblemon:is_sky</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🏜️ <strong>Badlands et collines ventées</strong></td>
+    <td>
+      <code>minecraft:windswept_hills</code><br>
+      <code>minecraft:badlands</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -265,13 +301,37 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 ### 📍 Localisation
 
-<p align="center">
-🌿 Habitats : jungles, jungles de bambou et zones luxuriantes.
-</p>
-
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
 | Vieillecarte | Au sol | Aucune | Ultra Rare | 30 - 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌿 <strong>Jungle et végétation luxuriante</strong></td>
+    <td>
+      <code>#cobblemon:is_jungle</code><br>
+      <code>#cobblemon:is_bamboo</code><br>
+      <code>#cobblemon:is_lush</code><br>
+      <code>minecraft:jungle</code><br>
+      <code>minecraft:bamboo_jungle</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -315,13 +375,44 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 ### 📍 Localisation
 
-<p align="center">
-🌑 Habitats : deep dark, grottes, forêts sombres et collines graveleuses venteuses.
-</p>
-
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
 | Journal du Dr Fuji | Au sol | Aucune | Ultra Rare | 70 - 75 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌑 <strong>Profondeurs et ténèbres</strong></td>
+    <td>
+      <code>#cobblemon:is_deep_dark</code><br>
+      <code>#cobblemon:is_cave</code><br>
+      <code>#cobblemon:is_spooky</code><br>
+      <code>minecraft:deep_dark</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌲 <strong>Forêts sombres et reliefs accidentés</strong></td>
+    <td>
+      <code>minecraft:dark_forest</code><br>
+      <code>minecraft:windswept_gravelly_hills</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
