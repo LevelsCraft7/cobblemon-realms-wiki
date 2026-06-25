@@ -38,9 +38,20 @@ D'anciens titans sommeillent sous les terres de Hoenn. Entre océans déchaîné
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| X | Plaque Roc / Tablette ancienne | Au sol | ⬇️ Niveau Y max : 63 | Ultra Rare | 70 |
+<details>
+<summary>📍 Tags de spawn</summary>
+
+<pre>
+minecraft:deep_dark
+#minecraft:village
+#cobblemon:is_deep_dark
+</pre>
+
+</details>
+
+| 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| :---: | :---: | :---: | :---: | :---: |
+| Plaque Roc / Tablette ancienne | Au sol | ⬇️ Niveau Y max : 63 | Ultra Rare | 70 |
 
 ---
 
@@ -84,9 +95,13 @@ D'anciens titans sommeillent sous les terres de Hoenn. Entre océans déchaîné
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+<p align="center">
+❄️ Habitats : biomes enneigés, toundras, taïgas, glaciers, océans gelés et sommets montagneux.
+</p>
+
+| 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| :---: | :---: | :---: | :---: | :---: |
+| Plaque Glace / Plaque Ancienne | Au sol | Aucune | Ultra Rare | 70 |
 
 ---
 
@@ -130,9 +145,11 @@ D'anciens titans sommeillent sous les terres de Hoenn. Entre océans déchaîné
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+
+
+| 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| :---: | :---: | :---: | :---: | :---: |
+| Tablette d'acier / Tablette Ancienne | Au sol | Proche d'un bloc de fer | Ultra Rare | 40 |
 
 ---
 
