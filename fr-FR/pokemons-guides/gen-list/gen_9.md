@@ -37,9 +37,51 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| :---: | :---: | :---: | :---: | :---: |
+| Livre Écarlate | Au sol | Aucune | Ultra Rare | 68 - 72 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌾 <strong>Savane</strong></td>
+    <td>
+      <code>minecraft:savanna</code><br>
+      <code>minecraft:savanna_plateau</code><br>
+      <code>#cobblemon:is_savanna</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🏔️ <strong>Plateaux et montagnes</strong></td>
+    <td>
+      <code>#cobblemon:is_plateau</code><br>
+      <code>#cobblemon:is_mountain</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🏜️ <strong>Zones arides</strong></td>
+    <td>
+      <code>minecraft:badlands</code><br>
+      <code>minecraft:eroded_badlands</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -82,7 +124,39 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Livre Violet | Au sol | Aucune | Ultra Rare | 68 - 72 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🕳️ <strong>Deep Dark</strong></td>
+    <td>
+      <code>#cobblemon:is_deep_dark</code><br>
+      <code>minecraft:deep_dark</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>⛰️ <strong>Collines venteuses</strong></td>
+    <td>
+      <code>minecraft:windswept_gravelly_hills</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -125,7 +199,45 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Masque Turquoise | Au sol | 🌒 Premier croissant de lune | Ultra Rare | 40 - 60 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌸 <strong>Zones florales</strong></td>
+    <td>
+      <code>#cobblemon:is_floral</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌴 <strong>Jungles</strong></td>
+    <td>
+      <code>#cobblemon:is_jungle</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🎋 <strong>Bambous</strong></td>
+    <td>
+      <code>#cobblemon:is_bamboo</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -168,7 +280,47 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Baie Pêcha Fabuleuse | Au sol | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🪷 <strong>Marais</strong></td>
+    <td>
+      <code>minecraft:swamp</code><br>
+      <code>minecraft:swamp_hut</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌲 <strong>Forêts sombres</strong></td>
+    <td>
+      <code>minecraft:dark_forest</code><br>
+      <code>minecraft:woodland_mansion</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>⚔️ <strong>Structures d’hostilité</strong></td>
+    <td>
+      <code>minecraft:pillager_outpost</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -211,7 +363,52 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Téra-Carapace | Au sol | Aucune | Ultra Rare | 75 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏔️ <strong>Montagnes</strong></td>
+    <td>
+      <code>#cobblemon:is_mountain</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌊 <strong>Rivières</strong></td>
+    <td>
+      <code>#cobblemon:is_river</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌴 <strong>Jungles</strong></td>
+    <td>
+      <code>#cobblemon:is_jungle</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>✨ <strong>Zones magiques</strong></td>
+    <td>
+      <code>#cobblemon:is_magical</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
