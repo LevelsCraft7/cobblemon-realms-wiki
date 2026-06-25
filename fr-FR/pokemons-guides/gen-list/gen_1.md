@@ -44,7 +44,6 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 <details>
 <summary>     ❄️ Tags de spawn     </summary>
-
 <div align="center">
 
 <table>
