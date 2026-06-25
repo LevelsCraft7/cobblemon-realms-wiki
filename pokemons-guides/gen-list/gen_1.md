@@ -16,7 +16,7 @@ At the heart of Kanto lie the earliest legends of the Pokémon world. From the e
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 90     |
 | ⚔️ Attack      | 85     |
@@ -107,7 +107,7 @@ At the heart of Kanto lie the earliest legends of the Pokémon world. From the e
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 90     |
 | ⚔️ Attack      | 90     |
@@ -190,7 +190,7 @@ At the heart of Kanto lie the earliest legends of the Pokémon world. From the e
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 90     |
 | ⚔️ Attack      | 100     |
@@ -274,7 +274,7 @@ At the heart of Kanto lie the earliest legends of the Pokémon world. From the e
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 100     |
 | ⚔️ Attack      | 100     |
@@ -345,7 +345,7 @@ At the heart of Kanto lie the earliest legends of the Pokémon world. From the e
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 106     |
 | ⚔️ Attaque      | 110     |
