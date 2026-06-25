@@ -40,14 +40,14 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Glas Tempête | Au sol | 3 Pierres Glace | Ultra Rare | 50 - 60t |
+| Glas Tempête | Au sol | 3 Pierres Glace | Ultra Rare | 50 - 60 |
+
+<div align="center">
+  <p><b>❄️ Tags de spawn</b></p>
+</div>
 
 <details>
-<summary>
-  <div style="text-align:center;">
-    ❄️ Tags de spawn
-  </div>
-</summary>
+<summary>Afficher / Masquer</summary>
 
 <div align="center">
 
