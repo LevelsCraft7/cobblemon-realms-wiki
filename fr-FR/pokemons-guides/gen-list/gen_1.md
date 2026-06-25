@@ -43,7 +43,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 | Glas Tempête | Au sol | 3 Pierres Glace | Ultra Rare | 50 - 60 |
 
 <details>
-<summary>❄️ <strong>Tags de spawn</strong></summary>
+<summary>📍 <strong>Tags de spawn</strong></summary>
 
 <div align="center">
 
@@ -131,15 +131,48 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 ### 📍 Localisation
 
-<p align="center">
-☀️ Habitats : cieux, montagnes, plaines et savanes.
-</p>
-
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
 | Glas Tempête | Au sol | 3 Pierres Foudre | Ultra Rare | 50 - 60 |
 
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
 
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌌 <strong>Cieux</strong></td>
+    <td>
+      <code>#cobblemon:is_sky</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🏔️ <strong>Montagnes</strong></td>
+    <td>
+      <code>#cobblemon:is_mountain</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌿 <strong>Plaines et savanes</strong></td>
+    <td>
+      <code>minecraft:plains</code><br>
+      <code>minecraft:savanna</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
