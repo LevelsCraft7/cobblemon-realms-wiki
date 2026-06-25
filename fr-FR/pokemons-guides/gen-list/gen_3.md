@@ -40,7 +40,7 @@ D'anciens titans sommeillent sous les terres de Hoenn. Entre océans déchaîné
 
 | 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
 | :---: | :---: | :---: | :---: | :---: |
-| Plaque Roc / Plaque Ancienne | Au sol | ⬇️ Niveau Y max : 63 | Ultra Rare | 70 |
+| Plaque Roc / Plaque Ancienne | Au sol | Hauteur max : 63 | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
