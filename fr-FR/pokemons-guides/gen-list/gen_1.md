@@ -45,16 +45,16 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 <details>
 <summary>❄️ <strong>Tags de spawn</strong></summary>
 
-<div>
+<div style="display:flex; justify-content:center;">
 
-<table style="width:100%; text-align:center;">
+<table>
   <tr>
-    <th style="text-align:center;">Catégorie</th>
-    <th style="text-align:center;">Tags</th>
+    <th>Catégorie</th>
+    <th>Tags</th>
   </tr>
 
   <tr>
-    <td style="text-align:center;">❄️ <strong>Cobblemon</strong></td>
+    <td>❄️ <strong>Cobblemon</strong></td>
     <td>
       <code>#cobblemon:is_snowy_forest</code><br>
       <code>#cobblemon:is_freezing</code><br>
@@ -65,7 +65,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
   </tr>
 
   <tr>
-    <td style="text-align:center;">🌨️ <strong>Biomes neigeux</strong></td>
+    <td>🌨️ <strong>Biomes neigeux</strong></td>
     <td>
       <code>minecraft:snowy_plains</code><br>
       <code>minecraft:snowy_slopes</code><br>
@@ -75,7 +75,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
   </tr>
 
   <tr>
-    <td style="text-align:center;">🧊 <strong>Zones gelées</strong></td>
+    <td>🧊 <strong>Zones gelées</strong></td>
     <td>
       <code>minecraft:frozen_river</code><br>
       <code>minecraft:frozen_ocean</code><br>
