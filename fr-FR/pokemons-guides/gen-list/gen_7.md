@@ -39,7 +39,36 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Masque de Type:0 | Au sol | Aucune | Ultra Rare | 60 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌌 <strong>End et dimensions extrêmes</strong></td>
+    <td>
+      <code>#cobblemon:is_deep_dark</code><br>
+      <code>minecraft:the_end</code><br>
+      <code>minecraft:end_highlands</code><br>
+      <code>minecraft:end_midlands</code><br>
+      <code>minecraft:end_barrens</code><br>
+      <code>minecraft:small_end_islands</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -83,7 +112,76 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Totem Tokorico | Au sol | Aucune | Ultra Rare | 60 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏝️ <strong>Îles et côtes tropicales</strong></td>
+    <td>
+      <code>wythers:tropical_island</code><br>
+      <code>wythers:temperate_island</code><br>
+      <code>wythers:mediterranean_island</code><br>
+      <code>wythers:frigid_island</code><br>
+      <code>wythers:cold_island</code><br>
+      <code>wythers:frozen_island</code><br>
+      <code>wythers:calcite_coast</code><br>
+      <code>wythers:gravelly_beach</code><br>
+      <code>wythers:warm_stony_shore</code><br>
+      <code>wythers:cold_stony_shore</code><br>
+      <code>wythers:icy_shore</code><br>
+      <code>wythers:deepslate_shore</code><br>
+      <code>minecraft:stony_shore</code><br>
+      <code>#cobblemon:is_beach</code><br>
+      <code>#c:stony_shores</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌴 <strong>Forêts tropicales et jungles</strong></td>
+    <td>
+      <code>#minecraft:is_jungle</code><br>
+      <code>wythers:tropical_forest</code><br>
+      <code>wythers:tropical_rainforest</code><br>
+      <code>wythers:highland_tropical_rainforest</code><br>
+      <code>wythers:subtropical_forest</code><br>
+      <code>wythers:subtropical_forest_edge</code><br>
+      <code>wythers:subtropical_grassland</code><br>
+      <code>wythers:humid_tropical_grassland</code><br>
+      <code>wythers:tropical_grassland</code><br>
+      <code>wythers:coastal_mangroves</code><br>
+      <code>wythers:eucalyptus_deanei_forest</code><br>
+      <code>wythers:dripleaf_swamp</code><br>
+      <code>terralith:cave/underground_jungle</code><br>
+      <code>wythers:jungle_canyon</code><br>
+      <code>wythers:tropical_forest_canyon</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🪨 <strong>Falaises et reliefs côtiers</strong></td>
+    <td>
+      <code>terralith:granite_cliffs</code><br>
+      <code>terralith:white_cliffs</code><br>
+      <code>terralith:basalt_cliffs</code><br>
+      <code>wythers:deepslate_shore</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -127,7 +225,75 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Totem Tokopiyon | Au sol | Aucune | Ultra Rare | 60 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏝️ <strong>Îles et côtes</strong></td>
+    <td>
+      <code>wythers:tropical_island</code><br>
+      <code>wythers:temperate_island</code><br>
+      <code>wythers:mediterranean_island</code><br>
+      <code>wythers:frigid_island</code><br>
+      <code>wythers:cold_island</code><br>
+      <code>wythers:frozen_island</code><br>
+      <code>wythers:calcite_coast</code><br>
+      <code>wythers:gravelly_beach</code><br>
+      <code>wythers:warm_stony_shore</code><br>
+      <code>wythers:cold_stony_shore</code><br>
+      <code>wythers:icy_shore</code><br>
+      <code>wythers:deepslate_shore</code><br>
+      <code>minecraft:stony_shore</code><br>
+      <code>#cobblemon:is_beach</code><br>
+      <code>#c:stony_shores</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌴 <strong>Forêts tropicales et jungles</strong></td>
+    <td>
+      <code>#minecraft:is_jungle</code><br>
+      <code>wythers:tropical_forest</code><br>
+      <code>wythers:tropical_rainforest</code><br>
+      <code>wythers:highland_tropical_rainforest</code><br>
+      <code>wythers:subtropical_forest</code><br>
+      <code>wythers:subtropical_forest_edge</code><br>
+      <code>wythers:subtropical_grassland</code><br>
+      <code>wythers:humid_tropical_grassland</code><br>
+      <code>wythers:tropical_grassland</code><br>
+      <code>wythers:coastal_mangroves</code><br>
+      <code>wythers:eucalyptus_deanei_forest</code><br>
+      <code>wythers:dripleaf_swamp</code><br>
+      <code>terralith:cave/underground_jungle</code><br>
+      <code>wythers:jungle_canyon</code><br>
+      <code>wythers:tropical_forest_canyon</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🪨 <strong>Falaises et reliefs</strong></td>
+    <td>
+      <code>terralith:granite_cliffs</code><br>
+      <code>terralith:white_cliffs</code><br>
+      <code>terralith:basalt_cliffs</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -171,7 +337,75 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Totem Tokotoro | Au sol | Aucune | Ultra Rare | 60 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏝️ <strong>Îles et côtes</strong></td>
+    <td>
+      <code>wythers:tropical_island</code><br>
+      <code>wythers:temperate_island</code><br>
+      <code>wythers:mediterranean_island</code><br>
+      <code>wythers:frigid_island</code><br>
+      <code>wythers:cold_island</code><br>
+      <code>wythers:frozen_island</code><br>
+      <code>wythers:calcite_coast</code><br>
+      <code>wythers:gravelly_beach</code><br>
+      <code>wythers:warm_stony_shore</code><br>
+      <code>wythers:cold_stony_shore</code><br>
+      <code>wythers:icy_shore</code><br>
+      <code>wythers:deepslate_shore</code><br>
+      <code>minecraft:stony_shore</code><br>
+      <code>#cobblemon:is_beach</code><br>
+      <code>#c:stony_shores</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌴 <strong>Forêts tropicales et jungles</strong></td>
+    <td>
+      <code>#minecraft:is_jungle</code><br>
+      <code>wythers:tropical_forest</code><br>
+      <code>wythers:tropical_rainforest</code><br>
+      <code>wythers:highland_tropical_rainforest</code><br>
+      <code>wythers:subtropical_forest</code><br>
+      <code>wythers:subtropical_forest_edge</code><br>
+      <code>wythers:subtropical_grassland</code><br>
+      <code>wythers:humid_tropical_grassland</code><br>
+      <code>wythers:tropical_grassland</code><br>
+      <code>wythers:coastal_mangroves</code><br>
+      <code>wythers:eucalyptus_deanei_forest</code><br>
+      <code>wythers:dripleaf_swamp</code><br>
+      <code>terralith:cave/underground_jungle</code><br>
+      <code>wythers:jungle_canyon</code><br>
+      <code>wythers:tropical_forest_canyon</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🪨 <strong>Falaises et reliefs</strong></td>
+    <td>
+      <code>terralith:granite_cliffs</code><br>
+      <code>terralith:white_cliffs</code><br>
+      <code>terralith:basalt_cliffs</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -215,7 +449,75 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Totem Tokopisco | Au sol | Aucune | Ultra Rare | 60 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏝️ <strong>Îles et côtes</strong></td>
+    <td>
+      <code>wythers:tropical_island</code><br>
+      <code>wythers:temperate_island</code><br>
+      <code>wythers:mediterranean_island</code><br>
+      <code>wythers:frigid_island</code><br>
+      <code>wythers:cold_island</code><br>
+      <code>wythers:frozen_island</code><br>
+      <code>wythers:calcite_coast</code><br>
+      <code>wythers:gravelly_beach</code><br>
+      <code>wythers:warm_stony_shore</code><br>
+      <code>wythers:cold_stony_shore</code><br>
+      <code>wythers:icy_shore</code><br>
+      <code>wythers:deepslate_shore</code><br>
+      <code>minecraft:stony_shore</code><br>
+      <code>#cobblemon:is_beach</code><br>
+      <code>#c:stony_shores</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌴 <strong>Forêts tropicales et jungles</strong></td>
+    <td>
+      <code>#minecraft:is_jungle</code><br>
+      <code>wythers:tropical_forest</code><br>
+      <code>wythers:tropical_rainforest</code><br>
+      <code>wythers:highland_tropical_rainforest</code><br>
+      <code>wythers:subtropical_forest</code><br>
+      <code>wythers:subtropical_forest_edge</code><br>
+      <code>wythers:subtropical_grassland</code><br>
+      <code>wythers:humid_tropical_grassland</code><br>
+      <code>wythers:tropical_grassland</code><br>
+      <code>wythers:coastal_mangroves</code><br>
+      <code>wythers:eucalyptus_deanei_forest</code><br>
+      <code>wythers:dripleaf_swamp</code><br>
+      <code>terralith:cave/underground_jungle</code><br>
+      <code>wythers:jungle_canyon</code><br>
+      <code>wythers:tropical_forest_canyon</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🪨 <strong>Falaises et reliefs</strong></td>
+    <td>
+      <code>terralith:granite_cliffs</code><br>
+      <code>terralith:white_cliffs</code><br>
+      <code>terralith:basalt_cliffs</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -258,7 +560,67 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Sac de Lillie | Au sol | Aucune | Ultra Rare | 15 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌸 <strong>Biomes floraux</strong></td>
+    <td>
+      <code>#c:floral</code><br>
+      <code>#c:flower_forests</code><br>
+      <code>#byg:is_floral</code><br>
+      <code>minecraft:flower_forest</code><br>
+      <code>minecraft:cherry_grove</code><br>
+      <code>minecraft:meadow</code><br>
+      <code>minecraft:sunflower_plains</code><br>
+      <code>terralith:sakura_valley</code><br>
+      <code>terralith:lavender_valley</code><br>
+      <code>terralith:blooming_valley</code><br>
+      <code>terralith:blooming_plateau</code><br>
+      <code>terralith:lavender_forest</code><br>
+      <code>terralith:sakura_grove</code><br>
+      <code>wythers:autumnal_flower_forest</code><br>
+      <code>wythers:sakura_forest</code><br>
+      <code>wythers:spring_flower_fields</code><br>
+      <code>wythers:spring_flower_forest</code><br>
+      <code>wythers:flowering_pantanal</code><br>
+      <code>wythers:jacaranda_savanna</code><br>
+      <code>wythers:lapacho_plains</code><br>
+      <code>byg:allium_fields</code><br>
+      <code>byg:cherry_blossom_forest</code><br>
+      <code>byg:rose_fields</code><br>
+      <code>byg:amaranth_fields</code><br>
+      <code>byg:orchard</code><br>
+      <code>byg:skyris_vale</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌌 <strong>End et dimensions extrêmes</strong></td>
+    <td>
+      <code>minecraft:the_end</code><br>
+      <code>minecraft:end_highlands</code><br>
+      <code>minecraft:end_midlands</code><br>
+      <code>minecraft:end_barrens</code><br>
+      <code>minecraft:small_end_islands</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -300,7 +662,33 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Flûte du Soleil | Au sol | En journée | Ultra Rare | 70 - 80 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏜️ <strong>Désert et plateaux arides</strong></td>
+    <td>
+      <code>#cobblemon:is_plateau</code><br>
+      <code>minecraft:desert</code><br>
+      <code>wythers:badlands_desert</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -343,7 +731,45 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Flûte de la Lune | Au sol | La nuit | Ultra Rare | 70 - 80 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏜️ <strong>Déserts altérés</strong></td>
+    <td>
+      <code>byg:warped_desert</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌲 <strong>Forêts sombres</strong></td>
+    <td>
+      <code>minecraft:dark_forest</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>⛰️ <strong>Collines et reliefs</strong></td>
+    <td>
+      <code>#cobblemon:is_hills</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -386,7 +812,36 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Prisme Nécro | Au sol | 3 Pierres Éclats | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌌 <strong>End et dimensions extrêmes</strong></td>
+    <td>
+      <code>#cobblemon:is_deep_dark</code><br>
+      <code>minecraft:the_end</code><br>
+      <code>minecraft:end_highlands</code><br>
+      <code>minecraft:end_midlands</code><br>
+      <code>minecraft:end_barrens</code><br>
+      <code>minecraft:small_end_islands</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -429,7 +884,36 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Poké Ball Antique - Animacœur | Au sol | Bloc de fer à proximité | Ultra Rare | 50 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌌 <strong>End et dimensions extrêmes</strong></td>
+    <td>
+      <code>#cobblemon:is_deep_dark</code><br>
+      <code>minecraft:the_end</code><br>
+      <code>minecraft:end_highlands</code><br>
+      <code>minecraft:end_midlands</code><br>
+      <code>minecraft:end_barrens</code><br>
+      <code>minecraft:small_end_islands</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -472,7 +956,41 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Capuchon de Marshadow | Au sol | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌑 <strong>Biomes sombres et inquiétants</strong></td>
+    <td>
+      <code>#cobblemon:is_spooky</code><br>
+      <code>#cobblemon:is_dark</code><br>
+      <code>#cobblemon:is_deep_dark</code><br>
+      <code>minecraft:dark_forest</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🪷 <strong>Marais</strong></td>
+    <td>
+      <code>minecraft:swamp</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -515,7 +1033,57 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Griffe foudroyante de Zeraora | Au sol | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌾 <strong>Savane et zones arides</strong></td>
+    <td>
+      <code>#minecraft:is_savanna</code><br>
+      <code>terralith:fractured_savanna</code><br>
+      <code>terralith:ashen_savanna</code><br>
+      <code>terralith:savanna_slopes</code><br>
+      <code>terralith:savanna_badlands</code><br>
+      <code>terralith:hot_shrubland</code><br>
+      <code>terralith:shrubland</code><br>
+      <code>terralith:brushland</code><br>
+      <code>terralith:arid_highlands</code><br>
+      <code>wythers:granite_canyon</code><br>
+      <code>wythers:jungle_canyon</code><br>
+      <code>wythers:tropical_forest_canyon</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🏜️ <strong>Déserts et oasis</strong></td>
+    <td>
+      <code>terralith:desert_oasis</code><br>
+      <code>terralith:red_oasis</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌴 <strong>Forêts tropicales</strong></td>
+    <td>
+      <code>wythers:tropical_forest</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -558,7 +1126,45 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Boîte Mystère | Au sol | Bloc de fer à proximité | Ultra Rare | 20 - 40 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏔️ <strong>Montagnes</strong></td>
+    <td>
+      <code>minecraft:mountains</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌲 <strong>Taïga</strong></td>
+    <td>
+      <code>minecraft:taiga</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>❄️ <strong>Taïga enneigée</strong></td>
+    <td>
+      <code>minecraft:snowy_taiga</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
