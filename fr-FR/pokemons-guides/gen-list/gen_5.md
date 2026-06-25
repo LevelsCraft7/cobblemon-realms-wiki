@@ -37,9 +37,9 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -47,8 +47,6 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 > Son corps produit une énergie sans limites qu'il peut partager avec ceux qu'il touche.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## ⚔️ Cobaltium
@@ -82,9 +80,9 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -92,8 +90,6 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 > Il possède un corps et un cœur de fer. Il peut mater les Pokémon les plus agressifs d'un simple regard.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🪨 Terrakium
@@ -127,9 +123,9 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -137,8 +133,6 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 > Sa puissance d'impact lui permet d'enfoncer d'un seul coup le rempart d'un château. Un Pokémon de légende.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🌿 Viridium
@@ -172,9 +166,9 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -182,8 +176,6 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 > Ses cornes sont des lames effilées. Il lacère ses ennemis dans un mouvement tourbillonnant.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🌪️ Boréas
@@ -218,9 +210,9 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -228,8 +220,6 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 > L'énergie dégagée par sa queue provoque d'énormes tempêtes dont la force peut renverser des maisons.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## ⚡ Fulguris
@@ -264,9 +254,9 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -274,8 +264,6 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 > Sa queue lance des décharges électriques. Il vole dans le ciel d'Unys et fait tomber des éclairs.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🤍 Reshiram
@@ -308,9 +296,9 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -318,8 +306,6 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 > Quand sa queue s'embrase, l'énergie thermique dégagée modifie l'atmosphère et bouleverse la météo du monde entier.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🖤 Zekrom
@@ -353,9 +339,9 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -363,8 +349,6 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 > Un Pokémon mythique. Il possède dans sa queue un énorme générateur qui produit de l'électricité.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## ❄️ Kyurem
@@ -398,9 +382,9 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -408,8 +392,6 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 > Il a le pouvoir de générer un souffle d'un froid inimaginable, mais a fini par se geler lui-même.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🦄 Keldeo
@@ -443,9 +425,9 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -488,9 +470,9 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -498,8 +480,6 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 > De nombreux succès musicaux ont été composés en s'inspirant des mélodies chantées par Meloetta.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🤖 Genesect
@@ -533,9 +513,9 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
