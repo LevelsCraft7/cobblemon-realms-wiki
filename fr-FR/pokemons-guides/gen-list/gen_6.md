@@ -39,7 +39,48 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Pousse de vie | Au sol | Aucune | Ultra Rare | 50 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌿 <strong>Forêts naturelles</strong></td>
+    <td>
+      <code>#cobblemon:is_forest</code><br>
+      <code>minecraft:forest</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌸 <strong>Forêts florales</strong></td>
+    <td>
+      <code>#cobblemon:is_floral</code><br>
+      <code>minecraft:flower_forest</code><br>
+      <code>minecraft:meadow</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>✨ <strong>Zones magiques</strong></td>
+    <td>
+      <code>#cobblemon:is_magical</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -82,7 +123,46 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Cocon de destruction | Au sol | Aucune | Ultra Rare | 50 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>❄️ <strong>Toundra</strong></td>
+    <td>
+      <code>#cobblemon:is_tundra</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌑 <strong>Forêts sombres et inquiétantes</strong></td>
+    <td>
+      <code>#cobblemon:is_spooky</code><br>
+      <code>minecraft:dark_forest</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🪷 <strong>Marais</strong></td>
+    <td>
+      <code>minecraft:swamp</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -126,7 +206,50 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Boîte Zygarde - Cellule de Zygarde - Noyau de Zygarde | Au sol | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌲 <strong>Forêts</strong></td>
+    <td>
+      <code>#cobblemon:is_forest</code><br>
+      <code>minecraft:forest</code><br>
+      <code>minecraft:birch_forest</code><br>
+      <code>minecraft:jungle</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🪷 <strong>Marais</strong></td>
+    <td>
+      <code>#cobblemon:is_swamp</code><br>
+      <code>minecraft:swamp</code><br>
+      <code>minecraft:mangrove_swamp</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🕳️ <strong>Cavernes et zones souterraines</strong></td>
+    <td>
+      <code>#cobblemon:is_cave</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -169,7 +292,44 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Couronne de Diancie | Au sol | Entre la hauteur 10 et -64 | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🕳️ <strong>Souterrains et cavernes</strong></td>
+    <td>
+      <code>#cobblemon:is_cave</code><br>
+      <code>#forge:is_underground</code><br>
+      <code>#c:underground</code><br>
+      <code>#c:caves</code><br>
+      <code>minecraft:lush_caves</code><br>
+      <code>minecraft:dripstone_caves</code><br>
+      <code>terralith:cave/andesite_caves</code><br>
+      <code>terralith:cave/granite_caves</code><br>
+      <code>terralith:cave/diorite_caves</code><br>
+      <code>terralith:cave/infested_caves</code><br>
+      <code>terralith:cave/thermal_caves</code><br>
+      <code>terralith:cave/underground_jungle</code><br>
+      <code>terralith:cave/desert_caves</code><br>
+      <code>terralith:cave/fungal_caves</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -212,7 +372,35 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Anneau de Hoopa - Prisme Nécro | Au sol | Aucune | Ultra Rare | 50 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌌 <strong>End et îles extrêmes</strong></td>
+    <td>
+      <code>minecraft:the_end</code><br>
+      <code>minecraft:end_highlands</code><br>
+      <code>minecraft:end_midlands</code><br>
+      <code>minecraft:end_barrens</code><br>
+      <code>minecraft:small_end_islands</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -255,7 +443,45 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Valve à vapeur | Au sol | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌋 <strong>Zones volcaniques</strong></td>
+    <td>
+      <code>#cobblemon:is_volcanic</code><br>
+      <code>wythers:volcano</code><br>
+      <code>wythers:icy_volcano</code><br>
+      <code>wythers:tropical_volcano</code><br>
+      <code>wythers:volcanic_chamber</code><br>
+      <code>wythers:volcanic_crater</code><br>
+      <code>terralith:volcanic_peaks</code><br>
+      <code>terralith:cave/mantle_caves</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🔥 <strong>Zones infernales</strong></td>
+    <td>
+      <code>minecraft:is_nether</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
