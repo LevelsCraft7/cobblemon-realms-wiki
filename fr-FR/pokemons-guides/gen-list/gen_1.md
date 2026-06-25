@@ -38,9 +38,32 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 ### 📍 Localisation
 
-<p align="center">
-❄️ Habitats : biomes enneigés, taïgas, glaciers, rivières et océans gelés.
-</p>
+<details>
+<summary>❄️ Habitats de spawn</summary>
+
+<pre>
+❄️ Biomes enneigés et froids
+- snowy_forest
+- snowy_plains
+- snowy_slopes
+- snowy_beach
+- snowy_taiga
+- frozen_river
+
+🧊 Glaces et biomes extrêmes
+- freezing
+- glacial
+- cold
+- frozen_peaks
+
+🌊 Océans gelés
+- frozen_ocean
+- frozen_ocean (tag Cobblemon)
+
+🏔️ Autres biomes froids
+- cold ocean
+</pre>
+</details>
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
