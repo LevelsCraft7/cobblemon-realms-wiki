@@ -96,7 +96,6 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 > Ce Pokémon oiseau légendaire peut provoquer des blizzards en gelant l'humidité de l'air.
 
 &#8203;
-&#8203;
 
 ## ⚡ Électhor
 
@@ -179,7 +178,6 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 > Un Pokémon légendaire qui vivrait dans les nuages orageux. Il contrôle la foudre.
 
-&#8203;
 &#8203;
 
 ## 🔥 Sulfura
@@ -265,7 +263,6 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 > L'un des Pokémon oiseaux légendaires. On dit que sa venue annonce l'arrivée du printemps.
 
 &#8203;
-&#8203;
 
 ## 🧬 Mew
 
@@ -336,7 +333,6 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 > Nombre de scientifiques voient en lui l'ancêtre des Pokémon car il peut utiliser toutes leurs capacités.
 
-&#8203;
 &#8203;
 
 ## 🧬 Mewtwo
