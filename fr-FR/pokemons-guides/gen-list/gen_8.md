@@ -39,7 +39,47 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Bouclier Rouillé | Au sol | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌲 <strong>Forêts</strong></td>
+    <td>
+      <code>#cobblemon:is_forest</code><br>
+      <code>minecraft:flower_forest</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌄 <strong>Hauteurs et plateaux</strong></td>
+    <td>
+      <code>#cobblemon:is_highlands</code><br>
+      <code>minecraft:meadow</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>✨ <strong>Zones magiques</strong></td>
+    <td>
+      <code>#cobblemon:is_magical</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -82,7 +122,47 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Épée Rouillée | Au sol | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏔️ <strong>Hauteurs et plateaux</strong></td>
+    <td>
+      <code>#cobblemon:is_highlands</code><br>
+      <code>#cobblemon:is_plateau</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌾 <strong>Savane</strong></td>
+    <td>
+      <code>#cobblemon:is_savanna</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌲 <strong>Forêts tempérées</strong></td>
+    <td>
+      <code>minecraft:windswept_forest</code><br>
+      <code>minecraft:taiga</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -125,7 +205,50 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Cœur d’Éthernatos | En surface | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🪷 <strong>Marais</strong></td>
+    <td>
+      <code>#wythers:is_swamp</code><br>
+      <code>#c:swamp</code><br>
+      <code>#forge:is_swamp</code><br>
+      <code>#byg:is_swamp</code><br>
+      <code>minecraft:swamp</code><br>
+      <code>minecraft:mangrove_swamp</code><br>
+      <code>wythers:billabong</code><br>
+      <code>terralith:ice_marsh</code><br>
+      <code>terralith:orchid_swampc</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌌 <strong>End et îles extrêmes</strong></td>
+    <td>
+      <code>minecraft:the_end</code><br>
+      <code>minecraft:end_highlands</code><br>
+      <code>minecraft:end_midlands</code><br>
+      <code>minecraft:end_barrens</code><br>
+      <code>minecraft:small_end_islands</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -168,7 +291,58 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Bande de Kungfu | Au sol | Aucune | Ultra Rare | 15 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🎋 <strong>Jungles et bambous</strong></td>
+    <td>
+      <code>#minecraft:is_jungle</code><br>
+      <code>#cobblemon:is_bamboo</code><br>
+      <code>wythers:sparse_bamboo_jungle</code><br>
+      <code>wythers:bamboo_jungle_canyon</code><br>
+      <code>wythers:bamboo_jungle_swamp</code><br>
+      <code>wythers:bamboo_swamp</code><br>
+      <code>wythers:bamboo_jungle_highlands</code><br>
+      <code>terralith:cave/underground_jungle</code><br>
+      <code>wythers:jungle_canyon</code><br>
+      <code>wythers:sandy_jungle</code><br>
+      <code>wythers:eucalyptus_deanei_forest</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌴 <strong>Forêts tropicales et subtropicales</strong></td>
+    <td>
+      <code>wythers:tropical_forest</code><br>
+      <code>wythers:tropical_rainforest</code><br>
+      <code>wythers:highland_tropical_rainforest</code><br>
+      <code>wythers:subtropical_forest</code><br>
+      <code>wythers:subtropical_forest_edge</code><br>
+      <code>wythers:subtropical_grassland</code><br>
+      <code>wythers:humid_tropical_grassland</code><br>
+      <code>wythers:tropical_grassland</code><br>
+      <code>wythers:tropical_island</code><br>
+      <code>wythers:dripleaf_swamp</code><br>
+      <code>wythers:sakura_forest</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -211,7 +385,45 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Cape de Zarude | Au sol | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌴 <strong>Jungles et forêts tropicales</strong></td>
+    <td>
+      <code>#minecraft:is_jungle</code><br>
+      <code>wythers:tropical_forest</code><br>
+      <code>wythers:tropical_rainforest</code><br>
+      <code>wythers:highland_tropical_rainforest</code><br>
+      <code>wythers:subtropical_forest</code><br>
+      <code>wythers:subtropical_forest_edge</code><br>
+      <code>wythers:subtropical_grassland</code><br>
+      <code>wythers:humid_tropical_grassland</code><br>
+      <code>wythers:tropical_grassland</code><br>
+      <code>wythers:tropical_island</code><br>
+      <code>wythers:eucalyptus_deanei_forest</code><br>
+      <code>wythers:dripleaf_swamp</code><br>
+      <code>terralith:cave/underground_jungle</code><br>
+      <code>wythers:jungle_canyon</code><br>
+      <code>wythers:tropical_forest_canyon</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -254,7 +466,31 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Plaque Plasma - Plaque Ancienne | Au sol | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🕳️ <strong>Profond souterrain</strong></td>
+    <td>
+      <code>#cobblemon:is_deep_dark</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -264,7 +500,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 &#8203;
 
-## 🐉 Regidrago
+## 🐉 Regidraco
 
 ### 🧾 Informations générales
 
@@ -296,7 +532,42 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Plaque Écailleuse - Plaque Ancienne | Au sol | Aucune | Ultra Rare | 40 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌌 <strong>End et îles extrêmes</strong></td>
+    <td>
+      <code>minecraft:the_end</code><br>
+      <code>minecraft:end_highlands</code><br>
+      <code>minecraft:end_midlands</code><br>
+      <code>minecraft:end_barrens</code><br>
+      <code>minecraft:small_end_islands</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🔥 <strong>Nether</strong></td>
+    <td>
+      <code>#minecraft:is_nether</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -339,7 +610,45 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Carotte Racine de Glace | Au sol | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>❄️ <strong>Zones enneigées</strong></td>
+    <td>
+      <code>#cobblemon:is_snowy_forest</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🏔️ <strong>Montagnes</strong></td>
+    <td>
+      <code>#cobblemon:is_mountain</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌲 <strong>Taïga</strong></td>
+    <td>
+      <code>#cobblemon:is_taiga</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -382,7 +691,46 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Carotte Spectre | Au sol | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌲 <strong>Forêts</strong></td>
+    <td>
+      <code>#cobblemon:is_forest</code><br>
+      <code>#cobblemon:is_dark_forest</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌑 <strong>Zones sombres et inquiétantes</strong></td>
+    <td>
+      <code>#cobblemon:is_spooky</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌿 <strong>Plaines</strong></td>
+    <td>
+      <code>#cobblemon:is_plains</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -425,7 +773,31 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Rênes de l'Unité | Au sol | Aucune | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌸 <strong>Forêt fleurie</strong></td>
+    <td>
+      <code>minecraft:flower_forest</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
@@ -469,7 +841,33 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | Ultra Rare | XXX |
+| Miroir Sacré | Au sol | Orage actif | Ultra Rare | 50 - 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌸 <strong>Biomes floraux</strong></td>
+    <td>
+      <code>minecraft:flower_forest</code><br>
+      <code>minecraft:meadow</code><br>
+      <code>minecraft:cherry_grove</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
 
 ---
 
