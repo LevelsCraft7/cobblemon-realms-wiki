@@ -42,18 +42,19 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 | :---: | :---: | :---: | :---: | :---: |
 | Glas Tempête | Au sol | 3 Pierres Glace | Ultra Rare | 50 - 60 |
 
-<details> <summary>❄️ <strong>Tags de spawn</strong></summary>
+<details>
+<summary>❄️ <strong>Tags de spawn</strong></summary>
 
 <div>
 
-<table>
+<table style="width:100%; text-align:center;">
   <tr>
-    <th>Catégorie</th>
-    <th>Tags</th>
+    <th style="text-align:center;">Catégorie</th>
+    <th style="text-align:center;">Tags</th>
   </tr>
 
   <tr>
-    <td>❄️ <strong>Cobblemon</strong></td>
+    <td style="text-align:center;">❄️ <strong>Cobblemon</strong></td>
     <td>
       <code>#cobblemon:is_snowy_forest</code><br>
       <code>#cobblemon:is_freezing</code><br>
@@ -64,7 +65,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
   </tr>
 
   <tr>
-    <td>🌨️ <strong>Biomes neigeux</strong></td>
+    <td style="text-align:center;">🌨️ <strong>Biomes neigeux</strong></td>
     <td>
       <code>minecraft:snowy_plains</code><br>
       <code>minecraft:snowy_slopes</code><br>
@@ -74,7 +75,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
   </tr>
 
   <tr>
-    <td>🧊 <strong>Zones gelées</strong></td>
+    <td style="text-align:center;">🧊 <strong>Zones gelées</strong></td>
     <td>
       <code>minecraft:frozen_river</code><br>
       <code>minecraft:frozen_ocean</code><br>
