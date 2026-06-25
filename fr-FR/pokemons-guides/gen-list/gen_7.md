@@ -37,9 +37,9 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition  | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -47,8 +47,6 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 > Ce Pokémon créé de toutes pièces porte un masque qui contient sa puissance et l’empêche de perdre le contrôle et de tout détruire.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## ⚡ Tokorico
@@ -83,9 +81,9 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -93,8 +91,6 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 > Il déstabilise ses ennemis avec sa vitesse ébouriffante. Il pique souvent des colères noires, mais il en oublie aussitôt la raison.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🌸 Tokopiyon
@@ -129,9 +125,9 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -139,8 +135,6 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 > Avec ses ailes délicates, il répand une poudre mystérieuse et lumineuse quand il vole. Il suffit de le toucher pour retrouver aussitôt le sourire.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🌿 Tokotoro
@@ -175,9 +169,9 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -185,8 +179,6 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 > C’est l’indolent gardien d’Ula-Ula. Il se sert de la végétation pour immobiliser ses ennemis, avant de les empaler avec ses cornes.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🌊 Tokopisco
@@ -221,9 +213,9 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -231,8 +223,6 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 > Gardien de Poni, il a le pouvoir de contrôler l’eau. On raconte qu’il peut produire une eau limpide qui nettoie toutes les impuretés.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 💫 Cosmog
@@ -266,9 +256,9 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -276,8 +266,6 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 > Son corps est composé d’un gaz très instable. Il se fait emporter par la moindre brise, mais n’a pas l’air de s’en soucier pour autant.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## ☀️ Solgaleo
@@ -310,9 +298,9 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -320,8 +308,6 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 > Lorsqu’il ouvre une Ultra-Brèche, il arrive que de l’énergie et des formes de vie d’autres mondes se retrouvent dans le nôtre.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🌙 Lunala
@@ -355,9 +341,9 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -365,8 +351,6 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 > Des documents extrêmement anciens le décrivent comme « celui qui invite la lune ».
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🖤 Necrozma
@@ -400,9 +384,9 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -410,8 +394,6 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 > Il semble souffrir dans sa recherche désespérée de lumière, sa source d’énergie. On pense qu’il vient d’un autre monde.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🤖 Magearna
@@ -445,9 +427,9 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -455,8 +437,6 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 > Il accède à la conscience des individus en se synchronisant avec eux. Cette faculté l’aide à prendre soin d’eux.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 👤 Marshadow
@@ -490,9 +470,9 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -500,8 +480,6 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 > En se glissant dans l’ombre de son adversaire, il peut copier ses mouvements et ses forces. C’est un Pokémon au caractère timide et craintif.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## ⚡ Zeraora
@@ -535,9 +513,9 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
@@ -545,8 +523,6 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 > Il prend l’ennemi par surprise en attaquant plus vite que l’éclair, et le débite en morceaux avec ses griffes acérées.
 
-&#8203;
-&#8203;
 &#8203;
 
 ## 🔩 Meltan
@@ -580,9 +556,9 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📍 Localisation
 
-| 🌍 Biomes | 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| XXX | XXX | XXX | XXX | Ultra Rare | XXX |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| XXX | XXX | XXX | Ultra Rare | XXX |
 
 ---
 
