@@ -223,8 +223,6 @@ D'anciens titans sommeillent sous les terres de Hoenn. Entre océans déchaîné
 > Ce Pokémon de l’ère glaciaire dont le corps est entièrement composé d’eau gelée serait né sous une épaisse couche de glace.
 
 &#8203;
-&#8203;
-&#8203;
 
 ## 🗿 Registeel
 
