@@ -291,7 +291,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Bande de Kungfu | Au sol | Aucune | Ultra Rare | 15 |
+| Bandeau de Wushours | Au sol | Aucune | Ultra Rare | 15 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
@@ -610,7 +610,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Carotte Racine de Glace | Au sol | Aucune | Ultra Rare | 70 |
+| Carotte Glaciale | Au sol | Aucune | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
@@ -691,7 +691,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Carotte Spectre | Au sol | Aucune | Ultra Rare | 70 |
+| Carotte Spectrale | Au sol | Aucune | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
