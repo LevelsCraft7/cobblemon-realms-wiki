@@ -111,7 +111,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Épée de Fer et de Volonté | Au sol | Aucune | Ultra Rare | 70 |
+| Épée de la Volonté de Fer | Au sol | Aucune | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
@@ -206,7 +206,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Bouclier de la caverne | Au sol | Aucune | Ultra Rare | 70 |
+| Bouclier de la Caverne | Au sol | Aucune | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
@@ -301,7 +301,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Lame des prairies | Au sol | XXX | Ultra Rare | 70 |
+| Lame des Prairies | Au sol | XXX | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
