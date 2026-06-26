@@ -781,7 +781,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Lame Sainte | Au sol | Auucune | Ultra Rare | 70 |
+| Lame Sainte | Au sol | Aucune | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
