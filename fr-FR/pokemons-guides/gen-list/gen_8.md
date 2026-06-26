@@ -500,7 +500,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 &#8203;
 
-## 🐉 Regidraco
+## 🐉 Regidrago
 
 ### 🧾 Informations générales
 
