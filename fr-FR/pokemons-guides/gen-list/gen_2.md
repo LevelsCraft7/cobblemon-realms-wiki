@@ -1,6 +1,6 @@
 # 🍃 Génération 2 - Johto
 
-### 📜 **Liste des invocations de la Première Génération**
+### 📜 **Liste des invocations de la Deuxième Génération**
 
 <p align="center">
 Les légendes de Johto racontent l'histoire de gardiens sacrés veillant sur l'équilibre du monde. Entre les fauves légendaires et les oiseaux divins, leur héritage traverse les âges.
