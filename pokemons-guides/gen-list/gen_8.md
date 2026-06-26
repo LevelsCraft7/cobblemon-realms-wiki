@@ -1,9 +1,9 @@
-# 👑 Génération 8 - Galar/Hisui
+# 👑 Generation 8 - Galar/Hisui
 
-### 📜 **Liste des invocations de la Première Génération**
+### 📜 **List of Generation VIII Summonsn**
 
 <p align="center">
-Les légendes de Galar racontent les exploits de héros oubliés et de puissants souverains. Dans les terres sauvages d'Hisui, d'anciennes créatures continuent également de faire parler d'elles.
+The legends of Galar tell of the exploits of forgotten heroes and powerful rulers. In the wild lands of Hisui, ancient creatures are also still spoken of.
 </p>
 
 ## ⚔️ Zacian
@@ -31,7 +31,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 🎯 Form Ability
 
-- **Ability:** Lame Indomptable
+- **Ability:** Intrepid Sword
 
 ---
 
@@ -39,7 +39,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Bouclier Rouillé | Grounded | None | Ultra Rare | 70 |
+| Rusted Sword | Grounded | None | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -53,7 +53,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>🌲 <strong>Forêts</strong></td>
+    <td>🌲 <strong>Forest</strong></td>
     <td>
       <code>#cobblemon:is_forest</code><br>
       <code>minecraft:flower_forest</code>
@@ -61,7 +61,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>🌄 <strong>Hauteurs et plateaux</strong></td>
+    <td>🌄 <strong>Heights and plateaus</strong></td>
     <td>
       <code>#cobblemon:is_highlands</code><br>
       <code>minecraft:meadow</code>
@@ -69,7 +69,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>✨ <strong>Zones magiques</strong></td>
+    <td>✨ <strong>Magical areas</strong></td>
     <td>
       <code>#cobblemon:is_magical</code>
     </td>
@@ -85,7 +85,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📜 Description
 
-> On dit qu’il s’agit de la figure fraternelle et du rival de Zamazenta, un Pokémon plongé dans un long sommeil.
+> It is said to be the fraternal figure and rival of Zamazenta, a Pokémon that has been in a long slumber.
 
 &#8203;
 
@@ -114,7 +114,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 🎯 Form Ability
 
-- **Ability:** Égide Inflexible
+- **Ability:** Dauntless Shield
 
 ---
 
@@ -122,7 +122,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Épée Rouillée | Grounded | None | Ultra Rare | 70 |
+| Rusted Shield | Grounded | None | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -136,7 +136,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>🏔️ <strong>Hauteurs et plateaux</strong></td>
+    <td>🏔️ <strong>Heights and plateaus</strong></td>
     <td>
       <code>#cobblemon:is_highlands</code><br>
       <code>#cobblemon:is_plateau</code>
@@ -144,14 +144,14 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>🌾 <strong>Savane</strong></td>
+    <td>🌾 <strong>Savanna</strong></td>
     <td>
       <code>#cobblemon:is_savanna</code>
     </td>
   </tr>
 
   <tr>
-    <td>🌲 <strong>Forêts tempérées</strong></td>
+    <td>🌲 <strong>Temperate forests</strong></td>
     <td>
       <code>minecraft:windswept_forest</code><br>
       <code>minecraft:taiga</code>
@@ -168,11 +168,11 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📜 Description
 
-> Ce Pokémon sauva autrefois Galar en joignant ses forces à celles du roi des Hommes. Il absorbe du métal quand il passe au combat.
+> This Pokémon once saved Galar by joining forces with the King of Humans. It absorbs metal when it enters battle.
 
 &#8203;
 
-## 🐉 Éthernatos
+## 🐉 Eternatus
 
 ### 🧾 General Information
 
@@ -191,13 +191,13 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 | 🌙 Sp. Defense | 95    |
 | ⚡ Speed       | 130     |
 
-![Éthernatos](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/eternatus.png) ![Éthernatos Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/eternatus_shiny.png)
+![Eternatus](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/eternatus.png) ![Eternatus Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/eternatus_shiny.png)
 
 ---
 
 ### 🎯 Form Ability
 
-- **Ability:** Pression
+- **Ability:** Pressure
 
 ---
 
@@ -205,7 +205,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Cœur d’Éthernatos | En surface | None | Ultra Rare | 70 |
+| Eternatus Core | Surface | None | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -219,7 +219,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>🪷 <strong>Marais</strong></td>
+    <td>🪷 <strong>Swamp</strong></td>
     <td>
       <code>#wythers:is_swamp</code><br>
       <code>#c:swamp</code><br>
@@ -234,7 +234,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>🌌 <strong>End et îles extrêmes</strong></td>
+    <td>🌌 <strong>The End and extreme islands</strong></td>
     <td>
       <code>minecraft:the_end</code><br>
       <code>minecraft:end_highlands</code><br>
@@ -254,11 +254,11 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📜 Description
 
-> Il se trouvait dans une météorite qui s’est écrasée il y a 20 000 ans. Il semble y avoir un lien entre ce Pokémon et le phénomène Dynamax.
+> It was found inside a meteorite that crashed 20,000 years ago. There appears to be a connection between this Pokémon and the Dynamax phenomenon.
 
 &#8203;
 
-## 🥋 Wushours
+## 🥋 Kubfu
 
 ### 🧾 General Information
 
@@ -277,13 +277,13 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 | 🌙 Sp. Defense | 50    |
 | ⚡ Speed       | 72     |
 
-![Wushours](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/kubfu.png) ![Wushours Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/kubfu_shiny.png)
+![Kubfu](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/kubfu.png) ![Kubfu Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/kubfu_shiny.png)
 
 ---
 
 ### 🎯 Form Ability
 
-- **Ability:** Attention
+- **Ability:** Inner Focus
 
 ---
 
@@ -291,7 +291,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Bandeau de Wushours | Grounded | None | Ultra Rare | 15 |
+| Kubfus Band | Grounded | None | Ultra Rare | 15 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -305,7 +305,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>🎋 <strong>Jungles et bambous</strong></td>
+    <td>🎋 <strong>Jungles and bamboo forests</strong></td>
     <td>
       <code>#minecraft:is_jungle</code><br>
       <code>#cobblemon:is_bamboo</code><br>
@@ -322,7 +322,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>🌴 <strong>Forêts tropicales et subtropicales</strong></td>
+    <td>🌴 <strong>Tropical and subtropical forests</strong></td>
     <td>
       <code>wythers:tropical_forest</code><br>
       <code>wythers:tropical_rainforest</code><br>
@@ -348,7 +348,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📜 Description
 
-> Il suit un entraînement rigoureux pour parfaire ses techniques. La forme de son évolution dépend des capacités qu’il a assimilées.
+> It follows rigorous training to perfect its techniques. Its evolution form depends on the abilities it has mastered.
 
 &#8203;
 
@@ -377,7 +377,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 🎯 Form Ability
 
-- **Ability:** Feuille Garde
+- **Ability:** Leaf Guard
 
 ---
 
@@ -385,7 +385,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Cape de Zarude | Grounded | None | Ultra Rare | 70 |
+| Zarudes Cape | Grounded | None | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -399,7 +399,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>🌴 <strong>Jungles et forêts tropicales</strong></td>
+    <td>🌴 <strong>Jungles and tropical forests</strong></td>
     <td>
       <code>#minecraft:is_jungle</code><br>
       <code>wythers:tropical_forest</code><br>
@@ -429,7 +429,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📜 Description
 
-> Lorsque ses lianes se détachent de son corps, elles fertilisent le sol et favorisent la croissance des plantes de la forêt.
+> When its vines detach from its body, they fertilize the soil and promote the growth of forest plants.
 
 &#8203;
 
@@ -466,7 +466,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Plaque Plasma - Plaque Ancienne | Grounded | None | Ultra Rare | 70 |
+| Plasma Tablet / Ancient Tablet | Grounded | None | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -480,7 +480,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>🕳️ <strong>Profond souterrain</strong></td>
+    <td>🕳️ <strong>Deep underground</strong></td>
     <td>
       <code>#cobblemon:is_deep_dark</code>
     </td>
@@ -496,11 +496,11 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📜 Description
 
-> Son corps est un véritable concentré d’énergie électrique. On raconte que si on lui retire ses anneaux, sa puissance cachée se libère.
+> Its body is a true concentration of electrical energy. It is said that if its rings are removed, its hidden power is unleashed.
 
 &#8203;
 
-## 🐉 Regidraco
+## 🐉 Regidrago
 
 ### 🧾 General Information
 
@@ -524,7 +524,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 🎯 Form Ability
 
-- **Ability:** Dent de Dragon
+- **Ability:** Dragon’s Maw
 
 ---
 
@@ -532,7 +532,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Plaque Écailleuse - Plaque Ancienne | Grounded | None | Ultra Rare | 40 |
+| Scaly Tablet  / Ancient Tablet | Grounded | None | Ultra Rare | 40 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -546,7 +546,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>🌌 <strong>End et îles extrêmes</strong></td>
+    <td>🌌 <strong>The End and extreme islands</strong></td>
     <td>
       <code>minecraft:the_end</code><br>
       <code>minecraft:end_highlands</code><br>
@@ -573,11 +573,11 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📜 Description
 
-> Une théorie stipule que ses bras ont la forme de la tête d’un Pokémon Dragon des temps anciens, mais None preuve ne l’atteste.
+> A theory suggests that its arms resemble the head of an ancient Dragon Pokémon, but no evidence supports this.
 
 &#8203;
 
-## ❄️ Blizzeval
+## ❄️ Glastrier
 
 ### 🧾 General Information
 
@@ -596,13 +596,13 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 | 🌙 Sp. Defense | 110    |
 | ⚡ Speed       | 30     |
 
-![Blizzeval](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/glastrier.png) ![Blizzeval Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/glastrier_shiny.png)
+![Glastrier](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/glastrier.png) ![Glastrier Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/glastrier_shiny.png)
 
 ---
 
 ### 🎯 Form Ability
 
-- **Ability:** Blanche Ruade
+- **Ability:** Chiling Neigh
 
 ---
 
@@ -610,7 +610,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Carotte Glaciale | Grounded | None | Ultra Rare | 70 |
+| Iceroot Carrot | Grounded | None | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -624,21 +624,21 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>❄️ <strong>Zones enneigées</strong></td>
+    <td>❄️ <strong>Snowy areas</strong></td>
     <td>
       <code>#cobblemon:is_snowy_forest</code>
     </td>
   </tr>
 
   <tr>
-    <td>🏔️ <strong>Montagnes</strong></td>
+    <td>🏔️ <strong>Mountain</strong></td>
     <td>
       <code>#cobblemon:is_mountain</code>
     </td>
   </tr>
 
   <tr>
-    <td>🌲 <strong>Taïga</strong></td>
+    <td>🌲 <strong>Taiga</strong></td>
     <td>
       <code>#cobblemon:is_taiga</code>
     </td>
@@ -654,11 +654,11 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📜 Description
 
-> Violent au point de s’emparer de tout ce qu’il désire par la force, ce Pokémon est capable de libérer un puissant air glacial de ses sabots.
+> Fierce and possessive to the point of taking anything it desires by force, this Pokémon can unleash a powerful freezing air from its hooves.
 
 &#8203;
 
-## 🌑 Spectreval
+## 🌑 Spectrier 
 
 ### 🧾 General Information
 
@@ -677,13 +677,13 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 | 🌙 Sp. Defense | 80    |
 | ⚡ Speed       | 130     |
 
-![Spectreval](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/spectrier.png) ![Spectreval Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/spectrier_shiny.png)
+![Spectrier](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/spectrier.png) ![Spectrier Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/spectrier_shiny.png)
 
 ---
 
 ### 🎯 Form Ability
 
-- **Ability:** Sombre Ruade
+- **Ability:** Grim Neigh
 
 ---
 
@@ -691,7 +691,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Carotte Spectrale | Grounded | None | Ultra Rare | 70 |
+| Shaderoot Carrot | Grounded | None | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -705,7 +705,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>🌲 <strong>Forêts</strong></td>
+    <td>🌲 <strong>Forest</strong></td>
     <td>
       <code>#cobblemon:is_forest</code><br>
       <code>#cobblemon:is_dark_forest</code>
@@ -713,14 +713,14 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>🌑 <strong>Zones sombres et inquiétantes</strong></td>
+    <td>🌑 <strong>Dark and unsettling areas</strong></td>
     <td>
       <code>#cobblemon:is_spooky</code>
     </td>
   </tr>
 
   <tr>
-    <td>🌿 <strong>Plaines</strong></td>
+    <td>🌿 <strong>Plains</strong></td>
     <td>
       <code>#cobblemon:is_plains</code>
     </td>
@@ -740,7 +740,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 &#8203;
 
-## 👑 Sylveroy
+## 👑 Calyrex
 
 ### 🧾 General Information
 
@@ -759,13 +759,13 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 | 🌙 Sp. Defense | 80    |
 | ⚡ Speed       | 80     |
 
-![Sylveroy](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/calyrex.png) ![Sylveroy Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/calyrex_shiny.png)
+![Calyrex](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/calyrex.png) ![Calyrex Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/calyrex_shiny.png)
 
 ---
 
 ### 🎯 Form Ability
 
-- **Ability:** Tension
+- **Ability:** Unnerve
 
 ---
 
@@ -773,7 +773,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Rênes de l'Unité | Grounded | None | Ultra Rare | 70 |
+| Reins Of Unity | Grounded | None | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -787,7 +787,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>🌸 <strong>Forêt fleurie</strong></td>
+    <td>🌸 <strong>Flowering forest</strong></td>
     <td>
       <code>minecraft:flower_forest</code>
     </td>
@@ -803,11 +803,11 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📜 Description
 
-> Ce roi légendaire qui a régné sur Galar il y a fort longtemps possède le pouvoir d’apaiser les cœurs et de faire germer les plantes.
+> This legendary king who once ruled Galar long ago possesses the power to calm hearts and make plants flourish.
 
 &#8203;
 
-## 💕 Amovénus
+## 💕 Enamorus
 
 ### 🧾 General Information
 
@@ -826,14 +826,14 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 | 🌙 Sp. Defense | 80    |
 | ⚡ Speed       | 106     |
 
-![Amovénus](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/enamorus.png) ![Amovénus Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/enamorus_shiny.png)
+![Enamorus](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/enamorus.png) ![Enamorus Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/enamorus_shiny.png)
 
 ---
 
 ### 🎯 Form Ability
 
-- **Ability:** Joli Sourire
-- **Hidden Ability: Contestation
+- **Ability:** Cute Charm
+- **Hidden Ability:** Contrary
 
 ---
 
@@ -841,7 +841,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Miroir Sacré | Grounded | Orage actif | Ultra Rare | 50 - 70 |
+| Reveal Glass | Grounded | Orage actif | Ultra Rare | 50 - 70 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -855,7 +855,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
   </tr>
 
   <tr>
-    <td>🌸 <strong>Biomes floraux</strong></td>
+    <td>🌸 <strong>Floral biomes</strong></td>
     <td>
       <code>minecraft:flower_forest</code><br>
       <code>minecraft:meadow</code><br>
@@ -873,14 +873,14 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 📜 Description
 
-> Son arrivée par les mers annonce la fin des hivers rigoureux. On raconte que c’est l’amour que ce Pokémon ressent qui fait bourgeonner de nouvelles vies dans la région de Hisui.
+> Its arrival by sea heralds the end of harsh winters. It is said that the love this Pokémon feels causes new life to bloom across the Hisui region.
 
 ---
 
 {% hint style="success" %}
-## Nous contactez
+## Contact Us
 
 <p align="center">
-Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
 </p>
 {% endhint %}
