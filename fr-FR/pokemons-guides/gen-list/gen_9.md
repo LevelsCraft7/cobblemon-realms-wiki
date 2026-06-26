@@ -1,6 +1,6 @@
 # 🎓 Génération 9 - Paldea/Kitakami
 
-### 📜 **Liste des invocations de la Première Génération**
+### 📜 **Liste des invocations de la Neuvième Génération**
 
 <p align="center">
 Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, de nouvelles légendes émergent. Certaines sont connues depuis des siècles, d'autres restent encore entourées de mystère.
