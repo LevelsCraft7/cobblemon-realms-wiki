@@ -1,6 +1,6 @@
-# ✨ Génération 6 - Kalos
+# ✨ Generation 6 - Kalos
 
-### 📜 **Liste des invocations de la Première Génération**
+### 📜 **Liste des invocations de la Sixième Génération**
 
 <p align="center">
 Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie ou d'apporter la destruction. Ces légendes sont liées à l'équilibre fragile du monde.
