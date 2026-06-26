@@ -1,9 +1,9 @@
-# 🎓 Génération 9 - Paldea/Kitakami
+# 🎓 Generation 9 - Paldea/Kitakami
 
-### 📜 **Liste des invocations de la Première Génération**
+### 📜 **List of Generation IX Summons**
 
 <p align="center">
-Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, de nouvelles légendes émergent. Certaines sont connues depuis des siècles, d'autres restent encore entourées de mystère.
+From the depths of Paldea’s Great Crater to the folk tales of Kitakami, new legends are emerging. Some have been known for centuries, while others remain shrouded in mystery.
 </p>
 
 ## 🦖 Koraidon
@@ -31,7 +31,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 🎯 Form Ability
 
-- **Ability:** Pouls Orichalque
+- **Ability:** Orichalcum Pulse
 
 ---
 
@@ -39,7 +39,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Livre Écarlate | Grounded | None | Ultra Rare | 68 - 72 |
+| Scarlet Book | Grounded | None | Ultra Rare | 68 - 72 |
 
 <details>
 <summary>📍 <strong>Spawn tags</strong></summary>
@@ -53,7 +53,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
   </tr>
 
   <tr>
-    <td>🌾 <strong>Savane</strong></td>
+    <td>🌾 <strong>Savanna</strong></td>
     <td>
       <code>minecraft:savanna</code><br>
       <code>minecraft:savanna_plateau</code><br>
@@ -62,7 +62,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
   </tr>
 
   <tr>
-    <td>🏔️ <strong>Plateaux et montagnes</strong></td>
+    <td>🏔️ <strong>Plateaus and mountains</strong></td>
     <td>
       <code>#cobblemon:is_plateau</code><br>
       <code>#cobblemon:is_mountain</code>
@@ -70,7 +70,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
   </tr>
 
   <tr>
-    <td>🏜️ <strong>Zones arides</strong></td>
+    <td>🏜️ <strong>Arid areas</strong></td>
     <td>
       <code>minecraft:badlands</code><br>
       <code>minecraft:eroded_badlands</code>
@@ -87,7 +87,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 📜 Description
 
-> Il s’agirait d’« Ailes-Royales », une créature qui, d’après un vieux récit d’exploration, aurait fendu la terre par la force de ses poings.
+> It is said to be “Royal Wings,” a creature described in an old exploration account that allegedly split the earth with the force of its fists.
 
 &#8203;
 
@@ -116,7 +116,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 🎯 Form Ability
 
-- **Ability:** Moteur à Hadrons
+- **Ability:** Hadron Engine
 
 ---
 
@@ -124,7 +124,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Livre Violet | Grounded | None | Ultra Rare | 68 - 72 |
+| Violet Book | Grounded | None | Ultra Rare | 68 - 72 |
 
 <details>
 <summary>📍 <strong>Spawn tags</strong></summary>
@@ -146,7 +146,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
   </tr>
 
   <tr>
-    <td>⛰️ <strong>Collines venteuses</strong></td>
+    <td>⛰️ <strong>Windy hills</strong></td>
     <td>
       <code>minecraft:windswept_gravelly_hills</code>
     </td>
@@ -162,7 +162,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 📜 Description
 
-> On manque d’informations à son sujet. Il ressemble à Motorizard, mais en bien plus fort et cruel.
+> Very little is known about it. It resembles Cyclizar, but is far stronger and more cruel.
 
 &#8203;
 
@@ -191,7 +191,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 🎯 Form Ability
 
-- **Ability:** Acharné
+- **Ability:** Defiant 
 
 ---
 
@@ -199,7 +199,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Le Masque Turquoise | Grounded | 🌒 Premier croissant de lune | Ultra Rare | 40 - 60 |
+| Teal Mask | Grounded | 🌒 Waxing crescent moon | Ultra Rare | 40 - 60 |
 
 <details>
 <summary>📍 <strong>Spawn tags</strong></summary>
@@ -213,7 +213,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
   </tr>
 
   <tr>
-    <td>🌸 <strong>Zones florales</strong></td>
+    <td>🌸 <strong>Floral areas</strong></td>
     <td>
       <code>#cobblemon:is_floral</code>
     </td>
@@ -227,7 +227,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
   </tr>
 
   <tr>
-    <td>🎋 <strong>Bambous</strong></td>
+    <td>🎋 <strong>Bamboo</strong></td>
     <td>
       <code>#cobblemon:is_bamboo</code>
     </td>
@@ -243,11 +243,11 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 📜 Description
 
-> Son type change selon le masque qu’il porte. Son agilité et ses coups de pied habiles lui permettent de malmener ses adversaires.
+> Its type changes depending on the mask it wears. Its agility and skillful kicks allow it to overwhelm its opponents.
 
 &#8203;
 
-## ☠️ Pêchaminus
+## ☠️ Pecharunt 
 
 ### 🧾 General Information
 
@@ -266,13 +266,13 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 | 🌙 Sp. Defense | 88    |
 | ⚡ Speed       | 88     |
 
-![Pêchaminus](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/pecharunt.png) ![Pêchaminus Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/pecharunt_shiny.png)
+![Pecharunt](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/pecharunt.png) ![Pecharunt Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/pecharunt_shiny.png)
 
 ---
 
 ### 🎯 Form Ability
 
-- **Ability:** Emprise Toxique
+- **Ability:** Poison Puppeteer
 
 ---
 
@@ -280,7 +280,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Baie Pêcha fabuleuse | Grounded | None | Ultra Rare | 70 |
+| Mythical Pecha Berry | Grounded | None | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Spawn tags</strong></summary>
@@ -294,7 +294,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
   </tr>
 
   <tr>
-    <td>🪷 <strong>Marais</strong></td>
+    <td>🪷 <strong>Swamp</strong></td>
     <td>
       <code>minecraft:swamp</code><br>
       <code>minecraft:swamp_hut</code>
@@ -302,7 +302,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
   </tr>
 
   <tr>
-    <td>🌲 <strong>Forêts sombres</strong></td>
+    <td>🌲 <strong>Dark forests</strong></td>
     <td>
       <code>minecraft:dark_forest</code><br>
       <code>minecraft:woodland_mansion</code>
@@ -310,7 +310,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
   </tr>
 
   <tr>
-    <td>⚔️ <strong>Structures d’hostilité</strong></td>
+    <td>⚔️ <strong>Hostile structures</strong></td>
     <td>
       <code>minecraft:pillager_outpost</code>
     </td>
@@ -326,7 +326,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 📜 Description
 
-> Il fait manger à sa cible un mochi empoisonné qui éveille les désirs et révèle le potentiel. Il la contrôle ensuite grâce à ses chaînes.
+> It forces its target to eat a poisoned mochi that awakens desires and reveals hidden potential. It then controls them using its chains.
 
 &#8203;
 
@@ -355,7 +355,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 🎯 Form Ability
 
-- **Ability:** Téramorphose
+- **Ability:** Tera Shift
 
 ---
 
@@ -363,7 +363,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Téra-Carapace | Grounded | None | Ultra Rare | 75 |
+| Prismatic Shell | Grounded | None | Ultra Rare | 75 |
 
 <details>
 <summary>📍 <strong>Spawn tags</strong></summary>
@@ -377,14 +377,14 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
   </tr>
 
   <tr>
-    <td>🏔️ <strong>Montagnes</strong></td>
+    <td>🏔️ <strong>Moutains</strong></td>
     <td>
       <code>#cobblemon:is_mountain</code>
     </td>
   </tr>
 
   <tr>
-    <td>🌊 <strong>Rivières</strong></td>
+    <td>🌊 <strong>Rivers</strong></td>
     <td>
       <code>#cobblemon:is_river</code>
     </td>
@@ -398,7 +398,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
   </tr>
 
   <tr>
-    <td>✨ <strong>Zones magiques</strong></td>
+    <td>✨ <strong>Magical areas</strong></td>
     <td>
       <code>#cobblemon:is_magical</code>
     </td>
@@ -414,14 +414,14 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 📜 Description
 
-> Il se protège en transformant de l’énergie en cristal solide. Ce Pokémon est à l’origine du phénomène de Téracristallisation.
+> It protects itself by converting energy into solid crystal. This Pokémon is the source of the Terastallization phenomenon.
 
 ---
 
 {% hint style="success" %}
-## Nous contactez
+## Contact Us
 
 <p align="center">
-Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
 </p>
 {% endhint %}
