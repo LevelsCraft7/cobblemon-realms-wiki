@@ -1,6 +1,6 @@
 # ❄️ Génération 4 - Sinnoh
 
-### 📜 **Liste des invocations de la Première Génération**
+### 📜 **Liste des invocations de la Quatrième Génération**
 
 <p align="center">
 Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace, antimatière et divinités ancestrales s'y croisent dans les récits les plus anciens.
