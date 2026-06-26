@@ -545,7 +545,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📍 Localisation
 
-| 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
 | Galet Blanc | Au sol | Luminosité : 8 - 15 | Ultra Rare | 60 - 70 |
 
