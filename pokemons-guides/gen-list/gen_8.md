@@ -841,7 +841,7 @@ The legends of Galar tell of the exploits of forgotten heroes and powerful ruler
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Reveal Glass | Grounded | Orage actif | Ultra Rare | 50 - 70 |
+| Reveal Glass | Grounded | Active thunderstorm | Ultra Rare | 50 - 70 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
