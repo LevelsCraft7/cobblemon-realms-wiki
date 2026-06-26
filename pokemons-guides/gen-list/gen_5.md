@@ -1,9 +1,9 @@
 # 🏙️ Generation 5 - Unys
 
-### 📜 **Liste des invocations de la Première Génération**
+### 📜 **List of Generation V Summons**
 
 <p align="center">
-Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs légendes évoquent des royaumes disparus, des dragons ancestraux et des convictions capables de changer le monde.
+The heroes of Unova were born from the meeting of ideals and truth. Their legends speak of lost kingdoms, ancient dragons, and convictions capable of changing the world.
 </p>
 
 ## ✌️ Victini
@@ -31,7 +31,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 🎯 Form Ability
 
-- **Ability:** Victorieux
+- **Ability:** Victory Star
 
 ---
 
@@ -39,10 +39,10 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Pass Liberté | Grounded | None | Ultra Rare | 70 - 100 |
+| Liberty Pass | Grounded | None | Ultra Rare | 70 - 100 |
 
 <details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
+<summary>📍 <strong>Spawn Tags</strong></summary>
 
 <div align="center">
 
@@ -53,7 +53,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
   </tr>
 
   <tr>
-    <td>🔥 <strong>Zones thermales et volcaniques</strong></td>
+    <td>🔥 <strong>Thermal and volcanic areas</strong></td>
     <td>
       <code>#cobblemon:is_thermal</code><br>
       <code>#cobblemon:is_volcanic</code><br>
@@ -74,11 +74,11 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📜 Description
 
-> Son corps produit une énergie sans limites qu'il peut partager avec ceux qu'il touche.
+> Its body produces limitless energy that it can share with those it touches.
 
 &#8203;
 
-## ⚔️ Cobaltium
+## ⚔️ Cobalion
 
 ### 🧾 General Information
 
@@ -103,7 +103,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 🎯 Form Ability
 
-- **Ability:** Cœur Noble
+- **Ability:** Justified
 
 ---
 
@@ -111,10 +111,10 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Épée de la Volonté de Fer | Grounded | None | Ultra Rare | 70 |
+| Ironwill Sword | Grounded | None | Ultra Rare | 70 |
 
 <details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
+<summary>📍 <strong>Spawn Tags</strong></summary>
 
 <div align="center">
 
@@ -125,7 +125,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
   </tr>
 
   <tr>
-    <td>🏔️ <strong>Montagnes, hauts plateaux et crags</strong></td>
+    <td>🏔️ <strong>Mountains, high plateaus and crags</strong></td>
     <td>
       <code>#cobblemon:is_highlands</code><br>
       <code>#cobblemon:is_hills</code><br>
@@ -169,11 +169,11 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📜 Description
 
-> Il possède un corps et un cœur de fer. Il peut mater les Pokémon les plus agressifs d'un simple regard.
+> It possesses a body and heart of iron. It can subdue even the most aggressive Pokémon with a single glance.
 
 &#8203;
 
-## 🪨 Terrakium
+## 🪨 Terrakion
 
 ### 🧾 General Information
 
@@ -192,13 +192,13 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 | 🌙 Sp. Defense | 90    |
 | ⚡ Speed       | 108     |
 
-![Terrakium](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/terrakion.png) ![Terrakium Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/terrakion_shiny.png)
+![Terrakion](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/terrakion.png) ![Terrakion Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/terrakion_shiny.png)
 
 ---
 
 ### 🎯 Form Ability
 
-- **Ability:**  Cœur Noble
+- **Ability:** Justified
 
 ---
 
@@ -206,10 +206,10 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Bouclier de la Caverne | Grounded | None | Ultra Rare | 70 |
+| Cavern Shield | Grounded | None | Ultra Rare | 70 |
 
 <details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
+<summary>📍 <strong>Spawn Tags</strong></summary>
 
 <div align="center">
 
@@ -220,7 +220,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
   </tr>
 
   <tr>
-    <td>🏔️ <strong>Montagnes, crags et hauts reliefs</strong></td>
+    <td>🏔️ <strong>Mountains, crags and high reliefs</strong></td>
     <td>
       <code>#cobblemon:is_highlands</code><br>
       <code>#cobblemon:is_hills</code><br>
@@ -264,11 +264,11 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📜 Description
 
-> Sa puissance d'impact lui permet d'enfoncer d'un seul coup le rempart d'un château. Un Pokémon de légende.
+> Its impact force allows it to smash through a castle wall in a single blow. A legendary Pokémon.
 
 &#8203;
 
-## 🌿 Viridium
+## 🌿 Virizion
 
 ### 🧾 General Information
 
@@ -287,13 +287,13 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 | 🌙 Sp. Defense | 129    |
 | ⚡ Speed       | 108     |
 
-![Viridium](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/virizion.png) ![Viridium Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/virizion_shiny.png)
+![Virizion](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/virizion.png) ![Virizion Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/virizion_shiny.png)
 
 ---
 
 ### 🎯 Form Ability
 
-- **Ability:** Cœur Noble
+- **Ability:** Justified
 
 ---
 
@@ -301,10 +301,10 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Lame des Prairies | Grounded | XXX | Ultra Rare | 70 |
+| Grassland Blade | Grounded | XXX | Ultra Rare | 70 |
 
 <details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
+<summary>📍 <strong>Spawn Tags</strong></summary>
 
 <div align="center">
 
@@ -315,7 +315,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
   </tr>
 
   <tr>
-    <td>🏔️ <strong>Montagnes, crags et hauts reliefs</strong></td>
+    <td>🏔️ <strong>Mountains, crags and highlands</strong></td>
     <td>
       <code>#cobblemon:is_highlands</code><br>
       <code>#cobblemon:is_hills</code><br>
@@ -359,11 +359,11 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📜 Description
 
-> Ses cornes sont des lames effilées. Il lacère ses ennemis dans un mouvement tourbillonnant.
+> Its horns are razor-sharp blades. It slashes its enemies in a swirling motion.
 
 &#8203;
 
-## 🌪️ Boréas
+## 🌪️ Tornadus
 
 ### 🧾 General Information
 
@@ -382,14 +382,14 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 | 🌙 Sp. Defense | 80    |
 | ⚡ Speed       | 111     |
 
-![Boréas](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/tornadus.png) ![Boréas Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/tornadus_shiny.png)
+![Tornadus](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/tornadus.png) ![Tornadus Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/tornadus_shiny.png)
 
 ---
 
 ### 🎯 Form Ability
 
-- **Ability:** Farceur
-- **Hidden Ability:** Acharné
+- **Ability:** Prankster
+- **Hidden Ability:** Defiant
 
 ---
 
@@ -397,10 +397,10 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Miroir Sacré | Grounded | Orage actif | Ultra Rare | 50 - 70 |
+| Reveal Glass | Grounded | Active thunderstorm | Ultra Rare | 50 - 70 |
 
 <details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
+<summary>📍 <strong>Spawn Tags</strong></summary>
 
 <div align="center">
 
@@ -411,7 +411,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
   </tr>
 
   <tr>
-    <td>🌴 <strong>Jungles et forêts tropicales</strong></td>
+    <td>🌴 <strong>Jungles and tropical forests</strong></td>
     <td>
       <code>minecraft:jungle</code><br>
       <code>minecraft:bamboo_jungle</code><br>
@@ -429,7 +429,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📜 Description
 
-> L'énergie dégagée par sa queue provoque d'énormes tempêtes dont la force peut renverser des maisons.
+> The energy released by its tail causes massive storms, powerful enough to knock down houses.
 
 &#8203;
 
@@ -458,8 +458,8 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 🎯 Form Ability
 
-- **Ability:** Farceur
-- **Hidden Ability:** Acharné
+- **Ability:** Prankster
+- **Hidden Ability:** Defiant
 
 ---
 
@@ -467,10 +467,10 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Miroir Sacré | Grounded | Orage actif | Ultra Rare | 50 - 70 |
+| Reveal Glass | Grounded | Active thunderstorm | Ultra Rare | 50 - 70 |
 
 <details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
+<summary>📍 <strong>Spawn Tags</strong></summary>
 
 <div align="center">
 
@@ -488,14 +488,14 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
   </tr>
 
   <tr>
-    <td>🌿 <strong>Plaines</strong></td>
+    <td>🌿 <strong>Plains</strong></td>
     <td>
       <code>minecraft:plains</code>
     </td>
   </tr>
 
   <tr>
-    <td>🏔️ <strong>Montagnes</strong></td>
+    <td>🏔️ <strong>Mountains</strong></td>
     <td>
       <code>minecraft:mountains</code>
     </td>
@@ -511,7 +511,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📜 Description
 
-> Sa queue lance des décharges électriques. Il vole dans le ciel d'Unys et fait tomber des éclairs.
+> Its tail fires electric discharges. It flies through the skies of Unova, summoning bolts of lightning.
 
 &#8203;
 
@@ -545,12 +545,12 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📍 Location
 
-| 🔔 Objet requis | 📍 Apparition | 🎯 Conditions d'invocation | ⭐ Rareté | 📈 Niveau |
+| 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Galet Blanc | Grounded | Luminosité : 8 - 15 | Ultra Rare | 60 - 70 |
+| Light Stone | Grounded | Brightness : 8 - 15 | Ultra Rare | 60 - 70 |
 
 <details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
+<summary>📍 <strong>Spawn Tags</strong></summary>
 
 <div align="center">
 
@@ -561,21 +561,21 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
   </tr>
 
   <tr>
-    <td>🌻 <strong>Plaines ensoleillées</strong></td>
+    <td>🌻 <strong>Sunny plains</strong></td>
     <td>
       <code>minecraft:sunflower_plains</code>
     </td>
   </tr>
 
   <tr>
-    <td>🏜️ <strong>Désert</strong></td>
+    <td>🏜️ <strong>Desert</strong></td>
     <td>
       <code>minecraft:desert</code>
     </td>
   </tr>
 
   <tr>
-    <td>🌾 <strong>Savane</strong></td>
+    <td>🌾 <strong>Savanna</strong></td>
     <td>
       <code>minecraft:savanna</code>
     </td>
@@ -591,7 +591,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📜 Description
 
-> Quand sa queue s'embrase, l'énergie thermique dégagée modifie l'atmosphère et bouleverse la météo du monde entier.
+> When its tail ignites, the released thermal energy alters the atmosphere and disrupts the weather across the entire world.
 
 &#8203;
 
@@ -620,7 +620,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 🎯 Form Ability
 
-- **Ability:** Téra-Voltage
+- **Ability:** Teravolt
 
 ---
 
@@ -628,10 +628,10 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Galet Noir | Grounded | Luminosité max : 7 | Ultra Rare | 60 - 70 |
+| Dark Stone | Grounded | Brightness max : 7 | Ultra Rare | 60 - 70 |
 
 <details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
+<summary>📍 <strong>Spawn Tags</strong></summary>
 
 <div align="center">
 
@@ -642,7 +642,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
   </tr>
 
   <tr>
-    <td>🌲 <strong>Forêts sombres</strong></td>
+    <td>🌲 <strong>Dark forests</strong></td>
     <td>
       <code>minecraft:dark_forest</code><br>
       <code>minecraft:roofed_forest</code>
@@ -650,7 +650,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
   </tr>
 
   <tr>
-    <td>🪷 <strong>Marais</strong></td>
+    <td>🪷 <strong>Swamp</strong></td>
     <td>
       <code>minecraft:swamp</code>
     </td>
@@ -666,7 +666,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📜 Description
 
-> Un Pokémon mythique. Il possède dans sa queue un énorme générateur qui produit de l'électricité.
+> A Mythical Pokémon. It has a massive generator in its tail that produces electricity.
 
 &#8203;
 
@@ -695,7 +695,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 🎯 Form Ability
 
-- **Ability:** Pression
+- **Ability:** Pressure
 
 ---
 
@@ -703,10 +703,10 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Pointeau ADN | Grounded | None | Ultra Rare | 75 |
+| Dna Splicer | Grounded | None | Ultra Rare | 75 |
 
 <details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
+<summary>📍 <strong>Spawn Tags</strong></summary>
 
 <div align="center">
 
@@ -717,7 +717,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
   </tr>
 
   <tr>
-    <td>🌲 <strong>Forêts enneigées</strong></td>
+    <td>🌲 <strong>Snowy forests</strong></td>
     <td>
       <code>#cobblemon:is_snowy_forest</code><br>
       <code>minecraft:snowy_taiga</code>
@@ -725,7 +725,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
   </tr>
 
   <tr>
-    <td>❄️ <strong>Zones glacées et froid extrême</strong></td>
+    <td>❄️ <strong>Icy areas and extreme cold</strong></td>
     <td>
       <code>#cobblemon:is_freezing</code><br>
       <code>#cobblemon:is_glacial</code><br>
@@ -744,7 +744,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📜 Description
 
-> Il a le pouvoir de générer un souffle d'un froid inimaginable, mais a fini par se geler lui-même.
+> It has the power to generate an unimaginably cold breath, but ultimately froze itself.
 
 &#8203;
 
@@ -773,7 +773,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 🎯 Form Ability
 
-- **Ability:** Cœur Noble
+- **Ability:** Justified
 
 ---
 
@@ -781,10 +781,10 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Lame Sainte | Grounded | Auucune | Ultra Rare | 70 |
+| Sacred Sword | Grounded | None | Ultra Rare | 70 |
 
 <details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
+<summary>📍 <strong>Spawn Tags</strong></summary>
 
 <div align="center">
 
@@ -795,7 +795,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
   </tr>
 
   <tr>
-    <td>🏔️ <strong>Montagnes, hauts plateaux et crags</strong></td>
+    <td>🏔️ <strong>Mountains, high plateaus and crags</strong></td>
     <td>
       <code>#cobblemon:is_highlands</code><br>
       <code>#cobblemon:is_hills</code><br>
@@ -839,7 +839,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📜 Description
 
-> Il parcourt le monde en courant à la surface des mers et des cours d'eau. Il apparaît là où l'eau est très pure.
+> It travels the world by running across the surface of seas and rivers. It appears wherever the water is pure.
 
 &#8203;
 &#8203;
@@ -870,7 +870,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 🎯 Form Ability
 
-- **Ability:** Sérénité
+- **Ability:** Serene Grace
 
 ---
 
@@ -878,10 +878,10 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Casque de Meloetta | Grounded | None | Ultra Rare | 50 |
+| Meloetta Headset | Grounded | None | Ultra Rare | 50 |
 
 <details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
+<summary>📍 <strong>Spawn Tags</strong></summary>
 
 <div align="center">
 
@@ -892,7 +892,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
   </tr>
 
   <tr>
-    <td>🌸 <strong>Forêts florales et biomes fleuris</strong></td>
+    <td>🌸 <strong>Floral forests and flowered biomes</strong></td>
     <td>
       <code>#c:floral</code><br>
       <code>#c:flower_forests</code><br>
@@ -933,7 +933,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📜 Description
 
-> De nombreux succès musicaux ont été composés en s'inspirant des mélodies chantées par Meloetta.
+> Many musical hits have been composed by drawing inspiration from the melodies sung by Meloetta.
 
 &#8203;
 
@@ -962,7 +962,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 🎯 Form Ability
 
-- **Ability:** Télécharge
+- **Ability:** Download
 
 ---
 
@@ -970,10 +970,10 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Module de Genesect | Grounded | Bloc de fer à proximité | Ultra Rare | 70 |
+| Genesect Drive | Grounded | Iron block nearby | Ultra Rare | 70 |
 
 <details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
+<summary>📍 <strong>Spawn Tags</strong></summary>
 
 <div align="center">
 
@@ -984,7 +984,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
   </tr>
 
   <tr>
-    <td>🌌 <strong>End et dimensions extrêmes</strong></td>
+    <td>🌌 <strong>The End and extreme dimensions</strong></td>
     <td>
       <code>#cobblemon:is_deep_dark</code><br>
       <code>minecraft:the_end</code><br>
@@ -1005,7 +1005,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 📜 Description
 
-> Un Pokémon Insecte des temps anciens modifié par la Team Plasma. Le canon dans son dos a été grandement amélioré.
+> An ancient Bug-type Pokémon modified by Team Plasma. The cannon on its back has been greatly enhanced.
 
 ---
 
