@@ -27,7 +27,7 @@
 
 ## Myths and Legends
 
-- [🌟 Legendary items and biomes](pokemons-guides/myths-and-legends-legendaries.md)
+- [🌟 Generation 1 to 9](pokemons-guides/myths-and-legends-legendaries.md)
    - [🌿 Generation 1 - Kanto](pokemons-guides/gen-list/gen_1.md)
    - [🍃 Generation 2 - Johto](pokemons-guides/gen-list/gen_2.md)
    - [🌊 Generation 3 - Hoenn](pokemons-guides/gen-list/gen_3.md)
