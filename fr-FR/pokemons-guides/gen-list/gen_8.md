@@ -1,6 +1,6 @@
 # 👑 Génération 8 - Galar/Hisui
 
-### 📜 **Liste des invocations de la Première Génération**
+### 📜 **Liste des invocations de la Huitième Génération**
 
 <p align="center">
 Les légendes de Galar racontent les exploits de héros oubliés et de puissants souverains. Dans les terres sauvages d'Hisui, d'anciennes créatures continuent également de faire parler d'elles.
