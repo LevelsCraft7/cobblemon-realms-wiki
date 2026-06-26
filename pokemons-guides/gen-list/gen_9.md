@@ -1,25 +1,427 @@
-# 🎓 Generation 9 - Paldea/Kitakami
+# 🎓 Génération 9 - Paldea/Kitakami
 
-### 📜 **Ninth Generation Summon List**
+### 📜 **Liste des invocations de la Première Génération**
 
 <p align="center">
-From the depths of the Great Crater of Paldea to the folk tales of Kitakami, new legends emerge. Some have been known for centuries, while others remain shrouded in mystery.
+Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, de nouvelles légendes émergent. Certaines sont connues depuis des siècles, d'autres restent encore entourées de mystère.
 </p>
 
-| 🎓 Pokémon | 📦 Required Item | ⚙️ Required Conditions | 🧭 Location |
-|:----------:|:----------:|:----------:|:----------:|
-| ![](https://play.pokemonshowdown.com/sprites/ani/koraidon.gif)<br>**Koraidon** | Scarlet Book | None | Badlands, Eroded Badlands, Savanna, Savanna Plateau |
-| ![](https://play.pokemonshowdown.com/sprites/home/miraidon.png)<br>**Miraidon** | Violet Book | None | Deep Dark, Windswept Gravelly Hills |
-| ![](https://play.pokemonshowdown.com/sprites/home/ogerpon.png)<br>**Ogerpon** | Teal Mask | 🌙 Waning Gibbous Moon | Bamboo, Floral, Jungle |
-| ![](https://play.pokemonshowdown.com/sprites/home/pecharunt.png)<br>**Pecharunt** | Mythical Pecha Berry | None | Dark Forest, Swamp, Pillager structures |
-| ![](https://play.pokemonshowdown.com/sprites/home/terapagos.png)<br>**Terapagos** | Prismatic Shell | None | Jungle, Mountain, River, Magical biomes |
+## 🦖 Koraidon
+
+### 🧾 General Information
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_combat.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_dragon.png)
+
+---
+
+### 📊 Statistics
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 100     |
+| ⚔️ Attack      | 135     |
+| 🛡️ Defense     | 115    |
+| ✨ Sp. Attack  | 85    |
+| 🌙 Sp. Defense | 100    |
+| ⚡ Speed       | 135     |
+
+![Koraidon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/koraidon.png) ![Koraidon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/koraidon_shiny.png)
+
+---
+
+### 🎯 Form Ability
+
+- **Ability:** Pouls Orichalque
+
+---
+
+### 📍 Location
+
+| 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
+| :---: | :---: | :---: | :---: | :---: |
+| Livre Écarlate | Grounded | None | Ultra Rare | 68 - 72 |
+
+<details>
+<summary>📍 <strong>Spawn tags</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌾 <strong>Savane</strong></td>
+    <td>
+      <code>minecraft:savanna</code><br>
+      <code>minecraft:savanna_plateau</code><br>
+      <code>#cobblemon:is_savanna</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🏔️ <strong>Plateaux et montagnes</strong></td>
+    <td>
+      <code>#cobblemon:is_plateau</code><br>
+      <code>#cobblemon:is_mountain</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🏜️ <strong>Zones arides</strong></td>
+    <td>
+      <code>minecraft:badlands</code><br>
+      <code>minecraft:eroded_badlands</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
+
+---
+
+### 📜 Description
+
+> Il s’agirait d’« Ailes-Royales », une créature qui, d’après un vieux récit d’exploration, aurait fendu la terre par la force de ses poings.
+
+&#8203;
+
+## 🤖 Miraidon
+
+### 🧾 General Information
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_electrique.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_dragon.png)
+
+---
+
+### 📊 Statistics
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 100     |
+| ⚔️ Attack      | 85     |
+| 🛡️ Defense     | 100    |
+| ✨ Sp. Attack  | 135    |
+| 🌙 Sp. Defense | 115    |
+| ⚡ Speed       | 135     |
+
+![Miraidon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/miraidon.png) ![Miraidon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/miraidon_shiny.png)
+
+---
+
+### 🎯 Form Ability
+
+- **Ability:** Moteur à Hadrons
+
+---
+
+### 📍 Location
+
+| 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
+| :---: | :---: | :---: | :---: | :---: |
+| Livre Violet | Grounded | None | Ultra Rare | 68 - 72 |
+
+<details>
+<summary>📍 <strong>Spawn tags</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🕳️ <strong>Deep Dark</strong></td>
+    <td>
+      <code>#cobblemon:is_deep_dark</code><br>
+      <code>minecraft:deep_dark</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>⛰️ <strong>Collines venteuses</strong></td>
+    <td>
+      <code>minecraft:windswept_gravelly_hills</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
+
+---
+
+### 📜 Description
+
+> On manque d’informations à son sujet. Il ressemble à Motorizard, mais en bien plus fort et cruel.
+
+&#8203;
+
+## 🎭 Ogerpon
+
+### 🧾 General Information
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_plante.png)
+
+---
+
+### 📊 Statistics
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 80     |
+| ⚔️ Attack      | 120     |
+| 🛡️ Defense     | 84    |
+| ✨ Sp. Attack  | 60    |
+| 🌙 Sp. Defense | 96    |
+| ⚡ Speed       | 110     |
+
+![Ogerpon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/ogerpon.png) ![Ogerpon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/ogerpon_shiny.png)
+
+---
+
+### 🎯 Form Ability
+
+- **Ability:** Acharné
+
+---
+
+### 📍 Location
+
+| 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
+| :---: | :---: | :---: | :---: | :---: |
+| Le Masque Turquoise | Grounded | 🌒 Premier croissant de lune | Ultra Rare | 40 - 60 |
+
+<details>
+<summary>📍 <strong>Spawn tags</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌸 <strong>Zones florales</strong></td>
+    <td>
+      <code>#cobblemon:is_floral</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌴 <strong>Jungles</strong></td>
+    <td>
+      <code>#cobblemon:is_jungle</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🎋 <strong>Bambous</strong></td>
+    <td>
+      <code>#cobblemon:is_bamboo</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
+
+---
+
+### 📜 Description
+
+> Son type change selon le masque qu’il porte. Son agilité et ses coups de pied habiles lui permettent de malmener ses adversaires.
+
+&#8203;
+
+## ☠️ Pêchaminus
+
+### 🧾 General Information
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_poison.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_spectre.png)
+
+---
+
+### 📊 Statistics
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 88     |
+| ⚔️ Attack      | 88     |
+| 🛡️ Defense     | 160    |
+| ✨ Sp. Attack  | 88    |
+| 🌙 Sp. Defense | 88    |
+| ⚡ Speed       | 88     |
+
+![Pêchaminus](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/pecharunt.png) ![Pêchaminus Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/pecharunt_shiny.png)
+
+---
+
+### 🎯 Form Ability
+
+- **Ability:** Emprise Toxique
+
+---
+
+### 📍 Location
+
+| 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
+| :---: | :---: | :---: | :---: | :---: |
+| Baie Pêcha fabuleuse | Grounded | None | Ultra Rare | 70 |
+
+<details>
+<summary>📍 <strong>Spawn tags</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🪷 <strong>Marais</strong></td>
+    <td>
+      <code>minecraft:swamp</code><br>
+      <code>minecraft:swamp_hut</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌲 <strong>Forêts sombres</strong></td>
+    <td>
+      <code>minecraft:dark_forest</code><br>
+      <code>minecraft:woodland_mansion</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>⚔️ <strong>Structures d’hostilité</strong></td>
+    <td>
+      <code>minecraft:pillager_outpost</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
+
+---
+
+### 📜 Description
+
+> Il fait manger à sa cible un mochi empoisonné qui éveille les désirs et révèle le potentiel. Il la contrôle ensuite grâce à ses chaînes.
+
+&#8203;
+
+## 🌌 Terapagos
+
+### 🧾 General Information
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_normal.png)
+
+---
+
+### 📊 Statistics
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 90     |
+| ⚔️ Attack      | 65     |
+| 🛡️ Defense     | 85    |
+| ✨ Sp. Attack  | 65    |
+| 🌙 Sp. Defense | 85    |
+| ⚡ Speed       | 60     |
+
+![Terapagos](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/terapagos.png) ![Terapagos Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/terapagos_shiny.png)
+
+---
+
+### 🎯 Form Ability
+
+- **Ability:** Téramorphose
+
+---
+
+### 📍 Location
+
+| 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
+| :---: | :---: | :---: | :---: | :---: |
+| Téra-Carapace | Grounded | None | Ultra Rare | 75 |
+
+<details>
+<summary>📍 <strong>Spawn tags</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🏔️ <strong>Montagnes</strong></td>
+    <td>
+      <code>#cobblemon:is_mountain</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌊 <strong>Rivières</strong></td>
+    <td>
+      <code>#cobblemon:is_river</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌴 <strong>Jungles</strong></td>
+    <td>
+      <code>#cobblemon:is_jungle</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>✨ <strong>Zones magiques</strong></td>
+    <td>
+      <code>#cobblemon:is_magical</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
+
+---
+
+### 📜 Description
+
+> Il se protège en transformant de l’énergie en cristal solide. Ce Pokémon est à l’origine du phénomène de Téracristallisation.
 
 ---
 
 {% hint style="success" %}
-## Contact Us
+## Nous contactez
 
 <p align="center">
-If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
 </p>
 {% endhint %}
