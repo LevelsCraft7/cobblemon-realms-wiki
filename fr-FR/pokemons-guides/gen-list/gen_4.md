@@ -736,7 +736,7 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 | 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
 | :---: | :---: | :---: | :---: | :---: |
-| Lettre Chen | Au sol | Auucne | Ultra Rare | 70 |
+| Lettre Chen | Au sol | Aucune | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Tags de spawn</strong></summary>
