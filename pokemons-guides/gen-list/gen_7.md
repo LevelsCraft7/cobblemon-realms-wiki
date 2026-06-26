@@ -1,9 +1,9 @@
-# 🏝️ Génération 7 - Alola
+# 🏝️ Generation 7 - Alola
 
-### 📜 **Liste des invocations de la Première Génération**
+### 📜 **List of Generation VII Summons**
 
 <p align="center">
-Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues d'autres dimensions. Leurs histoires mêlent traditions ancestrales et mystères cosmiques.
+In the Alola islands, protective guardians coexist with creatures from other dimensions. Their stories blend ancient traditions with cosmic mysteries.
 </p>
 
 ## 🛡️ Type:0
@@ -31,7 +31,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 🎯 Form Ability
 
-- **Ability:** Armurbaston
+- **Ability:** Battle Armor
 
 ---
 
@@ -39,7 +39,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Masque de Type:0 | Grounded | None | Ultra Rare | 60 |
+| Type:Null Mask | Grounded | None | Ultra Rare | 60 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -53,7 +53,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🌌 <strong>End et dimensions extrêmes</strong></td>
+    <td>🌌 <strong>The End and extreme dimensions</strong></td>
     <td>
       <code>#cobblemon:is_deep_dark</code><br>
       <code>minecraft:the_end</code><br>
@@ -74,11 +74,11 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📜 Description
 
-> Ce Pokémon créé de toutes pièces porte un masque qui contient sa puissance et l’empêche de perdre le contrôle et de tout détruire.
+> This artificially created Pokémon wears a mask that contains its power and prevents it from losing control and destroying everything.
 
 &#8203;
 
-## ⚡ Tokorico
+## ⚡ Tapu Koko
 
 ### 🧾 General Information
 
@@ -97,14 +97,14 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 | 🌙 Sp. Defense | 75    |
 | ⚡ Speed       | 130     |
 
-![Tokorico](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapukoko.png) ![Tokorico Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapukoko_shiny.png)
+![Tapu Koko](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapukoko.png) ![Tapu Koko Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapukoko_shiny.png)
 
 ---
 
 ### 🎯 Form Ability
 
-- **Ability:** Télépathe
-- **Hidden Ability:** Créa-Élec
+- **Ability:** Telepathy
+- **Hidden Ability:** Electric Surge
 
 ---
 
@@ -112,7 +112,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Totem de Tokorico | Grounded | None | Ultra Rare | 60 |
+| Koko Totem | Grounded | None | Ultra Rare | 60 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -126,7 +126,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🏝️ <strong>Îles et côtes tropicales</strong></td>
+    <td>🏝️ <strong>Tropical islands and coasts</strong></td>
     <td>
       <code>wythers:tropical_island</code><br>
       <code>wythers:temperate_island</code><br>
@@ -147,7 +147,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🌴 <strong>Forêts tropicales et jungles</strong></td>
+    <td>🌴 <strong>Tropical forests and jungles</strong></td>
     <td>
       <code>#minecraft:is_jungle</code><br>
       <code>wythers:tropical_forest</code><br>
@@ -168,7 +168,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🪨 <strong>Falaises et reliefs côtiers</strong></td>
+    <td>🪨 <strong>Cliffs and coastal landscapes</strong></td>
     <td>
       <code>terralith:granite_cliffs</code><br>
       <code>terralith:white_cliffs</code><br>
@@ -187,11 +187,11 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📜 Description
 
-> Il déstabilise ses ennemis avec sa Speed ébouriffante. Il pique souvent des colères noires, mais il en oublie aussitôt la raison.
+> It unsettles its enemies with its dazzling Speed. It often flies into black rages, but immediately forgets the reason.
 
 &#8203;
 
-## 🌸 Tokopiyon
+## 🌸 Tapu Lele
 
 ### 🧾 General Information
 
@@ -210,7 +210,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 | 🌙 Sp. Defense | 115    |
 | ⚡ Speed       | 95     |
 
-![Tokopiyon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapulele.png) ![Tokopiyon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapulele_shiny.png)
+![Tapu Lele](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapulele.png) ![Tapu Lele Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapulele_shiny.png)
 
 ---
 
@@ -225,7 +225,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Totem de Tokopiyon | Grounded | None | Ultra Rare | 60 |
+| Lele Totem | Grounded | None | Ultra Rare | 60 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -239,7 +239,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🏝️ <strong>Îles et côtes</strong></td>
+    <td>🏝️ <strong>Islands and coasts</strong></td>
     <td>
       <code>wythers:tropical_island</code><br>
       <code>wythers:temperate_island</code><br>
@@ -260,7 +260,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🌴 <strong>Forêts tropicales et jungles</strong></td>
+    <td>🌴 <strong>Tropical forests and jungles</strong></td>
     <td>
       <code>#minecraft:is_jungle</code><br>
       <code>wythers:tropical_forest</code><br>
@@ -281,7 +281,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🪨 <strong>Falaises et reliefs</strong></td>
+    <td>🪨 <strong>Cliffs and rugged terrain</strong></td>
     <td>
       <code>terralith:granite_cliffs</code><br>
       <code>terralith:white_cliffs</code><br>
@@ -299,11 +299,11 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📜 Description
 
-> Avec ses ailes délicates, il répand une poudre mystérieuse et lumineuse quand il vole. Il suffit de le toucher pour retrouver aussitôt le sourire.
+> With its delicate wings, it scatters a mysterious luminous powder when it flies. Simply touching it is enough to instantly regain a smile.
 
 &#8203;
 
-## 🌿 Tokotoro
+## 🌿 Tapu Bulu
 
 ### 🧾 General Information
 
@@ -322,14 +322,14 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 | 🌙 Sp. Defense | 95    |
 | ⚡ Speed       | 75     |
 
-![Tokotoro](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapubulu.png) ![Tokotoro Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapubulu_shiny.png)
+![Tapu Bulu](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapubulu.png) ![Tapu Bulu Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapubulu_shiny.png)
 
 ---
 
 ### 🎯 Form Ability
 
-- **Ability:** Télépathe
-- **Hidden Ability:** Créa-Herbe
+- **Ability:** Telepathy
+- **Hidden Ability:** Grassy Surge
 
 ---
 
@@ -337,7 +337,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Totem de Tokotoro | Grounded | None | Ultra Rare | 60 |
+| Bulu Totem | Grounded | None | Ultra Rare | 60 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -351,7 +351,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🏝️ <strong>Îles et côtes</strong></td>
+    <td>🏝️ <strong>Islands and coasts</strong></td>
     <td>
       <code>wythers:tropical_island</code><br>
       <code>wythers:temperate_island</code><br>
@@ -372,7 +372,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🌴 <strong>Forêts tropicales et jungles</strong></td>
+    <td>🌴 <strong>Islands and coasts</strong></td>
     <td>
       <code>#minecraft:is_jungle</code><br>
       <code>wythers:tropical_forest</code><br>
@@ -393,7 +393,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🪨 <strong>Falaises et reliefs</strong></td>
+    <td>🪨 <strong>Cliffs and rugged terrain</strong></td>
     <td>
       <code>terralith:granite_cliffs</code><br>
       <code>terralith:white_cliffs</code><br>
@@ -411,11 +411,11 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📜 Description
 
-> C’est l’indolent gardien d’Ula-Ula. Il se sert de la végétation pour immobiliser ses ennemis, avant de les empaler avec ses cornes.
+> It is the lazy guardian of Ula’ula. It uses vegetation to immobilize its enemies before impaling them with its horns.
 
 &#8203;
 
-## 🌊 Tokopisco
+## 🌊 Tapu Fini
 
 ### 🧾 General Information
 
@@ -434,14 +434,14 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 | 🌙 Sp. Defense | 130    |
 | ⚡ Speed       | 85     |
 
-![Tokopisco](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapufini.png) ![Tokopisco Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapufini_shiny.png)
+![Tapu Fini](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapufini.png) ![Tapu Fini Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/tapufini_shiny.png)
 
 ---
 
 ### 🎯 Form Ability
 
-- **Ability:** Télépathie
-- **Hidden Ability:** Créa-Brume
+- **Ability:** Telepathy
+- **Hidden Ability:** Misty Surge
 
 ---
 
@@ -449,7 +449,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Totem de Tokopisco | Grounded | None | Ultra Rare | 60 |
+| Fini Totem | Grounded | None | Ultra Rare | 60 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -463,7 +463,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🏝️ <strong>Îles et côtes</strong></td>
+    <td>🏝️ <strong>Islands and coasts</strong></td>
     <td>
       <code>wythers:tropical_island</code><br>
       <code>wythers:temperate_island</code><br>
@@ -484,7 +484,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🌴 <strong>Forêts tropicales et jungles</strong></td>
+    <td>🌴 <strong>Tropical forests and jungles</strong></td>
     <td>
       <code>#minecraft:is_jungle</code><br>
       <code>wythers:tropical_forest</code><br>
@@ -505,7 +505,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🪨 <strong>Falaises et reliefs</strong></td>
+    <td>🪨 <strong>Cliffs and rugged terrain</strong></td>
     <td>
       <code>terralith:granite_cliffs</code><br>
       <code>terralith:white_cliffs</code><br>
@@ -523,7 +523,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📜 Description
 
-> Gardien de Poni, il a le pouvoir de contrôler l’eau. On raconte qu’il peut produire une eau limpide qui nettoie toutes les impuretés.
+> Guardian of Poni, it has the power to control water. It is said to be able to produce pure water that cleanses all impurities.
 
 &#8203;
 
@@ -552,7 +552,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 🎯 Form Ability
 
-- **Ability:** Inconscient
+- **Ability:** Unaware
 
 ---
 
@@ -560,7 +560,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Sac de Lillie | Grounded | None | Ultra Rare | 15 |
+| Lillies Bag | Grounded | None | Ultra Rare | 15 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -574,7 +574,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🌸 <strong>Biomes floraux</strong></td>
+    <td>🌸 <strong>Floral biomes</strong></td>
     <td>
       <code>#c:floral</code><br>
       <code>#c:flower_forests</code><br>
@@ -606,7 +606,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🌌 <strong>End et dimensions extrêmes</strong></td>
+    <td>🌌 <strong>The End and extreme dimensions</strong></td>
     <td>
       <code>minecraft:the_end</code><br>
       <code>minecraft:end_highlands</code><br>
@@ -626,7 +626,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📜 Description
 
-> Son corps est composé d’un gaz très instable. Il se fait emporter par la moindre brise, mais n’a pas l’air de s’en soucier pour autant.
+> Its body is made of a highly unstable gas. It is blown away by the slightest breeze, but it does not seem to care.
 
 &#8203;
 
@@ -654,7 +654,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 🎯 Form Ability
 
-- **Ability:** Métallo-Garde
+- **Ability:** Full Metal Body
 
 ---
 
@@ -662,7 +662,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Flûte du Soleil | Grounded | En journée | Ultra Rare | 70 - 80 |
+| Sun Flute | Grounded | En journée | Ultra Rare | 70 - 80 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -676,7 +676,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🏜️ <strong>Désert et plateaux arides</strong></td>
+    <td>🏜️ <strong>Deserts and arid plateaus</strong></td>
     <td>
       <code>#cobblemon:is_plateau</code><br>
       <code>minecraft:desert</code><br>
@@ -694,7 +694,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📜 Description
 
-> Lorsqu’il ouvre une Ultra-Brèche, il arrive que de l’énergie et des formes de vie d’autres mondes se retrouvent dans le nôtre.
+> When it opens an Ultra Wormhole, energy and lifeforms from other worlds sometimes end up in ours.
 
 &#8203;
 
@@ -723,7 +723,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 🎯 Form Ability
 
-- **Ability:** Spectro-Bouclier
+- **Ability:** Shadow Shield
 
 ---
 
@@ -731,7 +731,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Flûte de la Lune | Grounded | La nuit | Ultra Rare | 70 - 80 |
+| Moon Flute | Grounded | Night | Ultra Rare | 70 - 80 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -745,21 +745,21 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🏜️ <strong>Déserts altérés</strong></td>
+    <td>🏜️ <strong>Altered deserts</strong></td>
     <td>
       <code>byg:warped_desert</code>
     </td>
   </tr>
 
   <tr>
-    <td>🌲 <strong>Forêts sombres</strong></td>
+    <td>🌲 <strong>Dark forests</strong></td>
     <td>
       <code>minecraft:dark_forest</code>
     </td>
   </tr>
 
   <tr>
-    <td>⛰️ <strong>Collines et reliefs</strong></td>
+    <td>⛰️ <strong>Hills and terrain</strong></td>
     <td>
       <code>#cobblemon:is_hills</code>
     </td>
@@ -775,7 +775,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📜 Description
 
-> Des documents extrêmement anciens le décrivent comme « celui qui invite la lune ».
+> Extremely ancient documents describe it as “the one who invites the moon.”
 
 &#8203;
 
@@ -804,7 +804,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 🎯 Form Ability
 
-- **Ability:** Prisme-Armure
+- **Ability:** Prism Armor
 
 ---
 
@@ -812,7 +812,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Prisme Nécro | Grounded | 3 Pierres Éclats | Ultra Rare | 70 |
+| Necro Prism | Grounded | 3 Pierres Éclats | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -826,7 +826,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🌌 <strong>End et dimensions extrêmes</strong></td>
+    <td>🌌 <strong>The End and extreme dimensions</strong></td>
     <td>
       <code>#cobblemon:is_deep_dark</code><br>
       <code>minecraft:the_end</code><br>
@@ -847,7 +847,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📜 Description
 
-> Il semble souffrir dans sa recherche désespérée de lumière, sa source d’énergie. On pense qu’il vient d’un autre monde.
+> It appears to suffer in its desperate search for light, its source of energy. It is believed to come from another world.
 
 &#8203;
 
@@ -876,7 +876,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 🎯 Form Ability
 
-- **Ability:** Animacœur
+- **Ability:** Soul-Heart
 
 ---
 
@@ -884,7 +884,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Poké Ball Antique - Animacœur | Grounded | Bloc de fer à proximité | Ultra Rare | 50 |
+| Antique Pokeball / Soul Heart | Grounded | Iron block nearby | Ultra Rare | 50 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -898,7 +898,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🌌 <strong>End et dimensions extrêmes</strong></td>
+    <td>🌌 <strong>The End and extreme dimensions</strong></td>
     <td>
       <code>#cobblemon:is_deep_dark</code><br>
       <code>minecraft:the_end</code><br>
@@ -919,7 +919,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📜 Description
 
-> Il accède à la conscience des individus en se synchronisant avec eux. Cette faculté l’aide à prendre soin d’eux.
+> It accesses individuals’ consciousness by synchronizing with them. This ability helps it take care of them.
 
 &#8203;
 
@@ -948,7 +948,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 🎯 Form Ability
 
-- **Ability:** Technicien
+- **Ability:** Technician
 
 ---
 
@@ -956,7 +956,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Capuchon de Marshadow | Grounded | None | Ultra Rare | 70 |
+| Marshadow Hood | Grounded | None | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -970,7 +970,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🌑 <strong>Biomes sombres et inquiétants</strong></td>
+    <td>🌑 <strong>Dark and eerie biomes</strong></td>
     <td>
       <code>#cobblemon:is_spooky</code><br>
       <code>#cobblemon:is_dark</code><br>
@@ -980,7 +980,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🪷 <strong>Marais</strong></td>
+    <td>🪷 <strong>Swamp</strong></td>
     <td>
       <code>minecraft:swamp</code>
     </td>
@@ -996,7 +996,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📜 Description
 
-> En se glissant dans l’ombre de son adversaire, il peut copier ses mouvements et ses forces. C’est un Pokémon au caractère timide et craintif.
+> By slipping into its opponent’s shadow, it can copy their movements and strengths. It is a timid and fearful Pokémon.
 
 &#8203;
 
@@ -1025,7 +1025,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 🎯 Form Ability
 
-- **Ability:** Absorbe-Volt
+- **Ability:** Volt Absorb
 
 ---
 
@@ -1033,7 +1033,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Griffe Foudroyante de Zeraora | Grounded | None | Ultra Rare | 70 |
+| Zeraoras Thunderclaw | Grounded | None | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -1047,7 +1047,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🌾 <strong>Savane et zones arides</strong></td>
+    <td>🌾 <strong>Savannah and arid areas</strong></td>
     <td>
       <code>#minecraft:is_savanna</code><br>
       <code>terralith:fractured_savanna</code><br>
@@ -1065,7 +1065,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🏜️ <strong>Déserts et oasis</strong></td>
+    <td>🏜️ <strong>Deserts and oases</strong></td>
     <td>
       <code>terralith:desert_oasis</code><br>
       <code>terralith:red_oasis</code>
@@ -1073,7 +1073,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🌴 <strong>Forêts tropicales</strong></td>
+    <td>🌴 <strong>Tropical forests</strong></td>
     <td>
       <code>wythers:tropical_forest</code>
     </td>
@@ -1089,7 +1089,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📜 Description
 
-> Il prend l’ennemi par surprise en attaquant plus vite que l’éclair, et le débite en morceaux avec ses griffes acérées.
+> It takes its enemies by surprise, striking faster than lightning, and slices them to pieces with its sharp claws.
 
 &#8203;
 
@@ -1118,7 +1118,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 🎯 Form Ability
 
-- **Ability:** Magnépiège
+- **Ability:** Magnet Pull
 
 ---
 
@@ -1126,7 +1126,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Boîte Mystère | Grounded | Bloc de fer à proximité | Ultra Rare | 20 - 40 |
+| Mystery Box | Grounded | Iron block nearby | Ultra Rare | 20 - 40 |
 
 <details>
 <summary>📍 <strong>Spawn Tags</strong></summary>
@@ -1140,21 +1140,21 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
   </tr>
 
   <tr>
-    <td>🏔️ <strong>Montagnes</strong></td>
+    <td>🏔️ <strong>Mountains</strong></td>
     <td>
       <code>minecraft:mountains</code>
     </td>
   </tr>
 
   <tr>
-    <td>🌲 <strong>Taïga</strong></td>
+    <td>🌲 <strong>Taiga</strong></td>
     <td>
       <code>minecraft:taiga</code>
     </td>
   </tr>
 
   <tr>
-    <td>❄️ <strong>Taïga enneigée</strong></td>
+    <td>❄️ <strong>Snowy Taiga</strong></td>
     <td>
       <code>minecraft:snowy_taiga</code>
     </td>
@@ -1170,7 +1170,7 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 📜 Description
 
-> Il se nourrit du métal qu’il fait fondre, et produit de l’énergie en faisant circuler du métal liquide dans son corps.
+> It feeds on metal that it melts, and generates energy by circulating liquid metal through its body.
 
 ---
 
