@@ -1,6 +1,6 @@
 # 🏝️ Génération 7 - Alola
 
-### 📜 **Liste des invocations de la Première Génération**
+### 📜 **Liste des invocations de la Septième Génération**
 
 <p align="center">
 Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues d'autres dimensions. Leurs histoires mêlent traditions ancestrales et mystères cosmiques.
