@@ -1,4 +1,4 @@
-# ✨ Generation 6 - Kalos
+# ✨ Génération 6 - Kalos
 
 ### 📜 **Liste des invocations de la Sixième Génération**
 
