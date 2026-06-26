@@ -1,9 +1,9 @@
-# ✨ Génération 6 - Kalos
+# ✨ Generation 6 - Kalos
 
-### 📜 **Liste des invocations de la Première Génération**
+### 📜 **List of Generation VI Summons**
 
 <p align="center">
-Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie ou d'apporter la destruction. Ces légendes sont liées à l'équilibre fragile du monde.
+Behind Kalos’ beauty lie powers capable of granting life or bringing destruction. These legends are tied to the world’s fragile balance.
 </p>
 
 ## 🦌 Xerneas
@@ -31,7 +31,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 🎯 Form Ability
 
-- **Ability:** Aura Féérique
+- **Ability:** Fairy Aura
 
 ---
 
@@ -39,7 +39,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Pousse de Vie | Grounded | None | Ultra Rare | 50 |
+| Sapling Of Life | Grounded | None | Ultra Rare | 50 |
 
 <details>
 <summary>📍 <strong>Spawn tags</strong></summary>
@@ -48,12 +48,12 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 <table>
   <tr>
-    <th>Catégorie</th>
+    <th>Category</th>
     <th>Tags</th>
   </tr>
 
   <tr>
-    <td>🌿 <strong>Forêts naturelles</strong></td>
+    <td>🌿 <strong>Natural forests</strong></td>
     <td>
       <code>#cobblemon:is_forest</code><br>
       <code>minecraft:forest</code>
@@ -61,7 +61,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
   </tr>
 
   <tr>
-    <td>🌸 <strong>Forêts florales</strong></td>
+    <td>🌸 <strong>Floral forests</strong></td>
     <td>
       <code>#cobblemon:is_floral</code><br>
       <code>minecraft:flower_forest</code><br>
@@ -70,7 +70,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
   </tr>
 
   <tr>
-    <td>✨ <strong>Zones magiques</strong></td>
+    <td>✨ <strong>Magical areas</strong></td>
     <td>
       <code>#cobblemon:is_magical</code>
     </td>
@@ -86,7 +86,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 📜 Description
 
-> D’après la légende, quand ses bois brillent de sept couleurs, cela signifie qu’il prodigue la vie éternelle.
+> According to legend, when its antlers shine in seven colors, it is said to grant eternal life.
 
 &#8203;
 
@@ -115,7 +115,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 🎯 Form Ability
 
-- **Ability:** Aura Ténébreuse
+- **Ability:** Dark Aura
 
 ---
 
@@ -123,7 +123,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Cocon de l'Annihilation | Grounded | None | Ultra Rare | 50 |
+| Cocoon Of Destruction | Grounded | None | Ultra Rare | 50 |
 
 <details>
 <summary>📍 <strong>Spawn tags</strong></summary>
@@ -132,19 +132,19 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 <table>
   <tr>
-    <th>Catégorie</th>
+    <th>Category</th>
     <th>Tags</th>
   </tr>
 
   <tr>
-    <td>❄️ <strong>Toundra</strong></td>
+    <td>❄️ <strong>Tundra</strong></td>
     <td>
       <code>#cobblemon:is_tundra</code>
     </td>
   </tr>
 
   <tr>
-    <td>🌑 <strong>Forêts sombres et inquiétantes</strong></td>
+    <td>🌑 <strong>Dark and eerie forests</strong></td>
     <td>
       <code>#cobblemon:is_spooky</code><br>
       <code>minecraft:dark_forest</code>
@@ -152,7 +152,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
   </tr>
 
   <tr>
-    <td>🪷 <strong>Marais</strong></td>
+    <td>🪷 <strong>Swamp</strong></td>
     <td>
       <code>minecraft:swamp</code>
     </td>
@@ -168,7 +168,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 📜 Description
 
-> Il possède un corps et un cœur de fer. Il peut mater les Pokémon les plus agressifs d'un simple regard.
+> It possesses a body and heart of iron. It can subdue even the most aggressive Pokémon with a single glance.
 
 &#8203;
 
@@ -197,8 +197,8 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 🎯 Form Ability
 
-- **Ability:**  Aura Inversée
-- **Hidden Ability:** Rassemblement
+- **Ability:**  Aura Break
+- **Hidden Ability:** Power Construct
 
 ---
 
@@ -206,7 +206,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Boîte Zygarde - Cellule de Zygarde - Noyau de Zygarde | Grounded | None | Ultra Rare | 70 |
+| Zygarde Cube / Zygarde Cell / Zygarde Core | Grounded | None | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Spawn tags</strong></summary>
@@ -215,12 +215,12 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 <table>
   <tr>
-    <th>Catégorie</th>
+    <th>Category</th>
     <th>Tags</th>
   </tr>
 
   <tr>
-    <td>🌲 <strong>Forêts</strong></td>
+    <td>🌲 <strong>Forest</strong></td>
     <td>
       <code>#cobblemon:is_forest</code><br>
       <code>minecraft:forest</code><br>
@@ -230,7 +230,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
   </tr>
 
   <tr>
-    <td>🪷 <strong>Marais</strong></td>
+    <td>🪷 <strong>Swamp</strong></td>
     <td>
       <code>#cobblemon:is_swamp</code><br>
       <code>minecraft:swamp</code><br>
@@ -239,7 +239,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
   </tr>
 
   <tr>
-    <td>🕳️ <strong>Cavernes et zones souterraines</strong></td>
+    <td>🕳️ <strong>Caves and underground areas</strong></td>
     <td>
       <code>#cobblemon:is_cave</code>
     </td>
@@ -255,7 +255,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 📜 Description
 
-> Lorsque l’écosystème de Kalos est menacé, ce Pokémon apparaît et utilise son mystérieux pouvoir.
+> When the Kalos ecosystem is threatened, this Pokémon appears and uses its mysterious power.
 
 &#8203;
 
@@ -284,7 +284,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 🎯 Form Ability
 
-- **Ability:** Corps Sain
+- **Ability:** Clear Body
 
 ---
 
@@ -292,7 +292,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Couronne de Diancie | Grounded | Entre la hauteur 10 et -64 | Ultra Rare | 70 |
+| Diancies Crown | Grounded | Between height 10 and -64 | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Spawn tags</strong></summary>
@@ -301,12 +301,12 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 <table>
   <tr>
-    <th>Catégorie</th>
+    <th>Category</th>
     <th>Tags</th>
   </tr>
 
   <tr>
-    <td>🕳️ <strong>Souterrains et cavernes</strong></td>
+    <td>🕳️ <strong>Undergrounds and caves</strong></td>
     <td>
       <code>#cobblemon:is_cave</code><br>
       <code>#forge:is_underground</code><br>
@@ -335,7 +335,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 📜 Description
 
-> Il peut créer une multitude de diamants en un instant en serrant ses mains, simplement en compressant les molécules de carbone contenues dans l’air.
+> It can create countless diamonds in an instant by clasping its hands, simply by compressing the carbon molecules contained in the air.
 
 &#8203;
 
@@ -364,7 +364,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 🎯 Form Ability
 
-- **Ability:** Magicien
+- **Ability:** Magician
 
 ---
 
@@ -372,7 +372,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Anneau de Hoopa - Prisme Nécro | Grounded | None | Ultra Rare | 50 |
+| Hoopa Ring / Prism Bottle | Grounded | None | Ultra Rare | 50 |
 
 <details>
 <summary>📍 <strong>Spawn tags</strong></summary>
@@ -381,12 +381,12 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 <table>
   <tr>
-    <th>Catégorie</th>
+    <th>Category</th>
     <th>Tags</th>
   </tr>
 
   <tr>
-    <td>🌌 <strong>End et îles extrêmes</strong></td>
+    <td>🌌 <strong>The End and extreme islands</strong></td>
     <td>
       <code>minecraft:the_end</code><br>
       <code>minecraft:end_highlands</code><br>
@@ -406,7 +406,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 📜 Description
 
-> Il a la faculté de téléporter les choses en les faisant passer au travers de ses anneaux. Il envoie les objets qui lui plaisent dans une cachette connue de lui seul.
+> It has the ability to teleport things by passing them through its rings. It sends objects it likes to a hiding place known only to itself.
 
 &#8203;
 
@@ -435,7 +435,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 🎯 Form Ability
 
-- **Ability:** Absorbe-Eau
+- **Ability:** Water Absorb
 
 ---
 
@@ -443,7 +443,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 | 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
 | :---: | :---: | :---: | :---: | :---: |
-| Valve à Vapeur | Grounded | None | Ultra Rare | 70 |
+| Steam Valve | Grounded | None | Ultra Rare | 70 |
 
 <details>
 <summary>📍 <strong>Spawn tags</strong></summary>
@@ -452,12 +452,12 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 <table>
   <tr>
-    <th>Catégorie</th>
+    <th>Category</th>
     <th>Tags</th>
   </tr>
 
   <tr>
-    <td>🌋 <strong>Zones volcaniques</strong></td>
+    <td>🌋 <strong>Volcanic areas</strong></td>
     <td>
       <code>#cobblemon:is_volcanic</code><br>
       <code>wythers:volcano</code><br>
@@ -471,7 +471,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
   </tr>
 
   <tr>
-    <td>🔥 <strong>Zones infernales</strong></td>
+    <td>🔥 <strong>Infernal areas</strong></td>
     <td>
       <code>minecraft:is_nether</code>
     </td>
@@ -487,14 +487,14 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 📜 Description
 
-> Il évacue la vapeur qui s’accumule à l’intérieur de son corps par les bras situés sur son dos. Ce jet est assez puissant pour raser des montagnes.
+> It vents the steam that builds up inside its body through the arms on its back. This jet is powerful enough to level mountains.
 
 ---
 
 {% hint style="success" %}
-## Nous contactez
+## Contact Us
 
 <p align="center">
-Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+If you have any questions, suggestions, or changes to propose, feel free to join us on <a href="https://discord.gg/kb8NSTF45n">Discord</a> and contact <strong>@FabLeKebab</strong> directly on the server for anything related to the wiki, or <strong>@Levels</strong> for anything related to the modpack.
 </p>
 {% endhint %}
