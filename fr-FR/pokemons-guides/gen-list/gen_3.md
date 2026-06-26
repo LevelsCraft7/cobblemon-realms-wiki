@@ -1,6 +1,6 @@
 # 🌊 Génération 3 - Hoenn
 
-### 📜 **Liste des invocations de la Première Génération**
+### 📜 **Liste des invocations de la Troisième Génération**
 
 <p align="center">
 D'anciens titans sommeillent sous les terres de Hoenn. Entre océans déchaînés, continents mouvants et cieux infinis, ces Pokémon incarnent les forces primordiales de la nature.
