@@ -27,7 +27,7 @@
 
 ## Myths & Legends
 
-- [🌟 Génération 1 à 9](pokemons-guides/myths-and-legends-legendaries.md)
+- [🌟 Légendaire - Toutes les générations](pokemons-guides/myths-and-legends-legendaries.md)
    - [🌿 Génération 1 - Kanto](pokemons-guides/gen-list/gen_1.md)
    - [🍃 Génération 2 - Johto](pokemons-guides/gen-list/gen_2.md)
    - [🌊 Génération 3 - Hoenn](pokemons-guides/gen-list/gen_3.md)
