@@ -6,6 +6,92 @@
 Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace, antimatière et divinités ancestrales s'y croisent dans les récits les plus anciens.
 </p>
 
+## 📚 Créhelf
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 75     |
+| ⚔️ Attaque      | 75     |
+| 🛡️ Défense     | 130    |
+| ✨ Attaque Spé.  | 75    |
+| 🌙 Défense Spé. | 130    |
+| ⚡ Vitesse       | 95     |
+
+![Créhelf](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/crehelf.png) ![Créhelf Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/crehelf_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Lévitation
+
+---
+
+### 📍 Localisation
+
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| Griffe de Créhelf | En surface | Aucune | Ultra Rare | 50 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🪷 <strong>Marais et zones humides</strong></td>
+    <td>
+      <code>#byg:is_swamp</code><br>
+      <code>#c:swamp</code><br>
+      <code>#forge:is_swamp</code><br>
+      <code>#wythers:is_swamp</code><br>
+      <code>minecraft:swamp</code><br>
+      <code>minecraft:mangrove_swamp</code><br>
+      <code>terralith:orchid_swampc</code><br>
+      <code>terralith:ice_marsh</code><br>
+      <code>wythers:billabong</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌊 <strong>Rivières et eau douce</strong></td>
+    <td>
+      <code>#cobblemon:is_river</code><br>
+      <code>#cobblemon:is_freshwater</code><br>
+      <code>#minecraft:is_river</code><br>
+      <code>wythers:lantern_river</code><br>
+      <code>wythers:tropical_forest_river</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
+
+---
+
+### 📜 Description
+
+> On dit que sa venue a fourni aux humains le bon sens nécessaire pour améliorer leur existence.
+
+&#8203;
+
 ## 🧠 Créfollet
 
 ### 🧾 Informations générales
