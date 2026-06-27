@@ -14,7 +14,7 @@ The myths of Sinnoh trace back to the very creation of the universe. Time, space
 
 ---
 
-### 📊 Statistiques
+### 📊 Statistics
 
 | Stat            | Valeur |
 | --------------- | ------ |
