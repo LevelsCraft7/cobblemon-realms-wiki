@@ -363,6 +363,90 @@ The heroes of Unova were born from the meeting of ideals and truth. Their legend
 
 &#8203;
 
+## 🔥 Landorus
+
+### 🧾 General Information
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_sol.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_vol.png)
+
+---
+
+### 📊 Statistics
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 89     |
+| ⚔️ Attack      | 125     |
+| 🛡️ Defense     | 90    |
+| ✨ Sp. Attack  | 115    |
+| 🌙 Sp. Defense | 80    |
+| ⚡ Speed       | 101     |
+
+![Landorus](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/demeteros.png) ![Landorus Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/demeteros_shiny.png)
+
+---
+
+### 🎯 Form Ability
+
+- **Ability:** Sand Force
+- **Hidden Ability:** Sheer Force
+
+---
+
+### 📍 Location
+
+| 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
+| :---: | :---: | :---: | :---: | :---: |
+| Reveal Glass | Grounded | Active thunderstorm | Ultra Rare | 50 - 70 |
+
+<details>
+<summary>📍 <strong>Spawn Tages</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌵 <strong>Deserts and arid areas</strong></td>
+    <td>
+      <code>minecraft:desert</code><br>
+      <code>minecraft:badlands</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌾 <strong>Savanna</strong></td>
+    <td>
+      <code>minecraft:savanna</code><br>
+      <code>minecraft:savanna_plateau</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌻 <strong>Flowered plains</strong></td>
+    <td>
+      <code>minecraft:sunflower_plains</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
+
+---
+
+### 📜 Description
+
+> The energy released from its tail enriches the soil with nutrients and promotes crop growth.
+
+&#8203;
+
 ## 🌪️ Tornadus
 
 ### 🧾 General Information
