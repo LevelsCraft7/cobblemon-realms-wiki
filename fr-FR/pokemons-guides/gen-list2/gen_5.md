@@ -363,6 +363,90 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 &#8203;
 
+## 🔥 Démétéros
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_sol.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_vol.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 89     |
+| ⚔️ Attaque      | 125     |
+| 🛡️ Défense     | 90    |
+| ✨ Attaque Spé.  | 115    |
+| 🌙 Défense Spé. | 80    |
+| ⚡ Vitesse       | 101     |
+
+![Démétéros](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/demeteros.png) ![Démétéros Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/demeteros_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Force Sable
+- **Talent Caché :** Sans limite
+
+---
+
+### 📍 Localisation
+
+| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
+| :---: | :---: | :---: | :---: | :---: |
+| Miroir Sacré | Au sol | Orage actif | Ultra Rare | 50 - 70 |
+
+<details>
+<summary>📍 <strong>Tags de spawn</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌵 <strong>Déserts et zones arides</strong></td>
+    <td>
+      <code>minecraft:desert</code><br>
+      <code>minecraft:badlands</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌾 <strong>Savane</strong></td>
+    <td>
+      <code>minecraft:savanna</code><br>
+      <code>minecraft:savanna_plateau</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌻 <strong>Plaines fleuries</strong></td>
+    <td>
+      <code>minecraft:sunflower_plains</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
+
+---
+
+### 📜 Description
+
+> L'énergie déversée par sa queue enrichit les sols en nutriments et favorise les cultures.
+
+&#8203;
+
 ## 🌪️ Boréas
 
 ### 🧾 Informations générales
