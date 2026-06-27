@@ -22,8 +22,8 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 | ⚔️ Attaque      | 85     |
 | 🛡️ Défense     | 100    |
 | ✨ Attaque Spé.  | 125    |
-| 🌙 Défense Spé. | 85    |
-| ⚡ Vitesse       | 125     |
+| 🌙 Défense Spé. | 85     |
+| ⚡ Vitesse       | 125    |
 
 ![Artikodin](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/artikodin.png) ![Artikodin Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/artikodin_shiny.png)
 
@@ -36,9 +36,20 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 ---
 
-### 📍 Localisation
+### 🧪 Système des urnes
 
->>>>
+Système des urnes  
+Pour obtenir Artikodin, vous devez fabriquer une **Urne de Givre** et vaincre 50 Pokémon de type Glace, soit en combat rapproché, soit via des combats Pokémon, tout en ayant l’urne dans votre inventaire. (Vous ne pouvez pas remplir plusieurs urnes en même temps).
+
+Une fois l’urne remplie, il suffit de faire un clic droit avec celle-ci en main et un Artikodin niveau 40 apparaîtra, avec 2% de chance d’être chromatique (shiny).
+
+Vous recevrez également une **Pierre Arctique** lors de l’utilisation de l’urne remplie, que vous pourrez assembler avec les deux autres pierres des oiseaux légendaires pour fabriquer la **Pierre du Vortex**, permettant d’obtenir Lugia.
+
+---
+
+### 🌨️ Forme de Galar
+
+Pour obtenir la forme de Galar, utilisez simplement une **Urne de Galar** et assurez-vous d’avoir un pack ajoutant les modèles des formes de Galar comme AllTheMons, sinon un oiseau de Galar apparaîtra mais avec le modèle de Kanto.
 
 ---
 
