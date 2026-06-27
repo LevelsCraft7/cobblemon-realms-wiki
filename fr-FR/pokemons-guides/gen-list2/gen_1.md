@@ -140,7 +140,7 @@ Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` !
 
 ---
 
-### 🧪 Système des urnes
+### ⚱️ Système des urnes
 
 Pour obtenir Sulfura, vous devez fabriquer une `Urne de Braises` et vaincre 50 Pokémon de type Feu, soit en combat rapproché, soit via des combats Pokémon, tout en ayant l’urne dans votre inventaire.
 
@@ -191,7 +191,7 @@ Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` !
 
 ---
 
-### 🧪 Système de la stèle
+### 🗿 Système de la stèle
 
 Pour obtenir Mew, vous devez utiliser une `Stèle de Mew` située sur l’Île Finale.
 
