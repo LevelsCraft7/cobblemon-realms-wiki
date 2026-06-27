@@ -40,7 +40,7 @@
 
 ## Prochainement
 
-- [Bientôt disponible](pokemons-guides/legendary_monuments.md)
+- [🌟 Légendaire - Toutes les générations](pokemons-guides/legendary_monuments.md)
    - [🌿 Génération 1 - Kanto](pokemons-guides/gen-list2/gen_1.md)
    - [🍃 Génération 2 - Johto](pokemons-guides/gen-list2/gen_2.md)
    - [🌊 Génération 3 - Hoenn](pokemons-guides/gen-list2/gen_3.md)
@@ -50,6 +50,11 @@
    - [🏝️ Génération 7 - Alola](pokemons-guides/gen-list2/gen_7.md)
    - [👑 Génération 8 - Galar/Hisui](pokemons-guides/gen-list2/gen_8.md)
    - [🎓 Génération 9 - Paldea/Kitakami](pokemons-guides/gen-list2/gen_9.md)
+- [🌫️🏗️ Structures du Monde Distorsion](en_cours.md)
+- [🌍🏗️ Structures de l’Overworld](en_cours.md)
+- [🔥🏗️ Structures du Nether](en_cours.md)
+- [🌌🏗️ Structures de l’End](en_cours.md)
+- [🎒⚙️ Objets & Mécaniques](en_cours.md)
 
 ## Exclusivités Pokémon
 
