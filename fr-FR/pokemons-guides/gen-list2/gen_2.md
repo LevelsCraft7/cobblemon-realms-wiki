@@ -100,7 +100,7 @@ Vous recevrez également une `Plume Rouge` lors de l’utilisation de l’urne r
 
 ### 🌨️ Forme de Galar
 
-Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` et assurez-vous d’avoir un pack ajoutant les modèles des formes de Galar comme AllTheMons, sinon un Pokémon de Galar apparaîtra mais avec le modèle de Kanto.
+Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` !
 
 ---
 
@@ -152,7 +152,7 @@ Vous recevrez également une `Plume Bleue` lors de l’utilisation de l’urne r
 
 ### 🌨️ Forme de Galar
 
-Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` et assurez-vous d’avoir un pack ajoutant les modèles des formes de Galar comme AllTheMons, sinon un Pokémon de Galar apparaîtra mais avec le modèle de Kanto.
+Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` !
 
 ---
 
