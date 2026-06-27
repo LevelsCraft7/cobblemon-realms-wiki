@@ -50,12 +50,12 @@
    - [🏝️ Génération 7 - Alola](pokemons-guides/gen-list2/gen_7.md)
    - [👑 Génération 8 - Galar/Hisui](pokemons-guides/gen-list2/gen_8.md)
    - [🎓 Génération 9 - Paldea/Kitakami](pokemons-guides/gen-list2/gen_9.md)
+- [🎒⚙️ Objets & Mécaniques](en_cours.md)
 - [🏛️ Toutes les Structures](en_cours.md)
    - [🌫️🏗️ Structures du Monde Distorsion](en_cours.md)
    - [🌍🏗️ Structures de l’Overworld](en_cours.md)
    - [🔥🏗️ Structures du Nether](en_cours.md)
    - [🌌🏗️ Structures de l’End](en_cours.md)
-- [🎒⚙️ Objets & Mécaniques](en_cours.md)
 
 ## Exclusivités Pokémon
 
