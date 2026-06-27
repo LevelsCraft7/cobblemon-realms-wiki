@@ -36,20 +36,19 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 ---
 
-### 🧪 Système des urnes
+### ⚱️ Système des urnes
 
-Système des urnes  
-Pour obtenir Artikodin, vous devez fabriquer une **Urne de Givre** et vaincre 50 Pokémon de type Glace, soit en combat rapproché, soit via des combats Pokémon, tout en ayant l’urne dans votre inventaire. (Vous ne pouvez pas remplir plusieurs urnes en même temps).
+Pour obtenir Artikodin, vous devez fabriquer une `Urne de Givre` et vaincre 50 Pokémon de type Glace, soit en combat rapproché, soit via des combats Pokémon, tout en ayant l’urne dans votre inventaire.
 
-Une fois l’urne remplie, il suffit de faire un clic droit avec celle-ci en main et un Artikodin niveau 40 apparaîtra, avec 2% de chance d’être chromatique (shiny).
+Une fois l’urne remplie, il suffit de faire un clic droit avec celle-ci en main et un Artikodin niveau 40 apparaîtra, avec 2% de chance d’être chromatique.
 
-Vous recevrez également une **Pierre Arctique** lors de l’utilisation de l’urne remplie, que vous pourrez assembler avec les deux autres pierres des oiseaux légendaires pour fabriquer la **Pierre du Vortex**, permettant d’obtenir Lugia.
+Vous recevrez également une `Pierre Arctique` lors de l’utilisation de l’urne remplie, que vous pourrez assembler avec les deux autres pierres des oiseaux légendaires pour fabriquer la `Pierre du Vortex`, permettant d’obtenir Lugia.
 
 ---
 
 ### 🌨️ Forme de Galar
 
-Pour obtenir la forme de Galar, utilisez simplement une **Urne de Galar** et assurez-vous d’avoir un pack ajoutant les modèles des formes de Galar comme AllTheMons, sinon un oiseau de Galar apparaîtra mais avec le modèle de Kanto.
+Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` !
 
 ---
 
@@ -73,10 +72,10 @@ Pour obtenir la forme de Galar, utilisez simplement une **Urne de Galar** et ass
 | --------------- | ------ |
 | ❤️ HP           | 90     |
 | ⚔️ Attaque      | 90     |
-| 🛡️ Défense     | 85    |
+| 🛡️ Défense     | 85     |
 | ✨ Attaque Spé.  | 125    |
-| 🌙 Défense Spé. | 90    |
-| ⚡ Vitesse       | 100     |
+| 🌙 Défense Spé. | 90     |
+| ⚡ Vitesse       | 100    |
 
 ![Électhor](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/electhor.png) ![Électhor Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/electhor_shiny.png)
 
@@ -89,9 +88,19 @@ Pour obtenir la forme de Galar, utilisez simplement une **Urne de Galar** et ass
 
 ---
 
-### 📍 Localisation
+### ⚱️ Système des urnes
 
->>>>
+Pour obtenir Électhor, vous devez fabriquer une `Urne de Tempête` et vaincre 50 Pokémon de type Électrique, soit en combat rapproché, soit via des combats Pokémon, tout en ayant l’urne dans votre inventaire.
+
+Une fois l’urne remplie, il suffit de faire un clic droit avec celle-ci en main et un Électhor niveau 40 apparaîtra, avec 2% de chance d’être chromatique.
+
+Vous recevrez également une `Pierre de Foudre` lors de l’utilisation de l’urne remplie, que vous pourrez assembler avec les deux autres pierres des oiseaux légendaires pour fabriquer la `Pierre du Vortex`, permettant d’obtenir Lugia.
+
+---
+
+### 🌨️ Forme de Galar
+
+Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` !
 
 ---
 
@@ -114,10 +123,10 @@ Pour obtenir la forme de Galar, utilisez simplement une **Urne de Galar** et ass
 | Stat            | Valeur |
 | --------------- | ------ |
 | ❤️ HP           | 90     |
-| ⚔️ Attaque      | 100     |
-| 🛡️ Défense     | 90    |
+| ⚔️ Attaque      | 100    |
+| 🛡️ Défense     | 90     |
 | ✨ Attaque Spé.  | 125    |
-| 🌙 Défense Spé. | 85    |
+| 🌙 Défense Spé. | 85     |
 | ⚡ Vitesse       | 90     |
 
 ![Sulfura](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/sulfura.png) ![Sulfura Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_1/sulfura_shiny.png)
@@ -131,9 +140,19 @@ Pour obtenir la forme de Galar, utilisez simplement une **Urne de Galar** et ass
 
 ---
 
-### 📍 Localisation
+### 🧪 Système des urnes
 
->>>>
+Pour obtenir Sulfura, vous devez fabriquer une `Urne de Braises` et vaincre 50 Pokémon de type Feu, soit en combat rapproché, soit via des combats Pokémon, tout en ayant l’urne dans votre inventaire.
+
+Une fois l’urne remplie, il suffit de faire un clic droit avec celle-ci en main et un Sulfura niveau 40 apparaîtra, avec 2% de chance d’être chromatique.
+
+Vous recevrez également une `Pierre de Flamme` lors de l’utilisation de l’urne remplie, que vous pourrez assembler avec les deux autres pierres des oiseaux légendaires pour fabriquer la `Pierre du Vortex`, permettant d’obtenir Lugia.
+
+---
+
+### 🌨️ Forme de Galar
+
+Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` !
 
 ---
 
@@ -172,9 +191,15 @@ Pour obtenir la forme de Galar, utilisez simplement une **Urne de Galar** et ass
 
 ---
 
-### 📍 Localisation
+### 🧪 Système de la stèle
 
->>>>
+Pour obtenir Mew, vous devez utiliser une `Stèle de Mew` située sur l’Île Finale.
+
+Vous devez d’abord trouver une `Carte de la Vieille Mer`, qui a 50% de chance d’être obtenue dans les coffres des temples de la jungle. (Note : la carte de la Vieille Mer ne fonctionne pas comme une carte Minecraft classique)
+
+Une fois la carte en votre possession, vous devez trouver l’Île Finale (vous pouvez la localiser grâce à l’Arc Phone) et placer la carte sur la `Stèle de Mew`, ce qui fera apparaître un Mew niveau 40, avec 2% de chance d’être chromatique.
+
+Vous recevrez également une `Touffe de poils de Mew`, qui n’a actuellement aucune utilité.
 
 ---
 
