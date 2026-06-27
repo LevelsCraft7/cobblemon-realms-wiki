@@ -53,7 +53,7 @@
 - [🎒⚙️ Objects & Mechanics](mods-guides/legendary_monuments/items_meca.md)
 - [🏛️ All Structures](mods-guides/legendary_monuments/all_world.md)
    - [🌫️🏗️ Distortion World Structures](mods-guides/legendary_monuments/distortion_world.md)
-   - [🌍🏗️ Overworld Structures](mods-guides/legendary_monuments/overworld_world)
+   - [🌍🏗️ Overworld Structures](mods-guides/legendary_monuments/overworld_world.md)
    - [🔥🏗️ Nether Structures](mods-guides/legendary_monuments/nether_world.md)
    - [🌌🏗️ End Structures](mods-guides/legendary_monuments/end_world.md)
 
