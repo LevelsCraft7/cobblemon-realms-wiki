@@ -6,11 +6,11 @@
 Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, de nouvelles légendes émergent. Certaines sont connues depuis des siècles, d'autres restent encore entourées de mystère.
 </p>
 
-## 🦖 Koraidon
+## 🍃 Chongjian
 
 ### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_combat.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_dragon.png)
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_tenebres.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_plante.png)
 
 ---
 
@@ -18,159 +18,34 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 | Stat            | Valeur |
 | --------------- | ------ |
-| ❤️ HP           | 100     |
-| ⚔️ Attaque      | 135     |
-| 🛡️ Défense     | 115    |
-| ✨ Attaque Spé.  | 85    |
-| 🌙 Défense Spé. | 100    |
-| ⚡ Vitesse       | 135     |
-
-![Koraidon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/koraidon.png) ![Koraidon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/koraidon_shiny.png)
-
----
-
-### 🎯 Talent de la forme
-
-- **Talent :** Pouls Orichalque
-
----
-
-### 📍 Localisation
-
-| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
-| :---: | :---: | :---: | :---: | :---: |
-| Livre Écarlate | Au sol | Aucune | Ultra Rare | 68 - 72 |
-
-<details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
-
-<div align="center">
-
-<table>
-  <tr>
-    <th>Catégorie</th>
-    <th>Tags</th>
-  </tr>
-
-  <tr>
-    <td>🌾 <strong>Savane</strong></td>
-    <td>
-      <code>minecraft:savanna</code><br>
-      <code>minecraft:savanna_plateau</code><br>
-      <code>#cobblemon:is_savanna</code>
-    </td>
-  </tr>
-
-  <tr>
-    <td>🏔️ <strong>Plateaux et montagnes</strong></td>
-    <td>
-      <code>#cobblemon:is_plateau</code><br>
-      <code>#cobblemon:is_mountain</code>
-    </td>
-  </tr>
-
-  <tr>
-    <td>🏜️ <strong>Zones arides</strong></td>
-    <td>
-      <code>minecraft:badlands</code><br>
-      <code>minecraft:eroded_badlands</code>
-    </td>
-  </tr>
-
-</table>
-
-</div>
-
-</details>
-
----
-
-### 📜 Description
-
-> Il s’agirait d’« Ailes-Royales », une créature qui, d’après un vieux récit d’exploration, aurait fendu la terre par la force de ses poings.
-
-&#8203;
-
-## 🤖 Miraidon
-
-### 🧾 Informations générales
-
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_electrique.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_dragon.png)
-
----
-
-### 📊 Statistiques
-
-| Stat            | Valeur |
-| --------------- | ------ |
-| ❤️ HP           | 100     |
+| ❤️ HP           | 85     |
 | ⚔️ Attaque      | 85     |
 | 🛡️ Défense     | 100    |
-| ✨ Attaque Spé.  | 135    |
-| 🌙 Défense Spé. | 115    |
-| ⚡ Vitesse       | 135     |
+| ✨ Attaque Spé.  | 95    |
+| 🌙 Défense Spé. | 135    |
+| ⚡ Vitesse       | 70     |
 
-![Miraidon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/miraidon.png) ![Miraidon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/miraidon_shiny.png)
+![Chongjian](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/wochien.png) ![Chongjian Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/wochien_shiny.png)
 
 ---
 
 ### 🎯 Talent de la forme
 
-- **Talent :** Moteur à Hadrons
-
----
-
-### 📍 Localisation
-
-| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
-| :---: | :---: | :---: | :---: | :---: |
-| Livre Violet | Au sol | Aucune | Ultra Rare | 68 - 72 |
-
-<details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
-
-<div align="center">
-
-<table>
-  <tr>
-    <th>Catégorie</th>
-    <th>Tags</th>
-  </tr>
-
-  <tr>
-    <td>🕳️ <strong>Deep Dark</strong></td>
-    <td>
-      <code>#cobblemon:is_deep_dark</code><br>
-      <code>minecraft:deep_dark</code>
-    </td>
-  </tr>
-
-  <tr>
-    <td>⛰️ <strong>Collines venteuses</strong></td>
-    <td>
-      <code>minecraft:windswept_gravelly_hills</code>
-    </td>
-  </tr>
-
-</table>
-
-</div>
-
-</details>
+- **Talent :** Bois du Fléau
 
 ---
 
 ### 📜 Description
 
-> On manque d’informations à son sujet. Il ressemble à Motorizard, mais en bien plus fort et cruel.
+> Il absorbe l’énergie de la végétation, ce qui a pour effet de dessécher instantanément les forêts alentour et de rendre les champs infertiles.
 
 &#8203;
 
-## 🎭 Ogerpon
+## 🧊 Baojian
 
 ### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_plante.png)
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_tenebres.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_glace.png)
 
 ---
 
@@ -180,78 +55,32 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 | --------------- | ------ |
 | ❤️ HP           | 80     |
 | ⚔️ Attaque      | 120     |
-| 🛡️ Défense     | 84    |
-| ✨ Attaque Spé.  | 60    |
-| 🌙 Défense Spé. | 96    |
-| ⚡ Vitesse       | 110     |
+| 🛡️ Défense     | 80    |
+| ✨ Attaque Spé.  | 90    |
+| 🌙 Défense Spé. | 65    |
+| ⚡ Vitesse       | 135     |
 
-![Ogerpon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/ogerpon.png) ![Ogerpon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/ogerpon_shiny.png)
+![Baojian](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/chienpao.png) ![Baojian Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/chienpao_shiny.png)
 
 ---
 
 ### 🎯 Talent de la forme
 
-- **Talent :** Acharné
-
----
-
-### 📍 Localisation
-
-| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
-| :---: | :---: | :---: | :---: | :---: |
-| Le Masque Turquoise | Au sol | 🌒 Premier croissant de lune | Ultra Rare | 40 - 60 |
-
-<details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
-
-<div align="center">
-
-<table>
-  <tr>
-    <th>Catégorie</th>
-    <th>Tags</th>
-  </tr>
-
-  <tr>
-    <td>🌸 <strong>Zones florales</strong></td>
-    <td>
-      <code>#cobblemon:is_floral</code>
-    </td>
-  </tr>
-
-  <tr>
-    <td>🌴 <strong>Jungles</strong></td>
-    <td>
-      <code>#cobblemon:is_jungle</code>
-    </td>
-  </tr>
-
-  <tr>
-    <td>🎋 <strong>Bambous</strong></td>
-    <td>
-      <code>#cobblemon:is_bamboo</code>
-    </td>
-  </tr>
-
-</table>
-
-</div>
-
-</details>
+- **Talent :** Épée du Fléau
 
 ---
 
 ### 📜 Description
 
-> Son type change selon le masque qu’il porte. Son agilité et ses coups de pied habiles lui permettent de malmener ses adversaires.
+> Ce Pokémon peut contrôler 100 tonnes de neige tombée. Il s’amuse en sautant joyeusement dans les avalanches qu’il provoque.
 
 &#8203;
 
-## ☠️ Pêchaminus
+## 🎭 Dinglu
 
 ### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_poison.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_spectre.png)
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_tenebres.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_sol.png) 
 
 ---
 
@@ -259,82 +88,34 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 | Stat            | Valeur |
 | --------------- | ------ |
-| ❤️ HP           | 88     |
-| ⚔️ Attaque      | 88     |
-| 🛡️ Défense     | 160    |
-| ✨ Attaque Spé.  | 88    |
-| 🌙 Défense Spé. | 88    |
-| ⚡ Vitesse       | 88     |
+| ❤️ HP           | 155     |
+| ⚔️ Attaque      | 110     |
+| 🛡️ Défense     | 125    |
+| ✨ Attaque Spé.  | 55    |
+| 🌙 Défense Spé. | 80    |
+| ⚡ Vitesse       | 45     |
 
-![Pêchaminus](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/pecharunt.png) ![Pêchaminus Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/pecharunt_shiny.png)
+![Dinglu](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/tinglu.png) ![Dinglu Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/tinglu_shiny.png)
 
 ---
 
 ### 🎯 Talent de la forme
 
-- **Talent :** Emprise Toxique
-
----
-
-### 📍 Localisation
-
-| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
-| :---: | :---: | :---: | :---: | :---: |
-| Baie Pêcha fabuleuse | Au sol | Aucune | Ultra Rare | 70 |
-
-<details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
-
-<div align="center">
-
-<table>
-  <tr>
-    <th>Catégorie</th>
-    <th>Tags</th>
-  </tr>
-
-  <tr>
-    <td>🪷 <strong>Marais</strong></td>
-    <td>
-      <code>minecraft:swamp</code><br>
-      <code>minecraft:swamp_hut</code>
-    </td>
-  </tr>
-
-  <tr>
-    <td>🌲 <strong>Forêts sombres</strong></td>
-    <td>
-      <code>minecraft:dark_forest</code><br>
-      <code>minecraft:woodland_mansion</code>
-    </td>
-  </tr>
-
-  <tr>
-    <td>⚔️ <strong>Structures d’hostilité</strong></td>
-    <td>
-      <code>minecraft:pillager_outpost</code>
-    </td>
-  </tr>
-
-</table>
-
-</div>
-
-</details>
+- **Talent :** Urne du Fléau
 
 ---
 
 ### 📜 Description
 
-> Il fait manger à sa cible un mochi empoisonné qui éveille les désirs et révèle le potentiel. Il la contrôle ensuite grâce à ses chaînes.
+> Sa tête est si lourde que quand il la pose en douceur sur le sol, celui-ci se fend et une faille de 50 mètres de profondeur se forme.
 
 &#8203;
 
-## 🌌 Terapagos
+## 🔥 Yuyu
 
 ### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_normal.png)
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_tenebres.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_feu.png)
 
 ---
 
@@ -342,79 +123,26 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 | Stat            | Valeur |
 | --------------- | ------ |
-| ❤️ HP           | 90     |
-| ⚔️ Attaque      | 65     |
-| 🛡️ Défense     | 85    |
-| ✨ Attaque Spé.  | 65    |
-| 🌙 Défense Spé. | 85    |
-| ⚡ Vitesse       | 60     |
+| ❤️ HP           | 55     |
+| ⚔️ Attaque      | 80     |
+| 🛡️ Défense     | 80    |
+| ✨ Attaque Spé.  | 135    |
+| 🌙 Défense Spé. | 120    |
+| ⚡ Vitesse       | 100     |
 
-![Terapagos](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/terapagos.png) ![Terapagos Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/terapagos_shiny.png)
+![Yuyu](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/chiyu.png) ![Yuyu Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/chiyu_shiny.png)
 
 ---
 
 ### 🎯 Talent de la forme
 
-- **Talent :** Téramorphose
-
----
-
-### 📍 Localisation
-
-| 🔔 Objet d'apparition requis | 📍 Apparition du Pokémon | 🎯 Conditions d'invocation | ⭐ Niveau de rareté | 📈 Niveau d'apparition |
-| :---: | :---: | :---: | :---: | :---: |
-| Téra-Carapace | Au sol | Aucune | Ultra Rare | 75 |
-
-<details>
-<summary>📍 <strong>Tags de spawn</strong></summary>
-
-<div align="center">
-
-<table>
-  <tr>
-    <th>Catégorie</th>
-    <th>Tags</th>
-  </tr>
-
-  <tr>
-    <td>🏔️ <strong>Montagnes</strong></td>
-    <td>
-      <code>#cobblemon:is_mountain</code>
-    </td>
-  </tr>
-
-  <tr>
-    <td>🌊 <strong>Rivières</strong></td>
-    <td>
-      <code>#cobblemon:is_river</code>
-    </td>
-  </tr>
-
-  <tr>
-    <td>🌴 <strong>Jungles</strong></td>
-    <td>
-      <code>#cobblemon:is_jungle</code>
-    </td>
-  </tr>
-
-  <tr>
-    <td>✨ <strong>Zones magiques</strong></td>
-    <td>
-      <code>#cobblemon:is_magical</code>
-    </td>
-  </tr>
-
-</table>
-
-</div>
-
-</details>
+- **Talent :** Perles du Fléau
 
 ---
 
 ### 📜 Description
 
-> Il se protège en transformant de l’énergie en cristal solide. Ce Pokémon est à l’origine du phénomène de Téracristallisation.
+> Ce Pokémon manipule des flammes à 3 000 °C. Il nage tranquillement dans une mer de magma qu’il a créée en faisant fondre de la roche et du gravier.
 
 ---
 
