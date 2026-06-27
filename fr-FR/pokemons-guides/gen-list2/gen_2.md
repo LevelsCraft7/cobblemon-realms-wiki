@@ -129,7 +129,7 @@ Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` !
 | 🌙 Défense Spé. | 115    |
 | ⚡ Vitesse       | 85     |
 
-![Suicune](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_2/suicune.png) ![Suicune Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_2/suicune_shiny.png)
+![Suicune](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_2/suicune.png) ![Suicune Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_2/suicine_shiny.png)
 
 ---
 
