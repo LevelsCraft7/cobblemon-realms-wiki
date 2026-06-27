@@ -40,7 +40,7 @@
 
 ## Prochainement
 
-- [Bientôt disponible](mods-guides/Mega_Showdown/Mega_Showdown.md)
+- [Bientôt disponible](mods-guides/Legendary_Monuments/Legendary_Monuments.md)
    - [🌿 Génération 1 - Kanto](pokemons-guides/gen-list/gen_1.md)
    - [🍃 Génération 2 - Johto](pokemons-guides/gen-list/gen_2.md)
    - [🌊 Génération 3 - Hoenn](pokemons-guides/gen-list/gen_3.md)
