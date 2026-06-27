@@ -6,6 +6,41 @@
 Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace, antimatière et divinités ancestrales s'y croisent dans les récits les plus anciens.
 </p>
 
+## 📚 Créhelf
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 75     |
+| ⚔️ Attaque      | 75     |
+| 🛡️ Défense     | 130    |
+| ✨ Attaque Spé.  | 75    |
+| 🌙 Défense Spé. | 130    |
+| ⚡ Vitesse       | 95     |
+
+![Créhelf](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/crehelf.png) ![Créhelf Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/crehelf_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Lévitation
+
+---
+
+### 📜 Description
+
+> On dit que sa venue a fourni aux humains le bon sens nécessaire pour améliorer leur existence.
+
+&#8203;
+
 ## 🧠 Créfollet
 
 ### 🧾 Informations générales
@@ -321,6 +356,41 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 ### 📜 Description
 
 > Il endort humains et Pokémon, et leur fait avoir des cauchemars pour les chasser de son territoire.
+
+&#8203;
+
+## 🌸 Shaymin
+
+### 🧾 Informations générales
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_plante.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 100     |
+| ⚔️ Attaque      | 100     |
+| 🛡️ Défense     | 100    |
+| ✨ Attaque Spé.  | 100    |
+| 🌙 Défense Spé. | 100    |
+| ⚡ Vitesse       | 100     |
+
+![Shaymin](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/shaymin.png) ![Shaymin Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/shaymin_shiny.png)
+
+---
+
+### 🎯 Talent de la forme
+
+- **Talent :** Médic Nature
+
+---
+
+### 📜 Description
+
+> Il prend son essor pour répandre la gratitude lorsque les Gracidées fleurissent.
 
 &#8203;
 
