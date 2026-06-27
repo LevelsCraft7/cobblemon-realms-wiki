@@ -36,7 +36,7 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 ---
 
-### ⚱️ Système des urnes
+### 🗝️ Moyen d'obtention
 
 Pour obtenir Artikodin, vous devez fabriquer une `Urne de Givre` et vaincre 50 Pokémon de type Glace, soit en combat rapproché, soit via des combats Pokémon, tout en ayant l’urne dans votre inventaire.
 
@@ -88,7 +88,7 @@ Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` !
 
 ---
 
-### ⚱️ Système des urnes
+### 🗝️ Moyen d'obtention
 
 Pour obtenir Électhor, vous devez fabriquer une `Urne de Tempête` et vaincre 50 Pokémon de type Électrique, soit en combat rapproché, soit via des combats Pokémon, tout en ayant l’urne dans votre inventaire.
 
@@ -140,7 +140,7 @@ Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` !
 
 ---
 
-### ⚱️ Système des urnes
+### 🗝️ Moyen d'obtention
 
 Pour obtenir Sulfura, vous devez fabriquer une `Urne de Braises` et vaincre 50 Pokémon de type Feu, soit en combat rapproché, soit via des combats Pokémon, tout en ayant l’urne dans votre inventaire.
 
@@ -191,7 +191,7 @@ Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` !
 
 ---
 
-### 🗿 Système de la stèle
+### 🗝️ Moyen d'obtention
 
 Pour obtenir Mew, vous devez utiliser une `Stèle de Mew` située sur l’Île Finale.
 
