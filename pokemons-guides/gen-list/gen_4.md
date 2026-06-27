@@ -6,6 +6,92 @@
 The myths of Sinnoh trace back to the very creation of the universe. Time, space, antimatter, and ancient deities intertwine in its oldest legends.
 </p>
 
+## 📚 Uxie
+
+### 🧾 General Information
+
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png)
+
+---
+
+### 📊 Statistiques
+
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 75     |
+| ⚔️ Attack      | 75     |
+| 🛡️ Defense     | 130    |
+| ✨ Sp. Attack  | 75    |
+| 🌙 Sp. Defense | 130    |
+| ⚡ Speed       | 95     |
+
+![Uxie](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/crehelf.png) ![Uxie Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/crehelf_shiny.png)
+
+---
+
+### 🎯 Form Ability
+
+- **Ability:** Levitate
+
+---
+
+### 📍 Location
+
+| 🔔 Required Spawn Item | 📍 Pokémon Spawn Location | 🎯 Summoning Conditions | ⭐ Rarity Level | 📈 Spawn Level |
+| :---: | :---: | :---: | :---: | :---: |
+| Uxie Claw | Surface | None | Ultra Rare | 50 |
+
+<details>
+<summary>📍 <strong>Spawn Tags</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🪷 <strong>Swamps and wetlands</strong></td>
+    <td>
+      <code>#byg:is_swamp</code><br>
+      <code>#c:swamp</code><br>
+      <code>#forge:is_swamp</code><br>
+      <code>#wythers:is_swamp</code><br>
+      <code>minecraft:swamp</code><br>
+      <code>minecraft:mangrove_swamp</code><br>
+      <code>terralith:orchid_swampc</code><br>
+      <code>terralith:ice_marsh</code><br>
+      <code>wythers:billabong</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td>🌊 <strong>Rivers and freshwater</strong></td>
+    <td>
+      <code>#cobblemon:is_river</code><br>
+      <code>#cobblemon:is_freshwater</code><br>
+      <code>#minecraft:is_river</code><br>
+      <code>wythers:lantern_river</code><br>
+      <code>wythers:tropical_forest_river</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
+
+---
+
+### 📜 Description
+
+> It is said that its arrival gave humans the common sense needed to improve their lives.
+
+&#8203;
+
 ## 🧠 Mesprit 
 
 ### 🧾 General Information
