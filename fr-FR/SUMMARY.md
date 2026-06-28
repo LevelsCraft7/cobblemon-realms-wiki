@@ -65,7 +65,7 @@
    - [⚱️ Les Urnes](mods-guides/legendary_monuments/urns_and_galarian_urns.md)
 - [🏛️ Structures d'Apparitions](mods-guides/legendary_monuments/all_world.md)
    - [🌫️🏗️ Structures du Monde Distorsion](mods-guides/legendary_monuments/distortion_world.md)
-   - [🌍🏗️ Structures de l’Overworld](mods-guides/legendary_monuments/overworld_world)
+   - [🌍🏗️ Structures de l’Overworld](mods-guides/legendary_monuments/overworld_world.md)
    - [🔥🏗️ Structures du Nether](mods-guides/legendary_monuments/nether_world.md)
    - [🌌🏗️ Structures de l’End](mods-guides/legendary_monuments/end_world.md)
 
