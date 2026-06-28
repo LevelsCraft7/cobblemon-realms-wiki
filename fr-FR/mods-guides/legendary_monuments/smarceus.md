@@ -10,22 +10,20 @@ Le <strong>Smarceus</strong> est un appareil portable permettant de localiser le
 
 ## ⚙️ Interface du Smarceus
 
-Le Smarceus centralise plusieurs applications dans un seul appareil.
+Le **Smarceus** centralise plusieurs applications dans un seul appareil.
 
-👉 Clic droit avec l’objet en main pour ouvrir l’interface  
-👉 Navigue entre les applications à l’aide de la souris
+👉 Clic droit avec l'objet en main pour ouvrir l'interface
+👉 Navigue entre les applications via les boutons fléchés à l'écran
 
 ---
 
 ## 🧭 Tracker Légendaire
 
-Permet de **localiser les structures disponibles dans ta dimension actuelle**.
-
-Une liste déroulante affiche toutes les structures détectables.
+Permet de **localiser les structures disponibles dans ta dimension actuelle**. Une liste déroulante affiche toutes les structures détectables.
 
 ---
 
-## 🔒 Structures verrouillées
+## 🔒 Accès aux structures
 
 Certaines structures nécessitent un **objet spécifique** pour être suivies.
 
@@ -34,34 +32,33 @@ Ces objets peuvent provenir de :
 - Mega Showdown
 - Legendary Monuments
 
-⚠️ Si tu ne possèdes pas l’objet :
-- la structure apparaît en **gris**
-- elle reste sélectionnable
-- l’objet requis est affiché brièvement
+---
+
+### ❌ Objet manquant
+🟨 Nom : gris  
+⛔ Statut : inactif  
+📌 Info : objet requis affiché temporairement  
 
 ---
 
-## ✅ Structures disponibles
-
-✔️ Si tu possèdes l’objet requis :
-- le nom apparaît en **blanc**
-- la structure peut être suivie instantanément
+### ✔️ Objet disponible
+⬜ Nom : blanc  
+🟢 Statut : actif  
+🚀 Action : suivi immédiat possible
 
 ---
 
 ## 📍 Résultat de recherche
 
-Lorsque tu sélectionnes une structure :
+Lorsque tu sélectionnes une structure, le Smarceus analyse ta dimension actuelle.
 
-🧠 Le Smarceus analyse ta dimension actuelle
-
-S’il détecte une structure, il affiche :
+S’il détecte une correspondance, il affiche les informations suivantes :
 
 | 📌 Info | 📜 Détail |
-|:--:|:--:|
-| Coordonnées | Position exacte |
+|:--:|:--|
+| Coordonnées | Position exacte dans la dimension |
 | Distance | Distance par rapport au joueur |
-| Direction | Orientation générale |
+| Direction | Orientation générale vers la structure |
 
 ---
 
@@ -76,7 +73,7 @@ La recette de fabrication sera ajoutée prochainement.
 ---
 
 {% hint style="success" %}
-## Nous contactez
+## Nous contacter
 
 <p align="center">
 Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
