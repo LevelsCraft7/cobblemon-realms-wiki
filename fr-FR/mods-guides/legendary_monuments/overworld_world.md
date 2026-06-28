@@ -103,8 +103,6 @@ La structure apparaît dans les **biomes de type plaines et environnements simil
 👉 Les tags moddés sont utilisés pour assurer une compatibilité large  
 👉 Les mods de biomes sont optionnels  
 
----
-
 <details>
 <summary>🌾 <strong>Biomes compatibles</strong></summary>
 
