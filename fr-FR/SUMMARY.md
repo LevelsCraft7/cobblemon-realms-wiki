@@ -38,7 +38,7 @@
    - [👑 Génération 8 - Galar/Hisui](pokemons-guides/gen-list/gen_8.md)
    - [🎓 Génération 9 - Paldea/Kitakami](pokemons-guides/gen-list/gen_9.md)
 
-## Prochainement
+## Legendary Monuments
 
 - [🌟 Légendaire - Toutes les générations](pokemons-guides/legendary_monuments.md)
    - [🌿 Génération 1 - Kanto](pokemons-guides/gen-list2/gen_1.md)
