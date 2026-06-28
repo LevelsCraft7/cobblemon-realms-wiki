@@ -79,7 +79,9 @@ Lorsque vous sélectionnez une structure :
 ---
 
 {% hint style="success" %}
+## Nous contactez
+
 <p align="center">
-💡 Le Smarceus est conçu pour faciliter la progression vers les structures légendaires sans exploration aléatoire.
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
 </p>
 {% endhint %}
