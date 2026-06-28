@@ -51,6 +51,7 @@
    - [👑 Génération 8 - Galar/Hisui](pokemons-guides/gen-list2/gen_8.md)
    - [🎓 Génération 9 - Paldea/Kitakami](pokemons-guides/gen-list2/gen_9.md)
 - [🎒⚙️ Objets & Mécaniques](mods-guides/legendary_monuments/items_meca.md)
+   - [📱 Smarceus](mods-guides/legendary_monuments/smarceus.md)
 - [🏛️ Toutes les Structures](mods-guides/legendary_monuments/all_world.md)
    - [🌫️🏗️ Structures du Monde Distorsion](mods-guides/legendary_monuments/distortion_world.md)
    - [🌍🏗️ Structures de l’Overworld](mods-guides/legendary_monuments/overworld_world)
