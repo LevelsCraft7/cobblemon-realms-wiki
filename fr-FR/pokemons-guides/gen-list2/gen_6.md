@@ -19,8 +19,8 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 | Stat            | Valeur |
 | --------------- | ------ |
 | ❤️ HP           | 80     |
-| ⚔️ Attaque      | 110     |
-| 🛡️ Défense     | 60    |
+| ⚔️ Attaque      | 110    |
+| 🛡️ Défense     | 60     |
 | ✨ Attaque Spé.  | 150    |
 | 🌙 Défense Spé. | 130    |
 | ⚡ Vitesse       | 70     |
@@ -32,6 +32,16 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 ### 🎯 Talent de la forme
 
 - **Talent :** Magicien
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Hoopa, vous devez trouver la Hoopa Pyramid dans l’End (vous pouvez la localiser grâce à l’Arc Phone) et compléter ses épreuves : un labyrinthe, un combat et un quiz.
+
+Une fois ces épreuves terminées, vous obtiendrez la `Prison Bottle` ainsi que la `Temple Key`.
+
+En plaçant ces deux objets sur les `Hoopa Pedestals`, un Hoopa niveau 60 apparaîtra, avec 2% de chance d’être chromatique.
 
 ---
 
