@@ -21,9 +21,9 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 | ❤️ HP           | 75     |
 | ⚔️ Attaque      | 75     |
 | 🛡️ Défense     | 130    |
-| ✨ Attaque Spé.  | 75    |
+| ✨ Attaque Spé. | 75     |
 | 🌙 Défense Spé. | 130    |
-| ⚡ Vitesse       | 95     |
+| ⚡ Vitesse      | 95     |
 
 ![Créhelf](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/crehelf.png) ![Créhelf Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/crehelf_shiny.png)
 
@@ -32,6 +32,18 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 ### 🎯 Talent de la forme
 
 - **Talent :** Lévitation
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Créhelf, vous devez trouver le `Lac Savoir` (vous pouvez le localiser grâce à l'Arc Phone).
+
+Dans la caverne du lac, éliminez tous les Pokémon invoqués par le `Pokémon Trial Spawner` afin d'obtenir la `Preuve de Conquête (U)`.
+
+Utilisez ensuite la `Preuve de Conquête (U)` pour invoquer Créhelf, avec 2% de chance qu'il soit chromatique.
+
+Vous recevrez également une `Griffe de Créhelf` après avoir utilisé la `Preuve de Conquête (U)`. En la combinant avec les deux autres reliques des Gardiens des Lacs, vous pourrez fabriquer la `Chaîne Rouge`, permettant d'obtenir Dialga et Palkia.
 
 ---
 
@@ -54,11 +66,11 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 | Stat            | Valeur |
 | --------------- | ------ |
 | ❤️ HP           | 80     |
-| ⚔️ Attaque      | 105     |
+| ⚔️ Attaque      | 105    |
 | 🛡️ Défense     | 105    |
-| ✨ Attaque Spé.  | 105    |
+| ✨ Attaque Spé. | 105    |
 | 🌙 Défense Spé. | 105    |
-| ⚡ Vitesse       | 80     |
+| ⚡ Vitesse      | 80     |
 
 ![Créfollet](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/mesprit.png) ![Créfollet Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/mesprit_shiny.png)
 
@@ -67,6 +79,18 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 ### 🎯 Talent de la forme
 
 - **Talent :** Lévitation
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Créfollet, vous devez trouver le `Lac Vérité` (vous pouvez le localiser grâce à l'Arc Phone).
+
+Dans la caverne du lac, éliminez tous les Pokémon invoqués par le `Pokémon Trial Spawner` afin d'obtenir la `Preuve de Conquête (M)`.
+
+Utilisez ensuite la `Preuve de Conquête (M)` pour invoquer Créfollet, avec 2% de chance qu'il soit chromatique.
+
+Vous recevrez également une `Plume de Créfollet` après avoir utilisé la `Preuve de Conquête (M)`. En la combinant avec les deux autres reliques des Gardiens des Lacs, vous pourrez fabriquer la `Chaîne Rouge`, permettant d'obtenir Dialga et Palkia.
 
 ---
 
@@ -89,11 +113,11 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 | Stat            | Valeur |
 | --------------- | ------ |
 | ❤️ HP           | 75     |
-| ⚔️ Attaque      | 125     |
-| 🛡️ Défense     | 70    |
-| ✨ Attaque Spé.  | 125    |
-| 🌙 Défense Spé. | 70    |
-| ⚡ Vitesse       | 115     |
+| ⚔️ Attaque      | 125    |
+| 🛡️ Défense     | 70     |
+| ✨ Attaque Spé. | 125    |
+| 🌙 Défense Spé. | 70     |
+| ⚡ Vitesse      | 115    |
 
 ![Créfadet](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/azelf.png) ![Créfadet Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/azelf_shiny.png)
 
@@ -102,6 +126,18 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 ### 🎯 Talent de la forme
 
 - **Talent :** Lévitation
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Créfadet, vous devez trouver le `Lac Courage` (vous pouvez le localiser grâce à l'Arc Phone).
+
+Dans la caverne du lac, éliminez tous les Pokémon invoqués par le `Pokémon Trial Spawner` afin d'obtenir la `Preuve de Conquête (A)`.
+
+Utilisez ensuite la `Preuve de Conquête (A)` pour invoquer Créfadet, avec 2% de chance qu'il soit chromatique.
+
+Vous recevrez également une `Canine de Créfadet` après avoir utilisé la `Preuve de Conquête (A)`. En la combinant avec les deux autres reliques des Gardiens des Lacs, vous pourrez fabriquer la `Chaîne Rouge`, permettant d'obtenir Dialga et Palkia.
 
 ---
 
@@ -123,12 +159,12 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 | Stat            | Valeur |
 | --------------- | ------ |
-| ❤️ HP           | 100     |
-| ⚔️ Attaque      | 120     |
+| ❤️ HP           | 100    |
+| ⚔️ Attaque      | 120    |
 | 🛡️ Défense     | 120    |
-| ✨ Attaque Spé.  | 150    |
+| ✨ Attaque Spé. | 150    |
 | 🌙 Défense Spé. | 100    |
-| ⚡ Vitesse       | 90     |
+| ⚡ Vitesse      | 90     |
 
 ![Dialga](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/dialga.png) ![Dialga Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/dialga_shiny.png)
 
@@ -138,6 +174,16 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 - **Talent :** Pression
 - **Talent Caché :** Télépathe
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Dialga, vous devez trouver les `Colonnes Lances` (vous pouvez les localiser grâce à l'Arc Phone). Il s'agit d'un immense temple d'inspiration grecque où il est possible d'obtenir Dialga et Palkia.
+
+Une fois devant le `Piédestal de Dialga`, utilisez une `Chaîne Rouge` pour invoquer un Dialga niveau 70, avec 2% de chance qu'il soit chromatique.
+
+Vous recevrez également un `Globe du Temps` après avoir utilisé le piédestal. En le combinant avec les deux autres Globes ainsi qu'une `Flûte Célestica`, vous pourrez fabriquer la `Flûte Azur`, permettant d'obtenir Arceus.
 
 ---
 
@@ -160,11 +206,11 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 | Stat            | Valeur |
 | --------------- | ------ |
 | ❤️ HP           | 90     |
-| ⚔️ Attaque      | 120     |
+| ⚔️ Attaque      | 120    |
 | 🛡️ Défense     | 100    |
-| ✨ Attaque Spé.  | 150    |
+| ✨ Attaque Spé. | 150    |
 | 🌙 Défense Spé. | 120    |
-| ⚡ Vitesse       | 100     |
+| ⚡ Vitesse      | 100    |
 
 ![Palkia](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/palkia.png) ![Palkia Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/palkia_shiny.png)
 
@@ -174,6 +220,16 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 - **Talent :** Pression
 - **Talent Caché :** Télépathie
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Palkia, vous devez trouver les `Colonnes Lances` (vous pouvez les localiser grâce à l'Arc Phone). Il s'agit d'un immense temple d'inspiration grecque où il est possible d'obtenir Palkia et Dialga.
+
+Une fois devant le `Piédestal de Palkia`, utilisez une `Chaîne Rouge` pour invoquer un Palkia niveau 70, avec 2% de chance qu'il soit chromatique.
+
+Vous recevrez également un `Globe de l'Espace` après avoir utilisé le piédestal. En le combinant avec les deux autres Globes ainsi qu'une `Flûte Célestica`, vous pourrez fabriquer la `Flûte Azur`, permettant d'obtenir Arceus.
 
 ---
 
@@ -197,10 +253,10 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 | --------------- | ------ |
 | ❤️ HP           | 91     |
 | ⚔️ Attaque      | 90     |
-| 🛡️ Défense     | 106    |
-| ✨ Attaque Spé.  | 130    |
+| 🛡️ Défense      | 106    |
+| ✨ Attaque Spé. | 130    |
 | 🌙 Défense Spé. | 106    |
-| ⚡ Vitesse       | 77     |
+| ⚡ Vitesse      | 77     |
 
 ![Heatran](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/heatran.png) ![Heatran Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/heatran_shiny.png)
 
@@ -210,6 +266,14 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 - **Talent :** Torche
 - **Talent Caché :** Corps Ardent
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Heatran, vous devez trouver la `Grotte de Heatran` dans le Nether (vous pouvez la localiser grâce à l'Arc Phone). Cette immense caverne renferme de nombreux coffres, ainsi que plusieurs coffres cachés contenant un excellent butin.
+
+Une fois devant le `Piédestal de Heatran`, utilisez une `Pierre de Magma`, fabriquée à partir de **7 blocs de magma** et de **2 fragments de Netherite**, pour invoquer un Heatran niveau 50, avec 2% de chance qu'il soit chromatique.
 
 ---
 
@@ -231,12 +295,12 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 | Stat            | Valeur |
 | --------------- | ------ |
-| ❤️ HP           | 110     |
-| ⚔️ Attaque      | 160     |
+| ❤️ HP           | 110    |
+| ⚔️ Attaque      | 160    |
 | 🛡️ Défense     | 110    |
-| ✨ Attaque Spé.  | 80    |
+| ✨ Attaque Spé. | 80     |
 | 🌙 Défense Spé. | 110    |
-| ⚡ Vitesse       | 100     |
+| ⚡ Vitesse      | 100    |
 
 ![Regigigas](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/regigigas.png) ![Regigigas Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/regigigas_shiny.png)
 
@@ -245,6 +309,20 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 ### 🎯 Talent de la forme
 
 - **Talent :** Début Calme
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Regigigas, vous devez d'abord invoquer `Regirock`, `Regice`, `Registeel`, `Regieleki` et `Regidrago` grâce à leurs piédestaux. Vous obtiendrez ainsi un total de cinq tablettes : `Tablette de Regirock`, `Tablette de Regice`, `Tablette de Registeel`, `Tablette de Regieleki` et `Tablette de Regidrago`.
+
+En combinant ces cinq tablettes, vous fabriquerez une `Clé des Titans`.
+
+Une fois la `Clé des Titans` en votre possession, rendez-vous au `Temple de Frimapic` (vous pouvez le localiser grâce à l'Arc Phone) et déverrouillez la `Serrure de Regigigas`. Derrière celle-ci se trouvent un long couloir menant à un `Bloc Sanctuaire` à désactiver, une bibliothèque remplie de butin ainsi que la salle d'invocation de Regigigas.
+
+Dans la salle d'invocation, marchez sur chacun des cercles afin de les illuminer. Une fois tous les cercles activés, un Regigigas niveau 70 apparaîtra, avec 2% de chance d'être chromatique.
+
+Vous recevrez également un `Cœur de Titan` après avoir activé le sol. Celui-ci permet de fabriquer l'`Épaulière du Titan` ou le `Marteau du Titan`.
 
 ---
 
@@ -259,18 +337,19 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 ### 🧾 Informations générales
 
 - **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_spectre.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_dragon.png)
+
 ---
 
 ### 📊 Statistiques
 
 | Stat            | Valeur |
 | --------------- | ------ |
-| ❤️ HP           | 150     |
-| ⚔️ Attaque      | 100     |
+| ❤️ HP           | 150    |
+| ⚔️ Attaque      | 100    |
 | 🛡️ Défense     | 120    |
-| ✨ Attaque Spé.  | 100    |
+| ✨ Attaque Spé. | 100    |
 | 🌙 Défense Spé. | 120    |
-| ⚡ Vitesse       | 90   |
+| ⚡ Vitesse      | 90     |
 
 ![Giratina](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/giratina.png) ![Giratina Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/giratina_shiny.png)
 
@@ -280,6 +359,16 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 - **Talent :** Pression
 - **Talent Caché :** Télépathie
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Giratina, vous devez trouver l’`Île de Giratina` (vous pouvez la localiser grâce à l’Arc Phone). Cette île gigantesque se situe dans le `Monde Distorsion`.
+
+Une fois devant le `Piédestal de Giratina`, utilisez une `Orbe Grise` pour invoquer un Giratina niveau 70, avec 2% de chance qu’il soit chromatique.
+
+Vous recevrez également un `Globe d’Antimatière` après avoir utilisé le piédestal. En le combinant avec les deux autres Globes ainsi qu’une `Flûte Célestica`, vous pourrez fabriquer la `Flûte Azur`, permettant d’obtenir Arceus.
 
 ---
 
@@ -301,12 +390,12 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 | Stat            | Valeur |
 | --------------- | ------ |
-| ❤️ HP           | 120     |
+| ❤️ HP           | 120    |
 | ⚔️ Attaque      | 70     |
 | 🛡️ Défense     | 110    |
-| ✨ Attaque Spé.  | 75    |
+| ✨ Attaque Spé. | 75     |
 | 🌙 Défense Spé. | 120    |
-| ⚡ Vitesse       | 85     |
+| ⚡ Vitesse      | 85     |
 
 ![Cresselia](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/cresselia.png) ![Cresselia Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/cresselia_shiny.png)
 
@@ -315,6 +404,14 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 ### 🎯 Talent de la forme
 
 - **Talent :** Lévitation
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Cresselia, vous devez utiliser un `Mécanisme de sommeil`. Fabriquez et utilisez une `Flûte de la Pleine Lune` à partir de 5 `Plumes Lunaires`, obtenues en dormant sous l’effet de `Rêve Lucide`, lui-même activé en dormant près d’un `Attrape-Rêves`.
+
+Une fois la flûte obtenue, faites un clic droit avec celle-ci en main pour invoquer Cresselia, avec 2% de chance qu’il soit chromatique.
 
 ---
 
@@ -338,10 +435,10 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 | --------------- | ------ |
 | ❤️ HP           | 70     |
 | ⚔️ Attaque      | 90     |
-| 🛡️ Défense     | 90    |
-| ✨ Attaque Spé.  | 135    |
-| 🌙 Défense Spé. | 90    |
-| ⚡ Vitesse       | 125     |
+| 🛡️ Défense     | 90     |
+| ✨ Attaque Spé. | 135    |
+| 🌙 Défense Spé. | 90     |
+| ⚡ Vitesse      | 125    |
 
 ![Darkrai](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/darkrai.png) ![Darkrai Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/darkrai_shiny.png)
 
@@ -353,44 +450,17 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 ---
 
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Darkrai, vous devez utiliser un `Mécanisme de sommeil`. Fabriquez et utilisez une `Flûte de la Nouvelle Lune` à partir de 5 `Essences de Cauchemar`, obtenues en dormant sous l’effet de `Rêve Lucide`, lui-même activé en dormant près d’un `Attrape-Rêves`. Attention : faire un cauchemar peut être douloureux.
+
+Une fois la flûte obtenue, faites un clic droit avec celle-ci en main pour invoquer Darkrai, avec 2% de chance qu’il soit chromatique.
+
+---
+
 ### 📜 Description
 
 > Il endort humains et Pokémon, et leur fait avoir des cauchemars pour les chasser de son territoire.
-
-&#8203;
-
-## 🌸 Shaymin
-
-### 🧾 Informations générales
-
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_plante.png)
-
----
-
-### 📊 Statistiques
-
-| Stat            | Valeur |
-| --------------- | ------ |
-| ❤️ HP           | 100     |
-| ⚔️ Attaque      | 100     |
-| 🛡️ Défense     | 100    |
-| ✨ Attaque Spé.  | 100    |
-| 🌙 Défense Spé. | 100    |
-| ⚡ Vitesse       | 100     |
-
-![Shaymin](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/shaymin.png) ![Shaymin Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/shaymin_shiny.png)
-
----
-
-### 🎯 Talent de la forme
-
-- **Talent :** Médic Nature
-
----
-
-### 📜 Description
-
-> Il prend son essor pour répandre la gratitude lorsque les Gracidées fleurissent.
 
 &#8203;
 
@@ -406,12 +476,12 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 | Stat            | Valeur |
 | --------------- | ------ |
-| ❤️ HP           | 120     |
-| ⚔️ Attaque      | 120     |
+| ❤️ HP           | 120    |
+| ⚔️ Attaque      | 120    |
 | 🛡️ Défense     | 120    |
-| ✨ Attaque Spé.  | 120    |
+| ✨ Attaque Spé. | 120    |
 | 🌙 Défense Spé. | 120    |
-| ⚡ Vitesse       | 120     |
+| ⚡ Vitesse      | 120    |
 
 ![Arceus](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/arceus.png) ![Arceus Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_4/arceus_shiny.png)
 
@@ -423,9 +493,19 @@ Les mythes de Sinnoh remontent à la création même de l'univers. Temps, espace
 
 ---
 
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Arceus, vous devez utiliser la `Flûte Azur` pour accéder au `Hall de l’Origine`.
+
+Pour cela, vous devez d’abord invoquer Dialga, Palkia et Giratina grâce à leurs piédestaux. Vous obtiendrez ainsi trois globes : `Globe du Temps`, `Globe de l’Espace` et `Globe d’Antimatière`. En les combinant avec une `Flûte Célestica`, vous fabriquerez la `Flûte Azur`.
+
+Une fois la `Flûte Azur` en main, faites un clic droit pour être téléporté dans le `Hall de l’Origine`. En haut des marches, un Arceus niveau 90 apparaîtra, avec 2% de chance qu’il soit chromatique.
+
+---
+
 ### 📜 Description
 
-> La mythologie de Sinnoh veut qu'il soit apparu sous forme d'oeuf et ait créé le monde.
+> La mythologie de Sinnoh veut qu'il soit apparu sous forme d'œuf et ait créé le monde.
 
 ---
 
