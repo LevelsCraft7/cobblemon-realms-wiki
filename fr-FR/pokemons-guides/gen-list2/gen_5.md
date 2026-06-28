@@ -35,6 +35,14 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ---
 
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Victini, vous devez trouver un `Liberty Pass`, qui a 25% de chances d’être trouvé dans les coffres des temples du désert.
+
+Une fois le pass en votre possession, vous devez trouver le Liberty Garden (vous pouvez le localiser grâce à l’Arc Phone) et utiliser le pass sur le `Verrou de Victini`. Un Victini niveau 60 apparaîtra, avec 2% de chance d’être chromatique.
+
+---
+
 ### 📜 Description
 
 > Son corps produit une énergie sans limites qu'il peut partager avec ceux qu'il touche.
@@ -57,8 +65,8 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 | ⚔️ Attaque      | 90     |
 | 🛡️ Défense     | 129    |
 | ✨ Attaque Spé.  | 90    |
-| 🌙 Défense Spé. | 72    |
-| ⚡ Vitesse       | 108     |
+| 🌙 Défense Spé. | 72     |
+| ⚡ Vitesse       | 108    |
 
 ![Cobalion](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/cobalion.png) ![Cobalion Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/cobalion_shiny.png)
 
@@ -67,6 +75,16 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 ### 🎯 Talent de la forme
 
 - **Talent :** Cœur Noble
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Cobalion, vous devez collecter 50 `Cobalion Footprints` en faisant un clic droit dessus. Ces empreintes peuvent être trouvées dans n’importe quel biome de l’Overworld.
+
+Une fois la 50e empreinte collectée, un Cobalion niveau 40 apparaîtra, avec 2% de chance d’être chromatique.
+
+Vous recevrez également des `Special Meat Chunks` lors de l’invocation de Cobalion, que vous pourrez combiner avec ceux de Virizion et Terrakion pour fabriquer le `Curry of Justice`, permettant d’obtenir Keldeo.
 
 ---
 
@@ -89,19 +107,29 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 | Stat            | Valeur |
 | --------------- | ------ |
 | ❤️ HP           | 91     |
-| ⚔️ Attaque      | 129     |
-| 🛡️ Défense     | 90    |
-| ✨ Attaque Spé.  | 72    |
-| 🌙 Défense Spé. | 90    |
-| ⚡ Vitesse       | 108     |
+| ⚔️ Attaque      | 129    |
+| 🛡️ Défense     | 90     |
+| ✨ Attaque Spé.  | 72     |
+| 🌙 Défense Spé. | 90     |
+| ⚡ Vitesse       | 108    |
 
-![Terrakium](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/terrakion.png) ![Terrakium Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/terrakion_shiny.png)
+![Terrakion](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/terrakion.png) ![Terrakion Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/terrakion_shiny.png)
 
 ---
 
 ### 🎯 Talent de la forme
 
-- **Talent :**  Cœur Noble
+- **Talent :** Cœur Noble
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Terrakion, vous devez collecter 50 `Terrakion Footprints` en faisant un clic droit dessus. Ces empreintes peuvent être trouvées dans n’importe quel biome de l’Overworld.
+
+Une fois la 50e empreinte collectée, un Terrakion niveau 40 apparaîtra, avec 2% de chance d’être chromatique.
+
+Vous recevrez également des `Special Spices` lors de l’invocation de Terrakion, que vous pourrez combiner avec ceux de Cobalion et Virizion pour fabriquer le `Curry of Justice`, permettant d’obtenir Keldeo.
 
 ---
 
@@ -125,18 +153,28 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 | --------------- | ------ |
 | ❤️ HP           | 91     |
 | ⚔️ Attaque      | 90     |
-| 🛡️ Défense     | 72    |
-| ✨ Attaque Spé.  | 90    |
+| 🛡️ Défense     | 72     |
+| ✨ Attaque Spé.  | 90     |
 | 🌙 Défense Spé. | 129    |
-| ⚡ Vitesse       | 108     |
+| ⚡ Vitesse       | 108    |
 
-![Viridium](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/virizion.png) ![Viridium Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/virizion_shiny.png)
+![Virizion](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/virizion.png) ![Virizion Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/virizion_shiny.png)
 
 ---
 
 ### 🎯 Talent de la forme
 
 - **Talent :** Cœur Noble
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Virizion, vous devez collecter 50 `Virizion Footprints` en faisant un clic droit dessus. Ces empreintes peuvent être trouvées dans n’importe quel biome de l’Overworld.
+
+Une fois la 50e empreinte collectée, un Virizion niveau 40 apparaîtra, avec 2% de chance d’être chromatique.
+
+Vous recevrez également des `Special Leafy Greens` lors de l’invocation de Virizion, que vous pourrez combiner avec ceux de Cobalion et Terrakion pour fabriquer le `Curry of Justice`, permettant d’obtenir Keldeo.
 
 ---
 
@@ -151,6 +189,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 ### 🧾 Informations générales
 
 - **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_dragon.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_feu.png)
+
 ---
 
 ### 📊 Statistiques
@@ -162,7 +201,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 | 🛡️ Défense     | 100    |
 | ✨ Attaque Spé.  | 150    |
 | 🌙 Défense Spé. | 120    |
-| ⚡ Vitesse       | 90   |
+| ⚡ Vitesse       | 90     |
 
 ![Reshiram](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/reshiram.png) ![Reshiram Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/reshiram_shiny.png)
 
@@ -171,6 +210,16 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 ### 🎯 Talent de la forme
 
 - **Talent :** Turbo Brasier
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Reshiram, vous devez fabriquer une `Light Stone` à partir de 9 `Light Stone Shards`, obtenus en battant des Pokémon de type Dragon (les évolutions supérieures augmentent les chances) ou garantis en battant les Wardens et le Wither Boss.
+
+Une fois la `Light Stone` obtenue, vous devez trouver la Dragonspiral Tower (vous pouvez la localiser grâce à l’Arc Phone) et placer la pierre ainsi qu’une `Fire Gem` sur chacun des deux `Reshiram Pedestals`. Un Reshiram niveau 60 apparaîtra, avec 2% de chance d’être chromatique.
+
+Vous recevrez également une `Truth Bottle` lors de l’activation des pédestaux, que vous pourrez combiner avec la `Ideals Bottle` pour obtenir Kyurem.
 
 ---
 
@@ -195,8 +244,8 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 | ❤️ HP           | 100     |
 | ⚔️ Attaque      | 150     |
 | 🛡️ Défense     | 120    |
-| ✨ Attaque Spé.  | 120    |
-| 🌙 Défense Spé. | 100    |
+| ✨ Attaque Spé.  | 120     |
+| 🌙 Défense Spé. | 100     |
 | ⚡ Vitesse       | 90     |
 
 ![Zekrom](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/zekrom.png) ![Zekrom Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/zekrom_shiny.png)
@@ -206,6 +255,16 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 ### 🎯 Talent de la forme
 
 - **Talent :** Téra-Voltage
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Zekrom, vous devez fabriquer une `Dark Stone` à partir de 9 `Dark Stone Shards`, obtenus en battant des Pokémon de type Dragon (les évolutions supérieures augmentent les chances) ou garantis en battant les Wardens et le Wither Boss.
+
+Une fois la `Dark Stone` obtenue, vous devez trouver la Dragonspiral Tower (vous pouvez la localiser grâce à l’Arc Phone) et placer la pierre ainsi qu’une `Electric Gem` sur chacun des deux `Zekrom Pedestals`. Un Zekrom niveau 60 apparaîtra, avec 2% de chance d’être chromatique.
+
+Vous recevrez également une `Ideals Bottle` lors de l’activation des pédestaux, que vous pourrez combiner avec la `Truth Bottle` pour obtenir Kyurem.
 
 ---
 
@@ -229,9 +288,9 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 | --------------- | ------ |
 | ❤️ HP           | 125     |
 | ⚔️ Attaque      | 130     |
-| 🛡️ Défense     | 90    |
-| ✨ Attaque Spé.  | 130    |
-| 🌙 Défense Spé. | 90    |
+| 🛡️ Défense     | 90     |
+| ✨ Attaque Spé.  | 130     |
+| 🌙 Défense Spé. | 90     |
 | ⚡ Vitesse       | 95     |
 
 ![Kyurem](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/kyurem.png) ![Kyurem Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/kyurem_shiny.png)
@@ -241,6 +300,14 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 ### 🎯 Talent de la forme
 
 - **Talent :** Pression
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Kyurem, vous devez d’abord invoquer Reshiram et Zekrom via leurs pédestaux, ce qui vous permettra d’obtenir deux objets : la `Truth Bottle` et la `Ideals Bottle`.
+
+Une fois ces deux bouteilles en votre possession, vous devez trouver la Kyurem Cave (vous pouvez la localiser grâce à l’Arc Phone) et utiliser les deux bouteilles sur les `Kyurem Pedestals`. Un Kyurem niveau 60 apparaîtra, avec 2% de chance d’être chromatique.
 
 ---
 
@@ -264,10 +331,10 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 | --------------- | ------ |
 | ❤️ HP           | 91     |
 | ⚔️ Attaque      | 72     |
-| 🛡️ Défense     | 90    |
+| 🛡️ Défense     | 90     |
 | ✨ Attaque Spé.  | 129    |
-| 🌙 Défense Spé. | 90    |
-| ⚡ Vitesse       | 108     |
+| 🌙 Défense Spé. | 90     |
+| ⚡ Vitesse       | 108    |
 
 ![Keldeo](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/keldeo.png) ![Keldeo Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/keldeo_shiny.png)
 
@@ -276,6 +343,16 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 ### 🎯 Talent de la forme
 
 - **Talent :** Cœur Noble
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Keldeo, vous devez d’abord invoquer Cobalion, Terrakion et Virizion en collectant leurs empreintes. Cela vous permettra d’obtenir trois ingrédients : `Special Meat Chunks`, `Special Spices` et `Special Leafy Greens`.
+
+En combinant ces trois ingrédients, vous obtenez le `Curry of Justice`.
+
+Une fois le `Curry of Justice` en votre possession, faites simplement un clic droit avec celui-ci en main. Un Keldeo niveau 50 apparaîtra, avec 2% de chance d’être chromatique.
 
 ---
 
