@@ -35,6 +35,12 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ---
 
+### 🗝️ Moyen d'obtention
+
+**Information manquante**
+
+---
+
 ### 📜 Description
 
 > On dit qu’il s’agit de la figure fraternelle et du rival de Zamazenta, un Pokémon plongé dans un long sommeil.
@@ -67,6 +73,12 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 ### 🎯 Talent de la forme
 
 - **Talent :** Égide Inflexible
+
+---
+
+### 🗝️ Moyen d'obtention
+
+**Information manquante**
 
 ---
 
@@ -105,6 +117,16 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ---
 
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Éthernatos, vous devez trouver le `Cocoon Block` d’Éthernatos dans The End (localisable via l’Arc Phone).
+
+Ensuite, vous devez y injecter un total de 500 `Galar Particles`, un minerai qui apparaît dans l’Overworld et sert à la fois de combustible et de poudre d’os.
+
+Une fois les 500 particules fournies, faites un clic droit sur le bloc : un Éthernatos niveau 70 apparaîtra, avec 2% de chance d’être chromatique.
+
+---
+
 ### 📜 Description
 
 > Il se trouvait dans une météorite qui s’est écrasée il y a 20 000 ans. Il semble y avoir un lien entre ce Pokémon et le phénomène Dynamax.
@@ -125,10 +147,10 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 | --------------- | ------ |
 | ❤️ HP           | 80     |
 | ⚔️ Attaque      | 100     |
-| 🛡️ Défense     | 50    |
+| 🛡️ Défense     | 50     |
 | ✨ Attaque Spé.  | 100    |
-| 🌙 Défense Spé. | 50    |
-| ⚡ Vitesse       | 200     |
+| 🌙 Défense Spé. | 50     |
+| ⚡ Vitesse       | 200    |
 
 ![Regieleki](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/regieleki.png) ![Regieleki Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/regieleki_shiny.png)
 
@@ -137,6 +159,23 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 ### 🎯 Talent de la forme
 
 - **Talent :** Transistor
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Regieleki, vous devez obtenir soit un `Electric Golem Key`, soit un `Dragon Golem Key`.
+
+- Le `Electric Golem Key` se craft avec 1 `Electric Gem` + 4 `Golem Ingots`
+- Le `Dragon Golem Key` se craft avec 1 `Dragon Gem` + 4 `Golem Ingots`
+
+Les `Golem Ingots` sont fabriqués par lots de 4 via 1 gem correspondante + 4 `Golem Scraps`, obtenus en faisant fondre des `Ancient Rubble` trouvés dans les grottes de niveau Deepslate et inférieur.
+
+Une fois la clé obtenue, vous pouvez ouvrir le `Elekidrago Lock` du Snowpoint Temple (localisable via l’Arc Phone). Le temple propose une épreuve où il faut orienter des flèches dans des cadres colorés afin de reproduire les motifs des murs situés dans les quatre coins du donjon. Une fois les quatre sections complétées, le passage central s’ouvre vers la salle d’invocation.
+
+Dans la salle finale, activez tous les cercles au sol : Regieleki et Regidrago apparaissent niveau 40, avec 2% de chance d’être chromatiques.
+
+Vous obtenez également une `Regirock Tablet`, pouvant être combinée avec les autres tablettes pour fabriquer la `Titan Key` et invoquer Regigigas.
 
 ---
 
@@ -151,6 +190,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 ### 🧾 Informations générales
 
 - **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_dragon.png)
+
 ---
 
 ### 📊 Statistiques
@@ -161,8 +201,8 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 | ⚔️ Attaque      | 100     |
 | 🛡️ Défense     | 50    |
 | ✨ Attaque Spé.  | 100    |
-| 🌙 Défense Spé. | 50    |
-| ⚡ Vitesse       | 80   |
+| 🌙 Défense Spé. | 50     |
+| ⚡ Vitesse       | 80     |
 
 ![Regidrago](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/regidraco.png) ![Regidrago Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/regidraco_shiny.png)
 
@@ -171,6 +211,23 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 ### 🎯 Talent de la forme
 
 - **Talent :** Dent de Dragon
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Regidrago, vous devez obtenir soit un `Electric Golem Key`, soit un `Dragon Golem Key`.
+
+- Le `Electric Golem Key` se craft avec 1 `Electric Gem` + 4 `Golem Ingots`
+- Le `Dragon Golem Key` se craft avec 1 `Dragon Gem` + 4 `Golem Ingots`
+
+Les `Golem Ingots` sont fabriqués par lots de 4 via 1 gem correspondante + 4 `Golem Scraps`, obtenus en faisant fondre des `Ancient Rubble` trouvés dans les grottes de niveau Deepslate et inférieur.
+
+Une fois la clé obtenue, vous pouvez ouvrir le `Elekidrago Lock` du Snowpoint Temple (localisable via l’Arc Phone). Le temple propose une épreuve où il faut orienter des flèches dans des cadres colorés afin de reproduire les motifs des murs situés dans les quatre coins du donjon. Une fois les quatre sections complétées, le passage central s’ouvre vers la salle d’invocation.
+
+Dans la salle finale, activez tous les cercles au sol : Regidrago et Regieleki apparaissent niveau 40, avec 2% de chance d’être chromatiques.
+
+Vous obtenez également une `Regirock Tablet`, pouvant être combinée avec les autres tablettes pour fabriquer la `Titan Key` et invoquer Regigigas.
 
 ---
 
