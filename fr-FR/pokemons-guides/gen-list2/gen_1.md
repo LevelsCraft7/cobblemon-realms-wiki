@@ -193,7 +193,7 @@ Pour obtenir la forme de Galar, utilisez simplement une [Urne Galarienne](https:
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Mew, vous devez utiliser un `Piédestal de Mew` située sur l’Île Finale.
+Pour obtenir Mew, vous devez utiliser un `Piédestal de Mew` située sur l’[Île Finale](bientôtdispo).
 
 Vous devez d’abord trouver une `Vieille Carte Marine`, qui a 50% de chance d’être obtenue dans les coffres des temples de la jungle. 
 
