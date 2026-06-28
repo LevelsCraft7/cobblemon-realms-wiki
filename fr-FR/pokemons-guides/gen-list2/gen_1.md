@@ -90,17 +90,17 @@ Pour obtenir la forme de Galar, utilisez simplement une [Urne Galarienne](https:
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Électhor, vous devez fabriquer une `Urne de Tempête` et vaincre 50 Pokémon de type Électrique, soit en combat rapproché, soit via des combats Pokémon, tout en ayant l’urne dans votre inventaire.
+Pour obtenir Électhor, vous devez fabriquer une [Urne des Tempêtes](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/urns_and_galarian_urns) et vaincre 50 Pokémon de type Électrik, soit en combat rapproché, soit via des combats Pokémon, tout en ayant l’urne dans votre inventaire.
 
 Une fois l’urne remplie, il suffit de faire un clic droit avec celle-ci en main et un Électhor niveau 40 apparaîtra, avec 2% de chance d’être chromatique.
 
-Vous recevrez également une `Pierre de Foudre` lors de l’utilisation de l’urne remplie, que vous pourrez assembler avec les deux autres pierres des oiseaux légendaires pour fabriquer la `Pierre du Vortex`, permettant d’obtenir Lugia.
+Vous recevrez également une `Pierre de Foudre` lors de l’utilisation de l’urne remplie, que vous pourrez assembler avec les deux autres pierres des oiseaux légendaires pour fabriquer la `Pierre du Vortex`, permettant d’obtenir [Lugia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_2#informations-generales-3).
 
 ---
 
 ### 🌨️ Forme de Galar
 
-Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` !
+Pour obtenir la forme de Galar, utilisez simplement une [Urne Galarienne](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/urns_and_galarian_urns) !
 
 ---
 
@@ -142,17 +142,17 @@ Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` !
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Sulfura, vous devez fabriquer une `Urne de Braises` et vaincre 50 Pokémon de type Feu, soit en combat rapproché, soit via des combats Pokémon, tout en ayant l’urne dans votre inventaire.
+Pour obtenir Sulfura, vous devez fabriquer une [Urne de Braises](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/urns_and_galarian_urns) et vaincre 50 Pokémon de type Feu, soit en combat rapproché, soit via des combats Pokémon, tout en ayant l’urne dans votre inventaire.
 
 Une fois l’urne remplie, il suffit de faire un clic droit avec celle-ci en main et un Sulfura niveau 40 apparaîtra, avec 2% de chance d’être chromatique.
 
-Vous recevrez également une `Pierre de Flamme` lors de l’utilisation de l’urne remplie, que vous pourrez assembler avec les deux autres pierres des oiseaux légendaires pour fabriquer la `Pierre du Vortex`, permettant d’obtenir Lugia.
+Vous recevrez également une `Pierre de Flamme` lors de l’utilisation de l’urne remplie, que vous pourrez assembler avec les deux autres pierres des oiseaux légendaires pour fabriquer la `Pierre du Vortex`, permettant d’obtenir [Lugia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_2#informations-generales-3).
 
 ---
 
 ### 🌨️ Forme de Galar
 
-Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` !
+Pour obtenir la forme de Galar, utilisez simplement une [Urne Galarienne](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/urns_and_galarian_urns) !
 
 ---
 
@@ -193,13 +193,21 @@ Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` !
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Mew, vous devez utiliser une `Stèle de Mew` située sur l’Île Finale.
+Pour obtenir Mew, vous devez utiliser un `Piédestal de Mew` située sur l’Île Finale.
 
-Vous devez d’abord trouver une `Carte de la Vieille Mer`, qui a 50% de chance d’être obtenue dans les coffres des temples de la jungle. (Note : la carte de la Vieille Mer ne fonctionne pas comme une carte Minecraft classique)
+Vous devez d’abord trouver une `Vieille Carte Marine`, qui a 50% de chance d’être obtenue dans les coffres des temples de la jungle. 
 
-Une fois la carte en votre possession, vous devez trouver l’Île Finale (vous pouvez la localiser grâce à l’Arc Phone) et placer la carte sur la `Stèle de Mew`, ce qui fera apparaître un Mew niveau 40, avec 2% de chance d’être chromatique.
+{% hint style="success" %}
+## ℹ️ Note
 
-Vous recevrez également une `Touffe de poils de Mew`, qui n’a actuellement aucune utilité.
+<p align="center">
+La <code>Vieille Carte Marine</code> ne fonctionne pas comme une carte Minecraft classique.
+</p>
+{% endhint %}
+
+Une fois la carte en votre possession, vous devez trouver l’[Île Finale](bientôtdispo) (vous pouvez la localiser grâce avec le [Smarceus](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/smarceus)) et placer la carte sur le `Piédestal de Mew`, ce qui fera apparaître un Mew niveau 40, avec 2% de chance d’être chromatique.
+
+Vous recevrez également une `Touffe de poils de Mew`, qui n’a pour le moment aucune utilité.
 
 ---
 
