@@ -35,6 +35,14 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ---
 
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Chongjian, vous devez collecter à la main, en faisant clic droit, 8 `Grasswither Stakes` trouvables dans n’importe quel biome du Nether.
+
+Une fois les 8 `Grasswither Stakes` obtenues, vous pouvez interagir avec le `Grasswither Shrine` (localisable via l’Arc Phone) dans le Nether afin de faire apparaître Chongjian niveau 50, avec 2% de chance d’être chromatique.
+
+---
+
 ### 📜 Description
 
 > Il absorbe l’énergie de la végétation, ce qui a pour effet de dessécher instantanément les forêts alentour et de rendre les champs infertiles.
@@ -54,11 +62,11 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 | Stat            | Valeur |
 | --------------- | ------ |
 | ❤️ HP           | 80     |
-| ⚔️ Attaque      | 120     |
-| 🛡️ Défense     | 80    |
-| ✨ Attaque Spé.  | 90    |
-| 🌙 Défense Spé. | 65    |
-| ⚡ Vitesse       | 135     |
+| ⚔️ Attaque      | 120    |
+| 🛡️ Défense     | 80     |
+| ✨ Attaque Spé.  | 90     |
+| 🌙 Défense Spé. | 65     |
+| ⚡ Vitesse       | 135    |
 
 ![Baojian](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/chienpao.png) ![Baojian Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/chienpao_shiny.png)
 
@@ -67,6 +75,14 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 ### 🎯 Talent de la forme
 
 - **Talent :** Épée du Fléau
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Baojian, vous devez collecter à la main, en faisant clic droit, 8 `Icerend Stakes` trouvables dans n’importe quel biome du Nether.
+
+Une fois les 8 `Icerend Stakes` obtenues, vous pouvez interagir avec le `Icerend Shrine` (localisable via l’Arc Phone) dans le Nether afin de faire apparaître Baojian niveau 50, avec 2% de chance d’être chromatique.
 
 ---
 
@@ -80,7 +96,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_tenebres.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_sol.png) 
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_tenebres.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_sol.png)
 
 ---
 
@@ -92,7 +108,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 | ⚔️ Attaque      | 110     |
 | 🛡️ Défense     | 125    |
 | ✨ Attaque Spé.  | 55    |
-| 🌙 Défense Spé. | 80    |
+| 🌙 Défense Spé. | 80     |
 | ⚡ Vitesse       | 45     |
 
 ![Dinglu](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/tinglu.png) ![Dinglu Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_9/tinglu_shiny.png)
@@ -102,6 +118,14 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 ### 🎯 Talent de la forme
 
 - **Talent :** Urne du Fléau
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Dinglu, vous devez collecter à la main, en faisant clic droit, 8 `Groundblight Stakes` trouvables dans n’importe quel biome du Nether.
+
+Une fois les 8 `Groundblight Stakes` obtenues, vous pouvez interagir avec le `Groundblight Shrine` (localisable via l’Arc Phone) dans le Nether afin de faire apparaître Dinglu niveau 50, avec 2% de chance d’être chromatique.
 
 ---
 
@@ -125,7 +149,7 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 | --------------- | ------ |
 | ❤️ HP           | 55     |
 | ⚔️ Attaque      | 80     |
-| 🛡️ Défense     | 80    |
+| 🛡️ Défense     | 80     |
 | ✨ Attaque Spé.  | 135    |
 | 🌙 Défense Spé. | 120    |
 | ⚡ Vitesse       | 100     |
@@ -137,6 +161,14 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 ### 🎯 Talent de la forme
 
 - **Talent :** Perles du Fléau
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Yuyu, vous devez collecter à la main, en faisant clic droit, 8 `Firescourge Stakes` que vous pouvez trouver dans n’importe quel biome du Nether.
+
+Une fois les 8 `Firescourge Stakes` obtenues, vous pouvez interagir avec le `Firescourge Shrine` (localisable via l’Arc Phone) dans le Nether afin de faire apparaître Yuyu niveau 50, avec 2% de chance d’être chromatique.
 
 ---
 
