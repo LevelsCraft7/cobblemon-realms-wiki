@@ -2,10 +2,6 @@
 
 {% hint style="info" %}
 <p align="center">
-🤔 Qu’est-ce que le <strong>Smarceus</strong> ?
-</p>
-
-<p align="center">
 Le Smarceus est un appareil multifonction permettant de localiser et analyser les <strong>Structures Légendaires</strong> dans différentes dimensions.
 </p>
 {% endhint %}
