@@ -2,50 +2,50 @@
 
 {% hint style="info" %}
 <p align="center">
-Le Smarceus est un appareil multifonction permettant de localiser les <strong>Structures Légendaires</strong> à travers les différentes dimensions.
+Le <strong>Smarceus</strong> est un appareil portable permettant de localiser les <strong>Structures Légendaires</strong> à travers les dimensions.
 </p>
 {% endhint %}
 
 ---
 
-## ⚙️ Comment ça fonctionne ?
+## ⚙️ Interface du Smarceus
 
-Le Smarceus agit comme une interface portable regroupant plusieurs applications.
+Le Smarceus centralise plusieurs applications dans un seul appareil.
 
 👉 Clic droit avec l’objet en main pour ouvrir l’interface  
-👉 Utilise ta souris pour naviguer entre les applications
+👉 Navigue entre les applications à l’aide de la souris
 
 ---
 
 ## 🧭 Tracker Légendaire
 
-L’application **Tracker Légendaire** permet de localiser les Structures Légendaires disponibles.
+Permet de **localiser les structures disponibles dans ta dimension actuelle**.
 
-Une liste déroulante affiche toutes les structures détectables par l’appareil.
+Une liste déroulante affiche toutes les structures détectables.
 
 ---
 
 ## 🔒 Structures verrouillées
 
-Chaque structure nécessite un **objet spécifique** pour être détectée.
+Certaines structures nécessitent un **objet spécifique** pour être suivies.
 
 Ces objets peuvent provenir de :
-- Minecraft vanilla
+- Minecraft Vanilla
 - Mega Showdown
 - Legendary Monuments
 
-👉 Si tu ne possèdes pas l’objet :
+⚠️ Si tu ne possèdes pas l’objet :
 - la structure apparaît en **gris**
-- tu peux quand même la sélectionner
-- l’objet requis s’affiche brièvement
+- elle reste sélectionnable
+- l’objet requis est affiché brièvement
 
 ---
 
 ## ✅ Structures disponibles
 
-👉 Si tu possèdes l’objet requis :
+✔️ Si tu possèdes l’objet requis :
 - le nom apparaît en **blanc**
-- la structure peut être suivie normalement
+- la structure peut être suivie instantanément
 
 ---
 
@@ -53,14 +53,14 @@ Ces objets peuvent provenir de :
 
 Lorsque tu sélectionnes une structure :
 
-- le Smarceus scanne ta dimension actuelle
+🧠 Le Smarceus analyse ta dimension actuelle
 
-S’il trouve une structure, il affiche :
+S’il détecte une structure, il affiche :
 
-| 📌 Information | 📜 Détail |
+| 📌 Info | 📜 Détail |
 |:--:|:--:|
 | Coordonnées | Position exacte |
-| Distance | Éloignement du joueur |
+| Distance | Distance par rapport au joueur |
 | Direction | Orientation générale |
 
 ---
