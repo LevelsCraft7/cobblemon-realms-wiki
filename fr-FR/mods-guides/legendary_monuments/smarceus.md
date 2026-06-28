@@ -14,7 +14,7 @@ Le **Smarceus** centralise plusieurs applications dans un seul appareil.
 
 👉 Clic droit avec l'objet en main pour ouvrir l'interface
 <br>
-👉 Navigue entre les applications via les boutons fléchés à l'écran
+👉 Navigue entre les applications via les boutons à l’écran
 
 ---
 
