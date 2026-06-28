@@ -154,3 +154,79 @@ La structure apparaît dans les **biomes de type plaines et environnements simil
 </details>
 
 &#8203;
+
+# 🌳 Arbre Dyna
+
+{% hint style="info" %}
+<p align="center">
+Structure permettant d’obtenir les <strong>Fruits Dyna</strong>.
+</p>
+{% endhint %}
+
+---
+
+## 🧭 Aperçu rapide
+
+- 🎯 Objectif : obtenir des Fruits Dyna 
+- 🏗️ Type : structure naturelle  
+- 🎁 Récompense : fruits spéciaux  
+- ⚠️ Particularité : coffre situé à la base de l’arbre  
+
+---
+
+## 🍎 Dyna Fruits
+
+Les Dyna Fruits sont utilisés pour :
+
+- ⚱️ Craft des [Urnes Galariennes](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/urns_and_galarian_urns)
+- 🕊️ Progression vers le **Trio des Oiseaux de Galar**
+
+👉 Ils sont contenus dans un coffre situé **au pied de l’arbre**
+
+---
+
+## 🌍 Génération
+
+<details>
+<summary>🌿 <strong>Biome de génération</strong></summary>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Catégorie</th>
+    <th>Tags</th>
+  </tr>
+
+  <tr>
+    <td>🌳 <strong>Plaines Dyna</strong></td>
+    <td>
+      <code>legendarymonuments:dyna_plains</code><br>
+      <code>minecraft:plains</code>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+</details>
+
+---
+
+## 📌 Particularités
+
+- 🌳 Structure centrée autour d’un arbre géant
+- 📦 Coffre caché à la base
+- 🍎 Loot unique lié aux systèmes Galar
+
+---
+
+## 🛠️ Utilisation
+
+Les Fruit Dyna servent principalement à :
+
+- ⚱️ Craft des urnes spéciales
+- 🕊️ Progression vers les événements légendaires Galar
+
+&#8203;
