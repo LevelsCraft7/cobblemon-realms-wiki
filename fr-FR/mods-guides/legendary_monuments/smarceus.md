@@ -58,7 +58,7 @@ Lorsque tu sélectionnes une structure, le Smarceus analyse ta dimension actuell
 S’il détecte une correspondance, il affiche les informations suivantes :
 
 | 📌 Info | 📜 Détail |
-|:--:|:--|
+| :---: | :---: |
 | Coordonnées | Position exacte dans la dimension |
 | Distance | Distance par rapport au joueur |
 | Direction | Orientation générale vers la structure |
