@@ -42,7 +42,7 @@ Pour obtenir Artikodin, vous devez fabriquer une [Urne du Givre](mods-guides/leg
 
 Une fois l’urne remplie, il suffit de faire un clic droit avec celle-ci en main et un Artikodin niveau 40 apparaîtra, avec 2% de chance d’être chromatique.
 
-Vous recevrez également une `Pierre Arctique` lors de l’utilisation de l’urne remplie, que vous pourrez assembler avec les deux autres pierres des oiseaux légendaires pour fabriquer la `Pierre du Vortex`, permettant d’obtenir [Lugia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/myths-and-legends/myths-and-legends-legendaries/gen_2#lugia).
+Vous recevrez également une `Pierre Arctique` lors de l’utilisation de l’urne remplie, que vous pourrez assembler avec les deux autres pierres des oiseaux légendaires pour fabriquer la `Pierre du Vortex`, permettant d’obtenir [Lugia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_2#informations-generales-3).
 
 ---
 
