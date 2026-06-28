@@ -38,17 +38,17 @@ Au cœur de Kanto reposent les premières légendes du monde Pokémon. Des oisea
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Artikodin, vous devez fabriquer une `Urne de Givre` et vaincre 50 Pokémon de type Glace, soit en combat rapproché, soit via des combats Pokémon, tout en ayant l’urne dans votre inventaire.
+Pour obtenir Artikodin, vous devez fabriquer une [Urne du Givre](mods-guides/legendary_monuments/all_world.md) et vaincre 50 Pokémon de type Glace, soit en combat rapproché, soit via des combats Pokémon, tout en ayant l’urne dans votre inventaire.
 
 Une fois l’urne remplie, il suffit de faire un clic droit avec celle-ci en main et un Artikodin niveau 40 apparaîtra, avec 2% de chance d’être chromatique.
 
-Vous recevrez également une `Pierre Arctique` lors de l’utilisation de l’urne remplie, que vous pourrez assembler avec les deux autres pierres des oiseaux légendaires pour fabriquer la `Pierre du Vortex`, permettant d’obtenir Lugia.
+Vous recevrez également une `Pierre Arctique` lors de l’utilisation de l’urne remplie, que vous pourrez assembler avec les deux autres pierres des oiseaux légendaires pour fabriquer la `Pierre du Vortex`, permettant d’obtenir [Lugia](myths-and-legends/myths-and-legends-legendaries/gen_2#lugia).
 
 ---
 
 ### 🌨️ Forme de Galar
 
-Pour obtenir la forme de Galar, utilisez simplement une `Urne de Galar` !
+Pour obtenir la forme de Galar, utilisez simplement une [Urne Galarienne](mods-guides/legendary_monuments/all_world.md) !
 
 ---
 
