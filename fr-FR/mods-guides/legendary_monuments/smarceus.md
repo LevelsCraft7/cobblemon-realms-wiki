@@ -13,13 +13,16 @@ Le <strong>Smarceus</strong> est un appareil portable permettant de localiser le
 Le **Smarceus** centralise plusieurs applications dans un seul appareil.
 
 👉 Clic droit avec l'objet en main pour ouvrir l'interface
+<br>
 👉 Navigue entre les applications via les boutons fléchés à l'écran
 
 ---
 
 ## 🧭 Tracker Légendaire
 
-Permet de **localiser les structures disponibles dans ta dimension actuelle**. Une liste déroulante affiche toutes les structures détectables.
+Permet de **localiser les structures disponibles dans ta dimension actuelle**.
+<br>
+Une liste déroulante affiche toutes les structures détectables.
 
 ---
 
