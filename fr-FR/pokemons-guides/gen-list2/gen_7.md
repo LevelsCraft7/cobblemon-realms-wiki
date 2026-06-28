@@ -20,9 +20,9 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 | --------------- | ------ |
 | ❤️ HP           | 43     |
 | ⚔️ Attaque      | 29     |
-| 🛡️ Défense     | 31    |
-| ✨ Attaque Spé.  | 29    |
-| 🌙 Défense Spé. | 31    |
+| 🛡️ Défense     | 31     |
+| ✨ Attaque Spé.  | 29     |
+| 🌙 Défense Spé. | 31     |
 | ⚡ Vitesse       | 37     |
 
 ![Cosmog](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/cosmog.png) ![Cosmog Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_7/cosmog_shiny.png)
@@ -32,6 +32,16 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 ### 🎯 Talent de la forme
 
 - **Talent :** Inconscient
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Cosmog, vous devez collecter à la main, en faisant clic droit avec un `Cosmic Bag`, 50 unités de `Cosmic Dust` trouvables dans The End.
+
+Une fois la 50e poussière collectée, un Cosmog niveau 5 apparaît, avec 2% de chance d’être chromatique.
+
+Après capture, Cosmog évolue en Cosmoem au niveau 43. Cosmoem évolue ensuite au niveau 53, avec un choix final entre Lunala ou Solgaleo.
 
 ---
 
@@ -67,6 +77,23 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 ### 🎯 Talent de la forme
 
 - **Talent :** Magnépiège
+
+---
+
+### 🗝️ Moyen d'obtention
+
+Pour obtenir Meltan, vous devez fabriquer une `Meltan Box` et la poser au sol.
+
+Ensuite, vous devez remplir la boîte avec un total de 50 points de valeur métallique :
+
+- `Copper Ingot` → 1 point  
+- `Iron Ingot` → 2 points  
+- `Gold Ingot` → 3 points  
+- `Netherite Ingot` → 50 points  
+
+Une fois la boîte remplie, faites un clic droit dessus : un Meltan niveau 5 apparaîtra, avec 2% de chance d’être chromatique (la boîte n’est pas consommée).
+
+Par la suite, cette même boîte génère 1 `Meltan Candy` tous les 50 points de métal ajoutés. En donnant 64 `Meltan Candy` à Meltan, il peut évoluer en Melmetal.
 
 ---
 
