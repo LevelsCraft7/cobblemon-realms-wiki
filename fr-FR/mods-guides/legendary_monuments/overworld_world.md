@@ -1,4 +1,4 @@
-# 🏯 Bell Tower
+# 🏯 Tour Carillon
 
 {% hint style="info" %}
 <p align="center">
@@ -32,7 +32,7 @@ Structure permettant d’obtenir <strong>Ho-Oh</strong>.
 
 &#8203;
 
-# 🔥 Burned Tower
+# 🔥 Tour Cendrée
 
 {% hint style="info" %}
 <p align="center">
@@ -66,7 +66,7 @@ Structure permettant d’obtenir <strong>Raikou</strong>, <strong>Entei</strong>
 
 &#8203;
 
-# 🏯 Dragonspiral Tower
+# 🏯 Tour Dragospire
 
 {% hint style="info" %}
 <p align="center">
@@ -174,7 +174,7 @@ Structure permettant d’obtenir les <strong>Fruits Dyna</strong>.
 
 ---
 
-## 🍎 Dyna Fruits
+## 🍎 Fruits Dyna
 
 Les Dyna Fruits sont utilisés pour :
 
@@ -247,7 +247,7 @@ L'Île Finale apparaît :
 
 &#8203;
 
-# ❄️ Kyurem Cave
+# ❄️ Grotte Cyclopéenne
 
 {% hint style="info" %}
 <p align="center">
@@ -482,7 +482,7 @@ La structure apparaît dans les **biomes d'océan profond** :
 
 &#8203;
 
-# 🌊 Temple Lugia
+# 🌊 Tourb'Îles
 
 {% hint style="info" %}
 <p align="center">
@@ -788,7 +788,7 @@ Structure permettant d'obtenir <strong>Dialga</strong> et <strong>Palkia</strong
 
 {% hint style="info" %}
 <p align="center">
-Village de style Edo japonais pouvant générer la <strong>Bell Tower</strong> et la <strong>Burned Tower</strong>.
+Village de style Edo japonais pouvant générer la <strong>Tour Carillon</strong> et la <strong>Tour Cendrée</strong>.
 </p>
 {% endhint %}
 
@@ -817,7 +817,7 @@ Village de style Edo japonais pouvant générer la <strong>Bell Tower</strong> e
 
 {% hint style="info" %}
 <p align="center">
-Peut parfois apparaître avec la <strong>Burned Tower</strong> et la <strong>Bell Tower</strong> !
+Peut parfois apparaître avec la <strong>Tour Cendrée</strong> et la <strong>Tour Carillon</strong> !
 </p>
 {% endhint %}
 
@@ -853,3 +853,13 @@ Structure permettant de trouver le portail vers le <strong>Monde de Distorsion</
 ## 🌍 Génération
 
 - 📌 Biome : Apparaît dans tous les souterrains de l'Overworld, comme le Stronghold.
+
+---
+
+{% hint style="success" %}
+## Nous contactez
+
+<p align="center">
+Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
+</p>
+{% endhint %}
