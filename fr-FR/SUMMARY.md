@@ -62,7 +62,7 @@
    - [🛡️ Les Épaulières](mods-guides/legendary_monuments/regi_pauldrons.md)
    - [🪽 Aile d'Argent](mods-guides/legendary_monuments/silver_wing.md)
    - [🔨 Marteau Titan](mods-guides/legendary_monuments/titan_hammer.md)
-   - [⚱️ Toutes les Urnes](mods-guides/legendary_monuments/urns_and_galarian_urns.md)
+   - [⚱️ Les Urnes](mods-guides/legendary_monuments/urns_and_galarian_urns.md)
 - [🏛️ Toutes les Structures](mods-guides/legendary_monuments/all_world.md)
    - [🌫️🏗️ Structures du Monde Distorsion](mods-guides/legendary_monuments/distortion_world.md)
    - [🌍🏗️ Structures de l’Overworld](mods-guides/legendary_monuments/overworld_world)
