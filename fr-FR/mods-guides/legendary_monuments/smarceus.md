@@ -1,23 +1,37 @@
 # 📱 Smarceus
 
-Le Smarceus est un appareil multifonction dont la fonction principale est de **localiser les Structures Légendaires**.
+{% hint style="info" %}
+<p align="center">
+🤔 Qu’est-ce que le <strong>Smarceus</strong> ?
+</p>
 
-👉 Clic droit avec l’objet en main pour ouvrir son interface  
-👉 Utilise ta souris pour naviguer entre les différentes applications
+<p align="center">
+Le Smarceus est un appareil multifonction permettant de localiser et analyser les <strong>Structures Légendaires</strong> dans différentes dimensions.
+</p>
+{% endhint %}
 
 ---
 
-## 🧭 Application de tracking
+## ⚙️ Fonctionnement général
+
+Le Smarceus agit comme une interface portable regroupant plusieurs applications.
+
+👉 Clic droit avec l’objet en main pour ouvrir l’interface  
+👉 Utilise ta souris pour naviguer entre les applications
+
+---
+
+## 🧭 Tracker Légendaire
 
 L’application **Tracker Légendaire** permet de rechercher les Structures Légendaires disponibles.
 
-Dans l’interface, tu trouveras une liste déroulante regroupant toutes les structures détectables par l’appareil.
+Une liste déroulante affiche toutes les structures détectables par l’appareil.
 
 ---
 
 ### 🔒 Conditions de détection
 
-Chaque structure nécessite un **objet spécifique** pour pouvoir être suivie.
+Chaque structure nécessite un **objet spécifique** pour être localisée.
 
 Ces objets peuvent provenir de :
 - Minecraft vanilla
@@ -28,33 +42,48 @@ Ces objets peuvent provenir de :
 
 ### ⚠️ Structure verrouillée
 
-- Si l’objet requis est **absent de ton inventaire** :
+- Si l’objet requis est **absent de votre inventaire** :
   - la structure apparaît en **gris**
   - elle reste sélectionnable
-  - l’appareil affiche brièvement l’objet requis
+  - l’objet requis est affiché temporairement
 
 ---
 
 ### ✅ Structure disponible
 
-- Si tu possèdes l’objet requis :
+- Si l’objet requis est présent :
   - le nom apparaît en **blanc**
   - la structure peut être suivie normalement
 
 ---
 
-## 📍 Fonction de recherche
+## 📍 Résultat de recherche
 
-Lorsque tu sélectionnes une structure :
+Lorsque vous sélectionnez une structure :
 
-- Le Smarceus recherche une structure dans ta dimension actuelle
-- Une fois trouvée, il affiche :
-  - ses coordonnées 📌
-  - la distance 📏
-  - la direction générale 🧭
+- Le Smarceus analyse votre dimension actuelle
+- S’il trouve une structure, il affiche :
+
+| Information | Description |
+|:---:|:---|
+| 📌 Coordonnées | Position exacte |
+| 📏 Distance | Éloignement du joueur |
+| 🧭 Direction | Orientation générale |
 
 ---
 
-## 🛠️ Méthode de fabrication
+## 🛠️ Fabrication
 
-> 🔧 [Recette de fabrication à ajouter ici]
+{% hint style="warning" %}
+<p align="center">
+🔧 La recette de fabrication sera ajoutée prochainement.
+</p>
+{% endhint %}
+
+---
+
+{% hint style="success" %}
+<p align="center">
+💡 Le Smarceus est conçu pour faciliter la progression vers les structures légendaires sans exploration aléatoire.
+</p>
+{% endhint %}
