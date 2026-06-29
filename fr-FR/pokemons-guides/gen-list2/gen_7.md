@@ -82,7 +82,7 @@ Après capture, Cosmog évolue en Cosmovum au niveau 43. Cosmovum évolue ensuit
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Meltan, vous devez fabriquer une `Meltan Box` et la poser au sol.
+Pour obtenir Meltan, vous devez fabriquer une `Boîte Meltan` et la poser au sol.
 
 Ensuite, vous devez remplir la boîte avec un total de 50 points de valeur métallique :
 
@@ -95,7 +95,7 @@ Une fois la boîte remplie, faites un clic droit dessus : un **Meltan niveau 5 a
 
 {% hint style="info" %}
 <p align="center">
-La boîte ne sera pas consommée. Elle pourra être réutilisé.
+La boîte ne sera pas consommée. Elle pourra être réutilisée.
 </p>
 {% endhint %}
 
