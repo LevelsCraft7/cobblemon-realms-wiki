@@ -59,7 +59,7 @@ L'**Épaulière Titan** est fabriquée en combinant :
 
 ## 📌 Recettes de fabrication
 
-![Recette de fabrication de l'Épaulière Titan](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_legendary_monuments/craft_epaulieres.png) ![Recette de fabrication du Noyau de Titan](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_legendary_monuments/marteau_titan.png)
+![Recette de fabrication de l'Épaulière](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_legendary_monuments/craft_epaulieres.png) ![Recette de fabrication l'Épaulière Titan](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_legendary_monuments/marteau_titan.png)
 
 ---
 
