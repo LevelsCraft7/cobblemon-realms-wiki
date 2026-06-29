@@ -10,7 +10,7 @@ Structure permettant d'obtenir <strong>Heatran</strong>.
 
 ## 🧭 Aperçu rapide
 
-- 🎯 Objectif : obtenir Heatran
+- 🎯 Objectif : obtenir [Heatran](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#heatran)
 - 🗺️ Gameplay : exploration et invocation
 - ⚠️ Difficulté : élevée
 - 🎁 Loot : nombreux coffres, dont une salle secrète
@@ -23,7 +23,7 @@ Structure permettant d'obtenir <strong>Heatran</strong>.
 - Nombreux monstres dangereux
 - Grande quantité de coffres à explorer
 - Salle secrète contenant du butin supplémentaire
-- Piédestal permettant d'invoquer Heatran
+- Piédestal permettant d'invoquer [Heatran](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#heatran)
 
 ---
 
@@ -63,10 +63,10 @@ Structures permettant d'obtenir <strong>Chongjian</strong>, <strong>Baojian</str
 
 ## 🌍 Génération
 
-- 🍃 **Sanctuaire du Fléau Plante** → invoque **Chongjian** → 🌳 Forêt Biscornue
-- 🧊 **Sanctuaire du Fléau Glace** → invoque **Baojian** → 🪨 Delta de Basalte
-- 🎭 **Sanctuaire du Fléau Terre** → invoque **Dinglu** → 💀 Vallée des Âmes
-- 🔥 **Sanctuaire du Fléau Feu** → invoque **Yuyu** → 🌋 Étendues du Nether
+- 🍃 **Sanctuaire du Fléau Plante** → invoque **[Chongjian](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_9#chongjian)** → 🌳 Forêt Biscornue
+- 🧊 **Sanctuaire du Fléau Glace** → invoque **[Baojian](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_9#baojian)** → 🪨 Delta de Basalte
+- 🎭 **Sanctuaire du Fléau Terre** → invoque **[Dinglu](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_9#dinglu)** → 💀 Vallée des Âmes
+- 🔥 **Sanctuaire du Fléau Feu** → invoque **[Yuyu](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_9#yuyu)** → 🌋 Étendues du Nether
 
 ---
 
