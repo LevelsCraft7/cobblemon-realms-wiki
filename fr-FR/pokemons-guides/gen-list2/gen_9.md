@@ -37,9 +37,9 @@ Des profondeurs du Grand Cratère de Paldea aux contes populaires de Kitakami, d
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Chongjian, vous devez collecter à la main, en faisant clic droit, 8 `Grasswither Stakes` trouvables dans n’importe quel biome du Nether.
+Pour obtenir Chongjian, vous devez collecter les `8 Pieux du Fléau Plante` en effectuant un clic droit dessus. Ils sont trouvables dans n'importe quel biome du Nether.
 
-Une fois les 8 `Grasswither Stakes` obtenues, vous pouvez interagir avec le `Grasswither Shrine` (localisable via l’Arc Phone) dans le Nether afin de faire apparaître Chongjian niveau 50, avec 2% de chance d’être chromatique.
+Une fois les `8 Pieux du Fléau Plante` obtenus, vous pouvez interagir avec le `Sanctuaire du Fléau Plante` dans le Nether afin de faire apparaître **Chongjian au niveau 50**, avec **2% de chance d’être chromatique**.
 
 ---
 
@@ -80,9 +80,9 @@ Une fois les 8 `Grasswither Stakes` obtenues, vous pouvez interagir avec le `Gra
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Baojian, vous devez collecter à la main, en faisant clic droit, 8 `Icerend Stakes` trouvables dans n’importe quel biome du Nether.
+Pour obtenir Baojian, vous devez collecter les `8 Pieux du Fléau Glace` en effectuant un clic droit dessus. Ils sont trouvables dans n'importe quel biome du Nether.
 
-Une fois les 8 `Icerend Stakes` obtenues, vous pouvez interagir avec le `Icerend Shrine` (localisable via l’Arc Phone) dans le Nether afin de faire apparaître Baojian niveau 50, avec 2% de chance d’être chromatique.
+Une fois les `8 Pieux du Fléau Glace` obtenus, vous pouvez interagir avec le `Sanctuaire du Fléau Glace` dans le Nether afin de faire apparaître **Baojian au niveau 50**, avec **2% de chance d’être chromatique**.
 
 ---
 
@@ -123,9 +123,9 @@ Une fois les 8 `Icerend Stakes` obtenues, vous pouvez interagir avec le `Icerend
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Dinglu, vous devez collecter à la main, en faisant clic droit, 8 `Groundblight Stakes` trouvables dans n’importe quel biome du Nether.
+Pour obtenir Dinglu, vous devez collecter les `8 Pieux du Fléau Terre` en effectuant un clic droit dessus. Ils sont trouvables dans n'importe quel biome du Nether.
 
-Une fois les 8 `Groundblight Stakes` obtenues, vous pouvez interagir avec le `Groundblight Shrine` (localisable via l’Arc Phone) dans le Nether afin de faire apparaître Dinglu niveau 50, avec 2% de chance d’être chromatique.
+Une fois les `8 Pieux du Fléau Terre` obtenus, vous pouvez interagir avec le `Sanctuaire du Fléau Terre` dans le Nether afin de faire apparaître **Dinglu au niveau 50**, avec **2% de chance d’être chromatique**.
 
 ---
 
@@ -166,9 +166,9 @@ Une fois les 8 `Groundblight Stakes` obtenues, vous pouvez interagir avec le `Gr
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Yuyu, vous devez collecter à la main, en faisant clic droit, 8 `Firescourge Stakes` que vous pouvez trouver dans n’importe quel biome du Nether.
+Pour obtenir Yuyu, vous devez collecter les `8 Pieux du Fléau Feu` en effectuant un clic droit dessus. Ils sont trouvables dans n'importe quel biome du Nether.
 
-Une fois les 8 `Firescourge Stakes` obtenues, vous pouvez interagir avec le `Firescourge Shrine` (localisable via l’Arc Phone) dans le Nether afin de faire apparaître Yuyu niveau 50, avec 2% de chance d’être chromatique.
+Une fois les `8 Pieux du Fléau Feu` obtenus, vous pouvez interagir avec le `Sanctuaire du Fléau Feu` dans le Nether afin de faire apparaître **Yuyu au niveau 50**, avec **2% de chance d’être chromatique**.
 
 ---
 
@@ -179,7 +179,7 @@ Une fois les 8 `Firescourge Stakes` obtenues, vous pouvez interagir avec le `Fir
 ---
 
 {% hint style="success" %}
-## Nous contactez
+## Nous contacter
 
 <p align="center">
 Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
