@@ -39,7 +39,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 Pour obtenir Hoopa, vous devez trouver la [Pyramide Hoopa]() dans l’End et compléter ses épreuves : un labyrinthe, un combat et un quiz.
 
-Une fois ces épreuves terminées, vous obtiendrez la `Prison Bottle (Vase Scellé)` ainsi que la `Clé du Temple`.
+Une fois ces épreuves terminées, vous obtiendrez la `Vase Scellé` ainsi que la `Clé du Temple`.
 
 En plaçant ces deux objets sur les `Piédestal de Hoopa`, un **Hoopa niveau 60 apparaîtra**, avec **2% de chance d’être chromatique**.
 
