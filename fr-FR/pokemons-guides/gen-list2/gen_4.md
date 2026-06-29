@@ -43,6 +43,12 @@ Dans la caverne du lac, éliminez tous les Pokémon invoqués par le `Cobblemon 
 
 Utilisez ensuite la `Preuve de Conquête (U)` pour invoquer Créhelf, avec **2% de chance qu'il soit chromatique**.
 
+{% hint style="info" %}
+<p align="center">
+Le <strong>(U)</strong> dans <strong>Preuve de Conquête (U)</strong> correspond à <strong>Uxie</strong>, le nom anglais de <strong>Créhelf</strong>.
+</p>
+{% endhint %}
+
 Vous recevrez également la `Griffe de Créhelf` après avoir utilisé la `Preuve de Conquête (U)`. En la combinant avec les deux autres reliques des Gardiens des Lacs, vous pourrez fabriquer la `Chaîne Rouge`, permettant d'obtenir [Dialga](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#dialga) et [Palkia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#palkia).
 
 ---
@@ -90,6 +96,12 @@ Dans la caverne du lac, éliminez tous les Pokémon invoqués par le `Cobblemon 
 
 Utilisez ensuite la `Preuve de Conquête (M)` pour invoquer Créfollet, avec **2% de chance qu'il soit chromatique**.
 
+{% hint style="info" %}
+<p align="center">
+Le <strong>(M)</strong> dans <strong>Preuve de Conquête (M)</strong> correspond à <strong>Mesprit</strong>, le nom anglais de <strong>Créfollet</strong>.
+</p>
+{% endhint %}
+
 Vous recevrez également une `Plume de Créfollet` après avoir utilisé la `Preuve de Conquête (M)`. En la combinant avec les deux autres reliques des Gardiens des Lacs, vous pourrez fabriquer la `Chaîne Rouge`, permettant d'obtenir [Dialga](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#dialga) et [Palkia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#palkia).
 
 ---
@@ -136,6 +148,12 @@ Pour obtenir Créfadet, vous devez trouver le `Lac Courage`
 Dans la caverne du lac, éliminez tous les Pokémon invoqués par le `Cobblemon Trial Spawner` afin d'obtenir la `Preuve de Conquête (A)`.
 
 Utilisez ensuite la `Preuve de Conquête (A)` pour invoquer Créfadet, avec 2% de chance qu'il soit chromatique.
+
+{% hint style="info" %}
+<p align="center">
+Le <strong>(A)</strong> dans <strong>Preuve de Conquête (A)</strong> correspond à <strong>Azelf</strong>, le nom anglais de <strong>Créfadet</strong>.
+</p>
+{% endhint %}
 
 Vous recevrez également une `Canine de Créfadet` après avoir utilisé la `Preuve de Conquête (A)`. En la combinant avec les deux autres reliques des Gardiens des Lacs, vous pourrez fabriquer la `Chaîne Rouge`, permettant d'obtenir [Dialga](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#dialga) et [Palkia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#palkia).
 
