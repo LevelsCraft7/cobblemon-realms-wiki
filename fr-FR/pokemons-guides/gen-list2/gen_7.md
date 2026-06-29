@@ -37,9 +37,9 @@ Dans les îles d'Alola, les gardiens protecteurs côtoient des créatures venues
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Cosmog, vous devez collecter à la main, en faisant clic droit avec un `Catalyseur Cosmique` et `50 Poussière Cosmique` trouvables dans The End.
+Pour obtenir Cosmog, vous devez collecter à la main, en faisant clic droit avec un `Catalyseur Cosmique` et `50 Poussières Cosmique` trouvables dans l'End.
 
-Une fois la 50e poussière collectée, un **Cosmog niveau 5 apparaît**, avec **2% de chance d’être chromatique**.
+Une fois la 50e poussière collectée, un **Cosmog au niveau 5 apparaît** alors, avec **2% de chance d’être chromatique**.
 
 Après capture, Cosmog évolue en Cosmovum au niveau 43. Cosmovum évolue ensuite au niveau 53, avec un choix final entre [Lunala](https://our-story-network.gitbook.io/cr-wiki/cr-fr/myths-and-legends/myths-and-legends-legendaries/gen_7#lunala) ou [Solgaleo](https://our-story-network.gitbook.io/cr-wiki/cr-fr/myths-and-legends/myths-and-legends-legendaries/gen_7#solgaleo).
 
@@ -91,7 +91,7 @@ Ensuite, vous devez remplir la boîte avec un total de 50 points de valeur méta
 - `Lingot d'Or` → 3 points  
 - `Lingot de Netherite` → 50 points  
 
-Une fois la boîte remplie, faites un clic droit dessus : un **Meltan niveau 5 apparaîtra**, avec **2% de chance d’être chromatique**.
+Une fois la boîte remplie, faites un clic droit dessus : un **Meltan au niveau 5 apparaîtra** alors, avec **2% de chance d’être chromatique**.
 
 {% hint style="info" %}
 <p align="center">
