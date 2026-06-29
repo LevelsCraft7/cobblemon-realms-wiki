@@ -37,7 +37,7 @@ Derrière la beauté de Kalos se cachent des pouvoirs capables d'offrir la vie o
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Hoopa, vous devez trouver la [Pyramide Hoopa]() dans l’End et compléter ses épreuves : un labyrinthe, un combat et un quiz.
+Pour obtenir Hoopa, vous devez trouver la [Pyramide Hoopa](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/end_world#pyramide-de-hoopa) dans l’End et compléter ses épreuves : un labyrinthe, un combat et un quiz.
 
 Une fois ces épreuves terminées, vous obtiendrez la `Vase Scellé` ainsi que la `Clé du Temple`.
 
