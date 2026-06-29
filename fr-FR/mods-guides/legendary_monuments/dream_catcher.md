@@ -36,7 +36,7 @@ L’Attrape-Rêves peut être obtenu de deux façons :
 - 🧵 Craft avec **9 Fils du Rêve**
 - 💼 Achat auprès du **Villageois Entrepreneur**
 
-![Recette de fabrication de l'Attrape-Rêve](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_legendary_monuments/dream_catcher.png)
+![Recette de fabrication de l'Attrape-Rêves](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_legendary_monuments/dream_catcher.png)
 
 ---
 
