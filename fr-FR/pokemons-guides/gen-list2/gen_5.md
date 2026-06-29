@@ -39,7 +39,7 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 Pour obtenir Victini, vous devez trouver un `Pass Liberté`, qui a 25% de chances d’être trouvé dans les coffres des temples du désert.
 
-Une fois le pass en votre possession, vous devez trouver l'[Île Liberté](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#ile-liberte) et utiliser le pass dans la `Serrure de Victini`. Un **Victini niveau 60** apparaîtra, avec **2% de chance d’être chromatique**.
+Une fois le pass en votre possession, vous devez trouver l'[Île Liberté](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#ile-liberte) et utiliser le pass dans la `Serrure de Victini`. Un **Victini au niveau 60 apparaîtra** alors, avec **2% de chance d’être chromatique**.
 
 ---
 
@@ -82,7 +82,7 @@ Une fois le pass en votre possession, vous devez trouver l'[Île Liberté](https
 
 Pour obtenir Cobaltium, vous devez collecter `50 Empreintes de Cobaltium` en faisant un clic droit dessus. Ces empreintes peuvent être trouvées dans n’importe quel biome de l’Overworld.
 
-Une fois la 50e empreinte collectée, un **Cobaltium niveau 40 apparaîtra**, avec **2% de chance d’être chromatique**.
+Une fois la 50e empreinte collectée, un **Cobaltium au niveau 40 apparaîtra** alors, avec **2% de chance d’être chromatique**.
 
 Vous recevrez également des `Morceaux de Viande Spéciaux` lors de l’invocation de Cobaltium, que vous pourrez combiner avec ceux de [Viridium](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#viridium) et [Terrakium](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#terrakium) pour fabriquer le `Curry de Justice`, permettant d’obtenir [Keldeo](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#keldeo).
 
@@ -127,7 +127,7 @@ Vous recevrez également des `Morceaux de Viande Spéciaux` lors de l’invocati
 
 Pour obtenir Terrakion, vous devez collecter `50 Empreintes de Terrakium` en faisant un clic droit dessus. Ces empreintes peuvent être trouvées dans n’importe quel biome de l’Overworld.
 
-Une fois la 50e empreinte collectée, un **Terrakium niveau 40 apparaîtra**, avec **2% de chance d’être chromatique**.
+Une fois la 50e empreinte collectée, un **Terrakium au niveau 40 apparaîtra** alors, avec **2% de chance d’être chromatique**.
 
 Vous recevrez également des `Épices Spéciales` lors de l’invocation de Terrakium, que vous pourrez combiner avec ceux de [Cobaltium](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#cobaltium) et [Viridium](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#viridium) pour fabriquer le `Curry de Justice`, permettant d’obtenir [Keldeo](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#keldeo).
 
@@ -172,7 +172,7 @@ Vous recevrez également des `Épices Spéciales` lors de l’invocation de Terr
 
 Pour obtenir Viridium, vous devez collecter `50 Empreintes de Viridium` en faisant un clic droit dessus. Ces empreintes peuvent être trouvées dans n’importe quel biome de l’Overworld.
 
-Une fois la 50e empreinte collectée, un **Viridium niveau 40 apparaîtra**, avec **2% de chance d’être chromatique**.
+Une fois la 50e empreinte collectée, un **Viridium au niveau 40 apparaîtra**, avec **2% de chance d’être chromatique**.
 
 Vous recevrez également des `Feuilles Vertes Spéciales` lors de l’invocation de Viridium, que vous pourrez combiner avec ceux de [Cobaltium](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#cobaltium) et [Terrakium](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#terrakium) pour fabriquer le `Curry de Justice`, permettant d’obtenir [Keldeo](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#keldeo).
 
@@ -217,7 +217,7 @@ Vous recevrez également des `Feuilles Vertes Spéciales` lors de l’invocation
 
 Pour obtenir Reshiram, vous devez fabriquer une `Orbe Clair` à partir de `9 Éclats d'Orbe Clair`, obtenus en battant des Pokémon de type Dragon (les évolutions supérieures augmentent les chances) ou garantis en battant les Wardens et le Wither Boss.
 
-Une fois l'`Orbe Clair` obtenue, vous devez trouver la [Tour Dragospire](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#tour-dragospire) et placer la pierre ainsi qu'un `Joyau Feu` sur chacun des deux `Piédestal de Reshiram`. Un **Reshiram niveau 60 apparaîtra**, avec **2% de chance d’être chromatique**.
+Une fois l'`Orbe Clair` obtenue, vous devez trouver la [Tour Dragospire](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#tour-dragospire) et placer l'orbe ainsi qu'un `Joyau Feu` sur chacun des deux `Piédestal de Reshiram`. Un **Reshiram au niveau 60 apparaîtra**, avec **2% de chance d’être chromatique**.
 
 Vous recevrez également une `Fiole de la Vérité` lors de l’activation des pédestaux, que vous pourrez combiner avec la `Fiole des Idéaux` pour obtenir [Kyurem](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#kyurem).
 
@@ -262,7 +262,7 @@ Vous recevrez également une `Fiole de la Vérité` lors de l’activation des p
 
 Pour obtenir Zekrom, vous devez fabriquer une `Orbe Sombre` à partir de `9 Éclat d'Orbe Sombre`, obtenus en battant des Pokémon de type Dragon (les évolutions supérieures augmentent les chances) ou garantis en battant les Wardens et le Wither Boss.
 
-Une fois l'`Orbe Sombre` obtenue, vous devez trouver la [Tour Dragospire](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#tour-dragospire) et placer la pierre ainsi qu’un `Joyau Électrik` sur chacun des deux `Piédestal de Zekrom`. Un **Zekrom niveau 60 apparaîtra**, avec **2% de chance d’être chromatique**.
+Une fois l'`Orbe Sombre` obtenue, vous devez trouver la [Tour Dragospire](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#tour-dragospire) et placer l'orbe ainsi qu’un `Joyau Électrik` sur chacun des deux `Piédestal de Zekrom`. Un **Zekrom au niveau 60 apparaîtra**, avec **2% de chance d’être chromatique**.
 
 Vous recevrez également une `Fiole des Idéaux` lors de l’activation des pédestaux, que vous pourrez combiner avec la `Fiole de la Vérité` pour obtenir [Kyurem](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#kyurem).
 
@@ -307,7 +307,7 @@ Vous recevrez également une `Fiole des Idéaux` lors de l’activation des péd
 
 Pour obtenir Kyurem, vous devez d’abord invoquer [Reshiram](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#reshiram) et [Zekrom](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#zekrom) via leurs pédestaux, ce qui vous permettra d’obtenir deux objets : la `Fiole de la Vérité` et la `Fiole des Idéaux`.
 
-Une fois ces deux bouteilles en votre possession, vous devez trouver la [Grotte Cyclopéenne](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#reshiram) et utiliser les deux bouteilles sur les `Piédestaux de Kyurem`. Un **Kyurem niveau 60 apparaîtra**, avec **2% de chance d’être chromatique**.
+Une fois ces deux bouteilles en votre possession, vous devez trouver la [Grotte Cyclopéenne](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#reshiram) et utiliser les deux fioles sur les `Piédestaux de Kyurem`. Un **Kyurem au niveau 60 apparaîtra**, avec **2% de chance d’être chromatique**.
 
 ---
 
@@ -352,7 +352,7 @@ Pour obtenir Keldeo, vous devez d’abord invoquer [Cobaltium](https://our-story
 
 En combinant ces trois ingrédients, vous obtenez le `Curry de Justice`.
 
-Une fois le `Curry de Justice` en votre possession, faites simplement un clic droit avec celui-ci en main. Un **Keldeo niveau 50 apparaîtra**, avec **2% de chance d’être chromatique**.
+Une fois le `Curry de Justice` en votre possession, faites simplement un clic droit avec celui-ci en main. Un **Keldeo au niveau 50 apparaîtra**, avec **2% de chance d’être chromatique**.
 
 ---
 
