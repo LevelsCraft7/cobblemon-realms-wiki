@@ -121,9 +121,9 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 Pour obtenir Éthernatos, vous devez trouver le [Cocon d'Éthernatos](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/end_world#cocon-deternatus) dans l'End.
 
-Ensuite, vous devez y injecter un total de `500 Particule de Galar`, un minerai qui apparaît dans l’Overworld et sert à la fois de combustible et de poudre d’os.
+Ensuite, vous devez y injecter un total de `500 Particules de Galar`, un minerai qui apparaît dans l’Overworld et sert à la fois de combustible et de poudre d’os.
 
-Une fois les 500 particules fournies, faites un clic droit sur le bloc : un **Éthernatos niveau 70 apparaîtra**, avec **2% de chance d’être chromatique**.
+Une fois les 500 particules fournies, faites un clic droit sur le bloc : un **Éthernatos au niveau 70 apparaîtra** alors, avec **2% de chance d’être chromatique**.
 
 ---
 
@@ -225,7 +225,7 @@ Les `Débris de Golem` sont fabriqués par lots de 4 avec le Joyau correspondant
 
 Une fois la clé obtenue, vous pouvez ouvrir le `Serrure d'Elekidrago` du [Temple de Frimapic](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#temple-de-frimapic). Le temple propose une épreuve où il faut orienter des flèches dans des cadres colorés afin de reproduire les motifs des murs situés dans les quatre coins du donjon. Une fois les quatre sections complétées, le passage central s’ouvre vers la salle d’invocation.
 
-Dans la salle finale, activez tous les cercles au sol : Regidrago et [Regieleki](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_8#regieleki) apparaissent niveau 40, avec 2% de chance d’être chromatiques.
+Dans la salle finale, activez tous les cercles au sol : Regidrago et [Regieleki](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_8#regieleki) **apparaissent au niveau 40**, avec **2% de chance d’être chromatiques**.
 
 Vous obtenez également une `Tablette de Regirock`, pouvant être combinée avec les autres tablettes pour fabriquer la `Clé Titan` et invoquer [Regigigas](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#regigigas).
 
