@@ -40,9 +40,9 @@ Les légendes de Johto racontent l'histoire de gardiens sacrés veillant sur l'�
 
 Pour obtenir **Raikou**, vous devez d'abord fabriquer une `Friandise de Raikou`. Sa fabrication nécessite plusieurs baies de Cobblemon ainsi qu'une `Boîte à Friandises Pokémon`, vendue occasionnellement par le [Villageois Entrepreneur](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/entrepreneur_villager).
 
-Une fois la friandise obtenue, rendez-vous à la [Tour Cendrée](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#tour-cendree) (que vous pouvez localiser grâce au [Smarceus](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/smarceus)) puis déposez-la sur le [Piédestal de Raikou](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/pedestals).
+Une fois la friandise obtenue, rendez-vous à la [Tour Cendrée](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#tour-cendree) puis déposez-la sur le [Piédestal de Raikou](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/pedestals).
 
-Un **Raikou niveau 40** apparaîtra alors, avec **2 % de chances d'être chromatique**.
+Un **Raikou niveau 40 apparaîtra** alors, avec **2 % de chances d'être chromatique**.
 
 L'utilisation du piédestal vous remet également une `Plume Jaune`. En la combinant avec les deux autres plumes obtenues auprès des fauves légendaires, vous pourrez fabriquer la `Plume Arc-en-ciel`, nécessaire pour obtenir [Ho-Oh](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_2#ho-oh).
 
@@ -86,11 +86,11 @@ L'utilisation du piédestal vous remet également une `Plume Jaune`. En la combi
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir **Entei**, vous devez d'abord fabriquer une `Friandise d'Entei` (`Entei Treat`). Sa fabrication nécessite plusieurs baies de Cobblemon ainsi qu'une `Poketreat Box`, vendue occasionnellement par le [Villageois Entrepreneur](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/entrepreneur_villager).
+Pour obtenir **Entei**, vous devez d'abord fabriquer une `Friandise d'Entei`. Sa fabrication nécessite plusieurs baies de Cobblemon ainsi qu'une `Boîte à Friandises Pokémon`, vendue occasionnellement par le [Villageois Entrepreneur](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/entrepreneur_villager).
 
 Une fois la friandise obtenue, rendez-vous à la [Tour Cendrée](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#tour-cendree).
 
-Un **Entei niveau 40** apparaîtra alors, avec **2 % de chances d'être chromatique**.
+Un **Entei niveau 40 apparaîtra** alors, avec **2 % de chances d'être chromatique**.
 
 L'utilisation du piédestal vous remet également une `Plume Rouge`. En la combinant avec les deux autres plumes obtenues auprès des fauves légendaires, vous pourrez fabriquer la `Plume Arc-en-ciel`, nécessaire pour obtenir [Ho-Oh](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_2#ho-oh).
 
@@ -134,11 +134,11 @@ L'utilisation du piédestal vous remet également une `Plume Rouge`. En la combi
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir **Suicune**, vous devez d'abord fabriquer une `Friandise de Suicune`. Sa fabrication nécessite plusieurs baies de Cobblemon ainsi qu'une `Poketreat Box`, vendue occasionnellement par le [Villageois Entrepreneur](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/entrepreneur_villager).
+Pour obtenir **Suicune**, vous devez d'abord fabriquer une `Friandise de Suicune`. Sa fabrication nécessite plusieurs baies de Cobblemon ainsi qu'une `Boîte à Friandises Pokémon`, vendue occasionnellement par le [Villageois Entrepreneur](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/entrepreneur_villager).
 
 Une fois la friandise obtenue, rendez-vous à la [Tour Cendrée](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#tour-cendree).
 
-Un **Suicune niveau 40** apparaîtra alors, avec **2 % de chances d'être chromatique**.
+Un **Suicune niveau 40 apparaîtra** alors, avec **2 % de chances d'être chromatique**.
 
 L'utilisation du piédestal vous remet également une `Plume Bleue`. En la combinant avec les deux autres plumes obtenues auprès des fauves légendaires, vous pourrez fabriquer la `Plume Arc-en-ciel`, nécessaire pour obtenir [Ho-Oh](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_2#ho-oh).
 
@@ -182,15 +182,15 @@ L'utilisation du piédestal vous remet également une `Plume Bleue`. En la combi
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir **Lugia**, vous devez d'abord invoquer **Artikodin**, **Électhor** et **Sulfura** grâce aux urnes. Chacun d'eux vous remet une pierre : la `Pierre Arctique`, la `Pierre Fulgurante` et la `Pierre Fusion`.
+Pour obtenir **Lugia**, vous devez d'abord invoquer [Artikodin](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_1#artikodin), [Électhor](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_1#electhor) et [Sulfura](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_1#sulfura) grâce aux urnes. Chacun d'eux vous remet une pierre : la `Pierre Arctique`, la `Pierre Fulgurante` et la `Pierre Fusion`.
 
 En combinant ces trois pierres sur une table de fabrication, vous obtenez une `Pierre du Vortex`.
 
-Une fois cette pierre en votre possession, rendez-vous au [Temple de Lugia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#tourbiles) et utilisez-la pour ouvrir la porte du temple.
+Une fois cette pierre en votre possession, rendez-vous au [Tourb'Îles](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#tourbiles) et utilisez-la pour ouvrir la porte du temple.
 
 Récupérez ensuite la `Pierre du Vortex`, traversez le labyrinthe jusqu'au [Piédestal de Lugia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/pedestals), puis utilisez-y la pierre.
 
-Un **Lugia niveau 60** apparaîtra alors, avec **2 % de chances d'être chromatique**.
+Un **Lugia niveau 60 apparaîtra** alors, avec **2 % de chances d'être chromatique**.
 
 ---
 
@@ -232,13 +232,13 @@ Un **Lugia niveau 60** apparaîtra alors, avec **2 % de chances d'être chromati
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir **Ho-Oh**, vous devez d'abord invoquer **Raikou**, **Entei** et **Suicune** en utilisant leurs piédestaux respectifs. Chacun d'eux vous remet une plume : la `Plume Bleue`, la `Plume Jaune` et la `Plume Rouge`.
+Pour obtenir **Ho-Oh**, vous devez d'abord invoquer [Raikou](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_2#raikou), [Entei](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_2#entei) et [Suicune](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_2#suicune) en utilisant leurs piédestaux respectifs. Chacun d'eux vous remet une plume : la `Plume Bleue`, la `Plume Jaune` et la `Plume Rouge`.
 
 En combinant ces trois plumes sur une table de fabrication, vous obtenez une `Plume Arc-en-ciel`.
 
 Une fois cette plume en votre possession, rendez-vous à la [Tour Carillon](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#tour-carillon), terminez le parcours jusqu'au sommet, puis utilisez la `Plume Arc-en-ciel` sur le [Piédestal de Ho-Oh](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/pedestals).
 
-Un **Ho-Oh niveau 60** apparaîtra alors, avec **2 % de chances d'être chromatique**.
+Un **Ho-Oh niveau 60 apparaîtra** alors, avec **2 % de chances d'être chromatique**.
 
 ---
 
@@ -279,11 +279,11 @@ Un **Ho-Oh niveau 60** apparaîtra alors, avec **2 % de chances d'être chromati
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir **Celebi**, vous devez d'abord fabriquer une `GS Ball` à partir de `Noix Jaunes` et d'un `fragment de Netherite`.
+Pour obtenir **Celebi**, vous devez d'abord fabriquer une `GS Ball` à partir de `Noigrume Jaune` et d'un `Fragment de Netherite`.
 
-![Recette de fabrication de la GS Ball]()
+![Recette de fabrication de la GS Ball](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_legendary_monuments/gs_ball.png) ![Sanctuaire d'Ilex](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_legendary_monuments/sanctuaire_illex.png)
 
-Une fois la GS Ball obtenue, vous devez trouver le `Sanctuaire d'Ilex`, qui apparaît naturellement dans les biomes sombres et inquiétants, notamment :
+Une fois la GS Ball obtenue, vous devez trouver le `Sanctuaire d'Ilex`, qui apparaît naturellement dans les biomes sombres et inquiétants :
 
 <details>
 <summary>📍 <strong>Biomes compatibles</strong></summary>
@@ -329,7 +329,7 @@ Une fois la GS Ball obtenue, vous devez trouver le `Sanctuaire d'Ilex`, qui appa
 
 </details>
 
-Une fois le sanctuaire trouvé, utilisez simplement la `GS Ball` sur le **Sanctuaire d'Ilex** pour faire apparaître **Celebi**.
+Une fois le sanctuaire trouvé, utilisez simplement la `GS Ball` sur le `Sanctuaire d'Ilex` pour faire apparaître **Celebi**.
 
 ---
 
