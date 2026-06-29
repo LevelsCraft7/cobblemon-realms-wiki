@@ -1,4 +1,4 @@
-# 🏺 Types d’Urnes
+# 🏺 Urnes Élémentaires
 
 {% hint style="info" %}
 <p align="center">
