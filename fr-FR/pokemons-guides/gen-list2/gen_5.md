@@ -37,9 +37,9 @@ Les héros d'Unys sont nés de la rencontre entre idéaux et vérité. Leurs lé
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Victini, vous devez trouver un `Liberty Pass`, qui a 25% de chances d’être trouvé dans les coffres des temples du désert.
+Pour obtenir Victini, vous devez trouver un `Pass Liberté`, qui a 25% de chances d’être trouvé dans les coffres des temples du désert.
 
-Une fois le pass en votre possession, vous devez trouver le Liberty Garden (vous pouvez le localiser grâce à l’Arc Phone) et utiliser le pass sur le `Verrou de Victini`. Un Victini niveau 60 apparaîtra, avec 2% de chance d’être chromatique.
+Une fois le pass en votre possession, vous devez trouver l'[Île Liberté](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#ile-liberte) et utiliser le pass dans la `Serrure de Victini`. Un **Victini niveau 60** apparaîtra, avec **2% de chance d’être chromatique**.
 
 ---
 
@@ -68,7 +68,7 @@ Une fois le pass en votre possession, vous devez trouver le Liberty Garden (vous
 | 🌙 Défense Spé. | 72     |
 | ⚡ Vitesse       | 108    |
 
-![Cobalion](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/cobalion.png) ![Cobalion Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/cobalion_shiny.png)
+![Cobaltium](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/cobalion.png) ![Cobaltium Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/cobalion_shiny.png)
 
 ---
 
@@ -80,11 +80,11 @@ Une fois le pass en votre possession, vous devez trouver le Liberty Garden (vous
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Cobalion, vous devez collecter 50 `Cobalion Footprints` en faisant un clic droit dessus. Ces empreintes peuvent être trouvées dans n’importe quel biome de l’Overworld.
+Pour obtenir Cobaltium, vous devez collecter `50 Empreintes de Cobaltium` en faisant un clic droit dessus. Ces empreintes peuvent être trouvées dans n’importe quel biome de l’Overworld.
 
-Une fois la 50e empreinte collectée, un Cobalion niveau 40 apparaîtra, avec 2% de chance d’être chromatique.
+Une fois la 50e empreinte collectée, un **Cobaltium niveau 40 apparaîtra**, avec **2% de chance d’être chromatique**.
 
-Vous recevrez également des `Special Meat Chunks` lors de l’invocation de Cobalion, que vous pourrez combiner avec ceux de Virizion et Terrakion pour fabriquer le `Curry of Justice`, permettant d’obtenir Keldeo.
+Vous recevrez également des `Morceaux de Viande Spéciaux` lors de l’invocation de Cobaltium, que vous pourrez combiner avec ceux de [Viridium](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#viridium) et [Terrakium](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#terrakium) pour fabriquer le `Curry de Justice`, permettant d’obtenir [Keldeo](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#keldeo).
 
 ---
 
@@ -113,7 +113,7 @@ Vous recevrez également des `Special Meat Chunks` lors de l’invocation de Cob
 | 🌙 Défense Spé. | 90     |
 | ⚡ Vitesse       | 108    |
 
-![Terrakion](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/terrakion.png) ![Terrakion Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/terrakion_shiny.png)
+![Terrakium](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/terrakion.png) ![Terrakium Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/terrakion_shiny.png)
 
 ---
 
@@ -125,11 +125,11 @@ Vous recevrez également des `Special Meat Chunks` lors de l’invocation de Cob
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Terrakion, vous devez collecter 50 `Terrakion Footprints` en faisant un clic droit dessus. Ces empreintes peuvent être trouvées dans n’importe quel biome de l’Overworld.
+Pour obtenir Terrakion, vous devez collecter `50 Empreintes de Terrakium` en faisant un clic droit dessus. Ces empreintes peuvent être trouvées dans n’importe quel biome de l’Overworld.
 
-Une fois la 50e empreinte collectée, un Terrakion niveau 40 apparaîtra, avec 2% de chance d’être chromatique.
+Une fois la 50e empreinte collectée, un **Terrakium niveau 40 apparaîtra**, avec **2% de chance d’être chromatique**.
 
-Vous recevrez également des `Special Spices` lors de l’invocation de Terrakion, que vous pourrez combiner avec ceux de Cobalion et Virizion pour fabriquer le `Curry of Justice`, permettant d’obtenir Keldeo.
+Vous recevrez également des `Épices Spéciales` lors de l’invocation de Terrakium, que vous pourrez combiner avec ceux de [Cobaltium](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#cobaltium) et [Viridium](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#viridium) pour fabriquer le `Curry de Justice`, permettant d’obtenir [Keldeo](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#keldeo).
 
 ---
 
@@ -158,7 +158,7 @@ Vous recevrez également des `Special Spices` lors de l’invocation de Terrakio
 | 🌙 Défense Spé. | 129    |
 | ⚡ Vitesse       | 108    |
 
-![Virizion](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/virizion.png) ![Virizion Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/virizion_shiny.png)
+![Viridium](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/virizion.png) ![Viridium Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_5/virizion_shiny.png)
 
 ---
 
@@ -170,11 +170,11 @@ Vous recevrez également des `Special Spices` lors de l’invocation de Terrakio
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Virizion, vous devez collecter 50 `Virizion Footprints` en faisant un clic droit dessus. Ces empreintes peuvent être trouvées dans n’importe quel biome de l’Overworld.
+Pour obtenir Viridium, vous devez collecter `50 Empreintes de Viridium` en faisant un clic droit dessus. Ces empreintes peuvent être trouvées dans n’importe quel biome de l’Overworld.
 
-Une fois la 50e empreinte collectée, un Virizion niveau 40 apparaîtra, avec 2% de chance d’être chromatique.
+Une fois la 50e empreinte collectée, un **Viridium niveau 40 apparaîtra**, avec **2% de chance d’être chromatique**.
 
-Vous recevrez également des `Special Leafy Greens` lors de l’invocation de Virizion, que vous pourrez combiner avec ceux de Cobalion et Terrakion pour fabriquer le `Curry of Justice`, permettant d’obtenir Keldeo.
+Vous recevrez également des `Feuilles Vertes Spéciales` lors de l’invocation de Viridium, que vous pourrez combiner avec ceux de [Cobaltium](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#cobaltium) et [Terrakium](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#terrakium) pour fabriquer le `Curry de Justice`, permettant d’obtenir [Keldeo](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#keldeo).
 
 ---
 
@@ -215,11 +215,11 @@ Vous recevrez également des `Special Leafy Greens` lors de l’invocation de Vi
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Reshiram, vous devez fabriquer une `Light Stone` à partir de 9 `Light Stone Shards`, obtenus en battant des Pokémon de type Dragon (les évolutions supérieures augmentent les chances) ou garantis en battant les Wardens et le Wither Boss.
+Pour obtenir Reshiram, vous devez fabriquer une `Orbe Clair` à partir de `9 Éclats d'Orbe Clair`, obtenus en battant des Pokémon de type Dragon (les évolutions supérieures augmentent les chances) ou garantis en battant les Wardens et le Wither Boss.
 
-Une fois la `Light Stone` obtenue, vous devez trouver la Dragonspiral Tower (vous pouvez la localiser grâce à l’Arc Phone) et placer la pierre ainsi qu’une `Fire Gem` sur chacun des deux `Reshiram Pedestals`. Un Reshiram niveau 60 apparaîtra, avec 2% de chance d’être chromatique.
+Une fois l'`Orbe Clair` obtenue, vous devez trouver la [Tour Dragospire](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#tour-dragospire) et placer la pierre ainsi qu'un `Joyau Feu` sur chacun des deux `Piédestal de Reshiram`. Un **Reshiram niveau 60 apparaîtra**, avec **2% de chance d’être chromatique**.
 
-Vous recevrez également une `Truth Bottle` lors de l’activation des pédestaux, que vous pourrez combiner avec la `Ideals Bottle` pour obtenir Kyurem.
+Vous recevrez également une `Fiole de la Vérité` lors de l’activation des pédestaux, que vous pourrez combiner avec la `Fiole des Idéaux` pour obtenir [Kyurem](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#kyurem).
 
 ---
 
@@ -260,11 +260,11 @@ Vous recevrez également une `Truth Bottle` lors de l’activation des pédestau
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Zekrom, vous devez fabriquer une `Dark Stone` à partir de 9 `Dark Stone Shards`, obtenus en battant des Pokémon de type Dragon (les évolutions supérieures augmentent les chances) ou garantis en battant les Wardens et le Wither Boss.
+Pour obtenir Zekrom, vous devez fabriquer une `Orbe Sombre` à partir de `9 Éclat d'Orbe Sombre`, obtenus en battant des Pokémon de type Dragon (les évolutions supérieures augmentent les chances) ou garantis en battant les Wardens et le Wither Boss.
 
-Une fois la `Dark Stone` obtenue, vous devez trouver la Dragonspiral Tower (vous pouvez la localiser grâce à l’Arc Phone) et placer la pierre ainsi qu’une `Electric Gem` sur chacun des deux `Zekrom Pedestals`. Un Zekrom niveau 60 apparaîtra, avec 2% de chance d’être chromatique.
+Une fois l'`Orbe Sombre` obtenue, vous devez trouver la [Tour Dragospire](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#tour-dragospire) et placer la pierre ainsi qu’un `Joyau Électrik` sur chacun des deux `Piédestal de Zekrom`. Un **Zekrom niveau 60 apparaîtra**, avec **2% de chance d’être chromatique**.
 
-Vous recevrez également une `Ideals Bottle` lors de l’activation des pédestaux, que vous pourrez combiner avec la `Truth Bottle` pour obtenir Kyurem.
+Vous recevrez également une `Fiole des Idéaux` lors de l’activation des pédestaux, que vous pourrez combiner avec la `Fiole de la Vérité` pour obtenir [Kyurem](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#kyurem).
 
 ---
 
@@ -305,9 +305,9 @@ Vous recevrez également une `Ideals Bottle` lors de l’activation des pédesta
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Kyurem, vous devez d’abord invoquer Reshiram et Zekrom via leurs pédestaux, ce qui vous permettra d’obtenir deux objets : la `Truth Bottle` et la `Ideals Bottle`.
+Pour obtenir Kyurem, vous devez d’abord invoquer [Reshiram](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#reshiram) et [Zekrom](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#zekrom) via leurs pédestaux, ce qui vous permettra d’obtenir deux objets : la `Fiole de la Vérité` et la `Fiole des Idéaux`.
 
-Une fois ces deux bouteilles en votre possession, vous devez trouver la Kyurem Cave (vous pouvez la localiser grâce à l’Arc Phone) et utiliser les deux bouteilles sur les `Kyurem Pedestals`. Un Kyurem niveau 60 apparaîtra, avec 2% de chance d’être chromatique.
+Une fois ces deux bouteilles en votre possession, vous devez trouver la [Grotte Cyclopéenne](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#reshiram) et utiliser les deux bouteilles sur les `Piédestaux de Kyurem`. Un **Kyurem niveau 60 apparaîtra**, avec **2% de chance d’être chromatique**.
 
 ---
 
@@ -348,11 +348,11 @@ Une fois ces deux bouteilles en votre possession, vous devez trouver la Kyurem C
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Keldeo, vous devez d’abord invoquer Cobalion, Terrakion et Virizion en collectant leurs empreintes. Cela vous permettra d’obtenir trois ingrédients : `Special Meat Chunks`, `Special Spices` et `Special Leafy Greens`.
+Pour obtenir Keldeo, vous devez d’abord invoquer [Cobaltium](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#cobaltium), [Viridium](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#viridium) et [Terrakium](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_5#terrakium) en collectant leurs empreintes. Cela vous permettra d’obtenir trois ingrédients : `Morceaux de Viande Spéciaux`, `Épices Spéciales` et `Feuilles Vertes Spéciales`.
 
-En combinant ces trois ingrédients, vous obtenez le `Curry of Justice`.
+En combinant ces trois ingrédients, vous obtenez le `Curry de Justice`.
 
-Une fois le `Curry of Justice` en votre possession, faites simplement un clic droit avec celui-ci en main. Un Keldeo niveau 50 apparaîtra, avec 2% de chance d’être chromatique.
+Une fois le `Curry de Justice` en votre possession, faites simplement un clic droit avec celui-ci en main. Un **Keldeo niveau 50 apparaîtra**, avec **2% de chance d’être chromatique**.
 
 ---
 
