@@ -119,7 +119,7 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Éthernatos, vous devez trouver le [Cocon d'Éthernatos]() dans l'End.
+Pour obtenir Éthernatos, vous devez trouver le [Cocon d'Éthernatos](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/end_world#cocon-deternatus) dans l'End.
 
 Ensuite, vous devez y injecter un total de `500 Particule de Galar`, un minerai qui apparaît dans l’Overworld et sert à la fois de combustible et de poudre d’os.
 
