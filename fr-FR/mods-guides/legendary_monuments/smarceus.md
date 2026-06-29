@@ -67,11 +67,7 @@ S’il détecte une correspondance, il affiche les informations suivantes :
 
 ## 🛠️ Fabrication
 
-{% hint style="warning" %}
-<p align="center">
-La recette de fabrication sera ajoutée prochainement.
-</p>
-{% endhint %}
+![Recette de fabrication du Smarceus](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_legendary_monuments/smarceus.png)
 
 ---
 
