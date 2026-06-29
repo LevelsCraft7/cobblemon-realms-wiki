@@ -203,9 +203,9 @@ La <code>Vieille Carte Marine</code> ne fonctionne pas comme une carte Minecraft
 </p>
 {% endhint %}
 
-Une fois la carte en votre possession, vous devez trouver l’[Île Finale](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#ile-finale) (vous pouvez la localiser grâce avec le [Smarceus](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/smarceus)) et placer la carte sur le `Piédestal de Mew`, ce qui fera apparaître un Mew niveau 40, avec 2% de chance d’être chromatique.
+Une fois la carte en votre possession, vous devez trouver l’[Île Finale](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#ile-finale) (vous pouvez la localiser grâce au [Smarceus](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/smarceus)) et placer la carte sur le `Piédestal de Mew`, ce qui fera apparaître un Mew niveau 40, avec 2% de chance d’être chromatique.
 
-Vous recevrez également une `Touffe de poils de Mew`, qui n’a pour le moment aucune utilité.
+Vous recevrez également une `Mèche de Mew`, qui n’a pour le moment aucune utilité.
 
 ---
 
