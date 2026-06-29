@@ -193,7 +193,7 @@ Pour obtenir la forme de Galar, utilisez simplement une [Urne Galarienne](https:
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Mew, vous devez utiliser un `Piédestal de Mew` située sur l’[Île Finale](bientôtdispo).
+Pour obtenir Mew, vous devez utiliser un `Piédestal de Mew` située sur l’[Île Finale](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#ile-finale).
 
 Vous devez d’abord trouver une `Vieille Carte Marine`, qui a 50% de chance d’être obtenue dans les coffres des temples de la jungle. 
 
@@ -203,7 +203,7 @@ La <code>Vieille Carte Marine</code> ne fonctionne pas comme une carte Minecraft
 </p>
 {% endhint %}
 
-Une fois la carte en votre possession, vous devez trouver l’[Île Finale](bientôtdispo) (vous pouvez la localiser grâce avec le [Smarceus](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/smarceus)) et placer la carte sur le `Piédestal de Mew`, ce qui fera apparaître un Mew niveau 40, avec 2% de chance d’être chromatique.
+Une fois la carte en votre possession, vous devez trouver l’[Île Finale](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#ile-finale) (vous pouvez la localiser grâce avec le [Smarceus](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/smarceus)) et placer la carte sur le `Piédestal de Mew`, ce qui fera apparaître un Mew niveau 40, avec 2% de chance d’être chromatique.
 
 Vous recevrez également une `Touffe de poils de Mew`, qui n’a pour le moment aucune utilité.
 
