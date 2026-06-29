@@ -1,4 +1,4 @@
-# 🎶 Flûte Célestica
+# 🎶 Flûte Célestique
 
 {% hint style="info" %}
 <p align="center">
