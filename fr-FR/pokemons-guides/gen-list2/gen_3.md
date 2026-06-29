@@ -46,7 +46,7 @@ Une fois la `Clé du Golem Roche` en votre possession, vous devez trouver le [Te
 
 Derrière la serrure se trouve une épreuve : le sol est constitué de blocs de sable équipés de plaques de pression. Faites un clic droit sur le `Bloc Musical` situé à l'entrée pour révéler un chemin sûr grâce aux `Lampes à Redstone` au plafond. Si vous marchez sur une mauvaise plaque, vous tomberez dans l'eau en contrebas et devrez reprendre l'épreuve depuis l'entrée. Une échelle située à la fin du parcours mène à la salle d'invocation de Regirock.
 
-Dans cette salle, marchez sur chacun des cercles afin de les illuminer. Une fois tous les cercles activés, un **Regirock niveau 40** apparaîtra, avec **2% de chance d'être chromatique**.
+Dans cette salle, marchez sur chacun des cercles afin de les illuminer. Une fois tous les cercles activés, un **Regirock niveau 40 apparaîtra**, avec **2% de chance d'être chromatique**.
 
 Vous recevrez également une `Tablette de Regirock` après avoir activé le sol. En la combinant avec les quatre autres tablettes des Titans, vous pourrez fabriquer la `Clé Titan`, permettant d'obtenir [Regigigas](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#regigigas).
 
@@ -142,11 +142,11 @@ Vous recevrez également une `Tablette de Regice` après avoir activé le sol. E
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Registeel, vous devez fabriquer une `Clé du Golem Acier`, obtenue à partir d'un `Joyau Acier` et de `4 Lingots de Golem d'Acier`.
+Pour obtenir Registeel, vous devez fabriquer une `Clé du Golem Acier`, obtenue à partir d'un `Joyau Acier` et de `4 Lingots de Golem Acier`.
 
-Les `4 Lingots de Golem Acier` se fabriquent avec un `Joyau Acier` et `4 Débris de Golem`, obtenus en faisant fondre des `Gravats Anciens`, que l'on trouve dans les grottes aux niveaux de l'Ardoise des Profondeurs et en dessous.
+Les `4 Lingots de Golem Acier` se fabriquent avec un `Joyau Acier` et `4 Débris de Golem`, obtenus en faisant fondre des `Gravats Anciens`, que l'on trouve dans les grottes aux niveaux de l'Ardoise des abîmes et en dessous.
 
-Une fois la `Clé du Golem d'Acier` en votre possession, vous devez trouver le [Temple de Frimapic](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#temple-de-frimapic) et déverrouiller la `Serrure de Registeel`.
+Une fois la `Clé du Golem Acier` en votre possession, vous devez trouver le [Temple de Frimapic](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#temple-de-frimapic) et déverrouiller la `Serrure de Registeel`.
 
 Derrière la serrure se trouve une épreuve composée de cinq énigmes à pistons. Vous devrez utiliser les boutons disposés au sol afin d'activer les pistons et déplacer un `Bloc de Redstone` jusqu'au `Bloc d'Or` correspondant à l'objectif. Chaque énigme réussie déverrouille la suivante. Une fois les cinq énigmes terminées, un mur s'ouvrira pour révéler le passage menant à la salle d'invocation de Registeel. Au sous-sol, une énigme supplémentaire permet également d'accéder à une salle au trésor.
 
@@ -246,7 +246,7 @@ Pour obtenir l'autre, il faudra trouver une nouvelle Île du Sud.
 
 Pour obtenir Latios, vous devez fabriquer une `Friandise de Latios`, nécessitant plusieurs baies de Cobblemon ainsi qu'une `Boîte à Friandises Pokémon`, parfois vendue par le [Villageois Entrepreneur](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/entrepreneur_villager).
 
-Une fois la friandise obtenue, vous devez trouver l'[Île du Sud](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#lile-du-sud) et déposer la friandise sur le `Piédestal des Lati`. Un **Latios niveau 50 apparaîtra** alors, avec **2% de chance d'être chromatique**.
+Une fois la friandise obtenue, vous devez trouver l'[Île du Sud](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#lile-du-sud) et déposer la friandise sur le [Piédestal des Lati](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/pedestals). Un **Latios niveau 50 apparaîtra** alors, avec **2% de chance d'être chromatique**.
 
 {% hint style="warning" %}
 <p align="center">
