@@ -119,11 +119,11 @@ Les légendes de Galar racontent les exploits de héros oubliés et de puissants
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Éthernatos, vous devez trouver le `Cocoon Block` d’Éthernatos dans The End (localisable via l’Arc Phone).
+Pour obtenir Éthernatos, vous devez trouver le [Cocon d'Éthernatos]() dans l'End.
 
-Ensuite, vous devez y injecter un total de 500 `Galar Particles`, un minerai qui apparaît dans l’Overworld et sert à la fois de combustible et de poudre d’os.
+Ensuite, vous devez y injecter un total de `500 Particule de Galar`, un minerai qui apparaît dans l’Overworld et sert à la fois de combustible et de poudre d’os.
 
-Une fois les 500 particules fournies, faites un clic droit sur le bloc : un Éthernatos niveau 70 apparaîtra, avec 2% de chance d’être chromatique.
+Une fois les 500 particules fournies, faites un clic droit sur le bloc : un **Éthernatos niveau 70 apparaîtra**, avec **2% de chance d’être chromatique**.
 
 ---
 
@@ -164,18 +164,18 @@ Une fois les 500 particules fournies, faites un clic droit sur le bloc : un Éth
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Regieleki, vous devez obtenir soit un `Electric Golem Key`, soit un `Dragon Golem Key`.
+Pour obtenir Regieleki, vous devez obtenir soit une `Clé de Golem Électrik`, soit une `Clé de Golem Dragon`.
 
-- Le `Electric Golem Key` se craft avec 1 `Electric Gem` + 4 `Golem Ingots`
-- Le `Dragon Golem Key` se craft avec 1 `Dragon Gem` + 4 `Golem Ingots`
+- La `Clé de Golem Électrik` se craft avec `1 Joyau Électik` + `4 Débris de Golem`
+- La `Clé de Golem Dragon` se craft avec `1 Joyau Dragon` + `4 Débris de Golem`
 
-Les `Golem Ingots` sont fabriqués par lots de 4 via 1 gem correspondante + 4 `Golem Scraps`, obtenus en faisant fondre des `Ancient Rubble` trouvés dans les grottes de niveau Deepslate et inférieur.
+Les `Débris de Golem` sont fabriqués par lots de 4 avec le Joyau correspondant + `4 Débris de Golem`, obtenus en faisant fondre des `Gravats Anciens` trouvés dans les grottes au niveau des Ardoises des abîmes et inférieur.
 
-Une fois la clé obtenue, vous pouvez ouvrir le `Elekidrago Lock` du Snowpoint Temple (localisable via l’Arc Phone). Le temple propose une épreuve où il faut orienter des flèches dans des cadres colorés afin de reproduire les motifs des murs situés dans les quatre coins du donjon. Une fois les quatre sections complétées, le passage central s’ouvre vers la salle d’invocation.
+Une fois la clé obtenue, vous pouvez ouvrir la `Serrure d'Elekidrago` du [Temple de Frimapic](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#temple-de-frimapic). Le temple propose une épreuve où il faut orienter des flèches dans des cadres colorés afin de reproduire les motifs des murs situés dans les quatre coins du donjon. Une fois les quatre sections complétées, le passage central s’ouvre vers la salle d’invocation.
 
-Dans la salle finale, activez tous les cercles au sol : Regieleki et Regidrago apparaissent niveau 40, avec 2% de chance d’être chromatiques.
+Dans la salle finale, activez tous les cercles au sol : Regieleki et [Regidrago](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_8#regidrago) **apparaissent niveau 40**, avec **2% de chance d’être chromatiques**.
 
-Vous obtenez également une `Regirock Tablet`, pouvant être combinée avec les autres tablettes pour fabriquer la `Titan Key` et invoquer Regigigas.
+Vous obtenez également une `Tablette de Regirock`, pouvant être combinée avec les autres tablettes pour fabriquer la `Clé Titan` et invoquer [Regigigas](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#regigigas).
 
 ---
 
@@ -204,7 +204,7 @@ Vous obtenez également une `Regirock Tablet`, pouvant être combinée avec les 
 | 🌙 Défense Spé. | 50     |
 | ⚡ Vitesse       | 80     |
 
-![Regidrago](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/regidraco.png) ![Regidrago Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/regidraco_shiny.png)
+![Regidrago](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/Regidraco.png) ![Regidrago Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_8/Regidraco_shiny.png)
 
 ---
 
@@ -216,18 +216,18 @@ Vous obtenez également une `Regirock Tablet`, pouvant être combinée avec les 
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Regidrago, vous devez obtenir soit un `Electric Golem Key`, soit un `Dragon Golem Key`.
+Pour obtenir Regidrago, vous devez obtenir soit la `Clé de Golem Électrik`, soit un `Clé de Golem Dragon`.
 
-- Le `Electric Golem Key` se craft avec 1 `Electric Gem` + 4 `Golem Ingots`
-- Le `Dragon Golem Key` se craft avec 1 `Dragon Gem` + 4 `Golem Ingots`
+- La `Clé de Golem Électrik` se craft avec `1 Joyau Électik` + `4 Débris de Golem`
+- Le `Clé de Golem Dragon` se craft avec `1 Joyau Dragon` + `4 Débris de Golem`
 
-Les `Golem Ingots` sont fabriqués par lots de 4 via 1 gem correspondante + 4 `Golem Scraps`, obtenus en faisant fondre des `Ancient Rubble` trouvés dans les grottes de niveau Deepslate et inférieur.
+Les `Débris de Golem` sont fabriqués par lots de 4 avec le Joyau correspondant + `4 Débris de Golem`, obtenus en faisant fondre des `Gravats Anciens` trouvés dans les grottes au niveau des Ardoises des abîmes et inférieur.
 
-Une fois la clé obtenue, vous pouvez ouvrir le `Elekidrago Lock` du Snowpoint Temple (localisable via l’Arc Phone). Le temple propose une épreuve où il faut orienter des flèches dans des cadres colorés afin de reproduire les motifs des murs situés dans les quatre coins du donjon. Une fois les quatre sections complétées, le passage central s’ouvre vers la salle d’invocation.
+Une fois la clé obtenue, vous pouvez ouvrir le `Serrure d'Elekidrago` du [Temple de Frimapic](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#temple-de-frimapic). Le temple propose une épreuve où il faut orienter des flèches dans des cadres colorés afin de reproduire les motifs des murs situés dans les quatre coins du donjon. Une fois les quatre sections complétées, le passage central s’ouvre vers la salle d’invocation.
 
-Dans la salle finale, activez tous les cercles au sol : Regidrago et Regieleki apparaissent niveau 40, avec 2% de chance d’être chromatiques.
+Dans la salle finale, activez tous les cercles au sol : Regidrago et [Regieleki](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_8#regieleki) apparaissent niveau 40, avec 2% de chance d’être chromatiques.
 
-Vous obtenez également une `Regirock Tablet`, pouvant être combinée avec les autres tablettes pour fabriquer la `Titan Key` et invoquer Regigigas.
+Vous obtenez également une `Tablette de Regirock`, pouvant être combinée avec les autres tablettes pour fabriquer la `Clé Titan` et invoquer [Regigigas](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#regigigas).
 
 ---
 
