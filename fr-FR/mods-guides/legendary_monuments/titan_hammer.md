@@ -53,7 +53,7 @@ Le **Noyau de Titan** permet également de fabriquer :
 
 ## 🛠️ Fabrication
 
-![Recette de fabrication du Marteau Titan](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_legendary_monuments/marteau_titan_levrai.png)
+![Recette de fabrication du Marteau Titan](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Craft-recettes/craft_legendary_monuments/marteau.png)
 
 ---
 
