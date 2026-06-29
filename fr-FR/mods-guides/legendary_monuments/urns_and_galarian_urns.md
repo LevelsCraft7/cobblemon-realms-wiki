@@ -27,7 +27,7 @@ Chaque urne demande :
 
 ## 🏺 Types d’Urnes
 
-- 🔥 Urne des Braises → Artikodin de Galar / Sulfura selon variante
+- 🔥 Urne des Braises → Sulfura / forme de Galar
 - ❄️ Urne du Givre → Artikodin / forme de Galar
 - ⚡ Urne des Tempêtes → Électhor / forme de Galar
 
