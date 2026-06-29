@@ -661,7 +661,7 @@ Structure permettant d'obtenir <strong>Regirock</strong>, <strong>Regice</strong
 
 &#8203;
 
-# 🏝️ Southern Island
+# 🏝️ l'Île du Sud
 
 {% hint style="info" %}
 <p align="center">
