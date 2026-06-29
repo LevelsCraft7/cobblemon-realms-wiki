@@ -41,7 +41,7 @@ Pour obtenir Hoopa, vous devez trouver la [Pyramide Hoopa](https://our-story-net
 
 Une fois ces épreuves terminées, vous obtiendrez la `Vase Scellé` ainsi que la `Clé du Temple`.
 
-En plaçant ces deux objets sur les `Piédestal de Hoopa`, un **Hoopa niveau 60 apparaîtra**, avec **2% de chance d’être chromatique**.
+En plaçant ces deux objets sur les `Piédestal de Hoopa`, un **Hoopa au niveau 60 apparaîtra** alors, avec **2% de chance d’être chromatique**.
 
 ---
 
