@@ -40,7 +40,7 @@ D'anciens titans sommeillent sous les terres de Hoenn. Entre océans déchaîné
 
 Pour obtenir Regirock, vous devez fabriquer une `Clé du Golem Roche`, obtenue à partir d'un `Joyau Roche` et de `4 Lingots de Golem Roche`.
 
-Les `4 Lingot de Golem Roche"` se fabriquent avec `Joyau Roche` et `4 Débris de Golem`, obtenus en faisant fondre des `Gravats Anciens`, que l'on trouve dans les grottes aux niveaux de l'Ardoise des Profondeurs et en dessous.
+Les `4 Lingot de Golem Roche` se fabriquent avec `Joyau Roche` et `4 Débris de Golem`, obtenus en faisant fondre des `Gravats Anciens`, que l'on trouve dans les grottes aux niveaux de l'Ardoise des Profondeurs et en dessous.
 
 Une fois la `Clé du Golem Roche` en votre possession, vous devez trouver le [Temple de Frimapic](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#temple-de-frimapic) et déverrouiller la `Serrure de Regirock`.
 
