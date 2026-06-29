@@ -28,7 +28,7 @@ Structure permettant d’obtenir <strong>Ho-Oh</strong>.
 ## 🌍 Génération
 
 - 📌 Biome : Village Traditionnel 
-- 🏗️ Peut apparaître avec : Burned Tower  
+- 🏗️ Peut apparaître avec : Tour Cendrée
 
 &#8203;
 
