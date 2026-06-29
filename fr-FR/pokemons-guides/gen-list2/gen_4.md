@@ -271,7 +271,7 @@ Vous recevrez également une `Spatiosphère` après avoir utilisé le piédestal
 
 ### 🗝️ Moyen d'obtention
 
-Pour obtenir Heatran, vous devez trouver la `Grotte de Heatran` dans le Nether. Cette immense caverne renferme de nombreux coffres, ainsi que plusieurs coffres cachés contenant un excellent butin.
+Pour obtenir Heatran, vous devez trouver la [Grotte Zénith](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/nether_world#grotte-zenith) dans le Nether. Cette immense caverne renferme de nombreux coffres, ainsi que plusieurs coffres cachés contenant un excellent butin.
 
 Une fois devant le [Piédestal de Heatran](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/pedestals), utilisez une `Pierre Magma`, fabriquée à partir de **7 Blocs de magma** et de **2 Fragments de Netherite**, pour invoquer un **Heatran niveau 50**, avec **2% de chance qu'il soit chromatique**.
 
