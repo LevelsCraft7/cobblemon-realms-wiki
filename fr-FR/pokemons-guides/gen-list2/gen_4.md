@@ -199,9 +199,9 @@ Vous recevrez également une `Canine de Créfadet` après avoir utilisé la `Pre
 
 Pour obtenir Dialga, vous devez trouver les [Colonnes Lances](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#colonnes-lances). Il s'agit d'un immense temple de style grec où il est possible d'obtenir [Dialga](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#dialga) et [Palkia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#palkia).
 
-Une fois devant le [Piédestal de Dialga](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/pedestals), utilisez une `Chaîne Rouge` pour invoquer un **Dialga niveau 70**, avec **2% de chance qu'il soit chromatique**.
+Une fois devant le [Piédestal de Dialga](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/pedestals), utilisez une `Chaîne Rouge` pour invoquer un **Dialga au niveau 70**, avec **2% de chance qu'il soit chromatique**.
 
-Vous recevrez également un `Temposphère` après avoir utilisé le piédestal. En le combinant avec les deux autres Globes ainsi qu'une `Flûte Célestique`, vous pourrez fabriquer la `Flûte Azur`, permettant d'obtenir [Arceus](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#arceus).
+Vous recevrez également un `Temposphère` après avoir utilisé le piédestal. En le combinant avec les deux autres Sphères ainsi qu'une `Flûte Célestique`, vous pourrez fabriquer la `Flûte Azur`, permettant d'obtenir [Arceus](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#arceus).
 
 ---
 
@@ -245,7 +245,7 @@ Vous recevrez également un `Temposphère` après avoir utilisé le piédestal. 
 
 Pour obtenir Palkia, vous devez trouver les [Colonnes Lances](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#colonnes-lances). Il s'agit d'un immense temple de style grec où il est possible d'obtenir [Dialga](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#dialga) et [Palkia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#palkia).
 
-Une fois devant le [Piédestal de Palkia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/pedestals), utilisez une `Chaîne Rouge` pour invoquer un **Palkia niveau 70**, avec **2% de chance qu'il soit chromatique**.
+Une fois devant le [Piédestal de Palkia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/pedestals), utilisez une `Chaîne Rouge` pour invoquer un **Palkia au niveau 70**, avec **2% de chance qu'il soit chromatique**.
 
 Vous recevrez également une `Spatiosphère` après avoir utilisé le piédestal. En le combinant avec les deux autres Globes ainsi qu'une `Flûte Célestique`, vous pourrez fabriquer la `Flûte Azur`, permettant d'obtenir [Arceus](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#arceus).
 
@@ -291,7 +291,7 @@ Vous recevrez également une `Spatiosphère` après avoir utilisé le piédestal
 
 Pour obtenir Heatran, vous devez trouver la [Grotte Zénith](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/nether_world#grotte-zenith) dans le Nether. Cette immense caverne renferme de nombreux coffres, ainsi que plusieurs coffres cachés contenant un excellent butin.
 
-Une fois devant le [Piédestal de Heatran](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/pedestals), utilisez une `Pierre Magma`, fabriquée à partir de **7 Blocs de magma** et de **2 Fragments de Netherite**, pour invoquer un **Heatran niveau 50**, avec **2% de chance qu'il soit chromatique**.
+Une fois devant le [Piédestal de Heatran](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/pedestals), utilisez une `Pierre Magma`, fabriquée à partir de **7 Blocs de magma** et de **2 Fragments de Netherite**, pour invoquer un **Heatran au niveau 50**, avec **2% de chance qu'il soit chromatique**.
 
 ---
 
@@ -338,9 +338,9 @@ En combinant ces cinq tablettes, vous fabriquerez une `Clé Titan`.
 
 Une fois la `Clé Titan` en votre possession, rendez-vous au [Temple de Frimapic](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#temple-de-frimapic) et déverrouillez la `Serrure de Regigigas`. Derrière celle-ci se trouvent un long couloir menant à un `Bloc Sanctuaire` à désactiver, une bibliothèque remplie de butin ainsi que la salle d'invocation de Regigigas.
 
-Dans la salle d'invocation, marchez sur chacun des cercles afin de les illuminer. Une fois tous les cercles activés, un **Regigigas niveau 70 apparaîtra**, avec **2% de chance d'être chromatique**.
+Dans la salle d'invocation, marchez sur chacun des cercles afin de les illuminer. Une fois tous les cercles activés, un **Regigigas au niveau 70 apparaîtra**, avec **2% de chance d'être chromatique**.
 
-Vous recevrez également un `Noyau de Titan` après avoir activé le sol. Celui-ci permet de fabriquer l'[Épaulière Titan](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/regi_pauldrons) ou le [Marteau du Titan](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/titan_hammer).
+Vous recevrez également un `Noyau de Titan` après avoir activé le sol. Celui-ci permet de fabriquer l'[Épaulière Titan](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/regi_pauldrons) ou le [Marteau Titan](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/titan_hammer).
 
 ---
 
@@ -519,9 +519,9 @@ Une fois le sifflet obtenue, faites un clic droit avec celle-ci en main pour inv
 
 Pour obtenir Arceus, vous devez utiliser la `Flûte Azur` pour accéder au `Hall de l’Origine`.
 
-Pour cela, vous devez d’abord invoquer [Dialga](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#dialga), [Palkia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#palkia) et [Giratina](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#giratina) grâce à leurs piédestaux. Vous obtiendrez ainsi trois globes : `Temposphère`, `Spatiosphère` et `Antimatièrosphère`. En les combinant avec une `Flûte Célestique`, vous fabriquerez la `Flûte Azur`.
+Pour cela, vous devez d’abord invoquer [Dialga](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#dialga), [Palkia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#palkia) et [Giratina](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#giratina) grâce à leurs piédestaux. Vous obtiendrez ainsi trois sphères : `Temposphère`, `Spatiosphère` et `Antimatièrosphère`. En les combinant avec une `Flûte Célestique`, vous fabriquerez la `Flûte Azur`.
 
-Une fois la `Flûte Azur` en main, faites un clic droit pour être téléporté dans le `Salle Originelle`. En haut des marches, un **Arceus niveau 90 apparaîtra**, avec **2% de chance qu’il soit chromatique**.
+Une fois la `Flûte Azur` en main, faites un clic droit pour être téléporté dans le `Salle Originelle`. En haut des marches, un **Arceus au niveau 90 apparaîtra** alors, avec **2% de chance qu’il soit chromatique**.
 
 ---
 
