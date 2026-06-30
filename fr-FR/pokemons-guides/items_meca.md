@@ -88,52 +88,52 @@ Certains objets relèvent également de catégories utilitaires ou de composants
 
 | 👁️ Apparence | 🏷️ Nom | 📖 Description |
 | :---: | :---: | :---: |
-| ![]() | Boîte Mystère | Une boîte mystérieuse principalement utilisée dans Pokémon GO. Lorsqu’elle est ouverte, elle attire temporairement le Pokémon fabuleux Meltan |
-| ![]() | Boîte Zygarde | Un objet dans lequel sont rassemblés les Cœurs et Cellules de Zygarde, composants du Pokémon légendaire Zygarde. L’info-bulle affiche le nombre d’éléments collectés |
-| ![]() | Cellule de Zygarde | Une cellule hexagonale verte unique constituant une partie du corps du Pokémon légendaire Zygarde |
-| ![]() | Noyau de Zygarde | Un composant central servant de cerveau au Pokémon légendaire Zygarde |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Boite_Mystere.png) | Boîte Mystère | Une boîte mystérieuse principalement utilisée dans Pokémon GO. Lorsqu’elle est ouverte, elle attire temporairement le Pokémon fabuleux Meltan |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Boîte_Zygarde.png) | Boîte Zygarde | Un objet dans lequel sont rassemblés les Cœurs et Cellules de Zygarde, composants du Pokémon légendaire Zygarde. L’info-bulle affiche le nombre d’éléments collectés |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Cellule_Zygarde.png) | Cellule de Zygarde | Une cellule hexagonale verte unique constituant une partie du corps du Pokémon légendaire Zygarde |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Noyau_Zygarde.png) | Noyau de Zygarde | Un composant central servant de cerveau au Pokémon légendaire Zygarde |
 
 ## 🧬 Reliques & Artéfacts Légendaires
 
 | 👁️ Apparence | 🏷️ Nom | 📖 Description |
 | :---: | :---: | :---: |
-| ![]() | Bouclier Rouillé | On dit que le Pokémon légendaire Zamazenta a utilisé ce bouclier pour arrêter une terrible catastrophe dans l’Antiquité. Mais il est devenu rouillé et usé |
-| ![]() | Épée Rouillée | On dit que le Pokémon légendaire Zacian a utilisé cette épée pour arrêter une terrible catastrophe dans l’Antiquité. Mais elle est devenue rouillée et usée |
-| ![]() | Lame Sainte | Une représentation de l’attaque signature Lame Sainte, célèbrement associée aux Lames de la Justice et au Pokémon fabuleux Keldeo |
-| ![]() | Épée de la Volonté de Fer | Une épée imprégnée de la volonté inébranlable et du sens du commandement du Pokémon légendaire Cobaltium |
-| ![]() | Bouclier de la Caverne | Un bouclier robuste incarnant la puissance défensive du Pokémon légendaire Terrakium |
-| ![]() | Lame des Prairies | Une lame mystique imprégnée de la rapidité du Pokémon légendaire Virizion |
-| ![]() | Pierre Magma | Une pierre pulsant d’une chaleur intense, liée à l’éveil du Pokémon légendaire Heatran au sein du Mont Abrupt |
-| ![]() | Module de Genesect | On dit qu’il contient la conscience du Pokémon fabuleux Genesect |
-| ![]() | Miroir Sacré | Un miroir mystique qui révèle la véritable forme Avatar des Pokémon Forces de la Nature : Boréas, Fulguris, Démétéros et Amovénus |
-| ![]() | Bouteille Scellée | Une bouteille qui libère la forme Déchaînée redoutable du Pokémon fabuleux Hoopa |
-| ![]() | Prisme Nécro | Un prisme étrange qui absorbe la lumière, pulsant de la même énergie ténébreuse que Necrozma. Il est nécessaire pour fusionner Necrozma avec Solgaleo ou Lunala |
-| ![]() | Rênes de l'Unité | Des rênes spéciales tissées par Calyrex à l’aide de son propre pouvoir et d’une mèche de crin de sa monture. Utilisées pour monter Blizzeval ou Spectreval |
-| ![]() | Carotte Glaciale | Une récolte cultivée dans un champ couvert de neige que le fidèle destrier de Sylveroy, Blizzeval, aime manger |
-| ![]() | Carotte Spectrale | Une récolte cultivée dans un champ sombre et lugubre que le fidèle destrier de Sylveroy, Spectreval, aime manger |
-| ![]() | Parchemin des Eaux | Un parchemin trouvé à la Tour des Eaux qui enseigne les secrets de l’eau en mouvement, utilisé pour faire évoluer Wushours en Shifours Style Mille Poing |
-| ![]() | Parchemin des Ténèbres | Un parchemin trouvé à la Tour des Ténèbres qui enseigne les secrets des ténèbres, utilisé pour faire évoluer Wushours en Shifours Style Poing Final |
-| ![]() | Cocon de l'Annihilation | Un objet mystérieux rappelant l’état dormant du Pokémon légendaire Yveltal, contenant le pouvoir de la destruction |
-| ![]() | Pousse de Vie | Une représentation de la forme arborescente du Pokémon légendaire Xerneas lorsqu’il est à l’état dormant |
-| ![]() | Anneau de Hoopa | Un anneau doré lié aux pouvoirs espiègles de distorsion dimensionnelle du Pokémon fabuleux Hoopa |
-| ![]() | Animacœur | Un noyau mystique artificiel imprégné de la force vitale du Pokémon Artificiel Magearna. C’est aussi le nom de son talent |
-| ![]() | Poké Ball Antique | La Poké Ball unique contenant le Pokémon fabuleux Magearna, représentant son apparence d’il y a 500 ans (forme Couleur Originale) |
-| ![]() | Mochi de Servitude | Un mochi spécial fabriqué par Pecharunt. QuApparenceque le mange obéit aux ordres de Pecharunt. On dit qu’il a été donné aux Trois Fidèles |
-| ![]() | Cœur d’Éthernatos | Le noyau du Pokémon gigantesque Eternatus, débordant d’une énergie inimaginable à l’origine du phénomène Dynamax |
-| ![]() | Bandeau de Wushours | Un bandeau d’entraînement blanc porté par le Pokémon Kung-fu Wushours avant son évolution |
-| ![]() | Capuche de Marshadow | Une capuche ombragée rappelant les traits du Pokémon des ombres Marshadow |
-| ![]() | Téra-Carapace | La carapace cristalline du Pokémon légendaire Terapagos sous sa forme Téracristal |
-| ![]() | Valve à Vapeur | Un levier mystérieux contrôlant une pression de vapeur immense, lié au pouvoir du Pokémon fabuleux Volcanion |
-| ![]() | Couronne de Diancie | Une couronne étincelante, irradiant une énergie liée au Pokémon fabuleux Diancie |
-| ![]() | Totem Tokorico | Un totem sacré représentant le pouvoir et le territoire du Pokémon tutélaire Tokorico |
-| ![]() | Totem Tokopiyon | Un totem sacré représentant le pouvoir et le territoire du Pokémon tutélaire Tokopiyon |
-| ![]() | Totem de Tokotoro | Un totem sacré représentant le pouvoir et le territoire du Pokémon tutélaire Tokotoro |
-| ![]() | Totem Tokopisco | Un totem sacré représentant le pouvoir et le territoire du Pokémon tutélaire Tokopisco |
-| ![]() | Casque de Meloetta | Un casque audio rappelant celui porté par le Pokémon fabuleux Meloetta, résonnant d’une puissance musicale |
-| ![]() | Griffe Foudroyante de Zeraora | Une griffe crépitant d’énergie électrique, représentant le pouvoir du Pokémon Foudre Zeraora |
-| ![]() | Baie Pêcha Fabuleuse | Une baie Pecha rare imprégnée d’énergie mystique, recherchée par le Pokémon fabuleux Pêchaminus |
-| ![]() | Cape de Zarude | Une cape rose robuste rappelant celle portée par le Pokémon Singe Vagabond Zarude (forme Dada) |
-| ![]() | Sac de Lillie | Un sac distinctif utilisé par Lilie, célèbre pour avoir servi à transporter secrètement le Pokémon légendaire Cosmog |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Bouclier_Rouille.png) | Bouclier Rouillé | On dit que le Pokémon légendaire Zamazenta a utilisé ce bouclier pour arrêter une terrible catastrophe dans l’Antiquité. Mais il est devenu rouillé et usé |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Epee_Rouillee.png) | Épée Rouillée | On dit que le Pokémon légendaire Zacian a utilisé cette épée pour arrêter une terrible catastrophe dans l’Antiquité. Mais elle est devenue rouillée et usée |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Lame_Sainte.png) | Lame Sainte | Une représentation de l’attaque signature Lame Sainte, célèbrement associée aux Lames de la Justice et au Pokémon fabuleux Keldeo |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Epee_Volonte_Fer.png) | Épée de la Volonté de Fer | Une épée imprégnée de la volonté inébranlable et du sens du commandement du Pokémon légendaire Cobaltium |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Bouclier_Caverne.png) | Bouclier de la Caverne | Un bouclier robuste incarnant la puissance défensive du Pokémon légendaire Terrakium |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Lame_Prairies.png) | Lame des Prairies | Une lame mystique imprégnée de la rapidité du Pokémon légendaire Virizion |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Pierre_Magma.png) | Pierre Magma | Une pierre pulsant d’une chaleur intense, liée à l’éveil du Pokémon légendaire Heatran au sein du Mont Abrupt |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Module_Genesect.png) | Module de Genesect | On dit qu’il contient la conscience du Pokémon fabuleux Genesect |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Miroir_Sacre.png) | Miroir Sacré | Un miroir mystique qui révèle la véritable forme Avatar des Pokémon Forces de la Nature : Boréas, Fulguris, Démétéros et Amovénus |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Bouteille_Scellee.png) | Bouteille Scellée | Une bouteille qui libère la forme Déchaînée redoutable du Pokémon fabuleux Hoopa |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Prisme_Necro.png) | Prisme Nécro | Un prisme étrange qui absorbe la lumière, pulsant de la même énergie ténébreuse que Necrozma. Il est nécessaire pour fusionner Necrozma avec Solgaleo ou Lunala |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Renes_Unite.png) | Rênes de l'Unité | Des rênes spéciales tissées par Calyrex à l’aide de son propre pouvoir et d’une mèche de crin de sa monture. Utilisées pour monter Blizzeval ou Spectreval |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Carotte_Glaciale.png) | Carotte Glaciale | Une récolte cultivée dans un champ couvert de neige que le fidèle destrier de Sylveroy, Blizzeval, aime manger |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Carotte_Spectrale.png) | Carotte Spectrale | Une récolte cultivée dans un champ sombre et lugubre que le fidèle destrier de Sylveroy, Spectreval, aime manger |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Parchemin_Eaux.png) | Parchemin des Eaux | Un parchemin trouvé à la Tour des Eaux qui enseigne les secrets de l’eau en mouvement, utilisé pour faire évoluer Wushours en Shifours Style Mille Poing |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Parchemin_Tenebres.png) | Parchemin des Ténèbres | Un parchemin trouvé à la Tour des Ténèbres qui enseigne les secrets des ténèbres, utilisé pour faire évoluer Wushours en Shifours Style Poing Final |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Cocon_Annihilation.png) | Cocon de l'Annihilation | Un objet mystérieux rappelant l’état dormant du Pokémon légendaire Yveltal, contenant le pouvoir de la destruction |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Pousse_Vie.png) | Pousse de Vie | Une représentation de la forme arborescente du Pokémon légendaire Xerneas lorsqu’il est à l’état dormant |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Anneau_Hoopa.png) | Anneau de Hoopa | Un anneau doré lié aux pouvoirs espiègles de distorsion dimensionnelle du Pokémon fabuleux Hoopa |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Animacoeur.png) | Animacœur | Un noyau mystique artificiel imprégné de la force vitale du Pokémon Artificiel Magearna. C’est aussi le nom de son talent |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Pokeball_Antique.png) | Poké Ball Antique | La Poké Ball unique contenant le Pokémon fabuleux Magearna, représentant son apparence d’il y a 500 ans (forme Couleur Originale) |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Mochi.png) | Mochi de Servitude | Un mochi spécial fabriqué par Pêchaminus. Quiconque en mange obéira aux ordres de Pecharunt. On dit qu’il en a été donné aux Trois Fidèles |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Coeur_Ethernatos.png) | Cœur d’Éthernatos | Le noyau du Pokémon gigantesque Eternatus, débordant d’une énergie inimaginable à l’origine du phénomène Dynamax |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Bandeau_Wushours.png) | Bandeau de Wushours | Un bandeau d’entraînement blanc porté par le Pokémon Kung-fu Wushours avant son évolution |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Capuche_Marshadow.png) | Capuche de Marshadow | Une capuche ombragée rappelant les traits du Pokémon des ombres Marshadow |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Tera_Carapace.png) | Téra-Carapace | La carapace cristalline du Pokémon légendaire Terapagos sous sa forme Téracristal |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Valve_Vapeur.png) | Valve à Vapeur | Un levier mystérieux contrôlant une pression de vapeur immense, lié au pouvoir du Pokémon fabuleux Volcanion |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Couronne_Diancie.png) | Couronne de Diancie | Une couronne étincelante, irradiant une énergie liée au Pokémon fabuleux Diancie |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Totem_Tokorico.png) | Totem Tokorico | Un totem sacré représentant le pouvoir et le territoire du Pokémon tutélaire Tokorico |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Totem_Tokopiyon.png) | Totem Tokopiyon | Un totem sacré représentant le pouvoir et le territoire du Pokémon tutélaire Tokopiyon |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Totem_Tokotoro.png) | Totem de Tokotoro | Un totem sacré représentant le pouvoir et le territoire du Pokémon tutélaire Tokotoro |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Totem_Tokopisco.png) | Totem Tokopisco | Un totem sacré représentant le pouvoir et le territoire du Pokémon tutélaire Tokopisco |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Casque_Meloetta.png) | Casque de Meloetta | Un casque audio rappelant celui porté par le Pokémon fabuleux Meloetta, résonnant d’une puissance musicale |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Griffe_Zeraora.png) | Griffe Foudroyante de Zeraora | Une griffe crépitant d’énergie électrique, représentant le pouvoir du Pokémon Foudre Zeraora |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Baie_Pecha_Fabuleuse.png) | Baie Pêcha Fabuleuse | Une baie Pecha rare imprégnée d’énergie mystique, recherchée par le Pokémon fabuleux Pêchaminus |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Cape_Zarude.png) | Cape de Zarude | Une cape rose robuste rappelant celle portée par le Pokémon Singe Vagabond Zarude (forme Dada) |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Sac_Lillie.png) | Sac de Lillie | Un sac distinctif utilisé par Lilie, célèbre pour avoir servi à transporter secrètement le Pokémon légendaire Cosmog |
 
 ---
 
