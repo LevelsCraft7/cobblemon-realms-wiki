@@ -79,9 +79,9 @@ Certains objets relèvent également de catégories utilitaires ou de composants
 | 👁️ Apparence | 🏷️ Nom | 📖 Description |
 | :---: | :---: | :---: |
 | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Masque_Turquoise.png) | Masque Turquoise | Le masque par défaut porté par le Pokémon légendaire Ogerpon, diffusant une douce lueur turquoise |
-| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Masque_Fondamental.png) | Masque Fondamental | Un masque porté par le Pokémon légendaire Ogerpon. Il augmente sa Défense et change son type Téracristal en Roche |
-| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Masque_Flamme.png) | Masque Flamme-Cœur | Un masque porté par le Pokémon légendaire Ogerpon. Il augmente son Attaque et change son type Téracristal en Feu |
-| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Masque_Source.png) | Masque Source | Un masque porté par le Pokémon légendaire Ogerpon. Il augmente sa Défense Spéciale et change son type Téracristal en Eau |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Masque_Fondamental.png) | Masque de la Pierre | Un masque porté par le Pokémon légendaire Ogerpon. Il augmente sa Défense et change son type Téracristal en Roche |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Masque_Flamme.png) | Masque du Fourneau | Un masque porté par le Pokémon légendaire Ogerpon. Il augmente son Attaque et change son type Téracristal en Feu |
+| ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Masque_Source.png) | Masque du Puits | Un masque porté par le Pokémon légendaire Ogerpon. Il augmente sa Défense Spéciale et change son type Téracristal en Eau |
 | ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/Masque_Type0.png) | Masque de Type:0 | Un lourd masque autrefois porté par le Pokémon Artificiel Type: Null pour contenir son immense puissance avant qu’il ne forme un lien avec un Dresseur |
 
 ## 🧰 Composants & Outils Utilitaires
