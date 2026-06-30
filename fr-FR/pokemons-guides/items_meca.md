@@ -10,7 +10,7 @@ Certains objets relèvent également de catégories utilitaires ou de composants
 ## 🔑 Objets clés (Formes & Orbes)
 
 | 👁️ Apparence | 🏷️ Nom | 📖 Description |
-| :---: | :--- | :--- |
+| :---: | :---: | :---: |
 | - | Orbe Adamant | Un orbe au vif éclat destiné à être tenu par Dialga. Il augmente la puissance des capacités de type Dragon et Acier de Dialga |
 | - | Gemme Bleue | Un orbe bleu étincelant qui, selon la légende, permet au Pokémon légendaire Kyogre d'effectuer une Primo-Résurgence. Il est réputé entretenir un lien profond avec la région de Hoenn |
 | - | Orbe Platiné | Un orbe lumineux que peut tenir Giratina. Il augmente la puissance des capacités de type Dragon et Spectre de Giratina et lui permet de conserver sa Forme Originelle en dehors du Monde Distorsion |
@@ -25,7 +25,7 @@ Certains objets relèvent également de catégories utilitaires ou de composants
 ## 🎫 Tickets, Pass et Cartes
 
 | 👁️ Apparence | 🏷️ Nom | 📖 Description |
-| :---: | :--- | :--- |
+| :---: | :---: | :---: |
 | - | Vieillecarte | Une carte indiquant l’emplacement de l’Île Lointaine, où l’on dit que réside le Pokémon fabuleux Mew |
 | - | Pass Liberté | Un passe nécessaire pour embarquer à bord d’un navire à destination du Jardin Liberté, où réside le Pokémon fabuleux Victini |
 | - | Passe Éon | Un ticket nécessaire pour embarquer à bord d'un ferry à destination de l'Île du Sud, où vivent les Pokémon légendaires Latias et Latios |
@@ -37,7 +37,7 @@ Certains objets relèvent également de catégories utilitaires ou de composants
 ## 🎶 Flûtes, Cloches et Ailes
 
 | 👁️ Apparence | 🏷️ Nom | 📖 Description |
-| :---: | :--- | :--- |
+| :---: | :---: | :---: |
 | - | Flûte Azur | Une flûte qui émet un son cristallin et dont on dit qu'elle permet d'invoquer le Pokémon fabuleux Arceus |
 | - | Glas Transparent | Une clochette au style très ancien qui émet un doux tintement. Selon la légende, elle permet d'invoquer le Pokémon légendaire Ho-Oh |
 | - | Flûte du Soleil | Une flûte qui brille de la lumière du soleil, capable d’invoquer le Pokémon légendaire Solgaleo lorsqu’elle est jouée en harmonie avec la Flûte de la Lune à l’Autel du Soleil/de la Lune |
@@ -50,7 +50,7 @@ Certains objets relèvent également de catégories utilitaires ou de composants
 ## 📚 Livres & Documents
 
 | 👁️ Apparence | 🏷️ Nom | 📖 Description |
-| :---: | :--- | :--- |
+| :---: | :---: | :---: |
 | - | Journal du Dr Fuji | Le journal du Dr Fuji, rempli de notes sur ses recherches concernant Mew et la création du Pokémon légendaire Mewtwo qui en a résulté |
 | - | Livre Violet | Le compte rendu d’une expédition dans le Grand Cratère de Paldea, détaillant des Pokémon Paradoxe tels que Miraidon. Le nom « Turo » est inscrit sur la couverture |
 | - | Livre Écarlate | Le compte rendu d’une expédition dans le Grand Cratère de Paldea, détaillant des Pokémon Paradoxe tels que Koraidon. Le nom « Sada » est inscrit sur la couverture) |
@@ -58,7 +58,7 @@ Certains objets relèvent également de catégories utilitaires ou de composants
 ## 🧩 Trio des Lacs
 
 | 👁️ Apparence | 🏷️ Nom | 📖 Description |
-| :---: | :--- | :--- |
+| :---: | :---: | :---: |
 | - | Croc de Créfadet | Un croc acéré rayonnant de volonté, lié au Pokémon légendaire Créfadet |
 | - | Aile de Créfollet | Une plume délicate émettant des émotions, obtenue du Pokémon légendaire Créfollet |
 | - | Griffe de Créhelf | Une griffe acérée pulsant de savoir, appartenant au Pokémon légendaire Créhelf |
@@ -66,7 +66,7 @@ Certains objets relèvent également de catégories utilitaires ou de composants
 ## 🧱 Tablettes des Regis
 
 | 👁️ Apparence | 🏷️ Nom | 📖 Description |
-| :---: | :--- | :--- |
+| :---: | :---: | :---: |
 | - | Tablette Pierre | Une tablette taillée dans la roche, représentant le Pokémon légendaire Regirock |
 | - | Tablette Glace | Une tablette gelée irradiant le froid, liée au Pokémon légendaire Regice |
 | - | Tablette Acier | Une tablette de métal dur, liée au Pokémon légendaire Registeel |
@@ -77,7 +77,7 @@ Certains objets relèvent également de catégories utilitaires ou de composants
 ## 🧿 Masques (Ogerpon & Type:Null)
 
 | 👁️ Apparence | 🏷️ Nom | 📖 Description |
-| :---: | :--- | :--- |
+| :---: | :---: | :---: |
 | - | Masque Turquoise | Le masque par défaut porté par le Pokémon légendaire Ogerpon, diffusant une douce lueur turquoise |
 | - | Masque Fondamental | Un masque porté par le Pokémon légendaire Ogerpon. Il augmente sa Défense et change son type Téracristal en Roche |
 | - | Masque Flamme-Cœur | Un masque porté par le Pokémon légendaire Ogerpon. Il augmente son Attaque et change son type Téracristal en Feu |
@@ -87,7 +87,7 @@ Certains objets relèvent également de catégories utilitaires ou de composants
 ## 🧰 Composants & Outils Utilitaires
 
 | 👁️ Apparence | 🏷️ Nom | 📖 Description |
-| :---: | :--- | :--- |
+| :---: | :---: | :---: |
 | - | Boîte Mystère | Une boîte mystérieuse principalement utilisée dans Pokémon GO. Lorsqu’elle est ouverte, elle attire temporairement le Pokémon fabuleux Meltan |
 | - | Boîte Zygarde | Un objet dans lequel sont rassemblés les Cœurs et Cellules de Zygarde, composants du Pokémon légendaire Zygarde. L’info-bulle affiche le nombre d’éléments collectés |
 | - | Cellule de Zygarde | Une cellule hexagonale verte unique constituant une partie du corps du Pokémon légendaire Zygarde |
@@ -96,7 +96,7 @@ Certains objets relèvent également de catégories utilitaires ou de composants
 ## 🧬 Reliques & Artéfacts Légendaires
 
 | 👁️ Apparence | 🏷️ Nom | 📖 Description |
-| :---: | :--- | :--- |
+| :---: | :---: | :---: |
 | - | Bouclier Rouillé | On dit que le Pokémon légendaire Zamazenta a utilisé ce bouclier pour arrêter une terrible catastrophe dans l’Antiquité. Mais il est devenu rouillé et usé |
 | - | Épée Rouillée | On dit que le Pokémon légendaire Zacian a utilisé cette épée pour arrêter une terrible catastrophe dans l’Antiquité. Mais elle est devenue rouillée et usée |
 | - | Lame Sainte | Une représentation de l’attaque signature Lame Sainte, célèbrement associée aux Lames de la Justice et au Pokémon fabuleux Keldeo |
