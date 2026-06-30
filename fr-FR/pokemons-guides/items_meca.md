@@ -1,7 +1,5 @@
 # Les items de Myths & Legends
 
-# 🏛️ Les items de Myths & Legends
-
 {% hint style="info" %}
 <p align="center">
 La majorité de ces objets sont des <strong>Key Items</strong>, utilisés pour interagir avec, rencontrer ou transformer des Pokémon légendaires et mythiques  
