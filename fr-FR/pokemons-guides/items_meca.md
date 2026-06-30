@@ -1,6 +1,6 @@
-# 🏛️ Les items de Myths & Legends
+# Les items de Myths & Legends
 
-# 🎒⚙️ Objets & Mécaniques
+# 🏛️ Les items de Myths & Legends
 
 {% hint style="info" %}
 <p align="center">
