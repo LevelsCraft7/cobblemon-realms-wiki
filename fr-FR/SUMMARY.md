@@ -39,36 +39,7 @@
    - [🎓 Génération 9 - Paldea/Kitakami](pokemons-guides/gen-list/gen_9.md)
 - [🎒⚙️ Objets & Mécaniques](pokemons-guides/items_meca.md)
 
-/// ## Legendary Monuments
-
-- [🌟 Légendaire - Toutes les générations](pokemons-guides/legendary_monuments.md)
-   - [🌿 Génération 1 - Kanto](pokemons-guides/gen-list2/gen_1.md)
-   - [🍃 Génération 2 - Johto](pokemons-guides/gen-list2/gen_2.md)
-   - [🌊 Génération 3 - Hoenn](pokemons-guides/gen-list2/gen_3.md)
-   - [❄️ Génération 4 - Sinnoh](pokemons-guides/gen-list2/gen_4.md)
-   - [🏙️ Génération 5 - Unys](pokemons-guides/gen-list2/gen_5.md)
-   - [✨ Génération 6 - Kalos](pokemons-guides/gen-list2/gen_6.md)
-   - [🏝️ Génération 7 - Alola](pokemons-guides/gen-list2/gen_7.md)
-   - [👑 Génération 8 - Galar/Hisui](pokemons-guides/gen-list2/gen_8.md)
-   - [🎓 Génération 9 - Paldea/Kitakami](pokemons-guides/gen-list2/gen_9.md)
-- [🎒⚙️ Objets & Mécaniques](mods-guides/legendary_monuments/items_meca.md)
-   - [📱 Smarceus](mods-guides/legendary_monuments/smarceus.md)
-   - [🪈 Flûte Célestique](mods-guides/legendary_monuments/celestica_flute.md)
-   - [⚛️ Catalyseur Cosmique](mods-guides/legendary_monuments/cosmic_catalyst.md)
-   - [🌀 Portail Distorsion](mods-guides/legendary_monuments/distortion_world_portal.md)
-   - [💭 Attrape-rêves](mods-guides/legendary_monuments/dream_catcher.md)
-   - [🧵 Fil du Rêve](mods-guides/legendary_monuments/dream_string.md)
-   - [💶 Entrepreneur](mods-guides/legendary_monuments/entrepreneur_villager.md)
-   - [✨ Les Piédestaux](mods-guides/legendary_monuments/pedestals.md)
-   - [🛡️ Les Épaulières](mods-guides/legendary_monuments/regi_pauldrons.md)
-   - [🪽 Aile d'Argent](mods-guides/legendary_monuments/silver_wing.md)
-   - [🔨 Marteau Titan](mods-guides/legendary_monuments/titan_hammer.md)
-   - [⚱️ Les Urnes](mods-guides/legendary_monuments/urns_and_galarian_urns.md)
-- [🏛️ Structures d'Apparitions](mods-guides/legendary_monuments/all_world.md)
-   - [🌫️🏗️ Structures du Monde Distorsion](mods-guides/legendary_monuments/distortion_world.md)
-   - [🌍🏗️ Structures de l’Overworld](mods-guides/legendary_monuments/overworld_world.md)
-   - [🔥🏗️ Structures du Nether](mods-guides/legendary_monuments/nether_world.md)
-   - [🌌🏗️ Structures de l’End](mods-guides/legendary_monuments/end_world.md)
+## Bientôt dispo
 
 ## Exclusivités Pokémon
 
