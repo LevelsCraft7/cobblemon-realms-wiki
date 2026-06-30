@@ -12,11 +12,11 @@ Certains objets relèvent également de catégories utilitaires ou de composants
 | 👁️ Apparence | 🏷️ Nom | 📖 Description |
 | :---: | :---: | :---: |
 | - | Orbe Adamant | Un orbe au vif éclat destiné à être tenu par Dialga. Il augmente la puissance des capacités de type Dragon et Acier de Dialga |
-| - | Gemme Bleue | Un orbe bleu étincelant qui, selon la légende, permet au Pokémon légendaire Kyogre d'effectuer une Primo-Résurgence. Il est réputé entretenir un lien profond avec la région de Hoenn |
+| - | Orbe Bleue | Un orbe bleu étincelant qui, selon la légende, permet au Pokémon légendaire Kyogre d'effectuer une Primo-Résurgence. Il est réputé entretenir un lien profond avec la région de Hoenn |
 | - | Orbe Platiné | Un orbe lumineux que peut tenir Giratina. Il augmente la puissance des capacités de type Dragon et Spectre de Giratina et lui permet de conserver sa Forme Originelle en dehors du Monde Distorsion |
 | - | Orbe Perlé | Un orbe magnifiquement lumineux que peut tenir. Palkia Il augmente la puissance des capacités de type Dragon et Eau de Palkia |
-| - | Gemme Rouge | Un orbe rouge étincelant censé permettre au Pokémon légendaire Groudon d’effectuer une Primo-Résurgence. Il est réputé entretenir un lien profond avec la région de Hoenn |
-| - | Gemme Verte | Un orbe vert étincelant censé apaiser le conflit entre Kyogre et Groudon, lié au Pokémon légendaire Rayquaza. Il est réputé entretenir un lien profond avec la région de Hoenn |
+| - | Orbe Rouge | Un orbe rouge étincelant censé permettre au Pokémon légendaire Groudon d’effectuer une Primo-Résurgence. Il est réputé entretenir un lien profond avec la région de Hoenn |
+| - | Orbe Vert | Un orbe vert étincelant censé apaiser le conflit entre Kyogre et Groudon, lié au Pokémon légendaire Rayquaza. Il est réputé entretenir un lien profond avec la région de Hoenn |
 | - | Disque Bonus | Un disque spécial pour la Nintendo GameCube, distribué avec les précommandes de Pokémon Colosseum ou lors d'événements, principalement utilisé pour obtenir le Pokémon fabuleux Jirachi |
 | - | Pointeau ADN | Un dispositif permettant au Pokémon légendaire Kyurem de fusionner avec Reshiram ou Zekrom, modifiant ainsi sa forme |
 | - | Galet Noir | Une forme pierreuse et dormante du Pokémon légendaire Zekrom, pulsant d’une énergie sombre et puissante |
