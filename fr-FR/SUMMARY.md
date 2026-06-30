@@ -39,7 +39,7 @@
    - [🎓 Génération 9 - Paldea/Kitakami](pokemons-guides/gen-list/gen_9.md)
 - [🎒⚙️ Objets & Mécaniques](pokemons-guides/items_meca.md)
 
-## Legendary Monuments
+/// ## Legendary Monuments
 
 - [🌟 Légendaire - Toutes les générations](pokemons-guides/legendary_monuments.md)
    - [🌿 Génération 1 - Kanto](pokemons-guides/gen-list2/gen_1.md)
