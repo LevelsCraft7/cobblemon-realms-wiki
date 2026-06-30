@@ -37,6 +37,7 @@
    - [🏝️ Génération 7 - Alola](pokemons-guides/gen-list/gen_7.md)
    - [👑 Génération 8 - Galar/Hisui](pokemons-guides/gen-list/gen_8.md)
    - [🎓 Génération 9 - Paldea/Kitakami](pokemons-guides/gen-list/gen_9.md)
+- [🎒⚙️ Objets & Mécaniques](pokemons-guides/items_meca.md)
 
 ## Legendary Monuments
 
