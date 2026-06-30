@@ -37,6 +37,7 @@
    - [🏝️ Generation 7 - Alola](pokemons-guides/gen-list/gen_7.md)
    - [👑 Generation 8 - Galar/Hisui](pokemons-guides/gen-list/gen_8.md)
    - [🎓 Generation 9 - Paldea/Kitakami](pokemons-guides/gen-list/gen_9.md)
+- [🎒⚙️ Objects & Mechanics](pokemons-guides/items_meca.md)
 
 ## Coming Soon
 
