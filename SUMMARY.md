@@ -39,24 +39,7 @@
    - [🎓 Generation 9 - Paldea/Kitakami](pokemons-guides/gen-list/gen_9.md)
 - [🎒⚙️ Objects & Mechanics](pokemons-guides/items_meca.md)
 
-/// ## Legendary Monuments
-
-- [🌟 Legendary - All Generations](pokemons-guides/legendary_monuments.md)
-   - [🌿 Generation 1 - Kanto](pokemons-guides/gen-list2/gen_1.md)
-   - [🍃 Generation 2 - Johto](pokemons-guides/gen-list2/gen_2.md)
-   - [🌊 Generation 3 - Hoenn](pokemons-guides/gen-list2/gen_3.md)
-   - [❄️ Generation 4 - Sinnoh](pokemons-guides/gen-list2/gen_4.md)
-   - [🏙️ Generation 5 - Unys](pokemons-guides/gen-list2/gen_5.md)
-   - [✨ Generation 6 - Kalos](pokemons-guides/gen-list2/gen_6.md)
-   - [🏝️ Generation 7 - Alola](pokemons-guides/gen-list2/gen_7.md)
-   - [👑 Generation 8 - Galar/Hisui](pokemons-guides/gen-list2/gen_8.md)
-   - [🎓 Generation 9 - Paldea/Kitakami](pokemons-guides/gen-list2/gen_9.md)
-- [🎒⚙️ Objects & Mechanics](mods-guides/legendary_monuments/items_meca.md)
-- [🏛️ All Structures](mods-guides/legendary_monuments/all_world.md)
-   - [🌫️🏗️ Distortion World Structures](mods-guides/legendary_monuments/distortion_world.md)
-   - [🌍🏗️ Overworld Structures](mods-guides/legendary_monuments/overworld_world.md)
-   - [🔥🏗️ Nether Structures](mods-guides/legendary_monuments/nether_world.md)
-   - [🌌🏗️ End Structures](mods-guides/legendary_monuments/end_world.md)
+## Coming soon
 
 ## Pokemon Exclusives
 
