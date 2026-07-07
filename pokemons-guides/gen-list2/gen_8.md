@@ -35,9 +35,9 @@ The legends of Galar tell of the exploits of forgotten heroes and powerful ruler
 
 ---
 
-### 🗝️ Moyen d'obtention
+### 🗝️ How to Obtain
 
-**Information manquante**
+**Missing information**
 
 ---
 
@@ -76,9 +76,9 @@ The legends of Galar tell of the exploits of forgotten heroes and powerful ruler
 
 ---
 
-### 🗝️ Moyen d'obtention
+### 🗝️ How to Obtain
 
-**Information manquante**
+**Missing information**
 
 ---
 
@@ -117,13 +117,13 @@ The legends of Galar tell of the exploits of forgotten heroes and powerful ruler
 
 ---
 
-### 🗝️ Moyen d'obtention
+### 🗝️ How to Obtain
 
-Pour obtenir Éthernatos, vous devez trouver le [Cocon d'Éthernatos](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/end_world#cocon-deternatus) dans l'End.
+To obtain Eternatus, you must find the [Eternatus Cocoon](https://our-story-network.gitbook.io/cr-wiki/cr-en/legendary-monuments/all_world/end_world#eternatus-cocoon) in the End.
 
-Ensuite, vous devez y injecter un total de `500 Particules de Galar`, un minerai qui apparaît dans l’Overworld et sert à la fois de combustible et de poudre d’os.
+Then, you must inject a total of `500 Galar Particles`, an ore that spawns in the Overworld and acts as both fuel and bone meal.
 
-Une fois les 500 particules fournies, faites un clic droit sur le bloc : un **Éthernatos au niveau 70 apparaîtra** alors, avec **2% de chance d’être chromatique**.
+Once the 500 particles have been provided, right-click the block: a **Level 70 Eternatus** will appear, with a **2% chance of being Shiny**.
 
 ---
 
@@ -162,20 +162,20 @@ Une fois les 500 particules fournies, faites un clic droit sur le bloc : un **É
 
 ---
 
-### 🗝️ Moyen d'obtention
+### 🗝️ How to Obtain
 
-Pour obtenir Regieleki, vous devez obtenir soit une `Clé de Golem Électrik`, soit une `Clé de Golem Dragon`.
+To obtain Regieleki, you must obtain either an `Electric Golem Key` or a `Dragon Golem Key`.
 
-- La `Clé de Golem Électrik` se craft avec `1 Joyau Électik` + `4 Débris de Golem`
-- La `Clé de Golem Dragon` se craft avec `1 Joyau Dragon` + `4 Débris de Golem`
+- The `Electric Golem Key` is crafted with `1 Electric Gem` + `4 Golem Ingots`
+- The `Dragon Golem Key` is crafted with `1 Dragon Gem` + `4 Golem Ingots`
 
-Les `Débris de Golem` sont fabriqués par lots de 4 avec le Joyau correspondant + `4 Débris de Golem`, obtenus en faisant fondre des `Gravats Anciens` trouvés dans les grottes au niveau des Ardoises des abîmes et inférieur.
+`Golem Ingots` are crafted in batches of 4 using the corresponding Gem + `4 Golem Ingots`, obtained by smelting `Ancient Rubble` found in caves at Deepslate level and below.
 
-Une fois la clé obtenue, vous pouvez ouvrir la `Serrure d'Elekidrago` du [Temple de Frimapic](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#temple-de-frimapic). Le temple propose une épreuve où il faut orienter des flèches dans des cadres colorés afin de reproduire les motifs des murs situés dans les quatre coins du donjon. Une fois les quatre sections complétées, le passage central s’ouvre vers la salle d’invocation.
+Once you have the key, you can open the `Elekidrago Lock` in the [Snowpoint Temple](https://our-story-network.gitbook.io/cr-wiki/cr-en/legendary-monuments/all_world/overworld_world#snowpoint-temple). The temple contains a trial where you must orient arrows inside colored frames to reproduce the patterns displayed on the walls in the four corners of the dungeon. Once all four sections are completed, the central passage opens, leading to the summoning room.
 
-Dans la salle finale, activez tous les cercles au sol : Regieleki et [Regidrago](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_8#regidrago) **apparaissent niveau 40**, avec **2% de chance d’être chromatiques**.
+In the final room, activate all the circles on the ground: Regieleki and [Regidrago](https://our-story-network.gitbook.io/cr-wiki/cr-en/legendary-monuments/legendary_monuments/gen_8#regidrago) will **appear at level 40**, with a **2% chance of being Shiny**.
 
-Vous obtenez également une `Tablette de Regirock`, pouvant être combinée avec les autres tablettes pour fabriquer la `Clé Titan` et invoquer [Regigigas](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#regigigas).
+You will also obtain a `Regirock Tablet`, which can be combined with the other tablets to craft the `Titan Key` and summon [Regigigas](https://our-story-network.gitbook.io/cr-wiki/cr-en/legendary-monuments/legendary_monuments/gen_4#regigigas).
 
 ---
 
@@ -214,20 +214,20 @@ Vous obtenez également une `Tablette de Regirock`, pouvant être combinée avec
 
 ---
 
-### 🗝️ Moyen d'obtention
+### 🗝️ How to Obtain
 
-Pour obtenir Regidrago, vous devez obtenir soit la `Clé de Golem Électrik`, soit un `Clé de Golem Dragon`.
+To obtain Regidrago, you must obtain either the `Electric Golem Key` or the `Dragon Golem Key`.
 
-- La `Clé de Golem Électrik` se craft avec `1 Joyau Électik` + `4 Débris de Golem`
-- Le `Clé de Golem Dragon` se craft avec `1 Joyau Dragon` + `4 Débris de Golem`
+- The `Electric Golem Key` is crafted with `1 Electric Gem` + `4 Golem Ingots`
+- The `Dragon Golem Key` is crafted with `1 Dragon Gem` + `4 Golem Ingots`
 
-Les `Débris de Golem` sont fabriqués par lots de 4 avec le Joyau correspondant + `4 Débris de Golem`, obtenus en faisant fondre des `Gravats Anciens` trouvés dans les grottes au niveau des Ardoises des abîmes et inférieur.
+`Golem Ingots` are crafted in batches of 4 using the corresponding Gem + `4 Golem Ingots`, obtained by smelting `Ancient Rubble` found in caves at Deepslate level and below.
 
-Une fois la clé obtenue, vous pouvez ouvrir le `Serrure d'Elekidrago` du [Temple de Frimapic](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#temple-de-frimapic). Le temple propose une épreuve où il faut orienter des flèches dans des cadres colorés afin de reproduire les motifs des murs situés dans les quatre coins du donjon. Une fois les quatre sections complétées, le passage central s’ouvre vers la salle d’invocation.
+Once you have the key, you can open the `Elekidrago Lock` in the [Snowpoint Temple](https://our-story-network.gitbook.io/cr-wiki/cr-en/legendary-monuments/all_world/overworld_world#snowpoint-temple). The temple contains a trial where you must orient arrows inside colored frames to reproduce the patterns displayed on the walls in the four corners of the dungeon. Once all four sections are completed, the central passage opens, leading to the summoning room.
 
-Dans la salle finale, activez tous les cercles au sol : Regidrago et [Regieleki](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_8#regieleki) **apparaissent au niveau 40**, avec **2% de chance d’être chromatiques**.
+In the final room, activate all the circles on the ground: Regidrago and [Regieleki](https://our-story-network.gitbook.io/cr-wiki/cr-en/legendary-monuments/legendary_monuments/gen_8#regieleki) will **appear at level 40**, with a **2% chance of being Shiny**.
 
-Vous obtenez également une `Tablette de Regirock`, pouvant être combinée avec les autres tablettes pour fabriquer la `Clé Titan` et invoquer [Regigigas](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_4#regigigas).
+You will also obtain a `Regirock Tablet`, which can be combined with the other tablets to craft the `Titan Key` and summon [Regigigas](https://our-story-network.gitbook.io/cr-wiki/cr-en/legendary-monuments/legendary_monuments/gen_4#regigigas).
 
 ---
 
