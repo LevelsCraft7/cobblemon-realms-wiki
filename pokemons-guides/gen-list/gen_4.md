@@ -1,6 +1,6 @@
 # ❄️ Generation 4 - Sinnoh
 
-### 📜 **Summon List of the Fourth Generation**
+### 📜 **Fourth Generation Summon List**
 
 <p align="center">
 The myths of Sinnoh trace back to the very creation of the universe. Time, space, antimatter, and ancient deities intertwine in its oldest legends.
@@ -16,7 +16,7 @@ The myths of Sinnoh trace back to the very creation of the universe. Time, space
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 75     |
 | ⚔️ Attack      | 75     |
@@ -102,7 +102,7 @@ The myths of Sinnoh trace back to the very creation of the universe. Time, space
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 80     |
 | ⚔️ Attack      | 105     |
@@ -188,7 +188,7 @@ The myths of Sinnoh trace back to the very creation of the universe. Time, space
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 75     |
 | ⚔️ Attack      | 125     |
@@ -274,7 +274,7 @@ The myths of Sinnoh trace back to the very creation of the universe. Time, space
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 100     |
 | ⚔️ Attack      | 120     |
@@ -346,7 +346,7 @@ The myths of Sinnoh trace back to the very creation of the universe. Time, space
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 90     |
 | ⚔️ Attack      | 120     |
@@ -420,7 +420,7 @@ The myths of Sinnoh trace back to the very creation of the universe. Time, space
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 91     |
 | ⚔️ Attack      | 90     |
@@ -490,7 +490,7 @@ The myths of Sinnoh trace back to the very creation of the universe. Time, space
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 110     |
 | ⚔️ Attack      | 160     |
@@ -569,7 +569,7 @@ The myths of Sinnoh trace back to the very creation of the universe. Time, space
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 150     |
 | ⚔️ Attack      | 100     |
@@ -647,7 +647,7 @@ The myths of Sinnoh trace back to the very creation of the universe. Time, space
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 120     |
 | ⚔️ Attack      | 70     |
@@ -722,7 +722,7 @@ The myths of Sinnoh trace back to the very creation of the universe. Time, space
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 70     |
 | ⚔️ Attack      | 90     |
@@ -799,7 +799,7 @@ The myths of Sinnoh trace back to the very creation of the universe. Time, space
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 100     |
 | ⚔️ Attack      | 100     |
@@ -876,7 +876,7 @@ The myths of Sinnoh trace back to the very creation of the universe. Time, space
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 120     |
 | ⚔️ Attack      | 120     |
