@@ -1,6 +1,6 @@
 # 👑 Generation 8 - Galar/Hisui
 
-### 📜 **Eighth Generation Summon List**
+### 📜 **List of Generation VIII Summonsn**
 
 <p align="center">
 The legends of Galar tell of the exploits of forgotten heroes and powerful rulers. In the wild lands of Hisui, ancient creatures are also still spoken of.
