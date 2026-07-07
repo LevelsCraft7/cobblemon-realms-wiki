@@ -16,7 +16,7 @@ Behind Kalos’ beauty lie powers capable of granting life or bringing destructi
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 80     |
 | ⚔️ Attack      | 110     |
@@ -35,13 +35,13 @@ Behind Kalos’ beauty lie powers capable of granting life or bringing destructi
 
 ---
 
-### 🗝️ Moyen d'obtention
+### 🗝️ How to Obtain
 
-Pour obtenir Hoopa, vous devez trouver la [Pyramide Hoopa](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/end_world#pyramide-de-hoopa) dans l’End et compléter ses épreuves : un labyrinthe, un combat et un quiz.
+To obtain Hoopa, you must find the [Hoopa Pyramid](https://our-story-network.gitbook.io/cr-wiki/cr-en/legendary-monuments/all_world/end_world#hoopa-pyramid) in the End and complete its trials: a maze, a battle, and a quiz.
 
-Une fois ces épreuves terminées, vous obtiendrez la `Vase Scellé` ainsi que la `Clé du Temple`.
+Once these trials are completed, you will obtain the `Prison Bottle` and the `Temple Key`.
 
-En plaçant ces deux objets sur les `Piédestal de Hoopa`, un **Hoopa au niveau 60 apparaîtra** alors, avec **2% de chance d’être chromatique**.
+By placing these two items on the `Hoopa Pedestals`, a **Level 60 Hoopa** will appear, with a **2% chance of being Shiny**.
 
 ---
 
