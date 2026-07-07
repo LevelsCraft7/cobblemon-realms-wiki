@@ -1,6 +1,6 @@
 # 🏙️ Generation 5 - Unys
 
-### 📜 **List of Generation V Summons**
+### 📜 **Fifth Generation Summon List**
 
 <p align="center">
 The heroes of Unova were born from the meeting of ideals and truth. Their legends speak of lost kingdoms, ancient dragons, and convictions capable of changing the world.
