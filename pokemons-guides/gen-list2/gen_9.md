@@ -35,11 +35,11 @@ From the depths of Paldea’s Great Crater to the folk tales of Kitakami, new le
 
 ---
 
-### 🗝️ Moyen d'obtention
+### 🗝️ How to Obtain
 
-Pour obtenir Chongjian, vous devez collecter les `8 Pieux du Fléau Plante` en effectuant un clic droit dessus. Ils sont trouvables dans n'importe quel biome du Nether.
+To obtain Wo-Chien, you must collect the `8 Grasswither Stakes` by right-clicking them. They can be found in any Nether biome.
 
-Une fois les `8 Pieux du Fléau Plante` obtenus, vous pouvez interagir avec le `Sanctuaire du Fléau Plante` dans le Nether afin de faire apparaître **Chongjian au niveau 50**, avec **2% de chance d’être chromatique**.
+Once you have obtained the `8 Grasswither Stakes`, you can interact with the `Grasswither Shrine` in the Nether to make **Level 50 Wo-Chien** appear, with a **2% chance of being Shiny**.
 
 ---
 
@@ -78,11 +78,11 @@ Une fois les `8 Pieux du Fléau Plante` obtenus, vous pouvez interagir avec le `
 
 ---
 
-### 🗝️ Moyen d'obtention
+### 🗝️ How to Obtain
 
-Pour obtenir Chien-Pao, vous devez collecter les `8 Pieux du Fléau Glace` en effectuant un clic droit dessus. Ils sont trouvables dans n'importe quel biome du Nether.
+To obtain Chien-Pao, you must collect the `8 Icerend Stakes` by right-clicking them. They can be found in any Nether biome.
 
-Une fois les `8 Pieux du Fléau Glace` obtenus, vous pouvez interagir avec le `Sanctuaire du Fléau Glace` dans le Nether afin de faire apparaître **Chien-Pao au niveau 50**, avec **2% de chance d’être chromatique**.
+Once you have obtained the `8 Icerend Stakes`, you can interact with the `Icerend Shrine` in the Nether to make **Level 50 Chien-Pao** appear, with a **2% chance of being Shiny**.
 
 ---
 
@@ -121,11 +121,11 @@ Une fois les `8 Pieux du Fléau Glace` obtenus, vous pouvez interagir avec le `S
 
 ---
 
-### 🗝️ Moyen d'obtention
+### 🗝️ How to Obtain
 
-Pour obtenir Ting-Lu, vous devez collecter les `8 Pieux du Fléau Terre` en effectuant un clic droit dessus. Ils sont trouvables dans n'importe quel biome du Nether.
+To obtain Ting-Lu, you must collect the `8 Groundblight Stakes` by right-clicking them. They can be found in any Nether biome.
 
-Une fois les `8 Pieux du Fléau Terre` obtenus, vous pouvez interagir avec le `Sanctuaire du Fléau Terre` dans le Nether afin de faire apparaître **Ting-Lu au niveau 50**, avec **2% de chance d’être chromatique**.
+Once you have obtained the `8 Groundblight Stakes`, you can interact with the `Groundblight Shrine` in the Nether to make **Level 50 Ting-Lu** appear, with a **2% chance of being Shiny**.
 
 ---
 
@@ -164,11 +164,11 @@ Une fois les `8 Pieux du Fléau Terre` obtenus, vous pouvez interagir avec le `S
 
 ---
 
-### 🗝️ Moyen d'obtention
+### 🗝️ How to Obtain
 
-Pour obtenir Chi-Yu, vous devez collecter les `8 Pieux du Fléau Feu` en effectuant un clic droit dessus. Ils sont trouvables dans n'importe quel biome du Nether.
+To obtain Chi-Yu, you must collect the `8 Firescourge Stakes` by right-clicking them. They can be found in any Nether biome.
 
-Une fois les `8 Pieux du Fléau Feu` obtenus, vous pouvez interagir avec le `Sanctuaire du Fléau Feu` dans le Nether afin de faire apparaître **Chi-Yu au niveau 50**, avec **2% de chance d’être chromatique**.
+Once you have obtained the `8 Firescourge Stakes`, you can interact with the `Firescourge Shrine` in the Nether to make **Level 50 Chi-Yu** appear, with a **2% chance of being Shiny**.
 
 ---
 
