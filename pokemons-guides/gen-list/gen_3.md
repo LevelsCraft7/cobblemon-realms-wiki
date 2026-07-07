@@ -1,6 +1,6 @@
 # 🌊 Generation 3 - Hoenn
 
-### 📜 **Third Generation Summon List**
+### 📜 **First Generation Summon List**
 
 <p align="center">
 Ancient titans lie dormant beneath the lands of Hoenn. Between raging oceans, shifting continents, and endless skies, these Pokémon embody the primal forces of nature.
