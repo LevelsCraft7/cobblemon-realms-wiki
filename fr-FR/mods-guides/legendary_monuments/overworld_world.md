@@ -62,7 +62,7 @@ Structure permettant d’obtenir <strong>Raikou</strong>, <strong>Entei</strong>
 ## 🌍 Génération
 
 - 📌 Biome : Village Traditionnel
-- 🏗️ Peut apparaître avec : Bell Tower  
+- 🏗️ Peut apparaître avec : Tour Carillon 
 
 &#8203;
 
@@ -229,7 +229,7 @@ Les Fruit Dyna servent principalement à :
 
 ## 🗝️ Accès à l’île
 
-L’accès à la Final Island se fait via l’utilisation de la :
+L’accès à l'Île Finale se fait via l’utilisation de la :
 
 - 🗺️ **Vieille Carte Marine**
 
@@ -268,7 +268,7 @@ Structure permettant d’obtenir <strong>Kyurem</strong>.
 
 ## 🧬 Mécanique spéciale
 
-La Kyurem Cave contient un objet unique :
+La Grotte Cyclopéenne contient un objet unique :
 
 - 🔧 **DNA Splicer**
 
@@ -442,7 +442,7 @@ Structure permettant d’obtenir <strong>Créfollet</strong>.
 
 ## 🗝️ Accès à l'île
 
-L'accès au Île Liberté nécessite :
+L'accès à l'Île Liberté nécessite :
 
 - 🎟️ **Pass Liberté**
 
@@ -515,7 +515,7 @@ Pour atteindre Lugia, il faudra :
 
 ## 🔐 Ouverture du temple
 
-La porte principale nécessite une **Pierre Tourbillon**.
+La porte principale nécessite une **Pierre du Vortex**.
 
 Cette dernière se fabrique à partir des **trois pierres** obtenues après avoir invoqué chacun des oiseaux du Trio Légendaire :
 
@@ -784,7 +784,7 @@ Structure permettant d'obtenir <strong>Dialga</strong> et <strong>Palkia</strong
 
 &#8203;
 
-# 🏯 Traditional Village
+# 🏯 Village traditionnel
 
 {% hint style="info" %}
 <p align="center">
@@ -799,7 +799,7 @@ Village de style Edo japonais pouvant générer la <strong>Tour Carillon</strong
 - 🏯 Thème : village Edo japonais
 - 🧱 Type : village multi-structure
 - 🎁 Génération : peut contenir des structures uniques
-- 🏗️ Variantes : Bell Tower / Burned Tower
+- 🏗️ Variantes : Tour Carillon / Tour Cendrée
 
 ---
 
@@ -845,7 +845,7 @@ Structure permettant de trouver le portail vers le <strong>Monde de Distorsion</
 ## 🧪 Particularités
 
 - Présence de spawners d’épreuves Pokémon  
-- Possibilité d’obtenir des clés spéciales (Griseous Keys)  
+- Possibilité d’obtenir des clés spéciales (Clé Griseous)  
 - Accès progressif vers des zones verrouillées  
 
 ---
