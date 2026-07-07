@@ -1,6 +1,6 @@
 # 🌿 Generation 1 - Kanto
 
-### 📜 **Summon List of the First Generation**
+### 📜 **First Generation Summon List**
 
 <p align="center">
 At the heart of Kanto lie the earliest legends of the Pokémon world. From the elemental birds to the mysterious Mew and Mewtwo, these creatures marked the beginning of every adventure.
