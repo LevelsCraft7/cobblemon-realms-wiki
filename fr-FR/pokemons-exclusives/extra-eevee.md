@@ -1,40 +1,39 @@
-# ✨ Extra Eeveelutions
+# 🦊 Évolutions supplémentaires d'Évoli
+
+## ✨ Extra Eeveelutions
 
 {% hint style="info" %}
-<p align="center">
-Le datapack <strong>Extra Eeveelutions</strong> ajoute de nombreuses nouvelles évolutions d'Évoli à découvrir au cours de votre aventure. Cette page recense l'ensemble de ces Eeveelutions ainsi que leurs méthodes d'obtention.
-</p>
+<p align="center">Le datapack <strong>Extra Eeveelutions</strong> ajoute de nombreuses nouvelles évolutions d'Évoli à découvrir au cours de votre aventure. Cette page recense l'ensemble de ces Eeveelutions ainsi que leurs méthodes d'obtention.</p>
 {% endhint %}
 
-<p align="center">
-Chaque Eeveelution possède ses propres caractéristiques :
+<p align="center">Chaque Eeveelution possède ses propres caractéristiques :</p>
 
-- 📊 Statistiques personnalisées
-- ✨ Talents uniques
-- 🔮 Méthodes d'évolution inédites
-- 🌍 Conditions d'apparition spécifiques
-</p>
+* 📊 Statistiques personnalisées
+* ✨ Talents uniques
+* 🔮 Méthodes d'évolution inédites
+* 🌍 Conditions d'apparition spécifiques
 
----
+***
 
 <details>
-<summary align="center"><strong>❓ FAQ rapide</strong></summary>
 
-## 🧬 Comment faire évoluer Évoli en Evereon ?
+<summary><strong>❓ FAQ rapide</strong></summary>
+
+### 🧬 Comment faire évoluer Évoli en Evereon ?
 
 Selon les retours des joueurs, les combats contre des Dresseurs peuvent parfois fonctionner, mais les résultats semblent varier.
 
 Pour maximiser vos chances :
 
-- Évoli doit porter le **coup final**
-- Sur les **11 Eeveelutions**
-- Du datapack principal **et** de l'addon
+* Évoli doit porter le **coup final**
+* Sur les **11 Eeveelutions**
+* Du datapack principal **et** de l'addon
 
 > ⚠️ Les combats contre des Pokémon sauvages restent la méthode la plus fiable.
 
----
+***
 
-## 📖 Je ne trouve pas les Eeveelutions dans le Pokédex
+### 📖 Je ne trouve pas les Eeveelutions dans le Pokédex
 
 Les Eeveelutions personnalisées ne sont pas répertoriées dans les régions classiques.
 
@@ -42,565 +41,563 @@ Vous les trouverez dans :
 
 **Pokédex → Regions**
 
----
+***
 
-## 🪽 Quelle capacité de type Vol Évoli peut-il apprendre ?
+### 🪽 Quelle capacité de type Vol Évoli peut-il apprendre ?
 
 Évoli peut apprendre **Miroi-Tir** à partir du **niveau 20**.
 
 </details>
 
----
+***
 
-# 👻 Spectroli
+## 👻 Spectroli
 
-## 🧾 Informations générales
+### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_spectre.png)
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_spectre.png)
 
----
+***
 
-## 📊 Statistiques
+### 📊 Statistiques
 
-| Stat | Valeur |
-|---|---|
-| ❤️ HP | 65 |
-| ⚔️ Attaque | 110 |
-| 🛡️ Défense | 130 |
-| ✨ Attaque Spé. | 95 |
-| 🌙 Défense Spé. | 60 |
-| ⚡ Vitesse | 65 |
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 65     |
+| ⚔️ Attaque      | 110    |
+| 🛡️ Défense     | 130    |
+| ✨ Attaque Spé.  | 95     |
+| 🌙 Défense Spé. | 60     |
+| ⚡ Vitesse       | 65     |
 
-![Spectroli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon.png) ![Spectroli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon_shiny.png) 
+![Spectroli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon.png) ![Spectroli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/spectreon_shiny.png)
 
----
+***
 
-## 🎯 Talents
+### 🎯 Talents
 
-- **Talent :** Farceur
-- **Talent Caché :** Corps Condamné
+* **Talent :** Farceur
+* **Talent Caché :** Corps Condamné
 
----
+***
 
-## 🌍 Lieux d’apparition
+### 🌍 Lieux d’apparition
 
-- ✨ Magical Biomes *(Ultra Rare)*
-- 🏜️ Soul Sand Valley *(Rare)*
+* ✨ Magical Biomes _(Ultra Rare)_
+* 🏜️ Soul Sand Valley _(Rare)_
 
----
+***
 
-## 🔮 Méthode d’évolution
+### 🔮 Méthode d’évolution
 
-- Bonheur élevé dans un biome **Soul Sand Valley**
+* Bonheur élevé dans un biome **Soul Sand Valley**
 
----
+***
 
-## 📜 Description
+### 📜 Description
 
 > Spectroli a tendance à rôder dans les forêts sombres, attendant patiemment le jour où son entraîneur reviendra. La plupart d’entre eux ne réalisent même pas qu’ils sont décédés et continuent d’errer sans fin dans ces lieux. Quand un Spectroli sauvage rencontre un entraîneur, ils est initialement prudent, mais si l'entraîneur lui montre de l'affection, alors Spectroli développera un lien intense avec cet entraîneur, la plupart des Spectrolis étaient des Évolis abandonnés.
 
----
+***
 
-# ☣️ Aciduli
+## ☣️ Aciduli
 
-## 🧾 Informations générales
+### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_poison.png)
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_poison.png)
 
----
+***
 
-## 📊 Statistiques
+### 📊 Statistiques
 
-| Stat | Valeur |
-|---|---|
-| ❤️ HP | 95 |
-| ⚔️ Attaque | 65 |
-| 🛡️ Défense | 65 |
-| ✨ Attaque Spé. | 130 |
-| 🌙 Défense Spé. | 110 |
-| ⚡ Vitesse | 60 |
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 95     |
+| ⚔️ Attaque      | 65     |
+| 🛡️ Défense     | 65     |
+| ✨ Attaque Spé.  | 130    |
+| 🌙 Défense Spé. | 110    |
+| ⚡ Vitesse       | 60     |
 
 ![Aciduli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/acideon.png) ![Aciduli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/acideon_shiny.png)
 
----
+***
 
-## 🎯 Talents
+### 🎯 Talents
 
-- **Talents :** Point Poison, Suintement
-- **Talent Caché :** Corrosion
+* **Talents :** Point Poison, Suintement
+* **Talent Caché :** Corrosion
 
----
+***
 
-## 🌍 Lieux d’apparition
+### 🌍 Lieux d’apparition
 
-- 🐸 Swamp Biomes
+* 🐸 Swamp Biomes
 
----
+***
 
-## 🔮 Méthode d’évolution
+### 🔮 Méthode d’évolution
 
-- Niveau **24**
-- avec un **Grotadmorv** dans l’équipe
+* Niveau **24**
+* avec un **Grotadmorv** dans l’équipe
 
----
+***
 
-## 📜 Description
+### 📜 Description
 
 > Aciduli aime rouler dans la gadoue des marais pour renforcer sa toxicité. L'orbe sur sa queue est la source des toxines qu'il injecte dans ses ennemis. L'orbe au bout de la queue d'Aciduli est tellement venimeuse que même légèrement la toucher peut causer des dégâts à long-termes.
 
----
+***
 
-# 🥊 Champioli
+## 🥊 Champioli
 
-## 🧾 Informations générales
+### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_combat.png)
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_combat.png)
 
----
+***
 
-## 📊 Statistiques
+### 📊 Statistiques
 
-| Stat | Valeur |
-|---|---|
-| ❤️ HP | 95 |
-| ⚔️ Attaque | 130 |
-| 🛡️ Défense | 110 |
-| ✨ Attaque Spé. | 65 |
-| 🌙 Défense Spé. | 60 |
-| ⚡ Vitesse | 65 |
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 95     |
+| ⚔️ Attaque      | 130    |
+| 🛡️ Défense     | 110    |
+| ✨ Attaque Spé.  | 65     |
+| 🌙 Défense Spé. | 60     |
+| ⚡ Vitesse       | 65     |
 
 ![Champioli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/champeon.png) ![Champioli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/champeon_shiny.png)
 
----
+***
 
-## 🎯 Talents
+### 🎯 Talents
 
-- **Talents :** Pelage Épais, Acharné
-- **Talent Caché :** Querelleur
+* **Talents :** Pelage Épais, Acharné
+* **Talent Caché :** Querelleur
 
----
+***
 
-## 🌍 Lieux d’apparition
+### 🌍 Lieux d’apparition
 
-- 🌾 Windswept Savanna
+* 🌾 Windswept Savanna
 
----
+***
 
-## 🔮 Méthode d’évolution
+### 🔮 Méthode d’évolution
 
-- Niveau **36**
-- en tenant un **Bandeau**
+* Niveau **36**
+* en tenant un **Bandeau**
 
----
+***
 
-## 📜 Description
+### 📜 Description
 
 > Quand un Évoli devient passioné par l'esprit d'un combattant, il se met à s'entraîner pendant des années, devenant éventuellement un Champioli. Champioli aime s'entraîner ensemble dans les grandes montagnes, pour ne pas déranger les villes et villages.
 
----
+***
 
-# 🪽 Atmosphéli
+## 🪽 Atmosphéli
 
-## 🧾 Informations générales
+### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_vol.png)
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_vol.png)
 
----
+***
 
-## 📊 Statistiques
+### 📊 Statistiques
 
-| Stat | Valeur |
-|---|---|
-| ❤️ HP | 65 |
-| ⚔️ Attaque | 110 |
-| 🛡️ Défense | 130 |
-| ✨ Attaque Spé. | 60 |
-| 🌙 Défense Spé. | 65 |
-| ⚡ Vitesse | 95 |
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 65     |
+| ⚔️ Attaque      | 110    |
+| 🛡️ Défense     | 130    |
+| ✨ Attaque Spé.  | 60     |
+| 🌙 Défense Spé. | 65     |
+| ⚡ Vitesse       | 95     |
 
 ![Atmosphéli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/aereon.png) ![Atmosphéli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/aereon_shiny.png)
 
----
+***
 
-## 🎯 Talents
+### 🎯 Talents
 
-- **Talents :** Délestage, Agitation
-- **Talent Caché :** Simple
+* **Talents :** Délestage, Agitation
+* **Talent Caché :** Simple
 
----
+***
 
-## 🌍 Lieux d’apparition
+### 🌍 Lieux d’apparition
 
-- 🌼 Meadow Biomes
-- ⛰️ Windswept Hills
+* 🌼 Meadow Biomes
+* ⛰️ Windswept Hills
 
----
+***
 
-## 🔮 Méthode d’évolution
+### 🔮 Méthode d’évolution
 
-- Clic droit sur Évoli avec un **Air Balloon**
+* Clic droit sur Évoli avec un **Air Balloon**
 
----
+***
 
-## 📜 Description
+### 📜 Description
 
 > Atmosphéli aime nager avec les nuages et d'autres Pokémons de type Vol, comme son cousin Aquali, il peut se transformer en nuage en guise de défense. Les nuages de la fourrure d'Atmosphéli peut changer selon son humeur, pouvant devenir orageux, pluvieux, chaud ou froid.
 
----
+***
 
-# ⛏️ Minérali
+## ⛏️ Minérali
 
-## 🧾 Informations générales
+### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_roche.png)
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_roche.png)
 
----
+***
 
-## 📊 Statistiques
+### 📊 Statistiques
 
-| Stat | Valeur |
-|---|---|
-| ❤️ HP | 95 |
-| ⚔️ Attaque | 110 |
-| 🛡️ Défense | 130 |
-| ✨ Attaque Spé. | 60 |
-| 🌙 Défense Spé. | 65 |
-| ⚡ Vitesse | 65 |
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 95     |
+| ⚔️ Attaque      | 110    |
+| 🛡️ Défense     | 130    |
+| ✨ Attaque Spé.  | 60     |
+| 🌙 Défense Spé. | 65     |
+| ⚡ Vitesse       | 65     |
 
 ![Minérali](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/minereon.png) ![Minérali Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/minereon_shiny.png)
 
----
+***
 
-## 🎯 Talents
+### 🎯 Talents
 
-- **Talents :** Force Sable, Fermeté
-- **Talent Caché :** Regard Vif
+* **Talents :** Force Sable, Fermeté
+* **Talent Caché :** Regard Vif
 
----
+***
 
-## 🌍 Lieux d’apparition
+### 🌍 Lieux d’apparition
 
-- 🕳️ Tous les biomes souterrains
-- ❌ Sauf : Deep Dark / Abyss-like
+* 🕳️ Tous les biomes souterrains
+* ❌ Sauf : Deep Dark / Abyss-like
 
----
+***
 
-## 🔮 Méthode d’évolution
+### 🔮 Méthode d’évolution
 
-- Tenir une **Pioche en fer**
-- dans une **Cavernes de spéléothèmes**
+* Tenir une **Pioche en fer**
+* dans une **Cavernes de spéléothèmes**
 
----
+***
 
-## 📜 Description
+### 📜 Description
 
 > Minérali utilise les pics du bout de sa queue pour creuser les roches et y extraire des minerais et différentes pierres précieuses, et les bouts métalliques sur ses oreilles pour extraire l'excès de roche. Ses yeux lui permet de voir ce qu'il est en train de creuser au tréfonds des caves. Quand il se sent en danger, Minérali fracasse sa queue au sol, ce qui jette des pics de pierre en l'air, qu'il ensuite tape dedans sur ses ennemis, comme une balle de baseball.
 
----
+***
 
-# 🐝 Mieli
+## 🐝 Mieli
 
-## 🧾 Informations générales
+### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_insecte.png)
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_insecte.png)
 
----
+***
 
-## 📊 Statistiques
+### 📊 Statistiques
 
-| Stat | Valeur |
-|---|---|
-| ❤️ HP | 98 |
-| ⚔️ Attaque | 130 |
-| 🛡️ Défense | 65 |
-| ✨ Attaque Spé. | 60 |
-| 🌙 Défense Spé. | 65 |
-| ⚡ Vitesse | 110 |
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 98     |
+| ⚔️ Attaque      | 130    |
+| 🛡️ Défense     | 65     |
+| ✨ Attaque Spé.  | 60     |
+| 🌙 Défense Spé. | 65     |
+| ⚡ Vitesse       | 110    |
 
-![Mieli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/hiveon.png) ![Mieli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/hiveon_shiny.png) 
+![Mieli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/hiveon.png) ![Mieli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/hiveon_shiny.png)
 
----
+***
 
-## 🎯 Talents
+### 🎯 Talents
 
-- **Talents :** Œil Composé, Essaim
-- **Talent Caché :** Pression
+* **Talents :** Œil Composé, Essaim
+* **Talent Caché :** Pression
 
----
+***
 
-## 🌍 Lieux d’apparition
+### 🌍 Lieux d’apparition
 
-- 🍯 Près des Nid d'abeilles
+* 🍯 Près des Nid d'abeilles
 
----
+***
 
-## 🔮 Méthode d’évolution
+### 🔮 Méthode d’évolution
 
-- Évoli tenant une **Ruche**
-- avec un **Dardargnan** dans l’équipe
+* Évoli tenant une **Ruche**
+* avec un **Dardargnan** dans l’équipe
 
----
+***
 
-## 📜 Description
+### 📜 Description
 
 > Mieli aime rester dans les arbres, avec sa queue en forme de ruche pendouillant en l'air, sa queue attire les êtres peu méfiants, qu'il injecte ensuite avec un douloureux venin. Le pollen que récolte Mieli viens des baies Oran, Le pollen peut bizarrement être utilisé par Mieli pour produire un fort venin.
 
----
+***
 
-# 🤖 Métali
+## 🤖 Métali
 
-## 🧾 Informations générales
+### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_acier.png)
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_acier.png)
 
----
+***
 
-## 📊 Statistiques
+### 📊 Statistiques
 
-| Stat | Valeur |
-|---|---|
-| ❤️ HP | 65 |
-| ⚔️ Attaque | 110 |
-| 🛡️ Défense | 60 |
-| ✨ Attaque Spé. | 130 |
-| 🌙 Défense Spé. | 65 |
-| ⚡ Vitesse | 65 |
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 65     |
+| ⚔️ Attaque      | 110    |
+| 🛡️ Défense     | 60     |
+| ✨ Attaque Spé.  | 130    |
+| 🌙 Défense Spé. | 65     |
+| ⚡ Vitesse       | 65     |
 
 ![Métali](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/automeon.png) ![Métali Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/automeon_shiny.png)
 
----
+***
 
-## 🎯 Talents
+### 🎯 Talents
 
-- **Talents :** Armurouillée, Corps Sain
-- **Talent Caché :** Analyste
+* **Talents :** Armurouillée, Corps Sain
+* **Talent Caché :** Analyste
 
----
+***
 
-## 🌍 Lieux d’apparition
+### 🌍 Lieux d’apparition
 
-- 🔴 Près des Toches de Redstone
-- 🧱 Près des Blocs de Fer
+* 🔴 Près des Toches de Redstone
+* 🧱 Près des Blocs de Fer
 
----
+***
 
-## 🔮 Méthode d’évolution
+### 🔮 Méthode d’évolution
 
-- Utiliser un **Bloc de Redstone**
-- sur Évoli tenant un **Levier**
+* Utiliser un **Bloc de Redstone**
+* sur Évoli tenant un **Levier**
 
----
+***
 
-## 📜 Description
+### 📜 Description
 
 > Les rumeurs racontent que lorsqu’un Métali subit un coup fatal au combat, ses yeux se mettent à clignoter de façon étrange et irrégulière. Personne n’a encore réussi à comprendre la signification de ce phénomène. Longtemps considéré comme lié aux incidents de Paldea, Métali est désormais étudié de près et envoyé en expédition par les scientifiques.
 
----
+***
 
-# 🐉 Vouivrali
+## 🐉 Vouivrali
 
-## 🧾 Informations générales
+### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_dragon.png)
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_dragon.png)
 
----
+***
 
-## 📊 Statistiques
+### 📊 Statistiques
 
-| Stat | Valeur |
-|---|---|
-| ❤️ HP | 65 |
-| ⚔️ Attaque | 110 |
-| 🛡️ Défense | 95 |
-| ✨ Attaque Spé. | 130 |
-| 🌙 Défense Spé. | 65 |
-| ⚡ Vitesse | 60 |
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 65     |
+| ⚔️ Attaque      | 110    |
+| 🛡️ Défense     | 95     |
+| ✨ Attaque Spé.  | 130    |
+| 🌙 Défense Spé. | 65     |
+| ⚡ Vitesse       | 60     |
 
-![Vouivrali](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/wyveon.png) ![Vouivrali Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/wyveon_shiny.png) 
+![Vouivrali](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/wyveon.png) ![Vouivrali Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/wyveon_shiny.png)
 
----
+***
 
-## 🎯 Talents
+### 🎯 Talents
 
-- **Talents :** Rivalité, Envelocape
-- **Talent Caché :** Tête de Roc
+* **Talents :** Rivalité, Envelocape
+* **Talent Caché :** Tête de Roc
 
----
+***
 
-## 🌍 Lieux d’apparition
+### 🌍 Lieux d’apparition
 
-- ⛰️ Tall Mountain Biomes
-- ❌ Sauf variantes enneigées
+* ⛰️ Tall Mountain Biomes
+* ❌ Sauf variantes enneigées
 
----
+***
 
-## 🔮 Méthode d’évolution
+### 🔮 Méthode d’évolution
 
-- Bonheur élevé dans **The End**
+* Bonheur élevé dans **The End**
 
----
+***
 
-## 📜 Description
+### 📜 Description
 
-> Les cristaux de la queue de Vouivrali sont actuellement des écailles durcies, quand ils se sent en danger, Vouivrali peut éjecter ces écailles sur leurs ennemis. Vouivrali est extrêmement territorial. 
+> Les cristaux de la queue de Vouivrali sont actuellement des écailles durcies, quand ils se sent en danger, Vouivrali peut éjecter ces écailles sur leurs ennemis. Vouivrali est extrêmement territorial.
 
----
+***
 
-# 🏮 Donjonli
+## 🏮 Donjonli
 
-## 🧾 Informations générales
+### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_sol.png)
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_sol.png)
 
----
+***
 
-## 📊 Statistiques
+### 📊 Statistiques
 
-| Stat | Valeur |
-|---|---|
-| ❤️ HP | 65 |
-| ⚔️ Attaque | 130 |
-| 🛡️ Défense | 110 |
-| ✨ Attaque Spé. | 95 |
-| 🌙 Défense Spé. | 65 |
-| ⚡ Vitesse | 60 |
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 65     |
+| ⚔️ Attaque      | 130    |
+| 🛡️ Défense     | 110    |
+| ✨ Attaque Spé.  | 95     |
+| 🌙 Défense Spé. | 65     |
+| ⚡ Vitesse       | 60     |
 
-![Donjonli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/dungeon.png) ![Donjonli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/dungeon_shiny.png) 
+![Donjonli](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/dungeon.png) ![Donjonli Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/dungeon_shiny.png)
 
----
+***
 
-## 🎯 Talents
+### 🎯 Talents
 
-- **Talents :** Piège Sable, Tempo Perso
-- **Talent Caché :** Brise Moule
+* **Talents :** Piège Sable, Tempo Perso
+* **Talent Caché :** Brise Moule
 
----
+***
 
-## 🌍 Lieux d’apparition
+### 🌍 Lieux d’apparition
 
-- 🏜️ Badlands *(Ultra Rare)*
-- 🌑 Deep Dark / Abyss-like *(Rare)*
+* 🏜️ Badlands _(Ultra Rare)_
+* 🌑 Deep Dark / Abyss-like _(Rare)_
 
----
+***
 
-## 🔮 Méthode d’évolution
+### 🔮 Méthode d’évolution
 
-- Tenir une **Lanterne**
-- dans le **Deep Dark**
+* Tenir une **Lanterne**
+* dans le **Deep Dark**
 
----
+***
 
-## 📜 Description
+### 📜 Description
 
 > Donjonli rôde dans les profondeurs des cavernes, là où certains entraîneurs n’osent jamais s’aventurer. La lanterne suspendue à sa queue peut servir d’appât pour attirer les Pokémon errant eux aussi dans l’obscurité. Lorsqu’il se sent seul, Donjonli sculpte parfois des statues de pierre qu’il considère comme ses seuls compagnons. On raconte que lorsque la lumière de sa lanterne s’éteint… Donjonli est déjà mort.
 
----
+***
 
-# 🌈 Evereon
+## 🌈 Evereon
 
-## 🧾 Informations générales
+### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_normal.png)
-- **Particularité :** Peut changer de type
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_normal.png)
+* **Particularité :** Peut changer de type
 
----
+***
 
-## 📊 Statistiques
+### 📊 Statistiques
 
-| Stat | Valeur |
-|---|---|
-| ❤️ HP | 98 |
-| ⚔️ Attaque | 115 |
-| 🛡️ Défense | 90 |
-| ✨ Attaque Spé. | 115 |
-| 🌙 Défense Spé. | 90 |
-| ⚡ Vitesse | 92 |
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 98     |
+| ⚔️ Attaque      | 115    |
+| 🛡️ Défense     | 90     |
+| ✨ Attaque Spé.  | 115    |
+| 🌙 Défense Spé. | 90     |
+| ⚡ Vitesse       | 92     |
 
-![Evereon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/evereon.png) ![Evereon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/evereon_shiny.png) 
+![Evereon](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/evereon.png) ![Evereon Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/evereon_shiny.png)
 
----
+***
 
-## 🎯 Talents
+### 🎯 Talents
 
-- **Talents :** Protéen, Libéro
-- **Talent Caché :** Force Pure
+* **Talents :** Protéen, Libéro
+* **Talent Caché :** Force Pure
 
----
+***
 
-## 🌍 Lieux d’apparition
+### 🌍 Lieux d’apparition
 
-- ❌ Aucun
-- *(Ne peut pas être trouvé à l’état sauvage)*
+* ❌ Aucun
+* _(Ne peut pas être trouvé à l’état sauvage)_
 
----
+***
 
-## 🔮 Méthode d’évolution
+### 🔮 Méthode d’évolution
 
-- Vaincre les **11 Eeveelutions**
-- du mod de base **et** de l’addon
-- avec **Évoli portant le coup final**
+* Vaincre les **11 Eeveelutions**
+* du mod de base **et** de l’addon
+* avec **Évoli portant le coup final**
 
----
+***
 
-## 📜 Description
+### 📜 Description
 
 > Evereon, longtemps considéré comme une simple légende, apparaît lorsqu’un Évoli exceptionnel parvient à surpasser toutes ses évolutions. Cette prouesse éveille un ancien pouvoir enfoui dans son âme et le fait évoluer en Evereon.
 
----
+***
 
-# 🌟 Évolili
+## 🌟 Évolili
 
-## 🧾 Informations générales
+### 🧾 Informations générales
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_normal.png)
+* **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_normal.png)
 
----
+***
 
-## 📊 Statistiques
+### 📊 Statistiques
 
-| Stat | Valeur |
-|---|---|
-| ❤️ HP | 85 |
-| ⚔️ Attaque | 105 |
-| 🛡️ Défense | 85 |
-| ✨ Attaque Spé. | 100 |
-| 🌙 Défense Spé. | 95 |
-| ⚡ Vitesse | 110 |
+| Stat            | Valeur |
+| --------------- | ------ |
+| ❤️ HP           | 85     |
+| ⚔️ Attaque      | 105    |
+| 🛡️ Défense     | 85     |
+| ✨ Attaque Spé.  | 100    |
+| 🌙 Défense Spé. | 95     |
+| ⚡ Vitesse       | 110    |
 
-![Évolili](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/eeveeon.png) ![Évolili Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/eeveeon_shiny.png) 
+![Évolili](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/eeveeon.png) ![Évolili Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Extra-Eeeveelution/eeveeon_shiny.png)
 
----
+***
 
-## 🎯 Talents
+### 🎯 Talents
 
-- **Talents :** Adaptabilité, Anticipation
-- **Talent Caché :** Normalise
+* **Talents :** Adaptabilité, Anticipation
+* **Talent Caché :** Normalise
 
----
+***
 
-## 🌍 Lieux d’apparition
+### 🌍 Lieux d’apparition
 
-- 🌍 Partout dans l’Overworld
+* 🌍 Partout dans l’Overworld
 
----
+***
 
-## 🔮 Méthode d’évolution
+### 🔮 Méthode d’évolution
 
-- Amitié maximale
-- pendant qu’Évoli apprends **Dernier Recours**
+* Amitié maximale
+* pendant qu’Évoli apprends **Dernier Recours**
 
----
+***
 
-## 📜 Description
+### 📜 Description
 
 > Lorsqu’un Évoli tarde à évoluer, son ADN se stabilise naturellement et il développe une endurance ainsi que des capacités de combat supérieures. Les scientifiques l’avaient d’abord surnommé « Évolili » comme une plaisanterie, mais ce nom est finalement devenu son appellation officielle après l’apparition de plusieurs spécimens.
 
----
+***
 
 {% hint style="success" %}
-## Nous contacter
+### Nous contacter
 
-<p align="center">
-Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
-</p>
+<p align="center">Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.</p>
 {% endhint %}

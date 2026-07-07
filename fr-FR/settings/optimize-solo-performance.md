@@ -1,25 +1,23 @@
-
+# ⚙️ Optimiser les performances en solo
 
 {% hint style="info" %}
-<p align="center">
-Si vous rencontrez des freezes, rollbacks, ralentissements mémoire ou des problèmes de performances en solo sur Cobblemon Realms, ajuster les arguments JVM peut améliorer significativement la stabilité du jeu.
-</p>
+<p align="center">Si vous rencontrez des freezes, rollbacks, ralentissements mémoire ou des problèmes de performances en solo sur Cobblemon Realms, ajuster les arguments JVM peut améliorer significativement la stabilité du jeu.</p>
 {% endhint %}
 
----
+***
 
-# 📋 Configuration recommandée
+## 📋 Configuration recommandée
 
-| Élément | Recommandation |
-|---|---|
-| ☕ Java | Java 21 ou supérieur |
-| 💾 RAM | 8 Go minimum |
-| 💾 RAM conseillée | 10 Go |
-| ⚙️ Garbage Collector | G1GC |
+| Élément              | Recommandation       |
+| -------------------- | -------------------- |
+| ☕ Java               | Java 21 ou supérieur |
+| 💾 RAM               | 8 Go minimum         |
+| 💾 RAM conseillée    | 10 Go                |
+| ⚙️ Garbage Collector | G1GC                 |
 
----
+***
 
-# ⚙️ Arguments JVM recommandés
+## ⚙️ Arguments JVM recommandés
 
 Copiez les arguments suivants dans les paramètres Java supplémentaires :
 
@@ -32,11 +30,11 @@ Copiez les arguments suivants dans les paramètres Java supplémentaires :
 -XX:+ExplicitGCInvokesConcurrent
 ```
 
----
+***
 
-# 🛠️ Configuration dans CurseForge
+## 🛠️ Configuration dans CurseForge
 
-## ☝🏼 Étapes
+### ☝🏼 Étapes
 
 1. Ouvrez `CurseForge`.
 2. Cliquez sur `⚙️ Paramètres`.
@@ -48,46 +46,40 @@ Copiez les arguments suivants dans les paramètres Java supplémentaires :
 8. Sauvegardez puis redémarrez le modpack.
 
 {% hint style="warning" %}
-<p align="center">
-CurseForge ajoute automatiquement certains arguments Java. Les dernières valeurs définies pour <code>-Xms</code> et <code>-Xmx</code> restent toutefois prioritaires.
-</p>
+<p align="center">CurseForge ajoute automatiquement certains arguments Java. Les dernières valeurs définies pour <code>-Xms</code> et <code>-Xmx</code> restent toutefois prioritaires.</p>
 {% endhint %}
 
----
+***
 
-# 📈 Ce que ces réglages améliorent
+## 📈 Ce que ces réglages améliorent
 
-- ✅ Réduction des freezes et micro-lags
-- ✅ Meilleure gestion de la mémoire (GC)
-- ✅ Moins de rollbacks en solo
-- ✅ Sessions de jeu plus stables
-- ✅ Meilleures performances globales
+* ✅ Réduction des freezes et micro-lags
+* ✅ Meilleure gestion de la mémoire (GC)
+* ✅ Moins de rollbacks en solo
+* ✅ Sessions de jeu plus stables
+* ✅ Meilleures performances globales
 
----
+***
 
 {% hint style="info" %}
-## 💡 Conseils complémentaires
+### 💡 Conseils complémentaires
 
-- ❌ Évitez les applications gourmandes en arrière-plan
-- 🎮 Limitez les shaders très exigeants
-- 📦 Maintenez vos pilotes graphiques à jour
-- 🗺️ Utilisez Chunky pour pré-générer les chunks de vos mondes
+* ❌ Évitez les applications gourmandes en arrière-plan
+* 🎮 Limitez les shaders très exigeants
+* 📦 Maintenez vos pilotes graphiques à jour
+* 🗺️ Utilisez Chunky pour pré-générer les chunks de vos mondes
 {% endhint %}
 
----
+***
 
 {% hint style="success" %}
-<p align="center">
-Avec Java 21 et ces réglages JVM, Cobblemon Realms devrait être plus fluide et plus stable, notamment sur les mondes avancés et lors des longues sessions de jeu.
-</p>
+<p align="center">Avec Java 21 et ces réglages JVM, Cobblemon Realms devrait être plus fluide et plus stable, notamment sur les mondes avancés et lors des longues sessions de jeu.</p>
 {% endhint %}
 
----
+***
 
 {% hint style="success" %}
-## Nous contacter
+### Nous contacter
 
-<p align="center">
-Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
-</p>
+<p align="center">Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.</p>
 {% endhint %}

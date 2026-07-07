@@ -1,68 +1,63 @@
-# 📜 Bienvenue sur **Cobblemon Realms** ✨
+# 👋 Introduction
 
 ## 🌍 Bienvenue sur **Cobblemon Realms** ✨
 
 {% hint style="info" %}
-<p align="center">
-<b>Cobblemon Realms</b> est un modpack axé sur la <b>progression</b>, l'<b>exploration</b>, la <b>collection de Pokémon</b>,
-les <b>systèmes personnalisés</b> et l’aventure sur le long terme.
-</p>
+<p align="center">Cobblemon Realms est un modpack axé sur la progression, l'exploration, la collection de Pokémon, les systèmes personnalisés et l’aventure sur le long terme.</p>
 {% endhint %}
 
 {% hint style="success" %}
 ## Nous contactez
 
-<p align="center">
-Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
-</p>
+<p align="center">Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.</p>
 {% endhint %}
 
 Ce wiki a été conçu pour vous aider à :
 
-- 🚀 Démarrer rapidement
-- 🧭 Comprendre les mécaniques principales du modpack
-- 📚 Trouver facilement les guides dont vous avez besoin
-- 🎯 Suivre votre progression et découvrir les contenus du pack
+* 🚀 Démarrer rapidement
+* 🧭 Comprendre les mécaniques principales du modpack
+* 📚 Trouver facilement les guides dont vous avez besoin
+* 🎯 Suivre votre progression et découvrir les contenus du pack
 
----
+***
 
 ## 📖 Ce que vous découvrirez ici
 
 ### 🛠️ Installation & Configuration
 
-- 📦 Aide à l’installation et aux mises à jour
-- 🚀 Optimisation des performances et de la fluidité
-- ⚙️ Réglages et configurations recommandés
-- 🌐 Configuration solo et multijoueur
+* 📦 Aide à l’installation et aux mises à jour
+* 🚀 Optimisation des performances et de la fluidité
+* ⚙️ Réglages et configurations recommandés
+* 🌐 Configuration solo et multijoueur
 
----
+***
 
 ### 🧭 Progression & Aventure
 
-- 🏆 Systèmes de progression personnalisés
-- 🎯 Dresseurs, level caps et défis
-- 📜 Quêtes, objectifs et progression
-- ✨ Contenus exclusifs et mécaniques uniques du modpack
+* 🏆 Systèmes de progression personnalisés
+* 🎯 Dresseurs, level caps et défis
+* 📜 Quêtes, objectifs et progression
+* ✨ Contenus exclusifs et mécaniques uniques du modpack
 
----
+***
 
 ### 🌍 Exploration & Pokémon
 
-- 🌍 Apparitions et comportements des Pokémon
-- 🗺️ Biomes, dimensions et conditions de spawn
-- ✨ Formes exclusives et variantes spéciales
-- 🏆 Légendaires, mythiques et mécaniques uniques
+* 🌍 Apparitions et comportements des Pokémon
+* 🗺️ Biomes, dimensions et conditions de spawn
+* ✨ Formes exclusives et variantes spéciales
+* 🏆 Légendaires, mythiques et mécaniques uniques
 
----
+***
 
 ### 🧑‍🤝‍🧑 Multijoueur & Serveurs
 
-- 🌐 Rejoindre un serveur multijoueur
-- 🖥️ Héberger votre propre monde
-- 👥 Conseils pour les communautés et groupes
-- ⚙️ Compatibilité, configuration et performances serveur
+* 🌐 Rejoindre un serveur multijoueur
+* 🖥️ Héberger votre propre monde
+* 👥 Conseils pour les communautés et groupes
+* ⚙️ Compatibilité, configuration et performances serveur
 
----
+***
 
 ### 🚀 Par où commencer ?
 
@@ -78,7 +73,7 @@ Si vous découvrez le modpack, nous vous conseillons de suivre cet ordre :
 💡 Ce parcours donne une vue d’ensemble rapide de la façon dont Cobblemon Realms est pensé.
 {% endhint %}
 
----
+***
 
 ## 🤝 Soutenir le projet
 
@@ -86,17 +81,17 @@ Si vous découvrez le modpack, nous vous conseillons de suivre cet ordre :
 
 Vous pouvez nous soutenir en :
 
-- 💜 Prenant un abonnement Nitro sur notre serveur Discord
-- ❤️ Soutenant le développement du modpack via Patreon
-- 📣 Faisant connaître Cobblemon Realms autour de vous
-- 🐛 Signalant les erreurs ou informations obsolètes sur Discord
-- 💡 Proposant des idées et suggestions pour améliorer l'expérience des joueurs
+* 💜 Prenant un abonnement Nitro sur notre serveur Discord
+* ❤️ Soutenant le développement du modpack via Patreon
+* 📣 Faisant connaître Cobblemon Realms autour de vous
+* 🐛 Signalant les erreurs ou informations obsolètes sur Discord
+* 💡 Proposant des idées et suggestions pour améliorer l'expérience des joueurs
 
 {% hint style="info" %}
-👉🏼 Commencez ici pour : <a href="contributing.md">Soutenir le projet</a>
+👉🏼 Commencez ici pour : [Soutenir le projet](contributing.md)
 {% endhint %}
 
----
+***
 
 ## ✨ Bon voyage sur Cobblemon Realms
 

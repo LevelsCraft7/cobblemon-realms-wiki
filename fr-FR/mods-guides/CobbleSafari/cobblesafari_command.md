@@ -1,24 +1,22 @@
-# ⌨️ Commandes CobbleSafari
+# ⌨️ Commande /cobblesafari
+
+## ⌨️ Commandes CobbleSafari
 
 {% hint style="info" %}
-<p align="center">
-Cette page répertorie les différentes commandes ajoutées par <strong>CobbleSafari</strong>, permettant notamment de gérer la Dimension Safari, les portails Hoopa, les marchands et plusieurs fonctionnalités du mod.
-</p>
+<p align="center">Cette page répertorie les différentes commandes ajoutées par <strong>CobbleSafari</strong>, permettant notamment de gérer la Dimension Safari, les portails Hoopa, les marchands et plusieurs fonctionnalités du mod.</p>
 {% endhint %}
 
 {% hint style="warning" %}
-<p align="center">
-Cette page s'adresse principalement aux administrateurs et propriétaires de serveurs.
-</p>
+<p align="center">Cette page s'adresse principalement aux administrateurs et propriétaires de serveurs.</p>
 {% endhint %}
 
----
+***
 
-# 🔄 Gestion de la configuration
+## 🔄 Gestion de la configuration
 
 Ces commandes permettent de recharger ou réinitialiser certains systèmes de CobbleSafari.
 
-## `/cobblesafari refresh`
+### `/cobblesafari refresh`
 
 ```
 /cobblesafari refresh
@@ -26,9 +24,9 @@ Ces commandes permettent de recharger ou réinitialiser certains systèmes de Co
 
 ℹ️ Recharge les fichiers de configuration du mod sans redémarrer le serveur.
 
----
+***
 
-## `/cobblesafari reset safari`
+### `/cobblesafari reset safari`
 
 ```
 /cobblesafari reset safari
@@ -36,9 +34,9 @@ Ces commandes permettent de recharger ou réinitialiser certains systèmes de Co
 
 ℹ️ Réinitialise la Dimension Safari.
 
----
+***
 
-## `/cobblesafari reset dungeon`
+### `/cobblesafari reset dungeon`
 
 ```
 /cobblesafari reset dungeon
@@ -47,18 +45,16 @@ Ces commandes permettent de recharger ou réinitialiser certains systèmes de Co
 ℹ️ Réinitialise les donjons et supprime les portails actifs.
 
 {% hint style="danger" %}
-<p align="center">
-Les donjons ne peuvent pas être réinitialisés si des joueurs sont encore présents à l'intérieur.
-</p>
+<p align="center">Les donjons ne peuvent pas être réinitialisés si des joueurs sont encore présents à l'intérieur.</p>
 {% endhint %}
 
----
+***
 
-# 🤝 Gestion des Marchands
+## 🤝 Gestion des Marchands
 
 Permet de faire apparaître les marchands CobbleSafari.
 
-## `/cobblesafari summon`
+### `/cobblesafari summon`
 
 ```
 /cobblesafari summon <name> <variant>
@@ -66,7 +62,7 @@ Permet de faire apparaître les marchands CobbleSafari.
 
 ℹ️ Fait apparaître un marchand à votre position.
 
-## `/cobblesafari summon_template`
+### `/cobblesafari summon_template`
 
 ```
 /cobblesafari summon_template <name> <variant>
@@ -74,11 +70,11 @@ Permet de faire apparaître les marchands CobbleSafari.
 
 ℹ️ Fait apparaître un marchand modèle destiné aux structures.
 
----
+***
 
-# ⏳ Gestion des timers
+## ⏳ Gestion des timers
 
-## Safari
+### Safari
 
 ```
 /cobblesafari timer safari add <joueur> <secondes>
@@ -110,9 +106,9 @@ Permet de faire apparaître les marchands CobbleSafari.
 
 ℹ️ Active ou désactive le bypass du timer.
 
----
+***
 
-## Dimensions personnalisées
+### Dimensions personnalisées
 
 ```
 /cobblesafari timer dimension set <joueur> <secondes> <dimension>
@@ -120,11 +116,11 @@ Permet de faire apparaître les marchands CobbleSafari.
 
 ℹ️ Permet de modifier le temps restant d'une dimension configurée.
 
----
+***
 
-# 🌀 Portails Hoopa et Donjons
+## 🌀 Portails Hoopa et Donjons
 
-## Faire apparaître un portail
+### Faire apparaître un portail
 
 ```
 /cobblesafari dungeon spawn
@@ -132,7 +128,7 @@ Permet de faire apparaître les marchands CobbleSafari.
 
 ℹ️ Crée un portail Hoopa près du joueur.
 
-## Voir les portails actifs
+### Voir les portails actifs
 
 ```
 /cobblesafari dungeon list
@@ -140,7 +136,7 @@ Permet de faire apparaître les marchands CobbleSafari.
 
 ℹ️ Affiche tous les portails actuellement présents.
 
-## Afficher les dimensions enregistrées
+### Afficher les dimensions enregistrées
 
 ```
 /cobblesafari dungeon dimensions
@@ -148,12 +144,10 @@ Permet de faire apparaître les marchands CobbleSafari.
 
 ℹ️ Affiche les dimensions de donjons disponibles ainsi que leur durée configurée.
 
----
+***
 
 {% hint style="success" %}
-## Nous contacter
+### Nous contacter
 
-<p align="center">
-Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
-</p>
+<p align="center">Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.</p>
 {% endhint %}

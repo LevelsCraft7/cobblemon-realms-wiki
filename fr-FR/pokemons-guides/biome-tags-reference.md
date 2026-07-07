@@ -1,30 +1,28 @@
-# 🌍 Référence des Tags de Biomes
+# 🗺️ Référence des tags de biome
 
 ## 🌍 Référence des Tags de Biomes
 
 {% hint style="info" %}
-<p align="center">
-Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. Chaque tag regroupe des biomes partageant des caractéristiques communes et est utilisé pour définir les conditions d’apparition des Pokémon.
-</p>
+<p align="center">Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. Chaque tag regroupe des biomes partageant des caractéristiques communes et est utilisé pour définir les conditions d’apparition des Pokémon.</p>
 {% endhint %}
 
----
+***
 
 ## 📖 Table des matières
 
-- ❄️ [Neige & Glace](#neige-et-glace)
-- ⛰️ [Montagnes & Hautes Terres](#montagnes-et-hautes-terres)
-- ⛏️ [Grottes & Souterrain](#grottes-et-souterrain)
-- 🌊 [Océans, Rivières & Côtes](#oceans-rivieres-et-cotes)
-- 🌳 [Forêts & Jungles](#forets-et-jungles)
-- 🌾 [Plaines & Prairies](#plaines-et-prairies)
-- 🏜️ [Déserts & Zones Arides](#deserts-et-zones-arides)
-- 🌺 [Biomes Floraux & Prairies Fleuries](#biomes-floraux-et-prairies-fleuries)
-- 🍄 [Champignons & Biomes Magiques](#champignons-et-biomes-magiques)
-- 🌀 [Dimensions Spéciales](#dimensions-speciales)
-- 📦 [Autres Tags](#autres-tags)
+* ❄️ [Neige & Glace](biome-tags-reference.md#neige-et-glace)
+* ⛰️ [Montagnes & Hautes Terres](biome-tags-reference.md#montagnes-et-hautes-terres)
+* ⛏️ [Grottes & Souterrain](biome-tags-reference.md#grottes-et-souterrain)
+* 🌊 [Océans, Rivières & Côtes](biome-tags-reference.md#oceans-rivieres-et-cotes)
+* 🌳 [Forêts & Jungles](biome-tags-reference.md#forets-et-jungles)
+* 🌾 [Plaines & Prairies](biome-tags-reference.md#plaines-et-prairies)
+* 🏜️ [Déserts & Zones Arides](biome-tags-reference.md#deserts-et-zones-arides)
+* 🌺 [Biomes Floraux & Prairies Fleuries](biome-tags-reference.md#biomes-floraux-et-prairies-fleuries)
+* 🍄 [Champignons & Biomes Magiques](biome-tags-reference.md#champignons-et-biomes-magiques)
+* 🌀 [Dimensions Spéciales](biome-tags-reference.md#dimensions-speciales)
+* 📦 [Autres Tags](biome-tags-reference.md#autres-tags)
 
----
+***
 
 ## ❄️ Neige et Glace
 
@@ -36,7 +34,7 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 * **`is_snowy_forest`** : `grove`, `snowy_taiga`, `cold_boreal_taiga`, `cold_deciduous_forest`, `frozen_pine_taiga`, `alpha_islands_winter`, `alpine_grove`, `ice_marsh`, `siberian_grove`, `snowy_maple_forest`, `snowy_shield`, `wintry_forest`, `wintry_lowlands`, `snowy_coniferous_forest`, `glacarian_taiga`
 * **`is_snowy_taiga`** : `cold_boreal_taiga`, `frozen_pine_taiga`, `spires`, `icy_heights`
 
----
+***
 
 ## ⛰️ Montagnes et Hautes Terres
 
@@ -45,7 +43,7 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 * **`is_nether_mountain`** : `basalt_deltas`, `volcanic_deltas`
 * **`is_peak`** : `frozen_peaks`, `jagged_peaks`, `snowy_slopes`, `stony_peaks`, `emerald_peaks`, `rocky_mountains`, `scarlet_mountains`, `windswept_spires`, `icy_heights`, `#c:mountain_peak`, `#forge:is_peak`
 
----
+***
 
 ## ⛏️ Grottes et Souterrain
 
@@ -53,7 +51,7 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 * **`is_deep_dark`** : `deep_dark`, `blooming_caverns`, `deeplands`, `echoing_forest`, `overcast_columns`, `crystal_caves`, `deep_caves`, `frostfire_caves`, `mantle_caves`, `tuff_caves`, `sculk_overgrowth`
 * **`is_dripstone`** : `dripstone_caves`, `fractured_savanna`, `stony_spires`, `prismachasm`, `redstone_caves`
 
----
+***
 
 ## 🌊 Océans, Rivières et Côtes
 
@@ -66,7 +64,7 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 * **`is_river`** : `warm_river`, `tropicraft:river`, `cold_river`, `muddy_river`, `tropical_river`, `#minecraft:is_river`
 * **`is_warm_ocean`** : `warm_ocean`, `lush_stacks`, `#cobblemon:is_kelp`
 
----
+***
 
 ## 🌳 Forêts et Jungles
 
@@ -74,14 +72,14 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 * **`is_jungle`** : `underground_jungle`, `tropics`, `osa_rainforest`, `rainforest`, `tropical_peaks`, `sparse_rainforest`, `eucalyptus_forest`, `#minecraft:is_jungle`
 * **`is_nether_forest`** : `nether_jungle`, `nether_swampland(_terraces)`, `weeping_mire`, `withering_woods`
 
----
+***
 
 ## 🌾 Plaines et Prairies
 
 * **`is_grassland`** : `#cobblemon:(is_plains, is_savanna)`
 * **`is_plains`** : `plains`, `sunflower_plains`, `brushland`, `steppe`, `valley_clearing`, `flatlands`, `barley_fields`, `shrubland`, `clover_plains`, `grassland`, `prairie`, `flower_fields`, `#cobblemon:is_highlands`, `#byg:is_plain`, `#c:plains`, `#forge:is_plains`
 
----
+***
 
 ## 🏜️ Déserts et Zones Arides
 
@@ -91,85 +89,83 @@ Cette page répertorie tous les tags de biomes utilisés dans Cobblemon Realms. 
 * **`is_nether_desert`** : `soul_sand_valley`, `gravel_desert`, `quartz_desert`, `warped_desert`, `infernal_dunes`, `weeping_valley`
 * **`is_savanna`** : `arid_highlands`, `ashen_savanna`, `brushland`, `desert_oasis`, `fractured_savanna`, `hot_shrubland`, `red_oasis`, `savanna_badlands`, `savanna_slopes`, `shrubland`, `desert_shrubland`, `baobab_savanna`, `steppe`, `#minecraft:is_savanna`
 
----
+***
 
 ## 🌺 Biomes Floraux et Prairies Fleuries
 
 * **`is_floral`** : `flower_forest`, `meadow`, `sunflower_plains`, `cherry_grove`, `blooming_plateau`, `blooming_valley`, `lavender_forest`, `lavender_valley`, `sakura_grove`, `sakura_valley`, `blush_sakura_grove`, `cotton_sakura_grove`, `amaranth_fields`, `allium_fields`, `rose_fields`, `skyris_vale`, `cherry_blossom_forest`, `orchard`, `lavender_meadow`, `strawberry_fields`, `clover_fields`, `ecalyptus_forest`, `flower_fields`, `fungal_fen`, `highland_fields`, `magnolia_woodland`, `maple_forest`, `mauve_hills`, `poppy_fields`, `rocky_meadow`, `temperate_grove`, `#byg:is_floral`, `#c:(floral, flower_forests)`
 
----
+***
 
 ## 🍄 Champignons et Biomes Magiques
 
 * **`is_magical`** : `dark_forest`, `skyris_vale`, `amethyst_canyon`, `amethyst_rainforest`, `mirage_isles`, `moonlight_grove`, `moonlight_valley`, `blackwood_taiga`, `bioshroom_caves`, `clover_field`, `eucalyptus_forest`, `fungal_fen`, `magnolia_woodland`, `mauve_hills`, `prismachasm`, `redwoods`, `rocky_meadow`, `silver_birch_forest`, `japanese_maple_forest`, `rainbow_forest`, `sakura_forest`, `enchanted_tangle`, `forgotten_forest`, `skyrise_vale`, `weeping_witch_forest`, `ancient_delta`, `#byg:is_magical`
 * **`is_mushroom`** : `dark_forest`, `mushroom_fields`, `fungal_caves`, `mirage_isles`, `lichen_caves`, `deep_dark_forest`, `bioshroom_caves`, `blackwood_taiga`, `fungal_fen`, `#c:mushroom`, `#forge:is_mushroom`
 
----
+***
 
 ## 🌀 Dimensions Spéciales
 
 * **`is_aether`** : `skyroot_forest`, `skyroot_grove`, `skyroot_meadow`, `skyroot_woodland`
 * **`is_sky`** : `skylands_autumn`, `skylands_spring`, `skylands_summer`, `skylands_winter`
 
----
+***
 
 ## 📦 Autres Tags
 
-| Tag | Contenu principal / Biomes inclus |
-| --- | --- |
-| **`is_autumn`** | `autumnal_grove`, `autumnal_maple_forest`, `golden_boreal_taiga`, `maple_forest`, `orchard`, `skylands_autumn`, `autumnal_woods`, `carnelian_treeway`, `#cobblemon:(is_arid, is_cold_ocean, is_mountain, is_mushroom, is_taiga)` |
-| **`is_bamboo`** | `bamboo_jungle`, `bamboo_blossom_forest`, `bamboo_forest`, `bamboo_rainforest` |
-| **`is_cold`** | `cold_river`, `#cobblemon:(is_freezing, is_frigid, is_peak, is_taiga, is_tundra, is_cold_ocean)`, `#byg:is_cold`, `#c:climate_cold`, `#forge:is_cold/overworld` |
-| **`is_crystal`** | `crystal_canyons`, `crystal_crags` |
-| **`is_deep`** | `#minecraft:is_deep_ocean` |
-| **`is_dense`** | `dark_forest`, `mangrove_swamp`, `#cobblemon:is_jungle`, `#c:vegetation_dense`, `#forge:is_dense(_overworld)` |
-| **`is_freshwater`** | `#cobblemon:(is_river, is_swamp)` |
-| **`is_frigid`** | `cold_ocean`, `deep_cold_ocean`, `#cobblemon:is_frozen` |
-| **`is_haunted`** | *(Aucun biome spécifié)* |
-| **`is_hills`** | `blooming_valley`, `forested_highlands`, `lavender_valley`, `lush_valley`, `moonlight_valley`, `sakura_valley`, `savanna_slopes`, `temperate_highlands`, `yosemite_lowlands`, `mauve_hills`, `poppy_fields`, `#minecraft:is_hill`, `#cobblemon:is_highlands`, `#c:mountain_slope`, `#forge:is_slope` |
-| **`is_infested`** | `#byg:is_spooky` |
-| **`is_island`** | `mushroom_fields`, `lush_stacks`, `alpha_islands(_winter)`, `mirage_isles`, `warped_mesa`, `volcanic_island`, `#cobblemon:is_tropical_island` |
-| **`is_kelp`** | `kelp_forest` |
-| **`is_lukewarm`** | `deep_lukewarm_ocean`, `lukewarm_ocean` |
-| **`is_lush`** | `lush_caves`, `lush_stacks`, `underground_jungle`, `blooming_caverns`, `ancient_delta`, `#forge:is_lush` |
-| **`is_nether_basalt`** | `basalt_deltas`, `blackstone_shales`, `ash_barrens`, `volcanic_deltas`, `withered_forest`, `blazing_dunes` |
-| **`is_nether_crimson`** | `crimson_forest`, `crimson_glowing_woods`, `crimson_pinewood`, `nether_swampland(_terraces)`, `crimson_gardens`, `whistling_woods` |
-| **`is_nether_fungus`** | `crimson_forest`, `warped_forest`, `crimson_glowing_woods`, `crimson_pinewood`, `mushroom_forest(_edge)`, `nether_jungle`, `old_fungiwoods`, `old_warped_woods`, `crimson_gardens`, `embur_bog`, `glowstone_garden`, `wailing_garth`, `luminous_grove`, `whistling_woods`, `soulblight_forest`, `inverted_forest` |
-| **`is_nether_overgrowth`** | `bone_reef`, `nether_grasslands`, `soul_plain`, `sulfuric_bone_reef`, `sythian_torrids` |
-| **`is_nether_quartz`** | `quartz_desert`, `quartz_cavern`, `quartz_flats` |
-| **`is_nether_soul_fire`** | `soul_sand_valley`, `subzero_hypogeal`, `warped_desert`, `quartz_flats`, `weeping_valley` |
-| **`is_nether_soul_sand`** | `soul_sand_valley`, `soul_plain`, `wart_forest(_edge)`, `wailing_garth`, `warped_desert`, `ashy_shoals`, `blackstone_shales`, `soulblight_forest`, `weeping_valley` |
-| **`is_nether_toxic`** | `brimstone_caverns`, `wailing_garth`, `toxic_heap`, `mycotoxic_undergrowth`, `nether_jungle` |
-| **`is_nether_warped`** | `warped_forest`, `nether_jungle`, `old_warped_woods`, `wailing_garth`, `warped_desert` |
-| **`is_nether_wasteland`** | `nether_wastes`, `magma_land`, `poor_nether_grasslands`, `brimstone_caverns`, `magma_wastes`, `ashy_shoals`, `quartz_cavern`, `ash_barrens`, `toxic_heap`, `infernal_holt` |
-| **`is_overworld`** | `#minecraft:is_overworld`, `#c:is_overworld`, `#cobblemon:(is_arid, is_cave, is_coast, is_deep_dark, is_floral, is_forest, is_freshwater, is_grassland, is_highlands, is_island, is_jungle, is_magical, is_mountain, is_mushroom, is_ocean, is_sky, is_spooky, is_temperate, is_thermal, is_volcanic)` |
-| **`is_plateau`** | `savanna_plateau`, `barley_fields`, `prairie`, `steppe`, `#byg:is_plateau`, `#forge:is_plateau` |
-| **`is_reef`** | `warm_ocean`, `lush_stacks` |
-| **`is_salt`** | `pink_salt_caves`, `chalk_cliffs` |
-| **`is_sandy`** | `#cobblemon:(is_badlands, is_desert)`, `#byg:is_sandy` |
-| **`is_shrubland`** | `shrubland`, `dry_bushland` |
-| **`is_sparse`** | `sparse_rainforest`, `sparse_redwoods`, `#cobblemon:(is_arid, is_grassland, is_tundra)`, `#c:vegetation_sparse`, `#forge:is_sparse(_overworld)` |
-| **`is_spooky`** | `dark_forest`, `dead_coral_reef`, `eroded_haunted_forest`, `haunted_forest`, `ashen_woodland`, `blackwood_taiga`, `redwoods`, `willow_forest`, `ebony_woods`, `dark_amaranth_forest`, `tall_dark_amaranth_forest`, `pumpkin_fields`, `#byg:is_spooky`, `#forge:is_spooky` |
-| **`is_spring`** | `skylands_spring`, `floral_meadow`, `#cobblemon:(is_floral, is_lukewarm, is_magical, is_plains)` |
-| **`is_summer`** | `skylands_summer`, `ice_marsh`, `lush_swamp`, `mangroves`, `prismarine_forest`, `#cobblemon:(is_forest, is_jungle, is_lush, is_reef, is_warm_ocean, is_swamp)`, `#byg:is_swamp`, `#c:swamp`, `#forge:is_swamp` |
-| **`is_swamp`** | `mangrove_swamp`, `swamp`, `ice_marsh`, `orchid_swamp`, `bayou`, `fen`, `marsh`, `muddy_river`, `old_growth_bayou`, `#byg:is_swamp` |
-| **`is_taiga`** | `grove`, `alpine_grove`, `haze_mountain`, `ice_marsh`, `moonlight_grove`, `moonlight_valley`, `shield_clearing`, `siberian_grove`, `siberian_taiga`, `snowy_maple_forest`, `snowy_shield`, `wintry_lowlands`, `coniferous_forest`, `blackwood_taiga`, `boreal_taiga`, `golden_boreal_taiga`, `pine_taiga`, `#minecraft:is_taiga`, `#c:tree_coniferous`, `#forge:is_coniferous` |
-| **`is_temperate`** | `#cobblemon:(is_forest, is_plains)` |
-| **`is_thermal`** | `caldera`, `thermal_caves`, `yellowstone`, `scorching_caves`, `tropical_river` |
-| **`is_tropical`** | `tropics`, `tropical_river`, `volcanic_island` |
-| **`is_tropical_island`** | `volcanic_island`, `tropics`, `rocky_reef` |
-| **`is_tundra`** | `ice_spikes`, `snowy_plains`, `cardinal_tundra`, `cold_shrubland`, `gravel_desert`, `rocky_shrubland`, `snowy_badlands`, `yellowstone`, `frozen_tundra`, `#c:snowy_plains` |
-| **`is_void`** | `the_void`, `#byg:is_void` |
-| **`is_volcanic`** | `mantle_caves`, `volcanic_crater`, `volcanic_peaks`, `scorching_caves`, `volcanic_island`, `ashen_woodland` |
-| **`is_winter`** | `skylands_winter`, `#cobblemon:is_freezing` |
-| **`is_abyss`** | `deep_dark`, `crystal_caves`, `deep_caves`, `frostfire_caves`, `mantle_caves`, `tuff_caves` |
+| Tag                        | Contenu principal / Biomes inclus                                                                                                                                                                                                                                                                                                                                              |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **`is_autumn`**            | `autumnal_grove`, `autumnal_maple_forest`, `golden_boreal_taiga`, `maple_forest`, `orchard`, `skylands_autumn`, `autumnal_woods`, `carnelian_treeway`, `#cobblemon:(is_arid, is_cold_ocean, is_mountain, is_mushroom, is_taiga)`                                                                                                                                               |
+| **`is_bamboo`**            | `bamboo_jungle`, `bamboo_blossom_forest`, `bamboo_forest`, `bamboo_rainforest`                                                                                                                                                                                                                                                                                                 |
+| **`is_cold`**              | `cold_river`, `#cobblemon:(is_freezing, is_frigid, is_peak, is_taiga, is_tundra, is_cold_ocean)`, `#byg:is_cold`, `#c:climate_cold`, `#forge:is_cold/overworld`                                                                                                                                                                                                                |
+| **`is_crystal`**           | `crystal_canyons`, `crystal_crags`                                                                                                                                                                                                                                                                                                                                             |
+| **`is_deep`**              | `#minecraft:is_deep_ocean`                                                                                                                                                                                                                                                                                                                                                     |
+| **`is_dense`**             | `dark_forest`, `mangrove_swamp`, `#cobblemon:is_jungle`, `#c:vegetation_dense`, `#forge:is_dense(_overworld)`                                                                                                                                                                                                                                                                  |
+| **`is_freshwater`**        | `#cobblemon:(is_river, is_swamp)`                                                                                                                                                                                                                                                                                                                                              |
+| **`is_frigid`**            | `cold_ocean`, `deep_cold_ocean`, `#cobblemon:is_frozen`                                                                                                                                                                                                                                                                                                                        |
+| **`is_haunted`**           | _(Aucun biome spécifié)_                                                                                                                                                                                                                                                                                                                                                       |
+| **`is_hills`**             | `blooming_valley`, `forested_highlands`, `lavender_valley`, `lush_valley`, `moonlight_valley`, `sakura_valley`, `savanna_slopes`, `temperate_highlands`, `yosemite_lowlands`, `mauve_hills`, `poppy_fields`, `#minecraft:is_hill`, `#cobblemon:is_highlands`, `#c:mountain_slope`, `#forge:is_slope`                                                                           |
+| **`is_infested`**          | `#byg:is_spooky`                                                                                                                                                                                                                                                                                                                                                               |
+| **`is_island`**            | `mushroom_fields`, `lush_stacks`, `alpha_islands(_winter)`, `mirage_isles`, `warped_mesa`, `volcanic_island`, `#cobblemon:is_tropical_island`                                                                                                                                                                                                                                  |
+| **`is_kelp`**              | `kelp_forest`                                                                                                                                                                                                                                                                                                                                                                  |
+| **`is_lukewarm`**          | `deep_lukewarm_ocean`, `lukewarm_ocean`                                                                                                                                                                                                                                                                                                                                        |
+| **`is_lush`**              | `lush_caves`, `lush_stacks`, `underground_jungle`, `blooming_caverns`, `ancient_delta`, `#forge:is_lush`                                                                                                                                                                                                                                                                       |
+| **`is_nether_basalt`**     | `basalt_deltas`, `blackstone_shales`, `ash_barrens`, `volcanic_deltas`, `withered_forest`, `blazing_dunes`                                                                                                                                                                                                                                                                     |
+| **`is_nether_crimson`**    | `crimson_forest`, `crimson_glowing_woods`, `crimson_pinewood`, `nether_swampland(_terraces)`, `crimson_gardens`, `whistling_woods`                                                                                                                                                                                                                                             |
+| **`is_nether_fungus`**     | `crimson_forest`, `warped_forest`, `crimson_glowing_woods`, `crimson_pinewood`, `mushroom_forest(_edge)`, `nether_jungle`, `old_fungiwoods`, `old_warped_woods`, `crimson_gardens`, `embur_bog`, `glowstone_garden`, `wailing_garth`, `luminous_grove`, `whistling_woods`, `soulblight_forest`, `inverted_forest`                                                              |
+| **`is_nether_overgrowth`** | `bone_reef`, `nether_grasslands`, `soul_plain`, `sulfuric_bone_reef`, `sythian_torrids`                                                                                                                                                                                                                                                                                        |
+| **`is_nether_quartz`**     | `quartz_desert`, `quartz_cavern`, `quartz_flats`                                                                                                                                                                                                                                                                                                                               |
+| **`is_nether_soul_fire`**  | `soul_sand_valley`, `subzero_hypogeal`, `warped_desert`, `quartz_flats`, `weeping_valley`                                                                                                                                                                                                                                                                                      |
+| **`is_nether_soul_sand`**  | `soul_sand_valley`, `soul_plain`, `wart_forest(_edge)`, `wailing_garth`, `warped_desert`, `ashy_shoals`, `blackstone_shales`, `soulblight_forest`, `weeping_valley`                                                                                                                                                                                                            |
+| **`is_nether_toxic`**      | `brimstone_caverns`, `wailing_garth`, `toxic_heap`, `mycotoxic_undergrowth`, `nether_jungle`                                                                                                                                                                                                                                                                                   |
+| **`is_nether_warped`**     | `warped_forest`, `nether_jungle`, `old_warped_woods`, `wailing_garth`, `warped_desert`                                                                                                                                                                                                                                                                                         |
+| **`is_nether_wasteland`**  | `nether_wastes`, `magma_land`, `poor_nether_grasslands`, `brimstone_caverns`, `magma_wastes`, `ashy_shoals`, `quartz_cavern`, `ash_barrens`, `toxic_heap`, `infernal_holt`                                                                                                                                                                                                     |
+| **`is_overworld`**         | `#minecraft:is_overworld`, `#c:is_overworld`, `#cobblemon:(is_arid, is_cave, is_coast, is_deep_dark, is_floral, is_forest, is_freshwater, is_grassland, is_highlands, is_island, is_jungle, is_magical, is_mountain, is_mushroom, is_ocean, is_sky, is_spooky, is_temperate, is_thermal, is_volcanic)`                                                                         |
+| **`is_plateau`**           | `savanna_plateau`, `barley_fields`, `prairie`, `steppe`, `#byg:is_plateau`, `#forge:is_plateau`                                                                                                                                                                                                                                                                                |
+| **`is_reef`**              | `warm_ocean`, `lush_stacks`                                                                                                                                                                                                                                                                                                                                                    |
+| **`is_salt`**              | `pink_salt_caves`, `chalk_cliffs`                                                                                                                                                                                                                                                                                                                                              |
+| **`is_sandy`**             | `#cobblemon:(is_badlands, is_desert)`, `#byg:is_sandy`                                                                                                                                                                                                                                                                                                                         |
+| **`is_shrubland`**         | `shrubland`, `dry_bushland`                                                                                                                                                                                                                                                                                                                                                    |
+| **`is_sparse`**            | `sparse_rainforest`, `sparse_redwoods`, `#cobblemon:(is_arid, is_grassland, is_tundra)`, `#c:vegetation_sparse`, `#forge:is_sparse(_overworld)`                                                                                                                                                                                                                                |
+| **`is_spooky`**            | `dark_forest`, `dead_coral_reef`, `eroded_haunted_forest`, `haunted_forest`, `ashen_woodland`, `blackwood_taiga`, `redwoods`, `willow_forest`, `ebony_woods`, `dark_amaranth_forest`, `tall_dark_amaranth_forest`, `pumpkin_fields`, `#byg:is_spooky`, `#forge:is_spooky`                                                                                                      |
+| **`is_spring`**            | `skylands_spring`, `floral_meadow`, `#cobblemon:(is_floral, is_lukewarm, is_magical, is_plains)`                                                                                                                                                                                                                                                                               |
+| **`is_summer`**            | `skylands_summer`, `ice_marsh`, `lush_swamp`, `mangroves`, `prismarine_forest`, `#cobblemon:(is_forest, is_jungle, is_lush, is_reef, is_warm_ocean, is_swamp)`, `#byg:is_swamp`, `#c:swamp`, `#forge:is_swamp`                                                                                                                                                                 |
+| **`is_swamp`**             | `mangrove_swamp`, `swamp`, `ice_marsh`, `orchid_swamp`, `bayou`, `fen`, `marsh`, `muddy_river`, `old_growth_bayou`, `#byg:is_swamp`                                                                                                                                                                                                                                            |
+| **`is_taiga`**             | `grove`, `alpine_grove`, `haze_mountain`, `ice_marsh`, `moonlight_grove`, `moonlight_valley`, `shield_clearing`, `siberian_grove`, `siberian_taiga`, `snowy_maple_forest`, `snowy_shield`, `wintry_lowlands`, `coniferous_forest`, `blackwood_taiga`, `boreal_taiga`, `golden_boreal_taiga`, `pine_taiga`, `#minecraft:is_taiga`, `#c:tree_coniferous`, `#forge:is_coniferous` |
+| **`is_temperate`**         | `#cobblemon:(is_forest, is_plains)`                                                                                                                                                                                                                                                                                                                                            |
+| **`is_thermal`**           | `caldera`, `thermal_caves`, `yellowstone`, `scorching_caves`, `tropical_river`                                                                                                                                                                                                                                                                                                 |
+| **`is_tropical`**          | `tropics`, `tropical_river`, `volcanic_island`                                                                                                                                                                                                                                                                                                                                 |
+| **`is_tropical_island`**   | `volcanic_island`, `tropics`, `rocky_reef`                                                                                                                                                                                                                                                                                                                                     |
+| **`is_tundra`**            | `ice_spikes`, `snowy_plains`, `cardinal_tundra`, `cold_shrubland`, `gravel_desert`, `rocky_shrubland`, `snowy_badlands`, `yellowstone`, `frozen_tundra`, `#c:snowy_plains`                                                                                                                                                                                                     |
+| **`is_void`**              | `the_void`, `#byg:is_void`                                                                                                                                                                                                                                                                                                                                                     |
+| **`is_volcanic`**          | `mantle_caves`, `volcanic_crater`, `volcanic_peaks`, `scorching_caves`, `volcanic_island`, `ashen_woodland`                                                                                                                                                                                                                                                                    |
+| **`is_winter`**            | `skylands_winter`, `#cobblemon:is_freezing`                                                                                                                                                                                                                                                                                                                                    |
+| **`is_abyss`**             | `deep_dark`, `crystal_caves`, `deep_caves`, `frostfire_caves`, `mantle_caves`, `tuff_caves`                                                                                                                                                                                                                                                                                    |
 
----
+***
 
 {% hint style="success" %}
 ## Nous contacter
 
-<p align="center">
-Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.
-</p>
+<p align="center">Si vous avez des questions, des suggestions ou des modifications à proposer, n'hésitez pas à nous rejoindre sur <a href="https://discord.gg/kb8NSTF45n">Discord</a> et à contacter directement <strong>@FabLeKebab</strong> sur le serveur pour tout ce qui concerne le wiki, ou <strong>@Levels</strong> pour tout ce qui concerne le modpack.</p>
 {% endhint %}
