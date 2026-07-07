@@ -1,6 +1,6 @@
 # 🏙️ Generation 5 - Unys
 
-### 📜 **List of Generation V Summons**
+### 📜 **Fifth Generation Summon List**
 
 <p align="center">
 The heroes of Unova were born from the meeting of ideals and truth. Their legends speak of lost kingdoms, ancient dragons, and convictions capable of changing the world.
@@ -16,7 +16,7 @@ The heroes of Unova were born from the meeting of ideals and truth. Their legend
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 100     |
 | ⚔️ Attack      | 100     |
@@ -88,7 +88,7 @@ The heroes of Unova were born from the meeting of ideals and truth. Their legend
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 91     |
 | ⚔️ Attack      | 90     |
@@ -183,7 +183,7 @@ The heroes of Unova were born from the meeting of ideals and truth. Their legend
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 91     |
 | ⚔️ Attack      | 129     |
@@ -278,7 +278,7 @@ The heroes of Unova were born from the meeting of ideals and truth. Their legend
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 91     |
 | ⚔️ Attack      | 90     |
@@ -373,7 +373,7 @@ The heroes of Unova were born from the meeting of ideals and truth. Their legend
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 89     |
 | ⚔️ Attack      | 125     |
@@ -457,7 +457,7 @@ The heroes of Unova were born from the meeting of ideals and truth. Their legend
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 79     |
 | ⚔️ Attack      | 115     |
@@ -527,7 +527,7 @@ The heroes of Unova were born from the meeting of ideals and truth. Their legend
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 79     |
 | ⚔️ Attack      | 115     |
@@ -608,7 +608,7 @@ The heroes of Unova were born from the meeting of ideals and truth. Their legend
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 100     |
 | ⚔️ Attack      | 120     |
@@ -689,7 +689,7 @@ The heroes of Unova were born from the meeting of ideals and truth. Their legend
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 100     |
 | ⚔️ Attack      | 150     |
@@ -764,7 +764,7 @@ The heroes of Unova were born from the meeting of ideals and truth. Their legend
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 125     |
 | ⚔️ Attack      | 130     |
@@ -842,7 +842,7 @@ The heroes of Unova were born from the meeting of ideals and truth. Their legend
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 91     |
 | ⚔️ Attack      | 72     |
@@ -939,7 +939,7 @@ The heroes of Unova were born from the meeting of ideals and truth. Their legend
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 100     |
 | ⚔️ Attack      | 77     |
@@ -1031,7 +1031,7 @@ The heroes of Unova were born from the meeting of ideals and truth. Their legend
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 71     |
 | ⚔️ Attack      | 120     |
