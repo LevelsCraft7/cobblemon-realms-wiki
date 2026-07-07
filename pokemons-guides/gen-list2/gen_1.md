@@ -38,7 +38,7 @@ At the heart of Kanto lie the earliest legends of the Pokémon world. From the e
 
 ### 🗝️ How to obtain
 
-To obtain Articuno, you must craft an [Ice Urn](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/urns_and_galarian_urns) and defeat 50 Ice-type Pokémon, either through close combat or Pokémon battles, while having the urn in your inventory.
+To obtain Articuno, you must craft an [Urn of Frost](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/urns_and_galarian_urns) and defeat 50 Ice-type Pokémon, either through close combat or Pokémon battles, while having the urn in your inventory.
 
 Once the urn is filled, simply right-click with it in your hand and a **level 40 Articuno will appear**, with a **2% chance of being shiny**.
 
@@ -90,11 +90,11 @@ To obtain the Galarian form, simply use a [Galarian Urn](https://our-story-netwo
 
 ### 🗝️ How to obtain
 
-To obtain Zapdos, you must craft a [Storm Urn](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/urns_and_galarian_urns) and defeat 50 Electric-type Pokémon, either through close combat or Pokémon battles, while having the urn in your inventory.
+To obtain Zapdos, you must craft a [Urn of Storms](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/urns_and_galarian_urns) and defeat 50 Electric-type Pokémon, either through close combat or Pokémon battles, while having the urn in your inventory.
 
 Once the urn is filled, simply right-click with it in your hand and a **level 40 Zapdos will appear**, with a **2% chance of being shiny**.
 
-You will also receive a `Thunderous Stone` when using the filled urn, which can be combined with the two other legendary bird stones to craft the `Vortex Stone`, allowing you to obtain [Lugia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_2#lugia).
+You will also receive a `Zap Stone` when using the filled urn, which can be combined with the two other legendary bird stones to craft the `Vortex Stone`, allowing you to obtain [Lugia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_2#lugia).
 
 ---
 
@@ -142,11 +142,11 @@ To obtain the Galarian form, simply use a [Galarian Urn](https://our-story-netwo
 
 ### 🗝️ How to obtain
 
-To obtain Moltres, you must craft an [Ember Urn](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/urns_and_galarian_urns) and defeat 50 Fire-type Pokémon, either through close combat or Pokémon battles, while having the urn in your inventory.
+To obtain Moltres, you must craft an [Urn of Embers](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/items_meca/urns_and_galarian_urns) and defeat 50 Fire-type Pokémon, either through close combat or Pokémon battles, while having the urn in your inventory.
 
 Once the urn is filled, simply right-click with it in your hand and a **level 40 Moltres will appear**, with a **2% chance of being shiny**.
 
-You will also receive a `Fusion Stone` when using the filled urn, which can be combined with the two other legendary bird stones to craft the `Vortex Stone`, allowing you to obtain [Lugia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_2#lugia).
+You will also receive a `Molten Stone` when using the filled urn, which can be combined with the two other legendary bird stones to craft the `Vortex Stone`, allowing you to obtain [Lugia](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/legendary_monuments/gen_2#lugia).
 
 ---
 
@@ -205,7 +205,7 @@ The <code>Old Sea Map</code> does not work like a regular Minecraft map.
 
 Once you have the map, you must find the [Final Island](https://our-story-network.gitbook.io/cr-wiki/cr-fr/legendary-monuments/all_world/overworld_world#ile-finale) and place the map on the `Mew Pedestal`, which will make a **level 40 Mew appear**, with a **2% chance of being shiny**.
 
-You will also receive a `Mew Strand`, which currently has no use.
+You will also receive a `Tuft of Mew Hair`, which currently has no use.
 
 ---
 
