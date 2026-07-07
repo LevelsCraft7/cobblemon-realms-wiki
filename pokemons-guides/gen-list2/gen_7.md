@@ -35,13 +35,13 @@ In the Alola islands, protective guardians coexist with creatures from other dim
 
 ---
 
-### 🗝️ Moyen d'obtention
+### 🗝️ How to Obtain
 
-Pour obtenir Cosmog, vous devez collecter à la main, en faisant clic droit avec un `Catalyseur Cosmique` et `50 Poussières Cosmique` trouvables dans l'End.
+To obtain Cosmog, you must collect `50 Cosmic Dust` found in the End by right-clicking them with a `Cosmic Bag` in hand.
 
-Une fois la 50e poussière collectée, un **Cosmog au niveau 5 apparaît** alors, avec **2% de chance d’être chromatique**.
+Once the 50th dust has been collected, a **Level 5 Cosmog** will appear, with a **2% chance of being Shiny**.
 
-Après capture, Cosmog évolue en Cosmovum au niveau 43. Cosmovum évolue ensuite au niveau 53, avec un choix final entre [Lunala](https://our-story-network.gitbook.io/cr-wiki/cr-fr/myths-and-legends/myths-and-legends-legendaries/gen_7#lunala) ou [Solgaleo](https://our-story-network.gitbook.io/cr-wiki/cr-fr/myths-and-legends/myths-and-legends-legendaries/gen_7#solgaleo).
+After being captured, Cosmog evolves into Cosmoem at level 43. Cosmoem then evolves at level 53, with a final choice between [Lunala](https://our-story-network.gitbook.io/cr-wiki/cr-en/myths-and-legends/myths-and-legends-legendaries/gen_7#lunala) or [Solgaleo](https://our-story-network.gitbook.io/cr-wiki/cr-en/myths-and-legends/myths-and-legends-legendaries/gen_7#solgaleo).
 
 ---
 
@@ -80,26 +80,26 @@ Après capture, Cosmog évolue en Cosmovum au niveau 43. Cosmovum évolue ensuit
 
 ---
 
-### 🗝️ Moyen d'obtention
+### 🗝️ How to Obtain
 
-Pour obtenir Meltan, vous devez fabriquer une `Boîte Meltan` et la poser au sol.
+To obtain Meltan, you must craft a `Meltan Box` and place it on the ground.
 
-Ensuite, vous devez remplir la boîte avec un total de 50 points de valeur métallique :
+Then, you must fill the box with a total of 50 metal value points:
 
-- `Lingot de Cuivre` → 1 point  
-- `Lingot de Fer` → 2 points  
-- `Lingot d'Or` → 3 points  
-- `Lingot de Netherite` → 50 points  
+- `Copper Ingot` → 1 point  
+- `Iron Ingot` → 2 points  
+- `Gold Ingot` → 3 points  
+- `Netherite Ingot` → 50 points  
 
-Une fois la boîte remplie, faites un clic droit dessus : un **Meltan au niveau 5 apparaîtra** alors, avec **2% de chance d’être chromatique**.
+Once the box is filled, right-click it: a **Level 5 Meltan** will appear, with a **2% chance of being Shiny**.
 
 {% hint style="info" %}
 <p align="center">
-La boîte ne sera pas consommée. Elle pourra être réutilisée.
+The box will not be consumed. It can be reused.
 </p>
 {% endhint %}
 
-Par la suite, cette même boîte génère `1 Bonbon Meltan` tous les 50 points de métal ajoutés. En donnant `64 Bonbon Meltan` à Meltan, il peut évoluer en Melmetal.
+Afterward, the same box generates `1 Meltan Candy` for every 50 metal points added. By giving `64 Meltan Candy` to Meltan, it can evolve into Melmetal.
 
 ---
 
