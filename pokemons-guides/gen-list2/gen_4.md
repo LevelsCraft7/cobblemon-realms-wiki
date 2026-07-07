@@ -1,6 +1,6 @@
 # ❄️ Generation 4 - Sinnoh
 
-### 📜 **Summon List of the Fourth Generation**
+### 📜 **Fourth Generation Summon List**
 
 <p align="center">
 The myths of Sinnoh trace back to the very creation of the universe. Time, space, antimatter, and ancient deities intertwine in its oldest legends.
