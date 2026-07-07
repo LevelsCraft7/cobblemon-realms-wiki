@@ -6,11 +6,11 @@
 Behind Kalos’ beauty lie powers capable of granting life or bringing destruction. These legends are tied to the world’s fragile balance.
 </p>
 
-## 🦌 Xerneas
+## 🪄 Hoopa
 
 ### 🧾 General Information
 
-- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_fee.png)
+- **Type :** ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_psy.png) ![](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Types/type_spectre.png)
 
 ---
 
@@ -18,20 +18,20 @@ Behind Kalos’ beauty lie powers capable of granting life or bringing destructi
 
 | Stat            | Valeur |
 | --------------- | ------ |
-| ❤️ HP           | 126     |
-| ⚔️ Attack      | 131     |
-| 🛡️ Defense     | 95    |
-| ✨ Sp. Attack  | 131    |
-| 🌙 Sp. Defense | 98    |
-| ⚡ Speed       | 99     |
+| ❤️ HP           | 80     |
+| ⚔️ Attack      | 110     |
+| 🛡️ Defense     | 60    |
+| ✨ Sp. Attack  | 150    |
+| 🌙 Sp. Defense | 130    |
+| ⚡ Speed       | 70     |
 
-![Xerneas](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_6/xerneas.png) ![Xerneas Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_6/xerneas_shiny.png)
+![Hoopa](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_6/hoopa.png) ![Hoopa Shiny](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/gen_6/hoopa_shiny.png)
 
 ---
 
 ### 🎯 Form Ability
 
-- **Ability:** Fairy Aura
+- **Ability:** Magician
 
 ---
 
@@ -47,7 +47,7 @@ En plaçant ces deux objets sur les `Piédestal de Hoopa`, un **Hoopa au niveau 
 
 ### 📜 Description
 
-> According to legend, when its antlers shine in seven colors, it is said to grant eternal life.
+> It has the ability to teleport things by passing them through its rings. It sends objects it likes to a hiding place known only to itself.
 
 ---
 
