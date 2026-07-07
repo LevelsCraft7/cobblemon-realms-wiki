@@ -1,6 +1,6 @@
 # 🎓 Generation 9 - Paldea/Kitakami
 
-### 📜 **List of Generation IX Summons**
+### 📜 **Ninth Generation Summon List**
 
 <p align="center">
 From the depths of Paldea’s Great Crater to the folk tales of Kitakami, new legends are emerging. Some have been known for centuries, while others remain shrouded in mystery.
