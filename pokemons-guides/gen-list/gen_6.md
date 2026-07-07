@@ -1,6 +1,6 @@
 # ✨ Generation 6 - Kalos
 
-### 📜 **List of Generation VI Summons**
+### 📜 **Sixth Generation Summon List**
 
 <p align="center">
 Behind Kalos’ beauty lie powers capable of granting life or bringing destruction. These legends are tied to the world’s fragile balance.
