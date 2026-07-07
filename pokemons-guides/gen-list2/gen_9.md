@@ -16,7 +16,7 @@ From the depths of Paldea’s Great Crater to the folk tales of Kitakami, new le
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 85     |
 | ⚔️ Attack      | 85     |
@@ -59,7 +59,7 @@ Une fois les `8 Pieux du Fléau Plante` obtenus, vous pouvez interagir avec le `
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 80     |
 | ⚔️ Attack      | 120    |
@@ -102,7 +102,7 @@ Une fois les `8 Pieux du Fléau Glace` obtenus, vous pouvez interagir avec le `S
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 155     |
 | ⚔️ Attack      | 110     |
@@ -145,7 +145,7 @@ Une fois les `8 Pieux du Fléau Terre` obtenus, vous pouvez interagir avec le `S
 
 ### 📊 Statistics
 
-| Stat            | Valeur |
+| Stat            | Value |
 | --------------- | ------ |
 | ❤️ HP           | 55     |
 | ⚔️ Attack      | 80     |
