@@ -1,6 +1,6 @@
 # 🍃 Generation 2 - Johto
 
-### 📜 **Summon List of the Second Generation**
+### 📜 **Second Generation Summon List**
 
 <p align="center">
 The legends of Johto tell the story of sacred guardians watching over the balance of the world. Between the legendary beasts and divine birds, their legacy spans across the ages.
