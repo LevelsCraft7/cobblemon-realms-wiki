@@ -159,7 +159,7 @@ Key Trainers are the main progression checkpoints. Defeating them increases your
 In **Cobblemon Realms**, additional tools are available through the quest system:
 
 - Each quest category lists **all trainers belonging to a series**.
-- You can **exchange Realms Coins** to instantly spawn the trainer you need to fight.
+- You can **or exchange Realms Coins** to instantly spawn the trainer you need to fight.
 
   - Trainers can be spawned infinitely this way.
   - **Cooldown:** once defeated, a trainer cannot be challenged again until **one Minecraft day** has passed (≈ 20 minutes IRL).
