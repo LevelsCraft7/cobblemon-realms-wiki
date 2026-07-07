@@ -1,6 +1,6 @@
 # 🏝️ Generation 7 - Alola
 
-### 📜 **List of Generation VII Summons**
+### 📜 **Seventh Generation Summon List**
 
 <p align="center">
 In the Alola islands, protective guardians coexist with creatures from other dimensions. Their stories blend ancient traditions with cosmic mysteries.
