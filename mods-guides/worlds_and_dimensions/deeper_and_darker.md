@@ -69,7 +69,7 @@ The danger does not only come from mobs:
 # 🐾 Cobblemon Spawns in The Otherside
 
 {% hint style="success" %}
-The Otherside is one of the most interesting dimensions for capturing rare Pokémon, dragons, paradox Pokémon, and many Ghost- or Dark-type species.
+The Otherside is one of the most interesting dimensions for capturing rare Pokémon, dragons, Paradox Pokémon, and many Ghost- or Dark-type species.
 {% endhint %}
 
 On **Cobblemon Realms**, The Otherside is mostly known for its custom spawns focused on:
@@ -80,12 +80,17 @@ On **Cobblemon Realms**, The Otherside is mostly known for its custom spawns foc
 - ✨ Rare Pokémon
 - 🐉 Dragons
 - ⚠️ Paradox Pokémon
+- 🏛️ Ancient Temple exclusives
+
+{% hint style="warning" %}
+Several Ghost- and Dark-type encounters are restricted to nighttime, including the Gastly, Duskull, Misdreavus and Shuppet families, as well as Spiritomb and Umbreon.
+{% endhint %}
 
 ---
 
 # 🌑 Deeplands
 
-The **Deeplands** represent the hostile heart of the dimension.
+The **Deeplands** represent the hostile heart of the dimension. They contain the widest selection of Otherside encounters and provide access to the Ancient Temple.
 
 ![Deeplands](https://user-images.githubusercontent.com/67495659/186498785-fd91a158-15df-461b-8e46-eb3684d8a6ad.png)
 
@@ -95,19 +100,48 @@ The **Deeplands** represent the hostile heart of the dimension.
 - Duskull / Dusclops / Dusknoir
 - Bronzor / Bronzong
 - Golett / Golurk
-- Deino / Zweilous / Hydreigon
+- Roggenrola / Boldore / Gigalith
+- Whismur / Loudred / Exploud
+- Chinchou / Lanturn
+- Tympole / Palpitoad / Seismitoad
+- Wooper / Quagsire
+- Inkay / Malamar
+- Misdreavus / Mismagius
+- Shuppet / Banette
+- Noibat / Noivern
+- Gligar
+- Mawile
 - Spiritomb
-- Goomy / Sliggoo
-- Flutter Mane
-- Roaring Moon
+- Yanma / Yanmega
 
-### ✨ Ultra Rare
+### ✨ Ultra Rare Encounters
 
-- **Type: Null**
-- **Marshadow**
+| Pokémon | Level |
+|---|---:|
+| Darkrai | 50 |
+| Drakloak | 50-64 |
+| Dragapult | 60-80 |
+| Flutter Mane | 52-58 |
+| Iron Crown | 70-75 |
+| Regidrago | 70 |
+| Roaring Moon | 55-60 |
+| Umbreon | 25-43 |
+
+<details>
+<summary><strong>📋 View the complete Deeplands spawn list</strong></summary>
+
+### Common, Uncommon and Rare
+
+Gastly, Haunter, Gengar, Duskull, Dusclops, Dusknoir, Bronzor, Bronzong, Golett, Golurk, Roggenrola, Boldore, Gigalith, Whismur, Loudred, Exploud, Chinchou, Lanturn, Tympole, Palpitoad, Seismitoad, Wooper, Quagsire, Inkay, Malamar, Misdreavus, Mismagius, Shuppet, Banette, Gligar, Mawile, Noibat, Noivern, Spiritomb, Yanma and Yanmega.
+
+### Ultra Rare
+
+Darkrai, Drakloak, Dragapult, Flutter Mane, Iron Crown, Regidrago, Roaring Moon and Umbreon.
+
+</details>
 
 {% hint style="warning" %}
-The Deeplands are home to some of the rarest encounters in the entire dimension.
+Type: Null and Marshadow are tied to the Ancient Temple and are listed separately below.
 {% endhint %}
 
 ## 📌 Why Explore This Biome?
@@ -117,13 +151,13 @@ The Deeplands are home to some of the rarest encounters in the entire dimension.
 | 👻 Ghost and Dark spawns |
 | 🏛️ Ancient Temple |
 | 💀 Extremely dangerous atmosphere |
-| ✨ Late-game encounters |
+| ✨ Mythical, Legendary and Paradox encounters |
 
 ---
 
 # 🌲 Echoing Forest
 
-The **Echoing Forest** is the dimension’s iconic purple biome.
+The **Echoing Forest** is the dimension’s iconic purple biome, with supernatural, sound-based and Psychic-type encounters.
 
 ![Echoing Forest](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Deeper-and-Darker/Echoing_Forest.png)
 
@@ -133,13 +167,41 @@ The **Echoing Forest** is the dimension’s iconic purple biome.
 - Shroomish / Breloom
 - Solosis / Duosion / Reuniclus
 - Nincada / Ninjask / Shedinja
+- Duskull / Dusclops / Dusknoir
+- Whismur / Loudred / Exploud
+- Chinchou / Lanturn
+- Tympole / Palpitoad / Seismitoad
+- Wooper / Quagsire
+- Inkay / Malamar
+- Misdreavus / Mismagius
+- Shuppet / Banette
 - Noibat / Noivern
 - Spiritomb
-- Scream Tail
+- Yanma / Yanmega
 
-### ✨ Ultra Rare
+### ✨ Ultra Rare Encounters
 
-- **Raging Bolt**
+| Pokémon | Level |
+|---|---:|
+| Darkrai | 50 |
+| Dreepy | 38-54 |
+| Drakloak | 50-64 |
+| Raging Bolt | 70-75 |
+| Scream Tail | 52-58 |
+| Umbreon | 25-43 |
+
+<details>
+<summary><strong>📋 View the complete Echoing Forest spawn list</strong></summary>
+
+### Common, Uncommon and Rare
+
+Chingling, Chimecho, Shroomish, Breloom, Solosis, Duosion, Reuniclus, Nincada, Ninjask, Shedinja, Duskull, Dusclops, Dusknoir, Whismur, Loudred, Exploud, Chinchou, Lanturn, Tympole, Palpitoad, Seismitoad, Wooper, Quagsire, Inkay, Malamar, Misdreavus, Mismagius, Shuppet, Banette, Noibat, Noivern, Spiritomb, Yanma and Yanmega.
+
+### Ultra Rare
+
+Darkrai, Dreepy, Drakloak, Raging Bolt, Scream Tail and Umbreon.
+
+</details>
 
 ## 📌 Biome Atmosphere
 
@@ -147,30 +209,53 @@ The **Echoing Forest** is the dimension’s iconic purple biome.
 |---|
 | 🔮 Psychic-type spawns |
 | 👻 Supernatural Pokémon |
-| 🔊 Strange sound atmosphere |
+| 🔊 Sound-related encounters |
 | 🌫️ Distinctive purple fog |
 
 ---
 
 # 🌿 Blooming Caverns
 
-The **Blooming Caverns** are brighter and more humid.
+The **Blooming Caverns** are brighter and more humid, with Water-, Poison- and Psychic-oriented encounters.
 
 ## 🐾 Notable Spawns
 
-- Goomy / Sliggoo / Goodra
-- Tympole / Palpitoad / Seismitoad
-- Wooper / Quagsire
 - Skorupi / Drapion
 - Gulpin / Swalot
-- Inkay / Malamar
 - Solosis / Duosion / Reuniclus
 - Chinchou / Lanturn
+- Tympole / Palpitoad / Seismitoad
+- Wooper / Quagsire
+- Inkay / Malamar
+- Misdreavus / Mismagius
+- Shuppet / Banette
+- Noibat / Noivern
 - Yanma / Yanmega
+- Gligar
 
-### ✨ Special Spawn
+### ✨ Ultra Rare Encounters
 
-- **Brute Bonnet**
+| Pokémon | Level |
+|---|---:|
+| Goomy | 28-44 |
+| Sliggoo | 40-54 |
+| Goodra | 50-70 |
+| Dreepy | 38-54 |
+| Brute Bonnet | 52-58 |
+| Iron Crown | 70-75 |
+
+<details>
+<summary><strong>📋 View the complete Blooming Caverns spawn list</strong></summary>
+
+### Common, Uncommon and Rare
+
+Skorupi, Drapion, Gulpin, Swalot, Solosis, Duosion, Reuniclus, Chinchou, Lanturn, Tympole, Palpitoad, Seismitoad, Wooper, Quagsire, Inkay, Malamar, Misdreavus, Mismagius, Shuppet, Banette, Noibat, Noivern, Yanma, Yanmega and Gligar.
+
+### Ultra Rare
+
+Goomy, Sliggoo, Goodra, Dreepy, Brute Bonnet and Iron Crown.
+
+</details>
 
 ## 📌 Main Purpose
 
@@ -179,40 +264,60 @@ The **Blooming Caverns** are brighter and more humid.
 | 💧 Water-type spawns |
 | ☣️ Poison Pokémon |
 | 🧪 Resonarium progression |
-| 🌌 Strange atmosphere |
+| ✨ Dragon and Paradox encounters |
 
 ---
 
 # 🪨 Overcast Columns
 
-A rocky biome made up of massive mineral columns.
+A rocky biome made up of massive mineral columns. It is the main destination for hunting powerful Dragon- and Paradox-related encounters.
 
 ![Overcast Columns](https://raw.githubusercontent.com/LevelsCraft7/cobblemon-realms-wiki/refs/heads/main/imgwiki/Deeper-and-Darker/Overcast_Columns.png)
 
 ## 🐾 Notable Spawns
 
-- Gible / Gabite / Garchomp
-- Jangmo-o / Hakamo-o
+- Roggenrola / Boldore / Gigalith
 - Scraggy / Scrafty
+- Misdreavus / Mismagius
+- Shuppet / Banette
+- Noibat / Noivern
 - Mawile
 - Torkoal
 
-### ✨ Rare Paradoxes
+### ✨ Ultra Rare Encounters
 
-- **Iron Boulder**
-- **Slither Wing**
-- **Sandy Shocks**
-- **Gouging Fire**
+| Pokémon | Level |
+|---|---:|
+| Jangmo-o | 23-39 |
+| Hakamo-o | 35-49 |
+| Great Tusk | 52-58 |
+| Sandy Shocks | 52-58 |
+| Gouging Fire | 70-75 |
+| Regidrago | 70 |
+| Dragapult | 60-80 |
+
+<details>
+<summary><strong>📋 View the complete Overcast Columns spawn list</strong></summary>
+
+### Common, Uncommon and Rare
+
+Roggenrola, Boldore, Gigalith, Scraggy, Scrafty, Misdreavus, Mismagius, Shuppet, Banette, Noibat, Noivern, Mawile and Torkoal.
+
+### Ultra Rare
+
+Jangmo-o, Hakamo-o, Great Tusk, Sandy Shocks, Gouging Fire, Regidrago and Dragapult.
+
+</details>
 
 {% hint style="warning" %}
-The Overcast Columns are currently the most interesting biome for hunting Paradox Pokémon.
+The Overcast Columns contain the highest concentration of Paradox and Dragon-related ultra rare encounters in The Otherside.
 {% endhint %}
 
 ## 📌 Why is this Biome Important?
 
 | ⚔️ Specialties |
 |---|
-| 🐉 Dragons |
+| 🐉 Dragon encounters |
 | ⚠️ Paradox Pokémon |
 | 💥 Aggressive encounters |
 | 🎯 Late-game exploration |
@@ -227,16 +332,18 @@ The main structure found in the Deeplands.
 
 ## 🐾 Structure-related Pokémon
 
-Can spawn:
+The Ancient Temple has its own dedicated spawn rules:
 
-- 🐱 Alolan Meowth
-- 👑 Alolan Persian
+| Pokémon | Rarity | Level |
+|---|---|---:|
+| Alolan Meowth | Common | 21-40 |
+| Alolan Persian | Common | 33-54 |
+| Type: Null | Ultra Rare | 40 |
+| Marshadow | Ultra Rare | 50 |
 
-Some spawning rules also use:
-
-`#cobblemon:is_deep_dark`
-
-➡️ This reinforces the unique identity of the dimension within Cobblemon Realms.
+{% hint style="success" %}
+Type: Null and Marshadow are the two major ultra rare encounters tied specifically to the Ancient Temple.
+{% endhint %}
 
 ## 📌 Why Explore It?
 
@@ -244,7 +351,7 @@ Some spawning rules also use:
 |---|
 | 💎 Rare loot |
 | ⚙️ Advanced progression |
-| 🐾 Modpack-related spawns |
+| 🐾 Structure-exclusive spawns |
 | ✨ Exclusive items |
 
 ### 🧪 Notable Loot
@@ -275,21 +382,23 @@ Some spawning rules also use:
 
 | 🌍 Area | ⭐ Main Interest |
 |---|---|
-| Deeplands | Ghost-types, structures, ultra rares |
-| Echoing Forest | Psychic, sound-based, supernatural |
-| Blooming Caverns | Water-types, poison, progression |
-| Overcast Columns | Dragons and paradoxes |
+| Deeplands | Ghost-types, Ancient Temple, Mythical and Legendary encounters |
+| Echoing Forest | Psychic, sound-based and supernatural encounters |
+| Blooming Caverns | Water, Poison, Dragon and Paradox encounters |
+| Overcast Columns | Dragons, Paradox Pokémon and late-game hunting |
+| Ancient Temple | Alolan Meowth, Alolan Persian, Type: Null and Marshadow |
 
 ---
 
 {% hint style="success" %}
 ## 📌 Key Takeaways
 
-<strong>The Otherside</strong> is a dangerous but extremely rewarding dimension for players looking for rare Pokémon, paradoxes, dragons, and exclusive rewards. The Ancient Temple is one of the main exploration goals.
+<strong>The Otherside</strong> is a dangerous but extremely rewarding dimension for players looking for rare Pokémon, Paradox Pokémon, dragons and exclusive rewards. The Ancient Temple is one of the main exploration goals.
 
 - 🌑 The Otherside is a very dangerous dimension
-- 🐾 Cobblemon spawns there are extremely valuable
-- 🏛️ The Ancient Temple is a key structure
+- 🐾 Each biome has its own dedicated spawn selection
+- 🌙 Several Ghost- and Dark-type encounters only appear at night
+- 🏛️ The Ancient Temple contains exclusive Pokémon
 - ⚠️ Always prepare before exploring
 - 🧭 Write down your coordinates before traveling too far
 {% endhint %}
@@ -307,7 +416,7 @@ Some spawning rules also use:
 - [Minecraft Guides - Overcast Columns](https://www.minecraft-guides.com/wiki/deeper-and-darker/the-otherside/overcast-columns/)
 
 {% hint style="info" %}
-The Cobblemon Realms information shown above is based on the current configuration of custom spawns used within the dimension.
+The Cobblemon Realms information shown above is based on the current custom spawn configuration used by Biome Expanded Spawns v6.0.
 {% endhint %}
 
 ---
