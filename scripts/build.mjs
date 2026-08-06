@@ -163,7 +163,10 @@ function pageTemplate({ title, body, nav, language, alternate }) {
 <body>
   <header class="topbar">
     <button id="menu" class="menu-button" type="button" aria-label="Ouvrir le menu">☰</button>
-    <a class="brand" href="/${language === 'fr' ? 'fr-FR/' : ''}">Cobblemon Realms</a>
+    <a class="brand" href="/${language === 'fr' ? 'fr-FR/' : ''}" aria-label="Cobblemon Realms Wiki">
+      <span class="brand-mark" aria-hidden="true">C</span>
+      <span class="brand-copy"><strong>Cobblemon Realms</strong><small>Wiki</small></span>
+    </a>
     <div class="search-wrap">
       <span class="search-icon" aria-hidden="true"></span>
       <input id="search" type="search" autocomplete="off" spellcheck="false" placeholder="${language === 'fr' ? 'Rechercher dans le wiki…' : 'Search the wiki…'}" aria-label="${language === 'fr' ? 'Rechercher dans le wiki' : 'Search the wiki'}" aria-controls="search-results" aria-expanded="false">
