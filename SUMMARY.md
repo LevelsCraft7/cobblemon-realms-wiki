@@ -9,6 +9,7 @@
 * [📦 Installation](installation.md)
 * [🧭 Getting started](getting-started.md)
 * [❓ Frequently Asked Questions](faq.md)
+* [🐞 Report a Bug](report-a-bug.md)
 * [🤝 Support the Project](contributing.md)
 
 ## Cobblemon Realms
@@ -42,7 +43,7 @@
 ## Pokemon Exclusives
 
 * [👶 Baby Legends](pokemons-exclusives/baby-legends.md)
-* [🌊 Ash Greninja](pokemons-exclusives/ash-greninja.md)
+* [🌊 Ash Greninja](pokemons-exclusives/ash-grinja.md)
 * [🧬 Exclusive Mewtwo forms](pokemons-exclusives/mewtwo-exclusive-forms.md)
 * [🌑 Shadow Lugia](pokemons-exclusives/shadow-lugia.md)
   * [✨🌑 About the Shadow Type](pokemons-exclusives/types_guides/type-shadow.md)
