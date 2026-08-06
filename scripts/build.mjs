@@ -5,6 +5,7 @@ import { marked } from 'marked';
 const root = process.cwd();
 const out = path.join(root, 'dist');
 const ignored = new Set(['.git', 'node_modules', 'dist', '.github', 'scripts']);
+const buildVersion = Date.now().toString(36);
 
 fs.rmSync(out, { recursive: true, force: true });
 fs.mkdirSync(out, { recursive: true });
@@ -26,6 +27,7 @@ function escapeHtml(value = '') {
 function stripMarkdown(value = '') {
   return value
     .replace(/<[^>]+>/g, ' ')
+    .replace(/\{%[^%]+%\}/g, ' ')
     .replace(/[`*_>#\[\](){}|~-]/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
@@ -59,7 +61,10 @@ function renderGitBookMarkdown(source, sourceDir) {
   let text = source.replace(/\{%\s*hint\s+style="([^"]+)"\s*%\}([\s\S]*?)\{%\s*endhint\s*%\}/g, (_, style, inner) => {
     const token = `@@GITBOOK_BLOCK_${blocks.length}@@`;
     marked.setOptions({ sourceDir });
-    const innerHtml = marked.parse(inner.trim());
+    let innerHtml = marked.parse(inner.trim());
+    innerHtml = innerHtml
+      .replace(/^\s*<p>\s*<\/p>\s*/i, '')
+      .replace(/\s*<p>\s*<\/p>\s*$/i, '');
     blocks.push(`<div class="hint hint-${escapeHtml(style)}">${innerHtml}</div>`);
     return `\n${token}\n`;
   });
@@ -75,8 +80,9 @@ function renderGitBookMarkdown(source, sourceDir) {
   marked.setOptions({ sourceDir });
   let html = marked.parse(text);
   blocks.forEach((block, index) => {
-    html = html.replace(`<p>@@GITBOOK_BLOCK_${index}@@</p>`, block);
-    html = html.replace(`@@GITBOOK_BLOCK_${index}@@`, block);
+    const token = `@@GITBOOK_BLOCK_${index}@@`;
+    html = html.replace(new RegExp(`<p>\\s*${token}\\s*<\\/p>`), block);
+    html = html.replace(token, block);
   });
   return html;
 }
@@ -86,7 +92,7 @@ function pageHref(relative) {
 }
 
 function parseSummary(summaryPath, prefix = '') {
-  if (!fs.existsSync(summaryPath)) return '';
+  if (!fs.existsSync(summaryPath)) return [];
   const lines = fs.readFileSync(summaryPath, 'utf8').split(/\r?\n/);
   const groups = [];
   let current = { title: 'Pages', items: [] };
@@ -102,23 +108,25 @@ function parseSummary(summaryPath, prefix = '') {
     if (!link) continue;
     const depth = Math.floor(link[1].length / 2);
     const raw = path.posix.join(prefix, link[3]);
-    current.items.push({
-      depth,
-      href: pageHref(raw),
-      label: link[2]
-    });
+    current.items.push({ depth, href: pageHref(raw), label: link[2] });
   }
   if (current.items.length) groups.push(current);
+  return groups;
+}
 
-  return groups.map((group, index) => `
-    <section class="nav-group" data-nav-group>
-      <button class="nav-section" type="button" aria-expanded="${index < 3 ? 'true' : 'false'}">
-        <span>${escapeHtml(group.title)}</span><span class="nav-chevron">⌄</span>
-      </button>
-      <ul${index < 3 ? '' : ' hidden'}>
-        ${group.items.map((item) => `<li style="--depth:${item.depth}"><a href="${item.href}">${escapeHtml(item.label)}</a></li>`).join('\n')}
-      </ul>
-    </section>`).join('\n');
+function renderNav(groups, currentPath) {
+  return groups.map((group, index) => {
+    const active = group.items.some((item) => item.href === currentPath);
+    const open = active || index < 3;
+    const items = group.items.map((item) => {
+      const activeClass = item.href === currentPath ? ' class="active" aria-current="page"' : '';
+      return `<li style="--depth:${item.depth}"><a href="${item.href}"${activeClass}>${escapeHtml(item.label)}</a></li>`;
+    }).join('\n');
+    return `<details class="nav-group"${open ? ' open' : ''}>
+      <summary><span>${escapeHtml(group.title)}</span><span class="nav-chevron" aria-hidden="true"></span></summary>
+      <ul>${items}</ul>
+    </details>`;
+  }).join('\n');
 }
 
 const markdownFiles = walk(root).filter((file) => {
@@ -133,16 +141,15 @@ const searchIndex = markdownFiles.map((file) => {
   return {
     title: stripMarkdown(title),
     href: pageHref(relative),
-    text: stripMarkdown(raw).slice(0, 5000),
+    text: stripMarkdown(raw).slice(0, 8000),
     language: relative.startsWith('fr-FR/') ? 'fr' : 'en'
   };
 });
 
-const navEn = parseSummary(path.join(root, 'SUMMARY.md'));
-const navFr = parseSummary(path.join(root, 'fr-FR', 'SUMMARY.md'), 'fr-FR');
+const navGroupsEn = parseSummary(path.join(root, 'SUMMARY.md'));
+const navGroupsFr = parseSummary(path.join(root, 'fr-FR', 'SUMMARY.md'), 'fr-FR');
 
 function pageTemplate({ title, body, nav, language, alternate }) {
-  const serializedSearch = JSON.stringify(searchIndex).replace(/</g, '\\u003c');
   return `<!doctype html>
 <html lang="${language}">
 <head>
@@ -150,97 +157,25 @@ function pageTemplate({ title, body, nav, language, alternate }) {
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#191919">
   <title>${escapeHtml(title)} | Cobblemon Realms Wiki</title>
-  <link rel="stylesheet" href="/assets/wiki.css">
+  <link rel="stylesheet" href="/assets/wiki.css?v=${buildVersion}">
+  <script defer src="/assets/wiki.js?v=${buildVersion}"></script>
 </head>
 <body>
   <header class="topbar">
-    <button id="menu" aria-label="Ouvrir le menu">☰</button>
+    <button id="menu" class="menu-button" type="button" aria-label="Ouvrir le menu">☰</button>
     <a class="brand" href="/${language === 'fr' ? 'fr-FR/' : ''}">Cobblemon Realms</a>
     <div class="search-wrap">
-      <input id="search" type="search" autocomplete="off" placeholder="${language === 'fr' ? 'Rechercher dans le wiki…' : 'Search the wiki…'}" aria-label="Rechercher">
+      <span class="search-icon" aria-hidden="true"></span>
+      <input id="search" type="search" autocomplete="off" spellcheck="false" placeholder="${language === 'fr' ? 'Rechercher dans le wiki…' : 'Search the wiki…'}" aria-label="${language === 'fr' ? 'Rechercher dans le wiki' : 'Search the wiki'}" aria-controls="search-results" aria-expanded="false">
       <kbd>Ctrl K</kbd>
-      <div id="search-results" class="search-results" hidden></div>
+      <div id="search-results" class="search-results" role="listbox" hidden></div>
     </div>
     <a class="language" href="${alternate.href}">${alternate.label}</a>
   </header>
   <div class="layout">
-    <aside id="sidebar">${nav}</aside>
+    <nav id="sidebar" aria-label="Wiki navigation">${nav}</nav>
     <main><article>${body}</article></main>
   </div>
-  <script>
-    const SEARCH_INDEX = ${serializedSearch};
-    const language = document.documentElement.lang;
-    const input = document.getElementById('search');
-    const results = document.getElementById('search-results');
-
-    document.getElementById('menu').addEventListener('click', () => document.body.classList.toggle('menu-open'));
-
-    document.querySelectorAll('[data-nav-group] > .nav-section').forEach((button) => {
-      button.addEventListener('click', () => {
-        const list = button.nextElementSibling;
-        const expanded = button.getAttribute('aria-expanded') === 'true';
-        button.setAttribute('aria-expanded', String(!expanded));
-        list.hidden = expanded;
-      });
-    });
-
-    const currentPath = location.pathname.replace(/\/$/, '/index.html');
-    document.querySelectorAll('#sidebar a').forEach((link) => {
-      const linkPath = new URL(link.href).pathname.replace(/\/$/, '/index.html');
-      if (linkPath === currentPath) {
-        link.classList.add('active');
-        const group = link.closest('[data-nav-group]');
-        if (group) {
-          group.querySelector('ul').hidden = false;
-          group.querySelector('.nav-section').setAttribute('aria-expanded', 'true');
-        }
-      }
-    });
-
-    function closeSearch() {
-      results.hidden = true;
-      results.innerHTML = '';
-    }
-
-    function runSearch() {
-      const query = input.value.trim().toLowerCase();
-      if (query.length < 2) return closeSearch();
-      const matches = SEARCH_INDEX
-        .filter((entry) => entry.language === language)
-        .map((entry) => {
-          const title = entry.title.toLowerCase();
-          const text = entry.text.toLowerCase();
-          let score = 0;
-          if (title === query) score += 100;
-          if (title.startsWith(query)) score += 50;
-          if (title.includes(query)) score += 25;
-          if (text.includes(query)) score += 5;
-          return { ...entry, score };
-        })
-        .filter((entry) => entry.score > 0)
-        .sort((a, b) => b.score - a.score)
-        .slice(0, 10);
-
-      results.innerHTML = matches.length
-        ? matches.map((entry) => '<a href="' + entry.href + '"><strong>' + entry.title + '</strong><span>' + entry.href + '</span></a>').join('')
-        : '<div class="search-empty">${language === 'fr' ? 'Aucun résultat' : 'No results'}</div>';
-      results.hidden = false;
-    }
-
-    input.addEventListener('input', runSearch);
-    input.addEventListener('focus', runSearch);
-    document.addEventListener('click', (event) => {
-      if (!event.target.closest('.search-wrap')) closeSearch();
-    });
-    document.addEventListener('keydown', (event) => {
-      if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === 'k') {
-        event.preventDefault();
-        input.focus();
-        input.select();
-      }
-      if (event.key === 'Escape') closeSearch();
-    });
-  </script>
 </body>
 </html>`;
 }
@@ -262,11 +197,12 @@ for (const file of walk(root)) {
   const firstHeading = raw.match(/^#\s+(.+)$/m)?.[1]?.replace(/\*\*/g, '') || 'Cobblemon Realms Wiki';
   const isFrench = relative.startsWith('fr-FR/');
   const outputRelative = relative.replace(/README\.md$/i, 'index.html').replace(/\.md$/i, '.html');
+  const currentPath = `/${outputRelative}`;
   const alternatePath = isFrench ? `/${outputRelative.replace(/^fr-FR\//, '')}` : `/fr-FR/${outputRelative}`;
   const html = pageTemplate({
     title: firstHeading,
     body,
-    nav: isFrench ? navFr : navEn,
+    nav: renderNav(isFrench ? navGroupsFr : navGroupsEn, currentPath),
     language: isFrench ? 'fr' : 'en',
     alternate: { href: alternatePath, label: isFrench ? 'EN' : 'FR' }
   });
@@ -276,5 +212,6 @@ for (const file of walk(root)) {
 }
 
 fs.mkdirSync(path.join(out, 'assets'), { recursive: true });
+fs.writeFileSync(path.join(out, 'search-index.json'), JSON.stringify(searchIndex));
 fs.writeFileSync(path.join(out, '.nojekyll'), '');
 console.log('Wiki generated in dist/');
