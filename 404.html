@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#191919">
+  <title>Page not found | Cobblemon Realms Wiki</title>
+  <script>
+    (() => {
+      const french = location.pathname.startsWith('/fr-FR/') || navigator.language.toLowerCase().startsWith('fr');
+      document.documentElement.lang = french ? 'fr' : 'en';
+      try {
+        const theme = localStorage.getItem('cobblemon-wiki-theme');
+        document.documentElement.dataset.theme = theme === 'light' ? 'light' : 'dark';
+      } catch {
+        document.documentElement.dataset.theme = 'dark';
+      }
+    })();
+  </script>
+  <link rel="stylesheet" href="/assets/wiki.css">
+  <link rel="stylesheet" href="/assets/wiki-enhancements.css">
+  <style>
+    body.not-found-page{min-height:100vh}.not-found-page .topbar{grid-template-columns:320px minmax(320px,520px) 1fr auto}.not-found-shell{display:grid;min-height:100vh;place-items:center;padding:120px 24px 70px}.not-found-card{width:min(760px,100%);padding:42px;border:1px solid var(--line);border-radius:18px;background:var(--surface);box-shadow:0 24px 70px rgba(0,0,0,.28);text-align:center}.not-found-code{display:inline-flex;align-items:center;gap:10px;margin-bottom:18px;color:#8ab4ff;font-size:14px;font-weight:900;letter-spacing:.16em;text-transform:uppercase}.not-found-code::before,.not-found-code::after{content:"";width:34px;height:1px;background:currentColor;opacity:.55}.not-found-card h1{margin:0 0 14px;font-size:clamp(2.3rem,7vw,4.6rem);line-height:1}.not-found-card p{max-width:590px;margin:0 auto 26px;color:var(--muted);font-size:17px}.not-found-actions{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-bottom:30px}.not-found-actions a{display:inline-flex;min-height:42px;align-items:center;padding:0 15px;border:1px solid var(--line);border-radius:9px;background:var(--surface-2);color:var(--text);font-size:13px;font-weight:800;text-decoration:none}.not-found-actions a.primary{border-color:#4c91ff;background:#3979d8;color:#fff}.not-found-links{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;padding-top:24px;border-top:1px solid var(--line)}.not-found-links a{padding:12px 8px;border-radius:8px;color:var(--muted);font-size:12px;font-weight:700;text-decoration:none}.not-found-links a:hover{background:var(--surface-2);color:var(--text)}html[data-theme="light"] .not-found-card{box-shadow:0 22px 60px rgba(31,48,73,.12)}@media(max-width:900px){.not-found-page .topbar{grid-template-columns:auto minmax(0,1fr) auto}.not-found-card{padding:32px 20px}.not-found-links{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:520px){.not-found-shell{padding:100px 14px 40px}.not-found-links{grid-template-columns:1fr}}
+  </style>
+  <script defer src="/assets/wiki.js"></script>
+  <script defer src="/assets/wiki-enhancements.js"></script>
+</head>
+<body class="not-found-page">
+  <header class="topbar">
+    <a class="brand" href="/" aria-label="Cobblemon Realms Wiki">
+      <span class="brand-copy"><strong>Cobblemon Realms <span class="brand-version">v6.0+</span></strong><small>Wiki</small></span>
+    </a>
+    <div class="search-wrap">
+      <span class="search-icon" aria-hidden="true"></span>
+      <input id="search" type="search" autocomplete="off" spellcheck="false" placeholder="Search the wiki…" aria-label="Search the wiki" aria-controls="search-results" aria-expanded="false">
+      <kbd>Ctrl K</kbd>
+      <div id="search-results" class="search-results" role="listbox" hidden></div>
+    </div>
+    <a class="language" href="/fr-FR/">FR</a>
+    <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Enable light mode" aria-pressed="false" title="Enable light mode">
+      <span class="theme-icon theme-icon-sun" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.93 4.93l1.42 1.42M17.65 17.65l1.42 1.42M2 12h2M20 12h2M4.93 19.07l1.42-1.42M17.65 6.35l1.42-1.42"></path></svg></span>
+      <span class="theme-icon theme-icon-moon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5 8.5 8.5 0 1 0 20.5 14.2Z"></path></svg></span>
+    </button>
+  </header>
+  <main class="not-found-shell">
+    <section class="not-found-card">
+      <div class="not-found-code">Error 404</div>
+      <h1 id="not-found-title">Page not found</h1>
+      <p id="not-found-description">This page may have moved, been renamed, or never existed. Search the wiki or return to a verified guide.</p>
+      <div class="not-found-actions">
+        <a id="not-found-home" class="primary" href="/">Return home</a>
+        <a id="not-found-report" href="/report-a-bug">Report a broken link</a>
+      </div>
+      <div class="not-found-links">
+        <a id="not-found-install" href="/installation">Installation</a>
+        <a id="not-found-start" href="/getting-started">Getting started</a>
+        <a id="not-found-faq" href="/faq">FAQ</a>
+        <a id="not-found-history" href="/version-history">Version history</a>
+      </div>
+    </section>
+  </main>
+  <script>
+    (() => {
+      const french = document.documentElement.lang === 'fr';
+      const prefix = french ? '/fr-FR' : '';
+      const content = french ? {
+        title: 'Page introuvable',
+        description: 'Cette page a peut-être été déplacée, renommée ou n’a jamais existé. Recherchez dans le wiki ou ouvrez un guide vérifié.',
+        home: 'Retour à l’accueil',
+        report: 'Signaler un lien cassé',
+        installation: 'Installation',
+        start: 'Premiers pas',
+        faq: 'FAQ',
+        history: 'Historique des versions',
+        placeholder: 'Rechercher dans le wiki…',
+        searchLabel: 'Rechercher dans le wiki'
+      } : {
+        title: 'Page not found',
+        description: 'This page may have moved, been renamed, or never existed. Search the wiki or return to a verified guide.',
+        home: 'Return home',
+        report: 'Report a broken link',
+        installation: 'Installation',
+        start: 'Getting started',
+        faq: 'FAQ',
+        history: 'Version history',
+        placeholder: 'Search the wiki…',
+        searchLabel: 'Search the wiki'
+      };
+
+      document.title = `${content.title} | Cobblemon Realms Wiki`;
+      document.getElementById('not-found-title').textContent = content.title;
+      document.getElementById('not-found-description').textContent = content.description;
+      document.getElementById('not-found-home').textContent = content.home;
+      document.getElementById('not-found-report').textContent = content.report;
+      document.getElementById('not-found-install').textContent = content.installation;
+      document.getElementById('not-found-start').textContent = content.start;
+      document.getElementById('not-found-faq').textContent = content.faq;
+      document.getElementById('not-found-history').textContent = content.history;
+      document.getElementById('not-found-home').href = `${prefix}/`;
+      document.getElementById('not-found-report').href = `${prefix}/report-a-bug`;
+      document.getElementById('not-found-install').href = `${prefix}/installation`;
+      document.getElementById('not-found-start').href = `${prefix}/getting-started`;
+      document.getElementById('not-found-faq').href = `${prefix}/faq`;
+      document.getElementById('not-found-history').href = `${prefix}/version-history`;
+      const search = document.getElementById('search');
+      search.placeholder = content.placeholder;
+      search.setAttribute('aria-label', content.searchLabel);
+      const languageLink = document.querySelector('.language');
+      languageLink.textContent = french ? 'EN' : 'FR';
+      languageLink.href = french ? '/' : '/fr-FR/';
+    })();
+  </script>
+</body>
+</html>
