@@ -119,6 +119,12 @@ async function getMinecraftServerStats(request, context) {
   });
 }
 
+class BodyScriptInjector {
+  element(element) {
+    element.append('<script src="/assets/server-icon-fix.js?v=1"></script>', { html: true });
+  }
+}
+
 export default {
   async fetch(request, env, context) {
     const url = new URL(request.url);
@@ -138,6 +144,14 @@ export default {
       return getMinecraftServerStats(request, context);
     }
 
-    return env.ASSETS.fetch(request);
+    const response = await env.ASSETS.fetch(request);
+    const contentType = response.headers.get('content-type') || '';
+    if (contentType.includes('text/html')) {
+      return new HTMLRewriter()
+        .on('body', new BodyScriptInjector())
+        .transform(response);
+    }
+
+    return response;
   }
 };
