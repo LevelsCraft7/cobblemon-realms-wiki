@@ -10,6 +10,46 @@
   const progress = document.querySelector('#reading-progress span');
   const themeKey = 'cobblemon-wiki-theme';
 
+  function installVisualFixes() {
+    const style = document.createElement('style');
+    style.dataset.wikiVisualFixes = 'true';
+    style.textContent = `
+      .brand-logo{display:none!important}
+      .brand-version{display:inline-flex;align-items:center;margin-left:8px;padding:3px 7px;border:1px solid rgba(76,145,255,.4);border-radius:999px;background:rgba(76,145,255,.12);color:#8ab4ff;font-size:10px;font-weight:850;letter-spacing:.025em;line-height:1;text-transform:none;vertical-align:middle}
+      html[data-theme="light"] .brand-version{border-color:rgba(40,111,219,.32);background:rgba(40,111,219,.09);color:#245fae}
+
+      html[data-theme="light"] .discord-badge{border-color:rgba(88,101,242,.58)!important;background:linear-gradient(180deg,#f0f1ff,#e1e5ff)!important;color:#252b61!important;box-shadow:inset 0 1px 0 rgba(255,255,255,.92),0 3px 10px rgba(68,78,170,.1)!important}
+      html[data-theme="light"] .discord-badge:hover{border-color:rgba(72,84,220,.82)!important;background:linear-gradient(180deg,#e8ebff,#d8ddff)!important}
+      html[data-theme="light"] .discord-badge .community-copy strong{color:#252b61!important}
+      html[data-theme="light"] .discord-badge .community-copy small{color:#535b8f!important}
+      html[data-theme="light"] .discord-icon{color:#5865f2!important}
+
+      html[data-theme="light"] .curseforge-badge{border-color:rgba(225,79,35,.58)!important;background:linear-gradient(180deg,#fff4ef,#ffe4d8)!important;color:#682c1c!important;box-shadow:inset 0 1px 0 rgba(255,255,255,.94),0 3px 10px rgba(176,65,31,.1)!important}
+      html[data-theme="light"] .curseforge-badge:hover{border-color:rgba(217,69,24,.82)!important;background:linear-gradient(180deg,#ffede5,#ffd9c9)!important}
+      html[data-theme="light"] .curseforge-badge .community-copy strong{color:#682c1c!important}
+      html[data-theme="light"] .curseforge-badge .community-copy small{color:#875343!important}
+
+      html[data-theme="light"] .server-badge{border-color:rgba(20,150,103,.62)!important;background:linear-gradient(180deg,#ecfcf5,#d8f6e9)!important;color:#145c43!important;box-shadow:inset 0 1px 0 rgba(255,255,255,.94),0 3px 10px rgba(22,128,91,.1)!important}
+      html[data-theme="light"] .server-badge:hover{border-color:rgba(12,132,88,.86)!important;background:linear-gradient(180deg,#e3faef,#cbf1e0)!important}
+      html[data-theme="light"] .server-badge .community-copy strong{color:#145c43!important}
+      html[data-theme="light"] .server-badge .community-copy small{color:#377762!important}
+      html[data-theme="light"] .server-icon{border-color:rgba(20,117,84,.38)!important}
+      html[data-theme="light"] .community-divider{color:#818a98!important}
+    `;
+    document.head.appendChild(style);
+
+    document.querySelector('.brand-logo')?.remove();
+    const brandTitle = document.querySelector('.brand-copy strong');
+    if (brandTitle && !brandTitle.querySelector('.brand-version')) {
+      const version = document.createElement('span');
+      version.className = 'brand-version';
+      version.textContent = 'v6.0+';
+      brandTitle.appendChild(version);
+    }
+  }
+
+  installVisualFixes();
+
   function currentTheme() {
     return root.dataset.theme === 'light' ? 'light' : 'dark';
   }
