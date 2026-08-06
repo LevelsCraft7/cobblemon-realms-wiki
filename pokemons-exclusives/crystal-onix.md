@@ -37,10 +37,12 @@
 
 ### 📍 Location
 
-| 🌍 Biome | 🌙 Condition |
-|---|---|
-| Overworld | Y ≤ 40 / Light Level ≤ 7 (Ultra Rare) |
-| Dripstone Caves | Near diamond blocks (Ultra Rare) |
+| 🌍 Dimension / Biome | 🏷️ Tag or Biome | 🌙 Condition |
+|---|---|---|
+| Overworld | `#cobblemon:is_overworld` | Sky Light ≤ 7, excluding Deep Dark biomes (Rare, Level 5–18) |
+| Overworld Caves and Mountains | `#cobblemon:is_cave`, `#cobblemon:is_dripstone`, or `#cobblemon:is_mountain` | Y ≤ 40 and Sky Light ≤ 7, excluding Deep Dark biomes (Ultra Rare, Level 5–18) |
+| Dripstone Caves | `minecraft:dripstone_caves` | Underground near a Diamond Block (Ultra Rare, Level 5–18) |
+| The End | `#cobblemon:end/is_crystal` | Crystal biomes in the End (Ultra Rare, Level 5–18) |
 
 ---
 
