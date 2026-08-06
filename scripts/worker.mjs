@@ -134,7 +134,7 @@ class HeadStylesheetInjector {
 
 class BodyScriptInjector {
   element(element) {
-    element.append('<script src="/assets/server-icon-fix.js?v=3"></script>', { html: true });
+    element.append('<script src="/assets/server-icon-fix.js?v=4"></script>', { html: true });
   }
 }
 
