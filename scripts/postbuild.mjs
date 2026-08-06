@@ -1,10 +1,31 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import { execFileSync } from 'node:child_process';
 
 const root = process.cwd();
 const out = path.join(root, 'dist');
 const siteOrigin = 'https://wiki.cobblemon-realms.com';
 const assetVersion = Date.now().toString(36);
+
+function resolveCommitSha() {
+  const environmentSha = process.env.CF_PAGES_COMMIT_SHA
+    || process.env.CLOUDFLARE_COMMIT_SHA
+    || process.env.GITHUB_SHA;
+  if (environmentSha) return environmentSha;
+
+  try {
+    return execFileSync('git', ['rev-parse', 'HEAD'], {
+      cwd: root,
+      encoding: 'utf8',
+      stdio: ['ignore', 'pipe', 'ignore']
+    }).trim();
+  } catch {
+    return 'unknown';
+  }
+}
+
+const commitSha = resolveCommitSha();
+const builtAt = new Date().toISOString();
 
 function walk(dir) {
   if (!fs.existsSync(dir)) return [];
@@ -42,6 +63,7 @@ for (const file of htmlFiles) {
 
   const headAssets = [
     `<link rel="canonical" href="${canonicalUrl}">`,
+    `<meta name="wiki-build" content="${commitSha}">`,
     '<link rel="icon" href="/assets/cobblemon-realms-server-icon.svg" type="image/svg+xml">',
     '<link rel="apple-touch-icon" href="/assets/cobblemon-realms-server-icon.svg">',
     '<link rel="manifest" href="/site.webmanifest">',
@@ -69,4 +91,16 @@ const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://w
 
 fs.writeFileSync(path.join(out, 'sitemap.xml'), sitemap);
 fs.writeFileSync(path.join(out, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${siteOrigin}/sitemap.xml\n`);
-console.log(`SEO and interface enhancements added to ${htmlFiles.length} pages.`);
+fs.writeFileSync(path.join(out, 'build-info.json'), JSON.stringify({
+  commit: commitSha,
+  builtAt,
+  features: [
+    'article-pagination',
+    'smart-search',
+    'technical-badges',
+    'custom-404',
+    'version-history',
+    'anonymous-analytics'
+  ]
+}, null, 2));
+console.log(`SEO and interface enhancements added to ${htmlFiles.length} pages for ${commitSha}.`);
