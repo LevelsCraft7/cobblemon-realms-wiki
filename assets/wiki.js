@@ -35,7 +35,9 @@
     const links = [...results.querySelectorAll('a')];
     if (!links.length) return;
     activeIndex = Math.max(0, Math.min(nextIndex, links.length - 1));
-    links.forEach((link, indexValue) => link.classList.toggle('is-active', indexValue === activeIndex));
+    links.forEach((link, indexValue) => {
+      link.classList.toggle('is-active', indexValue === activeIndex);
+    });
     links[activeIndex].scrollIntoView({ block: 'nearest' });
   }
 
@@ -129,7 +131,7 @@
     if (document.querySelector('link[data-community-badges]')) return;
     const stylesheet = document.createElement('link');
     stylesheet.rel = 'stylesheet';
-    stylesheet.href = '/assets/discord.css?v=server-status-1';
+    stylesheet.href = '/assets/discord.css?v=server-status-2';
     stylesheet.dataset.communityBadges = 'true';
     document.head.appendChild(stylesheet);
   }
@@ -157,7 +159,9 @@
       id: 'discord-badge',
       className: 'discord-badge',
       href: DISCORD_URL,
-      ariaLabel: language === 'fr' ? 'Rejoindre le Discord Cobblemon Realms' : 'Join the Cobblemon Realms Discord',
+      ariaLabel: language === 'fr'
+        ? 'Rejoindre le Discord Cobblemon Realms'
+        : 'Join the Cobblemon Realms Discord',
       html: `
         <svg class="community-icon discord-icon" viewBox="0 0 24 24" aria-hidden="true">
           <path fill="currentColor" d="M19.54 5.34A16.3 16.3 0 0 0 15.44 4l-.5 1.02a15.1 15.1 0 0 0-5.86 0L8.56 4a16.5 16.5 0 0 0-4.1 1.35C1.87 9.2 1.17 12.96 1.52 16.67a16.7 16.7 0 0 0 5.03 2.55l1.23-1.68c-.67-.25-1.3-.56-1.9-.93l.46-.36c3.67 1.69 7.65 1.69 11.28 0l.47.36c-.6.37-1.24.69-1.9.94l1.22 1.67a16.6 16.6 0 0 0 5.04-2.55c.42-4.3-.72-8.03-2.91-11.33ZM8.5 14.44c-1.1 0-2-1.01-2-2.25s.88-2.26 2-2.26c1.12 0 2.02 1.02 2 2.26 0 1.24-.88 2.25-2 2.25Zm7 0c-1.1 0-2-1.01-2-2.25s.88-2.26 2-2.26c1.12 0 2.02 1.02 2 2.26 0 1.24-.88 2.25-2 2.25Z"/>
@@ -188,8 +192,12 @@
         const response = await fetchWithTimeout(endpoint);
         if (!response.ok) continue;
         const data = await response.json();
-        const online = data.online ?? data.approximate_presence_count ?? data.guild?.approximate_presence_count;
-        const members = data.members ?? data.approximate_member_count ?? data.guild?.approximate_member_count;
+        const online = data.online
+          ?? data.approximate_presence_count
+          ?? data.guild?.approximate_presence_count;
+        const members = data.members
+          ?? data.approximate_member_count
+          ?? data.guild?.approximate_member_count;
         if (!Number.isFinite(online) || !Number.isFinite(members)) continue;
 
         const formatter = new Intl.NumberFormat(language === 'fr' ? 'fr-FR' : 'en-US');
@@ -215,7 +223,9 @@
       id: 'curseforge-badge',
       className: 'curseforge-badge',
       href: 'https://www.curseforge.com/minecraft/modpacks/cobblemon-realms',
-      ariaLabel: language === 'fr' ? 'Voir Cobblemon Realms sur CurseForge' : 'View Cobblemon Realms on CurseForge',
+      ariaLabel: language === 'fr'
+        ? 'Voir Cobblemon Realms sur CurseForge'
+        : 'View Cobblemon Realms on CurseForge',
       html: `
         <span class="community-icon curseforge-icon" aria-hidden="true">CF</span>
         <span class="community-copy curseforge-copy">
@@ -267,9 +277,7 @@
         ? 'Voir le statut du serveur officiel et rejoindre le Discord'
         : 'View official server status and join Discord',
       html: `
-        <svg class="community-icon server-icon" viewBox="0 0 24 24" aria-hidden="true">
-          <path fill="currentColor" d="M4 3h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm0 11h16a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2Zm2-8a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3Zm0 10.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3ZM10 7h8v1h-8V7Zm0 10h8v1h-8v-1Z"/>
-        </svg>
+        <span class="community-icon server-icon" aria-hidden="true"></span>
         <span class="community-copy server-copy">
           <strong>${language === 'fr' ? 'Serveur officiel' : 'Official Server'}</strong>
           <small id="server-stats">
@@ -286,6 +294,7 @@
   }
 
   async function loadServerStats(badge, language) {
+    badge.classList.add('is-checking');
     try {
       const response = await fetchWithTimeout('/api/server', 8000);
       if (!response.ok) throw new Error(`Server status HTTP ${response.status}`);
@@ -298,9 +307,11 @@
       const statusLabel = document.getElementById('server-status-label');
       const onlineTarget = document.getElementById('server-online');
       const maxTarget = document.getElementById('server-max');
-      if (statusLabel) statusLabel.textContent = isOnline
-        ? (language === 'fr' ? 'En ligne' : 'Online')
-        : (language === 'fr' ? 'Hors ligne' : 'Offline');
+      if (statusLabel) {
+        statusLabel.textContent = isOnline
+          ? (language === 'fr' ? 'En ligne' : 'Online')
+          : (language === 'fr' ? 'Hors ligne' : 'Offline');
+      }
       if (onlineTarget) onlineTarget.textContent = formatter.format(playerOnline);
       if (maxTarget) maxTarget.textContent = formatter.format(playerMax);
 
