@@ -1,1 +1,298 @@
-.topbar{grid-template-columns:320px minmax(160px,1fr) auto auto auto auto;gap:14px}.community-badge{display:flex;align-items:center;gap:9px;min-width:170px;height:42px;padding:0 12px;border:1px solid transparent;border-radius:12px;color:#f7f7fb;text-decoration:none;box-shadow:inset 0 1px 0 rgba(255,255,255,.05);transition:transform .15s ease,border-color .15s ease,background .15s ease,box-shadow .15s ease}.community-badge:hover{transform:translateY(-1px);color:#fff}.community-icon{width:22px;height:22px;flex:0 0 22px}.community-copy{display:flex;min-width:0;flex-direction:column;gap:2px;line-height:1}.community-copy strong{font-size:13px;font-weight:850;letter-spacing:.01em}.community-copy small{display:flex;align-items:center;gap:5px;color:#b8bccd;font-size:10px;font-weight:650;white-space:nowrap}.community-divider{color:#686f88}.discord-badge{border-color:rgba(130,142,255,.34);background:linear-gradient(180deg,rgba(88,101,242,.2),rgba(88,101,242,.11))}.discord-badge:hover{border-color:rgba(142,153,255,.68);background:linear-gradient(180deg,rgba(88,101,242,.3),rgba(88,101,242,.18))}.discord-icon{color:#8d98ff}.discord-online-part{display:inline-flex;align-items:center;gap:4px}.discord-online-part i{width:6px;height:6px;border-radius:50%;background:#23d18b;box-shadow:0 0 0 3px rgba(35,209,139,.12)}.discord-badge.is-fallback{min-width:150px}.discord-badge.is-fallback .community-copy small{color:#c9ccdc}.curseforge-badge{border-color:rgba(241,100,54,.35);background:linear-gradient(180deg,rgba(241,100,54,.19),rgba(241,100,54,.1))}.curseforge-badge:hover{border-color:rgba(255,126,82,.7);background:linear-gradient(180deg,rgba(241,100,54,.29),rgba(241,100,54,.17))}.curseforge-icon{position:relative;display:grid;width:24px;height:24px;flex-basis:24px;place-items:center;overflow:hidden;border:1px solid rgba(255,255,255,.78);border-radius:7px;background:#fff;color:transparent;font-size:0;box-shadow:0 2px 7px rgba(0,0,0,.28),inset 0 0 0 1px rgba(0,0,0,.05)}.curseforge-icon::after{content:"";position:absolute;inset:2px;background:url("https://www.curseforge.com/favicon.ico") center/18px 18px no-repeat}.curseforge-copy small{color:#c7b5ae}.curseforge-badge.is-fallback{min-width:150px}.curseforge-badge.is-fallback .community-copy small{color:#d4c2bc}.server-badge{border-color:rgba(100,180,140,.34);background:linear-gradient(180deg,rgba(35,125,82,.19),rgba(35,125,82,.09))}.server-badge:hover{border-color:rgba(87,210,145,.66);background:linear-gradient(180deg,rgba(35,145,91,.28),rgba(35,125,82,.16))}.server-icon{color:#75d8a4}.server-state{display:inline-flex;align-items:center;gap:5px}.server-state i{width:7px;height:7px;border-radius:50%;background:#999;box-shadow:0 0 0 3px rgba(153,153,153,.11);transition:background .15s ease,box-shadow .15s ease}.server-badge.is-online .server-state i{background:#23d18b;box-shadow:0 0 0 3px rgba(35,209,139,.13)}.server-badge.is-offline{border-color:rgba(226,83,83,.35);background:linear-gradient(180deg,rgba(165,45,45,.18),rgba(115,35,35,.09))}.server-badge.is-offline:hover{border-color:rgba(239,105,105,.64);background:linear-gradient(180deg,rgba(176,55,55,.27),rgba(125,39,39,.15))}.server-badge.is-offline .server-icon{color:#ef8888}.server-badge.is-offline .server-state i{background:#ef6666;box-shadow:0 0 0 3px rgba(239,102,102,.13)}.server-badge.is-unavailable{border-color:rgba(145,145,145,.32);background:linear-gradient(180deg,rgba(100,100,100,.16),rgba(75,75,75,.08))}.server-badge.is-unavailable .server-icon{color:#aaa}.server-badge.is-unavailable .server-state i{background:#8e8e8e}.server-badge.is-checking .server-state i{animation:server-pulse 1.2s ease-in-out infinite}@keyframes server-pulse{0%,100%{opacity:.45;transform:scale(.8)}50%{opacity:1;transform:scale(1.08)}}@media(max-width:1500px){.topbar{gap:10px}.community-badge{min-width:132px;padding:0 10px}.discord-members-part,.discord-divider{display:none}.community-copy strong{font-size:12px}.community-copy small{font-size:9px}}@media(max-width:1180px){.community-badge{min-width:116px}.server-badge{min-width:124px}.community-copy small{gap:3px}.server-divider{display:none}.server-copy small{gap:4px}}@media(max-width:980px){.topbar{grid-template-columns:auto minmax(0,1fr) auto auto auto auto}.brand{display:none}.menu-button{display:block}.community-badge{width:42px;min-width:42px;padding:0;justify-content:center}.community-copy{display:none}}@media(max-width:720px){.community-badge{display:none}.topbar{grid-template-columns:auto minmax(0,1fr) auto}}
+.topbar{
+  grid-template-columns:minmax(210px,250px) minmax(180px,1fr) auto auto auto auto;
+  gap:10px;
+}
+.search-wrap{
+  width:min(100%,460px);
+  min-width:0;
+  justify-self:center;
+}
+.community-badge{
+  display:flex;
+  align-items:center;
+  gap:9px;
+  min-width:160px;
+  height:42px;
+  padding:0 11px;
+  border:1px solid transparent;
+  border-radius:12px;
+  color:#f7f7fb;
+  text-decoration:none;
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.05);
+  transition:transform .15s ease,border-color .15s ease,background .15s ease,box-shadow .15s ease;
+}
+.community-badge:hover{
+  transform:translateY(-1px);
+  color:#fff;
+}
+.community-icon{
+  width:22px;
+  height:22px;
+  flex:0 0 22px;
+}
+.community-copy{
+  display:flex;
+  min-width:0;
+  flex-direction:column;
+  gap:2px;
+  line-height:1;
+}
+.community-copy strong{
+  font-size:13px;
+  font-weight:850;
+  letter-spacing:.01em;
+}
+.community-copy small{
+  display:flex;
+  align-items:center;
+  gap:5px;
+  color:#b8bccd;
+  font-size:10px;
+  font-weight:650;
+  white-space:nowrap;
+}
+.community-divider{
+  color:#686f88;
+}
+
+.discord-badge{
+  border-color:rgba(130,142,255,.34);
+  background:linear-gradient(180deg,rgba(88,101,242,.2),rgba(88,101,242,.11));
+}
+.discord-badge:hover{
+  border-color:rgba(142,153,255,.68);
+  background:linear-gradient(180deg,rgba(88,101,242,.3),rgba(88,101,242,.18));
+}
+.discord-icon{
+  color:#8d98ff;
+}
+.discord-online-part{
+  display:inline-flex;
+  align-items:center;
+  gap:4px;
+}
+.discord-online-part i{
+  width:6px;
+  height:6px;
+  border-radius:50%;
+  background:#23d18b;
+  box-shadow:0 0 0 3px rgba(35,209,139,.12);
+}
+.discord-badge.is-fallback{
+  min-width:145px;
+}
+.discord-badge.is-fallback .community-copy small{
+  color:#c9ccdc;
+}
+
+.curseforge-badge{
+  border-color:rgba(241,100,54,.35);
+  background:linear-gradient(180deg,rgba(241,100,54,.19),rgba(241,100,54,.1));
+}
+.curseforge-badge:hover{
+  border-color:rgba(255,126,82,.7);
+  background:linear-gradient(180deg,rgba(241,100,54,.29),rgba(241,100,54,.17));
+}
+.curseforge-icon{
+  position:relative;
+  display:grid;
+  width:24px;
+  height:24px;
+  flex-basis:24px;
+  place-items:center;
+  overflow:hidden;
+  border:1px solid rgba(255,255,255,.78);
+  border-radius:7px;
+  background:#fff;
+  color:transparent;
+  font-size:0;
+  box-shadow:0 2px 7px rgba(0,0,0,.28),inset 0 0 0 1px rgba(0,0,0,.05);
+}
+.curseforge-icon::after{
+  content:"";
+  position:absolute;
+  inset:2px;
+  background:url("https://www.curseforge.com/favicon.ico") center/18px 18px no-repeat;
+}
+.curseforge-copy small{
+  color:#c7b5ae;
+}
+.curseforge-badge.is-fallback{
+  min-width:145px;
+}
+.curseforge-badge.is-fallback .community-copy small{
+  color:#d4c2bc;
+}
+
+.server-badge{
+  min-width:168px;
+  border-width:1px;
+  border-color:rgba(87,129,184,.46);
+  background:linear-gradient(180deg,rgba(28,65,111,.34),rgba(14,36,69,.24));
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.06),0 0 0 1px rgba(31,69,116,.12);
+}
+.server-badge:hover{
+  border-color:rgba(111,165,230,.72);
+  background:linear-gradient(180deg,rgba(35,82,139,.43),rgba(17,45,84,.31));
+}
+.server-icon{
+  width:25px;
+  height:25px;
+  flex-basis:25px;
+  border:1px solid rgba(255,255,255,.18);
+  border-radius:7px;
+  background-image:url("data:image/png;base64,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");
+  background-position:center;
+  background-size:cover;
+  box-shadow:0 2px 7px rgba(0,0,0,.28);
+}
+.server-state{
+  display:inline-flex;
+  align-items:center;
+  gap:5px;
+}
+.server-state i{
+  width:7px;
+  height:7px;
+  border-radius:50%;
+  background:#8fa9c9;
+  box-shadow:0 0 0 3px rgba(143,169,201,.13);
+  transition:background .15s ease,box-shadow .15s ease;
+}
+.server-copy small{
+  color:#b9c7db;
+}
+.server-badge.is-online{
+  border:2px solid #2ad88f;
+  background:linear-gradient(180deg,rgba(25,151,96,.38),rgba(14,89,58,.24));
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.08),0 0 0 1px rgba(42,216,143,.12),0 0 16px rgba(35,209,139,.14);
+}
+.server-badge.is-online:hover{
+  border-color:#52eba9;
+  background:linear-gradient(180deg,rgba(29,173,109,.48),rgba(16,104,67,.31));
+}
+.server-badge.is-online .server-state i{
+  background:#2af09f;
+  box-shadow:0 0 0 3px rgba(42,240,159,.16),0 0 10px rgba(42,240,159,.48);
+}
+.server-badge.is-online .server-copy strong{
+  color:#ecfff6;
+}
+.server-badge.is-online .server-copy small{
+  color:#baf3d6;
+}
+.server-badge.is-online .server-icon{
+  border-color:rgba(82,235,169,.8);
+  box-shadow:0 2px 8px rgba(0,0,0,.32),0 0 10px rgba(42,216,143,.2);
+}
+.server-badge.is-offline{
+  border:2px solid #ef6262;
+  background:linear-gradient(180deg,rgba(172,48,48,.4),rgba(105,29,29,.25));
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.06),0 0 0 1px rgba(239,98,98,.12),0 0 16px rgba(239,98,98,.12);
+}
+.server-badge.is-offline:hover{
+  border-color:#ff8585;
+  background:linear-gradient(180deg,rgba(194,58,58,.49),rgba(122,34,34,.32));
+}
+.server-badge.is-offline .server-state i{
+  background:#ff6f6f;
+  box-shadow:0 0 0 3px rgba(255,111,111,.16),0 0 10px rgba(255,111,111,.42);
+}
+.server-badge.is-offline .server-copy strong{
+  color:#fff0f0;
+}
+.server-badge.is-offline .server-copy small{
+  color:#f3bcbc;
+}
+.server-badge.is-offline .server-icon{
+  border-color:rgba(255,133,133,.8);
+  box-shadow:0 2px 8px rgba(0,0,0,.32),0 0 10px rgba(239,98,98,.18);
+}
+.server-badge.is-unavailable{
+  border-color:rgba(145,145,145,.38);
+  background:linear-gradient(180deg,rgba(100,100,100,.18),rgba(75,75,75,.1));
+}
+.server-badge.is-unavailable .server-state i{
+  background:#9a9a9a;
+  box-shadow:0 0 0 3px rgba(154,154,154,.12);
+}
+.server-badge.is-checking .server-state i{
+  animation:server-pulse 1.2s ease-in-out infinite;
+}
+@keyframes server-pulse{
+  0%,100%{opacity:.45;transform:scale(.8)}
+  50%{opacity:1;transform:scale(1.08)}
+}
+
+@media(max-width:1500px){
+  .topbar{
+    grid-template-columns:minmax(190px,225px) minmax(160px,1fr) auto auto auto auto;
+    gap:8px;
+  }
+  .search-wrap{
+    max-width:400px;
+  }
+  .community-badge{
+    min-width:126px;
+    padding:0 9px;
+  }
+  .discord-members-part,.discord-divider{
+    display:none;
+  }
+  .community-copy strong{
+    font-size:12px;
+  }
+  .community-copy small{
+    font-size:9px;
+  }
+}
+@media(max-width:1240px){
+  .topbar{
+    grid-template-columns:minmax(170px,205px) minmax(130px,1fr) auto auto auto auto;
+  }
+  .search-wrap{
+    max-width:320px;
+  }
+  .community-badge{
+    min-width:112px;
+    padding:0 8px;
+  }
+  .server-badge{
+    min-width:120px;
+  }
+  .server-divider{
+    display:none;
+  }
+}
+@media(max-width:1040px){
+  .topbar{
+    grid-template-columns:auto minmax(0,1fr) auto auto auto auto;
+  }
+  .brand{
+    display:none;
+  }
+  .menu-button{
+    display:block;
+  }
+  .search-wrap{
+    width:100%;
+    max-width:none;
+  }
+  .community-badge{
+    width:42px;
+    min-width:42px;
+    padding:0;
+    justify-content:center;
+  }
+  .community-copy{
+    display:none;
+  }
+}
+@media(max-width:720px){
+  .community-badge{
+    display:none;
+  }
+  .topbar{
+    grid-template-columns:auto minmax(0,1fr) auto;
+  }
+}
