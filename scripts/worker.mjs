@@ -7,6 +7,11 @@ const CURSEFORGE_BADGE_URL = `https://img.shields.io/curseforge/dt/${CURSEFORGE_
 
 const MINECRAFT_SERVER_ADDRESS = '184.170.201.211:25565';
 const MINECRAFT_STATUS_URL = `https://api.mcsrvstat.us/3/${encodeURIComponent(MINECRAFT_SERVER_ADDRESS)}`;
+const ANALYTICS_EVENTS = new Set(['pageview', 'not_found', 'search_zero', 'outbound']);
+const ANALYTICS_DETAILS = new Set([
+  '', 'installation', 'server', 'pokemon', 'gameplay', 'performance', 'support', 'version', 'other',
+  'curseforge', 'discord', 'github', 'bisecthosting', 'gitbook', 'external'
+]);
 
 function json(payload, status = 200, cacheControl = 'no-store') {
   return new Response(JSON.stringify(payload), {
@@ -14,7 +19,8 @@ function json(payload, status = 200, cacheControl = 'no-store') {
     headers: {
       'content-type': 'application/json; charset=utf-8',
       'cache-control': cacheControl,
-      'access-control-allow-origin': '*'
+      'access-control-allow-origin': '*',
+      'x-content-type-options': 'nosniff'
     }
   });
 }
@@ -123,6 +129,53 @@ async function getMinecraftServerStats(request, context) {
   });
 }
 
+function sanitizeAnalyticsPath(value) {
+  if (typeof value !== 'string') return '/';
+  const path = value.slice(0, 180).replace(/[^a-zA-Z0-9_./-]/g, '');
+  return path.startsWith('/') ? path : '/';
+}
+
+async function recordAnonymousAnalytics(request, env) {
+  if (request.method !== 'POST') return json({ error: 'Method not allowed' }, 405);
+  const fetchSite = request.headers.get('sec-fetch-site');
+  if (fetchSite && !['same-origin', 'same-site', 'none'].includes(fetchSite)) {
+    return json({ error: 'Cross-site request denied' }, 403);
+  }
+
+  const contentLength = Number(request.headers.get('content-length') || 0);
+  if (contentLength > 2048) return json({ error: 'Payload too large' }, 413);
+
+  let payload;
+  try {
+    payload = await request.json();
+  } catch {
+    return json({ error: 'Invalid JSON' }, 400);
+  }
+
+  const event = typeof payload?.event === 'string' ? payload.event : '';
+  const detail = typeof payload?.detail === 'string' ? payload.detail : '';
+  const language = payload?.language === 'fr' ? 'fr' : 'en';
+  if (!ANALYTICS_EVENTS.has(event) || !ANALYTICS_DETAILS.has(detail)) {
+    return json({ error: 'Invalid analytics event' }, 400);
+  }
+
+  if (env.WIKI_ANALYTICS) {
+    env.WIKI_ANALYTICS.writeDataPoint({
+      indexes: [event],
+      blobs: [event, sanitizeAnalyticsPath(payload?.path), detail, language],
+      doubles: [1]
+    });
+  }
+
+  return new Response(null, {
+    status: 204,
+    headers: {
+      'cache-control': 'no-store',
+      'x-content-type-options': 'nosniff'
+    }
+  });
+}
+
 class HeadStylesheetInjector {
   element(element) {
     element.append(
@@ -155,6 +208,10 @@ export default {
     if (url.pathname === '/api/server') {
       if (request.method !== 'GET') return json({ error: 'Method not allowed' }, 405);
       return getMinecraftServerStats(request, context);
+    }
+
+    if (url.pathname === '/api/analytics') {
+      return recordAnonymousAnalytics(request, env);
     }
 
     const response = await env.ASSETS.fetch(request);
