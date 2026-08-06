@@ -88,7 +88,7 @@ async function getCurseForgeStats(request, context) {
 }
 
 async function getMinecraftServerStats(request, context) {
-  return getCached(request, context, '/__cache/minecraft-server-stats', async () => {
+  return getCached(request, context, '/__cache/minecraft-server-stats-v2', async () => {
     try {
       const response = await fetch(MINECRAFT_STATUS_URL, {
         headers: {
@@ -104,6 +104,9 @@ async function getMinecraftServerStats(request, context) {
       const online = status.online === true;
       const playersOnline = online && Number.isFinite(status.players?.online) ? status.players.online : 0;
       const playersMax = online && Number.isFinite(status.players?.max) ? status.players.max : 0;
+      const icon = typeof status.icon === 'string' && status.icon.startsWith('data:image/png;base64,')
+        ? status.icon
+        : null;
 
       return json({
         online,
@@ -111,6 +114,7 @@ async function getMinecraftServerStats(request, context) {
           online: playersOnline,
           max: playersMax
         },
+        icon,
         joinUrl: `https://discord.gg/${INVITE_CODE}`
       }, 200, 'public, max-age=30, s-maxage=60, stale-while-revalidate=180');
     } catch {
@@ -121,7 +125,7 @@ async function getMinecraftServerStats(request, context) {
 
 class BodyScriptInjector {
   element(element) {
-    element.append('<script src="/assets/server-icon-fix.js?v=1"></script>', { html: true });
+    element.append('<script src="/assets/server-icon-fix.js?v=2"></script>', { html: true });
   }
 }
 
