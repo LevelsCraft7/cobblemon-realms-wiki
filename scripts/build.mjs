@@ -129,6 +129,24 @@ function renderNav(groups, currentPath) {
   }).join('\n');
 }
 
+function renderCredits(language) {
+  const french = language === 'fr';
+  return `<footer class="sidebar-credits" aria-label="${french ? 'Crédits du wiki' : 'Wiki credits'}">
+    <div class="sidebar-credits-title">
+      <span class="sidebar-credits-mark" aria-hidden="true">C</span>
+      <span>${french ? 'Crédits du wiki' : 'Wiki Credits'}</span>
+    </div>
+    <div class="sidebar-credit-person">
+      <strong>LevelsFR</strong>
+      <small>${french ? 'Créateur de Cobblemon Realms' : 'Creator of Cobblemon Realms'}</small>
+    </div>
+    <div class="sidebar-credit-person">
+      <strong>FabLeKebab</strong>
+      <small>${french ? 'Gestion et contribution principale du wiki' : 'Wiki management and primary contributor'}</small>
+    </div>
+  </footer>`;
+}
+
 const markdownFiles = walk(root).filter((file) => {
   const relative = path.relative(root, file).split(path.sep).join('/');
   return relative.endsWith('.md') && relative !== 'SUMMARY.md' && relative !== 'fr-FR/SUMMARY.md';
@@ -176,7 +194,10 @@ function pageTemplate({ title, body, nav, language, alternate }) {
     <a class="language" href="${alternate.href}">${alternate.label}</a>
   </header>
   <div class="layout">
-    <nav id="sidebar" aria-label="Wiki navigation">${nav}</nav>
+    <nav id="sidebar" aria-label="Wiki navigation">
+      <div class="sidebar-navigation">${nav}</div>
+      ${renderCredits(language)}
+    </nav>
     <main><article>${body}</article></main>
   </div>
 </body>
