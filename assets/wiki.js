@@ -113,28 +113,44 @@
     if (event.key === 'Escape') closeSearch();
   });
 
+  async function fetchWithTimeout(url, timeout = 6000) {
+    const controller = new AbortController();
+    const timer = window.setTimeout(() => controller.abort(), timeout);
+    try {
+      return await fetch(url, { signal: controller.signal, cache: 'no-store' });
+    } finally {
+      window.clearTimeout(timer);
+    }
+  }
+
+  function ensureCommunityStylesheet() {
+    if (document.querySelector('link[data-community-badges]')) return;
+    const stylesheet = document.createElement('link');
+    stylesheet.rel = 'stylesheet';
+    stylesheet.href = '/assets/discord.css';
+    stylesheet.dataset.communityBadges = 'true';
+    document.head.appendChild(stylesheet);
+  }
+
   function installDiscordBadge() {
     const languageButton = document.querySelector('.language');
     if (!languageButton || document.getElementById('discord-badge')) return;
 
-    const stylesheet = document.createElement('link');
-    stylesheet.rel = 'stylesheet';
-    stylesheet.href = '/assets/discord.css';
-    document.head.appendChild(stylesheet);
+    ensureCommunityStylesheet();
 
     const language = document.documentElement.lang === 'fr' ? 'fr' : 'en';
     const badge = document.createElement('a');
     badge.id = 'discord-badge';
-    badge.className = 'discord-badge';
+    badge.className = 'community-badge discord-badge';
     badge.href = 'https://discord.gg/kb8NSTF45n';
     badge.target = '_blank';
     badge.rel = 'noopener noreferrer';
     badge.setAttribute('aria-label', language === 'fr' ? 'Rejoindre le Discord Cobblemon Realms' : 'Join the Cobblemon Realms Discord');
     badge.innerHTML = `
-      <svg class="discord-icon" viewBox="0 0 24 24" aria-hidden="true">
+      <svg class="community-icon discord-icon" viewBox="0 0 24 24" aria-hidden="true">
         <path fill="currentColor" d="M19.54 5.34A16.3 16.3 0 0 0 15.44 4l-.5 1.02a15.1 15.1 0 0 0-5.86 0L8.56 4a16.5 16.5 0 0 0-4.1 1.35C1.87 9.2 1.17 12.96 1.52 16.67a16.7 16.7 0 0 0 5.03 2.55l1.23-1.68c-.67-.25-1.3-.56-1.9-.93l.46-.36c3.67 1.69 7.65 1.69 11.28 0l.47.36c-.6.37-1.24.69-1.9.94l1.22 1.67a16.6 16.6 0 0 0 5.04-2.55c.42-4.3-.72-8.03-2.91-11.33ZM8.5 14.44c-1.1 0-2-1.01-2-2.25s.88-2.26 2-2.26c1.12 0 2.02 1.02 2 2.26 0 1.24-.88 2.25-2 2.25Zm7 0c-1.1 0-2-1.01-2-2.25s.88-2.26 2-2.26c1.12 0 2.02 1.02 2 2.26 0 1.24-.88 2.25-2 2.25Z"/>
       </svg>
-      <span class="discord-copy">
+      <span class="community-copy discord-copy">
         <strong>Discord</strong>
         <small id="discord-stats">
           <span class="discord-online-part"><i></i><span id="discord-online">...</span> ${language === 'fr' ? 'en ligne' : 'online'}</span>
@@ -146,16 +162,6 @@
     languageButton.parentNode.insertBefore(badge, languageButton);
     loadDiscordStats(badge, language);
     window.setInterval(() => loadDiscordStats(badge, language), 300000);
-  }
-
-  async function fetchWithTimeout(url, timeout = 6000) {
-    const controller = new AbortController();
-    const timer = window.setTimeout(() => controller.abort(), timeout);
-    try {
-      return await fetch(url, { signal: controller.signal, cache: 'no-store' });
-    } finally {
-      window.clearTimeout(timer);
-    }
   }
 
   async function loadDiscordStats(badge, language) {
@@ -190,5 +196,60 @@
     badge.classList.add('is-fallback');
   }
 
+  function installCurseForgeBadge() {
+    const languageButton = document.querySelector('.language');
+    if (!languageButton || document.getElementById('curseforge-badge')) return;
+
+    ensureCommunityStylesheet();
+
+    const language = document.documentElement.lang === 'fr' ? 'fr' : 'en';
+    const badge = document.createElement('a');
+    badge.id = 'curseforge-badge';
+    badge.className = 'community-badge curseforge-badge';
+    badge.href = 'https://www.curseforge.com/minecraft/modpacks/cobblemon-realms';
+    badge.target = '_blank';
+    badge.rel = 'noopener noreferrer';
+    badge.setAttribute('aria-label', language === 'fr' ? 'Voir Cobblemon Realms sur CurseForge' : 'View Cobblemon Realms on CurseForge');
+    badge.innerHTML = `
+      <span class="community-icon curseforge-icon" aria-hidden="true">CF</span>
+      <span class="community-copy curseforge-copy">
+        <strong>CurseForge</strong>
+        <small id="curseforge-stats"><span id="curseforge-downloads">...</span> ${language === 'fr' ? 'téléchargements' : 'downloads'}</small>
+      </span>`;
+
+    languageButton.parentNode.insertBefore(badge, languageButton);
+    loadCurseForgeStats(badge, language);
+    window.setInterval(() => loadCurseForgeStats(badge, language), 600000);
+  }
+
+  async function loadCurseForgeStats(badge, language) {
+    const endpoints = ['/api/curseforge', 'https://img.shields.io/curseforge/dt/1175360.json'];
+
+    for (const endpoint of endpoints) {
+      try {
+        const response = await fetchWithTimeout(endpoint);
+        if (!response.ok) continue;
+        const data = await response.json();
+        const downloads = data.downloads ?? data.message;
+        if (typeof downloads !== 'string' || !downloads.trim()) continue;
+
+        const formatted = downloads.trim();
+        const target = document.getElementById('curseforge-downloads');
+        if (target) target.textContent = formatted;
+        badge.classList.add('is-loaded');
+        badge.classList.remove('is-fallback');
+        badge.title = `${formatted} ${language === 'fr' ? 'téléchargements' : 'downloads'}`;
+        return;
+      } catch (error) {
+        console.debug('CurseForge stats endpoint unavailable:', endpoint, error);
+      }
+    }
+
+    const stats = document.getElementById('curseforge-stats');
+    if (stats) stats.textContent = language === 'fr' ? 'Voir le modpack' : 'View modpack';
+    badge.classList.add('is-fallback');
+  }
+
   installDiscordBadge();
+  installCurseForgeBadge();
 })();
