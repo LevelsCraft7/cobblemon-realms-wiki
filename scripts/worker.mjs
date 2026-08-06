@@ -126,15 +126,9 @@ async function getMinecraftServerStats(request, context) {
 class HeadStylesheetInjector {
   element(element) {
     element.append(
-      '<link rel="stylesheet" href="/assets/discord.css?v=community-badges-3" data-community-badges="true">',
+      '<link rel="stylesheet" href="/assets/discord.css?v=community-badges-4" data-community-badges="true">',
       { html: true }
     );
-  }
-}
-
-class BodyScriptInjector {
-  element(element) {
-    element.append('<script src="/assets/server-icon-fix.js?v=4"></script>', { html: true });
   }
 }
 
@@ -162,7 +156,6 @@ export default {
     if (contentType.includes('text/html')) {
       return new HTMLRewriter()
         .on('head', new HeadStylesheetInjector())
-        .on('body', new BodyScriptInjector())
         .transform(response);
     }
 
