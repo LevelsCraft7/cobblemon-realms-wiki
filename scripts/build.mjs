@@ -7,6 +7,29 @@ const root = process.cwd();
 const out = path.join(root, 'dist');
 const ignored = new Set(['.git', 'node_modules', 'dist', '.github', 'scripts']);
 const buildVersion = Date.now().toString(36);
+let interactiveBlockCounter = 0;
+
+const emojiShortcodes = new Map([
+  ['inbox_tray', '📥'],
+  ['mag_right', '🔎'],
+  ['package', '📦'],
+  ['hourglass_flowing_sand', '⏳'],
+  ['rocket', '🚀'],
+  ['apple', '🍎'],
+  ['coffee', '☕'],
+  ['warning', '⚠️'],
+  ['gift', '🎁'],
+  ['desktop_computer', '🖥️'],
+  ['computer', '💻'],
+  ['floppy_disk', '💾'],
+  ['globe_with_meridians', '🌐'],
+  ['hammer_and_wrench', '🛠️'],
+  ['file_folder', '📁'],
+  ['open_file_folder', '📂'],
+  ['page_facing_up', '📄'],
+  ['wastebasket', '🗑️'],
+  ['stop_sign', '🛑']
+]);
 
 fs.rmSync(out, { recursive: true, force: true });
 fs.mkdirSync(out, { recursive: true });
@@ -34,6 +57,10 @@ function stripMarkdown(value = '') {
     .trim();
 }
 
+function replaceEmojiShortcodes(value = '') {
+  return value.replace(/:([a-z0-9_+-]+):/gi, (match, name) => emojiShortcodes.get(name.toLowerCase()) || match);
+}
+
 function normalizeHref(href, sourceDir) {
   if (/^(https?:|mailto:|#|\/\/)/i.test(href)) return href;
   const [target, hash = ''] = href.split('#');
@@ -59,24 +86,66 @@ marked.use({
 
 function renderGitBookMarkdown(source, sourceDir) {
   const blocks = [];
-  let text = source.replace(/\{%\s*hint\s+style="([^"]+)"\s*%\}([\s\S]*?)\{%\s*endhint\s*%\}/g, (_, style, inner) => {
+  let text = source;
+
+  const storeBlock = (html) => {
     const token = `@@GITBOOK_BLOCK_${blocks.length}@@`;
-    marked.setOptions({ sourceDir });
-    let innerHtml = marked.parse(inner.trim());
-    innerHtml = innerHtml
+    blocks.push(html);
+    return `\n${token}\n`;
+  };
+
+  text = text.replace(/\{%\s*hint\s+style="([^"]+)"\s*%\}([\s\S]*?)\{%\s*endhint\s*%\}/g, (_, style, inner) => {
+    const innerHtml = renderGitBookMarkdown(inner.trim(), sourceDir)
       .replace(/^\s*<p>\s*<\/p>\s*/i, '')
       .replace(/\s*<p>\s*<\/p>\s*$/i, '');
-    blocks.push(`<div class="hint hint-${escapeHtml(style)}">${innerHtml}</div>`);
-    return `\n${token}\n`;
+    return storeBlock(`<div class="hint hint-${escapeHtml(style)}">${innerHtml}</div>`);
   });
 
-  text = text.replace(/\{%\s*tabs\s*%\}|\{%\s*endtabs\s*%\}/g, '');
-  text = text.replace(/\{%\s*tab\s+title="([^"]+)"\s*%\}/g, '\n### $1\n');
-  text = text.replace(/\{%\s*endtab\s*%\}/g, '');
-  text = text.replace(/\{%\s*stepper\s*%\}|\{%\s*endstepper\s*%\}/g, '');
-  text = text.replace(/\{%\s*step\s*%\}/g, '\n<div class="step">\n');
-  text = text.replace(/\{%\s*endstep\s*%\}/g, '\n</div>\n');
+  text = text.replace(/\{%\s*tabs\s*%\}([\s\S]*?)\{%\s*endtabs\s*%\}/g, (_, inner) => {
+    const tabs = [];
+    const tabPattern = /\{%\s*tab\s+title="([^"]+)"\s*%\}([\s\S]*?)\{%\s*endtab\s*%\}/g;
+    let match;
+    while ((match = tabPattern.exec(inner)) !== null) {
+      tabs.push({ title: match[1].trim(), content: match[2].trim() });
+    }
+
+    if (!tabs.length) return inner;
+
+    const groupId = `gitbook-tabs-${interactiveBlockCounter++}`;
+    const buttons = tabs.map((tab, index) => {
+      const selected = index === 0;
+      return `<button type="button" class="gitbook-tab${selected ? ' is-active' : ''}" role="tab" id="${groupId}-tab-${index}" aria-controls="${groupId}-panel-${index}" aria-selected="${selected}" tabindex="${selected ? '0' : '-1'}">${escapeHtml(tab.title)}</button>`;
+    }).join('');
+
+    const panels = tabs.map((tab, index) => {
+      const selected = index === 0;
+      const content = renderGitBookMarkdown(tab.content, sourceDir);
+      return `<section class="gitbook-tab-panel${selected ? ' is-active' : ''}" role="tabpanel" id="${groupId}-panel-${index}" aria-labelledby="${groupId}-tab-${index}"${selected ? '' : ' hidden'}>${content}</section>`;
+    }).join('');
+
+    return storeBlock(`<div class="gitbook-tabs" data-gitbook-tabs><div class="gitbook-tab-list" role="tablist">${buttons}</div><div class="gitbook-tab-panels">${panels}</div></div>`);
+  });
+
+  text = text.replace(/\{%\s*stepper\s*%\}([\s\S]*?)\{%\s*endstepper\s*%\}/g, (_, inner) => {
+    const steps = [];
+    const stepPattern = /\{%\s*step\s*%\}([\s\S]*?)\{%\s*endstep\s*%\}/g;
+    let match;
+    while ((match = stepPattern.exec(inner)) !== null) {
+      steps.push(match[1].trim());
+    }
+
+    if (!steps.length) return inner;
+
+    const items = steps.map((step, index) => {
+      const content = renderGitBookMarkdown(step, sourceDir);
+      return `<div class="gitbook-step"><span class="gitbook-step-number" aria-hidden="true">${index + 1}</span><div class="gitbook-step-content">${content}</div></div>`;
+    }).join('');
+
+    return storeBlock(`<div class="gitbook-stepper">${items}</div>`);
+  });
+
   text = text.replace(/\{%\s*[^%]+\s*%\}/g, '');
+  text = replaceEmojiShortcodes(text);
 
   marked.setOptions({ sourceDir });
   let html = marked.parse(text);
@@ -217,8 +286,7 @@ function pageTemplate({ title, body, nav, language, alternate, updatedIso, updat
   <header class="topbar">
     <button id="menu" class="menu-button" type="button" aria-label="${french ? 'Ouvrir le menu' : 'Open menu'}">☰</button>
     <a class="brand" href="/${french ? 'fr-FR/' : ''}" aria-label="Cobblemon Realms Wiki">
-      <img class="brand-logo" src="/assets/cobblemon-realms-server-icon.svg?v=brand-1" width="34" height="34" alt="">
-      <span class="brand-copy"><strong>Cobblemon Realms</strong><small>Wiki</small></span>
+      <span class="brand-copy"><strong>Cobblemon Realms <span class="brand-version">v6.0+</span></strong><small>Wiki</small></span>
     </a>
     <div class="search-wrap">
       <span class="search-icon" aria-hidden="true"></span>
