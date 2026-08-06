@@ -1,124 +1,220 @@
-# 🗂️ Version History
+# 🗂️ Complete Version History
 
 {% hint style="info" %}
-This page mirrors the public **Cobblemon Realms** files published on CurseForge. Release dates, release types, Minecraft versions, and highlighted changes below are taken from the official CurseForge project and file changelogs.
+This page tracks the public **Cobblemon Realms** releases published on CurseForge. It separates client releases, patches, and server packs, then summarizes the main changes documented in the official changelogs.
 {% endhint %}
 
 ---
 
-## ✅ Current Official Release
+## ✅ Current Official Status
 
-| Version | Minecraft | Loader | Published | Type |
+**Last manually verified: August 7, 2026**
+
+| Item | Version | Minecraft | Loader | Published |
 | --- | --- | --- | --- | --- |
-| **5.9.4** | 1.21.1 | NeoForge | June 14, 2026 | Release |
+| Client modpack | **5.9.4** | 1.21.1 | NeoForge | June 14, 2026 |
+| Server pack | **5.9.4b** | 1.21.1 | NeoForge | June 14, 2026 |
 
-[**Open Cobblemon Realms 5.9.4 on CurseForge →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/8249569)
+[**Open version 5.9.4 →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/8249569)
 
-Version 5.9.4 is a maintenance release focused on arena reliability, world consistency, multiplayer fixes, spawn NPC duplication cleanup, partial arena generation fixes, and additional Cobbreeding stability improvements.
+[**Browse the complete CurseForge archive →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/all)
 
 {% hint style="warning" %}
-Version **6.0** is not listed as an official release here until its public file is published on CurseForge.
+Version **6.0** will only be shown as the current official release after its public client file is published on CurseForge.
 {% endhint %}
 
 ---
 
-## 🌟 Major Release Milestones
+## 🧭 Understanding Version Names
 
-### Version 5.9
+- **Release**: file marked as stable on CurseForge.
+- **Beta**: public release still undergoing validation.
+- **HF / hf**: hotfix published after a main release.
+- **a, b, c, bis**: rebuild, patch, or revision within the same release branch.
+- **+1 / +2 on CurseForge**: associated additional files, usually a server pack or related patch.
 
-Published May 30, 2026 as a beta release.
+CurseForge currently displays **65 public entries**, and several releases also contain additional files. The timeline below identifies **57 client releases**. Official numbering is not always continuous.
 
-- Added the Gym World Tour progression
-- Added the complete Gym Arena system
-- Improved starter onboarding and spawn island guidance
-- Expanded spawns, structures, custom systems, and performance work
-
-[View the official 5.9 changelog →](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/8169072)
-
-### Version 5.8.1 Patch
-
-Published March 30, 2026.
-
-- Expanded Catch Indicator support for shiny, alpha, size, and gender information
-- Major PokéNav tracking, catalog, filtering, and interface rework
-- Fixed crashes involving Lithostitched and raids
-- Applied additional Pokémon, resource pack, and mod fixes
-
-[View the official 5.8.1 patch changelog →](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/7844110)
-
-### Version 5.6
-
-Published February 8, 2026.
-
-- Introduced a new core foundation
-- Reworked the currency system
-- Expanded raids, structures, progression, and multiplayer stability
-- Required players to convert legacy Realms Coins
-
-[View the official 5.6 changelog →](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/7591795)
-
-### Version 5.3
-
-Published January 1, 2026.
-
-- Added new custom forms and more rideable Pokémon
-- Improved performance and cleaned up several systems
-- Updated loot and spawn balancing
-- Delivered a broad wave of battle, quest, texture, and server fixes
-
-[View the official 5.3 changelog →](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/7404528)
-
-### Versions 4.9 and 4.9.1
-
-Published November 3 and November 4, 2025.
-
-- Reworked Cobbreeding with multi-egg Pastures, offline progress, breed toggles, and size support
-- Rebalanced Cobble Workers and wild encounters
-- Corrected excessive legendary summoning item drop rates in the 4.9.1 patch
-
-[View version 4.9 →](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/7183122)  
-[View patch 4.9.1 →](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/7186961)
+Unless stated otherwise, every release below targets **Minecraft 1.21.1 with NeoForge**.
 
 ---
 
-## 📅 Recent Official File Timeline
+## 📅 Complete Client Release Timeline
 
-| Version | Published | Type | Minecraft | Loader |
-| --- | --- | --- | --- | --- |
-| 5.9.4 | June 14, 2026 | Release | 1.21.1 | NeoForge |
-| 5.9.3b | June 12, 2026 | Release | 1.21.1 | NeoForge |
-| 5.9.2 | June 2, 2026 | Release | 1.21.1 | NeoForge |
-| 5.9.1 | May 31, 2026 | Release | 1.21.1 | NeoForge |
-| 5.9 | May 30, 2026 | Beta | 1.21.1 | NeoForge |
-| 5.8.2 | April 5, 2026 | Release | 1.21.1 | NeoForge |
-| 5.8.1 | March 30, 2026 | Release | 1.21.1 | NeoForge |
-| 5.8hf | March 30, 2026 | Release | 1.21.1 | NeoForge |
-| 5.7HF | March 13, 2026 | Release | 1.21.1 | NeoForge |
-| 5.6 | February 8, 2026 | Release | 1.21.1 | NeoForge |
-| 5.5 | January 22, 2026 | Release | 1.21.1 | NeoForge |
-| 5.4 | January 21, 2026 | Release | 1.21.1 | NeoForge |
-| 5.3 | January 1, 2026 | Release | 1.21.1 | NeoForge |
-| 5.2 | December 23, 2025 | Release | 1.21.1 | NeoForge |
-| 5.1 | December 10, 2025 | Release | 1.21.1 | NeoForge |
-| 5.0c | December 2, 2025 | Release | 1.21.1 | NeoForge |
-| 4.9.1 | November 4, 2025 | Release | 1.21.1 | NeoForge |
-| 4.9 | November 3, 2025 | Release | 1.21.1 | NeoForge |
-| 4.8 | October 25, 2025 | Release | 1.21.1 | NeoForge |
-| 4.7 | October 16, 2025 | Release | 1.21.1 | NeoForge |
+### 5.x Series
+
+| Version | Published | Type |
+| --- | --- | --- |
+| 5.9.4 | June 14, 2026 | Release |
+| 5.9.3b | June 12, 2026 | Release |
+| 5.9.2 | June 2, 2026 | Release |
+| 5.9.1 | May 31, 2026 | Release |
+| 5.9 | May 30, 2026 | Beta |
+| 5.8.2 | April 5, 2026 | Release |
+| 5.8.1 | March 30, 2026 | Release |
+| 5.8hf | March 30, 2026 | Hotfix |
+| 5.7HF | March 13, 2026 | Hotfix |
+| 5.6 | February 8, 2026 | Release |
+| 5.5 | January 22, 2026 | Release |
+| 5.4 | January 21, 2026 | Release |
+| 5.3 | January 1, 2026 | Release |
+| 5.2 | December 23, 2025 | Release |
+| 5.1 | December 10, 2025 | Release |
+| 5.0c | December 2, 2025 | Release |
+
+### 4.x Series
+
+| Version | Published | Type |
+| --- | --- | --- |
+| 4.9.1 | November 4, 2025 | Patch |
+| 4.9 | November 3, 2025 | Release |
+| 4.8 | October 25, 2025 | Release |
+| 4.7 | October 16, 2025 | Release |
+| 4.6 | October 7, 2025 | Release |
+| 4.5 | September 30, 2025 | Release |
+| 4.4hf2 | September 24, 2025 | Hotfix |
+| 4.4 | September 21, 2025 | Release |
+| 4.3 | September 11, 2025 | Release |
+| 4.2 | August 31, 2025 | Release |
+| 4.1 | August 24, 2025 | Release |
+| 4.0 | August 17, 2025 | Release |
+
+### 3.x Series
+
+| Version | Published | Type |
+| --- | --- | --- |
+| 3.9 | August 4, 2025 | Release |
+| 3.8a | July 26, 2025 | Revision |
+| 3.7 | July 20, 2025 | Release |
+| 3.6 | July 10, 2025 | Release |
+| 3.5 | July 5, 2025 | Release |
+| 3.4 | June 23, 2025 | Release |
+| 3.3 | June 18, 2025 | Release |
+| 3.2 | June 8, 2025 | Release |
+| 3.1 | June 2, 2025 | Release |
+| 3.0 | June 1, 2025 | Release |
+
+### 2.x Series
+
+| Version | Published | Type |
+| --- | --- | --- |
+| 2.8 | April 30, 2025 | Release |
+| 2.6 | April 14, 2025 | Release |
+| 2.5 | April 9, 2025 | Release |
+| 2.4.2 | April 2, 2025 | Patch |
+| 2.4 | April 1, 2025 | Release |
+| 2.3 | March 26, 2025 | Release |
+| 2.2 bis | March 24, 2025 | Revision |
+| 2.2 | March 20, 2025 | Release |
+| 2.1 | March 15, 2025 | Release |
+
+### 1.x Series
+
+| Version | Published | Type |
+| --- | --- | --- |
+| 1.9 | March 3, 2025 | Release |
+| 1.8 | February 25, 2025 | Release |
+| 1.7 | February 22, 2025 | Release |
+| 1.6 | February 17, 2025 | Release |
+| 1.5 | February 13, 2025 | Release |
+| 1.4 | February 5, 2025 | Release |
+| 1.3 | January 27, 2025 | Release |
+| 1.2 | January 19, 2025 | Release |
+| 1.1 | January 17, 2025 | Release |
+| 1.0 | January 12, 2025 | Initial release |
+
+---
+
+## 🌟 Major Modpack Milestones
+
+### 5.x Releases
+
+- **5.9**: Gym World Tour, complete arena system, improved starter onboarding, new spawns, structures, and optimizations.
+- **5.9.1 through 5.9.4**: stabilization of arenas, worlds, NPCs, structure placement, and Cobbreeding.
+- **5.8hf through 5.8.2**: Catch Indicator and PokéNav improvements, raid, resource, and crash fixes.
+- **5.6**: new core foundation, currency overhaul, legacy Realms Coin conversion, progression, and multiplayer stability.
+- **5.3**: new forms, additional rideable Pokémon, performance improvements, loot, and spawn balancing.
+
+Links: [5.9](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/8169072) · [5.8.1](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/7847115) · [5.6](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/7591795) · [5.3](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/7404528)
+
+### 4.x Releases
+
+- **4.9**: Cobbreeding overhaul with multiple eggs, offline progress, individual activation, and size support.
+- **4.9.1**: corrected overly common legendary summoning items.
+- **4.6**: new costumes and improvements to KO and capture chain boosters.
+- **4.5**: Raid Den evolution and Shiny Booster overhaul.
+- **4.4**: Freeroam mode, Trainer Association, expanded outbreaks, and rebalanced Alpha and wild spawns.
+- **4.4hf2**: Freeroam, quest, command, and server pack fixes.
+- **4.3**: new costumes, improved Paradox forms, Zygarde Matrix, loot, and texture updates.
+- **4.2**: 8 GB RAM recommendation, new recipe interface, Cobble Workers, and improved notifications.
+- **4.1**: Café forms, Cobble Workers automation, and performance work.
+- **4.0**: Baby Legendaries, Paradox expansion, loot overhaul, and optimizations.
+
+Links: [4.9](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/7183122) · [4.9.1](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/7186961) · [4.4](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/7020443) · [4.3](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/6987577)
+
+### 3.x Releases
+
+- **3.9**: roughly 150 species in outbreaks plus RAM, JVM, performance, and structure optimizations.
+- **3.8a**: Sandy, Mimikins, Crystal Steelix, Mega Crystal Steelix, and an Arceus overhaul.
+- **3.7**: Realms Coins, new starters, animation cleanup, textures, and music.
+- **3.6**: WonderTrade overhaul, wild aggression changes, and roughly 100 Create quests.
+- **3.5 through 3.3**: major loot, world generation, lore, interface, animation, and performance work.
+- **3.2**: new launch screen, boss bars, more than 60 rideable Pokémon, and legendary reworks.
+- **3.1**: persistent configurations, store items, and quest fixes.
+- **3.0**: major quest overhaul, Realms Store beta, breeding, Rotom forms, Mega Showdown, and new integrations.
+
+[View the official 3.7 changelog →](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/6793247)
+
+### 2.x Releases
+
+- **2.8**: Discord spawn bot, mount improvements, 54 Pokédex quests, and legendary balancing.
+- **2.6**: Zygarde progression, Necrozma forms, trainer, and spawn changes.
+- **2.5**: support for **all 1025 Pokémon**, Mass Outbreaks, JourneyMap, gyms, and chain systems.
+- **2.4**: complete French quest translation, arenas, badges, storage, starters, and PokéSmartphone.
+- **2.4.2**: targeted Entity Mimic crash fix.
+- **2.3 through 2.2 bis**: new species, loot, fossils, notifications, and progression tools.
+- **2.1**: shiny rate changed from 1/8192 to 1/4096 and level cap raised from 25 to 30.
+
+### 1.x Releases
+
+- **1.9**: wider Cobblemon chest loot integration and new world creation interface.
+- **1.8**: NeoForge update and extensive performance and crash fixes.
+- **1.7**: minimum cap raised to 25, legendary announcements, and balancing.
+- **1.6**: first public server pack, legendary quests, currency, and quest organization overhaul.
+- **1.5**: tutorial map, Myths and Legends, and Pokémon size variations.
+- **1.4**: animated inventory, Immersive Engineering, Mega Showdown, and new interface.
+- **1.3**: Pokémon sizes, roughly 70 quests, SimpleTMs, and Legends Untold Reborn.
+- **1.2**: The Aether and the first major quest lines.
+- **1.1**: NeoForge update, Eggs, Ride On, and Legendary datapack.
+- **1.0**: initial launch with Cobblemon, quests, trainers, currency, exploration, shaders, and optimizations.
+
+---
+
+## 🖥️ Server Packs
+
+A server pack is separate from the client modpack and must match the version used by players.
+
+- Current official server pack: **5.9.4b**.
+- Check **Additional Files** whenever `+1` or `+2` appears on CurseForge.
+- Some server packs include their own instructions or hotfixes.
+- Never mix client and server files from different release branches.
+
+{% hint style="danger" %}
+Incompatible client and server versions may cause connection errors, mismatched registries, missing quests, or data loss.
+{% endhint %}
+
+---
+
+## 💾 Before Every Update
+
+1. Back up the world, players, quests, configurations, and server files.
+2. Read the complete changelog for the target release.
+3. Check the instructions for the matching server pack.
+4. Confirm the Java, Minecraft, and NeoForge versions.
+5. Test a copy of the world first.
+
+Also see the [Installation Guide](installation.md) and [Report a Bug](report-a-bug.md).
 
 {% hint style="success" %}
-The full CurseForge file archive contains client files, server packs, hotfixes, and older releases. Use the official file list when you need a specific download or the complete changelog of one version.
+CurseForge remains the source of truth for release status, dates, file types, and downloads. This page provides a readable index of the public release history.
 {% endhint %}
-
-[**Open all Cobblemon Realms files on CurseForge →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/all)
-
----
-
-## 💾 Before Updating
-
-1. Back up your world, player data, server files, and configuration.
-2. Read the changelog of the version you are installing.
-3. Replace the folders requested by the official server pack instructions.
-4. Verify your Java, Minecraft, and NeoForge versions before launching.
-
-For the complete update procedure, see the [Installation Guide](installation.md).
