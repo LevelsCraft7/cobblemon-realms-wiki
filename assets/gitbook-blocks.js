@@ -1,4 +1,22 @@
 (() => {
+  function cleanTableOfContents() {
+    const toc = document.getElementById('page-toc');
+    const tocNav = toc?.querySelector('nav');
+    if (!toc || !tocNav) return;
+
+    const hiddenHeadingIds = new Set(
+      [...document.querySelectorAll('.gitbook-tab-panel h2[id], .gitbook-tab-panel h3[id]')]
+        .map((heading) => heading.id)
+    );
+
+    [...tocNav.querySelectorAll('a[href^="#"]')].forEach((link) => {
+      const id = decodeURIComponent(link.hash.slice(1));
+      if (hiddenHeadingIds.has(id)) link.remove();
+    });
+
+    if (tocNav.querySelectorAll('a').length < 2) toc.hidden = true;
+  }
+
   function initializeGitBookTabs() {
     document.querySelectorAll('[data-gitbook-tabs]').forEach((group) => {
       const tabs = [...group.querySelectorAll(':scope > .gitbook-tab-list > [role="tab"]')];
@@ -37,6 +55,8 @@
         });
       });
     });
+
+    cleanTableOfContents();
   }
 
   if (document.readyState === 'loading') {
