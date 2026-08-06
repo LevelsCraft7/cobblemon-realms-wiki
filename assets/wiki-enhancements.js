@@ -10,6 +10,25 @@
   const progress = document.querySelector('#reading-progress span');
   const themeKey = 'cobblemon-wiki-theme';
 
+  function ensureGitBookBlocks() {
+    if (!document.querySelector('link[href*="/assets/gitbook-blocks.css"]')) {
+      const stylesheet = document.createElement('link');
+      stylesheet.rel = 'stylesheet';
+      stylesheet.href = '/assets/gitbook-blocks.css?v=gitbook-reference-3';
+      stylesheet.dataset.gitbookBlocks = 'true';
+      document.head.appendChild(stylesheet);
+    }
+
+    if (!document.querySelector('script[src*="/assets/gitbook-blocks.js"]')) {
+      const script = document.createElement('script');
+      script.src = '/assets/gitbook-blocks.js?v=gitbook-reference-3';
+      script.async = false;
+      document.head.appendChild(script);
+    }
+  }
+
+  ensureGitBookBlocks();
+
   function installVisualFixes() {
     const style = document.createElement('style');
     style.dataset.wikiVisualFixes = 'true';
