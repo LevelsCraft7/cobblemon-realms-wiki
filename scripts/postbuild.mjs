@@ -55,11 +55,13 @@ for (const file of htmlFiles) {
   html = html.replace('</head>', `  ${headAssets}\n</head>`);
   fs.writeFileSync(file, html);
 
-  const updated = html.match(/<time\s+datetime="([^"]+)"/i)?.[1];
-  sitemapEntries.push({
-    url: canonicalUrl,
-    lastmod: updated && !Number.isNaN(Date.parse(updated)) ? new Date(updated).toISOString().slice(0, 10) : null
-  });
+  if (relative.split(path.sep).join('/') !== '404.html') {
+    const updated = html.match(/<time\s+datetime="([^"]+)"/i)?.[1];
+    sitemapEntries.push({
+      url: canonicalUrl,
+      lastmod: updated && !Number.isNaN(Date.parse(updated)) ? new Date(updated).toISOString().slice(0, 10) : null
+    });
+  }
 }
 
 sitemapEntries.sort((a, b) => a.url.localeCompare(b.url));
