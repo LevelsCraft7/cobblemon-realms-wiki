@@ -43,7 +43,7 @@
 ## Pokemon Exclusives
 
 * [👶 Baby Legends](pokemons-exclusives/baby-legends.md)
-* [🌊 Ash Greninja](pokemons-exclusives/ash-grinja.md)
+* [🌊 Ash Greninja](pokemons-exclusives/ash-greninja.md)
 * [🧬 Exclusive Mewtwo forms](pokemons-exclusives/mewtwo-exclusive-forms.md)
 * [🌑 Shadow Lugia](pokemons-exclusives/shadow-lugia.md)
   * [✨🌑 About the Shadow Type](pokemons-exclusives/types_guides/type-shadow.md)
