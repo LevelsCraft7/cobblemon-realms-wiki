@@ -2,15 +2,56 @@
 
 ---
 
-## 📍 Locations
+{% hint style="info" %}
+## 📘 Spawn Update
 
-| 🌍 Location | ⚙️ Condition |
+This page has been updated for the current **Modpack v6.0+**.
+
+Rotom no longer uses old structure-based or weather-based spawn rules.
+It now spawns in the **Overworld** near specific electrical or Cobblemon technology blocks.
+{% endhint %}
+
+---
+
+## 📍 Spawn Details
+
+| 🌍 Category | ✅ Current Rule |
 |---|---|
-| Woodland Mansions | Inside |
-| Ancient Cities | Redstone Room |
-| Beaches | During a thunderstorm |
-| Cobblemon Tech Structures | PC / Healer |
-| Redstone Areas | Near components |
+| Dimension | Overworld |
+| Biome Tag | `#cobblemon:is_overworld` |
+| Rarity | Rare |
+| Level Range | 20–75 |
+| Position Type | Grounded |
+| Special Requirement | Must spawn near a valid electrical or technology block |
+
+---
+
+## ⚙️ Valid Nearby Blocks
+
+<details>
+<summary><strong>🔴 Redstone and Electrical Blocks</strong></summary>
+
+- Redstone Block
+- Repeater
+- Redstone Torch
+- Daylight Detector
+- Comparator
+- Redstone Ore
+- Redstone Lamp
+- Lightning Rod
+
+</details>
+
+<details>
+<summary><strong>💻 Cobblemon Technology Blocks</strong></summary>
+
+- PC
+- Monitor
+- Healing Machine
+- Restoration Tank
+- Fossil Analyzer
+
+</details>
 
 ---
 
@@ -235,8 +276,10 @@
 {% hint style="info" %}
 ## 📝 Notes
 
-- Forms depend on the targeted appliance
-- Rotom keeps its base stats
+- Rotom spawns anywhere in the Overworld as long as the nearby block condition is met.
+- It is **not tied to a specific biome**, structure, or weather event in the current datapack.
+- Forms depend on the targeted appliance.
+- Rotom keeps its base stats.
 {% endhint %}
 
 ---
