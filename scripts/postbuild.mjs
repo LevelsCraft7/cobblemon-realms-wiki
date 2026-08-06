@@ -7,6 +7,31 @@ const out = path.join(root, 'dist');
 const siteOrigin = 'https://wiki.cobblemon-realms.com';
 const assetVersion = Date.now().toString(36);
 
+function runGit(args) {
+  return execFileSync('git', args, {
+    cwd: root,
+    encoding: 'utf8',
+    stdio: ['ignore', 'pipe', 'ignore']
+  }).trim();
+}
+
+function ensureCompleteGitHistory() {
+  try {
+    const shallow = runGit(['rev-parse', '--is-shallow-repository']);
+    if (shallow !== 'true') return true;
+
+    try {
+      runGit(['fetch', '--unshallow', '--quiet', 'origin', 'main']);
+    } catch {
+      runGit(['fetch', '--quiet', '--depth=1000', 'origin', 'main']);
+    }
+
+    return runGit(['rev-parse', '--is-shallow-repository']) === 'false';
+  } catch {
+    return false;
+  }
+}
+
 function resolveCommitSha() {
   const environmentSha = process.env.CF_PAGES_COMMIT_SHA
     || process.env.CLOUDFLARE_COMMIT_SHA
@@ -14,18 +39,11 @@ function resolveCommitSha() {
   if (environmentSha) return environmentSha;
 
   try {
-    return execFileSync('git', ['rev-parse', 'HEAD'], {
-      cwd: root,
-      encoding: 'utf8',
-      stdio: ['ignore', 'pipe', 'ignore']
-    }).trim();
+    return runGit(['rev-parse', 'HEAD']);
   } catch {
     return 'unknown';
   }
 }
-
-const commitSha = resolveCommitSha();
-const builtAt = new Date().toISOString();
 
 function walk(dir) {
   if (!fs.existsSync(dir)) return [];
@@ -42,6 +60,52 @@ function canonicalPath(relativePath) {
   return urlPath.replace(/\.html$/i, '');
 }
 
+function markdownSourceForHtml(relativePath) {
+  const normalized = relativePath.split(path.sep).join('/');
+  if (normalized === '404.html') return null;
+  if (normalized === 'index.html') return 'README.md';
+  if (normalized.endsWith('/index.html')) return normalized.replace(/index\.html$/i, 'README.md');
+  return normalized.replace(/\.html$/i, '.md');
+}
+
+function getRealLastUpdated(sourcePath) {
+  if (!sourcePath || !fs.existsSync(path.join(root, sourcePath))) return null;
+
+  try {
+    const value = runGit(['log', '-1', '--follow', '--format=%cI', '--', sourcePath]);
+    if (!value) return null;
+    const date = new Date(value);
+    return Number.isNaN(date.getTime()) ? null : date;
+  } catch {
+    return null;
+  }
+}
+
+function formatUpdatedDate(date, language) {
+  return new Intl.DateTimeFormat(language === 'fr' ? 'fr-FR' : 'en-US', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric'
+  }).format(date);
+}
+
+function replaceArticleDate(html, date, language) {
+  const timePattern = /<time\s+datetime="[^"]*">[\s\S]*?<\/time>/i;
+  if (!timePattern.test(html)) return html;
+
+  if (!date) {
+    const unavailable = language === 'fr'
+      ? 'Historique Git indisponible'
+      : 'Git history unavailable';
+    return html.replace(timePattern, `<span class="article-updated-unavailable">${unavailable}</span>`);
+  }
+
+  return html.replace(
+    timePattern,
+    `<time datetime="${date.toISOString()}">${formatUpdatedDate(date, language)}</time>`
+  );
+}
+
 function escapeXml(value) {
   return value.replace(/[<>&"']/g, (character) => ({
     '<': '&lt;',
@@ -52,14 +116,29 @@ function escapeXml(value) {
   }[character]));
 }
 
+const gitHistoryComplete = ensureCompleteGitHistory();
+const commitSha = resolveCommitSha();
+const builtAt = new Date().toISOString();
 const htmlFiles = walk(out).filter((file) => file.endsWith('.html'));
 const sitemapEntries = [];
+let datedPages = 0;
+let unavailableDates = 0;
 
 for (const file of htmlFiles) {
   const relative = path.relative(out, file);
+  const normalizedRelative = relative.split(path.sep).join('/');
   const pagePath = canonicalPath(relative);
   const canonicalUrl = `${siteOrigin}${pagePath}`;
+  const sourcePath = markdownSourceForHtml(relative);
+  const language = normalizedRelative.startsWith('fr-FR/') ? 'fr' : 'en';
+  const updatedDate = getRealLastUpdated(sourcePath);
   let html = fs.readFileSync(file, 'utf8');
+
+  if (sourcePath) {
+    html = replaceArticleDate(html, updatedDate, language);
+    if (updatedDate) datedPages += 1;
+    else unavailableDates += 1;
+  }
 
   const headAssets = [
     `<link rel="canonical" href="${canonicalUrl}">`,
@@ -77,11 +156,10 @@ for (const file of htmlFiles) {
   html = html.replace('</head>', `  ${headAssets}\n</head>`);
   fs.writeFileSync(file, html);
 
-  if (relative.split(path.sep).join('/') !== '404.html') {
-    const updated = html.match(/<time\s+datetime="([^"]+)"/i)?.[1];
+  if (normalizedRelative !== '404.html') {
     sitemapEntries.push({
       url: canonicalUrl,
-      lastmod: updated && !Number.isNaN(Date.parse(updated)) ? new Date(updated).toISOString().slice(0, 10) : null
+      lastmod: updatedDate ? updatedDate.toISOString().slice(0, 10) : null
     });
   }
 }
@@ -94,13 +172,21 @@ fs.writeFileSync(path.join(out, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitem
 fs.writeFileSync(path.join(out, 'build-info.json'), JSON.stringify({
   commit: commitSha,
   builtAt,
+  gitHistoryComplete,
+  pageDates: {
+    verified: datedPages,
+    unavailable: unavailableDates
+  },
   features: [
     'article-pagination',
     'smart-search',
     'technical-badges',
     'custom-404',
     'version-history',
-    'anonymous-analytics'
+    'anonymous-analytics',
+    'verified-git-page-dates'
   ]
 }, null, 2));
+
 console.log(`SEO and interface enhancements added to ${htmlFiles.length} pages for ${commitSha}.`);
+console.log(`Verified Git dates: ${datedPages}; unavailable dates: ${unavailableDates}; complete history: ${gitHistoryComplete}.`);
