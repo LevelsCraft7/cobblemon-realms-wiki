@@ -10,6 +10,7 @@
 * [🧭 Premiers pas](getting-started.md)
 * [❓ Foire aux questions](faq.md)
 * [🐞 Signaler un problème](report-a-bug.md)
+* [🗂️ Historique des versions](version-history.md)
 * [🤝 Soutenir le projet](contributing.md)
 
 ## Cobblemon Realms
