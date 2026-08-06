@@ -126,9 +126,15 @@ async function getMinecraftServerStats(request, context) {
 class HeadStylesheetInjector {
   element(element) {
     element.append(
-      '<link rel="stylesheet" href="/assets/discord.css?v=community-badges-4" data-community-badges="true">',
+      '<link rel="stylesheet" href="/assets/discord.css?v=community-badges-4" data-community-badges="true"><link rel="stylesheet" href="/assets/gitbook-blocks.css?v=1" data-gitbook-blocks="true">',
       { html: true }
     );
+  }
+}
+
+class BodyScriptInjector {
+  element(element) {
+    element.append('<script defer src="/assets/gitbook-blocks.js?v=1"></script>', { html: true });
   }
 }
 
@@ -156,6 +162,7 @@ export default {
     if (contentType.includes('text/html')) {
       return new HTMLRewriter()
         .on('head', new HeadStylesheetInjector())
+        .on('body', new BodyScriptInjector())
         .transform(response);
     }
 
