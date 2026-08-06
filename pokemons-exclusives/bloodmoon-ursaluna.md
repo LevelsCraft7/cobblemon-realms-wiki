@@ -31,10 +31,18 @@
 
 ### 📍 Location
 
-| 🌍 Biome | 🌙 Condition |
-|---|---|
-| Dark Forest | Full Moon (Ultra Rare) |
-| Spooky Biomes | New Moon (Rare) |
+| 🌍 Spawn Zone | 🌙 Moon Condition | 🎯 Rarity | 📈 Level | ⚖️ Weight |
+|---|---|---|---|---|
+| Dark Forest (`minecraft:dark_forest`) | Waning Gibbous Moon | Ultra Rare | 35–55 | 2.0 |
+| Spooky biomes (`#cobblemon:is_spooky`) | Any moon phase | Rare | 35–55 | 1.0 |
+
+{% hint style="info" %}
+## 🌕 Full Moon Bonus
+
+In Spooky biomes, Bloodmoon Ursaluna can spawn during every moon phase. During a **Full Moon**, its spawn weight is multiplied by **15**.
+
+Both encounters are grounded natural spawns.
+{% endhint %}
 
 ---
 
