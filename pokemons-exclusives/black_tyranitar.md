@@ -35,8 +35,12 @@
 {% hint style="info" %}
 ## Information
 
-Spawns <strong>extremely rarely</strong> at level 100 in naturally generated villages (Vanilla & BCA).
-</p>
+Black Tyranitar is an **Ultra Rare** encounter found in naturally generated villages within the Overworld.
+
+- **Level Range:** 60–83
+- **Biome Tag:** `#cobblemon:is_overworld`
+- **Structures:** Vanilla villages and BCA villages
+- **Spawn Position:** Grounded
 {% endhint %}
 
 ---
