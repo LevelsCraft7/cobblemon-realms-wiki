@@ -32,9 +32,13 @@
 
 ### 📍 Location
 
-| 🌍 Biome | 🌙 Condition |
-|---|---|
-| Snowy biomes (Rare) | None |
+| 🌍 Biome Tag | 🎯 Rarity | 📈 Level | ☀️ Sky Light | ⚖️ Weight |
+|---|---|---|---|---|
+| `#cobblemon:is_snowy` | Rare | 5–18 | 8–15 | 7.5 |
+
+{% hint style="info" %}
+Snowman Munchlax is a grounded natural spawn. It cannot spawn near blocks included in the `#cobblemon:saccharine_trees` tag.
+{% endhint %}
 
 ---
 
@@ -76,9 +80,13 @@
 
 ### 📍 Location
 
-| 🌍 Biome | 🌙 Condition |
-|---|---|
-| Snowy biomes (Rare) | None |
+| 🌍 Biome Tag | 🎯 Rarity | 📈 Level | ☀️ Sky Light | ⚖️ Weight |
+|---|---|---|---|---|
+| `#cobblemon:is_snowy` | Rare | 25–43 | 8–15 | 2.5 |
+
+{% hint style="info" %}
+Snowman Snorlax is a grounded natural spawn. It cannot spawn near blocks included in the `#cobblemon:saccharine_trees` tag.
+{% endhint %}
 
 ---
 
