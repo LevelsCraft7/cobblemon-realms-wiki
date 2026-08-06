@@ -5,6 +5,9 @@ const CURSEFORGE_PROJECT_ID = '1175360';
 const CURSEFORGE_PAGE_URL = 'https://www.curseforge.com/minecraft/modpacks/cobblemon-realms';
 const CURSEFORGE_BADGE_URL = `https://img.shields.io/curseforge/dt/${CURSEFORGE_PROJECT_ID}.json`;
 
+const MINECRAFT_SERVER_ADDRESS = '184.170.201.211:25565';
+const MINECRAFT_STATUS_URL = `https://api.mcsrvstat.us/3/${encodeURIComponent(MINECRAFT_SERVER_ADDRESS)}`;
+
 function json(payload, status = 200, cacheControl = 'no-store') {
   return new Response(JSON.stringify(payload), {
     status,
@@ -84,6 +87,38 @@ async function getCurseForgeStats(request, context) {
   });
 }
 
+async function getMinecraftServerStats(request, context) {
+  return getCached(request, context, '/__cache/minecraft-server-stats', async () => {
+    try {
+      const response = await fetch(MINECRAFT_STATUS_URL, {
+        headers: {
+          accept: 'application/json',
+          'user-agent': 'Cobblemon Realms Wiki (https://wiki.cobblemon-realms.com, 1.0)'
+        },
+        signal: AbortSignal.timeout(8000)
+      });
+
+      if (!response.ok) return json({ error: 'Minecraft server status unavailable' }, 502);
+
+      const status = await response.json();
+      const online = status.online === true;
+      const playersOnline = online && Number.isFinite(status.players?.online) ? status.players.online : 0;
+      const playersMax = online && Number.isFinite(status.players?.max) ? status.players.max : 0;
+
+      return json({
+        online,
+        players: {
+          online: playersOnline,
+          max: playersMax
+        },
+        joinUrl: `https://discord.gg/${INVITE_CODE}`
+      }, 200, 'public, max-age=30, s-maxage=60, stale-while-revalidate=180');
+    } catch {
+      return json({ error: 'Minecraft server status unavailable' }, 502);
+    }
+  });
+}
+
 export default {
   async fetch(request, env, context) {
     const url = new URL(request.url);
@@ -96,6 +131,11 @@ export default {
     if (url.pathname === '/api/curseforge') {
       if (request.method !== 'GET') return json({ error: 'Method not allowed' }, 405);
       return getCurseForgeStats(request, context);
+    }
+
+    if (url.pathname === '/api/server') {
+      if (request.method !== 'GET') return json({ error: 'Method not allowed' }, 405);
+      return getMinecraftServerStats(request, context);
     }
 
     return env.ASSETS.fetch(request);
