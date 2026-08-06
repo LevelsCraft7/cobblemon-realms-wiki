@@ -3,11 +3,15 @@
   "name": "cobblemon-realms-wiki",
   "main": "./scripts/worker.mjs",
   "compatibility_date": "2026-08-06",
+  "build": {
+    "command": "npm run build"
+  },
   "assets": {
     "directory": "./dist",
     "binding": "ASSETS",
     "run_worker_first": ["/api/*"],
-    "not_found_handling": "404-page"
+    "not_found_handling": "404-page",
+    "html_handling": "auto-trailing-slash"
   },
   "analytics_engine_datasets": [
     {
