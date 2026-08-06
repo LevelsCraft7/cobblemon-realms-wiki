@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Cobblemon Realms server">
+  <rect width="512" height="512" rx="72" fill="#07152f"/>
+  <g fill="none" stroke="#fff" stroke-width="32" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M48 132V72h60M404 72h60v60M464 380v60h-60M108 440H48v-60"/>
+    <circle cx="256" cy="256" r="176"/>
+    <path d="M256 80v92M432 256h-92M256 432v-92M80 256h92" opacity="0"/>
+    <path d="M148 338 338 148"/>
+    <path d="M176 292a96 96 0 0 1 116-116M336 220a96 96 0 0 1-116 116"/>
+  </g>
+  <circle cx="256" cy="256" r="30" fill="#fff"/>
+  <g fill="#fff">
+    <rect x="244" y="24" width="24" height="24" transform="rotate(45 256 36)"/>
+    <rect x="244" y="464" width="24" height="24" transform="rotate(45 256 476)"/>
+    <rect x="24" y="244" width="24" height="24" transform="rotate(45 36 256)"/>
+    <rect x="464" y="244" width="24" height="24" transform="rotate(45 476 256)"/>
+  </g>
+</svg>
