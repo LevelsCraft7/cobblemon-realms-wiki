@@ -12,5 +12,12 @@
     "run_worker_first": ["/api/*", "/__cr-admin", "/__cr-admin/*"],
     "not_found_handling": "404-page",
     "html_handling": "auto-trailing-slash"
-  }
+  },
+  "d1_databases": [
+    {
+      "binding": "WIKI_DB",
+      "database_name": "cobblemon-realms-wiki-admin",
+      "database_id": "76a306fc-f45a-4551-be86-2d0916edafad"
+    }
+  ]
 }
