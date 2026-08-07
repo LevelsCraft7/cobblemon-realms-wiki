@@ -551,6 +551,7 @@ La suppression de l'un de ces éléments peut entraîner la perte de votre monde
 - 🛠️ En cas de problème, supprimez `config/` et `defaultconfigs/` puis relancez le jeu.
 - ❓ Consultez notre [FAQ](faq.md) pour les questions les plus fréquentes.
 - 💬 Besoin d'aide ? Rejoignez notre serveur [Discord](https://discord.gg/kb8NSTF45n).
+</p>
 {% endhint %}
 
 ---
