@@ -112,6 +112,22 @@ All information regarding progression, gyms, champions, and level caps is groupe
 
 ---
 
+## 🧭 I want to find the right guide quickly
+
+Use these shortcuts if you are not sure where to start:
+
+| I want to... | Recommended page |
+| --- | --- |
+| Install the modpack | [Installation Guide](installation.md) |
+| Start playing without missing the basics | [Getting Started](getting-started.md) |
+| Join or host a server | [Multiplayer Servers](multiplayer-servers.md) |
+| Understand Pokémon spawns | [Pokémon and Spawns](pokemon-and-spawns.md) |
+| Learn about legendaries | [Myths and Legends](pokemons-guides/myths-and-legends-legendaries.md) |
+| Check what changed recently | [What's New v6.0+](whats-new-v6.md) |
+| Report a problem | [Report a Bug](report-a-bug.md) |
+
+---
+
 {% hint style="success" %}
 ## Contact Us
 
