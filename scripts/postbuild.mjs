@@ -106,6 +106,26 @@ function replaceArticleDate(html, date, language) {
   );
 }
 
+function stripHtml(value = '') {
+  return value.replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
+}
+
+function decodeEntities(value = '') {
+  return value
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#039;/g, "'");
+}
+
+function extractTitle(html, fallback) {
+  const h1 = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i)?.[1];
+  if (h1) return decodeEntities(stripHtml(h1));
+  const title = html.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[1];
+  return decodeEntities(stripHtml(title || fallback));
+}
+
 function escapeXml(value) {
   return value.replace(/[<>&"']/g, (character) => ({
     '<': '&lt;',
@@ -121,8 +141,14 @@ const commitSha = resolveCommitSha();
 const builtAt = new Date().toISOString();
 const htmlFiles = walk(out).filter((file) => file.endsWith('.html'));
 const sitemapEntries = [];
+const pageUpdates = [];
 let datedPages = 0;
 let unavailableDates = 0;
+
+const pageMetaSource = path.join(root, 'page-meta.json');
+if (fs.existsSync(pageMetaSource)) {
+  fs.copyFileSync(pageMetaSource, path.join(out, 'page-meta.json'));
+}
 
 for (const file of htmlFiles) {
   const relative = path.relative(out, file);
@@ -138,6 +164,14 @@ for (const file of htmlFiles) {
     html = replaceArticleDate(html, updatedDate, language);
     if (updatedDate) datedPages += 1;
     else unavailableDates += 1;
+
+    pageUpdates.push({
+      title: extractTitle(html, pagePath),
+      path: pagePath,
+      source: sourcePath,
+      language,
+      updatedAt: updatedDate ? updatedDate.toISOString() : null
+    });
   }
 
   const headAssets = [
@@ -152,9 +186,15 @@ for (const file of htmlFiles) {
     `<link rel="stylesheet" href="/assets/site-features.css?v=${assetVersion}">`,
     `<link rel="stylesheet" href="/assets/search-filter-polish.css?v=${assetVersion}">`,
     `<link rel="stylesheet" href="/assets/page-toc-collapse.css?v=${assetVersion}">`,
+    `<link rel="stylesheet" href="/assets/page-meta-badges.css?v=${assetVersion}">`,
+    `<link rel="stylesheet" href="/assets/section-links.css?v=${assetVersion}">`,
+    `<link rel="stylesheet" href="/assets/wiki-feedback.css?v=${assetVersion}">`,
     `<script defer src="/assets/site-features.js?v=${assetVersion}"></script>`,
+    `<script defer src="/assets/page-meta-badges.js?v=${assetVersion}"></script>`,
     `<script defer src="/assets/search-filter-polish.js?v=${assetVersion}"></script>`,
-    `<script defer src="/assets/page-toc-collapse.js?v=${assetVersion}"></script>`
+    `<script defer src="/assets/page-toc-collapse.js?v=${assetVersion}"></script>`,
+    `<script defer src="/assets/section-links.js?v=${assetVersion}"></script>`,
+    `<script defer src="/assets/wiki-feedback.js?v=${assetVersion}"></script>`
   ].join('\n  ');
 
   html = html.replace('</head>', `  ${headAssets}\n</head>`);
@@ -169,10 +209,13 @@ for (const file of htmlFiles) {
 }
 
 sitemapEntries.sort((a, b) => a.url.localeCompare(b.url));
+pageUpdates.sort((a, b) => String(b.updatedAt || '').localeCompare(String(a.updatedAt || '')) || a.path.localeCompare(b.path));
+
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapEntries.map((entry) => `  <url>\n    <loc>${escapeXml(entry.url)}</loc>${entry.lastmod ? `\n    <lastmod>${entry.lastmod}</lastmod>` : ''}\n  </url>`).join('\n')}\n</urlset>\n`;
 
 fs.writeFileSync(path.join(out, 'sitemap.xml'), sitemap);
 fs.writeFileSync(path.join(out, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${siteOrigin}/sitemap.xml\n`);
+fs.writeFileSync(path.join(out, 'page-updates.json'), JSON.stringify(pageUpdates, null, 2));
 fs.writeFileSync(path.join(out, 'build-info.json'), JSON.stringify({
   commit: commitSha,
   builtAt,
@@ -181,6 +224,7 @@ fs.writeFileSync(path.join(out, 'build-info.json'), JSON.stringify({
     verified: datedPages,
     unavailable: unavailableDates
   },
+  pages: pageUpdates.length,
   features: [
     'article-pagination',
     'smart-search',
@@ -195,7 +239,12 @@ fs.writeFileSync(path.join(out, 'build-info.json'), JSON.stringify({
     'local-favorites',
     'recent-pages',
     'image-lightbox',
-    'collapsible-page-toc'
+    'collapsible-page-toc',
+    'page-meta-config',
+    'section-link-copy',
+    'article-feedback',
+    'page-update-index',
+    'admin-dashboard'
   ]
 }, null, 2));
 
