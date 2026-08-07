@@ -92,8 +92,8 @@ async function getMinecraftServerStats(request, context) {
 
 function sanitizeAnalyticsPath(value) {
   if (typeof value !== 'string') return '/';
-  const path = value.slice(0, 180).replace(/[^a-zA-Z0-9_./-]/g, '');
-  return path.startsWith('/') ? path : '/';
+  const path = value.slice(0, 220).replace(/[^a-zA-Z0-9_./-]/g, '');
+  return path.startsWith('/') ? path.replace(/\/+$/, '') || '/' : '/';
 }
 
 function sanitizeComment(value) {
@@ -272,10 +272,39 @@ async function recordArticleFeedback(request, env) {
 }
 
 function adminToken(env) { return typeof env.CR_ADMIN_PATH_TOKEN === 'string' ? env.CR_ADMIN_PATH_TOKEN.trim() : ''; }
-function isAdminDashboardPath(url, env) { const token = adminToken(env); return token ? url.pathname === `/__cr-admin/${token}` || url.pathname === `/__cr-admin/${token}/` : url.pathname === '/__cr-admin' || url.pathname === '/__cr-admin/'; }
-function isAdminStatusPath(url, env) { const token = adminToken(env); return token ? url.pathname === `/api/admin/${token}/status` : url.pathname === '/api/admin/status'; }
-function isAdminMetaPath(url, env) { const token = adminToken(env); return token ? url.pathname === `/api/admin/${token}/page-meta` : url.pathname === '/api/admin/page-meta'; }
-function unauthorizedAdmin(message = 'Unauthorized') { return new Response(message, { status: 401, headers: { 'www-authenticate': 'Basic realm="Cobblemon Realms Wiki Admin", charset="UTF-8"', 'cache-control': 'no-store', 'x-content-type-options': 'nosniff' } }); }
+function adminBasePath(env) {
+  const token = adminToken(env);
+  return token ? `/__cr-admin/${encodeURIComponent(token)}` : '/__cr-admin';
+}
+function adminMetaPath(env) {
+  const token = adminToken(env);
+  return token ? `/api/admin/${encodeURIComponent(token)}/page-meta` : '/api/admin/page-meta';
+}
+function adminLink(env, tab, extra = {}) {
+  const params = new URLSearchParams({ tab });
+  for (const [key, value] of Object.entries(extra)) {
+    if (value !== undefined && value !== null && value !== '') params.set(key, value);
+  }
+  return `${adminBasePath(env)}?${params.toString()}`;
+}
+function isAdminDashboardPath(url, env) {
+  const token = adminToken(env);
+  if (token) return url.pathname === `/__cr-admin/${token}` || url.pathname === `/__cr-admin/${token}/`;
+  return url.pathname === '/__cr-admin' || url.pathname === '/__cr-admin/';
+}
+function isAdminStatusPath(url, env) {
+  const token = adminToken(env);
+  if (token) return url.pathname === `/api/admin/${token}/status`;
+  return url.pathname === '/api/admin/status';
+}
+function isAdminMetaPath(url, env) {
+  const token = adminToken(env);
+  if (token) return url.pathname === `/api/admin/${token}/page-meta`;
+  return url.pathname === '/api/admin/page-meta';
+}
+function unauthorizedAdmin(message = 'Unauthorized') {
+  return new Response(message, { status: 401, headers: { 'www-authenticate': 'Basic realm="Cobblemon Realms Wiki Admin", charset="UTF-8"', 'cache-control': 'no-store', 'x-content-type-options': 'nosniff' } });
+}
 
 function configuredAccounts(env) {
   const raw = typeof env.CR_ADMIN_ACCOUNTS === 'string' ? env.CR_ADMIN_ACCOUNTS.trim() : '';
@@ -408,9 +437,9 @@ function allowedBadges(pageMeta) {
 }
 
 function normalizeArray(value, allowed) {
-  if (!Array.isArray(value)) return [];
+  const source = Array.isArray(value) ? value : typeof value === 'string' ? [value] : [];
   const out = [];
-  for (const item of value) {
+  for (const item of source) {
     if (typeof item !== 'string') continue;
     const clean = item.trim();
     if (!clean || (allowed && !allowed.has(clean))) continue;
@@ -419,19 +448,41 @@ function normalizeArray(value, allowed) {
   return out;
 }
 
+async function parseAdminMetaPayload(request) {
+  const contentType = request.headers.get('content-type') || '';
+  if (contentType.includes('application/json')) {
+    const payload = await request.json();
+    return {
+      path: payload?.path,
+      status: payload?.status,
+      badges: Array.isArray(payload?.badges) ? payload.badges : [],
+      filters: Array.isArray(payload?.filters) ? payload.filters : []
+    };
+  }
+  const form = await request.formData();
+  return {
+    path: form.get('path'),
+    status: form.get('status'),
+    badges: form.getAll('badges'),
+    filters: form.getAll('filters')
+  };
+}
+
 async function savePageMetaOverride(request, env) {
   const { session, denied } = getAdminSession(env, request);
   if (denied) return denied;
   if (!d1Available(env)) return json({ error: 'D1 WIKI_DB binding is not configured.' }, 503);
   if (request.method !== 'POST') return json({ error: 'Method not allowed' }, 405);
+  const fetchSite = request.headers.get('sec-fetch-site');
+  if (fetchSite && !['same-origin', 'same-site', 'none'].includes(fetchSite)) return json({ error: 'Cross-site request denied' }, 403);
   let payload;
-  try { payload = await request.json(); } catch { return json({ error: 'Invalid JSON' }, 400); }
-  const path = sanitizeAnalyticsPath(payload?.path);
+  try { payload = await parseAdminMetaPayload(request); } catch { return json({ error: 'Invalid payload' }, 400); }
+  const path = sanitizeAnalyticsPath(payload.path);
   if (!path || path === '/') return json({ error: 'A concrete page path is required.' }, 400);
   const baseMeta = await readAssetJson(request, env, '/page-meta.json') || {};
-  const status = ALLOWED_STATUSES.has(payload?.status) ? payload.status : 'unknown';
-  const badges = normalizeArray(payload?.badges, allowedBadges(baseMeta));
-  const filters = normalizeArray(payload?.filters, ALLOWED_FILTERS);
+  const status = ALLOWED_STATUSES.has(payload.status) ? payload.status : 'unknown';
+  const badges = normalizeArray(payload.badges, allowedBadges(baseMeta));
+  const filters = normalizeArray(payload.filters, ALLOWED_FILTERS);
   const now = new Date().toISOString();
   await initD1(env);
   await env.WIKI_DB.prepare(`
@@ -441,6 +492,9 @@ async function savePageMetaOverride(request, env) {
     DO UPDATE SET status = excluded.status, badges_json = excluded.badges_json, filters_json = excluded.filters_json, updated_at = excluded.updated_at, updated_by = excluded.updated_by
   `).bind(path, status, JSON.stringify(badges), JSON.stringify(filters), now, session.user).run();
   await logAdminAction(env, session, 'page_meta.update', path, { status, badges, filters });
+  if ((request.headers.get('accept') || '').includes('text/html')) {
+    return Response.redirect(new URL(adminLink(env, 'badges', { edit: path, saved: '1' }), request.url).toString(), 303);
+  }
   return json({ ok: true, override: { path, status, badges, filters, updatedAt: now, updatedBy: session.user } });
 }
 
@@ -477,7 +531,6 @@ async function getAdminStatus(request, env) {
 }
 
 function h(value = '') { return String(value).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' }[c])); }
-function scriptJson(value) { return JSON.stringify(value).replace(/<\//g, '<\\/'); }
 function n(value) { return Number(value || 0).toLocaleString('fr-FR'); }
 function pct(part, total) { return total ? Math.round((Number(part || 0) / total) * 100) : 0; }
 function formatDate(value) {
@@ -554,16 +607,36 @@ function breakdown(items, key) {
 
 function pageCards(pages, pageMeta) {
   if (!pages.length) return '<div class="empty">No pages indexed yet.</div>';
-  return pages.map((page) => {
+  return pages.slice(0, 220).map((page) => {
     const meta = metaFor(pageMeta, page.path);
     const statusType = meta.status === 'verified-v6' ? 'ok' : meta.status === 'draft' || meta.status === 'needs-review' ? 'warn' : 'info';
-    return `<article class="page-card" data-search="${h(`${page.title || ''} ${page.path || ''}`.toLowerCase())}" data-lang="${h(page.language || '')}" data-filters="${h((meta.filters || []).join(' '))}"><div><strong>${h(page.title || page.path)}</strong><small><code>${h(page.path || '')}</code></small></div><div><small>Status</small>${badge(meta.status || 'unknown', statusType)}<div class="pill-row">${pill(meta.badges || [])}</div></div><div><small>Filters</small><div class="pill-row">${pill(meta.filters || [])}</div><small>Updated ${h(formatDate(page.updatedAt))}</small></div></article>`;
+    return `<article class="page-card"><div><strong>${h(page.title || page.path)}</strong><small><code>${h(page.path || '')}</code></small></div><div><small>Status</small>${badge(meta.status || 'unknown', statusType)}<div class="pill-row">${pill(meta.badges || [])}</div></div><div><small>Filters</small><div class="pill-row">${pill(meta.filters || [])}</div><small>Updated ${h(formatDate(page.updatedAt))}</small></div></article>`;
   }).join('');
 }
 
+function selectOption(value, label, selectedValue) {
+  return `<option value="${h(value)}"${value === selectedValue ? ' selected' : ''}>${h(label)}</option>`;
+}
+function checkbox(name, value, checked) {
+  return `<label class="check"><input type="checkbox" name="${h(name)}" value="${h(value)}"${checked ? ' checked' : ''}> ${h(value)}</label>`;
+}
+
+function adminNav(env, active) {
+  const tabs = [
+    ['overview', '🏠 Overview'],
+    ['pages', '📄 Pages'],
+    ['stats', '📊 Stats'],
+    ['feedback', '👍 Feedback'],
+    ['badges', '🏷️ Badges & Filters'],
+    ['security', '🔐 Security'],
+    ['maintenance', '⚙️ Maintenance']
+  ];
+  return tabs.map(([tab, label]) => `<a class="${tab === active ? 'is-active' : ''}" href="${h(adminLink(env, tab))}">${h(label)}</a>`).join('');
+}
+
 function adminDashboardHtml(payload, request, env) {
-  const token = adminToken(env);
-  const adminMetaPath = token ? `/api/admin/${token}/page-meta` : '/api/admin/page-meta';
+  const url = new URL(request.url);
+  const activeTab = ['overview', 'pages', 'stats', 'feedback', 'badges', 'security', 'maintenance'].includes(url.searchParams.get('tab')) ? url.searchParams.get('tab') : 'overview';
   const build = payload.buildInfo || {};
   const pages = payload.pageUpdates || [];
   const pageMeta = payload.pageMeta || {};
@@ -589,74 +662,37 @@ function adminDashboardHtml(payload, request, env) {
   const statusKeys = ['verified-v6', 'needs-review', 'legacy-5', 'draft', 'unknown'];
   const filterKeys = [...ALLOWED_FILTERS];
   const features = build.features || [];
-  const pageOptions = pages.map((page) => `<option value="${h(page.path)}">${h(page.title || page.path)} - ${h(page.path)}</option>`).join('');
-  const badgeChecks = badgeKeys.map((key) => `<label class="check"><input type="checkbox" name="badges" value="${h(key)}"> ${h(key)}</label>`).join('');
-  const filterChecks = filterKeys.map((key) => `<label class="check"><input type="checkbox" name="filters" value="${h(key)}"> ${h(key)}</label>`).join('');
-  const statusOptions = statusKeys.map((key) => `<option value="${h(key)}">${h(key)}</option>`).join('');
-  const metaScriptData = { pages: pages.map((page) => ({ path: page.path, title: page.title })), meta: pageMeta, overrides, savePath: adminMetaPath };
+  const saved = url.searchParams.get('saved') === '1';
+  const selectedPath = pages.some((page) => page.path === url.searchParams.get('edit')) ? url.searchParams.get('edit') : (pages.find((page) => page.path !== '/')?.path || pages[0]?.path || '/');
+  const selectedMeta = metaFor(pageMeta, selectedPath);
+  const pageOptions = pages.map((page) => selectOption(page.path, `${page.title || page.path} - ${page.path}`, selectedPath)).join('');
+  const badgeChecks = badgeKeys.map((key) => checkbox('badges', key, (selectedMeta.badges || []).includes(key))).join('');
+  const filterChecks = filterKeys.map((key) => checkbox('filters', key, (selectedMeta.filters || []).includes(key))).join('');
+  const statusOptions = statusKeys.map((key) => selectOption(key, key, selectedMeta.status || 'unknown')).join('');
+
+  const panels = {
+    overview: `<div class="hero-grid">${card('Pages', n(build.pages || pages.length), `FR ${frPages} / EN ${enPages}`)}${card('Build commit', String(build.commit || 'unknown').slice(0, 8), formatDate(build.builtAt))}${card('D1 storage', security.d1Enabled ? 'Ready' : 'Missing', security.provider)}${card('Feedback issues', n(noVotes), `${n(comments.length)} comments`)}</div><div class="grid-2"><section class="section"><div class="section-head"><h2>Recently updated</h2>${badge('latest 20', 'info')}</div>${updatesTable(pages, 20)}</section><section class="section"><div class="section-head"><h2>Quick signals</h2>${badge(stats.enabled ? `${stats.provider} enabled` : 'stats disabled', stats.enabled ? 'ok' : 'warn')}</div><div class="grid-3">${card('Analytics events', n(eventCount), `${analytics.length} rows`)}${card('Pageviews', n(pageviews), 'tracked views')}${card('Zero searches', n(zeroSearches), 'search misses')}</div></section></div>`,
+    pages: `<section class="section"><div class="section-head"><h2>Pages</h2>${badge(`${n(pages.length)} pages`, 'info')}</div><p class="muted">Snapshot of indexed wiki pages and dynamic badges. Use Badges & Filters to edit page options.</p><div class="page-list" style="margin-top:14px">${pageCards(pages, pageMeta)}</div></section>`,
+    stats: `<div class="hero-grid">${card('Stats storage', stats.enabled ? 'Enabled' : 'Disabled', stats.provider || 'none')}${card('Events stored', n(eventCount), `${analytics.length} counters`)}${card('404 paths', n(notFound), 'not_found events')}${card('Outbound clicks', n(outbound), 'external clicks')}</div><div class="grid-2"><section class="section"><div class="section-head"><h2>Event breakdown</h2>${badge('by type', 'info')}</div>${bars(breakdown(analytics, 'event'))}</section><section class="section"><div class="section-head"><h2>Search misses</h2>${badge(n(zeroSearches), zeroSearches ? 'warn' : 'info')}</div>${analyticsTable(analytics.filter((item) => item.event === 'search_zero'))}</section></div><section class="section"><div class="section-head"><h2>All linked stats</h2>${badge('D1 counters', 'info')}</div>${analyticsTable(analytics)}</section>`,
+    feedback: `<div class="hero-grid">${card('Feedback storage', stats.enabled ? 'Enabled' : 'Disabled', stats.provider || 'none')}${card('Helpful votes', n(yesVotes), 'yes')}${card('Needs work', n(noVotes), 'no')}${card('Written comments', n(comments.length), 'from negative votes')}</div><section class="section"><div class="section-head"><h2>Article feedback</h2>${badge(`${feedback.length} pages`, noVotes ? 'warn' : 'info')}</div>${feedbackTable(feedback, comments)}</section><section class="section"><div class="section-head"><h2>Latest written comments</h2>${badge(`${comments.length} comments`, comments.length ? 'warn' : 'info')}</div>${commentsTable(comments)}</section>`,
+    badges: `<div class="grid-2"><section class="section"><div class="section-head"><h2>Edit page options</h2>${badge(security.d1Enabled ? 'D1 active' : 'D1 missing', security.d1Enabled ? 'ok' : 'warn')}</div>${saved ? '<p class="notice">Saved. The dynamic /page-meta.json will now include this override.</p>' : ''}<form method="get" action="${h(adminBasePath(env))}" class="form-grid"><input type="hidden" name="tab" value="badges"><label>Choose page<select name="edit">${pageOptions}</select></label><button class="button" type="submit">Load page</button></form><hr><form method="post" action="${h(adminMetaPath(env))}" class="form-grid"><input type="hidden" name="path" value="${h(selectedPath)}"><p class="muted">Editing <code>${h(selectedPath)}</code></p><label>Status<select name="status">${statusOptions}</select></label><div><strong>Badges</strong><div class="checks">${badgeChecks}</div></div><div><strong>Filters</strong><div class="checks">${filterChecks}</div></div><button class="button primary" type="submit"${security.d1Enabled ? '' : ' disabled'}>Save D1 override</button></form></section><section class="section"><div class="section-head"><h2>Dynamic D1 overrides</h2>${badge(`${overrides.length} overrides`, 'info')}</div>${overridesTable(overrides)}</section></div><section class="section"><div class="section-head"><h2>Static rules from page-meta.json</h2>${badge(`${rules.length} rules`, 'info')}</div>${rulesTable(rules)}</section>`,
+    security: `<div class="hero-grid">${card('Basic Auth', security.basicAuthConfigured ? 'Configured' : 'Missing', 'CR_ADMIN_USER or CR_ADMIN_ACCOUNTS')}${card('Secret path', security.secretPathEnabled ? 'Enabled' : 'Disabled', 'CR_ADMIN_PATH_TOKEN')}${card('D1 database', security.d1Enabled ? 'Ready' : 'Missing', 'WIKI_DB binding')}${card('Stats provider', security.provider || 'none', 'D1 preferred')}</div><section class="section"><h2>Recommended protection</h2><ul class="check-list"><li>✅ Keep the secret URL private and rotate the path token after tests.</li><li>✅ Use Cloudflare Access on <code>/__cr-admin/*</code>.</li><li>✅ Use Cloudflare Access on <code>/api/admin/*</code>.</li><li>✅ Keep Basic Auth as a second lock behind Cloudflare Access.</li><li>✅ Use D1 for feedback, analytics, dynamic badges, filters and admin logs.</li></ul></section>`,
+    maintenance: `<div class="grid-3">${card('Current build', String(build.commit || 'unknown').slice(0,8), formatDate(build.builtAt))}${card('Pages indexed', n(build.pages || pages.length), 'page-updates.json')}${card('Features', n(features.length), 'enabled modules')}</div><section class="section"><h2>Maintenance checklist</h2><ul class="check-list"><li>${security.d1Enabled ? '✅' : '⚠'} D1 <code>WIKI_DB</code> stores feedback, analytics, overrides and logs.</li><li>✅ GitHub keeps the raw Markdown content.</li><li>✅ Admin changes only affect dynamic site options.</li><li>✅ Review pages with negative comments first.</li><li>✅ Check <code>/page-meta.json</code> after editing badges or filters.</li></ul></section><section class="section"><div class="section-head"><h2>Admin logs</h2>${badge(`${logs.length} recent`, 'info')}</div>${logsTable(logs)}</section><section class="section"><h2>Build features</h2><p>${pill(features)}</p></section>`
+  };
+
+  const subtitles = {
+    overview: 'Global wiki health, build state, and quick signals.',
+    pages: 'Indexed pages with effective dynamic metadata.',
+    stats: 'Analytics counters stored in D1.',
+    feedback: 'Article feedback, negative votes, and written comments.',
+    badges: 'Edit dynamic page options stored in D1.',
+    security: 'Admin access, runtime secrets, and D1 status.',
+    maintenance: 'Operational checklist and admin logs.'
+  };
 
   return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Cobblemon Realms Wiki Admin</title><style>
-:root{color-scheme:dark;--bg:#0d0d0f;--panel:#151517;--card:#1b1b1f;--line:#303039;--line2:#24242b;--text:#f5f7fb;--muted:#a5adbb;--accent:#4c91ff;--good:#20c875;--warn:#f59e0b;--bad:#ef4444;--violet:#a78bfa}*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at top left,rgba(76,145,255,.13),transparent 32%),linear-gradient(180deg,#121214,#0b0b0d);color:var(--text);font:14px/1.5 Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.admin-shell{display:grid;grid-template-columns:280px minmax(0,1fr);min-height:100vh}.admin-sidebar{position:sticky;top:0;height:100vh;padding:22px 18px;border-right:1px solid var(--line);background:rgba(15,15,18,.88);overflow:auto}.admin-brand{display:flex;gap:12px;align-items:center;margin-bottom:22px}.admin-logo{display:grid;place-items:center;width:42px;height:42px;border-radius:14px;background:linear-gradient(135deg,rgba(76,145,255,.24),rgba(167,139,250,.2));border:1px solid rgba(255,255,255,.12);font-size:22px}.admin-brand strong{display:block;font-size:18px}.admin-brand small{display:block;color:var(--muted);font-size:12px}.admin-nav{display:grid;gap:7px}.admin-nav button{display:flex;align-items:center;gap:10px;width:100%;border:1px solid transparent;border-radius:12px;background:transparent;color:#d9e3f3;text-align:left;padding:10px 12px;cursor:pointer;font-weight:750}.admin-nav button:hover{background:rgba(255,255,255,.045);border-color:rgba(255,255,255,.08)}.admin-nav button.is-active{background:rgba(76,145,255,.14);border-color:rgba(76,145,255,.45);color:#fff}.admin-main{padding:26px min(42px,4vw) 42px;max-width:1460px;width:100%}.admin-topbar{display:flex;align-items:flex-start;justify-content:space-between;gap:18px;margin-bottom:20px}.admin-topbar h1{margin:0 0 5px;font-size:30px}.muted{color:var(--muted)}.admin-actions{display:flex;gap:8px;flex-wrap:wrap}.button{border:1px solid var(--line);border-radius:10px;background:rgba(255,255,255,.04);color:var(--text);padding:8px 11px;text-decoration:none;font-weight:800;cursor:pointer}.button.primary{background:rgba(76,145,255,.16);border-color:rgba(76,145,255,.5)}.tab-panel{display:none}.tab-panel.is-active{display:block}.hero-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:18px 0}.card{border:1px solid var(--line);border-radius:16px;background:linear-gradient(180deg,rgba(255,255,255,.055),rgba(255,255,255,.026));padding:17px}.card small{display:block;color:var(--muted);font-weight:750}.card strong{display:block;margin-top:6px;font-size:25px}.section{margin-top:16px;border:1px solid var(--line);border-radius:18px;background:rgba(24,24,28,.88);padding:18px;overflow:hidden}.section-head{display:flex;align-items:center;justify-content:space-between;gap:14px;margin-bottom:13px}.section h2{margin:0;font-size:19px}.section h3{margin:0 0 10px;font-size:16px}.status{display:inline-flex;padding:4px 9px;border-radius:999px;background:rgba(76,145,255,.12);color:#8ab4ff;font-weight:850;font-size:12px}.ok{background:rgba(32,200,117,.13);color:#71e0a6}.warn{background:rgba(245,158,11,.14);color:#f8c46a}.info{background:rgba(76,145,255,.13);color:#a8c9ff}.grid-2{display:grid;grid-template-columns:1.05fr .95fr;gap:16px}.grid-3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}table{width:100%;border-collapse:collapse}th,td{padding:10px 9px;border-top:1px solid var(--line2);text-align:left;vertical-align:top}th{color:#d8deea;font-size:11px;text-transform:uppercase;letter-spacing:.055em}code{padding:2px 6px;border-radius:7px;background:#25252d;color:#dbeafe;font-size:12px}.pill{display:inline-flex;margin:2px 4px 2px 0;padding:3px 8px;border:1px solid #454550;border-radius:999px;color:#e8ecf6;font-size:12px;font-weight:750}.pill-row{margin-top:7px}.search-row,.form-row{display:flex;gap:10px;flex-wrap:wrap}.search-row input,.search-row select,.form-row input,.form-row select{min-height:40px;border:1px solid var(--line);border-radius:12px;background:#111116;color:#fff;padding:8px 11px}.search-row input{flex:1 1 280px}.form-grid{display:grid;gap:14px}.checks{display:flex;flex-wrap:wrap;gap:8px}.check{display:inline-flex;gap:7px;align-items:center;border:1px solid var(--line2);border-radius:999px;padding:7px 10px;background:rgba(255,255,255,.025)}.page-list{display:grid;gap:8px}.page-card{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(180px,.8fr) minmax(150px,.6fr);gap:12px;align-items:center;border:1px solid var(--line2);border-radius:13px;background:rgba(255,255,255,.025);padding:12px}.page-card[hidden]{display:none}.page-card strong,.page-card small{display:block}.page-card small{color:var(--muted)}.bars{display:grid;gap:9px;margin-bottom:18px}.bar{display:grid;grid-template-columns:160px 1fr 58px;gap:10px;align-items:center}.bar-track{height:9px;border-radius:999px;background:#25252d;overflow:hidden}.bar-fill{height:100%;border-radius:999px;background:linear-gradient(90deg,var(--accent),var(--violet))}.empty{padding:18px;border:1px dashed #3a3a45;border-radius:14px;color:var(--muted);background:rgba(255,255,255,.02)}pre{max-height:360px;overflow:auto;padding:14px;border:1px solid var(--line);border-radius:14px;background:#101015;color:#d9e4ff}.check-list{display:grid;gap:9px;margin:0;padding:0;list-style:none}.check-list li{padding:11px;border:1px solid var(--line2);border-radius:12px;background:rgba(255,255,255,.025)}.admin-footer-note{margin-top:18px;color:var(--muted);font-size:12px}@media(max-width:1000px){.admin-shell{grid-template-columns:1fr}.admin-sidebar{position:relative;height:auto}.admin-nav{grid-template-columns:repeat(2,minmax(0,1fr))}.hero-grid,.grid-3{grid-template-columns:repeat(2,minmax(0,1fr))}.grid-2{grid-template-columns:1fr}.page-card{grid-template-columns:1fr}}@media(max-width:620px){.admin-main{padding:18px 12px 30px}.hero-grid,.grid-3,.admin-nav{grid-template-columns:1fr}.admin-topbar{display:block}.bar{grid-template-columns:1fr}.section{padding:14px}}
-</style></head><body><div class="admin-shell"><aside class="admin-sidebar"><div class="admin-brand"><div class="admin-logo">🛠️</div><div><strong>Cobblemon Realms</strong><small>Wiki Admin Console</small></div></div><nav class="admin-nav"><button type="button" data-admin-tab="overview" class="is-active">🏠 Overview</button><button type="button" data-admin-tab="pages">📄 Pages</button><button type="button" data-admin-tab="stats">📊 Stats</button><button type="button" data-admin-tab="feedback">👍 Feedback</button><button type="button" data-admin-tab="badges">🏷️ Badges & Filters</button><button type="button" data-admin-tab="security">🔐 Security</button><button type="button" data-admin-tab="maintenance">⚙️ Maintenance</button></nav><p class="admin-footer-note">Hidden dashboard. Keep this URL private.</p></aside><main class="admin-main"><div class="admin-topbar"><div><h1 id="tab-title">Overview</h1><p class="muted" id="tab-subtitle">Global wiki health, build state, and quick signals.</p></div><div class="admin-actions"><a class="button" href="/" target="_blank" rel="noopener">Open wiki</a><button class="button" type="button" onclick="location.reload()">Refresh</button></div></div>
-<section class="tab-panel is-active" data-panel="overview"><div class="hero-grid">${card('Pages', n(build.pages || pages.length), `FR ${frPages} / EN ${enPages}`)}${card('Build commit', String(build.commit || 'unknown').slice(0, 8), formatDate(build.builtAt))}${card('D1 storage', security.d1Enabled ? 'Ready' : 'Missing', security.provider)}${card('Feedback issues', n(noVotes), `${n(comments.length)} comments`)}</div><div class="grid-2"><section class="section"><div class="section-head"><h2>Recently updated</h2>${badge('latest 20', 'info')}</div>${updatesTable(pages, 20)}</section><section class="section"><div class="section-head"><h2>Quick signals</h2>${badge(stats.enabled ? `${stats.provider} enabled` : 'stats disabled', stats.enabled ? 'ok' : 'warn')}</div><div class="grid-3">${card('Analytics events', n(eventCount), `${analytics.length} rows`)}${card('Pageviews', n(pageviews), 'tracked views')}${card('Zero searches', n(zeroSearches), 'search misses')}</div></section></div></section>
-<section class="tab-panel" data-panel="pages"><section class="section"><div class="section-head"><h2>Pages</h2>${badge(`${n(pages.length)} pages`, 'info')}</div><div class="search-row"><input id="page-search" placeholder="Search title or path"><select id="page-lang"><option value="all">All languages</option><option value="fr">French</option><option value="en">English</option></select><select id="page-filter"><option value="all">All filters</option><option value="gameplay">Gameplay</option><option value="mods">Mods</option><option value="legendary">Legendary</option><option value="server">Server</option><option value="commands">Commands</option></select></div><div class="page-list" style="margin-top:14px">${pageCards(pages, pageMeta)}</div><div class="empty" id="page-empty" hidden>No matching page.</div></section></section>
-<section class="tab-panel" data-panel="stats"><div class="hero-grid">${card('Stats storage', stats.enabled ? 'Enabled' : 'Disabled', stats.provider || 'none')}${card('Events stored', n(eventCount), `${analytics.length} counters`)}${card('404 paths', n(notFound), 'not_found events')}${card('Outbound clicks', n(outbound), 'external clicks')}</div><div class="grid-2"><section class="section"><div class="section-head"><h2>Event breakdown</h2>${badge('by type', 'info')}</div>${bars(breakdown(analytics, 'event'))}</section><section class="section"><div class="section-head"><h2>Search misses</h2>${badge(n(zeroSearches), zeroSearches ? 'warn' : 'info')}</div>${analyticsTable(analytics.filter((item) => item.event === 'search_zero'))}</section></div><section class="section"><div class="section-head"><h2>All linked stats</h2>${badge('D1 counters', 'info')}</div>${analyticsTable(analytics)}</section></section>
-<section class="tab-panel" data-panel="feedback"><div class="hero-grid">${card('Feedback storage', stats.enabled ? 'Enabled' : 'Disabled', stats.provider || 'none')}${card('Helpful votes', n(yesVotes), 'yes')}${card('Needs work', n(noVotes), 'no')}${card('Written comments', n(comments.length), 'from negative votes')}</div><section class="section"><div class="section-head"><h2>Article feedback</h2>${badge(`${feedback.length} pages`, noVotes ? 'warn' : 'info')}</div>${feedbackTable(feedback, comments)}</section><section class="section"><div class="section-head"><h2>Latest written comments</h2>${badge(`${comments.length} comments`, comments.length ? 'warn' : 'info')}</div>${commentsTable(comments)}</section></section>
-<section class="tab-panel" data-panel="badges"><div class="grid-2"><section class="section"><div class="section-head"><h2>Edit page options</h2>${badge(security.d1Enabled ? 'D1 active' : 'D1 missing', security.d1Enabled ? 'ok' : 'warn')}</div><div class="form-grid"><label>Page<select id="meta-page">${pageOptions}</select></label><label>Status<select id="meta-status">${statusOptions}</select></label><div><strong>Badges</strong><div class="checks" id="meta-badges">${badgeChecks}</div></div><div><strong>Filters</strong><div class="checks" id="meta-filters">${filterChecks}</div></div><div class="admin-actions"><button class="button primary" type="button" id="meta-save" ${security.d1Enabled ? '' : 'disabled'}>Save D1 override</button><span class="muted" id="meta-result"></span></div></div></section><section class="section"><div class="section-head"><h2>Dynamic D1 overrides</h2>${badge(`${overrides.length} overrides`, 'info')}</div>${overridesTable(overrides)}</section></div><section class="section"><div class="section-head"><h2>Static rules from page-meta.json</h2>${badge(`${rules.length} rules`, 'info')}</div>${rulesTable(rules)}</section></section>
-<section class="tab-panel" data-panel="security"><div class="hero-grid">${card('Basic Auth', security.basicAuthConfigured ? 'Configured' : 'Missing', 'CR_ADMIN_USER or CR_ADMIN_ACCOUNTS')}${card('Secret path', security.secretPathEnabled ? 'Enabled' : 'Disabled', 'CR_ADMIN_PATH_TOKEN')}${card('D1 database', security.d1Enabled ? 'Ready' : 'Missing', 'WIKI_DB binding')}${card('Stats provider', security.provider || 'none', 'D1 preferred')}</div><section class="section"><h2>Recommended protection</h2><ul class="check-list"><li>✅ Keep the secret URL private and rotate the path token after tests.</li><li>✅ Use Cloudflare Access on <code>/__cr-admin/*</code>.</li><li>✅ Use Cloudflare Access on <code>/api/admin/*</code>.</li><li>✅ Keep Basic Auth as a second lock behind Cloudflare Access.</li><li>✅ Use D1 for feedback, analytics, dynamic badges, filters and admin logs.</li></ul></section></section>
-<section class="tab-panel" data-panel="maintenance"><div class="grid-3">${card('Current build', String(build.commit || 'unknown').slice(0,8), formatDate(build.builtAt))}${card('Pages indexed', n(build.pages || pages.length), 'page-updates.json')}${card('Features', n(features.length), 'enabled modules')}</div><section class="section"><h2>Maintenance checklist</h2><ul class="check-list"><li>${security.d1Enabled ? '✅' : '⚠'} D1 <code>WIKI_DB</code> stores feedback, analytics, overrides and logs.</li><li>✅ GitHub keeps the raw Markdown content.</li><li>✅ Admin changes only affect dynamic site options.</li><li>✅ Review pages with negative comments first.</li><li>✅ Check <code>/page-meta.json</code> after editing badges or filters.</li></ul></section><section class="section"><div class="section-head"><h2>Admin logs</h2>${badge(`${logs.length} recent`, 'info')}</div>${logsTable(logs)}</section><section class="section"><h2>Build features</h2><p>${pill(features)}</p></section></section>
-</main></div><script id="admin-data" type="application/json">${h(scriptJson(metaScriptData))}</script><script>
-(function(){
-  const titles = { overview:['Overview','Global wiki health, build state, and quick signals.'], pages:['Pages','Search pages, review dates, badges, and filters.'], stats:['Stats','Analytics counters stored in D1.'], feedback:['Feedback','Article feedback, negative votes, and written comments.'], badges:['Badges & Filters','Edit dynamic page options stored in D1.'], security:['Security','Admin access, runtime secrets, and D1 status.'], maintenance:['Maintenance','Operational checklist and admin logs.'] };
-  const buttons = Array.from(document.querySelectorAll('[data-admin-tab]'));
-  const panels = Array.from(document.querySelectorAll('[data-panel]'));
-  const title = document.getElementById('tab-title');
-  const subtitle = document.getElementById('tab-subtitle');
-  function activate(tab) { if (!titles[tab]) tab = 'overview'; buttons.forEach(btn => btn.classList.toggle('is-active', btn.dataset.adminTab === tab)); panels.forEach(panel => panel.classList.toggle('is-active', panel.dataset.panel === tab)); title.textContent = titles[tab][0]; subtitle.textContent = titles[tab][1]; if (location.hash.replace('#','') !== tab) history.replaceState(null, '', '#' + tab); }
-  buttons.forEach(btn => btn.addEventListener('click', () => activate(btn.dataset.adminTab)));
-  window.addEventListener('hashchange', () => activate(location.hash.replace('#','') || 'overview'));
-  activate(location.hash.replace('#','') || 'overview');
-  const search = document.getElementById('page-search');
-  const lang = document.getElementById('page-lang');
-  const filter = document.getElementById('page-filter');
-  const cards = Array.from(document.querySelectorAll('.page-card'));
-  const empty = document.getElementById('page-empty');
-  function filterPages() { const query = (search && search.value || '').toLowerCase().trim(); const selectedLang = lang ? lang.value : 'all'; const selectedFilter = filter ? filter.value : 'all'; let visible = 0; cards.forEach(card => { const matchesSearch = !query || (card.dataset.search || '').includes(query); const matchesLang = selectedLang === 'all' || card.dataset.lang === selectedLang; const matchesFilter = selectedFilter === 'all' || (card.dataset.filters || '').split(' ').includes(selectedFilter); const show = matchesSearch && matchesLang && matchesFilter; card.hidden = !show; if (show) visible += 1; }); if (empty) empty.hidden = visible !== 0; }
-  [search, lang, filter].forEach(el => { if (el) el.addEventListener('input', filterPages); });
-  [lang, filter].forEach(el => { if (el) el.addEventListener('change', filterPages); });
-  filterPages();
-  const dataNode = document.getElementById('admin-data');
-  let adminData = { meta: {}, overrides: [], savePath: '' };
-  try { adminData = JSON.parse(dataNode.textContent || '{}'); } catch {}
-  const metaPage = document.getElementById('meta-page');
-  const metaStatus = document.getElementById('meta-status');
-  const metaResult = document.getElementById('meta-result');
-  function currentMeta(path) {
-    const override = (adminData.overrides || []).find(item => item.path === path);
-    if (override) return override;
-    const pages = adminData.meta?.pages || {};
-    return pages[path] || pages[path.replace(/^\/fr-FR/i, '')] || { status: 'unknown', badges: [], filters: [] };
-  }
-  function setChecks(name, values) { document.querySelectorAll('input[name="' + name + '"]').forEach(input => { input.checked = (values || []).includes(input.value); }); }
-  function readChecks(name) { return Array.from(document.querySelectorAll('input[name="' + name + '"]:checked')).map(input => input.value); }
-  function syncMetaForm() { if (!metaPage) return; const meta = currentMeta(metaPage.value); if (metaStatus) metaStatus.value = meta.status || 'unknown'; setChecks('badges', meta.badges || []); setChecks('filters', meta.filters || []); }
-  if (metaPage) metaPage.addEventListener('change', syncMetaForm);
-  syncMetaForm();
-  const save = document.getElementById('meta-save');
-  if (save) save.addEventListener('click', async () => {
-    metaResult.textContent = 'Saving...';
-    try {
-      const response = await fetch(adminData.savePath, { method: 'POST', headers: { 'content-type': 'application/json' }, credentials: 'same-origin', body: JSON.stringify({ path: metaPage.value, status: metaStatus.value, badges: readChecks('badges'), filters: readChecks('filters') }) });
-      const result = await response.json().catch(() => ({}));
-      if (!response.ok || !result.ok) throw new Error(result.error || 'Save failed');
-      metaResult.textContent = 'Saved. Refreshing...';
-      setTimeout(() => location.reload(), 550);
-    } catch (error) {
-      metaResult.textContent = error.message;
-    }
-  });
-})();
-</script></body></html>`;
+:root{color-scheme:dark;--bg:#0d0d0f;--panel:#151517;--card:#1b1b1f;--line:#303039;--line2:#24242b;--text:#f5f7fb;--muted:#a5adbb;--accent:#4c91ff;--good:#20c875;--warn:#f59e0b;--bad:#ef4444;--violet:#a78bfa}*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at top left,rgba(76,145,255,.13),transparent 32%),linear-gradient(180deg,#121214,#0b0b0d);color:var(--text);font:14px/1.5 Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.admin-shell{display:grid;grid-template-columns:280px minmax(0,1fr);min-height:100vh}.admin-sidebar{position:sticky;top:0;height:100vh;padding:22px 18px;border-right:1px solid var(--line);background:rgba(15,15,18,.88);overflow:auto}.admin-brand{display:flex;gap:12px;align-items:center;margin-bottom:22px}.admin-logo{display:grid;place-items:center;width:42px;height:42px;border-radius:14px;background:linear-gradient(135deg,rgba(76,145,255,.24),rgba(167,139,250,.2));border:1px solid rgba(255,255,255,.12);font-size:22px}.admin-brand strong{display:block;font-size:18px}.admin-brand small{display:block;color:var(--muted);font-size:12px}.admin-nav{display:grid;gap:7px}.admin-nav a{display:flex;align-items:center;gap:10px;width:100%;border:1px solid transparent;border-radius:12px;background:transparent;color:#d9e3f3;text-align:left;padding:10px 12px;text-decoration:none;font-weight:750}.admin-nav a:hover{background:rgba(255,255,255,.045);border-color:rgba(255,255,255,.08)}.admin-nav a.is-active{background:rgba(76,145,255,.14);border-color:rgba(76,145,255,.45);color:#fff}.admin-main{padding:26px min(42px,4vw) 42px;max-width:1460px;width:100%}.admin-topbar{display:flex;align-items:flex-start;justify-content:space-between;gap:18px;margin-bottom:20px}.admin-topbar h1{margin:0 0 5px;font-size:30px}.muted{color:var(--muted)}.admin-actions{display:flex;gap:8px;flex-wrap:wrap}.button{border:1px solid var(--line);border-radius:10px;background:rgba(255,255,255,.04);color:var(--text);padding:8px 11px;text-decoration:none;font-weight:800;cursor:pointer}.button.primary{background:rgba(76,145,255,.16);border-color:rgba(76,145,255,.5)}.button:disabled{opacity:.5;cursor:not-allowed}.hero-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:18px 0}.card{border:1px solid var(--line);border-radius:16px;background:linear-gradient(180deg,rgba(255,255,255,.055),rgba(255,255,255,.026));padding:17px}.card small{display:block;color:var(--muted);font-weight:750}.card strong{display:block;margin-top:6px;font-size:25px}.section{margin-top:16px;border:1px solid var(--line);border-radius:18px;background:rgba(24,24,28,.88);padding:18px;overflow:auto}.section-head{display:flex;align-items:center;justify-content:space-between;gap:14px;margin-bottom:13px}.section h2{margin:0;font-size:19px}.section h3{margin:0 0 10px;font-size:16px}.status{display:inline-flex;padding:4px 9px;border-radius:999px;background:rgba(76,145,255,.12);color:#8ab4ff;font-weight:850;font-size:12px}.ok{background:rgba(32,200,117,.13);color:#71e0a6}.warn{background:rgba(245,158,11,.14);color:#f8c46a}.info{background:rgba(76,145,255,.13);color:#a8c9ff}.grid-2{display:grid;grid-template-columns:1.05fr .95fr;gap:16px}.grid-3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}table{width:100%;border-collapse:collapse}th,td{padding:10px 9px;border-top:1px solid var(--line2);text-align:left;vertical-align:top}th{color:#d8deea;font-size:11px;text-transform:uppercase;letter-spacing:.055em}code{padding:2px 6px;border-radius:7px;background:#25252d;color:#dbeafe;font-size:12px}.pill{display:inline-flex;margin:2px 4px 2px 0;padding:3px 8px;border:1px solid #454550;border-radius:999px;color:#e8ecf6;font-size:12px;font-weight:750}.pill-row{margin-top:7px}.form-grid{display:grid;gap:14px}.form-grid label{display:grid;gap:7px}.form-grid select{min-height:40px;border:1px solid var(--line);border-radius:12px;background:#111116;color:#fff;padding:8px 11px}.checks{display:flex;flex-wrap:wrap;gap:8px}.check{display:inline-flex!important;gap:7px;align-items:center;border:1px solid var(--line2);border-radius:999px;padding:7px 10px;background:rgba(255,255,255,.025)}.page-list{display:grid;gap:8px}.page-card{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(180px,.8fr) minmax(150px,.6fr);gap:12px;align-items:center;border:1px solid var(--line2);border-radius:13px;background:rgba(255,255,255,.025);padding:12px}.page-card strong,.page-card small{display:block}.page-card small{color:var(--muted)}.bars{display:grid;gap:9px;margin-bottom:18px}.bar{display:grid;grid-template-columns:160px 1fr 58px;gap:10px;align-items:center}.bar-track{height:9px;border-radius:999px;background:#25252d;overflow:hidden}.bar-fill{height:100%;border-radius:999px;background:linear-gradient(90deg,var(--accent),var(--violet))}.empty{padding:18px;border:1px dashed #3a3a45;border-radius:14px;color:var(--muted);background:rgba(255,255,255,.02)}.notice{padding:12px 14px;border:1px solid rgba(32,200,117,.35);border-radius:12px;background:rgba(32,200,117,.1);color:#8df0bb}.check-list{display:grid;gap:9px;margin:0;padding:0;list-style:none}.check-list li{padding:11px;border:1px solid var(--line2);border-radius:12px;background:rgba(255,255,255,.025)}.admin-footer-note{margin-top:18px;color:var(--muted);font-size:12px}hr{border:0;border-top:1px solid var(--line);margin:18px 0}@media(max-width:1000px){.admin-shell{grid-template-columns:1fr}.admin-sidebar{position:relative;height:auto}.admin-nav{grid-template-columns:repeat(2,minmax(0,1fr))}.hero-grid,.grid-3{grid-template-columns:repeat(2,minmax(0,1fr))}.grid-2{grid-template-columns:1fr}.page-card{grid-template-columns:1fr}}@media(max-width:620px){.admin-main{padding:18px 12px 30px}.hero-grid,.grid-3,.admin-nav{grid-template-columns:1fr}.admin-topbar{display:block}.bar{grid-template-columns:1fr}.section{padding:14px}}
+</style></head><body><div class="admin-shell"><aside class="admin-sidebar"><div class="admin-brand"><div class="admin-logo">🛠️</div><div><strong>Cobblemon Realms</strong><small>Wiki Admin Console</small></div></div><nav class="admin-nav">${adminNav(env, activeTab)}</nav><p class="admin-footer-note">Hidden dashboard. Keep this URL private.</p></aside><main class="admin-main"><div class="admin-topbar"><div><h1>${h(activeTab[0].toUpperCase() + activeTab.slice(1).replace('-', ' '))}</h1><p class="muted">${h(subtitles[activeTab])}</p></div><div class="admin-actions"><a class="button" href="/" target="_blank" rel="noopener">Open wiki</a><a class="button" href="${h(adminLink(env, activeTab, url.searchParams.get('edit') ? { edit: url.searchParams.get('edit') } : {}))}">Refresh</a></div></div>${panels[activeTab] || panels.overview}</main></div></body></html>`;
 }
 
 async function serveAdminDashboard(request, env) {
