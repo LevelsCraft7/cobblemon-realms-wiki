@@ -151,8 +151,10 @@ for (const file of htmlFiles) {
     '<meta name="apple-mobile-web-app-capable" content="yes">',
     `<link rel="stylesheet" href="/assets/site-features.css?v=${assetVersion}">`,
     `<link rel="stylesheet" href="/assets/search-filter-polish.css?v=${assetVersion}">`,
+    `<link rel="stylesheet" href="/assets/page-toc-collapse.css?v=${assetVersion}">`,
     `<script defer src="/assets/site-features.js?v=${assetVersion}"></script>`,
-    `<script defer src="/assets/search-filter-polish.js?v=${assetVersion}"></script>`
+    `<script defer src="/assets/search-filter-polish.js?v=${assetVersion}"></script>`,
+    `<script defer src="/assets/page-toc-collapse.js?v=${assetVersion}"></script>`
   ].join('\n  ');
 
   html = html.replace('</head>', `  ${headAssets}\n</head>`);
@@ -192,7 +194,8 @@ fs.writeFileSync(path.join(out, 'build-info.json'), JSON.stringify({
     'hierarchical-breadcrumbs',
     'local-favorites',
     'recent-pages',
-    'image-lightbox'
+    'image-lightbox',
+    'collapsible-page-toc'
   ]
 }, null, 2));
 
