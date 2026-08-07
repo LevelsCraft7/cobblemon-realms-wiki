@@ -112,6 +112,22 @@ Toutes les informations concernant la progression, les arènes, les champions et
 
 ---
 
+## 🧭 Je veux trouver le bon guide rapidement
+
+Utilisez ces raccourcis si vous ne savez pas par où commencer :
+
+| Je veux... | Page recommandée |
+| --- | --- |
+| Installer le modpack | [Guide d'installation](installation.md) |
+| Commencer sans rater les bases | [Premiers pas](getting-started.md) |
+| Rejoindre ou créer un serveur | [Serveurs multijoueur](multiplayer-servers.md) |
+| Comprendre les apparitions Pokémon | [Pokémon et apparitions](pokemon-and-spawns.md) |
+| Comprendre les légendaires | [Myths & Legends](pokemons-guides/myths-and-legends-legendaries.md) |
+| Voir les changements récents | [Nouveautés v6.0+](whats-new-v6.md) |
+| Signaler un problème | [Signaler un problème](report-a-bug.md) |
+
+---
+
 {% hint style="success" %}
 ## Nous contacter
 
