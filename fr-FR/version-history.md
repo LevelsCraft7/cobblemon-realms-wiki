@@ -1,7 +1,7 @@
 # 🗂️ Historique complet des versions
 
 {% hint style="info" %}
-Cette page retrace les versions publiques de **Cobblemon Realms** publiées sur CurseForge. Elle distingue les versions client, les correctifs et les server packs, puis résume les principales évolutions documentées dans les changelogs officiels.
+Cette page retrace les versions publiques de **Cobblemon Realms** publiées sur CurseForge. Elle distingue les versions client, les correctifs et les server packs. **Chaque version publiée est considérée comme importante**, y compris les patches intermédiaires comme 5.9.1, 5.9.2, 5.9.3b et 5.9.4.
 {% endhint %}
 
 ---
@@ -45,11 +45,11 @@ Sauf indication contraire, toutes les versions ciblent **Minecraft 1.21.1 avec N
 
 | Version | Publication | Type |
 | --- | --- | --- |
-| 5.9.4 | 14 juin 2026 | Release |
-| 5.9.3b | 12 juin 2026 | Release |
-| 5.9.2 | 2 juin 2026 | Release |
-| 5.9.1 | 31 mai 2026 | Release |
-| 5.9 | 30 mai 2026 | Bêta |
+| **5.9.4** | 14 juin 2026 | Release |
+| **5.9.3b** | 12 juin 2026 | Release |
+| **5.9.2** | 2 juin 2026 | Release |
+| **5.9.1** | 31 mai 2026 | Release |
+| **5.9** | 30 mai 2026 | Bêta |
 | 5.8.2 | 5 avril 2026 | Release |
 | 5.8.1 | 30 mars 2026 | Release |
 | 5.8hf | 30 mars 2026 | Hotfix |
@@ -125,12 +125,89 @@ Sauf indication contraire, toutes les versions ciblent **Minecraft 1.21.1 avec N
 
 ---
 
+## 🚀 Branche 5.9, version par version
+
+{% hint style="success" %}
+Les versions **5.9, 5.9.1, 5.9.2, 5.9.3b et 5.9.4 sont cinq publications distinctes**. Elles ne doivent pas être regroupées sous une simple ligne « 5.9.x ».
+{% endhint %}
+
+### 5.9 · 30 mai 2026 · Bêta
+
+La 5.9 constitue la grosse base fonctionnelle de cette branche.
+
+- Ajout de la progression **Gym World Tour** via RCT.
+- Ajout du système complet d’**arènes de champions** avec plusieurs types d’arènes.
+- Amélioration du parcours de départ et du guidage vers le Professeur Oak / Professeur Chen.
+- Amélioration des dialogues du Spawn Guide et de l’onboarding de l’île de spawn.
+- Régénération de l’île de spawn lors de la première connexion en 5.9.
+- Nombreuses évolutions de modèles Pokémon, montures, économie, portails, apparitions, structures et performances.
+
+[**Changelog officiel 5.9 →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/8169072)
+
+### 5.9.1 · 31 mai 2026 · Release
+
+La **5.9.1 est une publication client officielle distincte**, sortie le lendemain de la bêta 5.9 et marquée **Release** sur CurseForge.
+
+- Elle représente la première révision stable publique de la branche 5.9.
+- Elle doit être distinguée de la bêta 5.9 dans les sauvegardes, les rapports de bugs et les demandes de support.
+- Le détail complet de son changelog n’est pas reproduit ici lorsque la source CurseForge ne permet pas de le confirmer proprement. La page conserve volontairement la version au lieu de fusionner son historique avec la 5.9.
+
+[**Retrouver la 5.9.1 dans l’archive CurseForge →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/all)
+
+### 5.9.2 · 2 juin 2026 · Release
+
+La 5.9.2 poursuit la stabilisation tout en modifiant plusieurs règles importantes du modpack.
+
+- Les objets d’accessoires ne peuvent plus être perdus à la mort.
+- Les dimensions d’arènes gardent désormais leur propre heure fixe sans modifier l’Overworld.
+- Les mondes de spawn et de hub restaurent automatiquement le cycle jour / nuit normal.
+- Suppression de l’ancien système de charge de Meltan.
+- Meltan évolue désormais en Melmetal au **niveau 70** lorsqu’il tient une **enclume Minecraft**.
+- Ajout et mise à jour de plusieurs textures et éléments visuels.
+
+[**Retrouver la 5.9.2 dans l’archive CurseForge →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/all)
+
+### 5.9.3b · 12 juin 2026 · Release
+
+La publication publique porte le nom **5.9.3b**. Elle correspond à la branche de maintenance 5.9.3 avec une révision supplémentaire.
+
+- Rafraîchissement de l’île de spawn.
+- Travail important sur la stabilité des arènes et leur génération.
+- Améliorations de génération du monde.
+- Améliorations musicales et audio.
+- Optimisations de performances.
+- Nombreuses améliorations Quality of Life et correctifs complémentaires.
+
+{% hint style="info" %}
+Le suffixe **b** fait partie du nom du fichier public. Pour un rapport de bug, indiquez bien **5.9.3b** et non simplement 5.9.3.
+{% endhint %}
+
+[**Retrouver la 5.9.3b dans l’archive CurseForge →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/all)
+
+### 5.9.4 · 14 juin 2026 · Release
+
+La 5.9.4 est la dernière publication officielle de la branche 5.9 et une mise à jour de maintenance centrée sur la fiabilité.
+
+- Ajout de la commande admin `/arena admin regenerate <type>` pour régénérer manuellement un type d’arène existant.
+- Incrémentation de la version de placement des arènes afin que les emplacements existants puissent être reconstruits correctement après mise à jour.
+- Correction de la duplication des PNJ statiques du spawn lors de la connexion au monde.
+- Nettoyage automatique des doublons de PNJ grâce à leurs identifiants uniques.
+- Correction des arènes parfois générées seulement partiellement lorsque toute la zone n’était pas chargée avant le placement du schematic.
+- Nouveau correctif de stabilité pour **Cobbreeding**.
+
+[**Changelog officiel 5.9.4 →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/8249569)
+
+---
+
 ## 🌟 Grandes étapes du modpack
 
 ### Versions 5.x
 
 - **5.9** : Gym World Tour, système complet d’arènes, meilleure introduction des starters, nouvelles apparitions, structures et optimisations.
-- **5.9.1 à 5.9.4** : stabilisation des arènes, mondes, PNJ, placements de structures et Cobbreeding.
+- **5.9.1** : première Release publique distincte suivant la bêta 5.9.
+- **5.9.2** : règles de mort pour les accessoires, gestion du temps des arènes et nouvelle évolution de Meltan.
+- **5.9.3b** : spawn, stabilité des arènes, génération, musique, performances et QoL.
+- **5.9.4** : maintenance des arènes, commande de régénération, PNJ dupliqués, placement des schematics et Cobbreeding.
 - **5.8hf à 5.8.2** : améliorations de Catch Indicator et PokéNav, correctifs de raids, ressources et crashs.
 - **5.6** : nouvelle fondation du core, refonte monétaire, conversion des anciennes Realms Coins, progression et stabilité multijoueur.
 - **5.3** : nouvelles formes, nouveaux Pokémon montables, améliorations de performances, loots et apparitions.
