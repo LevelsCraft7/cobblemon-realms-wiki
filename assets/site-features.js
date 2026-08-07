@@ -7,6 +7,7 @@
   const analyticsEndpoint = '/api/analytics';
   let searchIndex = [];
   let activeSearchIndex = -1;
+  let activeSearchCategory = 'all';
   const reportedZeroSearches = new Set();
 
   const labels = {
@@ -23,18 +24,41 @@
     server: isFrench ? 'Serveur' : 'Server',
     admin: isFrench ? 'Admin requis' : 'Admin required',
     beginner: isFrench ? 'Débutant' : 'Beginner',
-    advanced: isFrench ? 'Avancé' : 'Advanced'
+    advanced: isFrench ? 'Avancé' : 'Advanced',
+    home: isFrench ? 'Accueil' : 'Home',
+    favorite: isFrench ? 'Ajouter aux favoris' : 'Add to favorites',
+    unfavorite: isFrench ? 'Retirer des favoris' : 'Remove from favorites',
+    favorites: isFrench ? 'Favoris' : 'Favorites',
+    recent: isFrench ? 'Récemment consultées' : 'Recently viewed',
+    clearRecent: isFrench ? 'Vider' : 'Clear',
+    imageOpen: isFrench ? 'Agrandir l’image' : 'Enlarge image',
+    imageClose: isFrench ? 'Fermer l’image' : 'Close image',
+    categoryAll: isFrench ? 'Tout' : 'All',
+    categoryGameplay: 'Gameplay',
+    categoryMods: isFrench ? 'Mods' : 'Mods',
+    categoryLegendary: isFrench ? 'Légendaires' : 'Legendaries',
+    categoryServer: isFrench ? 'Serveur' : 'Server',
+    categoryCommands: isFrench ? 'Commandes' : 'Commands'
   };
+
+  const searchCategories = [
+    ['all', labels.categoryAll],
+    ['gameplay', labels.categoryGameplay],
+    ['mods', labels.categoryMods],
+    ['legendary', labels.categoryLegendary],
+    ['server', labels.categoryServer],
+    ['commands', labels.categoryCommands]
+  ];
 
   const synonymGroups = [
     ['installation', 'installer', 'install', 'setup', 'configuration'],
     ['server', 'serveur', 'multiplayer', 'multijoueur', 'hosting', 'hebergement'],
-    ['legendary', 'legendaire', 'legendaire', 'mythical', 'mythique', 'myths', 'legends'],
+    ['legendary', 'legendaire', 'légendaire', 'mythical', 'mythique', 'myths', 'legends'],
     ['pokemon', 'pokémon', 'creature', 'mob'],
     ['spawn', 'spawns', 'apparition', 'apparitions', 'encounter', 'rencontre'],
-    ['quest', 'quests', 'quete', 'quetes', 'mission'],
+    ['quest', 'quests', 'quete', 'quêtes', 'mission'],
     ['mount', 'riding', 'monture', 'rideable'],
-    ['bug', 'issue', 'report', 'signaler', 'probleme', 'problem', 'support'],
+    ['bug', 'issue', 'report', 'signaler', 'probleme', 'problème', 'problem', 'support'],
     ['performance', 'optimize', 'optimisation', 'lag', 'fps'],
     ['dimension', 'world', 'monde', 'realm'],
     ['item', 'items', 'objet', 'objets'],
@@ -155,6 +179,15 @@
       ['version', ['version', 'changelog', 'historique', 'history', 'update']]
     ];
     return topics.find(([, terms]) => terms.some((term) => normalized.includes(term)))?.[0] || 'other';
+  }
+
+  function categoryForEntry(entry) {
+    const haystack = normalizeText(`${entry.title} ${entry.href} ${entry.text.slice(0, 900)}`);
+    if (/\b(command|commands|commande|commandes|cobblesafari)\b/.test(haystack)) return 'commands';
+    if (/\b(legendary|legendaire|myths|legends|mythique|generation|galar|hisui|sinnoh|johto|hoenn|kalos|alola|paldea|kitakami)\b/.test(haystack) || /legendary_monuments|myths-and-legends|gen-list/.test(entry.href)) return 'legendary';
+    if (/mods-guides|cobblesafari|rustling|luggage|chunky|musicinterface|cobbleworkers|legendary_monuments/.test(entry.href)) return 'mods';
+    if (/\b(server|serveur|multiplayer|multijoueur|hosting|admin|backup|sauvegarde|neoforge|java)\b/.test(haystack) || /settings|installation|multiplayer/.test(entry.href)) return 'server';
+    return 'gameplay';
   }
 
   function privacyAllowsAnalytics() {
@@ -297,6 +330,170 @@
     }
   }
 
+  function pageTitle() {
+    return document.querySelector('article h1')?.textContent.trim() || document.title.replace(/\s*\|\s*Cobblemon Realms Wiki\s*$/i, '').trim();
+  }
+
+  function currentPageMeta() {
+    if (document.body.classList.contains('not-found-page')) return null;
+    const path = normalizePath(location.href);
+    if (path === '/') return null;
+    return { href: path, title: pageTitle(), language };
+  }
+
+  function readLocalList(key) {
+    try {
+      const value = JSON.parse(localStorage.getItem(key) || '[]');
+      return Array.isArray(value) ? value : [];
+    } catch {
+      return [];
+    }
+  }
+
+  function writeLocalList(key, value) {
+    try {
+      localStorage.setItem(key, JSON.stringify(value));
+    } catch {}
+  }
+
+  const favoritesKey = `cobblemon-wiki-favorites-${language}`;
+  const recentKey = `cobblemon-wiki-recent-${language}`;
+
+  function isFavorite(path) {
+    return readLocalList(favoritesKey).some((item) => item.href === path);
+  }
+
+  function setFavorite(meta, enabled) {
+    if (!meta) return;
+    const list = readLocalList(favoritesKey).filter((item) => item.href !== meta.href);
+    if (enabled) list.unshift({ ...meta, savedAt: Date.now() });
+    writeLocalList(favoritesKey, list.slice(0, 24));
+  }
+
+  function recordRecentPage(meta) {
+    if (!meta) return;
+    const list = readLocalList(recentKey).filter((item) => item.href !== meta.href);
+    list.unshift({ ...meta, viewedAt: Date.now() });
+    writeLocalList(recentKey, list.slice(0, 8));
+  }
+
+  function renderPersonalNavigation() {
+    const sidebar = document.querySelector('#sidebar');
+    const navigation = sidebar?.querySelector('.sidebar-navigation');
+    if (!sidebar || !navigation) return;
+
+    sidebar.querySelector('.personal-navigation')?.remove();
+    const favorites = readLocalList(favoritesKey).slice(0, 6);
+    const recent = readLocalList(recentKey).slice(0, 5);
+    if (!favorites.length && !recent.length) return;
+
+    const section = document.createElement('section');
+    section.className = 'personal-navigation';
+    section.setAttribute('aria-label', isFrench ? 'Navigation personnelle' : 'Personal navigation');
+
+    const renderList = (title, items, extra = '') => {
+      if (!items.length) return '';
+      return `<div class="personal-navigation-block"><div class="personal-navigation-title"><strong>${escapeHtml(title)}</strong>${extra}</div><ul>${items.map((item) => `<li><a href="${escapeHtml(item.href)}">${escapeHtml(item.title)}</a></li>`).join('')}</ul></div>`;
+    };
+
+    section.innerHTML = `${renderList(labels.favorites, favorites)}${renderList(labels.recent, recent, `<button type="button" data-clear-recent>${labels.clearRecent}</button>`)}`;
+    section.querySelector('[data-clear-recent]')?.addEventListener('click', () => {
+      writeLocalList(recentKey, []);
+      renderPersonalNavigation();
+    });
+
+    const credits = sidebar.querySelector('.sidebar-credits');
+    if (credits) sidebar.insertBefore(section, credits);
+    else sidebar.appendChild(section);
+  }
+
+  function installFavoriteButton() {
+    const meta = currentPageMeta();
+    const article = document.querySelector('article');
+    const heading = article?.querySelector(':scope > h1');
+    if (!meta || !article || !heading || article.querySelector('.article-tools')) return;
+
+    const tools = document.createElement('div');
+    tools.className = 'article-tools';
+
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'favorite-button';
+
+    const refresh = () => {
+      const favorite = isFavorite(meta.href);
+      button.classList.toggle('is-active', favorite);
+      button.setAttribute('aria-pressed', String(favorite));
+      button.setAttribute('aria-label', favorite ? labels.unfavorite : labels.favorite);
+      button.title = favorite ? labels.unfavorite : labels.favorite;
+      button.innerHTML = `<span aria-hidden="true">${favorite ? '★' : '☆'}</span><strong>${favorite ? (isFrench ? 'Favori' : 'Favorite') : labels.favorite}</strong>`;
+    };
+
+    button.addEventListener('click', () => {
+      setFavorite(meta, !isFavorite(meta.href));
+      refresh();
+      renderPersonalNavigation();
+    });
+
+    tools.appendChild(button);
+    heading.insertAdjacentElement('afterend', tools);
+    refresh();
+  }
+
+  function installRecentPages() {
+    const meta = currentPageMeta();
+    recordRecentPage(meta);
+    renderPersonalNavigation();
+  }
+
+  function findActiveSidebarLink() {
+    const sidebar = document.querySelector('#sidebar .sidebar-navigation');
+    if (!sidebar) return null;
+    const links = [...sidebar.querySelectorAll('a[href]')];
+    return links.find((link) => link.classList.contains('active') || link.getAttribute('aria-current') === 'page')
+      || links.find((link) => normalizePath(link.href) === normalizePath(location.href))
+      || null;
+  }
+
+  function installBreadcrumbs() {
+    const article = document.querySelector('article');
+    const heading = article?.querySelector(':scope > h1');
+    const active = findActiveSidebarLink();
+    if (!article || !heading || !active || article.querySelector('.wiki-breadcrumb')) return;
+
+    const crumbs = [{ label: labels.home, href: isFrench ? '/fr-FR/' : '/' }];
+    const group = active.closest('.nav-group');
+    const groupLabel = group?.querySelector(':scope > summary span')?.textContent.trim();
+    if (groupLabel) crumbs.push({ label: groupLabel, href: null });
+
+    const ancestorDetails = [];
+    let cursor = active.parentElement;
+    while (cursor && cursor !== group && cursor !== document.body) {
+      if (cursor.matches?.('details.nav-subgroup')) ancestorDetails.push(cursor);
+      cursor = cursor.parentElement;
+    }
+
+    ancestorDetails.reverse().forEach((details) => {
+      const link = details.querySelector(':scope > summary > a[href]');
+      if (link && link !== active) crumbs.push({ label: link.textContent.trim(), href: link.getAttribute('href') });
+    });
+
+    crumbs.push({ label: active.textContent.trim(), href: null });
+
+    const nav = document.createElement('nav');
+    nav.className = 'wiki-breadcrumb';
+    nav.setAttribute('aria-label', isFrench ? 'Fil d’Ariane' : 'Breadcrumb');
+    nav.innerHTML = crumbs.map((crumb, index) => {
+      const current = index === crumbs.length - 1;
+      const body = crumb.href && !current
+        ? `<a href="${escapeHtml(crumb.href)}">${escapeHtml(crumb.label)}</a>`
+        : `<span${current ? ' aria-current="page"' : ''}>${escapeHtml(crumb.label)}</span>`;
+      return `<span class="wiki-breadcrumb-item">${body}</span>`;
+    }).join('');
+
+    article.insertBefore(nav, heading);
+  }
+
   function installArticlePagination() {
     const article = document.querySelector('article');
     const sidebar = document.querySelector('#sidebar .sidebar-navigation');
@@ -357,7 +554,9 @@
     container.className = 'technical-badges';
     container.setAttribute('aria-label', isFrench ? 'Informations techniques du guide' : 'Guide technical information');
     container.innerHTML = badges.map((badge) => `<span class="technical-badge is-${badge.type}">${escapeHtml(badge.label)}</span>`).join('');
-    heading.insertAdjacentElement('afterend', container);
+    const tools = article.querySelector('.article-tools');
+    if (tools) tools.insertAdjacentElement('afterend', container);
+    else heading.insertAdjacentElement('afterend', container);
   }
 
   function closeSmartSearch() {
@@ -386,6 +585,10 @@
     current.scrollIntoView({ block: 'nearest' });
   }
 
+  function renderCategoryFilters() {
+    return `<div class="search-category-filters" role="toolbar" aria-label="${isFrench ? 'Filtrer la recherche' : 'Filter search'}">${searchCategories.map(([id, label]) => `<button type="button" data-search-category="${id}" class="${activeSearchCategory === id ? 'is-active' : ''}">${escapeHtml(label)}</button>`).join('')}</div>`;
+  }
+
   function renderSmartSearch() {
     if (!input || !results) return;
     const query = input.value.trim();
@@ -395,27 +598,38 @@
       return;
     }
 
-    const matches = searchIndex
+    const scoredMatches = searchIndex
       .filter((entry) => entry.language === language)
-      .map((entry) => ({ ...entry, score: scoreEntry(entry, query) }))
-      .filter((entry) => entry.score >= 18)
+      .map((entry) => ({ ...entry, category: categoryForEntry(entry), score: scoreEntry(entry, query) }))
+      .filter((entry) => entry.score >= 18);
+
+    const matches = scoredMatches
+      .filter((entry) => activeSearchCategory === 'all' || entry.category === activeSearchCategory)
       .sort((left, right) => right.score - left.score || left.title.localeCompare(right.title, language))
       .slice(0, 10);
 
     activeSearchIndex = -1;
     if (!matches.length) {
-      results.innerHTML = `<div class="search-empty">${labels.noResults}</div>`;
-      const zeroKey = `${language}:${normalizedQuery}`;
+      results.innerHTML = `${renderCategoryFilters()}<div class="search-empty">${labels.noResults}</div>`;
+      const zeroKey = `${language}:${activeSearchCategory}:${normalizedQuery}`;
       if (!reportedZeroSearches.has(zeroKey)) {
         reportedZeroSearches.add(zeroKey);
-        sendAnalytics('search_zero', classifySearchTopic(query));
+        sendAnalytics('search_zero', activeSearchCategory === 'all' ? classifySearchTopic(query) : activeSearchCategory);
       }
     } else {
-      results.innerHTML = `${matches.map((entry, index) => `<a id="smart-search-result-${index}" role="option" aria-selected="false" href="${escapeHtml(entry.href)}"><strong>${highlightTitle(entry.title, query)}</strong><span>${escapeHtml(entry.href.replace(/\.html$/i, ''))}</span></a>`).join('')}<div class="search-keyboard-help"><span><kbd>↑</kbd><kbd>↓</kbd> ${labels.navigate}</span><span><kbd>Entrée</kbd> ${labels.open}</span></div>`;
+      results.innerHTML = `${renderCategoryFilters()}${matches.map((entry, index) => `<a id="smart-search-result-${index}" role="option" aria-selected="false" href="${escapeHtml(entry.href)}"><strong>${highlightTitle(entry.title, query)}</strong><span>${escapeHtml(entry.href.replace(/\.html$/i, ''))}</span></a>`).join('')}<div class="search-keyboard-help"><span><kbd>↑</kbd><kbd>↓</kbd> ${labels.navigate}</span><span><kbd>Entrée</kbd> ${labels.open}</span></div>`;
       results.querySelectorAll('a[role="option"]').forEach((link, index) => {
         link.addEventListener('mouseenter', () => setActiveSearchResult(index));
       });
     }
+
+    results.querySelectorAll('[data-search-category]').forEach((button) => {
+      button.addEventListener('click', () => {
+        activeSearchCategory = button.dataset.searchCategory || 'all';
+        renderSmartSearch();
+        input.focus();
+      });
+    });
 
     results.hidden = false;
     input.setAttribute('aria-expanded', 'true');
@@ -464,6 +678,60 @@
     }, { capture: true });
   }
 
+  function installImageLightbox() {
+    const article = document.querySelector('article');
+    if (!article || document.querySelector('.image-lightbox')) return;
+
+    const overlay = document.createElement('div');
+    overlay.className = 'image-lightbox';
+    overlay.hidden = true;
+    overlay.innerHTML = `<button type="button" class="image-lightbox-close" aria-label="${labels.imageClose}">×</button><figure><img alt=""><figcaption></figcaption></figure>`;
+    document.body.appendChild(overlay);
+
+    const lightboxImage = overlay.querySelector('img');
+    const caption = overlay.querySelector('figcaption');
+    const close = () => {
+      overlay.hidden = true;
+      document.body.classList.remove('lightbox-open');
+      lightboxImage.removeAttribute('src');
+      lightboxImage.alt = '';
+      caption.textContent = '';
+    };
+
+    overlay.querySelector('.image-lightbox-close')?.addEventListener('click', close);
+    overlay.addEventListener('click', (event) => {
+      if (event.target === overlay) close();
+    });
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape' && !overlay.hidden) close();
+    });
+
+    article.querySelectorAll('img').forEach((image) => {
+      if (image.closest('a, .emoji, .image-lightbox')) return;
+      image.classList.add('zoomable-image');
+      image.setAttribute('tabindex', '0');
+      image.setAttribute('role', 'button');
+      image.setAttribute('aria-label', labels.imageOpen);
+
+      const open = () => {
+        lightboxImage.src = image.currentSrc || image.src;
+        lightboxImage.alt = image.alt || '';
+        caption.textContent = image.alt || image.closest('figure')?.querySelector('figcaption')?.textContent.trim() || '';
+        caption.hidden = !caption.textContent;
+        overlay.hidden = false;
+        document.body.classList.add('lightbox-open');
+      };
+
+      image.addEventListener('click', open);
+      image.addEventListener('keydown', (event) => {
+        if (event.key === 'Enter' || event.key === ' ') {
+          event.preventDefault();
+          open();
+        }
+      });
+    });
+  }
+
   function installAnalytics() {
     if (!privacyAllowsAnalytics()) return;
     sendAnalytics(document.body.classList.contains('not-found-page') ? 'not_found' : 'pageview');
@@ -491,11 +759,15 @@
   }
 
   function initialize() {
+    installBreadcrumbs();
+    installFavoriteButton();
+    installRecentPages();
     installCommandCopyButtons();
     installMobileTableOfContents();
     installArticlePagination();
     installTechnicalBadges();
     installSmartSearch();
+    installImageLightbox();
     installAnalytics();
   }
 
