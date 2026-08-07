@@ -25,55 +25,56 @@
     const links = [...tocNav.querySelectorAll(':scope > a')];
     if (links.length < 6 || !links.some((link) => link.classList.contains('toc-depth-3'))) return;
 
-    const fragment = document.createDocumentFragment();
-    let currentGroup = null;
-    let currentList = null;
-
+    const sections = [];
     links.forEach((link) => {
       const isChild = link.classList.contains('toc-depth-3');
       if (!isChild) {
-        const wrapper = document.createElement('details');
-        wrapper.className = 'page-toc-group';
-
-        const summary = document.createElement('summary');
-        summary.className = 'page-toc-group-summary';
-        summary.appendChild(link);
-
-        const chevron = document.createElement('span');
-        chevron.className = 'page-toc-group-chevron';
-        chevron.setAttribute('aria-hidden', 'true');
-        summary.appendChild(chevron);
-
-        currentList = document.createElement('div');
-        currentList.className = 'page-toc-children';
-        wrapper.append(summary, currentList);
-        fragment.appendChild(wrapper);
-        currentGroup = wrapper;
+        sections.push({ parent: link, children: [] });
         return;
       }
 
-      if (!currentGroup || !currentList) {
-        fragment.appendChild(link);
+      const current = sections[sections.length - 1];
+      if (current) current.children.push(link);
+      else sections.push({ parent: null, children: [link] });
+    });
+
+    const fragment = document.createDocumentFragment();
+    sections.forEach((section) => {
+      if (!section.parent) {
+        section.children.forEach((child) => fragment.appendChild(child));
         return;
       }
 
-      currentList.appendChild(link);
+      if (!section.children.length) {
+        fragment.appendChild(section.parent);
+        return;
+      }
+
+      const wrapper = document.createElement('details');
+      wrapper.className = 'page-toc-group';
+
+      const summary = document.createElement('summary');
+      summary.className = 'page-toc-group-summary';
+      summary.appendChild(section.parent);
+
+      const chevron = document.createElement('span');
+      chevron.className = 'page-toc-group-chevron';
+      chevron.setAttribute('aria-hidden', 'true');
+      summary.appendChild(chevron);
+
+      const childList = document.createElement('div');
+      childList.className = 'page-toc-children';
+      section.children.forEach((child) => childList.appendChild(child));
+
+      wrapper.append(summary, childList);
+      wrapper.querySelector(':scope > summary > a')?.addEventListener('click', () => {
+        wrapper.open = true;
+      });
+
+      fragment.appendChild(wrapper);
     });
 
     tocNav.replaceChildren(fragment);
-
-    tocNav.querySelectorAll('.page-toc-group').forEach((group) => {
-      const children = group.querySelector('.page-toc-children');
-      if (!children || !children.children.length) {
-        const link = group.querySelector(':scope > summary > a');
-        if (link) fragment.appendChild(link);
-      }
-
-      group.querySelector(':scope > summary > a')?.addEventListener('click', () => {
-        group.open = true;
-      });
-    });
-
     tocNav.dataset.collapsibleReady = 'true';
     syncOpenGroup();
   }
