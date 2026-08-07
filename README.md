@@ -98,6 +98,6 @@ You can support us by:
 
 ---
 
-## ✨ Have a great journey in Cobblemon Realms
+## ✨ Have a great journey in the Cobblemon Realms Universe
 
 Whether you are a beginner or an experienced trainer, this wiki will give you a clear foundation to fully enjoy the **Cobblemon Realms** experience.
