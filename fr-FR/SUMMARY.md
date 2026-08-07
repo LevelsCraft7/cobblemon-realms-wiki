@@ -11,7 +11,6 @@
 * [❓ Foire aux questions](faq.md)
 * [🐞 Signaler un problème](report-a-bug.md)
 * [🗂️ Historique des versions](version-history.md)
-* [🆕 Nouveautés v6.0+](whats-new-v6.md)
 * [🤝 Soutenir le projet](contributing.md)
 
 ## Cobblemon Realms
