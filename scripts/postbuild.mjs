@@ -180,11 +180,16 @@ fs.writeFileSync(path.join(out, 'build-info.json'), JSON.stringify({
   features: [
     'article-pagination',
     'smart-search',
+    'smart-search-categories',
     'technical-badges',
     'custom-404',
     'version-history',
     'anonymous-analytics',
-    'verified-git-page-dates'
+    'verified-git-page-dates',
+    'hierarchical-breadcrumbs',
+    'local-favorites',
+    'recent-pages',
+    'image-lightbox'
   ]
 }, null, 2));
 
