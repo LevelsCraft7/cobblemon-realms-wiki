@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-07",
+  "labels": {
+    "fr": {
+      "status": {
+        "verified-v6": "Vérifié v6.0+",
+        "review": "À vérifier",
+        "legacy-5": "Legacy 5.x",
+        "draft": "Brouillon"
+      },
+      "badges": {
+        "v6": "v6.0+",
+        "client": "Client",
+        "server": "Serveur",
+        "admin": "Admin",
+        "mods": "Mods",
+        "legendary": "Légendaires",
+        "gameplay": "Gameplay",
+        "commands": "Commandes",
+        "support": "Support"
+      },
+      "filters": {
+        "gameplay": "Gameplay",
+        "mods": "Mods",
+        "legendary": "Légendaires",
+        "server": "Serveur",
+        "commands": "Commandes"
+      }
+    },
+    "en": {
+      "status": {
+        "verified-v6": "Verified v6.0+",
+        "review": "Needs review",
+        "legacy-5": "Legacy 5.x",
+        "draft": "Draft"
+      },
+      "badges": {
+        "v6": "v6.0+",
+        "client": "Client",
+        "server": "Server",
+        "admin": "Admin",
+        "mods": "Mods",
+        "legendary": "Legendaries",
+        "gameplay": "Gameplay",
+        "commands": "Commands",
+        "support": "Support"
+      },
+      "filters": {
+        "gameplay": "Gameplay",
+        "mods": "Mods",
+        "legendary": "Legendaries",
+        "server": "Server",
+        "commands": "Commands"
+      }
+    }
+  },
+  "defaults": {
+    "status": "verified-v6",
+    "badges": ["v6", "client"],
+    "filters": ["gameplay"]
+  },
+  "rules": [
+    {
+      "match": "^/(fr-FR/)?mods-guides/",
+      "status": "verified-v6",
+      "badges": ["v6", "client", "mods"],
+      "filters": ["mods"]
+    },
+    {
+      "match": "^/(fr-FR/)?mods-guides/CobbleSafari/",
+      "status": "verified-v6",
+      "badges": ["v6", "client", "mods"],
+      "filters": ["mods", "gameplay"]
+    },
+    {
+      "match": "^/(fr-FR/)?mods-guides/CobbleSafari/cobblesafari$",
+      "status": "verified-v6",
+      "badges": ["v6", "client", "server", "mods"],
+      "filters": ["mods", "server", "commands"]
+    },
+    {
+      "match": "^/(fr-FR/)?pokemons-guides/gen-list/",
+      "status": "verified-v6",
+      "badges": ["v6", "client", "legendary"],
+      "filters": ["legendary", "gameplay"]
+    },
+    {
+      "match": "^/(fr-FR/)?pokemons-guides/myths-and-legends-legendaries$",
+      "status": "verified-v6",
+      "badges": ["v6", "client", "legendary"],
+      "filters": ["legendary"]
+    },
+    {
+      "match": "^/(fr-FR/)?installation$",
+      "status": "verified-v6",
+      "badges": ["v6", "client", "server", "support"],
+      "filters": ["server", "gameplay"]
+    },
+    {
+      "match": "^/(fr-FR/)?multiplayer-servers$",
+      "status": "verified-v6",
+      "badges": ["v6", "server", "admin"],
+      "filters": ["server", "commands"]
+    },
+    {
+      "match": "^/(fr-FR/)?settings/",
+      "status": "verified-v6",
+      "badges": ["v6", "client", "server", "admin"],
+      "filters": ["server"]
+    },
+    {
+      "match": "^/(fr-FR/)?report-a-bug$",
+      "status": "verified-v6",
+      "badges": ["v6", "support"],
+      "filters": ["gameplay", "server"]
+    },
+    {
+      "match": "^/(fr-FR/)?version-history$",
+      "status": "verified-v6",
+      "badges": ["v6"],
+      "filters": ["gameplay"]
+    },
+    {
+      "match": "^/(fr-FR/)?whats-new-v6$",
+      "status": "draft",
+      "badges": ["v6", "client", "server"],
+      "filters": ["gameplay", "server", "mods"]
+    }
+  ],
+  "pages": {}
+}
