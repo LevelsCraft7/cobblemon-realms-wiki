@@ -81,7 +81,7 @@ Pour garantir la stabilité de votre serveur :
 {% endhint %}
 
 {% hint style="warning" %}
-⚠️ Avant chaque mise à jour importante, réalisez une sauvegarde complète de votre monde et de vos fichiers de configuration.
+⚠️ Avant chaque mise à jour importante, sauvegardez votre monde et vos fichiers de configuration.
 {% endhint %}
 
 {% hint style="success" %}
