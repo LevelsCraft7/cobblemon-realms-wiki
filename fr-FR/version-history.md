@@ -128,44 +128,21 @@ Sauf indication contraire, toutes les versions ciblent **Minecraft 1.21.1 avec N
 ## 🚀 Branche 5.9, version par version
 
 {% hint style="success" %}
-Les versions **5.9, 5.9.1, 5.9.2, 5.9.3b et 5.9.4 sont cinq publications distinctes**. Elles ne doivent pas être regroupées sous une simple ligne « 5.9.x ».
+Les versions **5.9.4, 5.9.3b, 5.9.2, 5.9.1 et 5.9 sont cinq publications distinctes**. Cette section les présente toujours de la **plus récente à la plus ancienne**.
 {% endhint %}
 
-### 5.9 · 30 mai 2026 · Bêta
+### 5.9.4 · 14 juin 2026 · Release
 
-La 5.9 constitue la grosse base fonctionnelle de cette branche.
+La 5.9.4 est la dernière publication officielle de la branche 5.9 et une mise à jour de maintenance centrée sur la fiabilité.
 
-- Ajout de la progression **Gym World Tour** via RCT.
-- Ajout du système complet d’**arènes de champions** avec plusieurs types d’arènes.
-- Amélioration du parcours de départ et du guidage vers le Professeur Oak / Professeur Chen.
-- Amélioration des dialogues du Spawn Guide et de l’onboarding de l’île de spawn.
-- Régénération de l’île de spawn lors de la première connexion en 5.9.
-- Nombreuses évolutions de modèles Pokémon, montures, économie, portails, apparitions, structures et performances.
+- Ajout de la commande admin `/arena admin regenerate <type>` pour régénérer manuellement un type d’arène existant.
+- Incrémentation de la version de placement des arènes afin que les emplacements existants puissent être reconstruits correctement après mise à jour.
+- Correction de la duplication des PNJ statiques du spawn lors de la connexion au monde.
+- Nettoyage automatique des doublons de PNJ grâce à leurs identifiants uniques.
+- Correction des arènes parfois générées seulement partiellement lorsque toute la zone n’était pas chargée avant le placement du schematic.
+- Nouveau correctif de stabilité pour **Cobbreeding**.
 
-[**Changelog officiel 5.9 →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/8169072)
-
-### 5.9.1 · 31 mai 2026 · Release
-
-La **5.9.1 est une publication client officielle distincte**, sortie le lendemain de la bêta 5.9 et marquée **Release** sur CurseForge.
-
-- Elle représente la première révision stable publique de la branche 5.9.
-- Elle doit être distinguée de la bêta 5.9 dans les sauvegardes, les rapports de bugs et les demandes de support.
-- Le détail complet de son changelog n’est pas reproduit ici lorsque la source CurseForge ne permet pas de le confirmer proprement. La page conserve volontairement la version au lieu de fusionner son historique avec la 5.9.
-
-[**Retrouver la 5.9.1 dans l’archive CurseForge →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/all)
-
-### 5.9.2 · 2 juin 2026 · Release
-
-La 5.9.2 poursuit la stabilisation tout en modifiant plusieurs règles importantes du modpack.
-
-- Les objets d’accessoires ne peuvent plus être perdus à la mort.
-- Les dimensions d’arènes gardent désormais leur propre heure fixe sans modifier l’Overworld.
-- Les mondes de spawn et de hub restaurent automatiquement le cycle jour / nuit normal.
-- Suppression de l’ancien système de charge de Meltan.
-- Meltan évolue désormais en Melmetal au **niveau 70** lorsqu’il tient une **enclume Minecraft**.
-- Ajout et mise à jour de plusieurs textures et éléments visuels.
-
-[**Retrouver la 5.9.2 dans l’archive CurseForge →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/all)
+[**Changelog officiel 5.9.4 →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/8249569)
 
 ### 5.9.3b · 12 juin 2026 · Release
 
@@ -184,18 +161,41 @@ Le suffixe **b** fait partie du nom du fichier public. Pour un rapport de bug, i
 
 [**Retrouver la 5.9.3b dans l’archive CurseForge →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/all)
 
-### 5.9.4 · 14 juin 2026 · Release
+### 5.9.2 · 2 juin 2026 · Release
 
-La 5.9.4 est la dernière publication officielle de la branche 5.9 et une mise à jour de maintenance centrée sur la fiabilité.
+La 5.9.2 poursuit la stabilisation tout en modifiant plusieurs règles importantes du modpack.
 
-- Ajout de la commande admin `/arena admin regenerate <type>` pour régénérer manuellement un type d’arène existant.
-- Incrémentation de la version de placement des arènes afin que les emplacements existants puissent être reconstruits correctement après mise à jour.
-- Correction de la duplication des PNJ statiques du spawn lors de la connexion au monde.
-- Nettoyage automatique des doublons de PNJ grâce à leurs identifiants uniques.
-- Correction des arènes parfois générées seulement partiellement lorsque toute la zone n’était pas chargée avant le placement du schematic.
-- Nouveau correctif de stabilité pour **Cobbreeding**.
+- Les objets d’accessoires ne peuvent plus être perdus à la mort.
+- Les dimensions d’arènes gardent désormais leur propre heure fixe sans modifier l’Overworld.
+- Les mondes de spawn et de hub restaurent automatiquement le cycle jour / nuit normal.
+- Suppression de l’ancien système de charge de Meltan.
+- Meltan évolue désormais en Melmetal au **niveau 70** lorsqu’il tient une **enclume Minecraft**.
+- Ajout et mise à jour de plusieurs textures et éléments visuels.
 
-[**Changelog officiel 5.9.4 →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/8249569)
+[**Retrouver la 5.9.2 dans l’archive CurseForge →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/all)
+
+### 5.9.1 · 31 mai 2026 · Release
+
+La **5.9.1 est une publication client officielle distincte**, sortie le lendemain de la bêta 5.9 et marquée **Release** sur CurseForge.
+
+- Elle représente la première révision stable publique de la branche 5.9.
+- Elle doit être distinguée de la bêta 5.9 dans les sauvegardes, les rapports de bugs et les demandes de support.
+- Le détail complet de son changelog n’est pas reproduit ici lorsque la source CurseForge ne permet pas de le confirmer proprement. La page conserve volontairement la version au lieu de fusionner son historique avec la 5.9.
+
+[**Retrouver la 5.9.1 dans l’archive CurseForge →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/all)
+
+### 5.9 · 30 mai 2026 · Bêta
+
+La 5.9 constitue la grosse base fonctionnelle de cette branche.
+
+- Ajout de la progression **Gym World Tour** via RCT.
+- Ajout du système complet d’**arènes de champions** avec plusieurs types d’arènes.
+- Amélioration du parcours de départ et du guidage vers le Professeur Oak / Professeur Chen.
+- Amélioration des dialogues du Spawn Guide et de l’onboarding de l’île de spawn.
+- Régénération de l’île de spawn lors de la première connexion en 5.9.
+- Nombreuses évolutions de modèles Pokémon, montures, économie, portails, apparitions, structures et performances.
+
+[**Changelog officiel 5.9 →**](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/files/8169072)
 
 ---
 
@@ -203,11 +203,11 @@ La 5.9.4 est la dernière publication officielle de la branche 5.9 et une mise �
 
 ### Versions 5.x
 
-- **5.9** : Gym World Tour, système complet d’arènes, meilleure introduction des starters, nouvelles apparitions, structures et optimisations.
-- **5.9.1** : première Release publique distincte suivant la bêta 5.9.
-- **5.9.2** : règles de mort pour les accessoires, gestion du temps des arènes et nouvelle évolution de Meltan.
-- **5.9.3b** : spawn, stabilité des arènes, génération, musique, performances et QoL.
 - **5.9.4** : maintenance des arènes, commande de régénération, PNJ dupliqués, placement des schematics et Cobbreeding.
+- **5.9.3b** : spawn, stabilité des arènes, génération, musique, performances et QoL.
+- **5.9.2** : règles de mort pour les accessoires, gestion du temps des arènes et nouvelle évolution de Meltan.
+- **5.9.1** : première Release publique distincte suivant la bêta 5.9.
+- **5.9** : Gym World Tour, système complet d’arènes, meilleure introduction des starters, nouvelles apparitions, structures et optimisations.
 - **5.8hf à 5.8.2** : améliorations de Catch Indicator et PokéNav, correctifs de raids, ressources et crashs.
 - **5.6** : nouvelle fondation du core, refonte monétaire, conversion des anciennes Realms Coins, progression et stabilité multijoueur.
 - **5.3** : nouvelles formes, nouveaux Pokémon montables, améliorations de performances, loots et apparitions.
@@ -216,12 +216,12 @@ Liens : [5.9](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/fil
 
 ### Versions 4.x
 
-- **4.9** : refonte de Cobbreeding avec plusieurs œufs, progression hors ligne, activation individuelle et tailles.
 - **4.9.1** : correction des objets d’invocation légendaire trop fréquents.
+- **4.9** : refonte de Cobbreeding avec plusieurs œufs, progression hors ligne, activation individuelle et tailles.
 - **4.6** : nouveaux costumes et améliorations des boosters de chaînes KO et capture.
 - **4.5** : évolution des Raid Dens et refonte du Shiny Booster.
-- **4.4** : mode Freeroam, Trainer Association, outbreaks étendus, Alphas et apparitions rééquilibrés.
 - **4.4hf2** : correctifs Freeroam, quêtes, commandes et server pack.
+- **4.4** : mode Freeroam, Trainer Association, outbreaks étendus, Alphas et apparitions rééquilibrés.
 - **4.3** : nouveaux costumes, Paradox améliorés, Zygarde Matrix, loots et textures retravaillés.
 - **4.2** : recommandation de 8 Go de RAM, nouvelle interface de recettes, Cobble Workers et notifications améliorées.
 - **4.1** : formes Café, automatisation Cobble Workers et performances.
@@ -247,8 +247,8 @@ Liens : [4.9](https://www.curseforge.com/minecraft/modpacks/cobblemon-realms/fil
 - **2.8** : bot Discord d’apparitions, montures, 54 quêtes Pokédex et rééquilibrage des légendaires.
 - **2.6** : Zygarde, formes de Necrozma, dresseurs et apparitions retravaillés.
 - **2.5** : prise en charge des **1025 Pokémon**, Mass Outbreaks, JourneyMap, gyms et systèmes de chaînes.
-- **2.4** : traduction française complète des quêtes, arènes, badges, stockage, starters et PokéSmartphone.
 - **2.4.2** : correctif du crash Entity Mimic.
+- **2.4** : traduction française complète des quêtes, arènes, badges, stockage, starters et PokéSmartphone.
 - **2.3 à 2.2 bis** : nouvelles espèces, loots, fossiles, notifications et outils de progression.
 - **2.1** : taux shiny passé de 1/8192 à 1/4096 et cap de niveau relevé de 25 à 30.
 
