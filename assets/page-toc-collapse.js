@@ -3,6 +3,8 @@
   const tocNav = toc?.querySelector('nav');
   if (!toc || !tocNav) return;
 
+  let isSyncingOpenState = false;
+
   function currentHashId() {
     try {
       return decodeURIComponent(location.hash.replace(/^#/, ''));
@@ -17,6 +19,14 @@
     } catch {
       return link.hash.replace(/^#/, '');
     }
+  }
+
+  function setOnlyOpenGroup(targetGroup) {
+    isSyncingOpenState = true;
+    tocNav.querySelectorAll('.page-toc-group').forEach((group) => {
+      group.open = group === targetGroup;
+    });
+    isSyncingOpenState = false;
   }
 
   function buildGroups() {
@@ -68,7 +78,10 @@
 
       wrapper.append(summary, childList);
       wrapper.querySelector(':scope > summary > a')?.addEventListener('click', () => {
-        wrapper.open = true;
+        setOnlyOpenGroup(wrapper);
+      });
+      wrapper.addEventListener('toggle', () => {
+        if (!isSyncingOpenState && wrapper.open) setOnlyOpenGroup(wrapper);
       });
 
       fragment.appendChild(wrapper);
@@ -85,7 +98,7 @@
 
     if (!activeLink) return;
     const group = activeLink.closest('.page-toc-group');
-    if (group) group.open = true;
+    if (group) setOnlyOpenGroup(group);
   }
 
   function start() {
