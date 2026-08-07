@@ -12,21 +12,27 @@
     mods: 'Mods',
     legendary: isFrench ? 'Légendaires' : 'Legendaries',
     server: isFrench ? 'Serveur' : 'Server',
-    commands: isFrench ? 'Commandes' : 'Commands'
+    commands: isFrench ? 'Commandes' : 'Commands',
+    noResults: isFrench ? 'Aucun résultat' : 'No results',
+    navigate: isFrench ? 'Naviguer' : 'Navigate',
+    open: isFrench ? 'Ouvrir' : 'Open'
   };
 
   const categories = ['all', 'gameplay', 'mods', 'legendary', 'server', 'commands'];
-  let searchIndex = [];
-
   const manualCategoryOverrides = [
-    [/\/mods-guides\//i, 'mods'],
-    [/\/cobblesafari(?:\/|$)/i, 'mods'],
-    [/\/myths-and-legends\//i, 'legendary'],
-    [/\/legendary_monuments\//i, 'legendary'],
-    [/\/gen-list(?:\/|$)/i, 'legendary'],
-    [/\/(installation|multiplayer|settings|server)(?:\/|$)/i, 'server'],
-    [/\/(commands|commandes)(?:\/|$)/i, 'commands']
+    [/\/mods-guides\//i, ['mods']],
+    [/\/cobblesafari(?:\/|$)/i, ['mods', 'commands']],
+    [/\/myths-and-legends\//i, ['legendary']],
+    [/\/legendary_monuments\//i, ['legendary']],
+    [/\/gen-list(?:\/|$)/i, ['legendary', 'gameplay']],
+    [/\/(installation|multiplayer|settings|server)(?:\/|$)/i, ['server']],
+    [/\/(commands|commandes)(?:\/|$)/i, ['commands']]
   ];
+
+  let searchIndex = [];
+  let pageMetaConfig = null;
+  let activeCategory = 'all';
+  let activeIndex = -1;
 
   function normalizeText(value = '') {
     return String(value)
@@ -39,6 +45,16 @@
       .trim();
   }
 
+  function escapeHtml(value = '') {
+    return String(value).replace(/[&<>"']/g, (character) => ({
+      '&': '&amp;',
+      '<': '&lt;',
+      '>': '&gt;',
+      '"': '&quot;',
+      "'": '&#039;'
+    }[character]));
+  }
+
   function normalizePath(value = '') {
     try {
       const url = new URL(value, location.origin);
@@ -48,19 +64,59 @@
     }
   }
 
-  function categoryForEntry(entry = {}) {
+  function unique(values = []) {
+    return [...new Set(values.filter((value) => categories.includes(value) && value !== 'all'))];
+  }
+
+  function ruleMatches(rule, path) {
+    try {
+      return new RegExp(rule.match).test(path);
+    } catch {
+      return false;
+    }
+  }
+
+  function configuredCategories(path) {
+    const normalized = normalizePath(path);
+    const pathWithoutLang = normalized.replace(/^\/fr-FR/i, '');
+    if (!pageMetaConfig) return [];
+
+    let filters = unique(pageMetaConfig.defaults?.filters || []);
+    (pageMetaConfig.rules || []).forEach((rule) => {
+      if (ruleMatches(rule, normalized) || ruleMatches(rule, pathWithoutLang)) {
+        filters = unique(rule.filters || filters);
+      }
+    });
+
+    const override = pageMetaConfig.pages?.[normalized] || pageMetaConfig.pages?.[pathWithoutLang];
+    if (override?.filters) filters = unique(override.filters);
+    return filters;
+  }
+
+  function categoryListForEntry(entry = {}) {
     const href = normalizePath(entry.href || '');
+    const configured = configuredCategories(href);
+    if (configured.length) return configured;
+
     const hrefWithoutLang = href.replace(/^\/fr-FR/i, '');
-    for (const [pattern, category] of manualCategoryOverrides) {
-      if (pattern.test(hrefWithoutLang)) return category;
+    for (const [pattern, categoryList] of manualCategoryOverrides) {
+      if (pattern.test(hrefWithoutLang)) return categoryList;
     }
 
     const haystack = normalizeText(`${entry.title || ''} ${hrefWithoutLang} ${(entry.text || '').slice(0, 1200)}`);
-    if (/\b(command|commands|commande|commandes|op|admin command|commande admin|arena admin|server properties)\b/.test(haystack)) return 'commands';
-    if (/\b(legendary|legendaire|mythique|mythical|myths|legends|galar|hisui|sinnoh|johto|hoenn|kalos|alola|paldea|kitakami)\b/.test(haystack)) return 'legendary';
-    if (/\b(server|serveur|multiplayer|multijoueur|hosting|sauvegarde|backup|neoforge|java)\b/.test(haystack)) return 'server';
-    if (/\b(mod|mods|addon|cobblesafari|rustling|luggage|chunky|cobbleworkers|musicinterface)\b/.test(haystack)) return 'mods';
-    return 'gameplay';
+    if (/\b(command|commands|commande|commandes|op|admin command|commande admin|arena admin|server properties)\b/.test(haystack)) return ['commands'];
+    if (/\b(legendary|legendaire|mythique|mythical|myths|legends|galar|hisui|sinnoh|johto|hoenn|kalos|alola|paldea|kitakami)\b/.test(haystack)) return ['legendary'];
+    if (/\b(server|serveur|multiplayer|multijoueur|hosting|sauvegarde|backup|neoforge|java)\b/.test(haystack)) return ['server'];
+    if (/\b(mod|mods|addon|cobblesafari|rustling|luggage|chunky|cobbleworkers|musicinterface)\b/.test(haystack)) return ['mods'];
+    return ['gameplay'];
+  }
+
+  function primaryCategory(entry = {}) {
+    return categoryListForEntry(entry)[0] || 'gameplay';
+  }
+
+  function categoryLabel(category) {
+    return labels[category] || labels.gameplay;
   }
 
   function scoreEntry(entry, query) {
@@ -71,10 +127,10 @@
     const terms = normalizedQuery.split(' ').filter((term) => term.length > 1);
     let score = 0;
 
-    if (title === normalizedQuery) score += 120;
-    if (title.startsWith(normalizedQuery)) score += 70;
-    if (title.includes(normalizedQuery)) score += 45;
-    if (haystack.includes(normalizedQuery)) score += 20;
+    if (title === normalizedQuery) score += 140;
+    if (title.startsWith(normalizedQuery)) score += 80;
+    if (title.includes(normalizedQuery)) score += 48;
+    if (haystack.includes(normalizedQuery)) score += 22;
     terms.forEach((term) => {
       if (title.includes(term)) score += 18;
       else if (haystack.includes(term)) score += 6;
@@ -83,113 +139,125 @@
     return score;
   }
 
+  function highlightTitle(title, query) {
+    const rawTerms = String(query).trim().split(/\s+/).filter((term) => term.length > 1);
+    if (!rawTerms.length) return escapeHtml(title);
+    const escapedTerms = rawTerms.map((term) => term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+    return escapeHtml(title).replace(new RegExp(`(${escapedTerms.join('|')})`, 'ig'), '<mark>$1</mark>');
+  }
+
   function entriesForCurrentQuery() {
     const query = input.value.trim();
     if (normalizeText(query).length < 2) return [];
     return searchIndex
       .filter((entry) => entry.language === language)
-      .map((entry) => ({ ...entry, category: categoryForEntry(entry), score: scoreEntry(entry, query) }))
+      .map((entry) => ({ ...entry, categories: categoryListForEntry(entry), score: scoreEntry(entry, query) }))
       .filter((entry) => entry.score >= 12)
       .sort((left, right) => right.score - left.score || String(left.title).localeCompare(String(right.title), language));
   }
 
-  function visibleCategory() {
-    return results.querySelector('[data-search-category].is-active')?.dataset.searchCategory || 'all';
-  }
-
-  function categoryLabel(category) {
-    return labels[category] || labels.gameplay;
-  }
-
-  function entryForResultLink(link) {
-    const href = normalizePath(link.getAttribute('href') || '');
-    return searchIndex.find((entry) => normalizePath(entry.href) === href)
-      || { href, title: link.querySelector('strong')?.textContent.trim() || link.textContent.trim(), text: '' };
-  }
-
-  function decorateFilterButtons() {
-    const filter = results.querySelector('.search-category-filters');
-    if (!filter) return;
-
-    if (!filter.querySelector('.search-category-title')) {
-      const title = document.createElement('div');
-      title.className = 'search-category-title';
-      title.textContent = labels.title;
-      filter.prepend(title);
-    }
-
-    const matches = entriesForCurrentQuery();
+  function renderFilters(matches) {
     const counts = Object.fromEntries(categories.map((category) => [category, 0]));
     counts.all = matches.length;
-    matches.forEach((entry) => {
-      counts[entry.category] = (counts[entry.category] || 0) + 1;
-    });
+    matches.forEach((entry) => entry.categories.forEach((category) => {
+      counts[category] = (counts[category] || 0) + 1;
+    }));
 
-    filter.querySelectorAll('[data-search-category]').forEach((button) => {
-      const category = button.dataset.searchCategory || 'all';
+    return `<div class="search-category-filters is-polished" role="toolbar" aria-label="${escapeHtml(labels.title)}"><div class="search-category-title">${escapeHtml(labels.title)}</div>${categories.map((category) => {
       const count = counts[category] || 0;
-      const baseLabel = categoryLabel(category);
-      button.innerHTML = `<span>${baseLabel}</span><small>${count}</small>`;
-      button.classList.toggle('is-empty', category !== 'all' && count === 0);
-      button.setAttribute('aria-label', `${baseLabel} (${count})`);
-      button.type = 'button';
-    });
+      const label = categoryLabel(category);
+      const active = activeCategory === category ? ' is-active' : '';
+      const empty = category !== 'all' && count === 0 ? ' is-empty' : '';
+      return `<button type="button" data-search-category="${category}" class="${active}${empty}" aria-label="${escapeHtml(`${label} (${count})`)}"><span>${escapeHtml(label)}</span><small>${count}</small></button>`;
+    }).join('')}</div>`;
   }
 
-  function decorateResultLinks() {
-    results.querySelectorAll('a[role="option"]').forEach((link) => {
-      const entry = entryForResultLink(link);
-      const category = categoryForEntry(entry);
-      let badge = link.querySelector('.search-result-category');
-      if (!badge) {
-        badge = document.createElement('em');
-        badge.className = 'search-result-category';
-        link.appendChild(badge);
-      }
-      badge.textContent = categoryLabel(category);
-      badge.dataset.category = category;
-    });
+  function renderResults() {
+    const query = input.value.trim();
+    const matches = entriesForCurrentQuery();
+    const visible = matches
+      .filter((entry) => activeCategory === 'all' || entry.categories.includes(activeCategory))
+      .slice(0, 10);
+
+    activeIndex = -1;
+    if (normalizeText(query).length < 2) {
+      results.hidden = true;
+      results.innerHTML = '';
+      input.setAttribute('aria-expanded', 'false');
+      return;
+    }
+
+    const resultHtml = visible.length
+      ? visible.map((entry, index) => {
+        const category = primaryCategory(entry);
+        return `<a id="smart-search-result-${index}" role="option" aria-selected="false" href="${escapeHtml(entry.href)}"><strong>${highlightTitle(entry.title, query)}</strong><span>${escapeHtml(entry.href.replace(/\.html$/i, ''))}</span><em class="search-result-category" data-category="${category}">${escapeHtml(categoryLabel(category))}</em></a>`;
+      }).join('')
+      : `<div class="search-empty">${escapeHtml(labels.noResults)}</div>`;
+
+    results.innerHTML = `${renderFilters(matches)}${resultHtml}<div class="search-keyboard-help"><span><kbd>↑</kbd><kbd>↓</kbd> ${escapeHtml(labels.navigate)}</span><span><kbd>Entrée</kbd> ${escapeHtml(labels.open)}</span></div>`;
+    results.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
   }
 
-  function decorateSearch() {
+  function setActiveResult(index) {
+    const links = [...results.querySelectorAll('a[role="option"]')];
+    if (!links.length) return;
+    activeIndex = ((index % links.length) + links.length) % links.length;
+    links.forEach((link, linkIndex) => {
+      const active = linkIndex === activeIndex;
+      link.classList.toggle('is-active', active);
+      link.setAttribute('aria-selected', String(active));
+    });
+    links[activeIndex].scrollIntoView({ block: 'nearest' });
+  }
+
+  results.addEventListener('pointerdown', (event) => {
+    if (event.target.closest('[data-search-category]')) event.preventDefault();
+  }, true);
+
+  results.addEventListener('click', (event) => {
+    const button = event.target.closest('[data-search-category]');
+    if (!button) return;
+    event.preventDefault();
+    event.stopImmediatePropagation();
+    activeCategory = button.dataset.searchCategory || 'all';
+    renderResults();
+    input.focus({ preventScroll: true });
+  }, true);
+
+  results.addEventListener('mouseenter', (event) => {
+    const link = event.target.closest?.('a[role="option"]');
+    if (!link) return;
+    const links = [...results.querySelectorAll('a[role="option"]')];
+    setActiveResult(links.indexOf(link));
+  }, true);
+
+  input.addEventListener('input', () => window.setTimeout(renderResults, 0), true);
+  input.addEventListener('focus', () => window.setTimeout(renderResults, 0), true);
+  input.addEventListener('keydown', (event) => {
     if (results.hidden) return;
-    decorateFilterButtons();
-    decorateResultLinks();
-  }
+    const links = [...results.querySelectorAll('a[role="option"]')];
+    if (event.key === 'ArrowDown' && links.length) {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      setActiveResult(activeIndex + 1);
+    } else if (event.key === 'ArrowUp' && links.length) {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      setActiveResult(activeIndex < 0 ? links.length - 1 : activeIndex - 1);
+    } else if (event.key === 'Enter' && links.length) {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      links[activeIndex >= 0 ? activeIndex : 0].click();
+    }
+  }, true);
 
-  function keepSearchOpenOnFilterUse() {
-    const keepFocus = (event) => {
-      if (event.target.closest('[data-search-category]')) event.preventDefault();
-    };
-
-    const stopOutsideClosers = (event) => {
-      if (!event.target.closest('[data-search-category]')) return;
-      event.stopPropagation();
-      window.requestAnimationFrame(() => {
-        input.focus({ preventScroll: true });
-        results.hidden = false;
-        input.setAttribute('aria-expanded', 'true');
-        decorateSearch();
-      });
-    };
-
-    results.addEventListener('pointerdown', keepFocus, true);
-    results.addEventListener('mousedown', keepFocus, true);
-    results.addEventListener('click', stopOutsideClosers);
-  }
-
-  const observer = new MutationObserver(() => decorateSearch());
-  observer.observe(results, { childList: true, subtree: true });
-
-  fetch('/search-index.json', { cache: 'no-store' })
-    .then((response) => response.ok ? response.json() : [])
-    .then((data) => {
-      searchIndex = Array.isArray(data) ? data : [];
-      decorateSearch();
-    })
-    .catch(() => {});
-
-  keepSearchOpenOnFilterUse();
-  input.addEventListener('input', () => window.requestAnimationFrame(decorateSearch));
-  input.addEventListener('focus', () => window.requestAnimationFrame(decorateSearch));
+  Promise.all([
+    fetch('/search-index.json', { cache: 'no-store' }).then((response) => response.ok ? response.json() : []),
+    fetch('/page-meta.json', { cache: 'no-store' }).then((response) => response.ok ? response.json() : null).catch(() => null)
+  ]).then(([index, meta]) => {
+    searchIndex = Array.isArray(index) ? index : [];
+    pageMetaConfig = meta;
+    renderResults();
+  }).catch(() => {});
 })();
