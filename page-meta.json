@@ -120,12 +120,6 @@
       "status": "verified-v6",
       "badges": ["v6"],
       "filters": ["gameplay"]
-    },
-    {
-      "match": "^/(fr-FR/)?whats-new-v6$",
-      "status": "draft",
-      "badges": ["v6", "client", "server"],
-      "filters": ["gameplay", "server", "mods"]
     }
   ],
   "pages": {}
