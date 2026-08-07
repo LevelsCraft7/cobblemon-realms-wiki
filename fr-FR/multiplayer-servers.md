@@ -77,7 +77,7 @@ Pour garantir la stabilité de votre serveur :
 - 🧱 Pré-générez votre monde avec [Chunky](mods-guides/chunky.md)
 - ✅ Utilisez une whitelist pour contrôler les accès
 - 📋 Vérifiez les logs en cas d'erreur ou de crash
-</p>
+‎ 
 {% endhint %}
 
 {% hint style="warning" %}
