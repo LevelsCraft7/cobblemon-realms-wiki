@@ -54,6 +54,19 @@
       html[data-theme="light"] .server-badge .community-copy small{color:#377762!important}
       html[data-theme="light"] .server-icon{border-color:rgba(20,117,84,.38)!important}
       html[data-theme="light"] .community-divider{color:#818a98!important}
+
+      .nav-subgroup{margin:1px 0;border:0}
+      .nav-subgroup>summary{display:flex;align-items:center;gap:4px;min-height:34px;padding:0 5px 0 0;border-radius:7px;list-style:none;cursor:pointer;transition:background .12s ease}
+      .nav-subgroup>summary::-webkit-details-marker{display:none}
+      .nav-subgroup>summary:hover{background:#272727}
+      .nav-subgroup>summary>a{min-width:0;flex:1;margin:0!important;padding:7px 7px 7px calc(12px + var(--depth,0)*18px)!important;background:transparent!important;box-shadow:none!important}
+      .nav-subgroup>summary>a.active{color:#66a5ff!important;box-shadow:inset 2px 0 0 var(--accent)!important}
+      .nav-subgroup-chevron{width:7px;height:7px;flex:0 0 7px;margin-right:7px;transform:rotate(-45deg);border-right:1.5px solid #9f9f9f;border-bottom:1.5px solid #9f9f9f;transition:transform .16s ease}
+      .nav-subgroup[open]>summary .nav-subgroup-chevron{transform:rotate(45deg)}
+      .nav-subgroup>ul{margin:1px 0 3px!important;padding:0!important;list-style:none!important}
+      .nav-subgroup>ul>li>a{padding-left:calc(12px + var(--depth,0)*18px)!important}
+      html[data-theme="light"] .nav-subgroup>summary:hover{background:#e9edf3}
+      html[data-theme="light"] .nav-subgroup-chevron{border-color:#6f7782}
     `;
     document.head.appendChild(style);
 
@@ -68,6 +81,77 @@
   }
 
   installVisualFixes();
+
+  function installNestedNavigation() {
+    const lists = [...document.querySelectorAll('#sidebar .nav-group > ul')];
+
+    lists.forEach((list) => {
+      const sourceItems = [...list.children].filter((item) => item.tagName === 'LI');
+      if (sourceItems.length < 2) return;
+
+      const nodes = sourceItems.map((item) => {
+        const rawDepth = item.style.getPropertyValue('--depth');
+        const depth = Number.parseInt(rawDepth || '0', 10) || 0;
+        return { item, depth, children: [] };
+      });
+
+      const roots = [];
+      const stack = [];
+
+      nodes.forEach((node) => {
+        while (stack.length && stack[stack.length - 1].depth >= node.depth) stack.pop();
+        if (stack.length) stack[stack.length - 1].children.push(node);
+        else roots.push(node);
+        stack.push(node);
+      });
+
+      if (!nodes.some((node) => node.children.length)) return;
+
+      const containsActive = (node) => {
+        if (node.item.querySelector(':scope > a.active')) return true;
+        return node.children.some(containsActive);
+      };
+
+      const renderNode = (node) => {
+        const originalLink = node.item.querySelector(':scope > a');
+        if (!node.children.length || !originalLink) {
+          node.item.style.setProperty('--depth', String(node.depth));
+          return node.item;
+        }
+
+        const wrapper = document.createElement('li');
+        wrapper.className = 'nav-subgroup-item';
+        wrapper.style.setProperty('--depth', String(node.depth));
+
+        const details = document.createElement('details');
+        details.className = 'nav-subgroup';
+        details.dataset.navDepth = String(node.depth);
+        if (containsActive(node)) details.open = true;
+
+        const summary = document.createElement('summary');
+        summary.style.setProperty('--depth', String(node.depth));
+        summary.appendChild(originalLink);
+
+        const chevron = document.createElement('span');
+        chevron.className = 'nav-subgroup-chevron';
+        chevron.setAttribute('aria-hidden', 'true');
+        summary.appendChild(chevron);
+
+        const childList = document.createElement('ul');
+        node.children.forEach((child) => childList.appendChild(renderNode(child)));
+
+        details.append(summary, childList);
+        wrapper.appendChild(details);
+        return wrapper;
+      };
+
+      const fragment = document.createDocumentFragment();
+      roots.forEach((node) => fragment.appendChild(renderNode(node)));
+      list.replaceChildren(fragment);
+    });
+  }
+
+  installNestedNavigation();
 
   function currentTheme() {
     return root.dataset.theme === 'light' ? 'light' : 'dark';
