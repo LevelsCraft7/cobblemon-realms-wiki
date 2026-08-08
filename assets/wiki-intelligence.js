@@ -18,7 +18,13 @@
     search: 'Recherche',
     top: 'Haut',
     suggestions: 'Vous cherchiez peut-être…',
-    suggestionsIntro: 'Pages proches de l’adresse demandée'
+    suggestionsIntro: 'Pages proches de l’adresse demandée',
+    legacyTitle: 'Guide pour une ancienne version',
+    legacyText: 'Cette page documente Cobblemon Realms 5.x. Certaines informations peuvent ne plus s’appliquer à la v6.',
+    reviewTitle: 'Page à vérifier',
+    reviewText: 'Cette page est en cours de vérification pour Cobblemon Realms v6. Utilisez les informations avec prudence.',
+    draftTitle: 'Brouillon',
+    draftText: 'Cette page est encore en préparation et peut contenir des informations incomplètes.'
   } : {
     freshnessUnknown: 'Update date unavailable',
     updatedToday: 'Updated today',
@@ -35,7 +41,13 @@
     search: 'Search',
     top: 'Top',
     suggestions: 'You may be looking for…',
-    suggestionsIntro: 'Pages close to the requested address'
+    suggestionsIntro: 'Pages close to the requested address',
+    legacyTitle: 'Guide for an older version',
+    legacyText: 'This page documents Cobblemon Realms 5.x. Some information may no longer apply to v6.',
+    reviewTitle: 'Page needs review',
+    reviewText: 'This page is being reviewed for Cobblemon Realms v6. Use the information with caution.',
+    draftTitle: 'Draft',
+    draftText: 'This page is still being prepared and may contain incomplete information.'
   };
 
   function normalizePath(value = location.pathname) {
@@ -154,6 +166,33 @@
     if (badges) badges.insertAdjacentElement('afterend', container);
     else if (tools) tools.insertAdjacentElement('afterend', container);
     else heading?.insertAdjacentElement('afterend', container);
+  }
+
+  function installStatusNotice(metaConfig) {
+    const article = document.querySelector('article');
+    if (!article || document.body.classList.contains('not-found-page') || article.querySelector('.page-status-notice')) return;
+    const path = normalizePath();
+    if (path === '/') return;
+    const meta = resolveMeta(metaConfig || {}, path);
+    const copy = meta.status === 'legacy-5'
+      ? { icon: '⚠️', title: labels.legacyTitle, text: labels.legacyText }
+      : meta.status === 'needs-review'
+        ? { icon: '🔎', title: labels.reviewTitle, text: labels.reviewText }
+        : meta.status === 'draft'
+          ? { icon: '📝', title: labels.draftTitle, text: labels.draftText }
+          : null;
+    if (!copy) return;
+
+    const notice = document.createElement('aside');
+    notice.className = `page-status-notice is-${meta.status}`;
+    notice.setAttribute('role', 'note');
+    notice.innerHTML = `<span class="page-status-notice-icon" aria-hidden="true">${copy.icon}</span><div><strong>${escapeHtml(copy.title)}</strong><p>${escapeHtml(copy.text)}</p></div>`;
+    const freshness = article.querySelector('.page-freshness');
+    const badges = article.querySelector('.page-meta-badges');
+    const heading = article.querySelector(':scope > h1');
+    if (freshness) freshness.insertAdjacentElement('afterend', notice);
+    else if (badges) badges.insertAdjacentElement('afterend', notice);
+    else heading?.insertAdjacentElement('afterend', notice);
   }
 
   function tokens(value = '') {
@@ -304,6 +343,7 @@
     ]);
 
     installFreshness(metaConfig, Array.isArray(updates) ? updates : []);
+    installStatusNotice(metaConfig);
     installRelatedPages(metaConfig, Array.isArray(searchIndex) ? searchIndex : []);
     install404Suggestions(Array.isArray(searchIndex) ? searchIndex : []);
     installMobileNav();
