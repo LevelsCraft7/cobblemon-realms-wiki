@@ -58,68 +58,58 @@
     }
   },
   "defaults": {
-    "status": "verified-v6",
+    "status": "unknown",
     "badges": ["v6", "client"],
     "filters": ["gameplay"]
   },
   "rules": [
     {
       "match": "^/(fr-FR/)?mods-guides/",
-      "status": "verified-v6",
       "badges": ["v6", "client", "mods"],
       "filters": ["mods"]
     },
     {
       "match": "^/(fr-FR/)?mods-guides/CobbleSafari/",
-      "status": "verified-v6",
       "badges": ["v6", "client", "mods"],
       "filters": ["mods", "gameplay"]
     },
     {
       "match": "^/(fr-FR/)?mods-guides/CobbleSafari/cobblesafari$",
-      "status": "verified-v6",
       "badges": ["v6", "client", "server", "mods"],
       "filters": ["mods", "server", "commands"]
     },
     {
       "match": "^/(fr-FR/)?pokemons-guides/gen-list/",
-      "status": "verified-v6",
       "badges": ["v6", "client", "legendary"],
       "filters": ["legendary", "gameplay"]
     },
     {
       "match": "^/(fr-FR/)?pokemons-guides/myths-and-legends-legendaries$",
-      "status": "verified-v6",
       "badges": ["v6", "client", "legendary"],
       "filters": ["legendary"]
     },
     {
       "match": "^/(fr-FR/)?installation$",
-      "status": "verified-v6",
       "badges": ["v6", "client", "server", "support"],
       "filters": ["server", "gameplay"]
     },
     {
       "match": "^/(fr-FR/)?multiplayer-servers$",
-      "status": "verified-v6",
       "badges": ["v6", "server", "admin"],
       "filters": ["server", "commands"]
     },
     {
       "match": "^/(fr-FR/)?settings/",
-      "status": "verified-v6",
       "badges": ["v6", "client", "server", "admin"],
       "filters": ["server"]
     },
     {
       "match": "^/(fr-FR/)?report-a-bug$",
-      "status": "verified-v6",
       "badges": ["v6", "support"],
       "filters": ["gameplay", "server"]
     },
     {
       "match": "^/(fr-FR/)?version-history$",
-      "status": "verified-v6",
       "badges": ["v6"],
       "filters": ["gameplay"]
     }
