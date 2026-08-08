@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "cobblemon-realms-wiki",
-  "main": "./scripts/worker-entry-v6.mjs",
+  "main": "./scripts/worker-entry-v7.mjs",
   "compatibility_date": "2026-08-06",
   "build": {
     "command": "npm run build"
