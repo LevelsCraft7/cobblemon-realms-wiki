@@ -77,13 +77,19 @@
   }
 
   function installReadingTime() {
-    const article = document.querySelector('article'); if (!article || document.body.classList.contains('not-found-page')) return;
+    const article = document.querySelector('article'); if (!article || document.body.classList.contains('not-found-page') || article.querySelector('.v4-reading-time')) return;
     const clone = article.cloneNode(true); clone.querySelectorAll('nav,.article-pagination,.article-feedback,.related-pages,.article-meta,.page-freshness,.page-meta-badges,.technical-badges,script,style').forEach(x => x.remove());
     const words = (clone.textContent || '').trim().split(/\s+/).filter(Boolean).length; if (words < 80) return;
     const min = Math.max(1, Math.ceil(words / 220));
-    const el = document.createElement('div'); el.className = 'v4-reading-time'; el.textContent = `⏱ ${labels.read(min)}`;
-    const freshness = article.querySelector('.page-freshness'), badges = article.querySelector('.page-meta-badges'), tools = article.querySelector('.article-tools');
-    (freshness || badges || tools || article.querySelector(':scope > h1'))?.insertAdjacentElement('afterend', el);
+    const freshness = article.querySelector('.page-freshness');
+    if (freshness) {
+      const el = document.createElement('span'); el.className = 'v4-reading-time'; el.textContent = `• ⏱ ${labels.read(min)}`;
+      freshness.appendChild(el);
+      return;
+    }
+    const el = document.createElement('div'); el.className = 'v4-reading-time is-standalone'; el.textContent = `⏱ ${labels.read(min)}`;
+    const badges = article.querySelector('.page-meta-badges'), tools = article.querySelector('.article-tools');
+    (badges || tools || article.querySelector(':scope > h1'))?.insertAdjacentElement('afterend', el);
   }
 
   function installVersion(meta) {
@@ -91,8 +97,8 @@
     const article = document.querySelector('article'); if (!article) return;
     const el = document.createElement('div'); el.className = 'v4-version-applicability';
     el.innerHTML = `${v.introduced ? `<span>${esc(labels.introduced)} <strong>v${esc(v.introduced)}</strong></span>` : ''}${v.updated ? `<span>${esc(labels.updated)} <strong>v${esc(v.updated)}</strong></span>` : ''}${v.removed ? `<span class="is-removed">${esc(labels.removed)} <strong>v${esc(v.removed)}</strong></span>` : ''}`;
-    const read = article.querySelector('.v4-reading-time'), fresh = article.querySelector('.page-freshness'), badges = article.querySelector('.page-meta-badges');
-    (read || fresh || badges || article.querySelector(':scope > h1'))?.insertAdjacentElement('afterend', el);
+    const fresh = article.querySelector('.page-freshness'), badges = article.querySelector('.page-meta-badges');
+    (fresh || badges || article.querySelector(':scope > h1'))?.insertAdjacentElement('afterend', el);
   }
 
   function renderHomeSection(titleText, intro, items, kind) {
