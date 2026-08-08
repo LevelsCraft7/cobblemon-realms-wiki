@@ -9,16 +9,14 @@
 #search-results a[role="option"]>span{display:none!important}
 .bisecthosting-badge{min-width:176px;border-color:rgba(45,217,238,.38);background:linear-gradient(180deg,rgba(25,202,228,.16),rgba(8,29,53,.24))}
 .bisecthosting-badge:hover{border-color:rgba(69,225,244,.72);background:linear-gradient(180deg,rgba(25,202,228,.24),rgba(8,29,53,.32))}
-.bisecthosting-icon{display:grid;width:24px;height:24px;flex:0 0 24px;place-items:center;overflow:hidden;border:1px solid rgba(69,225,244,.34);border-radius:7px;background:#0b1730}
-.bisecthosting-icon img{display:block;width:22px;height:22px;object-fit:cover;border-radius:5px}
-.bisecthosting-fallback{display:none;color:#51e1f1;font-size:9px;font-weight:900;letter-spacing:-.02em}
-.bisecthosting-badge.is-icon-fallback .bisecthosting-icon img{display:none}
-.bisecthosting-badge.is-icon-fallback .bisecthosting-fallback{display:block}
+.bisecthosting-icon{display:grid;width:24px;height:24px;flex:0 0 24px;place-items:center;overflow:hidden;border:1px solid rgba(69,225,244,.34);border-radius:7px;background:#0b1730 url("https://www.bisecthosting.com/_ipx/q_100%26fit_fill%26s_22x24/static/img/bh_intercom_logo.png") center/22px 24px no-repeat}
+.bisecthosting-icon img,.bisecthosting-fallback,.bisecthosting-badge.is-icon-fallback .bisecthosting-icon img,.bisecthosting-badge.is-icon-fallback .bisecthosting-fallback{display:none!important}
 .bisecthosting-copy strong{color:#effdff}.bisecthosting-copy small{color:#a9dce4}.bisecthosting-copy small b{color:#51e1f1;font-weight:850}
 html[data-theme="light"] .bisecthosting-badge{border-color:rgba(8,171,197,.42);background:linear-gradient(180deg,#effcff,#ddf8fb);color:#123b4a;box-shadow:inset 0 1px 0 rgba(255,255,255,.94),0 3px 10px rgba(13,164,190,.1)}
 html[data-theme="light"] .bisecthosting-badge:hover{border-color:rgba(8,151,176,.68);background:linear-gradient(180deg,#e5fbff,#d1f4f8)}
 html[data-theme="light"] .bisecthosting-copy strong{color:#123b4a}html[data-theme="light"] .bisecthosting-copy small{color:#39717c}html[data-theme="light"] .bisecthosting-copy small b{color:#087f96}
 body .topbar{grid-template-columns:minmax(210px,250px) minmax(180px,1fr) auto auto auto auto auto auto}
+body .topbar .search-wrap{justify-self:end}
 .v4-home-intelligence{display:grid;gap:18px;margin:28px 0}
 .v4-home-section{padding:20px;border:1px solid rgba(148,163,184,.16);border-radius:18px;background:rgba(255,255,255,.018)}
 .v4-home-head h2{margin:0 0 4px}.v4-home-head p{margin:0 0 14px;color:var(--muted,#9ca3af)}
