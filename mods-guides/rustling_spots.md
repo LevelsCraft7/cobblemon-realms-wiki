@@ -19,7 +19,7 @@ The mod does not modify world generation and remains fully compatible with exist
 When a player explores the world:
 
 1. A Rustling Spot appears nearby.
-2. Particles and sounds signal its presence.
+2. Particles signal its presence.
 3. The player approaches and interacts with it.
 4. An event is triggered.
 5. The spot automatically disappears.
@@ -32,7 +32,7 @@ When a player explores the world:
 - ✨ Shiny spot  
 
 {% hint style="warning" %}
-Shiny Rustling Spots are extremely rare. They guarantee a shiny reward and may be announced to the entire server.
+Shiny Rustling Spots are extremely rare. They guarantee a shiny reward where supported and may be announced to the entire server.
 {% endhint %}
 
 ---
@@ -57,7 +57,7 @@ Each family has:
 | Leaves | Forests and canopies | Light encounters |
 | Cave | Caves and underground | Mining exploration |
 | Flying | Sky and open spaces | Flying encounters |
-| NetherFlame | Nether and lava | Fire and heat |
+| NetherFlamme | Nether and lava | Fire and heat |
 | SoulFlame | Soul Sand and Soul Soil | Dark atmosphere |
 
 {% hint style="info" %}
@@ -102,7 +102,8 @@ Spots:
 - have a limited lifespan;
 - disappear after interaction;
 - disappear when no players are nearby;
-- respect global limits to avoid server clutter.
+- respect global limits to avoid server clutter;
+- are resynchronized after joining, respawning, or changing dimensions.
 
 ---
 
@@ -126,9 +127,13 @@ The mod includes several configuration files:
 |----------|----------|
 | `rustlingspots-server.json` | Global settings |
 | `rustlingspots-pokemon.json` | Pokémon encounters |
-| `rustlingspots-client.json` | Visual settings |
-| `rustlingspots-sound.json` | Sounds and volume |
+| `rustlingspots-client.json` | Visual and message settings |
+| `rustlingspots-sound.json` | Reward sounds and volume |
 | `rustlingspots-families.json` | Family multipliers |
+
+{% hint style="info" %}
+Since v4.3, invalid JSON configuration files are backed up with an <code>.invalid.bak</code> suffix before valid defaults are restored.
+{% endhint %}
 
 ## 🌿 Default Multipliers
 
@@ -184,8 +189,9 @@ These commands are primarily intended for administrators and mod debugging.
 ### 🗒️ Useful Notes
 
 - `spawn` accepts both native families and custom spots;
-- `spawnshiny` forces a shiny spot;
-- `reload` reloads all configurations;
+- `spawnshiny` forces a shiny spot for testing;
+- `reload` reloads configurations, family rules, loot pools, Pokémon pools, and custom spot definitions;
+- `stats` displays Rustling Spots statistics;
 - `scan` lists active nearby spots.
 
 ---
@@ -201,10 +207,16 @@ You can add:
 - custom spots;
 - custom families;
 - biome-specific rules;
+- block and dimension rules;
 - weighted particles;
 - dedicated loot tables;
 - priority rules;
-- weighting systems.
+- weighting systems;
+- a custom `visual_family` using one of the built-in visual styles.
+
+{% hint style="info" %}
+Since v4.3, custom spots can use <code>visual_family</code> with <code>grass</code>, <code>sand</code>, <code>water</code>, <code>snow</code>, <code>leaves</code>, <code>cave</code>, <code>netherflamme</code>, <code>soulflame</code>, or <code>flying</code>. If the field is missing or invalid, the historical <code>grass</code> visual fallback is used.
+{% endhint %}
 
 ## 📥 Guide & Example
 
@@ -217,8 +229,8 @@ You can add:
 - ✅ No world generation changes  
 - ✅ Compatible with existing saves  
 - ✅ Multi-dimension compatible  
-- ✅ Compatible with custom dimensions  
-- ✅ Compatible with Cobblemon Raid Dens  
+- ✅ Compatible with custom dimensions through matching rules  
+- ✅ Cobblemon Raid Dens dimension support can be enabled or disabled in configuration  
 - ✅ Custom spots rely only on configurable data  
 
 {% hint style="success" %}
