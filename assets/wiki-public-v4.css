@@ -1,4 +1,5 @@
 .technical-badges{display:none!important}
+.native-emoji{font-family:"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji","Android Emoji","EmojiSymbols",sans-serif!important;font-style:normal;font-weight:400;font-variant-emoji:emoji;line-height:1;white-space:nowrap}
 .page-freshness{display:flex;align-items:center;flex-wrap:wrap;gap:6px}
 .page-freshness .v4-reading-time{display:inline-flex;align-items:center;margin:0;color:inherit;font-size:inherit;font-weight:650;white-space:nowrap}
 .v4-reading-time.is-standalone{margin:7px 0 0;color:var(--muted,#9ca3af);font-size:.84rem;font-weight:650}
