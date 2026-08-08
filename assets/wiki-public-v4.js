@@ -160,3 +160,71 @@
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', () => installBisectHostingBadge(), { once: true });
   else installBisectHostingBadge();
 })();
+
+(() => {
+  const skipSelector = 'script,style,pre,code,textarea,input,select,option,kbd,samp,.native-emoji,[contenteditable="true"]';
+  const emojiTest = /(?:\p{Extended_Pictographic}|\p{Regional_Indicator}|[#*0-9]\uFE0F?\u20E3)/u;
+  const emojiFallback = /(?:\p{Regional_Indicator}{2}|[#*0-9]\uFE0F?\u20E3|\p{Extended_Pictographic}(?:\uFE0F|\p{Emoji_Modifier})?(?:\u200D\p{Extended_Pictographic}(?:\uFE0F|\p{Emoji_Modifier})?)*)/gu;
+  const segmenter = typeof Intl?.Segmenter === 'function' ? new Intl.Segmenter(undefined, { granularity: 'grapheme' }) : null;
+
+  function partsFor(text) {
+    if (!emojiTest.test(text)) return null;
+    if (segmenter) return [...segmenter.segment(text)].map(item => item.segment);
+    const parts = [];
+    let last = 0;
+    for (const match of text.matchAll(emojiFallback)) {
+      if (match.index > last) parts.push(text.slice(last, match.index));
+      parts.push(match[0]);
+      last = match.index + match[0].length;
+    }
+    if (last < text.length) parts.push(text.slice(last));
+    return parts;
+  }
+
+  function wrapTextNode(node) {
+    if (!node?.parentElement || node.parentElement.closest(skipSelector)) return;
+    const text = node.nodeValue || '';
+    const parts = partsFor(text);
+    if (!parts || !parts.some(part => emojiTest.test(part))) return;
+
+    const fragment = document.createDocumentFragment();
+    for (const part of parts) {
+      if (!part) continue;
+      if (!emojiTest.test(part)) {
+        fragment.append(document.createTextNode(part));
+        continue;
+      }
+      const span = document.createElement('span');
+      span.className = 'native-emoji';
+      span.textContent = part;
+      fragment.append(span);
+    }
+    node.replaceWith(fragment);
+  }
+
+  function process(root) {
+    if (!root) return;
+    if (root.nodeType === Node.TEXT_NODE) {
+      wrapTextNode(root);
+      return;
+    }
+    if (root.nodeType !== Node.ELEMENT_NODE || root.matches?.(skipSelector)) return;
+    const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+    const nodes = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode);
+    nodes.forEach(wrapTextNode);
+  }
+
+  function start() {
+    process(document.body);
+    const observer = new MutationObserver(mutations => {
+      for (const mutation of mutations) {
+        mutation.addedNodes.forEach(process);
+      }
+    });
+    observer.observe(document.body, { childList: true, subtree: true });
+  }
+
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start, { once: true });
+  else start();
+})();
