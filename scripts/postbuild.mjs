@@ -241,6 +241,7 @@ function resolveInternalLink(href, sourcePath) {
     const url = new URL(href, base);
     if (url.origin !== siteOrigin) return null;
     if (/^\/(assets|api|__cr-admin)(\/|$)/.test(url.pathname)) return null;
+    if (/\.[a-z0-9]{2,8}$/i.test(url.pathname) && !/\.html$/i.test(url.pathname)) return null;
     return normalizedPagePath(url.pathname);
   } catch {
     return null;
@@ -436,7 +437,6 @@ for (const file of htmlFiles) {
     });
 
     const contentHtml = articleHtml(html);
-    const hrefs = extractAttributeValues(html, 'href');
     const articleHrefs = extractAttributeValues(contentHtml, 'href');
     auditPages.push({
       title: extractTitle(html, pagePath),
@@ -448,7 +448,7 @@ for (const file of htmlFiles) {
       wordCount: pageWordCount(html),
       h2Count: (contentHtml.match(/<h2\b/gi) || []).length,
       hasDescription: /<meta\s+name=["']description["']\s+content=["'][^"']{20,}["']/i.test(html) || /<meta\s+content=["'][^"']{20,}["']\s+name=["']description["']/i.test(html),
-      hrefs,
+      hrefs: articleHrefs,
       internalLinks: articleHrefs.map((href) => resolveInternalLink(href, pagePath)).filter(Boolean),
       imageSources: extractAttributeValues(contentHtml, 'src')
     });
