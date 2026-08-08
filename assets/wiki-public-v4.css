@@ -1,5 +1,7 @@
 .technical-badges{display:none!important}
-.v4-reading-time{margin:7px 0 0;color:var(--muted,#9ca3af);font-size:.84rem;font-weight:650}
+.page-freshness{display:flex;align-items:center;flex-wrap:wrap;gap:6px}
+.page-freshness .v4-reading-time{display:inline-flex;align-items:center;margin:0;color:inherit;font-size:inherit;font-weight:650;white-space:nowrap}
+.v4-reading-time.is-standalone{margin:7px 0 0;color:var(--muted,#9ca3af);font-size:.84rem;font-weight:650}
 .v4-version-applicability{display:flex;flex-wrap:wrap;gap:7px;margin:9px 0 14px}
 .v4-version-applicability span{display:inline-flex;gap:5px;padding:5px 9px;border:1px solid rgba(148,163,184,.22);border-radius:999px;background:rgba(148,163,184,.07);font-size:.78rem;color:var(--muted,#a8b0bd)}
 .v4-version-applicability .is-removed{border-color:rgba(245,158,11,.3);background:rgba(245,158,11,.09);color:#f2bd64}
