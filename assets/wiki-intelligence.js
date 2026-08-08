@@ -219,34 +219,39 @@
       }
     }
 
-    if (parentPath(current.href) && parentPath(current.href) === parentPath(candidate.href)) score += 8;
+    if (parentPath(current.path) && parentPath(current.path) === parentPath(candidate.path)) score += 8;
 
     const titleTokens = new Set(tokens(current.title));
     for (const token of tokens(candidate.title)) if (titleTokens.has(token)) score += 5;
 
-    const pathTokens = new Set(tokens(current.href));
-    for (const token of tokens(candidate.href)) if (pathTokens.has(token)) score += 2;
+    const pathTokens = new Set(tokens(current.path));
+    for (const token of tokens(candidate.path)) if (pathTokens.has(token)) score += 2;
 
     if (currentMeta.status === candidateMeta.status) score += 1;
     return { score, categoryMatch, badgeMatch };
   }
 
-  function installRelatedPages(metaConfig, searchIndex) {
+  function installRelatedPages(metaConfig, pages) {
     const article = document.querySelector('article');
     if (!article || document.body.classList.contains('not-found-page') || article.querySelector('.related-pages')) return;
     const path = normalizePath();
     if (path === '/') return;
 
-    const current = (searchIndex || []).find((entry) => entry.language === language && normalizePath(entry.href) === path);
+    const realPages = unique((pages || []).filter((entry) => entry?.path && entry.language === language).map((entry) => normalizePath(entry.path)))
+      .map((pagePath) => pageByPath(pages, pagePath))
+      .filter(Boolean);
+    const current = realPages.find((entry) => normalizePath(entry.path) === path);
     if (!current) return;
+    current.path = normalizePath(current.path);
     const currentMeta = resolveMeta(metaConfig || {}, path);
 
-    const ranked = (searchIndex || [])
-      .filter((entry) => entry.language === language && normalizePath(entry.href) !== path)
+    const ranked = realPages
+      .filter((entry) => normalizePath(entry.path) !== path)
       .map((entry) => {
-        const entryPath = normalizePath(entry.href);
+        const entryPath = normalizePath(entry.path);
+        const candidate = { ...entry, path: entryPath };
         const candidateMeta = resolveMeta(metaConfig || {}, entryPath);
-        return { ...entry, href: entryPath, ...relatedScore(current, entry, currentMeta, candidateMeta) };
+        return { ...candidate, href: entryPath, ...relatedScore(current, candidate, currentMeta, candidateMeta) };
       })
       .filter((entry) => entry.score >= 6)
       .sort((left, right) => right.score - left.score || left.title.localeCompare(right.title, language))
@@ -337,7 +342,7 @@
 
     installFreshness(Array.isArray(updates) ? updates : []);
     installStatusNotice(metaConfig);
-    installRelatedPages(metaConfig, Array.isArray(searchIndex) ? searchIndex : []);
+    installRelatedPages(metaConfig, Array.isArray(updates) ? updates : []);
     install404Suggestions(Array.isArray(searchIndex) ? searchIndex : []);
     installMobileNav();
   }
