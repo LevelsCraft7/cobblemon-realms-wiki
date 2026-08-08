@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07",
+  "updatedAt": "2026-08-08",
   "labels": {
     "fr": {
       "status": {
         "verified-v6": "Vérifié v6.0+",
         "review": "À vérifier",
+        "needs-review": "À vérifier",
         "legacy-5": "Legacy 5.x",
         "draft": "Brouillon"
       },
@@ -32,6 +33,7 @@
       "status": {
         "verified-v6": "Verified v6.0+",
         "review": "Needs review",
+        "needs-review": "Needs review",
         "legacy-5": "Legacy 5.x",
         "draft": "Draft"
       },
