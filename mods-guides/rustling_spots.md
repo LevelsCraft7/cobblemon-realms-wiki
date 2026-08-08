@@ -220,7 +220,25 @@ Since v4.3, custom spots can use <code>visual_family</code> with <code>grass</co
 
 ## 📥 Guide & Example
 
-- [Rustling Spots - Addon Datapack](https://www.curseforge.com/minecraft/data-packs/rustling-spots-example-addon-datapack)
+The official example datapack is available on both platforms:
+
+- [CurseForge - Rustling Spots Example Addon Datapack](https://www.curseforge.com/minecraft/data-packs/rustling-spots-example-addon-datapack)
+- [Modrinth - Rustling Spots Addon Datapack](https://modrinth.com/datapack/rustling-spots-addon-datapack)
+
+---
+
+# 🚀 Official Add-ons
+
+{% hint style="info" %}
+Rustling Spots can also be extended with dedicated gameplay add-ons that require the main mod.
+{% endhint %}
+
+## 🚀 Rustling Spots: Team Rocket
+
+**Rustling Spots: Team Rocket** is the official dedicated Team Rocket add-on for Rustling Spots, bringing Team Rocket-themed encounters into the Rustling Spots gameplay loop.
+
+- [CurseForge - Rustling Spots: Team Rocket](https://www.curseforge.com/minecraft/mc-mods/rs-teamrocket-addon)
+- [Modrinth - Rustling Spots: Team Rocket](https://modrinth.com/mod/rs-teamrocket-addon)
 
 ---
 
