@@ -80,9 +80,15 @@
     const query = normalize(input.value);
     if (query.length < 2) return;
     const category = activeCategory();
-    const key = `${language}:${category}:${query.toLowerCase()}:${link.getAttribute('href') || ''}`;
-    if (reportedClicks.has(key)) return;
-    reportedClicks.add(key);
+    const queryKey = `${language}:${category}:${query.toLowerCase()}`;
+    const clickKey = `${queryKey}:${link.getAttribute('href') || ''}`;
+
+    if (!reportedSearches.has(queryKey)) {
+      reportedSearches.add(queryKey);
+      send('/api/search-query-event', { query, category, language, event: 'search' });
+    }
+    if (reportedClicks.has(clickKey)) return;
+    reportedClicks.add(clickKey);
     send('/api/search-query-event', { query, category, language, event: 'click' });
   }, true);
 
