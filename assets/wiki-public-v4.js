@@ -134,3 +134,29 @@
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initialize, { once: true });
   else initialize();
 })();
+
+(() => {
+  const isFr = document.documentElement.lang === 'fr';
+  function installBisectHostingBadge(attempt = 0) {
+    if (document.getElementById('bisecthosting-badge')) return;
+    const discord = document.getElementById('discord-badge');
+    if (!discord) {
+      if (attempt < 40) window.setTimeout(() => installBisectHostingBadge(attempt + 1), 50);
+      return;
+    }
+    const badge = document.createElement('a');
+    badge.id = 'bisecthosting-badge';
+    badge.className = 'community-badge bisecthosting-badge';
+    badge.href = 'https://www.bisecthosting.com/OurStory';
+    badge.target = '_blank';
+    badge.rel = 'noopener noreferrer sponsored';
+    badge.setAttribute('aria-label', isFr ? 'Économisez 25 % sur un serveur BisectHosting partenaire avec le code OurStory' : 'Save 25% on a partner BisectHosting server with code OurStory');
+    badge.title = isFr ? '-25 % sur les serveurs BisectHosting • Code OurStory' : '25% off BisectHosting servers • Code OurStory';
+    badge.innerHTML = `<span class="community-icon bisecthosting-icon" aria-hidden="true"><img src="https://www.bisecthosting.com/favicon.ico" alt=""><span class="bisecthosting-fallback">BH</span></span><span class="community-copy bisecthosting-copy"><strong>${isFr ? '-25% Serveurs' : '25% OFF Servers'}</strong><small>BisectHosting <span class="community-divider">•</span> Code <b>OurStory</b></small></span>`;
+    const icon = badge.querySelector('img');
+    icon?.addEventListener('error', () => badge.classList.add('is-icon-fallback'), { once: true });
+    discord.before(badge);
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', () => installBisectHostingBadge(), { once: true });
+  else installBisectHostingBadge();
+})();
