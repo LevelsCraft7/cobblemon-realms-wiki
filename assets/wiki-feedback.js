@@ -8,28 +8,50 @@
       title: 'Cette page vous a aidé ?',
       yes: 'Oui',
       no: 'Non',
-      commentLabel: 'Qu’est-ce qui manque ou doit être amélioré ?',
-      commentPlaceholder: 'Exemple : une info pas claire, une étape manquante, un lien cassé...',
+      reasonLabel: 'Quel est le principal problème ?',
+      reasons: {
+        outdated: 'Information obsolète',
+        incorrect: 'Information incorrecte',
+        missing: 'Information manquante',
+        unclear: 'Difficile à comprendre',
+        'broken-link': 'Lien cassé',
+        other: 'Autre'
+      },
+      commentLabel: 'Vous pouvez préciser si nécessaire',
+      commentPlaceholder: 'Exemple : l’étape concernée, l’information attendue, le lien cassé...',
       send: 'Envoyer le retour',
       skip: 'Envoyer sans commentaire',
       thanks: 'Merci pour votre retour.',
-      saved: 'Merci, votre commentaire a bien été envoyé.'
+      saved: 'Merci, votre retour détaillé a bien été envoyé.'
     }
     : {
       title: 'Was this page helpful?',
       yes: 'Yes',
       no: 'No',
-      commentLabel: 'What is missing or should be improved?',
-      commentPlaceholder: 'Example: unclear info, missing step, broken link...',
+      reasonLabel: 'What is the main issue?',
+      reasons: {
+        outdated: 'Outdated information',
+        incorrect: 'Incorrect information',
+        missing: 'Missing information',
+        unclear: 'Hard to understand',
+        'broken-link': 'Broken link',
+        other: 'Other'
+      },
+      commentLabel: 'Add details if useful',
+      commentPlaceholder: 'Example: affected step, expected information, broken link...',
       send: 'Send feedback',
       skip: 'Send without comment',
       thanks: 'Thanks for your feedback.',
-      saved: 'Thanks, your comment has been sent.'
+      saved: 'Thanks, your detailed feedback has been sent.'
     };
 
   function normalizePath() {
     return location.pathname.replace(/\/index(?:\.html)?$/i, '/').replace(/\.html$/i, '').replace(/\/$/, '') || '/';
   }
+
+  const reasonOptions = Object.entries(labels.reasons)
+    .map(([value, label], index) => `<label class="article-feedback-reason"><input type="radio" name="feedback-reason" value="${value}"${index === 0 ? ' checked' : ''}><span>${label}</span></label>`)
+    .join('');
 
   const widget = document.createElement('section');
   widget.className = 'article-feedback';
@@ -42,9 +64,13 @@
       </div>
     </div>
     <form class="article-feedback-comment" hidden>
-      <label>${labels.commentLabel}</label>
-      <textarea maxlength="700" rows="3" placeholder="${labels.commentPlaceholder}"></textarea>
-      <div>
+      <fieldset class="article-feedback-reasons">
+        <legend>${labels.reasonLabel}</legend>
+        <div>${reasonOptions}</div>
+      </fieldset>
+      <label for="article-feedback-comment-text">${labels.commentLabel}</label>
+      <textarea id="article-feedback-comment-text" maxlength="700" rows="3" placeholder="${labels.commentPlaceholder}"></textarea>
+      <div class="article-feedback-submit-actions">
         <button type="submit">${labels.send}</button>
         <button type="button" data-feedback-skip>${labels.skip}</button>
       </div>
@@ -69,17 +95,21 @@
     });
   }
 
-  async function submitFeedback(vote, comment = '') {
+  function selectedReason() {
+    return commentForm.querySelector('input[name="feedback-reason"]:checked')?.value || 'other';
+  }
+
+  async function submitFeedback(vote, comment = '', reason = '') {
     if (submitted) return;
     submitted = true;
     commentForm.hidden = true;
     message.hidden = false;
-    message.textContent = comment ? labels.saved : labels.thanks;
+    message.textContent = comment || reason ? labels.saved : labels.thanks;
     try {
       await fetch('/api/feedback', {
         method: 'POST',
         headers: { 'content-type': 'application/json' },
-        body: JSON.stringify({ path: normalizePath(), vote, comment, language }),
+        body: JSON.stringify({ path: normalizePath(), vote, comment, reason, language }),
         keepalive: true,
         credentials: 'same-origin'
       });
@@ -93,7 +123,6 @@
       lockButtons(button);
       if (selectedVote === 'no') {
         commentForm.hidden = false;
-        textarea.focus();
         return;
       }
       await submitFeedback('yes');
@@ -102,11 +131,11 @@
 
   commentForm.addEventListener('submit', async (event) => {
     event.preventDefault();
-    await submitFeedback(selectedVote || 'no', textarea.value.trim());
+    await submitFeedback(selectedVote || 'no', textarea.value.trim(), selectedReason());
   });
 
   widget.querySelector('[data-feedback-skip]')?.addEventListener('click', async () => {
-    await submitFeedback(selectedVote || 'no');
+    await submitFeedback(selectedVote || 'no', '', selectedReason());
   });
 })();
 
