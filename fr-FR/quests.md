@@ -1,7 +1,5 @@
 # 📜 Les quêtes
 
-***
-
 {% hint style="info" %}
 ## Système de quêtes en cours d’intégration
 
