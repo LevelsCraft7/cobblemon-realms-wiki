@@ -10,9 +10,9 @@
     updatedMonths: (value) => `Mis à jour il y a ${value} mois`,
     updatedYears: (value) => `Mis à jour il y a ${value} an${value > 1 ? 's' : ''}`,
     relatedTitle: 'Pages liées',
-    relatedIntro: 'Guides proches de ce sujet',
-    relatedCategory: 'Même catégorie',
-    relatedBadge: 'Sujet similaire',
+    relatedIntro: 'Guides réellement proches de ce sujet',
+    relatedTopic: 'Sujet commun',
+    relatedFamily: 'Même rubrique',
     previous: 'Précédent',
     next: 'Suivant',
     search: 'Recherche',
@@ -33,9 +33,9 @@
     updatedMonths: (value) => `Updated ${value} month${value > 1 ? 's' : ''} ago`,
     updatedYears: (value) => `Updated ${value} year${value > 1 ? 's' : ''} ago`,
     relatedTitle: 'Related pages',
-    relatedIntro: 'Guides close to this topic',
-    relatedCategory: 'Same category',
-    relatedBadge: 'Similar topic',
+    relatedIntro: 'Guides that are genuinely close to this topic',
+    relatedTopic: 'Shared topic',
+    relatedFamily: 'Same section',
     previous: 'Previous',
     next: 'Next',
     search: 'Search',
@@ -88,7 +88,8 @@
 
   function ruleMatches(rule, path) {
     try {
-      return new RegExp(rule.match).test(path) || new RegExp(rule.match).test(path.replace(/^\/fr-FR/i, ''));
+      const matcher = new RegExp(rule.match);
+      return matcher.test(path) || matcher.test(path.replace(/^\/fr-FR/i, ''));
     } catch {
       return false;
     }
@@ -99,7 +100,8 @@
     let result = {
       status: defaults.status || 'unknown',
       badges: [...(defaults.badges || [])],
-      filters: [...(defaults.filters || [])]
+      filters: [...(defaults.filters || [])],
+      topics: [...(defaults.topics || [])]
     };
 
     (config?.rules || []).forEach((rule) => {
@@ -107,7 +109,8 @@
       result = {
         status: rule.status || result.status,
         badges: unique(rule.badges || result.badges),
-        filters: unique(rule.filters || result.filters)
+        filters: unique(rule.filters || result.filters),
+        topics: unique(rule.topics || result.topics)
       };
     });
 
@@ -117,7 +120,8 @@
       result = {
         status: override.status || result.status,
         badges: unique(override.badges || result.badges),
-        filters: unique(override.filters || result.filters)
+        filters: unique(override.filters || result.filters),
+        topics: unique(override.topics || result.topics)
       };
     }
 
@@ -143,8 +147,7 @@
 
   function installFreshness(updates) {
     const article = document.querySelector('article');
-    if (!article || document.body.classList.contains('not-found-page')) return;
-    if (article.querySelector('.page-freshness')) return;
+    if (!article || document.body.classList.contains('not-found-page') || article.querySelector('.page-freshness')) return;
 
     const path = normalizePath();
     if (path === '/') return;
@@ -180,6 +183,7 @@
     notice.className = `page-status-notice is-${meta.status}`;
     notice.setAttribute('role', 'note');
     notice.innerHTML = `<span class="page-status-notice-icon" aria-hidden="true">${copy.icon}</span><div><strong>${escapeHtml(copy.title)}</strong><p>${escapeHtml(copy.text)}</p></div>`;
+
     const freshness = article.querySelector('.page-freshness');
     const badges = article.querySelector('.page-meta-badges');
     const heading = article.querySelector(':scope > h1');
@@ -188,8 +192,16 @@
     else heading?.insertAdjacentElement('afterend', notice);
   }
 
+  const tokenStopWords = new Set([
+    'the', 'and', 'for', 'with', 'from', 'guide', 'guides', 'page', 'pages',
+    'cobblemon', 'realms', 'pokemon', 'pokémon', 'about', 'system', 'your',
+    'les', 'des', 'pour', 'avec', 'dans', 'sur', 'une', 'un'
+  ]);
+
   function tokens(value = '') {
-    return normalizeText(value).split(' ').filter((token) => token.length >= 3);
+    return normalizeText(value)
+      .split(' ')
+      .filter((token) => token.length >= 3 && !tokenStopWords.has(token));
   }
 
   function parentPath(value = '') {
@@ -198,37 +210,49 @@
     return parts.length > 1 ? parts.slice(0, -1).join('/') : '';
   }
 
+  const genericRelatedTopics = new Set([
+    'overview',
+    'support',
+    'pokemon',
+    'pokemon-exclusive',
+    'custom-content',
+    'mod-guide',
+    'settings',
+    'configuration',
+    'multiplayer'
+  ]);
+
   function relatedScore(current, candidate, currentMeta, candidateMeta) {
+    const currentTopics = new Set(currentMeta.topics || []);
+    const sharedTopics = unique((candidateMeta.topics || []).filter((topic) => currentTopics.has(topic)));
+    const specificTopics = sharedTopics.filter((topic) => !genericRelatedTopics.has(topic));
+    const sameParent = Boolean(parentPath(current.path)) && parentPath(current.path) === parentPath(candidate.path);
+
+    const currentTitleTokens = new Set(tokens(current.title));
+    const sharedTitleTokens = unique(tokens(candidate.title).filter((token) => currentTitleTokens.has(token)));
+
+    const currentPathTokens = new Set(tokens(current.path));
+    const sharedPathTokens = unique(tokens(candidate.path).filter((token) => currentPathTokens.has(token)));
+
+    const strongMatch =
+      specificTopics.length > 0 ||
+      (sameParent && sharedTopics.length > 0) ||
+      (sameParent && sharedTitleTokens.length > 0);
+
+    if (!strongMatch) return { score: 0, sharedTopics: [], sameParent: false };
+
     let score = 0;
-    let categoryMatch = 0;
-    let badgeMatch = 0;
+    score += Math.min(48, specificTopics.length * 24);
+    score += Math.min(8, sharedTopics.length * 4);
+    if (sameParent) score += 12;
+    score += Math.min(18, sharedTitleTokens.length * 6);
+    score += Math.min(6, sharedPathTokens.length * 3);
 
     const currentFilters = new Set(currentMeta.filters || []);
-    for (const filter of candidateMeta.filters || []) {
-      if (currentFilters.has(filter)) {
-        score += 9;
-        categoryMatch += 1;
-      }
-    }
+    const sharedFilters = unique((candidateMeta.filters || []).filter((filter) => currentFilters.has(filter)));
+    score += Math.min(4, sharedFilters.length * 2);
 
-    const currentBadges = new Set(currentMeta.badges || []);
-    for (const badge of candidateMeta.badges || []) {
-      if (currentBadges.has(badge)) {
-        score += 6;
-        badgeMatch += 1;
-      }
-    }
-
-    if (parentPath(current.path) && parentPath(current.path) === parentPath(candidate.path)) score += 8;
-
-    const titleTokens = new Set(tokens(current.title));
-    for (const token of tokens(candidate.title)) if (titleTokens.has(token)) score += 5;
-
-    const pathTokens = new Set(tokens(current.path));
-    for (const token of tokens(candidate.path)) if (pathTokens.has(token)) score += 2;
-
-    if (currentMeta.status === candidateMeta.status) score += 1;
-    return { score, categoryMatch, badgeMatch };
+    return { score, sharedTopics, sameParent };
   }
 
   function installRelatedPages(metaConfig, pages) {
@@ -237,11 +261,15 @@
     const path = normalizePath();
     if (path === '/') return;
 
-    const realPages = unique((pages || []).filter((entry) => entry?.path && entry.language === language).map((entry) => normalizePath(entry.path)))
-      .map((pagePath) => pageByPath(pages, pagePath))
-      .filter(Boolean);
+    const pagePaths = unique(
+      (pages || [])
+        .filter((entry) => entry?.path && entry.language === language)
+        .map((entry) => normalizePath(entry.path))
+    );
+    const realPages = pagePaths.map((pagePath) => pageByPath(pages, pagePath)).filter(Boolean);
     const current = realPages.find((entry) => normalizePath(entry.path) === path);
     if (!current) return;
+
     current.path = normalizePath(current.path);
     const currentMeta = resolveMeta(metaConfig || {}, path);
 
@@ -251,9 +279,13 @@
         const entryPath = normalizePath(entry.path);
         const candidate = { ...entry, path: entryPath };
         const candidateMeta = resolveMeta(metaConfig || {}, entryPath);
-        return { ...candidate, href: entryPath, ...relatedScore(current, candidate, currentMeta, candidateMeta) };
+        return {
+          ...candidate,
+          href: entryPath,
+          ...relatedScore(current, candidate, currentMeta, candidateMeta)
+        };
       })
-      .filter((entry) => entry.score >= 6)
+      .filter((entry) => entry.score >= 18)
       .sort((left, right) => right.score - left.score || left.title.localeCompare(right.title, language))
       .slice(0, 4);
 
@@ -263,7 +295,7 @@
     section.className = 'related-pages';
     section.setAttribute('aria-label', labels.relatedTitle);
     section.innerHTML = `<div class="related-pages-head"><div><h2>${escapeHtml(labels.relatedTitle)}</h2><p>${escapeHtml(labels.relatedIntro)}</p></div></div><div class="related-pages-grid">${ranked.map((entry) => {
-      const reason = entry.categoryMatch ? labels.relatedCategory : labels.relatedBadge;
+      const reason = entry.sameParent ? labels.relatedFamily : labels.relatedTopic;
       return `<a class="related-page-card" href="${escapeHtml(entry.href)}"><strong>${escapeHtml(entry.title)}</strong><span>${escapeHtml(reason)}</span></a>`;
     }).join('')}</div>`;
 
@@ -298,30 +330,36 @@
 
   function pathSimilarity(target, entry) {
     const wanted = unique(tokens(target.replace(/^\/fr-FR/i, '')));
-    const entryPath = normalizePath(entry.href).replace(/^\/fr-FR/i, '');
+    const entryPath = normalizePath(entry.path || entry.href || '/').replace(/^\/fr-FR/i, '');
     const candidate = unique([...tokens(entryPath), ...tokens(entry.title)]);
     if (!wanted.length || !candidate.length) return 0;
+
     let score = 0;
     for (const token of wanted) {
       if (candidate.includes(token)) score += 6;
       else if (candidate.some((value) => value.includes(token) || token.includes(value))) score += 2;
     }
+
     const rawTarget = normalizeText(target);
     const rawEntry = normalizeText(`${entryPath} ${entry.title}`);
     if (rawEntry.includes(rawTarget) || rawTarget.includes(rawEntry)) score += 8;
     return score;
   }
 
-  function install404Suggestions(searchIndex) {
+  function install404Suggestions(pages) {
     if (!document.body.classList.contains('not-found-page')) return;
     const card = document.querySelector('.not-found-card');
     const fallback = document.querySelector('.not-found-links');
     if (!card || !fallback || card.querySelector('.not-found-suggestions')) return;
 
     const target = normalizePath(location.pathname);
-    const ranked = (searchIndex || [])
-      .filter((entry) => entry.language === language)
-      .map((entry) => ({ ...entry, href: normalizePath(entry.href), score: pathSimilarity(target, entry) }))
+    const ranked = (pages || [])
+      .filter((entry) => entry?.path && entry.language === language)
+      .map((entry) => ({
+        ...entry,
+        href: normalizePath(entry.path),
+        score: pathSimilarity(target, entry)
+      }))
       .filter((entry) => entry.score >= 4)
       .sort((left, right) => right.score - left.score || left.title.localeCompare(right.title, language))
       .slice(0, 4);
@@ -334,19 +372,26 @@
   }
 
   async function initialize() {
-    const [metaConfig, searchIndex, updates] = await Promise.all([
-      fetch('/page-meta.json', { cache: 'no-store' }).then((response) => response.ok ? response.json() : {}).catch(() => ({})),
-      fetch('/search-index.json', { cache: 'no-store' }).then((response) => response.ok ? response.json() : []).catch(() => []),
-      fetch('/page-updates.json', { cache: 'no-store' }).then((response) => response.ok ? response.json() : []).catch(() => [])
+    const [metaConfig, updates] = await Promise.all([
+      fetch('/page-meta.json', { cache: 'no-store' })
+        .then((response) => response.ok ? response.json() : {})
+        .catch(() => ({})),
+      fetch('/page-updates.json', { cache: 'no-store' })
+        .then((response) => response.ok ? response.json() : [])
+        .catch(() => [])
     ]);
 
-    installFreshness(Array.isArray(updates) ? updates : []);
+    const pages = Array.isArray(updates) ? updates : [];
+    installFreshness(pages);
     installStatusNotice(metaConfig);
-    installRelatedPages(metaConfig, Array.isArray(updates) ? updates : []);
-    install404Suggestions(Array.isArray(searchIndex) ? searchIndex : []);
+    installRelatedPages(metaConfig, pages);
+    install404Suggestions(pages);
     installMobileNav();
   }
 
-  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initialize, { once: true });
-  else initialize();
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initialize, { once: true });
+  } else {
+    initialize();
+  }
 })();
