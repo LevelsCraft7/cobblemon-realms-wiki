@@ -7,6 +7,31 @@ const out = path.join(root, 'dist');
 const siteOrigin = 'https://wiki.cobblemon-realms.com';
 const assetVersion = Date.now().toString(36);
 
+const searchSynonymGroups = [
+  ['installation', 'installer', 'install', 'setup', 'configuration'],
+  ['server', 'serveur', 'multiplayer', 'multijoueur', 'hosting', 'hebergement'],
+  ['pokemon', 'pokémon', 'creature', 'créature', 'mob'],
+  ['spawn', 'spawns', 'apparition', 'apparitions', 'encounter', 'rencontre'],
+  ['breeding', 'breed', 'reproduction', 'elevage', 'élevage', 'egg', 'eggs', 'oeuf', 'oeufs'],
+  ['evolution', 'évolution', 'evolve', 'evoluer', 'évoluer'],
+  ['craft', 'crafting', 'recipe', 'recipes', 'recette', 'recettes', 'fabrication'],
+  ['command', 'commands', 'commande', 'commandes'],
+  ['raid', 'raids', 'den', 'dens', 'antre', 'antres'],
+  ['storage', 'stockage', 'inventory', 'inventaire'],
+  ['season', 'seasons', 'saison', 'saisons'],
+  ['biome', 'biomes'],
+  ['trade', 'trading', 'exchange', 'echange', 'échange'],
+  ['quest', 'quests', 'quete', 'quêtes', 'mission'],
+  ['legendary', 'legendaire', 'légendaire', 'mythical', 'mythique'],
+  ['performance', 'optimize', 'optimisation', 'lag', 'fps'],
+  ['dimension', 'world', 'monde', 'realm'],
+  ['item', 'items', 'objet', 'objets'],
+  ['form', 'forms', 'forme', 'formes', 'appearance', 'apparence'],
+  ['starter', 'starters', 'depart', 'départ'],
+  ['version', 'versions', 'changelog', 'history', 'historique', 'update', 'mise a jour', 'mise à jour'],
+  ['bug', 'issue', 'report', 'signaler', 'probleme', 'problème', 'support']
+];
+
 function runGit(args) {
   return execFileSync('git', args, {
     cwd: root,
@@ -126,6 +151,47 @@ function extractTitle(html, fallback) {
   return decodeEntities(stripHtml(title || fallback));
 }
 
+function normalizeSearchText(value = '') {
+  return String(value)
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function enrichSearchIndex() {
+  const searchIndexPath = path.join(out, 'search-index.json');
+  if (!fs.existsSync(searchIndexPath)) return 0;
+
+  let entries;
+  try {
+    entries = JSON.parse(fs.readFileSync(searchIndexPath, 'utf8'));
+  } catch {
+    return 0;
+  }
+  if (!Array.isArray(entries)) return 0;
+
+  let enriched = 0;
+  for (const entry of entries) {
+    const haystack = normalizeSearchText(`${entry.title || ''} ${entry.text || ''}`);
+    const aliases = new Set();
+    for (const group of searchSynonymGroups) {
+      const normalized = group.map(normalizeSearchText).filter(Boolean);
+      if (!normalized.some((term) => haystack.includes(term))) continue;
+      normalized.forEach((term) => aliases.add(term));
+    }
+    if (!aliases.size) continue;
+    entry.aliases = [...aliases].join(' ');
+    entry.text = `${entry.text || ''} ${entry.aliases}`.trim();
+    enriched += 1;
+  }
+
+  fs.writeFileSync(searchIndexPath, JSON.stringify(entries));
+  return enriched;
+}
+
 function escapeXml(value) {
   return value.replace(/[<>&"']/g, (character) => ({
     '<': '&lt;',
@@ -149,6 +215,8 @@ const pageMetaSource = path.join(root, 'page-meta.json');
 if (fs.existsSync(pageMetaSource)) {
   fs.copyFileSync(pageMetaSource, path.join(out, 'page-meta.json'));
 }
+
+const enrichedSearchPages = enrichSearchIndex();
 
 for (const file of htmlFiles) {
   const relative = path.relative(out, file);
@@ -189,12 +257,14 @@ for (const file of htmlFiles) {
     `<link rel="stylesheet" href="/assets/page-meta-badges.css?v=${assetVersion}">`,
     `<link rel="stylesheet" href="/assets/section-links.css?v=${assetVersion}">`,
     `<link rel="stylesheet" href="/assets/wiki-feedback.css?v=${assetVersion}">`,
+    `<link rel="stylesheet" href="/assets/wiki-intelligence.css?v=${assetVersion}">`,
     `<script defer src="/assets/site-features.js?v=${assetVersion}"></script>`,
     `<script defer src="/assets/page-meta-badges.js?v=${assetVersion}"></script>`,
     `<script defer src="/assets/search-filter-polish.js?v=${assetVersion}"></script>`,
     `<script defer src="/assets/page-toc-collapse.js?v=${assetVersion}"></script>`,
     `<script defer src="/assets/section-links.js?v=${assetVersion}"></script>`,
-    `<script defer src="/assets/wiki-feedback.js?v=${assetVersion}"></script>`
+    `<script defer src="/assets/wiki-feedback.js?v=${assetVersion}"></script>`,
+    `<script defer src="/assets/wiki-intelligence.js?v=${assetVersion}"></script>`
   ].join('\n  ');
 
   html = html.replace('</head>', `  ${headAssets}\n</head>`);
@@ -225,16 +295,26 @@ fs.writeFileSync(path.join(out, 'build-info.json'), JSON.stringify({
     unavailable: unavailableDates
   },
   pages: pageUpdates.length,
+  searchSynonyms: {
+    groups: searchSynonymGroups.length,
+    enrichedPages: enrichedSearchPages
+  },
   features: [
     'article-pagination',
     'smart-search',
     'smart-search-categories',
+    'search-synonym-expansion',
     'polished-search-filters',
     'technical-badges',
     'custom-404',
+    'smart-404-suggestions',
     'version-history',
     'anonymous-analytics',
     'verified-git-page-dates',
+    'page-freshness',
+    'page-status-notices',
+    'related-pages',
+    'mobile-quick-nav',
     'hierarchical-breadcrumbs',
     'local-favorites',
     'recent-pages',
@@ -250,3 +330,4 @@ fs.writeFileSync(path.join(out, 'build-info.json'), JSON.stringify({
 
 console.log(`SEO and interface enhancements added to ${htmlFiles.length} pages for ${commitSha}.`);
 console.log(`Verified Git dates: ${datedPages}; unavailable dates: ${unavailableDates}; complete history: ${gitHistoryComplete}.`);
+console.log(`Search synonym expansion enriched ${enrichedSearchPages} pages across ${searchSynonymGroups.length} generic groups.`);
