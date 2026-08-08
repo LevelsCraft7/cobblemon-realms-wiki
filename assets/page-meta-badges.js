@@ -38,7 +38,8 @@
   function resolveMeta(config, path) {
     const defaults = config.defaults || {};
     let result = {
-      status: defaults.status || 'verified-v6',
+      status: defaults.status || 'unknown',
+      statusSource: 'default',
       badges: [...(defaults.badges || [])],
       filters: [...(defaults.filters || [])]
     };
@@ -47,6 +48,7 @@
       if (!ruleMatches(rule, path)) return;
       result = {
         status: rule.status || result.status,
+        statusSource: rule.status ? 'rule' : result.statusSource,
         badges: unique([...(rule.badges || result.badges)]),
         filters: unique([...(rule.filters || result.filters)])
       };
@@ -56,6 +58,7 @@
     if (override) {
       result = {
         status: override.status || result.status,
+        statusSource: override.status ? (override.source === 'd1' ? 'admin' : 'page') : result.statusSource,
         badges: unique(override.badges || result.badges),
         filters: unique(override.filters || result.filters)
       };
@@ -75,18 +78,25 @@
     if (path === '/') return;
 
     const meta = resolveMeta(config, path);
-    const statusLabel = labelFor(config, 'status', meta.status);
     const badgeHtml = unique(meta.badges || []).map((badge) => (
       `<span class="page-meta-pill is-${escapeHtml(badge)}">${escapeHtml(labelFor(config, 'badges', badge))}</span>`
     )).join('');
+    const showStatus = meta.status !== 'unknown'
+      && (meta.status !== 'verified-v6' || meta.statusSource === 'admin');
+    const statusHtml = showStatus
+      ? `<span class="page-meta-status is-${escapeHtml(meta.status)}">${escapeHtml(labelFor(config, 'status', meta.status))}</span>`
+      : '';
 
     document.querySelector('.technical-badges')?.remove();
     document.querySelector('.page-meta-badges')?.remove();
 
+    if (!statusHtml && !badgeHtml) return;
+
     const container = document.createElement('div');
     container.className = 'page-meta-badges';
     container.dataset.status = meta.status;
-    container.innerHTML = `<span class="page-meta-status is-${escapeHtml(meta.status)}">${escapeHtml(statusLabel)}</span>${badgeHtml}`;
+    container.dataset.statusSource = meta.statusSource;
+    container.innerHTML = `${statusHtml}${badgeHtml}`;
 
     const tools = article.querySelector('.article-tools');
     if (tools) tools.insertAdjacentElement('afterend', container);
