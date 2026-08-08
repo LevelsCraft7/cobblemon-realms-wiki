@@ -213,8 +213,9 @@ function renderCredits(language) {
       <small>${french ? 'Créateur de Cobblemon Realms' : 'Creator of Cobblemon Realms'}</small>
     </div>
     <div class="sidebar-credit-person">
+      <a class="sidebar-credit-link" href="https://raw.githubusercontent.com/LevelsFR/cobblemon-realms-wiki/refs/heads/main/imgwiki/Myth_Legends/sprites/fablekebab.jpg" target="_blank" rel="noopener noreferrer">
       <strong>FabLeKebab</strong>
-      <small>${french ? 'Gestion et contribution principale du wiki' : 'Wiki management and primary contributor'}</small>
+      <small>${french ? 'Administrateur et rédacteur du wiki' : 'Wiki Administrator & Writer'}</small>
     </div>
   </footer>`;
 }
