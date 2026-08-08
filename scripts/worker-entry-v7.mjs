@@ -6,7 +6,7 @@ function isAdminPage(url) {
 
 class AdminFrenchInjector {
   element(element) {
-    element.append('<script defer src="/assets/wiki-admin-fr-guard.js?v=admin-fr-1"></script><script defer src="/assets/wiki-admin-fr.js?v=admin-fr-2"></script>', { html: true });
+    element.append('<script defer src="/assets/wiki-admin-fr-guard.js?v=admin-fr-1"></script><script defer src="/assets/wiki-admin-fr.js?v=admin-fr-2"></script><script defer src="/assets/wiki-admin-fr-extra.js?v=admin-fr-1"></script>', { html: true });
   }
 }
 
