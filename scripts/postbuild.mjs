@@ -226,15 +226,18 @@ function extractAttributeValues(html, attribute) {
   return values;
 }
 
+function articleHtml(html) {
+  return html.match(/<article\b[^>]*>([\s\S]*?)<\/article>/i)?.[1] || '';
+}
+
 function pageWordCount(html) {
-  const article = html.match(/<article\b[^>]*>([\s\S]*?)<\/article>/i)?.[1] || '';
-  return stripHtml(article).split(/\s+/).filter(Boolean).length;
+  return stripHtml(articleHtml(html)).split(/\s+/).filter(Boolean).length;
 }
 
 function resolveInternalLink(href, sourcePath) {
   if (!href || href.startsWith('#') || /^(mailto:|tel:|javascript:|data:)/i.test(href)) return null;
   try {
-    const base = new URL(sourcePath === '/' ? '/' : `${sourcePath}/`, siteOrigin);
+    const base = new URL(sourcePath === '/' ? '/' : sourcePath, siteOrigin);
     const url = new URL(href, base);
     if (url.origin !== siteOrigin) return null;
     if (/^\/(assets|api|__cr-admin)(\/|$)/.test(url.pathname)) return null;
@@ -249,8 +252,8 @@ function isExternalHref(href) {
 }
 
 function buildAuditReport(pageRecords, pageMetaBase, commit) {
-  const pagePaths = new Set(pageRecords.map((page) => page.path));
-  const inbound = new Map(pageRecords.map((page) => [page.path, 0]));
+  const pagePaths = new Set(pageRecords.map((page) => normalizedPagePath(page.path)));
+  const inbound = new Map([...pagePaths].map((pagePath) => [pagePath, 0]));
   const brokenMap = new Map();
   const malformedExternal = [];
   const imageIssues = [];
@@ -259,6 +262,7 @@ function buildAuditReport(pageRecords, pageMetaBase, commit) {
   const titleGroups = new Map();
 
   for (const page of pageRecords) {
+    const currentPath = normalizedPagePath(page.path);
     const titleKey = `${page.language}:${normalizeSearchText(page.title)}`;
     const titleList = titleGroups.get(titleKey) || [];
     titleList.push(page.path);
@@ -270,7 +274,7 @@ function buildAuditReport(pageRecords, pageMetaBase, commit) {
 
     if (page.wordCount < 120) contentWarnings.push({ type: 'very-short', path: page.path, title: page.title, value: page.wordCount, severity: 'info' });
     if (page.h2Count === 0 && page.wordCount >= 120) contentWarnings.push({ type: 'no-sections', path: page.path, title: page.title, severity: 'info' });
-    if (page.internalLinks.length === 0 && page.path !== '/') contentWarnings.push({ type: 'no-internal-link', path: page.path, title: page.title, severity: 'info' });
+    if (page.internalLinks.length === 0 && currentPath !== '/') contentWarnings.push({ type: 'no-internal-link', path: page.path, title: page.title, severity: 'info' });
     if (!page.hasDescription) contentWarnings.push({ type: 'missing-description', path: page.path, title: page.title, severity: 'info' });
 
     for (const href of page.hrefs) {
@@ -279,7 +283,7 @@ function buildAuditReport(pageRecords, pageMetaBase, commit) {
         continue;
       }
       const destination = resolveInternalLink(href, page.path);
-      if (!destination || destination === page.path) continue;
+      if (!destination || destination === currentPath) continue;
       if (pagePaths.has(destination)) {
         inbound.set(destination, (inbound.get(destination) || 0) + 1);
         continue;
@@ -294,24 +298,36 @@ function buildAuditReport(pageRecords, pageMetaBase, commit) {
       if (/^(https?:|data:)/i.test(src)) continue;
       try {
         const pageDir = path.dirname(page.outputFile);
-        const target = src.startsWith('/') ? path.join(out, src.replace(/^\//, '')) : path.resolve(pageDir, src.split('#')[0].split('?')[0]);
+        const cleanSrc = src.split('#')[0].split('?')[0];
+        const target = cleanSrc.startsWith('/') ? path.join(out, cleanSrc.replace(/^\//, '')) : path.resolve(pageDir, cleanSrc);
         if (!fs.existsSync(target)) imageIssues.push({ source: page.path, image: src, severity: 'warning' });
       } catch {}
     }
   }
 
   const orphanPages = pageRecords
-    .filter((page) => page.path !== '/' && (inbound.get(page.path) || 0) === 0)
+    .filter((page) => normalizedPagePath(page.path) !== '/' && (inbound.get(normalizedPagePath(page.path)) || 0) === 0)
     .map((page) => ({ path: page.path, title: page.title, language: page.language, severity: 'warning' }));
 
   const duplicateTitles = [...titleGroups.entries()]
     .filter(([, paths]) => paths.length > 1)
     .map(([key, paths]) => ({ title: key.split(':').slice(1).join(':'), language: key.split(':')[0], paths, severity: 'warning' }));
 
-  const enPaths = new Set(pageRecords.filter((page) => page.language === 'en').map((page) => page.path));
-  const frPaths = new Set(pageRecords.filter((page) => page.language === 'fr').map((page) => page.path.replace(/^\/fr-FR/i, '') || '/'));
-  const missingFr = [...enPaths].filter((pagePath) => !frPaths.has(pagePath)).map((pagePath) => ({ path: pagePath, expected: pagePath === '/' ? '/fr-FR/' : `/fr-FR${pagePath}`, severity: 'warning' }));
-  const missingEn = [...frPaths].filter((pagePath) => !enPaths.has(pagePath)).map((pagePath) => ({ path: `/fr-FR${pagePath === '/' ? '/' : pagePath}`, expected: pagePath, severity: 'warning' }));
+  const enPaths = new Set(pageRecords
+    .filter((page) => page.language === 'en')
+    .map((page) => normalizedPagePath(page.path)));
+  const frPaths = new Set(pageRecords
+    .filter((page) => page.language === 'fr')
+    .map((page) => {
+      const normalized = normalizedPagePath(page.path);
+      return normalized.replace(/^\/fr-FR(?=\/|$)/i, '') || '/';
+    }));
+  const missingFr = [...enPaths]
+    .filter((pagePath) => !frPaths.has(pagePath))
+    .map((pagePath) => ({ path: pagePath, expected: pagePath === '/' ? '/fr-FR/' : `/fr-FR${pagePath}`, severity: 'warning' }));
+  const missingEn = [...frPaths]
+    .filter((pagePath) => !enPaths.has(pagePath))
+    .map((pagePath) => ({ path: pagePath === '/' ? '/fr-FR/' : `/fr-FR${pagePath}`, expected: pagePath, severity: 'warning' }));
 
   const markdownFiles = walk(root)
     .filter((file) => file.endsWith('.md'))
@@ -419,7 +435,9 @@ for (const file of htmlFiles) {
       updatedAt: updatedDate ? updatedDate.toISOString() : null
     });
 
+    const contentHtml = articleHtml(html);
     const hrefs = extractAttributeValues(html, 'href');
+    const articleHrefs = extractAttributeValues(contentHtml, 'href');
     auditPages.push({
       title: extractTitle(html, pagePath),
       path: pagePath,
@@ -428,11 +446,11 @@ for (const file of htmlFiles) {
       language,
       outputFile: file,
       wordCount: pageWordCount(html),
-      h2Count: (html.match(/<h2\b/gi) || []).length,
+      h2Count: (contentHtml.match(/<h2\b/gi) || []).length,
       hasDescription: /<meta\s+name=["']description["']\s+content=["'][^"']{20,}["']/i.test(html) || /<meta\s+content=["'][^"']{20,}["']\s+name=["']description["']/i.test(html),
       hrefs,
-      internalLinks: hrefs.map((href) => resolveInternalLink(href, pagePath)).filter(Boolean),
-      imageSources: extractAttributeValues(html, 'src')
+      internalLinks: articleHrefs.map((href) => resolveInternalLink(href, pagePath)).filter(Boolean),
+      imageSources: extractAttributeValues(contentHtml, 'src')
     });
   }
 
