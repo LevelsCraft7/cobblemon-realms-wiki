@@ -264,7 +264,8 @@ for (const file of htmlFiles) {
     `<script defer src="/assets/page-toc-collapse.js?v=${assetVersion}"></script>`,
     `<script defer src="/assets/section-links.js?v=${assetVersion}"></script>`,
     `<script defer src="/assets/wiki-feedback.js?v=${assetVersion}"></script>`,
-    `<script defer src="/assets/wiki-intelligence.js?v=${assetVersion}"></script>`
+    `<script defer src="/assets/wiki-intelligence.js?v=${assetVersion}"></script>`,
+    `<script defer src="/assets/wiki-search-telemetry.js?v=${assetVersion}"></script>`
   ].join('\n  ');
 
   html = html.replace('</head>', `  ${headAssets}\n</head>`);
@@ -304,6 +305,7 @@ fs.writeFileSync(path.join(out, 'build-info.json'), JSON.stringify({
     'smart-search',
     'smart-search-categories',
     'search-synonym-expansion',
+    'zero-result-search-terms',
     'polished-search-filters',
     'technical-badges',
     'custom-404',
