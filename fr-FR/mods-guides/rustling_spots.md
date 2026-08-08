@@ -17,7 +17,7 @@
 Lorsqu'un joueur explore le monde :
 
 1. Un Rustling Spot apparaît à proximité.
-2. Des particules et sons signalent sa présence.
+2. Des particules signalent sa présence.
 3. Le joueur s'en approche et interagit avec lui.
 4. Un événement est déclenché.
 5. Le spot disparaît automatiquement.
@@ -30,7 +30,7 @@ Lorsqu'un joueur explore le monde :
 * ✨ Spot shiny
 
 {% hint style="warning" %}
-Les Rustling Spots shiny sont extrêmement rares. Ils garantissent une récompense shiny et peuvent être annoncés à l'ensemble du serveur.
+Les Rustling Spots shiny sont extrêmement rares. Ils garantissent une récompense shiny lorsque le type de récompense le permet et peuvent être annoncés à l'ensemble du serveur.
 {% endhint %}
 
 ***
@@ -100,7 +100,8 @@ Les spots :
 * possèdent une durée de vie limitée ;
 * disparaissent après interaction ;
 * disparaissent lorsqu'aucun joueur n'est proche ;
-* respectent des limites globales afin d'éviter l'encombrement serveur.
+* respectent des limites globales afin d'éviter l'encombrement serveur ;
+* sont resynchronisés après une connexion, un respawn ou un changement de dimension.
 
 ***
 
@@ -124,9 +125,13 @@ Le mod dispose de plusieurs fichiers de configuration :
 | ----------------------------- | ---------------------------- |
 | `rustlingspots-server.json`   | Réglages globaux             |
 | `rustlingspots-pokemon.json`  | Rencontres Pokémon           |
-| `rustlingspots-client.json`   | Options visuelles            |
-| `rustlingspots-sound.json`    | Sons et volumes              |
+| `rustlingspots-client.json`   | Affichage et messages        |
+| `rustlingspots-sound.json`    | Sons de récompense et volume |
 | `rustlingspots-families.json` | Multiplicateurs des familles |
+
+{% hint style="info" %}
+Depuis la v4.3, les fichiers de configuration JSON invalides sont sauvegardés avec le suffixe <code>.invalid.bak</code> avant la restauration de valeurs par défaut valides.
+{% endhint %}
 
 ### 🌿 Multiplicateurs par défaut
 
@@ -182,8 +187,9 @@ Ces commandes sont principalement destinées aux administrateurs et au débogage
 #### 🗒️ Notes utiles
 
 * `spawn` accepte les familles natives et les spots personnalisés ;
-* `spawnshiny` force un spot shiny ;
-* `reload` recharge les configurations ;
+* `spawnshiny` force un spot shiny pour les tests ;
+* `reload` recharge les configurations, les règles de familles, les pools de loot, les pools Pokémon et les définitions de spots personnalisés ;
+* `stats` affiche les statistiques Rustling Spots ;
 * `scan` liste les spots actifs à proximité.
 
 ***
@@ -199,10 +205,16 @@ Il est possible d'ajouter :
 * des spots personnalisés ;
 * des familles personnalisées ;
 * des biomes spécifiques ;
+* des règles de blocs et de dimensions ;
 * des particules pondérées ;
 * des tables de loot dédiées ;
 * des règles de priorité ;
-* des systèmes de pondération.
+* des systèmes de pondération ;
+* un `visual_family` personnalisé utilisant l'un des styles visuels intégrés.
+
+{% hint style="info" %}
+Depuis la v4.3, les spots personnalisés peuvent utiliser <code>visual_family</code> avec <code>grass</code>, <code>sand</code>, <code>water</code>, <code>snow</code>, <code>leaves</code>, <code>cave</code>, <code>netherflamme</code>, <code>soulflame</code> ou <code>flying</code>. Si le champ est absent ou invalide, le fallback visuel historique <code>grass</code> est utilisé.
+{% endhint %}
 
 ### 📥 Guide & exemple
 
@@ -215,8 +227,8 @@ Il est possible d'ajouter :
 * ✅ Aucun changement de génération du monde
 * ✅ Compatible avec les sauvegardes existantes
 * ✅ Compatible multi-dimensions
-* ✅ Compatible avec les dimensions personnalisées
-* ✅ Compatible avec Cobblemon Raid Dens
+* ✅ Compatible avec les dimensions personnalisées via les règles de correspondance
+* ✅ Le support de la dimension Cobblemon Raid Dens peut être activé ou désactivé dans la configuration
 * ✅ Les spots personnalisés reposent uniquement sur des données configurables
 
 {% hint style="success" %}
