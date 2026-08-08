@@ -132,7 +132,11 @@ function replaceArticleDate(html, date, language) {
 }
 
 function stripHtml(value = '') {
-  return value.replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
+  return value.replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
 function decodeEntities(value = '') {
@@ -202,18 +206,192 @@ function escapeXml(value) {
   }[character]));
 }
 
+function normalizedPagePath(value) {
+  try {
+    const url = new URL(value, siteOrigin);
+    return url.pathname
+      .replace(/\/index(?:\.html)?$/i, '/')
+      .replace(/\.html$/i, '')
+      .replace(/\/$/, '') || '/';
+  } catch {
+    return '/';
+  }
+}
+
+function extractAttributeValues(html, attribute) {
+  const values = [];
+  const pattern = new RegExp(`${attribute}\\s*=\\s*["']([^"']+)["']`, 'gi');
+  let match;
+  while ((match = pattern.exec(html))) values.push(match[1]);
+  return values;
+}
+
+function pageWordCount(html) {
+  const article = html.match(/<article\b[^>]*>([\s\S]*?)<\/article>/i)?.[1] || '';
+  return stripHtml(article).split(/\s+/).filter(Boolean).length;
+}
+
+function resolveInternalLink(href, sourcePath) {
+  if (!href || href.startsWith('#') || /^(mailto:|tel:|javascript:|data:)/i.test(href)) return null;
+  try {
+    const base = new URL(sourcePath === '/' ? '/' : `${sourcePath}/`, siteOrigin);
+    const url = new URL(href, base);
+    if (url.origin !== siteOrigin) return null;
+    if (/^\/(assets|api|__cr-admin)(\/|$)/.test(url.pathname)) return null;
+    return normalizedPagePath(url.pathname);
+  } catch {
+    return null;
+  }
+}
+
+function isExternalHref(href) {
+  return /^https?:\/\//i.test(href || '');
+}
+
+function buildAuditReport(pageRecords, pageMetaBase, commit) {
+  const pagePaths = new Set(pageRecords.map((page) => page.path));
+  const inbound = new Map(pageRecords.map((page) => [page.path, 0]));
+  const brokenMap = new Map();
+  const malformedExternal = [];
+  const imageIssues = [];
+  const contentWarnings = [];
+  const sourceWarnings = [];
+  const titleGroups = new Map();
+
+  for (const page of pageRecords) {
+    const titleKey = `${page.language}:${normalizeSearchText(page.title)}`;
+    const titleList = titleGroups.get(titleKey) || [];
+    titleList.push(page.path);
+    titleGroups.set(titleKey, titleList);
+
+    if (!page.sourceExists) {
+      sourceWarnings.push({ type: 'generated-without-source', path: page.path, source: page.source || '', severity: 'critical' });
+    }
+
+    if (page.wordCount < 120) contentWarnings.push({ type: 'very-short', path: page.path, title: page.title, value: page.wordCount, severity: 'info' });
+    if (page.h2Count === 0 && page.wordCount >= 120) contentWarnings.push({ type: 'no-sections', path: page.path, title: page.title, severity: 'info' });
+    if (page.internalLinks.length === 0 && page.path !== '/') contentWarnings.push({ type: 'no-internal-link', path: page.path, title: page.title, severity: 'info' });
+    if (!page.hasDescription) contentWarnings.push({ type: 'missing-description', path: page.path, title: page.title, severity: 'info' });
+
+    for (const href of page.hrefs) {
+      if (isExternalHref(href)) {
+        try { new URL(href); } catch { malformedExternal.push({ source: page.path, href, severity: 'warning' }); }
+        continue;
+      }
+      const destination = resolveInternalLink(href, page.path);
+      if (!destination || destination === page.path) continue;
+      if (pagePaths.has(destination)) {
+        inbound.set(destination, (inbound.get(destination) || 0) + 1);
+        continue;
+      }
+      const item = brokenMap.get(destination) || { destination, sources: [], hits: 0, severity: 'critical' };
+      item.hits += 1;
+      if (!item.sources.includes(page.path)) item.sources.push(page.path);
+      brokenMap.set(destination, item);
+    }
+
+    for (const src of page.imageSources) {
+      if (/^(https?:|data:)/i.test(src)) continue;
+      try {
+        const pageDir = path.dirname(page.outputFile);
+        const target = src.startsWith('/') ? path.join(out, src.replace(/^\//, '')) : path.resolve(pageDir, src.split('#')[0].split('?')[0]);
+        if (!fs.existsSync(target)) imageIssues.push({ source: page.path, image: src, severity: 'warning' });
+      } catch {}
+    }
+  }
+
+  const orphanPages = pageRecords
+    .filter((page) => page.path !== '/' && (inbound.get(page.path) || 0) === 0)
+    .map((page) => ({ path: page.path, title: page.title, language: page.language, severity: 'warning' }));
+
+  const duplicateTitles = [...titleGroups.entries()]
+    .filter(([, paths]) => paths.length > 1)
+    .map(([key, paths]) => ({ title: key.split(':').slice(1).join(':'), language: key.split(':')[0], paths, severity: 'warning' }));
+
+  const enPaths = new Set(pageRecords.filter((page) => page.language === 'en').map((page) => page.path));
+  const frPaths = new Set(pageRecords.filter((page) => page.language === 'fr').map((page) => page.path.replace(/^\/fr-FR/i, '') || '/'));
+  const missingFr = [...enPaths].filter((pagePath) => !frPaths.has(pagePath)).map((pagePath) => ({ path: pagePath, expected: pagePath === '/' ? '/fr-FR/' : `/fr-FR${pagePath}`, severity: 'warning' }));
+  const missingEn = [...frPaths].filter((pagePath) => !enPaths.has(pagePath)).map((pagePath) => ({ path: `/fr-FR${pagePath === '/' ? '/' : pagePath}`, expected: pagePath, severity: 'warning' }));
+
+  const markdownFiles = walk(root)
+    .filter((file) => file.endsWith('.md'))
+    .filter((file) => {
+      const rel = path.relative(root, file).split(path.sep).join('/');
+      return !/^(dist|node_modules|\.git|\.github|assets|scripts)\//.test(rel);
+    })
+    .map((file) => path.relative(root, file).split(path.sep).join('/'));
+  const sourceSet = new Set(pageRecords.map((page) => page.source).filter(Boolean));
+  const markdownWithoutPage = markdownFiles
+    .filter((file) => !sourceSet.has(file))
+    .map((source) => ({ source, severity: 'info' }));
+
+  const knownStatuses = new Set(['verified-v6', 'needs-review', 'legacy-5', 'draft', 'unknown']);
+  const knownBadges = new Set(Object.keys(pageMetaBase?.labels?.en?.badges || {}));
+  const metaIssues = [];
+  if (pageMetaBase?.defaults?.status && !knownStatuses.has(pageMetaBase.defaults.status)) metaIssues.push({ type: 'invalid-default-status', value: pageMetaBase.defaults.status, severity: 'critical' });
+  for (const badge of pageMetaBase?.defaults?.badges || []) if (!knownBadges.has(badge)) metaIssues.push({ type: 'invalid-default-badge', value: badge, severity: 'warning' });
+  for (const [index, rule] of (pageMetaBase?.rules || []).entries()) {
+    try { new RegExp(rule.match); } catch { metaIssues.push({ type: 'invalid-rule-regex', value: String(rule.match || ''), rule: index, severity: 'critical' }); }
+    if (rule.status && !knownStatuses.has(rule.status)) metaIssues.push({ type: 'invalid-rule-status', value: rule.status, rule: index, severity: 'critical' });
+    for (const badge of rule.badges || []) if (!knownBadges.has(badge)) metaIssues.push({ type: 'invalid-rule-badge', value: badge, rule: index, severity: 'warning' });
+  }
+
+  const brokenLinks = [...brokenMap.values()].sort((a, b) => b.hits - a.hits || a.destination.localeCompare(b.destination));
+  const allIssues = [
+    ...brokenLinks,
+    ...imageIssues,
+    ...sourceWarnings,
+    ...malformedExternal,
+    ...orphanPages,
+    ...duplicateTitles,
+    ...missingFr,
+    ...missingEn,
+    ...contentWarnings,
+    ...markdownWithoutPage,
+    ...metaIssues
+  ];
+  const counts = {
+    critical: allIssues.filter((item) => item.severity === 'critical').length,
+    warning: allIssues.filter((item) => item.severity === 'warning').length,
+    info: allIssues.filter((item) => item.severity === 'info').length
+  };
+
+  return {
+    schemaVersion: 2,
+    generatedAt: new Date().toISOString(),
+    commit,
+    counts,
+    links: { broken: brokenLinks, malformedExternal, orphanPages },
+    translations: {
+      englishPages: enPaths.size,
+      frenchPages: pageRecords.filter((page) => page.language === 'fr').length,
+      missingFr,
+      missingEn,
+      coveragePercent: enPaths.size ? Math.round(((enPaths.size - missingFr.length) / enPaths.size) * 100) : 100
+    },
+    content: { warnings: contentWarnings },
+    sources: { generatedWithoutSource: sourceWarnings, markdownWithoutPage },
+    images: { missing: imageIssues },
+    metadata: { issues: metaIssues },
+    duplicateTitles
+  };
+}
+
 const gitHistoryComplete = ensureCompleteGitHistory();
 const commitSha = resolveCommitSha();
 const builtAt = new Date().toISOString();
 const htmlFiles = walk(out).filter((file) => file.endsWith('.html'));
 const sitemapEntries = [];
 const pageUpdates = [];
+const auditPages = [];
 let datedPages = 0;
 let unavailableDates = 0;
+let pageMetaBase = {};
 
 const pageMetaSource = path.join(root, 'page-meta.json');
 if (fs.existsSync(pageMetaSource)) {
   fs.copyFileSync(pageMetaSource, path.join(out, 'page-meta.json'));
+  try { pageMetaBase = JSON.parse(fs.readFileSync(pageMetaSource, 'utf8')); } catch { pageMetaBase = {}; }
 }
 
 const enrichedSearchPages = enrichSearchIndex();
@@ -239,6 +417,22 @@ for (const file of htmlFiles) {
       source: sourcePath,
       language,
       updatedAt: updatedDate ? updatedDate.toISOString() : null
+    });
+
+    const hrefs = extractAttributeValues(html, 'href');
+    auditPages.push({
+      title: extractTitle(html, pagePath),
+      path: pagePath,
+      source: sourcePath,
+      sourceExists: fs.existsSync(path.join(root, sourcePath)),
+      language,
+      outputFile: file,
+      wordCount: pageWordCount(html),
+      h2Count: (html.match(/<h2\b/gi) || []).length,
+      hasDescription: /<meta\s+name=["']description["']\s+content=["'][^"']{20,}["']/i.test(html) || /<meta\s+content=["'][^"']{20,}["']\s+name=["']description["']/i.test(html),
+      hrefs,
+      internalLinks: hrefs.map((href) => resolveInternalLink(href, pagePath)).filter(Boolean),
+      imageSources: extractAttributeValues(html, 'src')
     });
   }
 
@@ -281,12 +475,14 @@ for (const file of htmlFiles) {
 
 sitemapEntries.sort((a, b) => a.url.localeCompare(b.url));
 pageUpdates.sort((a, b) => String(b.updatedAt || '').localeCompare(String(a.updatedAt || '')) || a.path.localeCompare(b.path));
+const auditReport = buildAuditReport(auditPages, pageMetaBase, commitSha);
 
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapEntries.map((entry) => `  <url>\n    <loc>${escapeXml(entry.url)}</loc>${entry.lastmod ? `\n    <lastmod>${entry.lastmod}</lastmod>` : ''}\n  </url>`).join('\n')}\n</urlset>\n`;
 
 fs.writeFileSync(path.join(out, 'sitemap.xml'), sitemap);
 fs.writeFileSync(path.join(out, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${siteOrigin}/sitemap.xml\n`);
 fs.writeFileSync(path.join(out, 'page-updates.json'), JSON.stringify(pageUpdates, null, 2));
+fs.writeFileSync(path.join(out, 'wiki-audit.json'), JSON.stringify(auditReport, null, 2));
 fs.writeFileSync(path.join(out, 'build-info.json'), JSON.stringify({
   commit: commitSha,
   builtAt,
@@ -296,6 +492,7 @@ fs.writeFileSync(path.join(out, 'build-info.json'), JSON.stringify({
     unavailable: unavailableDates
   },
   pages: pageUpdates.length,
+  audit: auditReport.counts,
   searchSynonyms: {
     groups: searchSynonymGroups.length,
     enrichedPages: enrichedSearchPages
@@ -306,6 +503,7 @@ fs.writeFileSync(path.join(out, 'build-info.json'), JSON.stringify({
     'smart-search-categories',
     'search-synonym-expansion',
     'zero-result-search-terms',
+    'search-conversion-analytics',
     'polished-search-filters',
     'technical-badges',
     'custom-404',
@@ -326,6 +524,7 @@ fs.writeFileSync(path.join(out, 'build-info.json'), JSON.stringify({
     'section-link-copy',
     'article-feedback',
     'page-update-index',
+    'wiki-audit-v2',
     'admin-dashboard'
   ]
 }, null, 2));
@@ -333,3 +532,4 @@ fs.writeFileSync(path.join(out, 'build-info.json'), JSON.stringify({
 console.log(`SEO and interface enhancements added to ${htmlFiles.length} pages for ${commitSha}.`);
 console.log(`Verified Git dates: ${datedPages}; unavailable dates: ${unavailableDates}; complete history: ${gitHistoryComplete}.`);
 console.log(`Search synonym expansion enriched ${enrichedSearchPages} pages across ${searchSynonymGroups.length} generic groups.`);
+console.log(`Wiki audit: ${auditReport.counts.critical} critical, ${auditReport.counts.warning} warning, ${auditReport.counts.info} info.`);
