@@ -124,12 +124,6 @@
     return result;
   }
 
-  function statusLabel(config, status) {
-    return config?.labels?.[language]?.status?.[status]
-      || config?.labels?.en?.status?.[status]
-      || status;
-  }
-
   function friendlyAge(value) {
     if (!value) return labels.freshnessUnknown;
     const date = new Date(value);
@@ -147,18 +141,17 @@
     return (items || []).find((item) => normalizePath(item.path || item.href || '/') === target) || null;
   }
 
-  function installFreshness(metaConfig, updates) {
+  function installFreshness(updates) {
     const article = document.querySelector('article');
     if (!article || document.body.classList.contains('not-found-page')) return;
     if (article.querySelector('.page-freshness')) return;
 
     const path = normalizePath();
     if (path === '/') return;
-    const meta = resolveMeta(metaConfig || {}, path);
     const update = pageByPath(updates, path);
     const container = document.createElement('div');
-    container.className = `page-freshness is-${meta.status || 'unknown'}`;
-    container.innerHTML = `<span class="page-freshness-status">${escapeHtml(statusLabel(metaConfig || {}, meta.status || 'unknown'))}</span><span aria-hidden="true">•</span><span>${escapeHtml(friendlyAge(update?.updatedAt))}</span>`;
+    container.className = 'page-freshness';
+    container.innerHTML = `<span>${escapeHtml(friendlyAge(update?.updatedAt))}</span>`;
 
     const badges = article.querySelector('.page-meta-badges');
     const tools = article.querySelector('.article-tools');
@@ -342,7 +335,7 @@
       fetch('/page-updates.json', { cache: 'no-store' }).then((response) => response.ok ? response.json() : []).catch(() => [])
     ]);
 
-    installFreshness(metaConfig, Array.isArray(updates) ? updates : []);
+    installFreshness(Array.isArray(updates) ? updates : []);
     installStatusNotice(metaConfig);
     installRelatedPages(metaConfig, Array.isArray(searchIndex) ? searchIndex : []);
     install404Suggestions(Array.isArray(searchIndex) ? searchIndex : []);
